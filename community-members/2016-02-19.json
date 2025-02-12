@@ -1,0 +1,58 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U0N66HZU5",
+        "text": "<@U0N66HZU5> a rejoint le canal",
+        "type": "message",
+        "ts": "1455896321.000003"
+    },
+    {
+        "user": "U0AR01SPQ",
+        "type": "message",
+        "ts": "1455917296.000004",
+        "text": "<@U0MDFGWEP>: <@U0N66HZU5> soyez les bienvenus!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b34e84fd77bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-17\/18704226567_b34e84fd77bcdb81946f_72.jpg",
+            "first_name": "Murielle",
+            "real_name": "Murielle PALISSANDRE",
+            "display_name": "murielle",
+            "team": "T03FC4NDZ",
+            "name": "murielle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pGFQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0MDFGWEP"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0N66HZU5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " soyez les bienvenus!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

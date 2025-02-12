@@ -1,0 +1,75 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U0KL7A92S",
+        "text": "<@U0KL7A92S> a rejoint le canal",
+        "type": "message",
+        "ts": "1453993524.000002"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1454020958.000002",
+        "text": "Une demo publique de Nataliya CRC <@U03HY4P8V> \nOn sens que c'est encore du \"proto\" !\n<https:\/\/twitter.com\/axolotblog\/status\/655016138389123072>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/axolotblog|@axolotblog>: Deuxième essai de drone cérébral. J'ai raté le décollage, mais j'ai quand même failli réussir à blesser une personne <https:\/\/goo.gl\/YosukP>",
+                "ts": 1445002991,
+                "author_name": "Axolot",
+                "author_link": "https:\/\/twitter.com\/axolotblog\/status\/655016138389123072",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/553715117037080576\/HC76Kkce_normal.png",
+                "author_subname": "@axolotblog",
+                "text": "Deuxième essai de drone cérébral. J'ai raté le décollage, mais j'ai quand même failli réussir à blesser une personne <https:\/\/goo.gl\/YosukP>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/axolotblog\/status\/655016138389123072",
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FEash",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Une demo publique de Nataliya CRC "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HY4P8V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nOn sens que c'est encore du \"proto\" !\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/axolotblog\/status\/655016138389123072"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

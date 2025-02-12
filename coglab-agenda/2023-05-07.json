@@ -1,0 +1,76 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There are *3* events this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "Journées CORTICO 2023 - Jour 1: <!date^1683615600^{date_short_pretty} from {time}|May 9th, 2023 from 9:00 AM> to <!date^1683648000^{time}|6:00 PM GMT+0200>",
+                "text": "<!date^1683615600^{date_short_pretty} from {time}|May 9th, 2023 from 9:00 AM> to <!date^1683648000^{time}|6:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=ICM+Institute+for+Brain+and+Spinal+Cord%2C+H%C3%B4pital+Piti%C3%A9%2C+47+Bd+de+l%27H%C3%B4pital%2C+75013+Paris%2C+France|ICM Institute for Brain and Spinal Cord, Hôpital Pitié, 47 Bd de l'Hôpital, 75013 Paris, France>",
+                "title": "Journées CORTICO 2023 - Jour 1",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NzdnNWZocG44ajFpdDBlajRhNzNtYWQ2azIgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            },
+            {
+                "id": 2,
+                "color": "7bd148",
+                "fallback": "Journées CORTICO 2023 - Jour 2: <!date^1683702000^{date_short_pretty} from {time}|May 10th, 2023 from 9:00 AM> to <!date^1683734400^{time}|6:00 PM GMT+0200>",
+                "text": "<!date^1683702000^{date_short_pretty} from {time}|May 10th, 2023 from 9:00 AM> to <!date^1683734400^{time}|6:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=ICM+Institute+for+Brain+and+Spinal+Cord%2C+H%C3%B4pital+Piti%C3%A9%2C+47+Bd+de+l%27H%C3%B4pital%2C+75013+Paris%2C+France|ICM Institute for Brain and Spinal Cord, Hôpital Pitié, 47 Bd de l'Hôpital, 75013 Paris, France>",
+                "title": "Journées CORTICO 2023 - Jour 2",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NDUyZDlmN29hbDduZTl1ODlrbXNsczFoNGsgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            },
+            {
+                "id": 3,
+                "color": "7bd148",
+                "fallback": "AG CogLab 2023: <!date^1683981000^{date_short_pretty} from {time}|May 13th, 2023 from 2:30 PM> to <!date^1683991800^{time}|5:30 PM GMT+0200>",
+                "text": "<!date^1683981000^{date_short_pretty} from {time}|May 13th, 2023 from 2:30 PM> to <!date^1683991800^{time}|5:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Learning+Planet+Institute+%28ex+Centre+de+recherches+interdisciplinaires+%28CRI%29%29+-+INSERM+-+Universit%C3%A9+Paris+Cit%C3%A9%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France|Learning Planet Institute (ex Centre de recherches interdisciplinaires (CRI)) - INSERM - Université Paris Cité, 8 bis Rue Charles V, 75004 Paris, France>",
+                "title": "AG CogLab 2023",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NDlrZTZ0N3ZkNG5tZmtjZ2lmM2VxNXRyN2Ugc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1683525602.589589",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pPpmW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " events this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

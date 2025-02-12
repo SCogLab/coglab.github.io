@@ -1,0 +1,66 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1455272102.000002",
+        "text": "Hop, petit cadeau de NTX, de quoi compléter notre Hackpad listant les devices ! :wink:\n<https:\/\/github.com\/NeuroTechX\/awesome-bci>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "NeuroTechX\/awesome-bci",
+                "title_link": "https:\/\/github.com\/NeuroTechX\/awesome-bci",
+                "text": "awesome-bci - Curated Collection of BCI resources",
+                "fallback": "GitHub: NeuroTechX\/awesome-bci",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/13461990?v=3&s=400",
+                "from_url": "https:\/\/github.com\/NeuroTechX\/awesome-bci",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pBpp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hop, petit cadeau de NTX, de quoi compléter notre Hackpad listant les devices ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/NeuroTechX\/awesome-bci"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

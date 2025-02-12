@@ -1,0 +1,118 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1589185307.026500",
+        "client_msg_id": "5f7a75da-38ef-449e-b659-89beb3cb5272",
+        "text": "C’est proche de l’initiative Well Being <https:\/\/wellbeing.google\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1589101704.025100",
+        "parent_user_id": "ULSDVUUVA",
+        "attachments": [
+            {
+                "service_name": "Google Digital Wellbeing",
+                "title": "Digital Wellbeing through technology | Google",
+                "title_link": "https:\/\/wellbeing.google\/",
+                "text": "Google believes technology should play a helpful role in people’s lives, and we’re committed to helping everyone find a balance that feels right.",
+                "fallback": "Google Digital Wellbeing: Digital Wellbeing through technology | Google",
+                "image_url": "https:\/\/lh3.googleusercontent.com\/ZT44eNlIV0mLN6rnS2Ydjq8dARvpfB9h9fm1SL_656GlbFF59rqLC-5rI9Br5OoSz-i57FutkDIIMYAfaTiy0hYWZbyuPDwdWkPe-A",
+                "from_url": "https:\/\/wellbeing.google\/",
+                "image_width": 348,
+                "image_height": 250,
+                "image_bytes": 335510,
+                "service_icon": "https:\/\/wellbeing.google\/static\/images\/apple-touch-icon.png?cache=52a0c55",
+                "id": 1,
+                "original_url": "https:\/\/wellbeing.google\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rrcC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C’est proche de l’initiative Well Being "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/wellbeing.google\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1589212306.026900",
+        "client_msg_id": "deb9a1f9-e24a-40f0-96c8-cc46881b8e27",
+        "text": "<https:\/\/neuromatch.io\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "neuromatch 2.0",
+                "title_link": "https:\/\/neuromatch.io\/",
+                "text": "An unconference in Computational Neuroscience.",
+                "fallback": "neuromatch 2.0",
+                "image_url": "https:\/\/neuromatch.io\/neuromatch-og-img.png",
+                "from_url": "https:\/\/neuromatch.io\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 8787,
+                "service_icon": "https:\/\/neuromatch.io\/favicon.ico",
+                "service_name": "neuromatch.io",
+                "id": 1,
+                "original_url": "https:\/\/neuromatch.io\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4SYqT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/neuromatch.io\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

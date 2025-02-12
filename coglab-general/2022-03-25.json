@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U030N4TDS3G",
+        "type": "message",
+        "ts": "1648224639.706579",
+        "edited": {
+            "user": "U030N4TDS3G",
+            "ts": "1648224645.000000"
+        },
+        "client_msg_id": "68e214e3-19ab-4623-8fac-8fe9f4765b7b",
+        "text": "Ca marche merci :thumbsup:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "683dfd9e69a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-10\/8136710699895_683dfd9e69a03425b687_72.jpg",
+            "first_name": "Dimitri",
+            "real_name": "Dimitri Boïdo",
+            "display_name": "Dimitri B.",
+            "team": "T03FC4NDZ",
+            "name": "dimitri.boido",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1648151667.440189",
+        "parent_user_id": "U030N4TDS3G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WjBk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ca marche merci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thumbsup",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

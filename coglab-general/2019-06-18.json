@@ -1,0 +1,268 @@
+[
+    {
+        "subtype": "thread_broadcast",
+        "user": "U03FC5ZAK",
+        "thread_ts": "1560262600.005800",
+        "root": {
+            "subtype": "bot_message",
+            "text": "",
+            "attachments": [
+                {
+                    "fallback": "Open Slack to cast your vote in this Simple Poll",
+                    "title": "Êtes vous intéressé.e.s par une rencontre plus informelle entre les 2 prochaines dates de HackNight ?",
+                    "id": 1,
+                    "color": "6ecadc",
+                    "fields": [
+                        {
+                            "title": "",
+                            "value": ":one: Yes, carrément    `3`\n<@U59MQ46DA>, <@U0FB4KME0>, <@UK401J8BY>\n\n",
+                            "short": false
+                        },
+                        {
+                            "title": "",
+                            "value": ":two: Pas pour le moment\n\n\n",
+                            "short": false
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "fields"
+                    ]
+                },
+                {
+                    "callback_id": "5fe0018f-0929-480d-8f24-debef37ad88b",
+                    "fallback": "Open Slack to cast your vote in this Simple Poll",
+                    "id": 2,
+                    "color": "6ecadc",
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "vote",
+                            "text": ":one:",
+                            "type": "button",
+                            "value": "1",
+                            "style": ""
+                        },
+                        {
+                            "id": "2",
+                            "name": "vote",
+                            "text": ":two:",
+                            "type": "button",
+                            "value": "2",
+                            "style": ""
+                        },
+                        {
+                            "id": "3",
+                            "name": "delete-v2",
+                            "text": "Delete Poll",
+                            "type": "button",
+                            "value": "",
+                            "style": "danger",
+                            "confirm": {
+                                "text": "Are you sure you want to delete the Poll?",
+                                "title": "Delete Poll?",
+                                "ok_text": "Yes",
+                                "dismiss_text": "No"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "callback_id": "5fe0018f-0929-480d-8f24-debef37ad88b",
+                    "fallback": "Open Slack to cast your vote in this Simple Poll",
+                    "footer": "Simple Poll        <https:\/\/simplepoll.rocks\/dashboard\/scoglab\/settings\/|Edit Settings>",
+                    "id": 3,
+                    "footer_icon": "https:\/\/simplepoll.rocks\/static\/main\/favicon.png",
+                    "color": "6ecadc"
+                }
+            ],
+            "type": "message",
+            "ts": "1560262600.005800",
+            "bot_id": "B4TCCRD6Z",
+            "thread_ts": "1560262600.005800",
+            "reply_count": 2,
+            "reply_users_count": 1,
+            "latest_reply": "1560887675.005300",
+            "reply_users": [
+                "U03FC5ZAK"
+            ],
+            "replies": [
+                {
+                    "user": "U03FC5ZAK",
+                    "ts": "1560804325.004800"
+                },
+                {
+                    "user": "U03FC5ZAK",
+                    "ts": "1560887675.005300"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "type": "message",
+        "ts": "1560887675.005300",
+        "client_msg_id": "1af7e714-aaa4-4d9c-9382-993764e1edbb",
+        "text": "Désolé, en fait je ne serais pas disponible le 25 juin :confused:\n\n@here pour les intéressés, je vous propose (votez en réaction) :\n:one: le mercredi 26, à partir de 19h00, après la journée porte ouverte chez Open Mind Innovation\n<https:\/\/www.facebook.com\/events\/350351995624066\/>\n\n:two: Ou bien le mardi 2 juillet à partir de 18h30",
+        "attachments": [
+            {
+                "title": "Open Mind, open source, open doors (portes ouvertes)",
+                "title_link": "https:\/\/www.facebook.com\/events\/350351995624066\/",
+                "text": "Event in Paris, France by Open Mind Innovation on Wednesday, June 26 2019",
+                "fallback": "Open Mind, open source, open doors (portes ouvertes)",
+                "from_url": "https:\/\/www.facebook.com\/events\/350351995624066\/",
+                "thumb_url": "https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t1.0-1\/c37.0.126.126a\/255265_10149999016680033_2113097174_n.jpg?_nc_cat=1&_nc_ht=scontent-iad3-1.xx&oh=2ea8de57c2fdd0893c28ed00c0831f86&oe=5D7CAC00",
+                "thumb_width": 126,
+                "thumb_height": 126,
+                "service_icon": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/yz\/r\/KFyVIAWzntM.ico",
+                "service_name": "facebook.com",
+                "id": 1,
+                "original_url": "https:\/\/www.facebook.com\/events\/350351995624066\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mHnR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Désolé, en fait je ne serais pas disponible le 25 juin "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused",
+                                "unicode": "1f615"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n@here pour les intéressés, je vous propose (votez en réaction) :\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "one",
+                                "unicode": "0031-fe0f-20e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " le mercredi 26, à partir de 19h00, après la journée porte ouverte chez Open Mind Innovation\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.facebook.com\/events\/350351995624066\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two",
+                                "unicode": "0032-fe0f-20e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Ou bien le mardi 2 juillet à partir de 18h30"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "one",
+                "users": [
+                    "U03FC5ZAK",
+                    "U59MQ46DA"
+                ],
+                "count": 2
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1560887868.007900",
+        "client_msg_id": "55689f73-7e31-4c56-a01d-49971d3872a8",
+        "text": "Ça sera notre première soirée d'échange *OpenNight* :slightly_smiling_face:\n\n____________________________________\n*OpenNight, kesako* ?\nNous organisons des rencontres certains jeudi lors des soirées Open Paillasse à ... La Paillasse ou à d'autres moments en fonction des envies et disponibilités de chacun.\n\nUn moment de partage, de veille et prospective autour d'un thème d'actualité sélectionné quelques jours auparavant, ou sollicité par la communauté ou en fonction des personnes présentes.\n\nN'hésitez pas à consulter notre agenda et proposer des sujets dans <#C03UHNB2H|community-event>, sur les réseaux sociaux ou par email.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zu7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ça sera notre première soirée d'échange "
+                            },
+                            {
+                                "type": "text",
+                                "text": "OpenNight",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n____________________________________\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "OpenNight, kesako",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?\nNous organisons des rencontres certains jeudi lors des soirées Open Paillasse à ... La Paillasse ou à d'autres moments en fonction des envies et disponibilités de chacun.\n\nUn moment de partage, de veille et prospective autour d'un thème d'actualité sélectionné quelques jours auparavant, ou sollicité par la communauté ou en fonction des personnes présentes.\n\nN'hésitez pas à consulter notre agenda et proposer des sujets dans "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03UHNB2H"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", sur les réseaux sociaux ou par email."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

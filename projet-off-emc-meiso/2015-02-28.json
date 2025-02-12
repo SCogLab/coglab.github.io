@@ -1,0 +1,146 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U03FC5ZAK",
+        "text": "<@U03FC5ZAK> a rejoint le canal",
+        "type": "message",
+        "ts": "1425167240.000002"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC5ZAK",
+        "purpose": "Idées à proposer à Meïsõ :)",
+        "text": "a défini la description du canal : Idées à proposer à Meïsõ :)",
+        "type": "message",
+        "ts": "1425167240.000003"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FC4NE1",
+        "text": "<@U03FC4NE1> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1425167258.000004"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03JDJWSR",
+        "text": "<@U03JDJWSR> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1425167258.000005"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03HY4P8V",
+        "text": "<@U03HY4P8V> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1425167258.000006"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1425167326.000007",
+        "text": "Site web de la Startup (leur campagne de crowdunding s'est terminée tout juste aujourd'hui!)\nPour info, ils ont également fait une présentation du projet ce jeudi à l'Open Paillasse\n<http:\/\/www.meiso.fr\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "( meïsō )",
+                "title": "( meïsō ) – Le Centre de Flottaison",
+                "title_link": "http:\/\/www.meiso.fr\/",
+                "text": "Le premier centre de flottaison en isolation sensorielle ouvre bientôt ses portes à Paris. Réservez votre place en pré-vente à moitié prix !",
+                "fallback": "( meïsō ): ( meïsō ) – Le Centre de Flottaison",
+                "image_url": "http:\/\/www.meiso.fr\/wp-content\/uploads\/2014\/03\/ConceptCoconMeiso-e1402932790430.jpg",
+                "from_url": "http:\/\/www.meiso.fr\/",
+                "image_width": 500,
+                "image_height": 240,
+                "image_bytes": 14785,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M3j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Site web de la Startup (leur campagne de crowdunding s'est terminée tout juste aujourd'hui!)\nPour info, ils ont également fait une présentation du projet ce jeudi à l'Open Paillasse\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.meiso.fr\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1425167371.000009",
+        "text": "Mise en contact proposée par Léo : Olaf Blanke\n<http:\/\/www.lscp.net\/persons\/nfaivre\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "text": "Nathan Faivre",
+                "fallback": "Nathan Faivre",
+                "from_url": "http:\/\/www.lscp.net\/persons\/nfaivre\/",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fgb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mise en contact proposée par Léo : Olaf Blanke\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.lscp.net\/persons\/nfaivre\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

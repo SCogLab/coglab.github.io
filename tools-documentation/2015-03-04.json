@@ -1,0 +1,319 @@
+[
+    {
+        "user": "U03JDJWSR",
+        "type": "message",
+        "ts": "1425515864.000002",
+        "edited": {
+            "user": "U03JDJWSR",
+            "ts": "1425516040.000000"
+        },
+        "text": "Bonjour,\n     After, doing a bit of an effort since last three days - i have drawn following conclusions.\n\n       - We have two ways to unify all of the interaction of the COGLAB Team (both internally and externally).\n\n              1 - Enhance\/modify the existing website of the COGLAB by converting it into a portal (having podiums\/forums for the discussion and brainstorming), which will be used by both COGLAB Team members for the internal chit-chat and also by the audience to comment\/share their feedback over the on-going projects\/activities of COGLAB by signing up to the forum.\n              (What will it require) - An architectural re-design of the website and a ton of coding to enhance its operationability. Also, it can take upto several months for its completion.\n\n              2 - Using a Social Media Manager (a third-party application) - and after doing an extensive search on the web, I have found some of the effective tools which are as follows.\n\n<https:\/\/hootsuite.com> - HootSuite\n<https:\/\/bufferapp.com\/> - Buffer\n<http:\/\/www.alternion.com\/> - Alternion\n\n              One of the above application will be used to handle all the social media platforms (FB, Twitter, G+, LinkedIN, etc) integrated in all-together. In this scenario, Slack and trello will be used for the internal communication and an 'Social Media Manager' App will be used to highlight, showcase and shine-up the on-going activites of COGLAB.\nP.S. - Also the website will be handled separatly in the meantime as well.\n              (What will it require) - An active and autonomous handler of the 'Social Media Manager' App and that's it. This scenario won't demand any coding\/extra working and can be started from now-on. Alongside, it has alot to offer in terms of expanding and glorifying the appearance of the COGLAB in the social world.\n\n     Now, i let it on to you guys to decide which option suits us the best. As far as my opinion is concerned, i am up for any of them.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "geb22d6490de",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/beb22d6490deaf2df715016c6c7d1577.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Salman",
+            "real_name": "Salman NADEEM",
+            "display_name": "msn",
+            "team": "T03FC4NDZ",
+            "name": "msn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Home",
+                "title_link": "https:\/\/hootsuite.com",
+                "text": "Enhance your social media management with Hootsuite, the leading social media dashboard. Manage multiple networks and profiles and measure your campaign results.",
+                "fallback": "Home",
+                "from_url": "https:\/\/hootsuite.com",
+                "id": 1
+            },
+            {
+                "text": "Buffer makes it super easy to share any page you're reading. Keep your Buffer topped up and we automagically share them for you through the day.",
+                "fallback": "Buffer makes it super easy to share any page you're reading. Keep your Buffer topped up and we automagically share them for you through the day.",
+                "from_url": "https:\/\/bufferapp.com\/",
+                "id": 2
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=lcbI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour,\n     After, doing a bit of an effort since last three days - i have drawn following conclusions.\n\n       - We have two ways to unify all of the interaction of the COGLAB Team (both internally and externally).\n\n              1 - Enhance\/modify the existing website of the COGLAB by converting it into a portal (having podiums\/forums for the discussion and brainstorming), which will be used by both COGLAB Team members for the internal chit-chat and also by the audience to comment\/share their feedback over the on-going projects\/activities of COGLAB by signing up to the forum.\n              (What will it require) - An architectural re-design of the website and a ton of coding to enhance its operationability. Also, it can take upto several months for its completion.\n\n              2 - Using a Social Media Manager (a third-party application) - and after doing an extensive search on the web, I have found some of the effective tools which are as follows.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/hootsuite.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - HootSuite\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bufferapp.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Buffer\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.alternion.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Alternion\n\n              One of the above application will be used to handle all the social media platforms (FB, Twitter, G+, LinkedIN, etc) integrated in all-together. In this scenario, Slack and trello will be used for the internal communication and an 'Social Media Manager' App will be used to highlight, showcase and shine-up the on-going activites of COGLAB.\nP.S. - Also the website will be handled separatly in the meantime as well.\n              (What will it require) - An active and autonomous handler of the 'Social Media Manager' App and that's it. This scenario won't demand any coding\/extra working and can be started from now-on. Alongside, it has alot to offer in terms of expanding and glorifying the appearance of the COGLAB in the social world.\n\n     Now, i let it on to you guys to decide which option suits us the best. As far as my opinion is concerned, i am up for any of them."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1425516987.000005",
+        "text": "Salut Salman,\n\nThanks a lot for your research ! :simple_smile:\n\nI bring some detail to complete your analysis :\n\n- CogLab website is based on WordPress CMS.\nThey are many cool extension, like user registration\nWe can imagine, for example, a plugin based on this user base, to login on other tools (forum, wiki, ...)\n\n- Internally, we have already a Slack and Trello account.\n\n- Externaly, we must have a \n1) Wiki for documentation --&gt; <http:\/\/coglab.fr\/wiki\/> (based on open source mediawiki, but requiere an other registration). Mediawiki have many plugin too. Maybe a way to connect with WordPress\n2) Github for code --&gt; <https:\/\/github.com\/SCogLab> (it's ok, developper people have generally a GitHub account)\n3) Forum for project discussion --&gt; <http:\/\/vanillaforums.org\/> (Vanilla seems available for our PHP serveur, and it's an open source project). But, for now, I'm not again test it, and we must found a trick to connect with WordPress \/ MediaWiki\n\n- Social Media : I manage and connect all this tools (Facebook, Twitter, Google+, ...) on my way :wink:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Vanilla Forums",
+                "title": "Community Forum Software",
+                "title_link": "http:\/\/vanillaforums.org\/",
+                "text": "Vanilla is forum software that powers discussions on 797,431 sites. Built for flexibility and integration, Vanilla is the best, most powerful community solution in the world.",
+                "fallback": "Vanilla Forums: Community Forum Software",
+                "from_url": "http:\/\/vanillaforums.org\/",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tD6\/B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut Salman,\n\nThanks a lot for your research ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI bring some detail to complete your analysis :\n\n- CogLab website is based on WordPress CMS.\nThey are many cool extension, like user registration\nWe can imagine, for example, a plugin based on this user base, to login on other tools (forum, wiki, ...)\n\n- Internally, we have already a Slack and Trello account.\n\n- Externaly, we must have a \n1) Wiki for documentation --> "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/coglab.fr\/wiki\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (based on open source mediawiki, but requiere an other registration). Mediawiki have many plugin too. Maybe a way to connect with WordPress\n2) Github for code --> "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/SCogLab"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (it's ok, developper people have generally a GitHub account)\n3) Forum for project discussion --> "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/vanillaforums.org\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (Vanilla seems available for our PHP serveur, and it's an open source project). But, for now, I'm not again test it, and we must found a trick to connect with WordPress \/ MediaWiki\n\n- Social Media : I manage and connect all this tools (Facebook, Twitter, Google+, ...) on my way "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03JDJWSR",
+        "type": "message",
+        "ts": "1425518159.000007",
+        "edited": {
+            "user": "U03JDJWSR",
+            "ts": "1425519264.000000"
+        },
+        "text": "Thanks for your detailed response.\n\nSo, basically you are emphasizing on the first solution - having an unified gateway for all the networks\/forums via the main website. (by means of any plugin\/other appropriate way).\n\nI got your point now and will surely look into it with more detail.\n\nWill get back to you with more updates.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "geb22d6490de",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/beb22d6490deaf2df715016c6c7d1577.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Salman",
+            "real_name": "Salman NADEEM",
+            "display_name": "msn",
+            "team": "T03FC4NDZ",
+            "name": "msn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7lW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for your detailed response.\n\nSo, basically you are emphasizing on the first solution - having an unified gateway for all the networks\/forums via the main website. (by means of any plugin\/other appropriate way).\n\nI got your point now and will surely look into it with more detail.\n\nWill get back to you with more updates."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03JDJWSR",
+        "type": "message",
+        "ts": "1425524337.000009",
+        "edited": {
+            "user": "U03JDJWSR",
+            "ts": "1425524436.000000"
+        },
+        "text": "Romain, can you kindly give these plugins a look.\n\n- <https:\/\/wordpress.org\/plugins\/buddypress\/>\n- <https:\/\/wordpress.org\/plugins\/gigya-socialize-for-wordpress\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "geb22d6490de",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/beb22d6490deaf2df715016c6c7d1577.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Salman",
+            "real_name": "Salman NADEEM",
+            "display_name": "msn",
+            "team": "T03FC4NDZ",
+            "name": "msn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "WordPress.org",
+                "title": "BuddyPress",
+                "title_link": "https:\/\/wordpress.org\/plugins\/buddypress\/",
+                "text": "BuddyPress helps you run any kind of social network on your WordPress, with member profiles, activity streams, user groups, messaging, and more.",
+                "fallback": "WordPress.org: BuddyPress",
+                "from_url": "https:\/\/wordpress.org\/plugins\/buddypress\/",
+                "id": 1
+            },
+            {
+                "service_name": "WordPress.org",
+                "title": "Gigya - Social Infrastructure",
+                "title_link": "https:\/\/wordpress.org\/plugins\/gigya-socialize-for-wordpress\/",
+                "text": "Integrate your WordPress site with Gigya",
+                "fallback": "WordPress.org: Gigya - Social Infrastructure",
+                "from_url": "https:\/\/wordpress.org\/plugins\/gigya-socialize-for-wordpress\/",
+                "id": 2
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rf0LX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Romain, can you kindly give these plugins a look.\n\n- "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/wordpress.org\/plugins\/buddypress\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/wordpress.org\/plugins\/gigya-socialize-for-wordpress\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03JDJWSR",
+        "type": "message",
+        "ts": "1425524386.000011",
+        "text": "If used properly, as per our requirements, they can fulfill our current need.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "geb22d6490de",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/beb22d6490deaf2df715016c6c7d1577.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Salman",
+            "real_name": "Salman NADEEM",
+            "display_name": "msn",
+            "team": "T03FC4NDZ",
+            "name": "msn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6hMrL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If used properly, as per our requirements, they can fulfill our current need."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

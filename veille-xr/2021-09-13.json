@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1631551289.000600",
+        "client_msg_id": "2498908c-347e-4cfa-be35-0e7cde60d702",
+        "text": "Un bel appel à résidence pour séjourner quelques mois à Montreal <https:\/\/sat.qc.ca\/fr\/nouvelles\/appel-residence-rd>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Appel à projet en résidence R&amp;D | SAT",
+                "title_link": "https:\/\/sat.qc.ca\/fr\/nouvelles\/appel-residence-rd",
+                "text": "Le Metalab, le département de R&amp;D de la SAT est heureux d'annoncer cet appel à projet en résidence destiné aux artistes et créateur.trice.s.",
+                "fallback": "Appel à projet en résidence R&amp;D | SAT",
+                "image_url": "https:\/\/sat.qc.ca\/sites\/default\/files\/styles\/opengraph_facebook\/public\/metalab-620.jpg",
+                "from_url": "https:\/\/sat.qc.ca\/fr\/nouvelles\/appel-residence-rd",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 162371,
+                "service_icon": "https:\/\/sat.qc.ca\/sites\/default\/files\/sat_icon.png",
+                "service_name": "sat.qc.ca",
+                "id": 1,
+                "original_url": "https:\/\/sat.qc.ca\/fr\/nouvelles\/appel-residence-rd"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SLJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un bel appel à résidence pour séjourner quelques mois à Montreal "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sat.qc.ca\/fr\/nouvelles\/appel-residence-rd"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

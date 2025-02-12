@@ -1,0 +1,70 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1579178343.000200",
+        "client_msg_id": "72cf9289-85d5-41c0-b166-1c5a7441e1c7",
+        "text": "<https:\/\/github.com\/neurohackweek\/DataDrivenCognitiveOntology>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "neurohackweek\/DataDrivenCognitiveOntology",
+                "title": "neurohackweek\/DataDrivenCognitiveOntology",
+                "footer": "<https:\/\/github.com\/neurohackweek\/DataDrivenCognitiveOntology|neurohackweek\/DataDrivenCognitiveOntology>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1504728938,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "11",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "Jupyter Notebook",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "BA73T1BTJ",
+                "app_unfurl_url": "https:\/\/github.com\/neurohackweek\/DataDrivenCognitiveOntology",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ODm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/neurohackweek\/DataDrivenCognitiveOntology"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

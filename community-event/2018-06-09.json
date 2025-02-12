@@ -1,0 +1,28 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Neurotrucs - Rencontre chercheurs &amp; scénaristes: <!date^1528556400^{date_short_pretty} from {time}|June 9th, 2018 from 5:00 PM> to <!date^1528563600^{time}|7:00 PM GMT+0200>",
+                "text": "<!date^1528556400^{date_short_pretty} from {time}|June 9th, 2018 from 5:00 PM> to <!date^1528563600^{time}|7:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Le+NordMarais%2C+39+Rue+Notre+Dame+de+Nazareth%2C+75003+Paris%2C+France|Le NordMarais, 39 Rue Notre Dame de Nazareth, 75003 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "Neurotrucs - Rencontre chercheurs &amp; scénaristes",
+                "more": "RENCONTRE ENTRE CHERCHEURS &amp; SCENARISTES \n<https:\/\/fr.ulule.com\/neurotrucs\/news\/infos-et-evenements-a-venir-178096\/>\n\n\nDe plus, pour enrichir notre personnage féminin, Gina, étudiante en thèse de sciences cognitives, et représenter au mieux le métier d’un chercheur et son quotidien, nous organisons le samedi 9 juin de 17h à 19h au Nordmarais une rencontre entre des jeunes chercheurs et notre équipe\/nos scénaristes. Nous souhaitons que les chercheurs et étudiants-chercheurs nous parlent des particularités de leur métier, de leurs préoccupations, de leur quotidien, pour que la série les représente au mieux.\n\nPour plus d’infos sur cette rencontre et si vous êtes doctorant ou post-doctorant et que vous souhaitez y participer : <https:\/\/www.facebook.com\/events\/2076045022639439\/>",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NXRzdnBrZ2ltNHU2bTV2b2owZTBvbXRoaXMgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1528552800.000185",
+        "bot_id": "B4SJBP2L8"
+    }
+]

@@ -1,0 +1,95 @@
+[
+    {
+        "user": "U014STZS797",
+        "type": "message",
+        "ts": "1592080196.057800",
+        "client_msg_id": "EA79F4EA-6DD4-4F6D-906C-71C9AF1A0191",
+        "text": "<@U03FC5ZAK> merci à tous pour l’organisation! Et pour le point «  :bulb: »,  avec plaisir en mai 2021! :+1: ",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "6ea05047a3d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-28\/1150591839426_6ea05047a3d35fa73d56_72.png",
+            "first_name": "Lirola",
+            "real_name": "Lirola Rose-Marie",
+            "display_name": "Rose-Marie",
+            "team": "T03FC4NDZ",
+            "name": "rose-marie.lirola",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1592080196.057800",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1592423778.061800",
+        "reply_users": [
+            "U03FC5ZAK",
+            "U014STZS797"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1592211510.058000"
+            },
+            {
+                "user": "U014STZS797",
+                "ts": "1592396830.061500"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1592423778.061800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x0IF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " merci à tous pour l’organisation! Et pour le point «  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bulb",
+                                "unicode": "1f4a1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " »,  avec plaisir en mai 2021! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

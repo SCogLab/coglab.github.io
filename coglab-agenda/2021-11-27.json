@@ -1,0 +1,147 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "Maker Faire Paris 2021 - Stand CogLab: <!date^1638018000^{date_short_pretty} from {time}|November 27th, 2021 from 2:00 PM> to <!date^1638032400^{time}|6:00 PM GMT+0100>",
+                "text": "<!date^1638018000^{date_short_pretty} from {time}|November 27th, 2021 from 2:00 PM> to <!date^1638032400^{time}|6:00 PM GMT+0100> at <https:\/\/paris.makerfaire.com\/>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "Maker Faire Paris 2021 - Stand CogLab",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MzRxN2VxOWJkOGl1Y241ODFnMm0zdG04cGRfMjAyMTExMjdUMTMwMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1638014401.004800",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1638028379.005300",
+        "client_msg_id": "f79fe309-af5b-4dae-967b-5f4014efe64e",
+        "text": "Nous sommes présent à la <https:\/\/www.linkedin.com\/company\/5193890\/admin\/?share=true&amp;shareType=POST_EDIT#|Maker Faire France> ce weekend. L’événement est gratuit et intégralement en ligne <!here>\n\nPour nous rejoindre :\n1. Prenez un billet sur <https:\/\/paris.makerfaire.com\/>\n2. Cherchez nous dans la liste des “EXPOSANTS” &gt; section “Makers Exposants” et cherchez dans la liste ou indiquez ‘CogLab’ dans la recherche\n3. Rejoignez-nous dans une salle en direct ou à défaut vous pouvez réserver un créneaux de discussion\n\n<https:\/\/paris.makerfaire.com\/maker\/entry\/2690\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/paris.makerfaire.com\/",
+                "service_name": "Maker Faire Paris",
+                "title": "Maker Faire Paris 2021 -Édition digitale - Du 26 au 28 novembre 2021",
+                "title_link": "https:\/\/paris.makerfaire.com\/",
+                "text": "Maker Faire Paris 2021 – Édition digitale sera un événement 100% digital qui s’exprimera à travers une plateforme de diffusion en streaming dédiée, sur le site <http:\/\/Paris.makerfaire.com|Paris.makerfaire.com>, les 26, 27 et 28 novembre 2021.",
+                "thumb_url": "https:\/\/i0.wp.com\/paris.makerfaire.com\/wp-content\/uploads\/sites\/109\/2021\/06\/MakerFaire_POSTER_vdef-scaled.jpg?fit=1840%2C2560&ssl=1",
+                "thumb_width": 1840,
+                "thumb_height": 2560,
+                "fallback": "Maker Faire Paris: Maker Faire Paris 2021 -Édition digitale - Du 26 au 28 novembre 2021",
+                "service_icon": "https:\/\/paris.makerfaire.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/paris.makerfaire.com\/"
+            },
+            {
+                "from_url": "https:\/\/paris.makerfaire.com\/maker\/entry\/2690\/",
+                "title": "Maker Faire Paris",
+                "title_link": "https:\/\/paris.makerfaire.com\/maker\/entry\/2690\/",
+                "text": "Bienvenue dans le futur !",
+                "image_url": "https:\/\/i1.wp.com\/paris.makerfaire.com\/wp-content\/uploads\/sites\/109\/gravity_forms\/33-e85fc889b7a65306d14330b3d3dbfe9d\/2021\/07\/Maker_Faire_2019.png?fit=750%2C500&strip=all",
+                "image_width": 465,
+                "image_height": 250,
+                "image_bytes": 528800,
+                "fallback": "Maker Faire Paris",
+                "service_icon": "https:\/\/paris.makerfaire.com\/apple-touch-icon.png",
+                "service_name": "paris.makerfaire.com",
+                "id": 2,
+                "original_url": "https:\/\/paris.makerfaire.com\/maker\/entry\/2690\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rGci",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nous sommes présent à la "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/company\/5193890\/admin\/?share=true&shareType=POST_EDIT#",
+                                "text": "Maker Faire France"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ce weekend. L’événement est gratuit et intégralement en ligne "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nPour nous rejoindre :\n1. Prenez un billet sur "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/paris.makerfaire.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n2. Cherchez nous dans la liste des “EXPOSANTS” > section “Makers Exposants” et cherchez dans la liste ou indiquez ‘CogLab’ dans la recherche\n3. Rejoignez-nous dans une salle en direct ou à défaut vous pouvez réserver un créneaux de discussion\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/paris.makerfaire.com\/maker\/entry\/2690\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CogLab HackNight #217 - Focus projet: <!date^1638383400^{date_short_pretty} from {time}|December 1st, 2021 from 7:30 PM> to <!date^1638394200^{time}|10:30 PM GMT+0100>",
+                "text": "<!date^1638383400^{date_short_pretty} from {time}|December 1st, 2021 from 7:30 PM> to <!date^1638394200^{time}|10:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Cri%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France%2C+Charles+V-0-MakerLab+Classroom+%2830%29|Cri, 8 bis Rue Charles V, 75004 Paris, France, Charles V-0-MakerLab Classroom (30)>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab HackNight #217 - Focus projet",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MjQ4dDE2NzM3aWpwNGMwYjR0dWc0Z2d1bnBfMjAyMTExMjlUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1638033858.005500",
+        "bot_id": "B4SJBP2L8"
+    }
+]

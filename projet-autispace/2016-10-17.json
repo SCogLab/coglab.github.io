@@ -1,0 +1,71 @@
+[
+    {
+        "user": "U0AR01SPQ",
+        "type": "message",
+        "ts": "1476765248.000002",
+        "text": "petite vidéo sympathique sur le syndrome d'Asperger: <https:\/\/www.youtube.com\/watch?v=4ZEY6Tgylkc> Il y a des moments fun. Encore un projet avec un bon rendu pour des sans budgets. \nLe son à 2'52 façon temps qui s'accélère est pas mal, on pourrait en ajouter un dans ce style aussi <@U0Z7LQQS2>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b34e84fd77bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-17\/18704226567_b34e84fd77bcdb81946f_72.jpg",
+            "first_name": "Murielle",
+            "real_name": "Murielle PALISSANDRE",
+            "display_name": "murielle",
+            "team": "T03FC4NDZ",
+            "name": "murielle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Bref, je suis Aspie version longue",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=4ZEY6Tgylkc",
+                "author_name": "Théodore Martin",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCSOnO8NX7Ld0_iiEo-GN3tg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/4ZEY6Tgylkc\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Bref, je suis Aspie version longue",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/4ZEY6Tgylkc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=4ZEY6Tgylkc",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aDM5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "petite vidéo sympathique sur le syndrome d'Asperger: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=4ZEY6Tgylkc"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Il y a des moments fun. Encore un projet avec un bon rendu pour des sans budgets. \nLe son à 2'52 façon temps qui s'accélère est pas mal, on pourrait en ajouter un dans ce style aussi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0Z7LQQS2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

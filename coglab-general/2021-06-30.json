@@ -1,0 +1,108 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1625115144.020700",
+        "edited": {
+            "user": "U03FC5ZAK",
+            "ts": "1625115349.000000"
+        },
+        "client_msg_id": "e054c685-8777-4649-91d5-96f75a2a8a5a",
+        "text": ":tada:  Bonjour à toutes et tous <!channel> \n\nLundi nous organisons notre 200ème soirée <#C0R6W4X2Q|coglab-hacknight> \n\nPour l'occasion, nous renouvelons une soirée pique-nique à Paris, avant une petite pause estivale :tropical_drink:\n\nNous pourrons à priori reprendre nos rencontres en présentiel (voir un format hybride), avec les gestes barrières dès le 2 août.\n\nLes détails sont sur notre page Meetup <https:\/\/meetu.ps\/e\/K9yTn\/9KkZF\/d|https:\/\/meetu.ps\/e\/K9yTn\/9KkZF\/d>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "HackNight CogLab #200 :tada:",
+                "title_link": "https:\/\/meetu.ps\/e\/K9yTn\/9KkZF\/d",
+                "text": "Mon, Jul 5, 2021, 6:45 PM: #Programme de la soiréeLe 5 juillet, l'association CogLab, NeuroTechX Paris fêtera sa 200ème soirée HackNight :partying_face:Pour l'occasion, nous renouvellons une soirée pique-nique à P",
+                "fallback": "Meetup: HackNight CogLab #200 🎉",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/5\/e\/e\/b\/600_496884299.jpeg",
+                "fields": [
+                    {
+                        "title": "Where",
+                        "value": "Cinémathèque Française 51 Rue de Bercy Paris",
+                        "short": true
+                    },
+                    {
+                        "title": "When",
+                        "value": "Mon, Jul 5, 2021, 6:45 PM",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/meetu.ps\/e\/K9yTn\/9KkZF\/d",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 60008,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/en-US\/m_swarm_120x120.4f86abc9.png",
+                "id": 1,
+                "original_url": "https:\/\/meetu.ps\/e\/K9yTn\/9KkZF\/d"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7co9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  Bonjour à toutes et tous "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nLundi nous organisons notre 200ème soirée "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0R6W4X2Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nPour l'occasion, nous renouvelons une soirée pique-nique à Paris, avant une petite pause estivale "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tropical_drink",
+                                "unicode": "1f379"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nNous pourrons à priori reprendre nos rencontres en présentiel (voir un format hybride), avec les gestes barrières dès le 2 août.\n\nLes détails sont sur notre page Meetup "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meetu.ps\/e\/K9yTn\/9KkZF\/d",
+                                "text": "https:\/\/meetu.ps\/e\/K9yTn\/9KkZF\/d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

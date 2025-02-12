@@ -1,0 +1,89 @@
+[
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1453930056.000002",
+        "text": "yes complicated matter",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "itXU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes complicated matter"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1453930441.000003",
+        "text": "Hey <@U0ASA4V24> !\nOn as complètement zappé de parler de NeuroTechX Paris à l'AG Fresco :confused:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "16Gl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0ASA4V24"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !\nOn as complètement zappé de parler de NeuroTechX Paris à l'AG Fresco "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused",
+                                "unicode": "1f615"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

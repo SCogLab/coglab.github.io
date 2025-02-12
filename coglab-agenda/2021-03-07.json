@@ -1,0 +1,88 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There are *4* events this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #184 [Online EN]: <!date^1615224600^{date_short_pretty} from {time}|March 8th, 2021 from 6:30 PM> to <!date^1615230000^{time}|8:00 PM GMT+0100>",
+                "text": "<!date^1615224600^{date_short_pretty} from {time}|March 8th, 2021 from 6:30 PM> to <!date^1615230000^{time}|8:00 PM GMT+0100> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "title": "CogLab HackNight #184 [Online EN]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NWxhdXZxb25nNzhtb2F1Y25ubzFpNzJnNGEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "CogLab HackNight #184 [Online FR]: <!date^1615233600^{date_short_pretty} from {time}|March 8th, 2021 from 9:00 PM> to <!date^1615239000^{time}|10:30 PM GMT+0100>",
+                "text": "<!date^1615233600^{date_short_pretty} from {time}|March 8th, 2021 from 9:00 PM> to <!date^1615239000^{time}|10:30 PM GMT+0100> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "title": "CogLab HackNight #184 [Online FR]",
+                "id": 2,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=M2d1ZW1scWZsNDVhdmhoZXZ0aDJrZWs4M2Mgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "CJC-SC: <!date^1615636800^{date_short_pretty} from {time}|March 13th, 2021 from 1:00 PM> to <!date^1615658400^{time}|7:00 PM GMT+0100>",
+                "text": "<!date^1615636800^{date_short_pretty} from {time}|March 13th, 2021 from 1:00 PM> to <!date^1615658400^{time}|7:00 PM GMT+0100>",
+                "title": "CJC-SC",
+                "id": 3,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Mzkwbzc5dGphNGs5YjhpazJuOGh2aHV0NDIgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "CJC-SC: <!date^1615723200^{date_short_pretty} from {time}|March 14th, 2021 from 1:00 PM> to <!date^1615744800^{time}|7:00 PM GMT+0100>",
+                "text": "<!date^1615723200^{date_short_pretty} from {time}|March 14th, 2021 from 1:00 PM> to <!date^1615744800^{time}|7:00 PM GMT+0100>",
+                "title": "CJC-SC",
+                "id": 4,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NWF0Z3I0M2o4OGhiYXV0Y21laWtjdjJjZm8gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1615186804.000100",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MzQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "4",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " events this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CA CogLab 2021.1: <!date^1611334800^{date_short_pretty} from {time}|January 22nd, 2021 from 6:00 PM> to <!date^1611338400^{time}|7:00 PM GMT+0100>",
+                "text": "<!date^1611334800^{date_short_pretty} from {time}|January 22nd, 2021 from 6:00 PM> to <!date^1611338400^{time}|7:00 PM GMT+0100>",
+                "pretext": "Calendar event updated",
+                "title": "CA CogLab 2021.1",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NGRqYmliMWo4cGFjZnI1OW5sNmVyYzcwdmQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1611252186.000100",
+        "bot_id": "B4SJBP2L8"
+    }
+]

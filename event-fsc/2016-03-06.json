@@ -1,0 +1,159 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U03FC5ZAK",
+        "text": "<@U03FC5ZAK> a rejoint le canal",
+        "type": "message",
+        "ts": "1457281241.000002"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC5ZAK",
+        "purpose": "Organisation du stand CogLab pour le Forum des Sciences Cognitives de Paris le 9 avril au Centre Universitaire des Saints-Pères. Documentation : https:\/\/coglab.hackpad.com\/FSC-2016-T4tLuXcefBg",
+        "text": "a défini la description du canal : Organisation du stand CogLab pour le Forum des Sciences Cognitives de Paris le 9 avril au Centre Universitaire des Saints-Pères. Documentation : https:\/\/coglab.hackpad.com\/FSC-2016-T4tLuXcefBg",
+        "type": "message",
+        "ts": "1457281242.000003"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FEH3N8",
+        "text": "<@U03FEH3N8> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1457281242.000004"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U07CLARN1",
+        "text": "<@U07CLARN1> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1457281242.000005"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U07CFCCBG",
+        "text": "<@U07CFCCBG> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1457281242.000006"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FC4NE1",
+        "text": "<@U03FC4NE1> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1457281242.000007"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0AR01SPQ",
+        "text": "<@U0AR01SPQ> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1457281242.000008"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0ASA4V24",
+        "text": "<@U0ASA4V24> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1457281242.000009"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1457285869.000010",
+        "text": "Hello <@U07CFCCBG> <@U0AR01SPQ> cc <@U03FEH3N8> \n\nJe viens de me rendre compte qu'il nous reste seulement 2 jours pour répondre au formulaire concernant la logistique du FSC\n\nJ'ai donc repris toutes les demandes et pré-compléter sur ce hackpad : \n<https:\/\/coglab.hackpad.com\/FSC-2016-T4tLuXcefBg>\n\n<@U0DK05RS5>: est-ce que NTX aurais des Flyers ou autres goodies \/ poster que l'on pourrais afficher ?!\n\n<@U07CLARN1>: j'imagine que tu as déjà un stand avec Estigma, mais on peux évoquer le CogLab Lyon\n\nMerci !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Piqv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07CFCCBG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0AR01SPQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nJe viens de me rendre compte qu'il nous reste seulement 2 jours pour répondre au formulaire concernant la logistique du FSC\n\nJ'ai donc repris toutes les demandes et pré-compléter sur ce hackpad : \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.hackpad.com\/FSC-2016-T4tLuXcefBg"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0DK05RS5"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": est-ce que NTX aurais des Flyers ou autres goodies \/ poster que l'on pourrais afficher ?!\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07CLARN1"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": j'imagine que tu as déjà un stand avec Estigma, mais on peux évoquer le CogLab Lyon\n\nMerci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0AR01SPQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card Lettre de recommandation Maxime added to list A FAIRE (CogLab) on board Gestion CogLab (administrateur).",
+                "text": "In list *A FAIRE (CogLab)* on *<https:\/\/trello.com\/b\/jSnI3dXM|Gestion CogLab (administrateur)>*.",
+                "pretext": "New card created",
+                "title": "Lettre de recommandation Maxime",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/BGLCEDle",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1583783527.000100",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card Fondation Orange \/ Autispace added to list Trésorerie &amp; Appels à Projet on board Gestion CogLab (administrateur).",
+                "text": "In list *Trésorerie &amp; Appels à Projet* on *<https:\/\/trello.com\/b\/jSnI3dXM|Gestion CogLab (administrateur)>*.",
+                "pretext": "New card created",
+                "title": "Fondation Orange \/ Autispace",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/NZEiypbr",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1583786358.000200",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "Romain ROUYER attached dossier_de_candidaturedv_2020_autcocs1-2020.docx to card Fondation Orange \/ Autispace.",
+                "text": "Attached *<https:\/\/trello-attachments.s3.amazonaws.com\/54600179bf0163b52abc2ebc\/5e66a9756293c75f4737b77a\/b486b443c224b1e27e515bed2f77384d\/dossier_de_candidaturedv_2020_autcocs1-2020.docx|dossier_de_candidaturedv_2020_autcocs1-2020.docx>* to *<https:\/\/trello.com\/c\/NZEiypbr|Fondation Orange \/ Autispace>*.",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1583786405.000300",
+        "bot_id": "B66HQV43C"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1583142082.000400",
+        "client_msg_id": "575e1e44-4f7e-4d0e-9bc8-e07a44dd3996",
+        "text": "Really cool !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1582565877.001300",
+        "parent_user_id": "U6EPG5PTQ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cmF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Really cool !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1583153264.005700",
+        "client_msg_id": "a5686e4b-8b9d-4222-b5af-d2d65d14e5e6",
+        "text": "Petit rappel, ce soir c'est <@U59MQ46DA> qui assurera la permanence de la <#C0R6W4X2Q|coglab-hacknight> au CRI\n\nJ'en profite pour glisser un exemple d'activité.\nJe suis tombé sur une liste de méthode ou procédé scientifique assez complète et bien connue par les neuroscientifique.\n\nUn exercice collectif qui pourrait être réalisé lors d'une HackNight consisterait à rendre cette liste de terme technique compréhensible par le commun des mortel\n\nVoici la liste en question :\nElectroencephalography (EEG),\nMagnetoencephalography (MEG),\nFunctional magnetic resonance imaging (fMRI),\nMagnetic resonance imaging (MRI),\nNear-infrared spectroscopy (NIRS),\nTranscranial photobiomodulation (tPBM, NIR),\nTranscranial magnetic stimulation (TMS),\nRepetitive transcranial magnetic stimulation (rTMS),\nTargeted pulsed electromagnetic field (tPEMF, low intensity rTMS),\nTranscranial alternating current stimulation (tACS),\nTranscranial direct current stimulation (tDCS),\nPositron emission tomography (PET),\nOptical coherence tomography (OCT),\nTranscranial focused ultrasound (tFUS)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Qyu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Petit rappel, ce soir c'est "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " qui assurera la permanence de la "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0R6W4X2Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " au CRI\n\nJ'en profite pour glisser un exemple d'activité.\nJe suis tombé sur une liste de méthode ou procédé scientifique assez complète et bien connue par les neuroscientifique.\n\nUn exercice collectif qui pourrait être réalisé lors d'une HackNight consisterait à rendre cette liste de terme technique compréhensible par le commun des mortel\n\nVoici la liste en question :\nElectroencephalography (EEG),\nMagnetoencephalography (MEG),\nFunctional magnetic resonance imaging (fMRI),\nMagnetic resonance imaging (MRI),\nNear-infrared spectroscopy (NIRS),\nTranscranial photobiomodulation (tPBM, NIR),\nTranscranial magnetic stimulation (TMS),\nRepetitive transcranial magnetic stimulation (rTMS),\nTargeted pulsed electromagnetic field (tPEMF, low intensity rTMS),\nTranscranial alternating current stimulation (tACS),\nTranscranial direct current stimulation (tDCS),\nPositron emission tomography (PET),\nOptical coherence tomography (OCT),\nTranscranial focused ultrasound (tFUS)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1583164470.007200",
+        "client_msg_id": "C8770793-E270-45EA-B0FA-C717AD5433E4",
+        "text": "Hello, pour information, j’arriverai vers 18h15 au CRI ",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HU7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, pour information, j’arriverai vers 18h15 au CRI "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

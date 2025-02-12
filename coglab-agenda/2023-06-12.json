@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "HackNight NeuroTechX Paris: <!date^1686587400^{date_short_pretty} from {time}|June 12th, 2023 from 6:30 PM> to <!date^1686598200^{time}|9:30 PM GMT+0200>",
+                "text": "<!date^1686587400^{date_short_pretty} from {time}|June 12th, 2023 from 6:30 PM> to <!date^1686598200^{time}|9:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Makerlab+Paris%2C+8+Bis+Rue+Charles+V%2C+75004+Paris%2C+France|Makerlab Paris, 8 Bis Rue Charles V, 75004 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "HackNight NeuroTechX Paris",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NjdmbWVwN3BxZWVkM3FudjBydnRkcmlkajJfMjAyMzA2MTJUMTYzMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "mrkdwn_in": [
+                    "more",
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1686583801.764519",
+        "bot_id": "B4SJBP2L8"
+    }
+]

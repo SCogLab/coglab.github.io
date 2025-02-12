@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1591351774.001700",
+        "client_msg_id": "e2c00a36-17c1-49de-b53d-1857cfca2c23",
+        "text": "C’est cool, un groupe de personnes a développé un outil de graphes pour corréler les publications scientifiques : <https:\/\/www.connectedpapers.com>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Connected Papers",
+                "title_link": "https:\/\/www.connectedpapers.com\/",
+                "text": "A unique, visual tool to help researchers and applied scientists find and explore papers relevant to their field of work.",
+                "fallback": "Connected Papers",
+                "image_url": "https:\/\/www.connectedpapers.com\/share-preview-img.png",
+                "from_url": "https:\/\/www.connectedpapers.com\/",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 259567,
+                "service_icon": "https:\/\/www.connectedpapers.com\/favicon.ico",
+                "service_name": "connectedpapers.com",
+                "id": 1,
+                "original_url": "https:\/\/www.connectedpapers.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RQi65",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C’est cool, un groupe de personnes a développé un outil de graphes pour corréler les publications scientifiques : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.connectedpapers.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

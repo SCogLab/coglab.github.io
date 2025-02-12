@@ -1,0 +1,52 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There is *1* event this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "Makeathon TOM France 2023: <!date^1688972400^{date_short_pretty} from {time}|July 10th, 2023 from 9:00 AM> to <!date^1689094800^{date_short_pretty} at {time}|July 11th, 2023 at 7:00 PM GMT+0200>",
+                "text": "<!date^1688972400^{date_short_pretty} from {time}|July 10th, 2023 from 9:00 AM> to <!date^1689094800^{date_short_pretty} at {time}|July 11th, 2023 at 7:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Ground+Control%2C+81+Rue+du+Charolais%2C+75012+Paris%2C+France|Ground Control, 81 Rue du Charolais, 75012 Paris, France>",
+                "title": "Makeathon TOM France 2023",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NW5ya3B1aGFqODJzZW43cjNlbzV0OG9mb3Ugc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1688968802.982379",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JBG1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "1",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " event this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "user": "ULSDVUUVA",
+        "type": "message",
+        "ts": "1588232014.019200",
+        "client_msg_id": "1dd18161-82f4-42d0-bfc0-913056ed7a2f",
+        "text": "Besoin d'access pour la traduction stp",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "d6568f25a9a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-08\/3075305835828_d6568f25a9a41b2be2ef_72.jpg",
+            "first_name": "Maike",
+            "real_name": "Maike",
+            "display_name": "Maike",
+            "team": "T03FC4NDZ",
+            "name": "maikeherbort",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1588199596.018900",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2yd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Besoin d'access pour la traduction stp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1588232632.019400",
+        "client_msg_id": "8f4a2913-9d40-436a-9b98-6575603c3e93",
+        "text": "Je te vois dans la liste des sharing settings, tu n’y as pas accès ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1588199596.018900",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FeIzn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je te vois dans la liste des sharing settings, tu n’y as pas accès ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "ULSDVUUVA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U012DMQM8CF",
+        "text": "<@U012DMQM8CF> a rejoint le canal",
+        "type": "message",
+        "ts": "1588257032.019800"
+    }
+]

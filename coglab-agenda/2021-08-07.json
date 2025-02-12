@@ -1,0 +1,70 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event cancelled: CogLab HackNight: <!date^1627921800^{date_short_pretty} from {time}|August 2nd, 2021 from 6:30 PM> to <!date^1627934400^{time}|10:00 PM GMT+0200>\nRecurring",
+                "text": "<!date^1627921800^{date_short_pretty} from {time}|August 2nd, 2021 from 6:30 PM> to <!date^1627934400^{time}|10:00 PM GMT+0200>\nRecurring at <https:\/\/maps.google.com\/maps?q=Cri%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France|Cri, 8 bis Rue Charles V, 75004 Paris, France>",
+                "pretext": "Calendar event was cancelled",
+                "title": "CogLab HackNight",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MWI5Y2FvN2g5c3NyNGpyaDFhcTMwaGpsZWNfMjAyMTA4MDJUMTYzMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1628373794.001300",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CogLab HackNight #201: <!date^1628526600^{date_short_pretty} from {time}|August 9th, 2021 from 6:30 PM> to <!date^1628539200^{time}|10:00 PM GMT+0200>\nRecurring every week on Monday until <!date^1630274399^{date_pretty}|August 29th, 2021>",
+                "text": "<!date^1628526600^{date_short_pretty} from {time}|August 9th, 2021 from 6:30 PM> to <!date^1628539200^{time}|10:00 PM GMT+0200>\nRecurring every week on Monday until <!date^1630274399^{date_pretty}|August 29th, 2021> at <https:\/\/maps.google.com\/maps?q=Cri%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France%2C+Charles+V-0-MakerLab+Classroom+%2830%29|Cri, 8 bis Rue Charles V, 75004 Paris, France, Charles V-0-MakerLab Classroom (30)>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab HackNight #201",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MWI5Y2FvN2g5c3NyNGpyaDFhcTMwaGpsZWNfMjAyMTA4MDlUMTYzMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1628373794.001400",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CogLab HackNight #201: <!date^1630341000^{date_short_pretty} from {time}|August 30th, 2021 from 6:30 PM> to <!date^1630353600^{time}|10:00 PM GMT+0200>\nRecurring every week on Monday until <!date^1630360799^{date_pretty}|August 30th, 2021>",
+                "text": "<!date^1630341000^{date_short_pretty} from {time}|August 30th, 2021 from 6:30 PM> to <!date^1630353600^{time}|10:00 PM GMT+0200>\nRecurring every week on Monday until <!date^1630360799^{date_pretty}|August 30th, 2021> at <https:\/\/maps.google.com\/maps?q=Cri%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France%2C+Charles+V-0-MakerLab+Classroom+%2830%29|Cri, 8 bis Rue Charles V, 75004 Paris, France, Charles V-0-MakerLab Classroom (30)>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab HackNight #201",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MWI5Y2FvN2g5c3NyNGpyaDFhcTMwaGpsZWNfMjAyMTA4MzBUMTYzMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1628373794.001500",
+        "bot_id": "B4SJBP2L8"
+    }
+]

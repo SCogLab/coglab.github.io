@@ -1,0 +1,128 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1637678384.035400",
+        "client_msg_id": "d3a8fc6f-1098-4270-8dae-dcf019ada59e",
+        "text": "<@U02GLDK69UJ> <@UAMPR1P5L> vous voulez faire un petit débrief à chaud ou on se re-synchro plus tard ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z13",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02GLDK69UJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UAMPR1P5L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " vous voulez faire un petit débrief à chaud ou on se re-synchro plus tard ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UAMPR1P5L",
+        "type": "message",
+        "ts": "1637678437.035800",
+        "client_msg_id": "fbb66f2a-8354-460d-b320-69127451d560",
+        "text": "OK pour moi",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g73db985d858",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273db985d858035ed23c0594718e0eac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "mesca",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "coglab644",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KDm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OK pour moi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02GLDK69UJ",
+        "type": "message",
+        "ts": "1637678641.036700",
+        "client_msg_id": "7b25f999-fea0-4f1f-8650-dfb75f96adba",
+        "text": "Yes ça marche j'ai encore 20min",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "ea8311753d0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-28\/2671649382305_ea8311753d0c43d01df7_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "lesur.benjamin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YXf0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes ça marche j'ai encore 20min"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

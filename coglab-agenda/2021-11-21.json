@@ -1,0 +1,100 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There are *5* events this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #214: <!date^1637602200^{date_short_pretty} from {time}|November 22nd, 2021 from 6:30 PM> to <!date^1637616600^{time}|10:30 PM GMT+0100>",
+                "text": "<!date^1637602200^{date_short_pretty} from {time}|November 22nd, 2021 from 6:30 PM> to <!date^1637616600^{time}|10:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Cri%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France%2C+Charles+V-0-MakerLab+Classroom+%2830%29|Cri, 8 bis Rue Charles V, 75004 Paris, France, Charles V-0-MakerLab Classroom (30)>",
+                "title": "CogLab HackNight #214",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MjQ4dDE2NzM3aWpwNGMwYjR0dWc0Z2d1bnBfMjAyMTExMjJUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "[Option] SO Synchro Protocole XP: <!date^1637672400^{date_short_pretty} from {time}|November 23rd, 2021 from 2:00 PM> to <!date^1637676000^{time}|3:00 PM GMT+0100>",
+                "text": "<!date^1637672400^{date_short_pretty} from {time}|November 23rd, 2021 from 2:00 PM> to <!date^1637676000^{time}|3:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Online|Online>",
+                "title": "[Option] SO Synchro Protocole XP",
+                "id": 2,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MGowMTc2YW83MzZ1dmQzMDVvN2NjM3Y5OHAgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "Maker Faire Paris 2021 - Éducation: <!date^1637931600^{date_short_pretty} from {time}|November 26th, 2021 from 2:00 PM> to <!date^1637938800^{time}|4:00 PM GMT+0100>",
+                "text": "<!date^1637931600^{date_short_pretty} from {time}|November 26th, 2021 from 2:00 PM> to <!date^1637938800^{time}|4:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=EN+LIGNE|EN LIGNE>",
+                "title": "Maker Faire Paris 2021 - Éducation",
+                "id": 3,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NGgwbTBkMXVkbHBlbHFidHJlNG9lMXQxb2ogc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "Maker Faire Paris 2021 - Stand CogLab: <!date^1638018000^{date_short_pretty} from {time}|November 27th, 2021 from 2:00 PM> to <!date^1638032400^{time}|6:00 PM GMT+0100>",
+                "text": "<!date^1638018000^{date_short_pretty} from {time}|November 27th, 2021 from 2:00 PM> to <!date^1638032400^{time}|6:00 PM GMT+0100> at <https:\/\/paris.makerfaire.com\/>",
+                "title": "Maker Faire Paris 2021 - Stand CogLab",
+                "id": 4,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MzRxN2VxOWJkOGl1Y241ODFnMm0zdG04cGRfMjAyMTExMjdUMTMwMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "Maker Faire Paris 2021 - Stand CogLab: <!date^1638104400^{date_short_pretty} from {time}|November 28th, 2021 from 2:00 PM> to <!date^1638118800^{time}|6:00 PM GMT+0100>",
+                "text": "<!date^1638104400^{date_short_pretty} from {time}|November 28th, 2021 from 2:00 PM> to <!date^1638118800^{time}|6:00 PM GMT+0100> at <https:\/\/paris.makerfaire.com\/>",
+                "title": "Maker Faire Paris 2021 - Stand CogLab",
+                "id": 5,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MzRxN2VxOWJkOGl1Y241ODFnMm0zdG04cGRfMjAyMTExMjhUMTMwMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1637564408.003900",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nf8V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "5",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " events this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

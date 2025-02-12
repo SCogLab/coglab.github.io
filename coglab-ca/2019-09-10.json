@@ -1,0 +1,52 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Maike",
+                "fallback": "New card tryptique \/ Flyer added to list A FAIRE on board Gestion CogLab (administrateur).",
+                "text": "In list *A FAIRE* on *<https:\/\/trello.com\/b\/jSnI3dXM|Gestion CogLab (administrateur)>*.",
+                "pretext": "New card created",
+                "title": "tryptique \/ Flyer",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/LoFyWwDm",
+                "author_link": "https:\/\/trello.com\/emmacinnamon",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1568121969.000100",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Maike",
+                "fallback": "New card fiche \/ note card (CogLab + Projet) added to list A FAIRE on board Gestion CogLab (administrateur).",
+                "text": "In list *A FAIRE* on *<https:\/\/trello.com\/b\/jSnI3dXM|Gestion CogLab (administrateur)>*.",
+                "pretext": "New card created",
+                "title": "fiche \/ note card (CogLab + Projet)",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/znMdTWQ6",
+                "author_link": "https:\/\/trello.com\/emmacinnamon",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1568122051.000200",
+        "bot_id": "B66HQV43C"
+    }
+]

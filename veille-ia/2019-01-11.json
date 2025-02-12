@@ -1,0 +1,69 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1547211727.000900",
+        "client_msg_id": "fe79c3d9-74d3-40da-a165-70e525d31e89",
+        "text": "Présent au CES 2019 (AI for Autism) transforme des paroles en images et vice-versa : <http:\/\/www.helpicto.com>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Helpicto",
+                "title": "Accueil - Helpicto",
+                "title_link": "http:\/\/www.helpicto.com\/",
+                "fallback": "Helpicto: Accueil - Helpicto",
+                "image_url": "http:\/\/www.helpicto.com\/wp-content\/uploads\/2018\/06\/brain-150x150.png",
+                "from_url": "http:\/\/www.helpicto.com\/",
+                "image_width": 150,
+                "image_height": 150,
+                "image_bytes": 12394,
+                "service_icon": "https:\/\/i2.wp.com\/www.helpicto.com\/wp-content\/uploads\/2018\/06\/helpy_trans_gif.gif?fit=180%2C180",
+                "id": 1,
+                "original_url": "http:\/\/www.helpicto.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G9o25",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Présent au CES 2019 (AI for Autism) transforme des paroles en images et vice-versa : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.helpicto.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

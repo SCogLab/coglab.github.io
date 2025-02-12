@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1615985230.000800",
+        "client_msg_id": "33b96549-7894-4451-a115-682f3a5ebcae",
+        "text": "Demain, le groupe Gériico de l'Université de Lille organise une journée d'étude \"Web de Données et enrichissement de contenus\"\n<https:\/\/geriico.univ-lille.fr\/detail-event\/web-de-donnees-et-enrichissement-de-contenus\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Web de Données et enrichissement de contenus",
+                "title_link": "https:\/\/geriico.univ-lille.fr\/detail-event\/web-de-donnees-et-enrichissement-de-contenus\/",
+                "text": "Enseignants chercheurs Université Université de Lille",
+                "fallback": "Web de Données et enrichissement de contenus",
+                "image_url": "https:\/\/geriico.univ-lille.fr\/fileadmin\/_processed_\/5\/7\/csm_Journee_d_etudes_du_18_mars_2021_81f5bf429f.gif",
+                "from_url": "https:\/\/geriico.univ-lille.fr\/detail-event\/web-de-donnees-et-enrichissement-de-contenus\/",
+                "image_width": 177,
+                "image_height": 250,
+                "image_bytes": 84483,
+                "service_icon": "https:\/\/geriico.univ-lille.fr\/typo3conf\/ext\/ul2fpfb\/Resources\/Public\/Icons\/favicon.ico",
+                "service_name": "geriico.univ-lille.fr",
+                "id": 1,
+                "original_url": "https:\/\/geriico.univ-lille.fr\/detail-event\/web-de-donnees-et-enrichissement-de-contenus\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7L3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Demain, le groupe Gériico de l'Université de Lille organise une journée d'étude \"Web de Données et enrichissement de contenus\"\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/geriico.univ-lille.fr\/detail-event\/web-de-donnees-et-enrichissement-de-contenus\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

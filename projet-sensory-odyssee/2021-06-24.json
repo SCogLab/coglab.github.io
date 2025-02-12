@@ -1,0 +1,432 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1624528829.001000",
+        "client_msg_id": "79ebec0e-168e-4a76-9a64-f263b442a783",
+        "text": "Hello <!channel>, est-ce que quelqu’un va au cocktail dînatoire de SO ce soir ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1624528829.001000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1624541354.007300",
+        "reply_users": [
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1624541354.007300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bl71",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", est-ce que quelqu’un va au cocktail dînatoire de SO ce soir ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UAMPR1P5L",
+        "type": "message",
+        "ts": "1624533850.001200",
+        "client_msg_id": "7f5fd122-5159-41e4-9607-adc563e797d6",
+        "text": "Je n’y vais pas.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g73db985d858",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273db985d858035ed23c0594718e0eac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "mesca",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "coglab644",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ENh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je n’y vais pas."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UAMPR1P5L",
+        "type": "message",
+        "ts": "1624534082.003300",
+        "client_msg_id": "517564c4-948e-49f2-898a-b869cb96d69b",
+        "text": "J’ai envoyé un mail à Franck avec des propositions de créneau pour discuter des aspects techniques (<https:\/\/doodle.com\/poll\/rwubww8svv5dsywn>). Il y a un mystérieux “Désert” qui a répondu, j’imagine que c’est lui ? Malheureusement, il n’est disponible que le 30, c-à-d le lendemain de notre réunion avec SO. Vous êtes disponibles pour un zoom avec lui le 30 à 14h ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g73db985d858",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273db985d858035ed23c0594718e0eac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "mesca",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "coglab644",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OneQr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’ai envoyé un mail à Franck avec des propositions de créneau pour discuter des aspects techniques ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/doodle.com\/poll\/rwubww8svv5dsywn"
+                            },
+                            {
+                                "type": "text",
+                                "text": "). Il y a un mystérieux “Désert” qui a répondu, j’imagine que c’est lui ? Malheureusement, il n’est disponible que le 30, c-à-d le lendemain de notre réunion avec SO. Vous êtes disponibles pour un zoom avec lui le 30 à 14h ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1624534769.004600",
+        "client_msg_id": "3f6e0386-bba8-4337-9cac-60bc0cc0d8f5",
+        "text": "Ce sera bon pour moi le 30 à 14h, je ne sais pas par contre si Désert c’est bien lui...",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PW4Tb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ce sera bon pour moi le 30 à 14h, je ne sais pas par contre si Désert c’est bien lui..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1624535026.005300",
+        "client_msg_id": "9fc9b74f-3c67-4135-9800-077566960e00",
+        "text": "Je verrai si je peux avoir plus d’infos ce soir, je me suis inscrit pour l’event SO",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L\/BnL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je verrai si je peux avoir plus d’infos ce soir, je me suis inscrit pour l’event SO"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UAMPR1P5L",
+        "type": "message",
+        "ts": "1624540242.005800",
+        "client_msg_id": "d4ed9632-b3e4-4e5f-9d34-fa4df662a0d8",
+        "text": "OK, apparemment c’est bien Franck : <https:\/\/www.linkedin.com\/in\/franck-desert-a082a015\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g73db985d858",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273db985d858035ed23c0594718e0eac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "mesca",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "coglab644",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lTk5=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OK, apparemment c’est bien Franck : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/franck-desert-a082a015\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UAMPR1P5L",
+        "type": "message",
+        "ts": "1624540252.006100",
+        "client_msg_id": "6dc06a67-62cf-43df-8e48-00f78836971c",
+        "text": "<@U03FC5ZAK> Tu es libre le 30 ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g73db985d858",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273db985d858035ed23c0594718e0eac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "mesca",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "coglab644",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EGJD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Tu es libre le 30 ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1624541343.007200",
+        "client_msg_id": "790d2dca-c7f7-487d-aafa-0975fb935ffb",
+        "text": "Ok pour moi aussi le 30 à 14h. \nMerci pour la relance sur ce sujet Pierre",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yjiF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok pour moi aussi le 30 à 14h. \nMerci pour la relance sur ce sujet Pierre"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1624541354.007300",
+        "client_msg_id": "d65eedb0-5fb9-44ab-a485-ae8618a0582f",
+        "text": "Oui j'y serais",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1624528829.001000",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PQv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui j'y serais"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1624541417.008600",
+        "client_msg_id": "2321c7f1-39df-4cdf-bcfb-b4247445237b",
+        "text": "J'essaie de finir ma doc et me documenter sur le montant d'ici lundi",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2GYw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'essaie de finir ma doc et me documenter sur le montant d'ici lundi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

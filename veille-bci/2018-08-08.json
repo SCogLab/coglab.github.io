@@ -1,0 +1,128 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1533730112.000140",
+        "client_msg_id": "47f782dc-735d-448a-96be-092e1b5094f8",
+        "text": "Livre Blanc de la communauté OHBM avec des guidelines MEEG <https:\/\/cobidasmeeg.wordpress.com\/?ref=spelling>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "COBIDAS-MEEG",
+                "title_link": "https:\/\/cobidasmeeg.wordpress.com\/?ref=spelling",
+                "text": "Best Practices in Data Analysis &amp; Sharing in Neuroimaging using MEEG",
+                "fallback": "COBIDAS-MEEG",
+                "from_url": "https:\/\/cobidasmeeg.wordpress.com\/?ref=spelling",
+                "thumb_url": "https:\/\/s0.wp.com\/i\/blank.jpg",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/s2.wp.com\/i\/webclip.png",
+                "service_name": "COBIDAS-MEEG",
+                "id": 1,
+                "original_url": "https:\/\/cobidasmeeg.wordpress.com\/?ref=spelling"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Og",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Livre Blanc de la communauté OHBM avec des guidelines MEEG "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/cobidasmeeg.wordpress.com\/?ref=spelling"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1533745697.000369",
+        "client_msg_id": "5d92fbb4-b4d9-4366-9f1a-b71fe493db2a",
+        "text": "Nouvelle technique de détection de mouvements  à partir d’enregistrements EEG + électrode GVS (Galvanic Vestibular Stimulator) provenant d’un partenariat TokyoTech, le CNRS, ... : <https:\/\/www.technologynetworks.com\/neuroscience\/news\/scientists-decode-brains-movement-intentions-from-eeg-307198>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Neuroscience from Technology Networks",
+                "title": "Scientists Decode Brain's Movement Intentions from EEG",
+                "title_link": "https:\/\/www.technologynetworks.com\/neuroscience\/news\/scientists-decode-brains-movement-intentions-from-eeg-307198",
+                "text": "Scientists have developed a new technique to decode motor intention of humans from Electroencephalography (EEG)",
+                "fallback": "Neuroscience from Technology Networks: Scientists Decode Brain's Movement Intentions from EEG",
+                "image_url": "https:\/\/cdn.technologynetworks.com\/tn\/images\/thumbnails\/rectangle\/scientists-decode-brains-movement-intentions-from-eeg-307198.png",
+                "from_url": "https:\/\/www.technologynetworks.com\/neuroscience\/news\/scientists-decode-brains-movement-intentions-from-eeg-307198",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 345987,
+                "service_icon": "https:\/\/cdn.technologynetworks.com\/tn\/images\/base\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.technologynetworks.com\/neuroscience\/news\/scientists-decode-brains-movement-intentions-from-eeg-307198"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8rw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nouvelle technique de détection de mouvements  à partir d’enregistrements EEG + électrode GVS (Galvanic Vestibular Stimulator) provenant d’un partenariat TokyoTech, le CNRS, ... : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.technologynetworks.com\/neuroscience\/news\/scientists-decode-brains-movement-intentions-from-eeg-307198"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

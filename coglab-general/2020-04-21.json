@@ -1,0 +1,61 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U012L8X3UP3",
+        "text": "<@U012L8X3UP3> a rejoint le canal",
+        "type": "message",
+        "ts": "1587462458.017400"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Hans Harisson",
+                "fallback": "New card FSC 2020 online conference added to list BLOG &amp; évènements externes on board Activités CogLab (public).",
+                "text": "In list *BLOG &amp; évènements externes* on *<https:\/\/trello.com\/b\/NFHS3ZPa|Activités CogLab (public)>*.",
+                "pretext": "New card created",
+                "title": "FSC 2020 online conference",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/6XNfaeI9",
+                "author_link": "https:\/\/trello.com\/hansharisson1",
+                "author_icon": "https:\/\/trello-members.s3.amazonaws.com\/5932ca0090ff177f1e3be0a0\/3b24595bfbf9964329e0f68a00393ac7\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1587490841.017500",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Hans Harisson",
+                "fallback": "New card g.tec BCI School 2020 added to list BLOG &amp; évènements externes on board Activités CogLab (public).",
+                "text": "In list *BLOG &amp; évènements externes* on *<https:\/\/trello.com\/b\/NFHS3ZPa|Activités CogLab (public)>*.",
+                "pretext": "New card created",
+                "title": "g.tec BCI School 2020",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/NY9enwDJ",
+                "author_link": "https:\/\/trello.com\/hansharisson1",
+                "author_icon": "https:\/\/trello-members.s3.amazonaws.com\/5932ca0090ff177f1e3be0a0\/3b24595bfbf9964329e0f68a00393ac7\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1587490858.017600",
+        "bot_id": "B66HQV43C"
+    }
+]

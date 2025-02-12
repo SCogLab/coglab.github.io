@@ -1,0 +1,108 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "Event created: [Option][SO] Pré-test questionnaire: <!date^1649592000^{date_short_pretty} from {time}|April 10th, 2022 from 2:00 PM> to <!date^1649602800^{time}|5:00 PM GMT+0200>",
+                "text": "<!date^1649592000^{date_short_pretty} from {time}|April 10th, 2022 from 2:00 PM> to <!date^1649602800^{time}|5:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=National+Museum+of+Natural+History%2C+57+Rue+Cuvier%2C+75005+Paris%2C+France|National Museum of Natural History, 57 Rue Cuvier, 75005 Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "[Option][SO] Pré-test questionnaire",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MGR2cDFyZHAzb2JwaHJlZGlkZGxzbm9udW0gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1648997590.314759",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "Event updated: [Option][SO] Pré-test questionnaire: <!date^1649592000^{date_short_pretty} from {time}|April 10th, 2022 from 2:00 PM> to <!date^1649602800^{time}|5:00 PM GMT+0200>",
+                "text": "<!date^1649592000^{date_short_pretty} from {time}|April 10th, 2022 from 2:00 PM> to <!date^1649602800^{time}|5:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=National+Museum+of+Natural+History%2C+57+Rue+Cuvier%2C+75005+Paris%2C+France|National Museum of Natural History, 57 Rue Cuvier, 75005 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "[Option][SO] Pré-test questionnaire",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MGR2cDFyZHAzb2JwaHJlZGlkZGxzbm9udW0gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1648999208.511129",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "There are *2* events this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "CogLab HackNight: <!date^1649089800^{date_short_pretty} from {time}|April 4th, 2022 from 6:30 PM> to <!date^1649104200^{time}|10:30 PM GMT+0200>",
+                "text": "<!date^1649089800^{date_short_pretty} from {time}|April 4th, 2022 from 6:30 PM> to <!date^1649104200^{time}|10:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Learning+Planet+Institute%29+-+Inserm+Universit%C3%A9+De+Paris%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France|Learning Planet Institute) - Inserm Université De Paris, 8 bis Rue Charles V, 75004 Paris, France>",
+                "title": "CogLab HackNight",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MzAzY2djbmFmbmI5YmFlNG9taDdwN2thMTNfMjAyMjA0MDRUMTYzMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            },
+            {
+                "id": 2,
+                "color": "7bd148",
+                "fallback": "[Option][SO] Pré-test questionnaire: <!date^1649592000^{date_short_pretty} from {time}|April 10th, 2022 from 2:00 PM> to <!date^1649602800^{time}|5:00 PM GMT+0200>",
+                "text": "<!date^1649592000^{date_short_pretty} from {time}|April 10th, 2022 from 2:00 PM> to <!date^1649602800^{time}|5:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=National+Museum+of+Natural+History%2C+57+Rue+Cuvier%2C+75005+Paris%2C+France|National Museum of Natural History, 57 Rue Cuvier, 75005 Paris, France>",
+                "title": "[Option][SO] Pré-test questionnaire",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MGR2cDFyZHAzb2JwaHJlZGlkZGxzbm9udW0gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1649052003.668459",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mXY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "2",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " events this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

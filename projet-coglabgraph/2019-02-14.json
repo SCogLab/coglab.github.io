@@ -1,0 +1,76 @@
+[
+    {
+        "subtype": "channel_name",
+        "user": "U03FC5ZAK",
+        "old_name": "project_coglabgraph",
+        "name": "projet_coglabgraph",
+        "text": "a changé le nom du canal de « project_coglabgraph » en « projet_coglabgraph »",
+        "type": "message",
+        "ts": "1550150644.001100"
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1550151037.002000",
+        "client_msg_id": "02fb3209-4fe9-4821-86ba-f30625b44f32",
+        "text": "Un peu HS mais j’ai retrouvé la réf. du sémantique desktop de l’époque (dérivé de Mandriva au début, projet intégré à KDE4, et maintenant je ne sais pas ce que c’est devenu et il y a eu un projet alternatif du nom de Baloo) : <https:\/\/en.wikipedia.org\/wiki\/NEPOMUK_(software)>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "NEPOMUK (software)",
+                "title_link": "https:\/\/en.wikipedia.org\/wiki\/NEPOMUK_(software)",
+                "from_url": "https:\/\/en.wikipedia.org\/wiki\/NEPOMUK_(software)",
+                "author_name": "Wikipedia",
+                "author_link": "https:\/\/en.wikipedia.org\/",
+                "text": "NEPOMUK (Networked Environment for Personal, Ontology-based Management of Unified Knowledge) is an open-source software specification that is concerned with the development of a social semantic desktop that enriches and interconnects data from different desktop applications using semantic metadata stored as RDF. Between 2006 and 2008 it was funded by a European Union research project of the same name that grouped together industrial and academic actors to develop various Semantic Desktop technologies.",
+                "fallback": "wikipedia: NEPOMUK (software)",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1,
+                "original_url": "https:\/\/en.wikipedia.org\/wiki\/NEPOMUK_(software)"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9FanV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un peu HS mais j’ai retrouvé la réf. du sémantique desktop de l’époque (dérivé de Mandriva au début, projet intégré à KDE4, et maintenant je ne sais pas ce que c’est devenu et il y a eu un projet alternatif du nom de Baloo) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/en.wikipedia.org\/wiki\/NEPOMUK_(software)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

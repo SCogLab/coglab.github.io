@@ -1,0 +1,104 @@
+[
+    {
+        "subtype": "thread_broadcast",
+        "user": "U03FC5ZAK",
+        "thread_ts": "1574508538.001600",
+        "root": {
+            "user": "U03FC5ZAK",
+            "type": "message",
+            "ts": "1574508538.001600",
+            "client_msg_id": "b632bade-f7fa-4e55-a3d9-60e30c6352df",
+            "text": "N'hésitez pas à prendre des photos (en évitant d'avoir le visage des visiteurs) pour nos archives ! cc <@U59MQ46DA> <@U0FB4KME0> <@UMSL037JT> <@UL4SA8V7Y>\n\nVoici un lien pour les mettre en commun sur notre Drive <https:\/\/drive.google.com\/drive\/folders\/1z66kQCnkRGTAxuhoYphHGkcEFGhEIXkr?usp=sharing>",
+            "team": "T03FC4NDZ",
+            "thread_ts": "1574508538.001600",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1575468877.011900",
+            "reply_users": [
+                "U03FC5ZAK"
+            ],
+            "replies": [
+                {
+                    "user": "U03FC5ZAK",
+                    "ts": "1575468877.011900"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "LAQ4",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "N'hésitez pas à prendre des photos (en évitant d'avoir le visage des visiteurs) pour nos archives ! cc "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U59MQ46DA"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U0FB4KME0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "UMSL037JT"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "UL4SA8V7Y"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\nVoici un lien pour les mettre en commun sur notre Drive "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/drive.google.com\/drive\/folders\/1z66kQCnkRGTAxuhoYphHGkcEFGhEIXkr?usp=sharing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1575468877.011900",
+        "client_msg_id": "b3133baf-4bee-4e32-adcc-1af1ce3686ef",
+        "text": "Hans et moi-même avons téléversé nos photos de la Maker Faire, n’hésitez pas si d’autres en ont :)",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+7a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hans et moi-même avons téléversé nos photos de la Maker Faire, n’hésitez pas si d’autres en ont :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

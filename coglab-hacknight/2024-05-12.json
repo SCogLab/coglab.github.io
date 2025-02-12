@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1715525308.243259",
+        "client_msg_id": "e0f232ee-0160-495e-9b1b-c485dd8c559b",
+        "text": "Hello <@U065TGVPMQA>, c'est noté, ce sera pour une prochaine fois ! :wink: Est-ce que tu aurais, par hasard, les slides qu'ils avaient présentées lors de Transvision à Utrecht ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713770009.982539",
+        "parent_user_id": "U065TGVPMQA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jLwg1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U065TGVPMQA"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", c'est noté, ce sera pour une prochaine fois ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Est-ce que tu aurais, par hasard, les slides qu'ils avaient présentées lors de Transvision à Utrecht ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

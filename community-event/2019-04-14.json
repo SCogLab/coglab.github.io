@@ -1,0 +1,25 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event cancelled: CogLab HackNight #108: <!date^1555954200^{date_short_pretty} from {time}|April 22nd, 2019 from 7:30 PM> to <!date^1555966800^{time}|11:00 PM GMT+0200>",
+                "text": "<!date^1555954200^{date_short_pretty} from {time}|April 22nd, 2019 from 7:30 PM> to <!date^1555966800^{time}|11:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Calendar event was cancelled",
+                "title": "CogLab HackNight #108",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NWVkZW9mbmx0Z2pmazJxOXF0NDc1azdzbnZfMjAxOTA0MjJUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1555237685.000100",
+        "bot_id": "B4SJBP2L8"
+    }
+]

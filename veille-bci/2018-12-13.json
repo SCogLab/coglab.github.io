@@ -1,0 +1,119 @@
+[
+    {
+        "user": "U0FB4KME0",
+        "type": "message",
+        "ts": "1544692453.000700",
+        "client_msg_id": "8a912e4e-d1ba-46d3-ad54-ef9f650187ef",
+        "text": "Une sorte de myo, plus développé.\nLe 'ventre' du myo:\n<https:\/\/learn.adafruit.com\/myo-armband-teardown\/inside-myo>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g1199c476c54",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/11199c476c54600d8571a80f70737cbd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "",
+            "real_name": "paul",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "paul",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Myo Armband Teardown",
+                "title_link": "https:\/\/learn.adafruit.com\/myo-armband-teardown\/inside-myo",
+                "text": "What's inside this gesture controller?",
+                "fallback": "Myo Armband Teardown",
+                "image_url": "https:\/\/cdn-learn.adafruit.com\/guides\/images\/000\/001\/198\/medium800\/myo-armband-teardown-thumb.jpg",
+                "from_url": "https:\/\/learn.adafruit.com\/myo-armband-teardown\/inside-myo",
+                "image_width": 377,
+                "image_height": 250,
+                "image_bytes": 74173,
+                "service_icon": "https:\/\/learn.adafruit.com\/assets\/favicon-0c79bd4bc582e6d4cf3afe417bd1e28120527c09d92c08a6464690c5bf6b85f4.ico",
+                "service_name": "learn.adafruit.com",
+                "id": 1,
+                "original_url": "https:\/\/learn.adafruit.com\/myo-armband-teardown\/inside-myo"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KHn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Une sorte de myo, plus développé.\nLe 'ventre' du myo:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/learn.adafruit.com\/myo-armband-teardown\/inside-myo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0FB4KME0",
+        "type": "message",
+        "ts": "1544707363.002300",
+        "client_msg_id": "30a7bf68-7c0f-49e7-9005-2fbe3c761fb7",
+        "text": "voir aussi le projet de microsoft:\n<https:\/\/www.microsoft.com\/en-us\/research\/project\/muscle-computer-interfaces-mucis\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g1199c476c54",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/11199c476c54600d8571a80f70737cbd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "",
+            "real_name": "paul",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "paul",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Microsoft Research",
+                "title": "Muscle-Computer Interfaces (muCIs) - Microsoft Research",
+                "title_link": "https:\/\/www.microsoft.com\/en-us\/research\/project\/muscle-computer-interfaces-mucis\/",
+                "text": "Many human-computer interaction technologies are currently mediated by physical transducers such as mice, keyboards, pens, dials, and touch-sensitive surfaces. While these transducers have enabled powerful interaction paradigms and leverage our human expertise in interacting with physical objects, they tether computation to a physical artifact that has to be within reach of the user. As computing …",
+                "fallback": "Microsoft Research: Muscle-Computer Interfaces (muCIs) - Microsoft Research",
+                "thumb_url": "https:\/\/www.microsoft.com\/en-us\/research\/uploads\/prod\/2018\/11\/Automated_Hero_Image_MSR_Social_11_2018_1200x627.png",
+                "from_url": "https:\/\/www.microsoft.com\/en-us\/research\/project\/muscle-computer-interfaces-mucis\/",
+                "thumb_width": 1200,
+                "thumb_height": 627,
+                "service_icon": "https:\/\/www.microsoft.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.microsoft.com\/en-us\/research\/project\/muscle-computer-interfaces-mucis\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "07Qjt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "voir aussi le projet de microsoft:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.microsoft.com\/en-us\/research\/project\/muscle-computer-interfaces-mucis\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1459774227.000006",
+        "text": "<!channel>: \n\n[HackNight] Attention ce soir on se retrouve à l' *Anticafé Beaubourg* pour travailler sur le <#C03UHP8UD|projet-autispace> \n\n79 rue Quincampoix\n75003 Paris\n\n<http:\/\/www.anticafe.eu\/beaubourg>\n\nChangement d'ambiance pour la dernière ligne droite avant le *FSC samedi* ! :simple_smile:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SlxP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": \n\n[HackNight] Attention ce soir on se retrouve à l' "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Anticafé Beaubourg",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour travailler sur le "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03UHP8UD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\n79 rue Quincampoix\n75003 Paris\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.anticafe.eu\/beaubourg"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nChangement d'ambiance pour la dernière ligne droite avant le "
+                            },
+                            {
+                                "type": "text",
+                                "text": "FSC samedi",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: AG Fresco 2019 (ex WEPASCO): <!date^1556971200^{date_short_pretty} from {time}|May 4th, 2019 from 2:00 PM> to <!date^1556985600^{time}|6:00 PM GMT+0200>",
+                "text": "<!date^1556971200^{date_short_pretty} from {time}|May 4th, 2019 from 2:00 PM> to <!date^1556985600^{time}|6:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Paris%2C+France|Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "AG Fresco 2019 (ex WEPASCO)",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MHFsYWRyODM0NWw5dTc4MGViYTY4cDF1YXIgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1555674966.000100",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "UJ18LRANQ",
+        "text": "<@UJ18LRANQ> a rejoint le canal",
+        "type": "message",
+        "ts": "1555712736.000400"
+    }
+]

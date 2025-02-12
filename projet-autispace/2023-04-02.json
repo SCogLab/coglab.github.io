@@ -1,0 +1,128 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1680456897.216999",
+        "client_msg_id": "64a3c136-59e0-4f1b-80a5-9d8db9b81bda",
+        "text": "Coucou <!channel>\n\nEn cette *journée mondiale de sensibilisation à l’autisme*, et après une longue pose sur le projet Autispace, j’aimerais prendre l’opportunité de relancer ce dernier !\n\nDans un premier temps, l’approche du <#C0QMHFEK1|event-fsc> le dimanche 16 avril (dans 2 semaine), est une bonne occasion de ressortir tout le matériel qui à pris la poussière !\n\nEt avec l’association Cogitergo, qui organise un événement à Paris le samedi 3 juin, nous avons également l’opportunité d’animer un atelier. D’ici là, c’est l’occasion de :\n• actualiser l’état de l’art du projet\n• continuer le travail de prototypage et d’ « augmentation » numérique du jeu\n• préparer un format adapté pour l’événement sur la thématique « sciences cognitives et jeu »\nN’hésitez pas à manifester votre intérêt sur ce projet.\nDe mon côté, j’aimerais à minima y consacrer du temps lors des <#C0R6W4X2Q|coglab-hacknight> après le FSC.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kdq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coucou "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nEn cette"
+                            },
+                            {
+                                "type": "text",
+                                "text": " journée mondiale de sensibilisation à l’autisme",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", et après une longue pose sur le projet Autispace, j’aimerais prendre l’opportunité de relancer ce dernier !\n\nDans un premier temps, l’approche du "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0QMHFEK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " le dimanche 16 avril (dans 2 semaine), est une bonne occasion de ressortir tout le matériel qui à pris la poussière !\n\nEt avec l’association Cogitergo, qui organise un événement à Paris le samedi 3 juin, nous avons également l’opportunité d’animer un atelier. D’ici là, c’est l’occasion de :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "actualiser l’état de l’art du projet"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "continuer le travail de prototypage et d’ « augmentation » numérique du jeu"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "préparer un format adapté pour l’événement sur la thématique « sciences cognitives et jeu »"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nN’hésitez pas à manifester votre intérêt sur ce projet.\nDe mon côté, j’aimerais à minima y consacrer du temps lors des "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0R6W4X2Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " après le FSC."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FEH3N8"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

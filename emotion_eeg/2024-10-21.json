@@ -1,0 +1,149 @@
+[
+    {
+        "user": "U0523DY2FAB",
+        "type": "message",
+        "ts": "1729504654.334149",
+        "client_msg_id": "3d67332e-6c60-4e14-bc8c-7ef604169373",
+        "text": "Bonjour, :smiley:\nL'idée d'ici est de reproduire les performances du papier \"Mental Emotional Sentiment Classification with an EEG-based Brain-Machine Interface\"",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "4cb8bf38fddf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-10\/5085885164403_4cb8bf38fddf88c49141_72.png",
+            "first_name": "nicolas",
+            "real_name": "nicolas playe",
+            "display_name": "nicolas playe",
+            "team": "T03FC4NDZ",
+            "name": "playe.nicolas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RPKPb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour, "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiley",
+                                "unicode": "1f603"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nL'idée d'ici est de reproduire les performances du papier \"Mental Emotional Sentiment Classification with an EEG-based Brain-Machine Interface\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1729517150.644979",
+        "client_msg_id": "fcb7e169-bb2e-4601-a835-833f6b7025a0",
+        "text": "lien vers le papier : <https:\/\/www.researchgate.net\/publication\/329403546_Mental_Emotional_Sentiment_Classification_with_an_EEG-based_Brain-machine_Interface>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dXtHc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lien vers le papier : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.researchgate.net\/publication\/329403546_Mental_Emotional_Sentiment_Classification_with_an_EEG-based_Brain-machine_Interface"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1729517761.312559",
+        "client_msg_id": "ed28a2ca-8d54-41f9-8b02-f5e1a882281d",
+        "text": "Lien vers la compétition kaggle correspondante : <https:\/\/www.kaggle.com\/datasets\/birdy654\/eeg-brainwave-dataset-feeling-emotions>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.kaggle.com\/datasets\/birdy654\/eeg-brainwave-dataset-feeling-emotions",
+                "service_icon": "https:\/\/www.kaggle.com\/favicon.ico",
+                "thumb_url": "https:\/\/storage.googleapis.com\/kaggle-datasets-images\/new-version-temp-images\/default-backgrounds-34.png-2039603\/dataset-card.png",
+                "thumb_width": 600,
+                "thumb_height": 600,
+                "id": 1,
+                "original_url": "https:\/\/www.kaggle.com\/datasets\/birdy654\/eeg-brainwave-dataset-feeling-emotions",
+                "fallback": "EEG Brainwave Dataset: Feeling Emotions",
+                "text": "Positive and Negative emotional experiences captured from the brain",
+                "title": "EEG Brainwave Dataset: Feeling Emotions",
+                "title_link": "https:\/\/www.kaggle.com\/datasets\/birdy654\/eeg-brainwave-dataset-feeling-emotions",
+                "service_name": "kaggle.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x0OM\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lien vers la compétition kaggle correspondante : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kaggle.com\/datasets\/birdy654\/eeg-brainwave-dataset-feeling-emotions"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

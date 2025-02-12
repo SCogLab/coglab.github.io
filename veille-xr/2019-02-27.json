@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1551284848.001200",
+        "client_msg_id": "8541d61c-b8cf-4542-b0a6-ae533c794a47",
+        "text": "Expérience vr (1 semaine en immersion) : <http:\/\/www.1weekinvr.com>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "1WeekinVR",
+                "title": "This guy is attempting a week in Virtual Reality (live)",
+                "title_link": "http:\/\/www.1weekinvr.com\/",
+                "text": "\"to analyze the effects of long-term simulation usage.\"",
+                "fallback": "1WeekinVR: This guy is attempting a week in Virtual Reality (live)",
+                "image_url": "http:\/\/www.1weekinvr.com\/wp-content\/uploads\/2019\/02\/headshot.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "http:\/\/www.1weekinvr.com\/",
+                "image_bytes": 101610,
+                "service_icon": "http:\/\/www.1weekinvr.com\/wp-content\/uploads\/2019\/02\/world-map-vivid-152-267881.png",
+                "id": 1,
+                "original_url": "http:\/\/www.1weekinvr.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GqqIO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Expérience vr (1 semaine en immersion) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.1weekinvr.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

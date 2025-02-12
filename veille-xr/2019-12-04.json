@@ -1,0 +1,86 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1575465137.001000",
+        "client_msg_id": "2bc1424c-a205-4083-9f3c-a46e8ff13aa1",
+        "text": "Une installation en AR qui me rappelle le vernissage sur la peinture augmentée <@U59MQ46DA>: <http:\/\/www.uramado.fr>\n\nsource : <https:\/\/www.maintenant-festival.fr\/2019\/programmation\/uramado-le-reveil-des-tanukis\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Festival Maintenant",
+                "title": "Exposition - Uramado AR, le réveil des tanukis - Julie Stephen Chheng",
+                "title_link": "https:\/\/www.maintenant-festival.fr\/2019\/programmation\/uramado-le-reveil-des-tanukis\/",
+                "text": "En japonais « uramado » signifie « fenêtre » mais désigne aussi le « verso d’une feuille de papier » : à la fois fenêtre ouverte sur un monde étrange …",
+                "fallback": "Festival Maintenant: Exposition - Uramado AR, le réveil des tanukis - Julie Stephen Chheng",
+                "image_url": "https:\/\/www.maintenant-festival.fr\/2019\/wp-content\/uploads\/2019\/06\/Fond-nature-low-titre-1024x427.jpg",
+                "image_width": 600,
+                "image_height": 250,
+                "from_url": "https:\/\/www.maintenant-festival.fr\/2019\/programmation\/uramado-le-reveil-des-tanukis\/",
+                "image_bytes": 248264,
+                "service_icon": "https:\/\/www.maintenant-festival.fr\/2019\/wp-content\/themes\/maintenant2019\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.maintenant-festival.fr\/2019\/programmation\/uramado-le-reveil-des-tanukis\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+t3KR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Une installation en AR qui me rappelle le vernissage sur la peinture augmentée "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.uramado.fr"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nsource : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.maintenant-festival.fr\/2019\/programmation\/uramado-le-reveil-des-tanukis\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

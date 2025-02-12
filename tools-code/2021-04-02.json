@@ -1,0 +1,49 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U59MQ46DA",
+        "text": "<@U59MQ46DA> a rejoint le canal",
+        "type": "message",
+        "ts": "1617384629.000200"
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1617385112.000300",
+        "client_msg_id": "962c5ba5-6319-42f9-8f5b-6301b3dca8c0",
+        "text": "Ok, c’est noté, ça intègre jitsi pour les call rooms",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1617091034.000400",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MK=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok, c’est noté, ça intègre jitsi pour les call rooms"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

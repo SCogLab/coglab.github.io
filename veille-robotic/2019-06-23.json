@@ -1,0 +1,200 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1561303311.000600",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1561303416.000000"
+        },
+        "client_msg_id": "50eb5ed9-9592-4e72-b0ad-f2c7001601e2",
+        "text": "Mise en open source du framework python PyRobot : <https:\/\/www.silicon.fr\/robotique-ia-facebook-open-source-pyrobot-250591.html>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561303311.000600",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1561303503.001200",
+        "reply_users": [
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1561303461.000900"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1561303503.001200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "service_name": "Silicon",
+                "title": "Robotique et IA : Facebook rend open source PyRobot | Silicon",
+                "title_link": "https:\/\/www.silicon.fr\/robotique-ia-facebook-open-source-pyrobot-250591.html",
+                "text": "Avec le framework PyRobot, les chercheurs en IA de Facebook et de Carnegie Mellon veulent favoriser la « recherche robotique à long terme ».",
+                "fallback": "Silicon: Robotique et IA : Facebook rend open source PyRobot | Silicon",
+                "thumb_url": "https:\/\/www.silicon.fr\/wp-content\/uploads\/2018\/04\/facebook_pexels-photo-267399.jpeg",
+                "ts": 1561130229,
+                "from_url": "https:\/\/www.silicon.fr\/robotique-ia-facebook-open-source-pyrobot-250591.html",
+                "thumb_width": 640,
+                "thumb_height": 402,
+                "service_icon": "https:\/\/www.silicon.fr\/wp-content\/themes\/kamino\/assets\/images\/favicons_silicon\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.silicon.fr\/robotique-ia-facebook-open-source-pyrobot-250591.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WFB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mise en open source du framework python PyRobot : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.silicon.fr\/robotique-ia-facebook-open-source-pyrobot-250591.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1561303461.000900",
+        "client_msg_id": "0ec321b0-2143-4052-8b64-1d0e70c1146f",
+        "text": "Compatible avec LoCoBot (4200$ quand même !) : <https:\/\/locobot-website.netlify.com>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561303311.000600",
+        "parent_user_id": "U59MQ46DA",
+        "attachments": [
+            {
+                "title": "LoCoBot · An Open Source Low Cost Robot",
+                "title_link": "https:\/\/locobot-website.netlify.com\/",
+                "text": "An Open Source Low Cost Robot",
+                "fallback": "LoCoBot · An Open Source Low Cost Robot",
+                "from_url": "https:\/\/locobot-website.netlify.com\/",
+                "service_name": "locobot-website.netlify.com",
+                "id": 1,
+                "original_url": "https:\/\/locobot-website.netlify.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eVG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Compatible avec LoCoBot (4200$ quand même !) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/locobot-website.netlify.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1561303503.001200",
+        "client_msg_id": "8e047f17-efcd-46e5-863d-c40efc26b38e",
+        "text": "Et Sawyer : <https:\/\/www.rethinkrobotics.com\/sawyer\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561303311.000600",
+        "parent_user_id": "U59MQ46DA",
+        "attachments": [
+            {
+                "title": "Sawyer Collaborative Robots for Industrial Automation",
+                "title_link": "https:\/\/www.rethinkrobotics.com\/sawyer\/",
+                "text": "Visit Rethink Robotics to see how our high performance cobot, Sawyer, can execute precise automation tasks not suitable for traditional industrial robots.",
+                "fallback": "Sawyer Collaborative Robots for Industrial Automation",
+                "thumb_url": "https:\/\/www.rethinkrobotics.com\/fileadmin\/_processed_\/2\/0\/csm_rethink-socialmedia_af2e6f1f2d.png",
+                "from_url": "https:\/\/www.rethinkrobotics.com\/sawyer\/",
+                "thumb_width": 1200,
+                "thumb_height": 628,
+                "service_icon": "https:\/\/www.rethinkrobotics.com\/fileadmin\/rethink.v1\/favicon.ico",
+                "service_name": "rethinkrobotics.com",
+                "id": 1,
+                "original_url": "https:\/\/www.rethinkrobotics.com\/sawyer\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hQ1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et Sawyer : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.rethinkrobotics.com\/sawyer\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1580762713.000500",
+        "client_msg_id": "a1a773f6-5351-4541-924b-2bb9cf7d6ed1",
+        "text": "Quelqu'un connais ?\n<http:\/\/spikestream.corticallabs.com\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nJa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Quelqu'un connais ?\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/spikestream.corticallabs.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

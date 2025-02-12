@@ -1,0 +1,545 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "*Espace de travail de de vatghibaudo@gmail.com* s’est retiré(e) de ce canal.",
+        "user": "USLACKBOT",
+        "username": "slackbot",
+        "type": "message",
+        "ts": "1650286888.546999",
+        "team": "T03FC4NDZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7=3jY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Espace de travail de de vatghibaudo@gmail.com",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " s’est retiré(e) de ce canal."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1650296036.902329",
+        "client_msg_id": "dac77249-1eb7-4143-bca6-a66a379b200f",
+        "text": "Bonjour !\n\nJe suis dans les derniers préparatifs pour la session de test de demain.\nA priori on se retrouve à 14h devant l'entrée du Muséum, <@U59MQ46DA> &amp; <@U02GLDK69UJ> je vous ai ajouté à une boucle email avec Olivier et Anastasia.\n\nComme c'est férié aujourd'hui, je pense que le CRI\/LPI est en horaire de weekend.\nAussi, pour se prévoir un point de synchro si vous voulez, on peux se retrouver en ligne ce soir ou demain matin, ou se retrouvez par exemple 30 minutes plus tôt demain, comme vous préférez.\n\nJ'ai modifié le Meetup au cas ou <https:\/\/www.meetup.com\/CogLab\/events\/nlnctsydcgbxb\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.meetup.com\/CogLab\/events\/nlnctsydcgbxb\/",
+                "image_url": "https:\/\/secure-content.meetupstatic.com\/images\/classic-events\/460317729\/676x380.jpg",
+                "image_width": 445,
+                "image_height": 250,
+                "image_bytes": 37909,
+                "service_icon": "https:\/\/secure.meetupstatic.com\/next\/images\/general\/m_swarm_120x120.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/CogLab\/events\/nlnctsydcgbxb\/",
+                "fallback": "Meetup: HackNight NeuroTechX Paris - Spéciale SO, Mon, Apr 18, 2022, 8:00 PM   | Meetup",
+                "text": "Mon, Apr 18, 8:00 PM CEST: Ce soir, jour férié, on se retrouve **en ligne** pour une **soirée spéciale** en préparation de notre projet de recherche autour de l'exposition l’Odyssée Sensorielle. **L",
+                "title": "HackNight NeuroTechX Paris - Spéciale SO, Mon, Apr 18, 2022, 8:00 PM   | Meetup",
+                "title_link": "https:\/\/www.meetup.com\/CogLab\/events\/nlnctsydcgbxb\/",
+                "service_name": "Meetup"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hoS8Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour !\n\nJe suis dans les derniers préparatifs pour la session de test de demain.\nA priori on se retrouve à 14h devant l'entrée du Muséum, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " & "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02GLDK69UJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je vous ai ajouté à une boucle email avec Olivier et Anastasia.\n\nComme c'est férié aujourd'hui, je pense que le CRI\/LPI est en horaire de weekend.\nAussi, pour se prévoir un point de synchro si vous voulez, on peux se retrouver en ligne ce soir ou demain matin, ou se retrouvez par exemple 30 minutes plus tôt demain, comme vous préférez.\n\nJ'ai modifié le Meetup au cas ou "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/CogLab\/events\/nlnctsydcgbxb\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1650296220.899799",
+        "client_msg_id": "3c039d9d-89d6-4999-ae53-8a1ba59cdb90",
+        "text": "Je partage également les photos de vos tests techniques de mercredi dernier, trouvé sur le Drive.\nManifestement, c'est trop compliqué de partager ici des informations... j'ai l'impression de faire de grands monologues tout seul :disappointed:\n<https:\/\/drive.google.com\/drive\/folders\/1Vo-Wtwv27VMbU0or2RlZr9QqvNMsOaUy>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m80J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je partage également les photos de vos tests techniques de mercredi dernier, trouvé sur le Drive.\nManifestement, c'est trop compliqué de partager ici des informations... j'ai l'impression de faire de grands monologues tout seul "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed",
+                                "unicode": "1f61e"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1Vo-Wtwv27VMbU0or2RlZr9QqvNMsOaUy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02GLDK69UJ",
+        "type": "message",
+        "ts": "1650297151.084119",
+        "client_msg_id": "7c9dd71e-4d46-43e9-b16d-12dc2d4fe1c2",
+        "text": "Très occupé ce soir, mais aucun pbm pour venir 30min plus tôt demain (c'est d'ailleurs ce que j'avais prévu)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "ea8311753d0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-28\/2671649382305_ea8311753d0c43d01df7_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "lesur.benjamin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1jlZ8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Très occupé ce soir, mais aucun pbm pour venir 30min plus tôt demain (c'est d'ailleurs ce que j'avais prévu)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1650297258.913979",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1650297470.000000"
+        },
+        "client_msg_id": "C116EA26-BB0E-45EE-AC33-9799C896184C",
+        "text": "Le LPI est fermé aujourd’hui (info via Samuel), je n’ai pas fini de décharger le sd card et traiter les data de l’expérimentation de mercredi, donc je n’avais pas encore pushé l’info dans le chan…",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hWJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le LPI est fermé aujourd’hui (info via Samuel), je n’ai pas fini de décharger le sd card et traiter les data de l’expérimentation de mercredi, donc je n’avais pas encore pushé l’info dans le chan…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1650315383.119379",
+        "client_msg_id": "ade6f81b-7eaf-4484-8a5a-08333f018904",
+        "text": "Hey la team COGitERGO, j'ai enfin commencé à tester les questionnaires de mon côté\n\nC'est plus rapide que ce que je pensais, en moyenne 1 à 2 minutes par questionnaires en dehors de la roue des émotions\nIl faut compter entre 15 et 20 minutes. En ne passant pas plus de 7-8 min à mon avis sur la roue des émotions.\n• E2.3 Questionnaire d’évaluation de l’état d’esprit (valence) &lt;30s\n• E2.4 Questionnaire d’évaluation du Sentiment de Présence 1'30\n• E2.5 Questionnaire d’évaluation du Flow 1'30\n• E2.6 Questionnaire sur « Le sublime » 1'30 + &lt;1' + &lt;1'\n• E2.6 Questionnaire « Roue des Émotions » &gt;5' (max 8 min)\n• E2.7 Questionnaire socio-démographique &lt;30'\nEn ajoutant 10 min max sur la dernière partie on est potentiellement dans les temps, modulo les aller-retour entre l'expo \/ Hall des Baleine (sortie de l'expo) et l'Auditorium (salle d'entretien)\n• E2.8 Évaluation de l’interface (à définir, pas encore testé) &gt;5'\n• E2.9 Ouverture et conclusion &lt;5'\n:bulb: Pour tester le questionnaire auprès des personnes ayant vu l'expo, voici un lien (si vous le faites vous-même ou diffuser, essayer de mesurer le temps total de complétion :hourglass:)\n<https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSdT1yjA7QpFVZTVLtwbAhD_XRcGKY86PPNBdBvuJMO-_bO7ng\/viewform?usp=sf_link>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1650315383.119379",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1650885640.937739",
+        "reply_users": [
+            "U01S8PWA7GU",
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U01S8PWA7GU",
+                "ts": "1650593130.430839"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1650885640.937739"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AeQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey la team COGitERGO, j'ai enfin commencé à tester les questionnaires de mon côté\n\nC'est plus rapide que ce que je pensais, en moyenne 1 à 2 minutes par questionnaires en dehors de la roue des émotions\nIl faut compter entre 15 et 20 minutes. En ne passant pas plus de 7-8 min à mon avis sur la roue des émotions.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "E2.3 Questionnaire d’évaluation de l’état d’esprit (valence) <30s"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "E2.4 Questionnaire d’évaluation du Sentiment de Présence 1'30"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "E2.5 Questionnaire d’évaluation du Flow 1'30"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "E2.6 Questionnaire sur « Le sublime » 1'30 + <1' + <1'"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "E2.6 Questionnaire « Roue des Émotions » >5' (max 8 min)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "E2.7 Questionnaire socio-démographique <30'"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nEn ajoutant 10 min max sur la dernière partie on est potentiellement dans les temps, modulo les aller-retour entre l'expo \/ Hall des Baleine (sortie de l'expo) et l'Auditorium (salle d'entretien)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "E2.8 Évaluation de l’interface (à définir, pas encore testé) >5'"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "E2.9 Ouverture et conclusion <5'"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bulb",
+                                "unicode": "1f4a1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Pour tester le questionnaire auprès des personnes ayant vu l'expo, voici un lien (si vous le faites vous-même ou diffuser, essayer de mesurer le temps total de complétion "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hourglass",
+                                "unicode": "231b"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSdT1yjA7QpFVZTVLtwbAhD_XRcGKY86PPNBdBvuJMO-_bO7ng\/viewform?usp=sf_link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02GLDKAWQ2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1650316970.279719",
+        "client_msg_id": "353d6f67-8ae4-43f7-b921-0534950bf05f",
+        "text": "*RDV demain à 14h devant l'entrée du personnel, au 36 rue Geoffroy Saint Hilaire avec l'équipe de l'exposition.*\nPour ceux qui le peuvent, on se retrouvera à partir de 13h30 pour un brief.\n<@U59MQ46DA> <@U02GLDK69UJ> et moi, on est bien enregistré + Lisa et Sarah ont été signalées au directeur de l'exploitation",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4VtL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "RDV demain à 14h devant l'entrée du personnel, au 36 rue Geoffroy Saint Hilaire avec l'équipe de l'exposition.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPour ceux qui le peuvent, on se retrouvera à partir de 13h30 pour un brief.\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02GLDK69UJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et moi, on est bien enregistré + Lisa et Sarah ont été signalées au directeur de l'exploitation"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02GLDK69UJ",
+        "type": "message",
+        "ts": "1650316998.638979",
+        "client_msg_id": "c3b66ee9-0cf7-4fa1-98ec-fc2c11b35f84",
+        "text": ":+1:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "ea8311753d0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-28\/2671649382305_ea8311753d0c43d01df7_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "lesur.benjamin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mWlTw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

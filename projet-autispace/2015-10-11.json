@@ -1,0 +1,141 @@
+[
+    {
+        "user": "U03FC4NE1",
+        "type": "message",
+        "ts": "1444572877.000002",
+        "text": "Hello <!channel> \nIl y a quelques jours <@U0AR01SPQ> à lancé un Doodle <http:\/\/doodle.com\/poll\/t8isrhz7vvx62ccy>\nCeci en vue d'organiser une rencontre avec l'équipe de Altotoc <http:\/\/www.altotoc.fr\/>\nIls sont ouvert à de nouvelles initiatives et lancent des projets au carrefour entre sciences cognitives et technologie, l'occasion d'avoir un partenaire et des avis d'expert pour le projet TransmédiaBrain :simple_smile:\nN'hésitez pas à indiquer vos disponibilités :simple_smile:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ce8fbc12b73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-01-27\/3522174799_7ce8fbc12b7351a6a2b3_72.jpg",
+            "first_name": "CogLab",
+            "real_name": "CogLab NeuroTechX Paris",
+            "display_name": "coglab",
+            "team": "T03FC4NDZ",
+            "name": "coglab",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Rencontre CogLab \/ Altotoc - Doodle: easy scheduling",
+                "title_link": "http:\/\/doodle.com\/poll\/t8isrhz7vvx62ccy",
+                "text": "Discussions \/ axes d'aide à l'équipe du projet Altotoc: équiper les personnes souffrant de TOC d'outils technologiques de manière à améliorer leur qualité de vie.",
+                "fallback": "Rencontre CogLab \/ Altotoc - Doodle: easy scheduling",
+                "from_url": "http:\/\/doodle.com\/poll\/t8isrhz7vvx62ccy",
+                "thumb_url": "http:\/\/doodle.com\/graphics\/static\/facebookSharingThumbnail.jpg",
+                "thumb_width": 100,
+                "thumb_height": 100,
+                "id": 1
+            },
+            {
+                "title": "Altotoc",
+                "title_link": "http:\/\/www.altotoc.fr\/",
+                "text": "Rassembler, créer, agir",
+                "fallback": "Altotoc",
+                "from_url": "http:\/\/www.altotoc.fr\/",
+                "id": 2
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N4Z+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nIl y a quelques jours "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0AR01SPQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " à lancé un Doodle "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/doodle.com\/poll\/t8isrhz7vvx62ccy"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nCeci en vue d'organiser une rencontre avec l'équipe de Altotoc "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.altotoc.fr\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nIls sont ouvert à de nouvelles initiatives et lancent des projets au carrefour entre sciences cognitives et technologie, l'occasion d'avoir un partenaire et des avis d'expert pour le projet TransmédiaBrain "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nN'hésitez pas à indiquer vos disponibilités "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1444586903.000002",
+        "text": "J'ai répondu en commentaire",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IRnMw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai répondu en commentaire"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "Meeting NTX XR Biosense: <!date^1624381200^{date_short_pretty} from {time}|June 22nd, 2021 from 7:00 PM> to <!date^1624384800^{time}|8:00 PM GMT+0200>",
+                "text": "<!date^1624381200^{date_short_pretty} from {time}|June 22nd, 2021 from 7:00 PM> to <!date^1624384800^{time}|8:00 PM GMT+0200>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "Meeting NTX XR Biosense",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MDRobmRobjNtZGx0Z3Y2dG82ZXZoaTNlZ3Ugc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1624377602.001600",
+        "bot_id": "B4SJBP2L8"
+    }
+]

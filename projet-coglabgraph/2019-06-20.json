@@ -1,0 +1,65 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1561030662.001400",
+        "client_msg_id": "25ea7dbe-2dc3-4b3a-860f-493ed0c64212",
+        "text": "<https:\/\/blog.apollographql.com\/apollo-federation-f260cf525d21>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Apollo GraphQL",
+                "title": "Apollo Federation",
+                "title_link": "https:\/\/blog.apollographql.com\/apollo-federation-f260cf525d21",
+                "text": "A revolutionary architecture for building a distributed graph",
+                "fallback": "Apollo GraphQL: Apollo Federation",
+                "image_url": "https:\/\/cdn-images-1.medium.com\/max\/1200\/1*IF6Inba771Jh_nwpBz4_3A.png",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "5 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1559222225,
+                "from_url": "https:\/\/blog.apollographql.com\/apollo-federation-f260cf525d21",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 115240,
+                "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/304\/304\/1*h3E_KHKB9jNKTkXkhrY5gA.png",
+                "id": 1,
+                "original_url": "https:\/\/blog.apollographql.com\/apollo-federation-f260cf525d21"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gPi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/blog.apollographql.com\/apollo-federation-f260cf525d21"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

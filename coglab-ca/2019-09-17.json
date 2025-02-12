@@ -1,0 +1,178 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card Setup custom domain Github added to list A FAIRE on board Gestion CogLab (administrateur).",
+                "text": "In list *A FAIRE* on *<https:\/\/trello.com\/b\/jSnI3dXM|Gestion CogLab (administrateur)>*.",
+                "pretext": "New card created",
+                "title": "Setup custom domain Github",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/OS4qPNUA",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1568725567.000100",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U03FC5ZAK",
+        "thread_ts": "1566986800.003800",
+        "root": {
+            "user": "U03FC5ZAK",
+            "type": "message",
+            "ts": "1566986800.003800",
+            "client_msg_id": "ca680a8e-dd44-483f-93a8-90df8cf92d82",
+            "text": "[Message de service]\nLe 10 septembre, l’hébergement OVH associé au site web de l’association va — enfin — être automatiquement migré sur une nouvelle infrastructure plus moderne.\nPar conséquent, il est possible qu’il y ai quelques perturbations (indisponibilité) des services web associé à cette date (site, email, ...).\nJ’en ai noté quelque unes également ces derniers jours.\nCette migration va nous permettre un gain de performance important en principe.",
+            "team": "T03FC4NDZ",
+            "thread_ts": "1566986800.003800",
+            "reply_count": 3,
+            "reply_users_count": 2,
+            "latest_reply": "1568752471.001700",
+            "reply_users": [
+                "U03FEH3N8",
+                "U03FC5ZAK"
+            ],
+            "replies": [
+                {
+                    "user": "U03FEH3N8",
+                    "ts": "1567060871.000600"
+                },
+                {
+                    "user": "U03FC5ZAK",
+                    "ts": "1567153097.000100"
+                },
+                {
+                    "user": "U03FC5ZAK",
+                    "ts": "1568752471.001700"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "+BK",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "[Message de service]\nLe 10 septembre, l’hébergement OVH associé au site web de l’association va — enfin — être automatiquement migré sur une nouvelle infrastructure plus moderne.\nPar conséquent, il est possible qu’il y ai quelques perturbations (indisponibilité) des services web associé à cette date (site, email, ...).\nJ’en ai noté quelque unes également ces derniers jours.\nCette migration va nous permettre un gain de performance important en principe."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1568752471.001700",
+        "client_msg_id": "7E15430A-BB9C-498F-B19A-1F468A016889",
+        "text": "Bonjour. Je confirme que la migration vers un nouveau datacenter a bien été effectuée la nuit du 10 septembre.",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F97",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour. Je confirme que la migration vers un nouveau datacenter a bien été effectuée la nuit du 10 septembre."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568753082.006200",
+        "client_msg_id": "A52E61BF-3378-4E07-A266-B47882B294B3",
+        "text": "Bonjour <!here>, petit rappel concernant la Fresco\n\n- Ce dimanche soir aura lieu le conseil d’administration de la fédération \n- Pour les personne intéressées par le Week-end fédérateur, c’est également les derniers jours pour se manifester !\n\n___\n\nBonjour à tous et à toutes !\n \nEn cette période de rentrée, on vient déjà avec une bonne nouvelle puisqu’on vous annonce d’ores et déjà la date du *WEARE (Weekend Associatif de Réflexion Étudiante) qui aura lieu du 25 au 27 octobre* !\n \nCela se passera dans un gîte à Matour en Bourgogne, des informations seront communiquées prochainement pour vous guider au niveau des transports.\nCe weekend est ouvert aux membres des bureaux des assos de la FRESCO, à raison de 2 membres par asso pour commencer, pour un total de 38 places. Nous vous conseillons et enjoignons à vous inscrire au plus vite ! Pour s’inscrire, il vous suffit de renseigner votre nom sur cette fiche : <https:\/\/docs.google.com\/spreadsheets\/d\/1VBUiSwPxjryjGCVkcWZCdzI7VMeWUTLYgUFofwgAE6s\/edit#gid=0> puis d’effectuer un virement à la FRESCO (rib en pièce jointe).\n \nLe prix du weekend est de 40€, repas et hébergement compris. On vous conseille d’inscrire votre nom au plus vite quitte à effectuer le virement plus tard (mais il est impératif qu’il soit fait avant le WEARE).\n \nA propos du weekend : *le WEARE est un des plus anciens projets portés par la FRESCO et l’un des piliers de notre fédération d’associations* : le temps d’un week-end dans un gîte de campagne situé dans la mesure du possible à équidistance de toutes les villes hébergeant les associations locales fédérées, quelques membres de chaque bureau d’association se rencontrent et échangent au gré des journées et soirées des conseils, astuces, compétences et connaissances liés au monde associatif en sciences cognitives.\nLes informations et ressources partagées sont nombreuses et variées, les questions abordées peuvent aller de « Comment lancer un événement de grande envergure ? Comment en choisir le thème ainsi que le format ? » à « Que faire pour financer un projet, écrire des demandes de financement et respecter le budget prévisionnel ? Comment gérer la trésorerie ? » en passant par « Quels outils informatiques et bureautiques peuvent être utiles pour favoriser et maintenir la communication au sein d’une association ? ».\nCette année, le WEARE se tiendra du 25 au 27 octobre : ces dates de milieu de premier semestre universitaire permettent de maximiser la présence des nouveaux bureaux afin de les aiguiller au mieux dans leur nouveau rôle, tout en laissant tout le deuxième semestre aux projets lancés pour se concrétiser !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6HsH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", petit rappel concernant la Fresco\n\n- Ce dimanche soir aura lieu le conseil d’administration de la fédération \n- Pour les personne intéressées par le Week-end fédérateur, c’est également les derniers jours pour se manifester !\n\n___\n\nBonjour à tous et à toutes !\n \nEn cette période de rentrée, on vient déjà avec une bonne nouvelle puisqu’on vous annonce d’ores et déjà la date du "
+                            },
+                            {
+                                "type": "text",
+                                "text": "WEARE (Weekend Associatif de Réflexion Étudiante) qui aura lieu du 25 au 27 octobre",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " !\n \nCela se passera dans un gîte à Matour en Bourgogne, des informations seront communiquées prochainement pour vous guider au niveau des transports.\nCe weekend est ouvert aux membres des bureaux des assos de la FRESCO, à raison de 2 membres par asso pour commencer, pour un total de 38 places. Nous vous conseillons et enjoignons à vous inscrire au plus vite ! Pour s’inscrire, il vous suffit de renseigner votre nom sur cette fiche : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1VBUiSwPxjryjGCVkcWZCdzI7VMeWUTLYgUFofwgAE6s\/edit#gid=0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " puis d’effectuer un virement à la FRESCO (rib en pièce jointe).\n \nLe prix du weekend est de 40€, repas et hébergement compris. On vous conseille d’inscrire votre nom au plus vite quitte à effectuer le virement plus tard (mais il est impératif qu’il soit fait avant le WEARE).\n \nA propos du weekend : "
+                            },
+                            {
+                                "type": "text",
+                                "text": "le WEARE est un des plus anciens projets portés par la FRESCO et l’un des piliers de notre fédération d’associations",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " : le temps d’un week-end dans un gîte de campagne situé dans la mesure du possible à équidistance de toutes les villes hébergeant les associations locales fédérées, quelques membres de chaque bureau d’association se rencontrent et échangent au gré des journées et soirées des conseils, astuces, compétences et connaissances liés au monde associatif en sciences cognitives.\nLes informations et ressources partagées sont nombreuses et variées, les questions abordées peuvent aller de « Comment lancer un événement de grande envergure ? Comment en choisir le thème ainsi que le format ? » à « Que faire pour financer un projet, écrire des demandes de financement et respecter le budget prévisionnel ? Comment gérer la trésorerie ? » en passant par « Quels outils informatiques et bureautiques peuvent être utiles pour favoriser et maintenir la communication au sein d’une association ? ».\nCette année, le WEARE se tiendra du 25 au 27 octobre : ces dates de milieu de premier semestre universitaire permettent de maximiser la présence des nouveaux bureaux afin de les aiguiller au mieux dans leur nouveau rôle, tout en laissant tout le deuxième semestre aux projets lancés pour se concrétiser !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

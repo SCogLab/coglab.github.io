@@ -1,0 +1,106 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1453763098.000002",
+        "text": "Hello,\n\nLe jeudi 11 février, il y aura une projection autour de la réalité augmentée avec des ateliers pour permettre au public d’interagir\nCa se passera au Centre d'animation Maurice Ravel, de 20h à 21h30 - 22h et organisé par l'association Tallulah (qui organise <http:\/\/www.festival-film-merveilleux.com\/>)\n\nOn a l'occasion de présenter un ou plusieurs ateliers, <@U07CFCCBG> ça t'intéresse ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Festival du Film Merveilleux &amp; Imaginaire",
+                "title_link": "http:\/\/www.festival-film-merveilleux.com\/",
+                "text": "Festival du Film Merveilleux &amp; imaginaire, Paris, Londres, New-York... Découvrez toute l'actualité \/ Discover all about wonder and imagination.",
+                "fallback": "Festival du Film Merveilleux &amp; Imaginaire",
+                "from_url": "http:\/\/www.festival-film-merveilleux.com\/",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e=8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello,\n\nLe jeudi 11 février, il y aura une projection autour de la réalité augmentée avec des ateliers pour permettre au public d’interagir\nCa se passera au Centre d'animation Maurice Ravel, de 20h à 21h30 - 22h et organisé par l'association Tallulah (qui organise "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.festival-film-merveilleux.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n\nOn a l'occasion de présenter un ou plusieurs ateliers, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07CFCCBG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ça t'intéresse ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1453763430.000004",
+        "text": "J'ai amorcé un hackpad : <https:\/\/coglab.hackpad.com\/Atelier-VR-11022016-8ltZF9MZouw>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i6E0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai amorcé un hackpad : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.hackpad.com\/Atelier-VR-11022016-8ltZF9MZouw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

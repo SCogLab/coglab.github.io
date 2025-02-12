@@ -1,0 +1,122 @@
+[
+    {
+        "user": "U07CLARN1",
+        "type": "message",
+        "ts": "1468611343.000002",
+        "text": "<@U03FC5ZAK>: ça te va demain à 15h00 ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gddf4d6126fe",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7ddf4d6126fe8dc2957569141ccb2567.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Jérémy",
+            "real_name": "Jérémy VIRGO",
+            "display_name": "jeremy",
+            "team": "T03FC4NDZ",
+            "name": "jeremy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F65C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": ça te va demain à 15h00 ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1468611514.000003",
+        "text": "Fine for me :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YrK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fine for me "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07CLARN1",
+        "type": "message",
+        "ts": "1468611547.000004",
+        "text": "Top !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gddf4d6126fe",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7ddf4d6126fe8dc2957569141ccb2567.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Jérémy",
+            "real_name": "Jérémy VIRGO",
+            "display_name": "jeremy",
+            "team": "T03FC4NDZ",
+            "name": "jeremy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "usFA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Top !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

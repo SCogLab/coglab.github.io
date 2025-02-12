@@ -1,0 +1,25 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "Event updated: [SO] Acquisition Session 1: <!date^1652337000^{date_short_pretty} from {time}|May 11th, 2022 from 8:30 AM> to <!date^1652355000^{time}|1:30 PM GMT+0200>",
+                "text": "<!date^1652337000^{date_short_pretty} from {time}|May 11th, 2022 from 8:30 AM> to <!date^1652355000^{time}|1:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=National+Museum+of+Natural+History%2C+57+Rue+Cuvier%2C+75005+Paris%2C+France|National Museum of Natural History, 57 Rue Cuvier, 75005 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "[SO] Acquisition Session 1",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=N21pbGp0Zzg1N3R1dmVnYWNlM3BvMjl0Mmcgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "more",
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1651761431.653299",
+        "bot_id": "B4SJBP2L8"
+    }
+]

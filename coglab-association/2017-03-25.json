@@ -1,0 +1,54 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1490463629.144383",
+        "edited": {
+            "user": "U03FC5ZAK",
+            "ts": "1490463650.000000"
+        },
+        "text": "<!here|@here> La date du 1er avril n'est plus tenable\n- Manque de feedback\n- La Paillasse ne peux pas nous accueillir car les locaux ne seront pas dispo\n- Il est trop tard pour annoncer publiquement la tenue d'une AG à mon sens\n*Est-ce que je lancer un Doodle avec de nouvelles date ?*",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PKG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here|@here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " La date du 1er avril n'est plus tenable\n- Manque de feedback\n- La Paillasse ne peux pas nous accueillir car les locaux ne seront pas dispo\n- Il est trop tard pour annoncer publiquement la tenue d'une AG à mon sens\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Est-ce que je lancer un Doodle avec de nouvelles date ?",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CogLab HackNight #123 - Spéciale BCI Voyager: <!date^1569859200^{date_short_pretty} from {time}|September 30th, 2019 from 6:00 PM> to <!date^1569875400^{time}|10:30 PM GMT+0200>",
+                "text": "<!date^1569859200^{date_short_pretty} from {time}|September 30th, 2019 from 6:00 PM> to <!date^1569875400^{time}|10:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Centre+de+Recherche+Interdisciplinaire+%28CRI%29%2C+8bis+Rue+Charles+V%2C+75004+Paris%2C+France|Centre de Recherche Interdisciplinaire (CRI), 8bis Rue Charles V, 75004 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab HackNight #123 - Spéciale BCI Voyager",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=M2xiZWxycnE5amM0YTZtaHFyc3VhdWxuYjEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1569572292.000100",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: Sprint BCI Voyager: <!date^1569758400^{date_short_pretty} from {time}|September 29th, 2019 from 2:00 PM> to <!date^1569772800^{time}|6:00 PM GMT+0200>",
+                "text": "<!date^1569758400^{date_short_pretty} from {time}|September 29th, 2019 from 2:00 PM> to <!date^1569772800^{time}|6:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=28B+Rue+Gallieni%2C+92600+Asni%C3%A8res-sur-Seine%2C+France|28B Rue Gallieni, 92600 Asnières-sur-Seine, France>",
+                "pretext": "New calendar event created",
+                "title": "Sprint BCI Voyager",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NTRjcjNpdnVpZmFodGYxNmE0MWVqYnNjZTAgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1569572413.000200",
+        "bot_id": "B4SJBP2L8"
+    }
+]

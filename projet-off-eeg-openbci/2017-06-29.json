@@ -1,0 +1,66 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1498760962.254610",
+        "text": "Un autre projet potentiellement intéressant pour toi <@U59MQ46DA> \n<https:\/\/github.com\/icibici\/smartphone-bci>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "icibici\/smartphone-bci",
+                "title_link": "https:\/\/github.com\/icibici\/smartphone-bci",
+                "text": "Contribute to smartphone-bci development by creating an account on GitHub.",
+                "fallback": "GitHub: icibici\/smartphone-bci",
+                "from_url": "https:\/\/github.com\/icibici\/smartphone-bci",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/28689490?v=3&s=400",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kDYGn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un autre projet potentiellement intéressant pour toi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/icibici\/smartphone-bci"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

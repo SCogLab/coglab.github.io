@@ -1,0 +1,80 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568128307.000600",
+        "client_msg_id": "3c6148e8-4815-4224-ac01-74a0b9ef28a1",
+        "text": "<https:\/\/twitter.com\/castillo__io\/status\/1171418476399005696?s=19>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/castillo__io|@castillo__io>: Meet my friend Minko (<https:\/\/twitter.com\/mgechev|@mgechev>). \n\nHe is one of the most talented Software Engineers I’ve met. His open source work has been downloaded more than 48 million times, helping many people be more productive at work.  \n\nHe is also able to control a light with his mind using Notion. <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1171418442454487040\/pu\/img\/HkZvTvUkwvnOWhQp.jpg>",
+                "ts": 1568122903,
+                "author_name": "Alex Castillo",
+                "author_link": "https:\/\/twitter.com\/castillo__io\/status\/1171418476399005696",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1092231539969179650\/aX9ENmJ__normal.jpg",
+                "author_subname": "@castillo__io",
+                "text": "Meet my friend Minko (<https:\/\/twitter.com\/mgechev|@mgechev>). \n\nHe is one of the most talented Software Engineers I’ve met. His open source work has been downloaded more than 48 million times, helping many people be more productive at work.  \n\nHe is also able to control a light with his mind using Notion.",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/castillo__io\/status\/1171418476399005696?s=19",
+                "thumb_url": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1171418442454487040\/pu\/img\/HkZvTvUkwvnOWhQp.jpg",
+                "thumb_width": 675,
+                "thumb_height": 1200,
+                "video_html_width": 675,
+                "video_html_height": 1200,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1171418442454487040\/pu\/img\/HkZvTvUkwvnOWhQp.jpg\" width=\"675\" height=\"1200\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/ext_tw_video\/1171418442454487040\/pu\/vid\/720x1280\/xIfhvzkq2eEMIg2n.mp4?tag=10\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/castillo__io\/status\/1171418476399005696?s=19",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LD5K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/castillo__io\/status\/1171418476399005696?s=19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "UN5THSRG8",
+        "text": "<@UN5THSRG8> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568128338.000900"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "ULSDVUUVA",
+        "text": "<@ULSDVUUVA> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568128360.001200"
+    }
+]

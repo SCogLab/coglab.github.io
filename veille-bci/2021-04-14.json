@@ -1,0 +1,112 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1618416400.004600",
+        "client_msg_id": "e553a629-d647-4783-8e0c-b0946b9232d6",
+        "text": "*EEG online experiment GUI*\n\nDescription\n_This is a GUI designed for EEG data online collection and experiment. Most commercial EEG instruments such as NeuroElectric, Gtec and BrainProducts are compatible with this GUI as long as they are supported by <https:\/\/labstreaminglayer.readthedocs.io\/info\/supported_devices.html|lab streaming layer (LSL)> . The basic communication with LSL is done by [1], this app expands the GUI to suit EEG\/EMG\/ECG experiments._\n\nSource <https:\/\/github.com\/WILLSNIU186\/EEG-Online-Experiment-GUI> via le Slack NeuroTechX",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "WILLSNIU186\/EEG-Online-Experiment-GUI",
+                "text": "EEG online experiment GUI",
+                "title": "WILLSNIU186\/EEG-Online-Experiment-GUI",
+                "footer": "<https:\/\/github.com\/WILLSNIU186\/EEG-Online-Experiment-GUI|WILLSNIU186\/EEG-Online-Experiment-GUI>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1591116882,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Language",
+                        "value": "Python",
+                        "short": true
+                    },
+                    {
+                        "title": "Last updated",
+                        "value": "11 hours ago",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "BA73T1BTJ",
+                "app_unfurl_url": "https:\/\/github.com\/WILLSNIU186\/EEG-Online-Experiment-GUI",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GAin",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "EEG online experiment GUI",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nDescription\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "This is a GUI designed for EEG data online collection and experiment. Most commercial EEG instruments such as NeuroElectric, Gtec and BrainProducts are compatible with this GUI as long as they are supported by ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/labstreaminglayer.readthedocs.io\/info\/supported_devices.html",
+                                "text": "lab streaming layer (LSL)",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " . The basic communication with LSL is done by [1], this app expands the GUI to suit EEG\/EMG\/ECG experiments.",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nSource "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/WILLSNIU186\/EEG-Online-Experiment-GUI"
+                            },
+                            {
+                                "type": "text",
+                                "text": " via le Slack NeuroTechX"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

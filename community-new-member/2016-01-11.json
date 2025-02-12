@@ -1,0 +1,334 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U03FC5ZAK",
+        "text": "<@U03FC5ZAK> a rejoint le canal",
+        "type": "message",
+        "ts": "1452518778.000002"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC5ZAK",
+        "purpose": "Rencontres avec tous organismes en lien avec les Sciences Cognitives (potentiellement) intéressé par la démarche CogLab",
+        "text": "a défini la description du canal : Rencontres avec tous organismes en lien avec les Sciences Cognitives (potentiellement) intéressé par la démarche CogLab",
+        "type": "message",
+        "ts": "1452518778.000003"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FEH3N8",
+        "text": "<@U03FEH3N8> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1452518778.000004"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FC4NE1",
+        "text": "<@U03FC4NE1> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1452518778.000005"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0AR01SPQ",
+        "text": "<@U0AR01SPQ> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1452518778.000006"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03HY4P8V",
+        "text": "<@U03HY4P8V> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1452518778.000007"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U07CFCCBG",
+        "text": "<@U07CFCCBG> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1452518779.000008"
+    },
+    {
+        "user": "U0AR01SPQ",
+        "type": "message",
+        "ts": "1452520860.000009",
+        "text": "Hello!\nCa intéresse la Fondation de Recherche sur le Cerveau de nous rencontrer dans l'optique d'un partenariat.\n\n<http:\/\/www.frcneurodon.org\/decouvrir-la-federation\/grands-evenements-en-partenariat\/la-semaine-du-cerveau\/>\n<http:\/\/www.frcneurodon.org\/soutenir-la-frc\/soutenir-autrement\/organiser-un-evenement\/>\n\nDans l'idée: on peut faire des actions en commun, échanger des bons procédés (mise en contact avec l'equipe de chercheurs d'Altotoc par ex). A mon avis, ils seront complètement séduits par Cogni'junior, les actions et les supports, vu qu'ils font un travail d'action dans les écoles! cc <@U03FEH3N8> \nNous, si on peut récupérer du matériel, ce serait pas mal :simple_smile:\n\nJe suis en contact avec Anabelle Schwarz, elle peut nous rencontrer (ils sont à Paris 9è),  qui veut se joindre au rdv? On calera la date selon les dispos de chacun.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b34e84fd77bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-17\/18704226567_b34e84fd77bcdb81946f_72.jpg",
+            "first_name": "Murielle",
+            "real_name": "Murielle PALISSANDRE",
+            "display_name": "murielle",
+            "team": "T03FC4NDZ",
+            "name": "murielle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Fédération pour la Recherche sur le Cerveau (FRC)",
+                "title": "La semaine du cerveau",
+                "title_link": "http:\/\/www.frcneurodon.org\/decouvrir-la-federation\/grands-evenements-en-partenariat\/la-semaine-du-cerveau\/",
+                "text": "Semaine du cerveau 2016 : du 14 au 20 mars 2016.   Dans plus de 30 villes de France, les chercheurs vous invitent à partager leur enthousiasme pour comprendre ce qui nous sert à comprendre, pour explorer cet organe fascinant qu'est notre cerveau et découvrir comment il fonctionne à t...",
+                "fallback": "Fédération pour la Recherche sur le Cerveau (FRC): La semaine du cerveau",
+                "image_url": "http:\/\/www.frcneurodon.org\/app\/uploads\/2015\/10\/semaine-du-cerveau.png",
+                "image_width": 853,
+                "image_height": 250,
+                "ts": 1445942062,
+                "from_url": "http:\/\/www.frcneurodon.org\/decouvrir-la-federation\/grands-evenements-en-partenariat\/la-semaine-du-cerveau\/",
+                "image_bytes": 159354,
+                "id": 1
+            },
+            {
+                "service_name": "Fédération pour la Recherche sur le Cerveau (FRC)",
+                "title": "Organiser un événement",
+                "title_link": "http:\/\/www.frcneurodon.org\/soutenir-la-frc\/soutenir-autrement\/organiser-un-evenement\/",
+                "text": "Organiser une exposition photo La volonté de la Fédération pour la Recherche sur le Cerveau est d’éveiller l’intérêt du grand public pour le cerveau, comprendre comment il fonctionne et pourquoi il dysfonctionne. Au travers d’une quarantaine de clichés issus de la photothèque de l’Inserm, l’exposition « Le cerveau dans tous ses éclats » propose au public de découvrir les mystères de notre cerveau.",
+                "fallback": "Fédération pour la Recherche sur le Cerveau (FRC): Organiser un événement",
+                "image_url": "http:\/\/www.frcneurodon.org\/app\/uploads\/2015\/10\/catalogues-salle-dexpo-panthère-e1449230204187.jpg",
+                "image_width": 856,
+                "image_height": 250,
+                "ts": 1445955807,
+                "from_url": "http:\/\/www.frcneurodon.org\/soutenir-la-frc\/soutenir-autrement\/organiser-un-evenement\/",
+                "image_bytes": 122764,
+                "id": 2
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2cHs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello!\nCa intéresse la Fondation de Recherche sur le Cerveau de nous rencontrer dans l'optique d'un partenariat.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.frcneurodon.org\/decouvrir-la-federation\/grands-evenements-en-partenariat\/la-semaine-du-cerveau\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.frcneurodon.org\/soutenir-la-frc\/soutenir-autrement\/organiser-un-evenement\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nDans l'idée: on peut faire des actions en commun, échanger des bons procédés (mise en contact avec l'equipe de chercheurs d'Altotoc par ex). A mon avis, ils seront complètement séduits par Cogni'junior, les actions et les supports, vu qu'ils font un travail d'action dans les écoles! cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nNous, si on peut récupérer du matériel, ce serait pas mal "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nJe suis en contact avec Anabelle Schwarz, elle peut nous rencontrer (ils sont à Paris 9è),  qui veut se joindre au rdv? On calera la date selon les dispos de chacun."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0AR01SPQ",
+        "type": "message",
+        "ts": "1452537580.000002",
+        "text": "je créerai dans un doodle pour caler une date",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b34e84fd77bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-17\/18704226567_b34e84fd77bcdb81946f_72.jpg",
+            "first_name": "Murielle",
+            "real_name": "Murielle PALISSANDRE",
+            "display_name": "murielle",
+            "team": "T03FC4NDZ",
+            "name": "murielle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+gG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je créerai dans un doodle pour caler une date"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0DGL8D8F",
+        "text": "<@U0DGL8D8F> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1452544943.000002"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1452545136.000003",
+        "text": "Super nouvelle <@U0AR01SPQ> :simple_smile:\nJ'ajoute <@U0DGL8D8F> de Altotoc dans le channel\nOn peux essayer de capitaliser avec l'une des dates ou <@U03FEH3N8> sera à Paris (je la laisse préciser si ça lui va), ou une autre personne de CogniJunior",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cU3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Super nouvelle "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0AR01SPQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nJ'ajoute "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0DGL8D8F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " de Altotoc dans le channel\nOn peux essayer de capitaliser avec l'une des dates ou "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sera à Paris (je la laisse préciser si ça lui va), ou une autre personne de CogniJunior"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1452556070.000004",
+        "text": "Coucou bin moi je suis à Paris le week end du CogLab summit mais le week end est assez chargé à part si on peut les rencontrer samedi ou dimanche matin, et sinon je serai là le 12-13-14 février ( :thinking_face: :face_with_rolling_eyes: :flushed: mais le13 est déjà bien chargé) sinon évidemment je suis toujours disponible en skype ",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6\/D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coucou bin moi je suis à Paris le week end du CogLab summit mais le week end est assez chargé à part si on peut les rencontrer samedi ou dimanche matin, et sinon je serai là le 12-13-14 février ( "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face",
+                                "unicode": "1f914"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_rolling_eyes",
+                                "unicode": "1f644"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "flushed",
+                                "unicode": "1f633"
+                            },
+                            {
+                                "type": "text",
+                                "text": " mais le13 est déjà bien chargé) sinon évidemment je suis toujours disponible en skype"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

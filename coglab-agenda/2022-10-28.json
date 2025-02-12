@@ -1,0 +1,73 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "[NTXhack2022] Hackathon KickOFF: <!date^1666972800^{date_short_pretty} from {time}|October 28th, 2022 from 6:00 PM> to <!date^1666987200^{time}|10:00 PM GMT+0200>",
+                "text": "<!date^1666972800^{date_short_pretty} from {time}|October 28th, 2022 from 6:00 PM> to <!date^1666987200^{time}|10:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=42%2C+96+Bd+Bessi%C3%A8res%2C+75017+Paris%2C+France|42, 96 Bd Bessières, 75017 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "[NTXhack2022] Hackathon KickOFF",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MTAwdnRkY3Fhb3A0YmJ1NW80amhzOHJjbGIgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "more",
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1666969203.508579",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "Hackathon NeuroTechX: <!date^1666974600^{date_short_pretty} from {time}|October 28th, 2022 from 6:30 PM> to <!date^1667152800^{date_short_pretty} at {time}|October 30th, 2022 at 7:00 PM GMT+0100>",
+                "text": "<!date^1666974600^{date_short_pretty} from {time}|October 28th, 2022 from 6:30 PM> to <!date^1667152800^{date_short_pretty} at {time}|October 30th, 2022 at 7:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=42%2C+96+Bd+Bessi%C3%A8res%2C+75017+Paris%2C+France|42, 96 Bd Bessières, 75017 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "Hackathon NeuroTechX",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MTBjYXJoNjM1aHI5ZDRoaG9maDYxMjVwOGIgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1666971001.249549",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "[NTXhack2022] Hackathon Day 1: <!date^1667029500^{date_short_pretty} from {time}|October 29th, 2022 from 9:45 AM> to <!date^1667070900^{time}|9:15 PM GMT+0200>",
+                "text": "<!date^1667029500^{date_short_pretty} from {time}|October 29th, 2022 from 9:45 AM> to <!date^1667070900^{time}|9:15 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=42%2C+96+Bd+Bessi%C3%A8res%2C+75017+Paris%2C+France|42, 96 Bd Bessières, 75017 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "[NTXhack2022] Hackathon Day 1",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MGlpMGhrYXJjaDJrZGpydXFmaXI3Y2FyOGYgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "more",
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1667025901.587549",
+        "bot_id": "B4SJBP2L8"
+    }
+]

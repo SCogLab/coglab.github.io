@@ -1,0 +1,95 @@
+[
+    {
+        "user": "U0AR01SPQ",
+        "type": "message",
+        "ts": "1455512769.000002",
+        "edited": {
+            "user": "U0AR01SPQ",
+            "ts": "1455514323.000000"
+        },
+        "text": "<@U03FC5ZAK>: #technos ubiquitaires: j'ai pensé à Keecker suite à ta prés de jeudi dernier: \nla video : <https:\/\/www.youtube.com\/watch?v=swrejETdHCA>\nle site <http:\/\/www.keecker.com\/>\n\nUne des boites dans lesquelles j'aimerais bien travailler!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b34e84fd77bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-17\/18704226567_b34e84fd77bcdb81946f_72.jpg",
+            "first_name": "Murielle",
+            "real_name": "Murielle PALISSANDRE",
+            "display_name": "murielle",
+            "team": "T03FC4NDZ",
+            "name": "murielle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "KEECKER ON KICKSTARTER",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=swrejETdHCA",
+                "author_name": "KEECKER",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC8lNeFOCVMiSBifqqPPAnOA",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/swrejETdHCA\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: KEECKER ON KICKSTARTER",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/swrejETdHCA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=swrejETdHCA",
+                "id": 1
+            },
+            {
+                "service_name": "KEECKER",
+                "title": "Pre-order now on KEECKER.com - The World's First HomePod",
+                "title_link": "http:\/\/www.keecker.com\/",
+                "text": "Introducing the HomePod: smart projection, amazing sound, 360° camera that moves at home to bring entertainment, decoration, safety anywhere",
+                "fallback": "KEECKER: Pre-order now on KEECKER.com - The World's First HomePod",
+                "image_url": "http:\/\/www.keecker.com\/img\/meta\/preorder-now-twitter.png",
+                "image_width": 444,
+                "image_height": 250,
+                "from_url": "http:\/\/www.keecker.com\/",
+                "image_bytes": 68649,
+                "id": 2
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i\/5Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": #technos ubiquitaires: j'ai pensé à Keecker suite à ta prés de jeudi dernier: \nla video : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=swrejETdHCA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nle site "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.keecker.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nUne des boites dans lesquelles j'aimerais bien travailler!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

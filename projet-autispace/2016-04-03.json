@@ -1,0 +1,139 @@
+[
+    {
+        "user": "U0AR01SPQ",
+        "type": "message",
+        "ts": "1459717954.000002",
+        "text": "top!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b34e84fd77bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-17\/18704226567_b34e84fd77bcdb81946f_72.jpg",
+            "first_name": "Murielle",
+            "real_name": "Murielle PALISSANDRE",
+            "display_name": "murielle",
+            "team": "T03FC4NDZ",
+            "name": "murielle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zkvC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "top!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0AR01SPQ",
+        "type": "message",
+        "ts": "1459718047.000003",
+        "text": "Un peu de veille:  la campagne nationale \nExpérience : les sensations d'une personne autiste\n\nDès le 30 mars 2016 et jusqu'au 12 avril, ce film sera diffusé à la télévision et dans 80 cinémas en France métropolitaine. Parallèlement, une « expérience digitale » sera proposée dans l'espace autisme du site du ministère des Affaires sociales et de la Santé. Appelée « Dis-moi Elliot », elle se compose de quatre séquences interactives illustrant les troubles liés à l'autisme (résistance au changement, troubles de la communication, hypersensibilité...) et se conclut sur une partie informative où le film est également accessible.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b34e84fd77bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-17\/18704226567_b34e84fd77bcdb81946f_72.jpg",
+            "first_name": "Murielle",
+            "real_name": "Murielle PALISSANDRE",
+            "display_name": "murielle",
+            "team": "T03FC4NDZ",
+            "name": "murielle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q39xP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un peu de veille:  la campagne nationale \nExpérience : les sensations d'une personne autiste\n\nDès le 30 mars 2016 et jusqu'au 12 avril, ce film sera diffusé à la télévision et dans 80 cinémas en France métropolitaine. Parallèlement, une « expérience digitale » sera proposée dans l'espace autisme du site du ministère des Affaires sociales et de la Santé. Appelée « Dis-moi Elliot », elle se compose de quatre séquences interactives illustrant les troubles liés à l'autisme (résistance au changement, troubles de la communication, hypersensibilité...) et se conclut sur une partie informative où le film est également accessible."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0AR01SPQ",
+        "type": "message",
+        "ts": "1459718066.000004",
+        "text": "Le site : <http:\/\/dismoielliot.fr>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b34e84fd77bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-17\/18704226567_b34e84fd77bcdb81946f_72.jpg",
+            "first_name": "Murielle",
+            "real_name": "Murielle PALISSANDRE",
+            "display_name": "murielle",
+            "team": "T03FC4NDZ",
+            "name": "murielle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Dis Moi Elliot",
+                "title_link": "http:\/\/dismoielliot.fr",
+                "text": "#dismoiElliot 1 personne sur 100 est atteinte d'#autisme. Comme moi, ne laissez pas les préjugés parler à la place d’Elliot. Faites l'expérience <http:\/\/www.dismoiElliot.fr|www.dismoiElliot.fr> et partagez-la!",
+                "fallback": "Dis Moi Elliot",
+                "thumb_url": "http:\/\/dismoielliot.fr\/assets\/img\/share-facebook.jpg",
+                "from_url": "http:\/\/dismoielliot.fr",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d67GC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le site : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/dismoielliot.fr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1588251520.002100",
+        "client_msg_id": "ade3e302-c07d-451a-83e5-81beeba33fbe",
+        "text": "Photogrammétrie + VR + Puzzle\nDe quoi s’occuper pendant une après-midi confinée\n<https:\/\/www.youtube.com\/watch?v=R2vJ-qfVdiQ>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1588251520.002100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1588322335.002500",
+        "reply_users": [
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1588322335.002500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Puzzling Places (Quest) - Prototype Trailer",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=R2vJ-qfVdiQ",
+                "author_name": "realities.io",
+                "author_link": "https:\/\/www.youtube.com\/user\/realitiesio",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/R2vJ-qfVdiQ\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Puzzling Places (Quest) - Prototype Trailer",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/R2vJ-qfVdiQ?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=R2vJ-qfVdiQ",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=R2vJ-qfVdiQ"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pojg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Photogrammétrie + VR + Puzzle\nDe quoi s’occuper pendant une après-midi confinée\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=R2vJ-qfVdiQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U012DMQM8CF",
+        "text": "<@U012DMQM8CF> a rejoint le canal",
+        "type": "message",
+        "ts": "1588256820.002400"
+    }
+]

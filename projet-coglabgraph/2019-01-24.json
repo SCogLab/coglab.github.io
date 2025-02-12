@@ -1,0 +1,159 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1548354213.000900",
+        "client_msg_id": "c365b7ec-a84f-4c97-aae4-24d95b3bd6d0",
+        "text": "Je suis au Meetup web semantique a l'école 42 <@U59MQ46DA> \n\n<http:\/\/www.virtual-assembly.org\/ontologie-pair\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Assemblée Virtuelle",
+                "title": "Ontologie PAIR - Aperçu global - Assemblée Virtuelle",
+                "title_link": "http:\/\/www.virtual-assembly.org\/ontologie-pair\/",
+                "text": "L’ontologie PAIR est issue d’un travail collectif mené par l’association Assemblée virtuelle et ses partenaires. Accéder à l’Ontologie : <http:\/\/virtual-assembly.org\/vocabularies\/pair>  Accéder au Github du projet : <https:\/\/github.com\/assemblee-virtuelle\/pair> Il s’agit d’un vocabulaire permettant d’exprimer simplement le réel, ainsi que les interactions qui s’y déroulent. Le réel est perçu sous la forme d’un graphe faisant interagir des …",
+                "fallback": "Assemblée Virtuelle: Ontologie PAIR - Aperçu global - Assemblée Virtuelle",
+                "ts": 1490199143,
+                "from_url": "http:\/\/www.virtual-assembly.org\/ontologie-pair\/",
+                "service_icon": "https:\/\/www.virtual-assembly.org\/wp-content\/uploads\/2016\/10\/cropped-ms-icon-310x310-180x180.png",
+                "id": 1,
+                "original_url": "http:\/\/www.virtual-assembly.org\/ontologie-pair\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8qdBl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je suis au Meetup web semantique a l'école 42 "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.virtual-assembly.org\/ontologie-pair\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1548354324.002200",
+        "client_msg_id": "e5290773-dc93-4e83-80ae-07eb05ac355a",
+        "text": "ok <@U03FC5ZAK> je n’ai pas pu y aller, trop de choses à finir, tu me raconteras la prochaine fois qu’on se voit.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wf\/n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je n’ai pas pu y aller, trop de choses à finir, tu me raconteras la prochaine fois qu’on se voit."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1548354979.002400",
+        "client_msg_id": "7f55faa4-4c53-4eff-9ca1-6d6984bd0780",
+        "text": "Yes, je prends des notes. C'est hyper intéressant !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7qh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, je prends des notes. C'est hyper intéressant !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

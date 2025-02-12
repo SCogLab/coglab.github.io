@@ -1,0 +1,126 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1630060657.000300",
+        "client_msg_id": "293b1977-115e-4a1e-ac7a-c4c8b31b98a9",
+        "text": "Le replay est disponible sur Youtube : <https:\/\/www.youtube.com\/watch?v=W0TgVk2QTsk>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1629448681.000800",
+        "parent_user_id": "U59MQ46DA",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "AWE Nite: Getting Started with HP Omnicept SDK",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=W0TgVk2QTsk",
+                "author_name": "AWE - Augmented World Expo",
+                "author_link": "https:\/\/www.youtube.com\/c\/Augmentedworldexpo",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/W0TgVk2QTsk\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: AWE Nite: Getting Started with HP Omnicept SDK",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/W0TgVk2QTsk?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=W0TgVk2QTsk",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=W0TgVk2QTsk"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f5m\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le replay est disponible sur Youtube : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=W0TgVk2QTsk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1630060777.001300",
+        "client_msg_id": "137bc7ca-7a93-4b46-a829-9cfd8d62b08c",
+        "text": "Lenovo a sorti son casque AR ThinkReality A3 (orienté industrie &amp; business) : <https:\/\/techtoday.lenovo.com\/us\/en\/solutions\/thinkreality>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Lenovo US",
+                "title": "Augmented Reality &amp; Virtual Reality With ThinkReality | Lenovo US",
+                "title_link": "https:\/\/techtoday.lenovo.com\/us\/en\/solutions\/thinkreality",
+                "text": "Augmented Reality and Virtual Reality hold the potential for us to solve problems in unexpected and inventive ways. ThinkReality is comprised of both software &amp; hardware for businesses to adopt, implement, &amp; manage commercial AR &amp; VR solutions.",
+                "fallback": "Lenovo US: Augmented Reality &amp; Virtual Reality With ThinkReality | Lenovo US",
+                "thumb_url": "https:\/\/techtoday.lenovo.com\/origind8\/sites\/default\/files\/styles\/block_mosaic_sm\/public\/2020-10\/ThinkReality%20Mirage%20VRS3-r_1.jpg?itok=yHDKIuvi",
+                "ts": 1603903072,
+                "from_url": "https:\/\/techtoday.lenovo.com\/us\/en\/solutions\/thinkreality",
+                "thumb_width": 768,
+                "thumb_height": 647,
+                "service_icon": "https:\/\/techtoday.lenovo.com\/origind8\/themes\/custom\/lenovod8\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/techtoday.lenovo.com\/us\/en\/solutions\/thinkreality"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eYs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lenovo a sorti son casque AR ThinkReality A3 (orienté industrie & business) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/techtoday.lenovo.com\/us\/en\/solutions\/thinkreality"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

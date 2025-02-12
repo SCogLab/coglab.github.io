@@ -1,0 +1,25 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CA Fresco: <!date^1622651400^{date_short_pretty} from {time}|June 2nd, 2021 from 6:30 PM> to <!date^1622656800^{time}|8:00 PM GMT+0200>",
+                "text": "<!date^1622651400^{date_short_pretty} from {time}|June 2nd, 2021 from 6:30 PM> to <!date^1622656800^{time}|8:00 PM GMT+0200> at <https:\/\/us02web.zoom.us\/j\/83072192419?pwd=TWlqay9qUzJhSHZkUjdsb2NkMG1ZZz09>",
+                "pretext": "Calendar event updated",
+                "title": "CA Fresco",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=M2c0OTVtdnY3ZXFiaWhqc2luaDI3NW9xNW8gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1622282294.001100",
+        "bot_id": "B4SJBP2L8"
+    }
+]

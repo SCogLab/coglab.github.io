@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1560164701.000500",
+        "client_msg_id": "2cfe5faf-e8a8-40aa-bda3-5f24ee9a0969",
+        "text": "Article que je trouve pertinent sur le neuromarketing : <https:\/\/theconversation.com\/debat-le-neuromarketing-miroir-aux-alouettes-116703>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "The Conversation",
+                "title": "Débat : Le neuromarketing, miroir aux alouettes ?",
+                "title_link": "https:\/\/theconversation.com\/debat-le-neuromarketing-miroir-aux-alouettes-116703",
+                "text": "Le neuromarketing prétend utiliser l’imagerie cérébrale pour décrypter et influencer les comportements de consommation. Mais en l’état actuel des connaissances, son utilité reste à prouver.",
+                "fallback": "The Conversation: Débat : Le neuromarketing, miroir aux alouettes ?",
+                "image_url": "https:\/\/images.theconversation.com\/files\/275654\/original\/file-20190521-23835-ykvxel.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
+                "from_url": "https:\/\/theconversation.com\/debat-le-neuromarketing-miroir-aux-alouettes-116703",
+                "image_width": 507,
+                "image_height": 250,
+                "image_bytes": 91275,
+                "service_icon": "https:\/\/theconversation.com\/assets\/logo-114x114-65dfe0d7cfa1a27576c4bea09d5070a3.png",
+                "id": 1,
+                "original_url": "https:\/\/theconversation.com\/debat-le-neuromarketing-miroir-aux-alouettes-116703"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L3TVU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Article que je trouve pertinent sur le neuromarketing : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/theconversation.com\/debat-le-neuromarketing-miroir-aux-alouettes-116703"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

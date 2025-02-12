@@ -1,0 +1,441 @@
+[
+    {
+        "user": "U01S8PWA7GU",
+        "type": "message",
+        "ts": "1634577520.000600",
+        "client_msg_id": "d0e01ccd-800f-4861-9109-fcfa4ac4eec5",
+        "text": "Merci :slightly_smiling_face: ça me va très bien license MIT comme t’as fait",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "c0ad61371238",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1886649922098_c0ad61371238e9b3ed71_72.png",
+            "first_name": "Eduardo",
+            "real_name": "Eduardo de Conto",
+            "display_name": "Eduardo de Conto",
+            "team": "T03FC4NDZ",
+            "name": "eduardoconto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634509841.013400",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SBQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ça me va très bien license MIT comme t’as fait"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1634579074.007000",
+        "client_msg_id": "a32d1b6e-0fba-4a1c-977b-cb19b5daf60f",
+        "text": "Pour info,\n\nCette semaine c'est le vernissage officielle de l'exposition Sensory Odyssey :rocket:\nDes affiches sont présentent dans le métro parisien :metro:\n\nC'est présenté comme une Première Mondiale au Muséum national d'Histoire naturelle\nDU 23 OCTOBRE 2021 AU 4 JUILLET 2022 <https:\/\/www.sensoryodyssey.com\/>\n\nPour fêter cela, les membres les plus anciens de l'équipe sont invités à deux rendez-vous (*à ne pas diffuser)* :\n• Un cocktail dînatoire privé ce jeudi :cocktail:  (l'occasion de renforcer les contacts avec toute l'équipe)\n• Un vernissage et visite privée en avant première de l'exposition ce vendredi :ticket: \nLundi prochain, on pourra donc échanger sur nos premières impressions lors de la prochaine soirée <#C0R6W4X2Q|coglab-hacknight>.\n\nCela permettra également de se faire une meilleure idée de l'installation pour préparer notre étude ! :bulb:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8+w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour info,\n\nCette semaine c'est le vernissage officielle de l'exposition Sensory Odyssey "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rocket",
+                                "unicode": "1f680"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDes affiches sont présentent dans le métro parisien "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "metro",
+                                "unicode": "1f687"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nC'est présenté comme une Première Mondiale au Muséum national d'Histoire naturelle\nDU 23 OCTOBRE 2021 AU 4 JUILLET 2022 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sensoryodyssey.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nPour fêter cela, les membres les plus anciens de l'équipe sont invités à deux rendez-vous ("
+                            },
+                            {
+                                "type": "text",
+                                "text": "à ne pas diffuser)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Un cocktail dînatoire privé ce jeudi "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "cocktail",
+                                        "unicode": "1f378"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "  (l'occasion de renforcer les contacts avec toute l'équipe)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Un vernissage et visite privée en avant première de l'exposition ce vendredi "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "ticket",
+                                        "unicode": "1f3ab"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nLundi prochain, on pourra donc échanger sur nos premières impressions lors de la prochaine soirée "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0R6W4X2Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\nCela permettra également de se faire une meilleure idée de l'installation pour préparer notre étude ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bulb",
+                                "unicode": "1f4a1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1634579938.012500",
+        "client_msg_id": "6d445218-69f2-4841-a6fd-46f61aeb0137",
+        "text": "Autre information plutôt d'ordre *administrative*,\nDemain nous faisons un point sur les livrables et le budget du projet avec Olivier et Pierre :moneybag:\n\nJ'ai proposé un budget pour financer les activités de l'association et je me dit que cela pourra servir pour :\n• des défraiements, notamment prévoir des *encas pendant les tests* par exemple\n• organiser une belle *soirée de retour d'expérience* du projet avec un repas dînatoire\n• et si vous avez des besoins particulier en *consommable*, n'hésitez pas à me remonter l'information\nA disposition si vous avez des requêtes ou question et bonne semaine à tout.e.s :v:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t2f43",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Autre information plutôt d'ordre "
+                            },
+                            {
+                                "type": "text",
+                                "text": "administrative",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nDemain nous faisons un point sur les livrables et le budget du projet avec Olivier et Pierre "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "moneybag",
+                                "unicode": "1f4b0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nJ'ai proposé un budget pour financer les activités de l'association et je me dit que cela pourra servir pour :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "des défraiements, notamment prévoir des "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "encas pendant les tests",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " par exemple"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "organiser une belle "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "soirée de retour d'expérience",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " du projet avec un repas dînatoire"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "et si vous avez des besoins particulier en "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "consommable",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", n'hésitez pas à me remonter l'information"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nA disposition si vous avez des requêtes ou question et bonne semaine à tout.e.s "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "v",
+                                "unicode": "270c-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FEH3N8",
+        "text": "<@U03FEH3N8> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1634579950.012700"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1634582290.014900",
+        "client_msg_id": "2f9d151f-b1c8-40b8-9dfd-850593d34fc8",
+        "text": "J'ajoute <@U03FEH3N8> dans l'échange qui est membre de notre conseil scientifique avec <@ULSDVUUVA>.\nOn vous sollicitera toutes les deux courant novembre pour des petites relectures de notre protocole expérimental. On travaille actuellement dessus avec <@U02GLDK69UJ> et les input d' <@U02GLDKAWQ2> :briefcase:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hb+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ajoute "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " dans l'échange qui est membre de notre conseil scientifique avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "ULSDVUUVA"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\nOn vous sollicitera toutes les deux courant novembre pour des petites relectures de notre protocole expérimental. On travaille actuellement dessus avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02GLDK69UJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et les input d' "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02GLDKAWQ2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "briefcase",
+                                "unicode": "1f4bc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03FEH3N8",
+                    "U01J9RAA8H1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U02GLDKAWQ2"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

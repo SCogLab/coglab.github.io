@@ -1,0 +1,76 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "NeuroTechX India - The Magical World of Neurotechnology: <!date^1598785200^{date_short_pretty} from {time}|August 30th, 2020 from 1:00 PM> to <!date^1598788800^{time}|2:00 PM GMT+0200>",
+                "text": "<!date^1598785200^{date_short_pretty} from {time}|August 30th, 2020 from 1:00 PM> to <!date^1598788800^{time}|2:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Online+event|Online event>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "NeuroTechX India - The Magical World of Neurotechnology",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NDZ2Y3N1dWY5OHVwZDc0NzhrYXNwdW01dm4gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1598781601.001200",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "There is *1* event this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #162 [Online]: <!date^1598891400^{date_short_pretty} from {time}|August 31st, 2020 from 6:30 PM> to <!date^1598900400^{time}|9:00 PM GMT+0200>",
+                "text": "<!date^1598891400^{date_short_pretty} from {time}|August 31st, 2020 from 6:30 PM> to <!date^1598900400^{time}|9:00 PM GMT+0200> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "title": "CogLab HackNight #162 [Online]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NjZ1NTNlanBvYjM4ajNyMDVjbWs0cW5obHEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1598853607.001300",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RB3f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "1",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " event this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

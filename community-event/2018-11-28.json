@@ -1,0 +1,28 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Event created: NeuroTechX Webinar #4 - NeuroEthics: <!date^1544140800^{date_short_pretty} from {time}|December 6th, 2018 from 1:00 AM> to <!date^1544146200^{time}|2:30 AM GMT+0100>",
+                "text": "<!date^1544140800^{date_short_pretty} from {time}|December 6th, 2018 from 1:00 AM> to <!date^1544146200^{time}|2:30 AM GMT+0100> at <https:\/\/www.youtube.com\/watch?v=GlJk871GyTQ>",
+                "pretext": "New calendar event created",
+                "title": "NeuroTechX Webinar #4 - NeuroEthics",
+                "more": "To Join the Webinar, go to this link: <https:\/\/www.youtube.com\/watch?v=GlJk871GyTQ>",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MzVlM29qNGtvOWh1cTBpdWthZGs3MWdhZG8gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1543411629.000100",
+        "bot_id": "B4SJBP2L8"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06A1AP1ZPD",
+        "text": "<@U06A1AP1ZPD> a rejoint le canal",
+        "type": "message",
+        "ts": "1702496869.110929"
+    },
+    {
+        "user": "U06A1AP1ZPD",
+        "type": "message",
+        "ts": "1702496890.281969",
+        "client_msg_id": "7e9d8fb0-ad90-423e-83ac-636ef942852e",
+        "text": ":wave: Hi everyone!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gb2789ddecfc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b2789ddecfc086d5799da8f23056ada7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "jb",
+            "real_name": "jb",
+            "display_name": "JWD",
+            "team": "T03FC4NDZ",
+            "name": "jeanbaptiste.mery",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SBLfW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hi everyone!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U03FC5ZAK",
+                    "U069C1FJYP8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U065TGVPMQA",
+        "type": "message",
+        "ts": "1702499623.990099",
+        "client_msg_id": "e4543f70-7716-4895-9056-9834da32c24c",
+        "text": "hello !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "d1c45b06a897",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6190932855014_d1c45b06a89739c22a4f_72.png",
+            "first_name": "Emmanuel",
+            "real_name": "Emmanuel Gauvain",
+            "display_name": "Emmanuel Gauvain",
+            "team": "T03FC4NDZ",
+            "name": "emmanuel.gauvain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8wUVt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01804NJ7AQ",
+        "type": "message",
+        "ts": "1702503505.216389",
+        "client_msg_id": "1EFE2D3F-A953-48CF-B88B-CC05658B3C53",
+        "text": "Hey <@U06A1AP1ZPD> ",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g7080a90c528",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7080a90c528526f8129488e607562782.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Morgan Hough",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "morgan.hough",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YQWnS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06A1AP1ZPD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

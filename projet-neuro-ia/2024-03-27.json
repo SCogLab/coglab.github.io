@@ -1,0 +1,121 @@
+[
+    {
+        "user": "U01804NJ7AQ",
+        "type": "message",
+        "ts": "1711570585.304689",
+        "client_msg_id": "6D68914E-A55C-4650-8138-1E1E8AA25536",
+        "text": "<https:\/\/www.nature.com\/articles\/s41592-024-02233-6|https:\/\/www.nature.com\/articles\/s41592-024-02233-6>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g7080a90c528",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7080a90c528526f8129488e607562782.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Morgan Hough",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "morgan.hough",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/media.springernature.com\/full\/springer-static\/image\/art%3A10.1038%2Fs41592-024-02233-6\/MediaObjects\/41592_2024_2233_Fig1_HTML.png",
+                "image_width": 1507,
+                "image_height": 1520,
+                "image_bytes": 746366,
+                "from_url": "https:\/\/www.nature.com\/articles\/s41592-024-02233-6",
+                "service_icon": "https:\/\/www.nature.com\/static\/images\/favicons\/nature\/apple-touch-icon-f39cb19454.png",
+                "id": 1,
+                "original_url": "https:\/\/www.nature.com\/articles\/s41592-024-02233-6",
+                "fallback": "Nature: The multimodality cell segmentation challenge: toward universal solutions",
+                "text": "Nature Methods - Cell segmentation is crucial in many image analysis pipelines. This analysis compares many tools on a multimodal cell segmentation benchmark. A Transformer-based model performed...",
+                "title": "The multimodality cell segmentation challenge: toward universal solutions",
+                "title_link": "https:\/\/www.nature.com\/articles\/s41592-024-02233-6",
+                "service_name": "Nature"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bdEg4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.nature.com\/articles\/s41592-024-02233-6",
+                                "text": "https:\/\/www.nature.com\/articles\/s41592-024-02233-6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01804NJ7AQ",
+        "type": "message",
+        "ts": "1711595433.962359",
+        "client_msg_id": "7985CF43-23A7-410D-9705-D3F5EDCFB734",
+        "text": "<https:\/\/www.beagleboard.org\/boards\/beagley-ai|https:\/\/www.beagleboard.org\/boards\/beagley-ai>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g7080a90c528",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7080a90c528526f8129488e607562782.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Morgan Hough",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "morgan.hough",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.beagleboard.org\/boards\/beagley-ai",
+                "image_url": "https:\/\/www.beagleboard.org\/app\/uploads\/2024\/03\/BeagleY-AI-angled-front-1-1024x683.webp",
+                "image_width": 1024,
+                "image_height": 683,
+                "image_bytes": 102920,
+                "service_icon": "https:\/\/www.beagleboard.org\/app\/themes\/beagleboard-theme\/resources\/images\/favicons\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.beagleboard.org\/boards\/beagley-ai",
+                "fallback": "BeagleBoard: BeagleY-AI",
+                "text": "BeagleY-AI brings open source hardware to an industry-standard business-card-sized form-factor with a fan-less, 4 TOPS capable design.",
+                "title": "BeagleY-AI",
+                "title_link": "https:\/\/www.beagleboard.org\/boards\/beagley-ai",
+                "service_name": "BeagleBoard",
+                "fields": [
+                    {
+                        "value": "2 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O21bX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.beagleboard.org\/boards\/beagley-ai",
+                                "text": "https:\/\/www.beagleboard.org\/boards\/beagley-ai"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

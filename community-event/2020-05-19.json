@@ -1,0 +1,127 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U013XAZ4E58",
+        "text": "<@U013XAZ4E58> a rejoint le canal",
+        "type": "message",
+        "ts": "1589904875.027500"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1589908221.027700",
+        "client_msg_id": "2e8b2e3a-9769-444b-8b35-3110c79fab2c",
+        "text": "<https:\/\/www.eventbrite.com\/e\/transtech-webinar-2-bci-in-medical-practice-tickets-103482691516>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Eventbrite",
+                "title": "TransTech Webinar #2 - BCI in Medical Practice",
+                "title_link": "https:\/\/www.eventbrite.com\/e\/transtech-webinar-2-bci-in-medical-practice-tickets-103482691516",
+                "text": "Brain-Computer Interfaces in Medical Practice",
+                "fallback": "Eventbrite: TransTech Webinar #2 - BCI in Medical Practice",
+                "image_url": "https:\/\/img.evbuc.com\/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F99390156%2F406410106077%2F1%2Foriginal.20200423-230704?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C33%2C388%2C194&s=f0885dbc8f402ff85f3ac0ccf355d108",
+                "from_url": "https:\/\/www.eventbrite.com\/e\/transtech-webinar-2-bci-in-medical-practice-tickets-103482691516",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 55949,
+                "service_icon": "https:\/\/cdn.evbstatic.com\/s3-build\/perm_001\/eba891\/django\/images\/touch_icons\/apple-touch-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.eventbrite.com\/e\/transtech-webinar-2-bci-in-medical-practice-tickets-103482691516"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kntq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.eventbrite.com\/e\/transtech-webinar-2-bci-in-medical-practice-tickets-103482691516"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1589916946.028000",
+        "client_msg_id": "8f2aa2c3-5410-4a67-b21c-f79831263792",
+        "text": "<https:\/\/www.eventbrite.com\/e\/computer-vision-and-wellbeing-analysis-tickets-106001401044> ping <@U013XAZ4E58>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Eventbrite",
+                "title": "Computer Vision and Wellbeing Analysis",
+                "title_link": "https:\/\/www.eventbrite.com\/e\/computer-vision-and-wellbeing-analysis-tickets-106001401044",
+                "text": "Promises and challenges of computer vision:  How can tech help us stay healthy?",
+                "fallback": "Eventbrite: Computer Vision and Wellbeing Analysis",
+                "image_url": "https:\/\/img.evbuc.com\/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F101365004%2F406410106077%2F1%2Foriginal.20200519-184223?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C23%2C274%2C137&s=54de9683b6e7777c76b9a85dcb456095",
+                "from_url": "https:\/\/www.eventbrite.com\/e\/computer-vision-and-wellbeing-analysis-tickets-106001401044",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 21469,
+                "service_icon": "https:\/\/cdn.evbstatic.com\/s3-build\/perm_001\/eba891\/django\/images\/touch_icons\/apple-touch-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.eventbrite.com\/e\/computer-vision-and-wellbeing-analysis-tickets-106001401044"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JciiR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.eventbrite.com\/e\/computer-vision-and-wellbeing-analysis-tickets-106001401044"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ping "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U013XAZ4E58"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

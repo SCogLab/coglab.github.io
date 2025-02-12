@@ -1,0 +1,49 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card Timeflux \/ Pierre added to list Partenaires on board Gestion CogLab (administrateur).",
+                "text": "In list *Partenaires* on *<https:\/\/trello.com\/b\/jSnI3dXM|Gestion CogLab (administrateur)>*.",
+                "pretext": "New card created",
+                "title": "Timeflux \/ Pierre",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/KoZpvdwG",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1578562986.000400",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "Romain ROUYER Completed \"MAIF Social Club (héberge l’open Brain bar de l’ICM) (via @hansharisson1 )\" in checklist \"Checklist Lieu\" on Préparation Buzz in Review (BIR).",
+                "text": "Completed *MAIF Social Club (héberge l’open Brain bar de l’ICM) (via @hansharisson1 )* in checklist *Checklist Lieu* on *<https:\/\/trello.com\/c\/lwNOxPWx|Préparation Buzz in Review (BIR)>*.",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1578568261.000500",
+        "bot_id": "B66HQV43C"
+    }
+]

@@ -1,0 +1,91 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Event created: CA CogLab N°0: <!date^1495042200^{date_short_pretty} from {time}|May 17, 2017 from 7:30 PM> to <!date^1495049400^{time}|9:30 PM GMT+0200>",
+                "text": "<!date^1495042200^{date_short_pretty} from {time}|May 17, 2017 from 7:30 PM> to <!date^1495049400^{time}|9:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Skype+https%3A%2F%2Fjoin.skype.com%2FpnJEYZpTwNyZ|Skype https:\/\/join.skype.com\/pnJEYZpTwNyZ>",
+                "pretext": "New calendar event created",
+                "title": "CA CogLab N°0",
+                "more": "Suite au framadate, on se retrouve donc ce mercredi 17 mai à 19h30 pour une première réunion du C.A. !\n\nL'objectif de cette réunion est de finaliser tous les aspects administratifs et logistiques pour la création de l'association et définir notre mode d'organisation (outils collaboratifs).\n\nLes détails et le compte-rendu sont ici : Conseil d'Administration N°0\n<https:\/\/coglab.hackpad.com\/Conseil-dadministration-N0-xNsOEhtEY7K>\n\nPar défaut, je vous propose de se retrouver sur Skype.\nFaites moi signe si certains veulent qu'on se retrouve à Paris ou chez af83 (si on es pas nombreux).\n\nRessources :\n- ODJ &amp; CR <https:\/\/coglab.hackpad.com\/Conseil-dadministration-N0-xNsOEhtEY7K>\n- Framadate <https:\/\/framadate.org\/coglab-ag0>\n- Skype <https:\/\/join.skype.com\/pnJEYZpTwNyZ>",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=a25nOG4yczBnaHN1N2dybnRtbDJpamNxdm8gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1494788851.467317",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Event created: CogLab - HackNight #43: <!date^1494869400^{date_short_pretty} from {time}|May 15, 2017 from 7:30 PM> to <!date^1494880200^{time}|10:30 PM GMT+0200>",
+                "text": "<!date^1494869400^{date_short_pretty} from {time}|May 15, 2017 from 7:30 PM> to <!date^1494880200^{time}|10:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "CogLab - HackNight #43",
+                "more": "HackNight #43\n\nOrdre du jour :\n- Préparation C.A. (relecture statut\/RI, docs administratif, outils)\n- Point projet Autispace (Storycode LabVR, FSC, partenaires)\n- Newsletter\n\nLieu : \n- Skype <https:\/\/join.skype.com\/jSrxm2kHx3PU>\n- Locaux af83 avec Romain pour ceux qui veulent\n\nDocumentation\n- Assemblée Générale <https:\/\/coglab.hackpad.com\/Assemble-Gnrale-constituante-CogLab-NeuroTechX-Paris-AozSb4Hmi6G>\n- Répertoire Drive association <https:\/\/drive.google.com\/drive\/folders\/0BwKSxReDkRXzY1ZsaWlrdGRDSUU?usp=sharing>\n- Projet Autispace <https:\/\/coglab.hackpad.com\/Projet-Autispace-YfFYmWzpNhI>\n\nInteractions :\n- Slack : <https:\/\/scoglab.slack.com> (inscription sur <http:\/\/scoglab.herokuapp.com\/>)\n- Communauté Facebook : <https:\/\/www.facebook.com\/groups\/coglab\/>\n- Site <http:\/\/coglab.fr\/>",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=ZWttbmdpNWV1c2puOWxoczlycW9sZW9qc2sgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1494789391.515919",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1494826491.778676",
+        "text": "Je fais ce que je peux pour vous rejoindre demain mais je serai au boulot donc j'ai Ferragus par écris seulement",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4iSB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je fais ce que je peux pour vous rejoindre demain mais je serai au boulot donc j'ai Ferragus par écris seulement"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

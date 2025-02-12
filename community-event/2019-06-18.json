@@ -1,0 +1,119 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1560854167.001400",
+        "client_msg_id": "f27db102-bf14-420b-a063-358225f72ca3",
+        "text": "Meetup sur les neurosciences et le management : <https:\/\/www.meetup.com\/fr-FR\/Neurosciences-et-Management\/events\/262063796\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Soirée Neurosciences et Management sur le thème de l'AGILITÉ",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/Neurosciences-et-Management\/events\/262063796\/",
+                "text": "mer. 19 juin 2019 à 19:00: Le titre de cette troisième soirée est :« Il est temps d'ÊTRE agile pour réussir la transformation numérique. »Au cours de cette soirée, nous explorerons notamment ces quest",
+                "fallback": "Meetup: Soirée Neurosciences et Management sur le thème de l'AGILITÉ",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/c\/b\/3\/2\/600_481972018.jpeg",
+                "fields": [
+                    {
+                        "title": "Où",
+                        "value": "Mab'Lab 12 Rue Clément Paris",
+                        "short": true
+                    },
+                    {
+                        "title": "Quand",
+                        "value": "mer. 19 juin 2019 à 19:00",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/Neurosciences-et-Management\/events\/262063796\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 177370,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/fr-FR\/m_swarm_120x120.4f86abc9.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/Neurosciences-et-Management\/events\/262063796\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WsU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Meetup sur les neurosciences et le management : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/Neurosciences-et-Management\/events\/262063796\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: CogLab OpenNight #1 (à confirmer)?: <!date^1561480200^{date_short_pretty} from {time}|June 25th, 2019 from 6:30 PM> to <!date^1561494600^{time}|10:30 PM GMT+0200>",
+                "text": "<!date^1561480200^{date_short_pretty} from {time}|June 25th, 2019 from 6:30 PM> to <!date^1561494600^{time}|10:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "CogLab OpenNight #1 (à confirmer)?",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NWljczdxMjVscG9obGdpZ2xma2pmaGNlbnIgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1560887288.001600",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event time updated: CogLab OpenNight #1 (à confirmer)?: <!date^1562085000^{date_short_pretty} from {time}|July 2nd, 2019 from 6:30 PM> to <!date^1562099400^{time}|10:30 PM GMT+0200>",
+                "text": "<!date^1562085000^{date_short_pretty} from {time}|July 2nd, 2019 from 6:30 PM> to <!date^1562099400^{time}|10:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Calendar event time updated",
+                "title": "CogLab OpenNight #1 (à confirmer)?",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NWljczdxMjVscG9obGdpZ2xma2pmaGNlbnIgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1560887348.001700",
+        "bot_id": "B4SJBP2L8"
+    }
+]

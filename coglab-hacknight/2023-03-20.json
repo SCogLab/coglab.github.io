@@ -1,0 +1,79 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1679334881.086129",
+        "client_msg_id": "abc2c890-1307-4023-8c4b-2ef9cf14828b",
+        "text": "Bonsoir à toutes et tous :wave:\n\nComme d’habitude, nous sommes en permanence HackNight avec <@U59MQ46DA> au MakerLab du LPI.\n\nN’hésitez pas à nous solliciter au besoin, on peux aussi se connecter en <https:\/\/meet.jit.si\/NeuroTechX-Hacknight|visio> (dîtes-nous si c’est le cas) !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "service_icon": "https:\/\/meet.jit.si\/images\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "fallback": "Jitsi Meet",
+                "text": "Join a WebRTC video conference powered by the Jitsi Videobridge",
+                "title": "Jitsi Meet",
+                "title_link": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "service_name": "meet.jit.si"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N3uA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonsoir à toutes et tous "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nComme d’habitude, nous sommes en permanence HackNight avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " au MakerLab du LPI.\n\nN’hésitez pas à nous solliciter au besoin, on peux aussi se connecter en "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                                "text": "visio"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (dîtes-nous si c’est le cas) !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

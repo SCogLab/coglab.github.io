@@ -1,0 +1,131 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1547904302.000200",
+        "client_msg_id": "69447f0b-d319-491e-8588-3f501efed7e1",
+        "text": "Yes ! :sunglasses:\nJ’me suis inscrit :innocent:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547840137.005700",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TVVHv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses",
+                                "unicode": "1f60e"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nJ’me suis inscrit "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "innocent",
+                                "unicode": "1f607"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1547906397.000500",
+        "client_msg_id": "384d10a9-b568-41eb-8aa1-135b39e04598",
+        "text": "<http:\/\/cielmonserment.org\/2018\/12\/11\/921\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547906397.000500",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1548075049.000300",
+        "reply_users": [
+            "U03FEH3N8",
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FEH3N8",
+                "ts": "1548066918.000100"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1548075049.000300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "service_name": "Ciel! Mon Serment!",
+                "title": "Musique et cerveau 2019: Appel à communications",
+                "title_link": "http:\/\/cielmonserment.org\/2018\/12\/11\/921\/",
+                "text": "Nous organisons  une journée de rencontres sur le thème de « Musique et Cerveau – Soigner au diapason », qui aura lieu le 2 mars 2019 à Rouen (France). Ciel ! Mon sermen…",
+                "fallback": "Ciel! Mon Serment!: Musique et cerveau 2019: Appel à communications",
+                "thumb_url": "http:\/\/cielmonserment.org\/wp-content\/uploads\/2018\/12\/cropped-MC_banniere1200-630_Pour-Facebook-Annonce-1024x614.png",
+                "ts": 1544514829,
+                "from_url": "http:\/\/cielmonserment.org\/2018\/12\/11\/921\/",
+                "thumb_width": 1024,
+                "thumb_height": 614,
+                "service_icon": "https:\/\/i1.wp.com\/cielmonserment.org\/wp-content\/uploads\/2016\/12\/cropped-cropped-cropped-logo_essai5-petits-masques-petits-colorises-gris-vert-bleu-fond-bleu-1-1.png?fit=180%2C180",
+                "id": 1,
+                "original_url": "http:\/\/cielmonserment.org\/2018\/12\/11\/921\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Wx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/cielmonserment.org\/2018\/12\/11\/921\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

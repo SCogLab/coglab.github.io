@@ -1,0 +1,68 @@
+[
+    {
+        "user": "U0AR01SPQ",
+        "type": "message",
+        "ts": "1480733991.000002",
+        "text": "le site gouvernemental est désormais lancé (et il est pas mal du tout): <http:\/\/social-sante.gouv.fr\/grands-dossiers\/l-autisme\/> J'en mettrai le lien en rubrique ressources sur Autispace",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b34e84fd77bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-17\/18704226567_b34e84fd77bcdb81946f_72.jpg",
+            "first_name": "Murielle",
+            "real_name": "Murielle PALISSANDRE",
+            "display_name": "murielle",
+            "team": "T03FC4NDZ",
+            "name": "murielle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "L'autisme - Grands dossiers - Ministère des Affaires sociales et de la Santé ",
+                "title_link": "http:\/\/social-sante.gouv.fr\/grands-dossiers\/l-autisme\/",
+                "text": "Un espace web qui a pour but d'informer le public sur l'autisme et d'améliorer les connaissances générales sur ce handicap.",
+                "fallback": "L'autisme - Grands dossiers - Ministère des Affaires sociales et de la Santé ",
+                "from_url": "http:\/\/social-sante.gouv.fr\/grands-dossiers\/l-autisme\/",
+                "service_icon": "http:\/\/social-sante.gouv.fr\/favicon.ico",
+                "service_name": "social-sante.gouv.fr",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vxPCb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "le site gouvernemental est désormais lancé (et il est pas mal du tout): "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/social-sante.gouv.fr\/grands-dossiers\/l-autisme\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " J'en mettrai le lien en rubrique ressources sur Autispace"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

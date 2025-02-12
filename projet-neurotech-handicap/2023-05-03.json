@@ -1,0 +1,52 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1683155756.494169",
+        "client_msg_id": "0506d7c5-c82c-4c2b-aa12-305166ba8887",
+        "text": "<https:\/\/www.playability.gg\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.playability.gg\/",
+                "id": 1,
+                "original_url": "https:\/\/www.playability.gg\/",
+                "fallback": "playAbility - Rendre le jeu video accessible à tout le monde",
+                "text": "Une clé usb bluetooth qui permet de jouer à Mario Kart avec son fauteuil roulant et sa voix.",
+                "title": "playAbility - Rendre le jeu video accessible à tout le monde",
+                "title_link": "https:\/\/www.playability.gg\/",
+                "service_name": "playability.gg"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dc5Mg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.playability.gg\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

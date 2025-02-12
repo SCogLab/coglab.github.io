@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1517323802.000012",
+        "text": "Le blog post de Google sur le WebAR : <https:\/\/www.blog.google\/products\/google-vr\/augmented-reality-web-everyone\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Google",
+                "title": "Augmented reality on the web, for everyone",
+                "title_link": "https:\/\/www.blog.google\/products\/google-vr\/augmented-reality-web-everyone\/",
+                "text": "In this post, we’ll take a look at a recent prototype we built with Article. It shows how AR content could work across the web, from today’s standard mobile and desktop browsers, to future AR-enabled browsing environments and devices. Techies, take note: the last section of the post focuses on technical details, so stick around if you want to dig deeper.",
+                "fallback": "Google: Augmented reality on the web, for everyone",
+                "thumb_url": "https:\/\/storage.googleapis.com\/gweb-uniblog-publish-prod\/images\/IMG_4831_V2.max-2800x2800.jpg",
+                "ts": 1516608000,
+                "from_url": "https:\/\/www.blog.google\/products\/google-vr\/augmented-reality-web-everyone\/",
+                "thumb_width": 2800,
+                "thumb_height": 1120,
+                "service_icon": "https:\/\/www.blog.google\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ilyq5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le blog post de Google sur le WebAR : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.blog.google\/products\/google-vr\/augmented-reality-web-everyone\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

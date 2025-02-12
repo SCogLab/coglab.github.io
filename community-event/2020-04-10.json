@@ -1,0 +1,48 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: FSC 2020: <!date^1587301200^{date_short_pretty} from {time}|April 19th, 2020 from 3:00 PM> to <!date^1587312000^{time}|6:00 PM GMT+0200>",
+                "text": "<!date^1587301200^{date_short_pretty} from {time}|April 19th, 2020 from 3:00 PM> to <!date^1587312000^{time}|6:00 PM GMT+0200>",
+                "pretext": "Calendar event updated",
+                "title": "FSC 2020",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NjE4MWpyaWdsdGh2dHZiZXI3czY0ZWg3b2cgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1586552825.004800",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: FSC 2020: <!date^1587394800^{date_short_pretty} from {time}|April 20th, 2020 from 5:00 PM> to <!date^1587398400^{time}|6:00 PM GMT+0200>\nRecurring every day until <!date^1587765599^{date_pretty}|April 24th, 2020>",
+                "text": "<!date^1587394800^{date_short_pretty} from {time}|April 20th, 2020 from 5:00 PM> to <!date^1587398400^{time}|6:00 PM GMT+0200>\nRecurring every day until <!date^1587765599^{date_pretty}|April 24th, 2020>",
+                "pretext": "New calendar event created",
+                "title": "FSC 2020",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NDdsZmxzNnR2c2hkaWZucjYzZ21za3NjanZfMjAyMDA0MjBUMTUwMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1586552825.004900",
+        "bot_id": "B4SJBP2L8"
+    }
+]

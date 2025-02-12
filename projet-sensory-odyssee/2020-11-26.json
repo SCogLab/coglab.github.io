@@ -1,0 +1,134 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U03FC5ZAK",
+        "text": "<@U03FC5ZAK> a rejoint le canal",
+        "type": "message",
+        "ts": "1606403007.000200"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U59MQ46DA",
+        "text": "<@U59MQ46DA> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1606403026.000500"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "UAMPR1P5L",
+        "text": "<@UAMPR1P5L> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1606403026.000700"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1606403057.001300",
+        "client_msg_id": "66b441ea-2154-4e98-b914-99d5c1c61734",
+        "text": "Une ressource partagée tout à l’heure en réunion pour de la recherche de financement <https:\/\/www.maddyness.com\/2020\/11\/17\/le-pret-innovation-du-fonds-europeen-dinvestissement%e2%80%a8\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Maddyness - Le Magazine sur l’actualité des Startups Françaises",
+                "title": "Le prêt-innovation du Fonds européen d'investissement, un outil méconnu des startups",
+                "title_link": "https:\/\/www.maddyness.com\/2020\/11\/17\/le-pret-innovation-du-fonds-europeen-dinvestissement%e2%80%a8\/",
+                "text": "Un dispositif peu connu des entrepreneur·euse·s qui offre pourtant bien des avantages : le prêt-innovation garanti par le Fonds européen d’investissement (FEI) .",
+                "fallback": "Maddyness - Le Magazine sur l’actualité des Startups Françaises: Le prêt-innovation du Fonds européen d'investissement, un outil méconnu des startups",
+                "image_url": "https:\/\/www.maddyness.com\/wp-content\/uploads\/2020\/11\/daniel-von-appen-tb4heMa-ZRo-unsplash-e1605694538573.jpg",
+                "image_width": 500,
+                "image_height": 250,
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Maud Cloix",
+                        "short": true
+                    }
+                ],
+                "ts": 1605625213,
+                "from_url": "https:\/\/www.maddyness.com\/2020\/11\/17\/le-pret-innovation-du-fonds-europeen-dinvestissement%e2%80%a8\/",
+                "image_bytes": 57926,
+                "service_icon": "https:\/\/www.maddyness.com\/wp-content\/themes\/maddyness\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.maddyness.com\/2020\/11\/17\/le-pret-innovation-du-fonds-europeen-dinvestissement%e2%80%a8\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3puz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Une ressource partagée tout à l’heure en réunion pour de la recherche de financement "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.maddyness.com\/2020\/11\/17\/le-pret-innovation-du-fonds-europeen-dinvestissement%e2%80%a8\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1606403131.001800",
+        "client_msg_id": "058b937f-5b3b-4010-a87b-af2ad308e3c6",
+        "text": "Le doc de prise de note de la réunion <https:\/\/docs.google.com\/document\/d\/1-G8ZsRwFu-0cypHGJM_PCClx73gp1xyFD49t2uSqh1M\/edit#>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MPaG+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le doc de prise de note de la réunion "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1-G8ZsRwFu-0cypHGJM_PCClx73gp1xyFD49t2uSqh1M\/edit#"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

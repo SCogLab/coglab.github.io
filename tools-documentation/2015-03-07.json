@@ -1,0 +1,95 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1425753623.000002",
+        "text": "The list of all extension for the Media Wiki \n<http:\/\/www.mediawiki.org\/wiki\/Category:Extensions_by_category>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B+i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The list of all extension for the Media Wiki \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.mediawiki.org\/wiki\/Category:Extensions_by_category"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1425756613.000003",
+        "text": "The forum plateform that I'll test on my server for the CogLab\n<http:\/\/vanillaforums.org\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Vanilla Forums",
+                "title": "Community Forum Software",
+                "title_link": "http:\/\/vanillaforums.org\/",
+                "text": "Vanilla is forum software that powers discussions on 797,957 sites. Built for flexibility and integration, Vanilla is the best, most powerful community solution in the world.",
+                "fallback": "Vanilla Forums: Community Forum Software",
+                "from_url": "http:\/\/vanillaforums.org\/",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BBpaR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The forum plateform that I'll test on my server for the CogLab\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/vanillaforums.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

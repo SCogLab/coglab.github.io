@@ -1,0 +1,74 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "UV5PASN3Z",
+        "text": "<@UV5PASN3Z> a rejoint le canal",
+        "type": "message",
+        "ts": "1583832455.002200"
+    },
+    {
+        "user": "UUC2JHAMR",
+        "type": "message",
+        "ts": "1583835033.003000",
+        "client_msg_id": "B2E8DB69-D8B6-4B00-ACCD-1CCDB4D35EBD",
+        "text": "<@U59MQ46DA> joyeux anniversaire en retard !!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1a4774e3468b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-10\/990974570133_1a4774e3468bddbf7b07_72.png",
+            "first_name": "Nicolas",
+            "real_name": "Nicolas",
+            "display_name": "Nicolas",
+            "team": "T03FC4NDZ",
+            "name": "nrauber",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O3+O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " joyeux anniversaire en retard !!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "Romain ROUYER commented on FSC 2020: \"Information non officielle\nL'association Cognivence n'est pas sûrs que la date du FSC pourra être maintenue\nLes événements avec plus de 1000 visiteurs sont désormais interdits jusqu'au 15 avril (pour le moment). Il y a donc des fortes chances que la date du FSC devra être reportée\nLa Cité des Sciences a proposé des dates de remplacement. Nous sommes en train de demander à nos intervenants et partenaires de nous communiquer leurs disponibilités pour les week-ends du 30-31 mai et du 13-14 juin, et je vous invite à faire pareil jusqu'à la fin de la semaine.\"",
+                "text": "Information non officielle\nL'association Cognivence n'est pas sûrs que la date du FSC pourra être maintenue\nLes événements avec plus de 1000 visiteurs sont désormais interdits jusqu'au 15 avril (pour le moment). Il y a donc des fortes chances que la date du FSC devra être reportée\nLa Cité des Sciences a proposé des dates de remplacement. Nous sommes en train de demander à nos intervenants et partenaires de nous communiquer leurs disponibilités pour les week-ends du 30-31 mai et du 13-14 juin, et je vous invite à faire pareil jusqu'à la fin de la semaine.",
+                "pretext": "New comment on *<https:\/\/trello.com\/c\/cKqnfMou|FSC 2020>*",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1583840727.003200",
+        "bot_id": "B66HQV43C"
+    }
+]

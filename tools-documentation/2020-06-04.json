@@ -1,0 +1,52 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1591265748.000200",
+        "client_msg_id": "98776799-b331-43cd-ae22-149112316d69",
+        "text": "<https:\/\/beta.ethibox.fr\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Ethibox",
+                "title": "Accueil",
+                "title_link": "https:\/\/beta.ethibox.fr\/",
+                "text": "Toutes vos applications web hébergées sans effort dans un endroit sûr.",
+                "fallback": "Ethibox: Accueil",
+                "from_url": "https:\/\/beta.ethibox.fr\/",
+                "id": 1,
+                "original_url": "https:\/\/beta.ethibox.fr\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LNG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/beta.ethibox.fr\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1636377080.005100",
+        "client_msg_id": "b7d05ef6-1179-455d-86e1-c3e53be6f0a5",
+        "text": "Conférence de la CNIL Air2021 : <https:\/\/www.cnil.fr\/fr\/prenez-date-air2021>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1636377080.005100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1636394840.005300",
+        "reply_users": [
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1636394840.005300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "fallback": "Prenez date : air2021, le lundi 8 novembre de 14 h à 18 h à la CNIL et sur les réseaux sociaux | CNIL",
+                "image_url": "https:\/\/www.cnil.fr\/sites\/default\/files\/thumbnails\/image\/air2021_banniere.jpg",
+                "image_width": 488,
+                "image_height": 250,
+                "image_bytes": 269392,
+                "from_url": "https:\/\/www.cnil.fr\/fr\/prenez-date-air2021",
+                "service_name": "cnil.fr",
+                "service_icon": "https:\/\/www.cnil.fr\/sites\/all\/themes\/bootstrap_cnil\/favicon.ico",
+                "title": "Prenez date : air2021, le lundi 8 novembre de 14 h à 18 h à la CNIL et sur les réseaux sociaux | CNIL",
+                "title_link": "https:\/\/www.cnil.fr\/fr\/prenez-date-air2021",
+                "text": "La politique d’ouverture des données s’est construite à partir d’un espoir fondateur vecteur de valeurs puissantes. L’idée que les données doivent profiter à tous en offrant des possibilités nouvelles d’innovations pour nos sociétés et de transparence pour nos démocraties. Pourtant, le temps des premiers idéaux a laissé place à l’inertie d’une gouvernance complexe, celle d’un sujet d’éthique structurant et controversé.",
+                "id": 1,
+                "original_url": "https:\/\/www.cnil.fr\/fr\/prenez-date-air2021"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Foi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Conférence de la CNIL Air2021 : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.cnil.fr\/fr\/prenez-date-air2021"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1636394840.005300",
+        "client_msg_id": "6d364c43-ac9c-4ccf-a061-3a1d32785373",
+        "text": "yes j’étais inscrit mais n’ai pas pu y aller, grosse réunion",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1636377080.005100",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IBS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes j’étais inscrit mais n’ai pas pu y aller, grosse réunion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

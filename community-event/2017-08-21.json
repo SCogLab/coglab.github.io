@@ -1,0 +1,137 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Event updated: CogLab - HackNight #50: <!date^1503336600^{date_short_pretty} from {time}|August 21st, 2017 from 7:30 PM> to <!date^1503349200^{time}|11:00 PM GMT+0200>",
+                "text": "<!date^1503336600^{date_short_pretty} from {time}|August 21st, 2017 from 7:30 PM> to <!date^1503349200^{time}|11:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab - HackNight #50",
+                "more": "HackNight #50\n\nOrdre du jour :\n- OpenBC[IA] : experimentation et prototypage (Hans)\n- Autispace : protocole d'experimentation UX (team projet)\n\nLieu : \n- Skype <https:\/\/join.skype.com\/jSrxm2kHx3PU>\n- Locaux af83 avec Romain pour ceux qui veulent (merci de prévenir avant !)\n\n\nDocumentation\n- Projet BC[IA] <https:\/\/paper.dropbox.com\/doc\/i7L4ePZfYQTMVp9cIRkQn>\n- Projet Autiscpace <https:\/\/paper.dropbox.com\/doc\/yAWwKWaFkXa9w42sA0Sdj>\n\nInteractions :\n- Agenda CogLab <https:\/\/paper.dropbox.com\/doc\/Agenda-CogLab-NeuroTechX-Paris-a6pJbEvbJvWdJ3fHeF9JJ>\n- Slack : <https:\/\/scoglab.slack.com>\n- Communauté Facebook : <https:\/\/www.facebook.com\/groups\/coglab\/>\n- Twitter : <https:\/\/twitter.com\/SCogLab>\n- Site web : <http:\/\/coglab.fr\/>\n\nView meeting on Solid : <https:\/\/solid.wisembly.com\/meetings\/p8c0231?r=meeting.calendar.link&amp;u=m114455>",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MGQybDZrdmRxcTRsNGZiZm1lMXMxN2hlZGEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1503301869.000051",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1503302234.000110",
+        "text": "Salut Murielle\nIl y en a bien une ce soir, j’ai simplement mis à jour des événements récurrents :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1503083130.000523",
+        "parent_user_id": "U0AR01SPQ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LPEgt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut Murielle\nIl y en a bien une ce soir, j’ai simplement mis à jour des événements récurrents "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0AR01SPQ",
+        "type": "message",
+        "ts": "1503317662.000141",
+        "text": "ok j'y serai!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b34e84fd77bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-17\/18704226567_b34e84fd77bcdb81946f_72.jpg",
+            "first_name": "Murielle",
+            "real_name": "Murielle PALISSANDRE",
+            "display_name": "murielle",
+            "team": "T03FC4NDZ",
+            "name": "murielle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1503083130.000523",
+        "parent_user_id": "U0AR01SPQ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YNE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok j'y serai!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "CogLab - HackNight #50: <!date^1503336600^{date_short_pretty} from {time}|August 21st, 2017 from 7:30 PM> to <!date^1503349200^{time}|11:00 PM GMT+0200>",
+                "text": "<!date^1503336600^{date_short_pretty} from {time}|August 21st, 2017 from 7:30 PM> to <!date^1503349200^{time}|11:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab - HackNight #50",
+                "more": "HackNight #50\n\nOrdre du jour :\n- OpenBC[IA] : experimentation et prototypage (Hans)\n- Autispace : protocole d'experimentation UX (team projet)\n\nLieu : \n- Skype <https:\/\/join.skype.com\/jSrxm2kHx3PU>\n- Locaux af83 avec Romain pour ceux qui veulent (merci de prévenir avant !)\n\n\nDocumentation\n- Projet BC[IA] <https:\/\/paper.dropbox.com\/doc\/i7L4ePZfYQTMVp9cIRkQn>\n- Projet Autiscpace <https:\/\/paper.dropbox.com\/doc\/yAWwKWaFkXa9w42sA0Sdj>\n\nInteractions :\n- Agenda CogLab <https:\/\/paper.dropbox.com\/doc\/Agenda-CogLab-NeuroTechX-Paris-a6pJbEvbJvWdJ3fHeF9JJ>\n- Slack : <https:\/\/scoglab.slack.com>\n- Communauté Facebook : <https:\/\/www.facebook.com\/groups\/coglab\/>\n- Twitter : <https:\/\/twitter.com\/SCogLab>\n- Site web : <http:\/\/coglab.fr\/>\n\nView meeting on Solid : <https:\/\/solid.wisembly.com\/meetings\/p8c0231?r=meeting.calendar.link&amp;u=m114455>",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MGQybDZrdmRxcTRsNGZiZm1lMXMxN2hlZGEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1503333000.000629",
+        "bot_id": "B4SJBP2L8"
+    }
+]

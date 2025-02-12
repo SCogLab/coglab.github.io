@@ -1,0 +1,115 @@
+[
+    {
+        "user": "U03FC4NE1",
+        "type": "message",
+        "ts": "1432082119.000002",
+        "text": "Yo\n\nPour rappel, une page est en préparation pour mettre en avant la team du CogLab (non référencée)\n<@U03HY4P8V> <@U03FEH3N8> <@U03JDJWSR> <@U03KXTN2D> <@U04NM0590> je vous invite à confirmer \/ modifier ce que j'ai proposé.\nSuite à vos validations, je l’intégrerai au site :simple_smile:\n\n<http:\/\/www.coglab.fr\/about\/team\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ce8fbc12b73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-01-27\/3522174799_7ce8fbc12b7351a6a2b3_72.jpg",
+            "first_name": "CogLab",
+            "real_name": "CogLab NeuroTechX Paris",
+            "display_name": "coglab",
+            "team": "T03FC4NDZ",
+            "name": "coglab",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "text": "  Découvrez qui anime l'Open Lab   Passionné par l’intelligence ambiante, les interfaces hommes-machines nouvelle",
+                "fallback": "  Découvrez qui anime l'Open Lab   Passionné par l’intelligence ambiante, les interfaces hommes-machines nouvelle",
+                "from_url": "http:\/\/www.coglab.fr\/about\/team\/",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QR0u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yo\n\nPour rappel, une page est en préparation pour mettre en avant la team du CogLab (non référencée)\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HY4P8V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03JDJWSR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03KXTN2D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04NM0590"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je vous invite à confirmer \/ modifier ce que j'ai proposé.\nSuite à vos validations, je l’intégrerai au site "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.coglab.fr\/about\/team\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03KXTN2D",
+        "text": "<@U03KXTN2D> a rejoint le canal",
+        "inviter": "U03FC4NE1",
+        "type": "message",
+        "ts": "1432082127.000004"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U04NM0590",
+        "text": "<@U04NM0590> a rejoint le canal",
+        "inviter": "U03FC4NE1",
+        "type": "message",
+        "ts": "1432082127.000005"
+    }
+]

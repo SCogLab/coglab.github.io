@@ -1,0 +1,151 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1624898140.012000",
+        "client_msg_id": "0fa32d0e-3ded-47a2-853a-5b6712244bfe",
+        "text": "Bonsoir,\nAvis aux habitué.e.s et nouveaux curieu.se.s,\nJe suis *en ligne* pour la permanence hebdomadaire de nos HackNight <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>\nPeut être l’une des dernières en ligne ?!?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Jitsi Meet",
+                "title_link": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "text": "Join a WebRTC video conference powered by the Jitsi Videobridge",
+                "fallback": "Jitsi Meet",
+                "from_url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "service_icon": "https:\/\/meet.jit.si\/images\/apple-touch-icon.png",
+                "service_name": "meet.jit.si",
+                "id": 1,
+                "original_url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0V6v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonsoir,\nAvis aux habitué.e.s et nouveaux "
+                            },
+                            {
+                                "type": "text",
+                                "text": "curieu.se",
+                                "style": {
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".s,\nJe suis "
+                            },
+                            {
+                                "type": "text",
+                                "text": "en ligne",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour la permanence hebdomadaire de nos HackNight "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPeut être l’une des dernières en ligne ?!?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1624907376.012800",
+        "client_msg_id": "1ec1e5c3-a7eb-4f0e-8edf-08b02b546b38",
+        "text": "Nous sommes en ligne pour la seconde partie de soirée\n:point_right: <https:\/\/gather.town\/invite?token=PYn7w8L3>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Gather",
+                "title_link": "https:\/\/gather.town\/invite?token=PYn7w8L3",
+                "text": "Gather is a video-calling space that lets multiple people hold separate conversations in parallel, walking in and out of those conversations just as easily as they would in real life.",
+                "fallback": "Gather",
+                "image_url": "https:\/\/gather.town\/images\/site\/site_preview.png",
+                "from_url": "https:\/\/gather.town\/invite?token=PYn7w8L3",
+                "image_width": 418,
+                "image_height": 250,
+                "image_bytes": 168628,
+                "service_icon": "https:\/\/gather.town\/favicon.ico",
+                "service_name": "gather.town",
+                "id": 1,
+                "original_url": "https:\/\/gather.town\/invite?token=PYn7w8L3"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lQhs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nous sommes en ligne pour la seconde partie de soirée\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gather.town\/invite?token=PYn7w8L3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

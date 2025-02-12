@@ -1,0 +1,65 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1582546283.000600",
+        "client_msg_id": "0179ebc7-23c0-4d72-af19-7cdf447808e9",
+        "text": "Talk VR Ground Control avec Rodolphe Chabrier et Jan Kounen : <https:\/\/www.youtube.com\/watch?v=GZOv_KyfAfU>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "talk • Rencontre avec Jan Kounen et Rodolphe Chabrier",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=GZOv_KyfAfU",
+                "author_name": "Ground Control",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCxnvGeMffoME-IyAqtFl6yQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/GZOv_KyfAfU\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: talk • Rencontre avec Jan Kounen et Rodolphe Chabrier",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/GZOv_KyfAfU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=GZOv_KyfAfU",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=GZOv_KyfAfU"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1NUv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Talk VR Ground Control avec Rodolphe Chabrier et Jan Kounen : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=GZOv_KyfAfU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

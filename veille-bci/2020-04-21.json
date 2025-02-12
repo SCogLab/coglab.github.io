@@ -1,0 +1,404 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U012L8X3UP3",
+        "text": "<@U012L8X3UP3> a rejoint le canal",
+        "type": "message",
+        "ts": "1587462458.005300"
+    },
+    {
+        "user": "U012L8X3UP3",
+        "type": "message",
+        "ts": "1587463983.005400",
+        "edited": {
+            "user": "U012L8X3UP3",
+            "ts": "1587463995.000000"
+        },
+        "client_msg_id": "9771635e-4b46-4ae8-ba60-2c5db471808f",
+        "text": "Bonjour ! Normalement, c'est alpha-wave \"focus\" surveillance ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g7cacb65a075",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3bcebd5613ff2f957777a0778b278d45.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "bogdan",
+            "display_name": "bogdan",
+            "team": "T03FC4NDZ",
+            "name": "bp42",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1587058546.003400",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nbJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour ! Normalement, c'est alpha-wave \"focus\" surveillance ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U012L8X3UP3",
+        "type": "message",
+        "ts": "1587464115.005700",
+        "client_msg_id": "bd58d795-d972-4428-8ea5-b65d0dc96898",
+        "text": "Bon, ils parlent de Near-InfraRed Spectroscopy (fNIRS)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g7cacb65a075",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3bcebd5613ff2f957777a0778b278d45.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "bogdan",
+            "display_name": "bogdan",
+            "team": "T03FC4NDZ",
+            "name": "bp42",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1587058546.003400",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Rcjf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bon, ils parlent de Near-InfraRed Spectroscopy (fNIRS)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1587464164.005900",
+        "client_msg_id": "6da4f286-3a72-4bd0-ad67-c8ca93458ace",
+        "text": "Oui c’est fNIRS, cette technique est “à la mode” en ce moment",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1587058546.003400",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aWw0W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui c’est fNIRS, cette technique est “à la mode” en ce moment"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1587464300.006100",
+        "client_msg_id": "450be272-fc42-4dcc-9318-321acf656ae9",
+        "text": "Joshua Brewster nous a envoyé hier une présentation sur son projet DIY HEGDuino : <https:\/\/www.crowdsupply.com\/alaskit\/hegduino>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1587058546.003400",
+        "parent_user_id": "U03FC5ZAK",
+        "attachments": [
+            {
+                "service_name": "Crowd Supply",
+                "title": "HEGduino",
+                "title_link": "https:\/\/www.crowdsupply.com\/alaskit\/hegduino",
+                "text": "Brain blood flow biofeedback meets affordable IoT technology",
+                "fallback": "Crowd Supply: HEGduino",
+                "image_url": "https:\/\/www.crowdsupply.com\/img\/6f15\/hegduino-updated-03_png_open-graph.jpg",
+                "from_url": "https:\/\/www.crowdsupply.com\/alaskit\/hegduino",
+                "image_width": 445,
+                "image_height": 250,
+                "image_bytes": 86175,
+                "service_icon": "https:\/\/www.crowdsupply.com\/_teal\/images\/crowd-supply-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.crowdsupply.com\/alaskit\/hegduino"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lCxS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Joshua Brewster nous a envoyé hier une présentation sur son projet DIY HEGDuino : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.crowdsupply.com\/alaskit\/hegduino"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1587465146.006400",
+        "client_msg_id": "65d68496-cbc9-4533-b056-88c60268fc9c",
+        "text": "Et le site web : <https:\/\/www.hegalpha.com>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1587058546.003400",
+        "parent_user_id": "U03FC5ZAK",
+        "attachments": [
+            {
+                "service_name": "HEG Alpha",
+                "title": "Open Source Brain Training | HEG Alpha",
+                "title_link": "https:\/\/www.hegalpha.com\/",
+                "text": "Open Source Brain Blood Flow Training Hardware &amp; Software. IoT Connected, Accessible, Next Generation Devices. HEG Alpha.",
+                "fallback": "HEG Alpha: Open Source Brain Training | HEG Alpha",
+                "image_url": "https:\/\/static.wixstatic.com\/media\/dffc12_45e390ca8a5d442a9b104506cb9ee52b%7Emv2.png\/v1\/fit\/w_2500,h_1330,al_c\/dffc12_45e390ca8a5d442a9b104506cb9ee52b%7Emv2.png",
+                "from_url": "https:\/\/www.hegalpha.com\/",
+                "image_width": 188,
+                "image_height": 250,
+                "image_bytes": 345337,
+                "service_icon": "https:\/\/static.wixstatic.com\/media\/dffc12_6f9ab2fed5e649e3a2aea56b8c6a3fe9%7Emv2.png\/v1\/fill\/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01\/dffc12_6f9ab2fed5e649e3a2aea56b8c6a3fe9%7Emv2.png",
+                "id": 1,
+                "original_url": "https:\/\/www.hegalpha.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zqT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et le site web : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.hegalpha.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U012L8X3UP3",
+        "type": "message",
+        "ts": "1587465747.006700",
+        "edited": {
+            "user": "U012L8X3UP3",
+            "ts": "1587465815.000000"
+        },
+        "client_msg_id": "5726b796-cfb6-4e73-a682-060d12cd2eb5",
+        "text": "Très curieux ! Moi je déjà pense à jouer avec <https:\/\/www.thingbits.net\/products\/sparkfun-spectral-sensor-breakout-as7263-nir-qwiic> et raspberry pi",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g7cacb65a075",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3bcebd5613ff2f957777a0778b278d45.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "bogdan",
+            "display_name": "bogdan",
+            "team": "T03FC4NDZ",
+            "name": "bp42",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1587058546.003400",
+        "parent_user_id": "U03FC5ZAK",
+        "attachments": [
+            {
+                "title": "SparkFun Spectral Sensor Breakout - AS7263 NIR (Qwiic) - Thingbits Electronics",
+                "title_link": "https:\/\/www.thingbits.net\/products\/sparkfun-spectral-sensor-breakout-as7263-nir-qwiic",
+                "text": "SparkFun Spectral Sensor Breakout - AS7263 NIR (Qwiic) - Description Features Documents The SparkFun AS7263 Near Infrared (NIR) Spectral Sensor Breakout brings spectroscopy to the palm of your hand, making it easier than ever to measure and characterize how",
+                "fallback": "SparkFun Spectral Sensor Breakout - AS7263 NIR (Qwiic) - Thingbits Electronics",
+                "from_url": "https:\/\/www.thingbits.net\/products\/sparkfun-spectral-sensor-breakout-as7263-nir-qwiic",
+                "service_icon": "https:\/\/www.thingbits.net\/apple-touch-icon.png",
+                "service_name": "thingbits.net",
+                "id": 1,
+                "original_url": "https:\/\/www.thingbits.net\/products\/sparkfun-spectral-sensor-breakout-as7263-nir-qwiic"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s8HC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Très curieux ! Moi je déjà pense à jouer avec "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.thingbits.net\/products\/sparkfun-spectral-sensor-breakout-as7263-nir-qwiic"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et raspberry pi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U012L8X3UP3",
+        "type": "message",
+        "ts": "1587474998.007200",
+        "client_msg_id": "e70e22c6-303e-4820-b560-f83514c40413",
+        "text": "<@U59MQ46DA> En fait, je viens de acheter HEGduino, merci pour l'information",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g7cacb65a075",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3bcebd5613ff2f957777a0778b278d45.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "bogdan",
+            "display_name": "bogdan",
+            "team": "T03FC4NDZ",
+            "name": "bp42",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1587058546.003400",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cSC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " En fait, je viens de acheter HEGduino, merci pour l'information"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1587475254.007400",
+        "client_msg_id": "6a5b5b35-d024-4236-ab2c-e82af8c79020",
+        "text": "Ça marche, un de nos membres en a reçu un il y a 1 mois, mais il ne pourra plus s’en occuper (il a monté une startup en biotech), j’espère pouvoir le récupérer après le confinement.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1587058546.003400",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zkS=B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ça marche, un de nos membres en a reçu un il y a 1 mois, mais il ne pourra plus s’en occuper (il a monté une startup en biotech), j’espère pouvoir le récupérer après le confinement."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

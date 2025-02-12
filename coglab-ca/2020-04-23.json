@@ -1,0 +1,90 @@
+[
+    {
+        "subtype": "channel_purpose",
+        "user": "U6EPG5PTQ",
+        "purpose": "Channel dédié au Conseil d'Administration de l'association. C'est ouvert, n'hésite pas à interagir :slightly_smiling_face:\n\nLes membres du CA : <@U59MQ46DA> <@U5JBN3M8Q>  <@U0FB4KME0> <@U03FEH3N8> <@U03FC5ZAK> <@U6EPG5PTQ>",
+        "text": "a défini la description du canal : Channel dédié au Conseil d'Administration de l'association. C'est ouvert, n'hésite pas à interagir :slightly_smiling_face:\n\nLes membres du CA : <@U59MQ46DA> <@U5JBN3M8Q>  <@U0FB4KME0> <@U03FEH3N8> <@U03FC5ZAK> <@U6EPG5PTQ>",
+        "type": "message",
+        "ts": "1587651534.008600"
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1587663403.009000",
+        "client_msg_id": "cf3a5e93-32a0-4733-8b79-567969fbffd9",
+        "text": "donc validé demain ?? <@U03FC5ZAK>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gaG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "donc validé demain ?? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1587664476.010100",
+        "client_msg_id": "a37f0736-f988-47d9-afe9-5f064ff68e84",
+        "text": "Il semblerait en effet. \nMerci pour le ping. Pas eu le temps de checker ! \nJe vois envoie une invitation dans la soirée",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oy3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il semblerait en effet. \nMerci pour le ping. Pas eu le temps de checker ! \nJe vois envoie une invitation dans la soirée"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

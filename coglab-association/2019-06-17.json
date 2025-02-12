@@ -1,0 +1,79 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1560806925.003000",
+        "edited": {
+            "user": "U03FC5ZAK",
+            "ts": "1560806936.000000"
+        },
+        "client_msg_id": "e2cb4fcb-e3a7-4253-8a5e-2aacc6a604bd",
+        "text": "J'ai procédé à une nouvelle *mise à jour du site web* à l'instant, avec notamment :\n- Refonte de la page Agenda\n- Changement de typo\n- Refonte et simplification du pied de page\n- Refonte de la barre de widget dans les articles\n- Simplification du menu\n- Ajouts de pictogrammes pour les accès rapides (réseaux sociaux &amp; cie)\n\nJe ferais une nouvelle itération probablement ce weekend.\n*N'hésitez pas si vous avez des retours* (commentaire, détection d'un bug, suggestion d'ajout, ...)\n\n<https:\/\/coglab.fr\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P0DNL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai procédé à une nouvelle "
+                            },
+                            {
+                                "type": "text",
+                                "text": "mise à jour du site web",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " à l'instant, avec notamment :\n- Refonte de la page Agenda\n- Changement de typo\n- Refonte et simplification du pied de page\n- Refonte de la barre de widget dans les articles\n- Simplification du menu\n- Ajouts de pictogrammes pour les accès rapides (réseaux sociaux & cie)\n\nJe ferais une nouvelle itération probablement ce weekend.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "N'hésitez pas si vous avez des retours",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (commentaire, détection d'un bug, suggestion d'ajout, ...)\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.fr\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FEH3N8"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

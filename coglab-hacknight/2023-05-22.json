@@ -1,0 +1,86 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U058UQCU7R9",
+        "text": "<@U058UQCU7R9> a rejoint le canal",
+        "type": "message",
+        "ts": "1684751175.492649",
+        "team": "T03FC4NDZ"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1684773992.854209",
+        "client_msg_id": "2ab26b6a-425f-4fd5-bf6c-81364492fa1c",
+        "text": "Hello, je suis en chemin est devrait arriver vers 19h",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5VrfP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, je suis en chemin est devrait arriver vers 19h"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1684774037.830319",
+        "client_msg_id": "b5ccd778-72e9-4232-bee6-50095408859c",
+        "text": "Ok à tout à l'heure !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+1THt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok à tout à l'heure !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

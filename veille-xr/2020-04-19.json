@@ -1,0 +1,103 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1587296667.000500",
+        "client_msg_id": "d208dfaf-fa6a-48a1-a803-ebc09bb8383b",
+        "text": "Intéressant. C'est plus du mapping que de l'AR mais why not. Ça fait des années que je rêve de transformer mes mûrs en une 'tappiserie numérique' :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1587229208.000300",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eXZG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Intéressant. C'est plus du mapping que de l'AR mais why not. Ça fait des années que je rêve de transformer mes mûrs en une 'tappiserie numérique' "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1587307038.000700",
+        "client_msg_id": "a650cdb6-d784-430d-9cd3-8eab8d32442f",
+        "text": ":slightly_smiling_face:. J’avais en tête un projet de _“mind projection”_ en mappant données cérébrales et projection AR",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1587229208.000300",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3eh5F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". J’avais en tête un projet de "
+                            },
+                            {
+                                "type": "text",
+                                "text": "“mind projection”",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " en mappant données cérébrales et projection AR"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

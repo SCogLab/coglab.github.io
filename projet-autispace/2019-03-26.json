@@ -1,0 +1,93 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1553588444.000200",
+        "client_msg_id": "b7b897df-b9b9-4d72-b5db-f403fac778a7",
+        "text": "[Agenda:date:] Ce matin, @s_cluzel participe au lancement de la plateforme \"Autisme Info Service\" (@AutismeInfoServ ), un dispositif d'information et d'orientation pour les parents et aidants.\n:round_pushpin: Au @LIBERTE_LL \n\n#Handicap #Autisme <https:\/\/t.co\/BS23HBYdog>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/handicap_gouv|@handicap_gouv>: [Agenda:date:] Ce matin, <https:\/\/twitter.com\/s_cluzel|@s_cluzel> participe au lancement de la plateforme \"Autisme Info Service\" (<https:\/\/twitter.com\/AutismeInfoServ|@AutismeInfoServ> ), un dispositif d'information et d'orientation pour les parents et aidants.\n:round_pushpin: Au <https:\/\/twitter.com\/LIBERTE_LL|@LIBERTE_LL> \n\n#Handicap #Autisme <https:\/\/pbs.twimg.com\/media\/D2kWvvXXQAEOkRU.jpg>",
+                "ts": 1553585406,
+                "author_name": "Handicap_gouv",
+                "author_link": "https:\/\/twitter.com\/handicap_gouv\/status\/1110443793927585792",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/979638347319664641\/wqid7xb6_normal.jpg",
+                "author_subname": "@handicap_gouv",
+                "text": "[Agenda:date:] Ce matin, <https:\/\/twitter.com\/s_cluzel|@s_cluzel> participe au lancement de la plateforme \"Autisme Info Service\" (<https:\/\/twitter.com\/AutismeInfoServ|@AutismeInfoServ> ), un dispositif d'information et d'orientation pour les parents et aidants.\n:round_pushpin: Au <https:\/\/twitter.com\/LIBERTE_LL|@LIBERTE_LL> \n\n#Handicap #Autisme <https:\/\/pbs.twimg.com\/media\/D2kWvvXXQAEOkRU.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/handicap_gouv\/status\/1110443793927585792\/photo\/1",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/D2kWvvXXQAEOkRU.jpg",
+                "image_width": 600,
+                "image_height": 338,
+                "image_bytes": 34109,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/handicap_gouv\/status\/1110443793927585792\/photo\/1",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rO2W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[Agenda"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "date",
+                                "unicode": "1f4c5"
+                            },
+                            {
+                                "type": "text",
+                                "text": "] Ce matin, @s_cluzel participe au lancement de la plateforme \"Autisme Info Service\" (@AutismeInfoServ ), un dispositif d'information et d'orientation pour les parents et aidants.\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "round_pushpin",
+                                "unicode": "1f4cd"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Au @LIBERTE_LL \n\n#Handicap #Autisme "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/t.co\/BS23HBYdog"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U03FEH3N8"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

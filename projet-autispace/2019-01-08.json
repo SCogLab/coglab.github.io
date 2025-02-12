@@ -1,0 +1,126 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1546953859.001000",
+        "client_msg_id": "6fe3d742-15bc-4af6-953c-0b1276162958",
+        "text": "Un projet en lien avec l'autisme viens d'arriver à la paillasse \n<https:\/\/twitter.com\/ovaomproject\/status\/1082607276169547776?s=19>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/ovaomproject|@ovaomproject>: New space <https:\/\/twitter.com\/LaPaillasse|@LaPaillasse> ! #Edu_num <https:\/\/twitter.com\/Eduscol|@Eduscol> <https:\/\/twitter.com\/PhilippeAjuelos|@PhilippeAjuelos> <https:\/\/twitter.com\/patricerenaud1|@patricerenaud1> <https:\/\/twitter.com\/drmlj|@drmlj> <https:\/\/twitter.com\/LaPaillasse|@LaPaillasse> <https:\/\/twitter.com\/simonhill_fr|@simonhill_fr> <https:\/\/pbs.twimg.com\/media\/DwYxlKgWwAAAXpN.jpg>",
+                "ts": 1546948663,
+                "author_name": "ovaom",
+                "author_link": "https:\/\/twitter.com\/ovaomproject\/status\/1082607276169547776",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/847721593623134210\/s_q_fjSu_normal.jpg",
+                "author_subname": "@ovaomproject",
+                "text": "New space <https:\/\/twitter.com\/LaPaillasse|@LaPaillasse> ! #Edu_num <https:\/\/twitter.com\/Eduscol|@Eduscol> <https:\/\/twitter.com\/PhilippeAjuelos|@PhilippeAjuelos> <https:\/\/twitter.com\/patricerenaud1|@patricerenaud1> <https:\/\/twitter.com\/drmlj|@drmlj> <https:\/\/twitter.com\/LaPaillasse|@LaPaillasse> <https:\/\/twitter.com\/simonhill_fr|@simonhill_fr> <https:\/\/pbs.twimg.com\/media\/DwYxlKgWwAAAXpN.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/ovaomproject\/status\/1082607276169547776?s=19",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/DwYxlKgWwAAAXpN.jpg",
+                "image_width": 640,
+                "image_height": 640,
+                "image_bytes": 90090,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/ovaomproject\/status\/1082607276169547776?s=19",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rqwr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un projet en lien avec l'autisme viens d'arriver à la paillasse \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/ovaomproject\/status\/1082607276169547776?s=19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1546976860.001300",
+        "client_msg_id": "3e95bfd7-6fed-466e-93e6-681beb76d327",
+        "text": "<https:\/\/vimeo.com\/277085489>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Vimeo",
+                "service_url": "https:\/\/vimeo.com\/",
+                "title": "Hol'autisme - Pop Balloons presentation",
+                "title_link": "https:\/\/vimeo.com\/277085489",
+                "author_name": "Actimage",
+                "author_link": "https:\/\/vimeo.com\/actimageconsulting",
+                "thumb_url": "https:\/\/i.vimeocdn.com\/video\/709763569_295x166.jpg",
+                "thumb_width": 295,
+                "thumb_height": 166,
+                "text": "Pop Balloons is the first application of Hol'autisme. In this HoloLens application he children must find balloons, move to them and pop them.\nIt helps them to improve their motor skills.",
+                "fallback": "Vimeo Video: Hol'autisme - Pop Balloons presentation",
+                "video_html": "<iframe src=\"https:\/\/player.vimeo.com\/video\/277085489?autoplay=1&app_id=122963\" width=\"400\" height=\"225\" frameborder=\"0\" title=\"Hol&#039;autisme - Pop Balloons presentation\" allow=\"autoplay; fullscreen\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/vimeo.com\/277085489",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/vimeo.png",
+                "id": 1,
+                "original_url": "https:\/\/vimeo.com\/277085489"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H1rbY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/vimeo.com\/277085489"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

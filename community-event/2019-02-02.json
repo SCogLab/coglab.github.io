@@ -1,0 +1,89 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1549114076.000500",
+        "client_msg_id": "e7ec83ef-ebb7-4ae7-b245-025438022def",
+        "text": "<@U03FC5ZAK> un meetup intéressant : <https:\/\/www.meetup.com\/fr-FR\/grakn-paris\/events\/258394430\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1549114076.000500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1549306357.001600",
+        "reply_users": [
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1549306357.001600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Intro to Knowledge Graphs with GRAKN.AI for Bioinformatics",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/grakn-paris\/events\/258394430\/",
+                "text": "jeu. 7 mars 2019 à 18:30: #### Intro to Knowledge Graphs with <http:\/\/GRAKN.AI|GRAKN.AI> for BioinformaticsThe success or failure of any modern organisation relies on the way they leverage their data. However, most ins",
+                "fallback": "Meetup: Intro to Knowledge Graphs with GRAKN.AI for Bioinformatics",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/7\/3\/1\/a\/600_478109466.jpeg",
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/grakn-paris\/events\/258394430\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 222559,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/fr-FR\/m_swarm_120x120.4f86abc9.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/grakn-paris\/events\/258394430\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3uPE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " un meetup intéressant : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/grakn-paris\/events\/258394430\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

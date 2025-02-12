@@ -1,0 +1,67 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1516913516.000418",
+        "text": "Découverte du projet OVAOM\n\nMusique à toucher, dispositif tactile d'exploration du son pour des personnes autistes.\nLe projet est soutenu par La Paillasse, laboratoire de recherche ouvert et citoyen.\n\nContact : Muriel Colagrande muriel[a]<http:\/\/ovaom.com|ovaom.com>\n<http:\/\/www.ovaom.com\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "OVAOM",
+                "title_link": "http:\/\/www.ovaom.com\/",
+                "text": "Musique à toucher",
+                "fallback": "OVAOM",
+                "thumb_url": "http:\/\/78.media.tumblr.com\/avatar_3a238e4c763c_128.pnj",
+                "from_url": "http:\/\/www.ovaom.com\/",
+                "thumb_width": 128,
+                "thumb_height": 128,
+                "service_icon": "http:\/\/78.media.tumblr.com\/avatar_3a238e4c763c_128.pnj",
+                "service_name": "ovaom.com",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jX8R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Découverte du projet OVAOM\n\nMusique à toucher, dispositif tactile d'exploration du son pour des personnes autistes.\nLe projet est soutenu par La Paillasse, laboratoire de recherche ouvert et citoyen.\n\nContact : Muriel Colagrande muriel[a]"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/ovaom.com",
+                                "text": "ovaom.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.ovaom.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

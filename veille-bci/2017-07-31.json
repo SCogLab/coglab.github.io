@@ -1,0 +1,145 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1501520877.131670",
+        "text": "On en parlait il y a quelques temps <@U6FGQ47L7> !\nCa commence déjà à ‘bouger’, mais plus un effet d’annonce à mon sens, de la part de la startup *Neurable*\n\nIntéressant l’illustration avec les LEDs au dos de l’appareil pour le feedback\nPing <@U03HY4P8V> <@U04T6ATLX> <@U0KKC7AQ6> \n\n“With the Neurable SDK, Unity developers can easily integrate brain-activity as a control input into any game.\nBrain signal acquisition is accomplished through our upgraded headband for the HTC Vive. Simply remove the elastic straps in the back and replace them with our straps. Our solution is a demonstration prototype of how brain sensors and neurotechnology can be integrated with AR\/VR devices.”\n\n<https:\/\/medium.com\/neurable\/announcing-the-worlds-first-brain-computer-interface-for-virtual-reality-a3110db62607>\n\nLe SDK Kit sort en beta limitée\n<http:\/\/www.neurable.com\/developers>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "Announcing the world’s first brain-computer interface for virtual reality",
+                "title_link": "https:\/\/medium.com\/neurable\/announcing-the-worlds-first-brain-computer-interface-for-virtual-reality-a3110db62607",
+                "text": "Today Neurable is offering a first look at a product that is without precedent in modern tech: a brain-computer interface for virtual reality.",
+                "fallback": "Medium: Announcing the world’s first brain-computer interface for virtual reality",
+                "image_url": "https:\/\/cdn-images-1.medium.com\/max\/1200\/1*BnF_N8A0L6nt6keKeQjNpA.jpeg",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "4 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1501441227,
+                "from_url": "https:\/\/medium.com\/neurable\/announcing-the-worlds-first-brain-computer-interface-for-virtual-reality-a3110db62607",
+                "image_width": 318,
+                "image_height": 250,
+                "image_bytes": 53123,
+                "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/304\/304\/1*Whbl_XTJ6e_fpo9FQEeJRQ.jpeg",
+                "id": 1
+            },
+            {
+                "service_name": "Neurable INC",
+                "title": "Developers",
+                "title_link": "http:\/\/www.neurable.com\/developers",
+                "text": "The Neurable development kit enables you to create virtual reality experiences controlled by the mind. The headset captures EEG data that is translated into user commands by our API",
+                "fallback": "Neurable INC: Developers",
+                "ts": 1498137450,
+                "from_url": "http:\/\/www.neurable.com\/developers",
+                "service_icon": "http:\/\/www.neurable.com\/sites\/default\/files\/neurable-vawe.png",
+                "id": 2
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OmtZe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On en parlait il y a quelques temps "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U6FGQ47L7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !\nCa commence déjà à ‘bouger’, mais plus un effet d’annonce à mon sens, de la part de la startup "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Neurable",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nIntéressant l’illustration avec les LEDs au dos de l’appareil pour le feedback\nPing "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HY4P8V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04T6ATLX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0KKC7AQ6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\n“With the Neurable SDK, Unity developers can easily integrate brain-activity as a control input into any game.\nBrain signal acquisition is accomplished through our upgraded headband for the HTC Vive. Simply remove the elastic straps in the back and replace them with our straps. Our solution is a demonstration prototype of how brain sensors and neurotechnology can be integrated with AR\/VR devices.”\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/medium.com\/neurable\/announcing-the-worlds-first-brain-computer-interface-for-virtual-reality-a3110db62607"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nLe SDK Kit sort en beta limitée\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.neurable.com\/developers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U6FGQ47L7",
+        "text": "<@U6FGQ47L7> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1501520882.134448"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0KKC7AQ6",
+        "text": "<@U0KKC7AQ6> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1501520882.134512"
+    }
+]

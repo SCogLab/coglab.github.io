@@ -1,0 +1,76 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There are *3* events this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #204: <!date^1630341000^{date_short_pretty} from {time}|August 30th, 2021 from 6:30 PM> to <!date^1630350000^{time}|9:00 PM GMT+0200>",
+                "text": "<!date^1630341000^{date_short_pretty} from {time}|August 30th, 2021 from 6:30 PM> to <!date^1630350000^{time}|9:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Cri%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France%2C+Charles+V-0-MakerLab+Classroom+%2830%29|Cri, 8 bis Rue Charles V, 75004 Paris, France, Charles V-0-MakerLab Classroom (30)>",
+                "title": "CogLab HackNight #204",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MWI5Y2FvN2g5c3NyNGpyaDFhcTMwaGpsZWNfMjAyMTA4MzBUMTYzMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "NTX Town Hall: <!date^1630771200^{date_short_pretty} from {time}|September 4th, 2021 from 6:00 PM> to <!date^1630778400^{time}|8:00 PM GMT+0200>",
+                "text": "<!date^1630771200^{date_short_pretty} from {time}|September 4th, 2021 from 6:00 PM> to <!date^1630778400^{time}|8:00 PM GMT+0200>",
+                "title": "NTX Town Hall",
+                "id": 2,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NW5jNHFsdHFlZWg4cXQ1MHBicTBkY2c1cW8gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "[Option] CA CogLab 2021.3 ?: <!date^1630778400^{date_short_pretty} from {time}|September 4th, 2021 from 8:00 PM> to <!date^1630785600^{time}|10:00 PM GMT+0200>",
+                "text": "<!date^1630778400^{date_short_pretty} from {time}|September 4th, 2021 from 8:00 PM> to <!date^1630785600^{time}|10:00 PM GMT+0200>",
+                "title": "[Option] CA CogLab 2021.3 ?",
+                "id": 3,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MjNpa2txajd2YmpwamFudG8yOTFxaGk1a2kgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1630303205.000100",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LJ4a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " events this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

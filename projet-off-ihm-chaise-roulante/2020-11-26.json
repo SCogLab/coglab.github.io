@@ -1,0 +1,124 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1606403233.002200",
+        "client_msg_id": "65690e74-dfe5-4074-9e39-46a187ba2a1e",
+        "text": "Salut Hassan, quel modèle d’EEG vous avez utilisé jusqu’à maintenant ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jWdg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut Hassan, quel modèle d’EEG vous avez utilisé jusqu’à maintenant ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U013Z4CGVB9",
+        "type": "message",
+        "ts": "1606424663.003000",
+        "client_msg_id": "59b1b1e0-262e-4ab3-9ccf-8fde10f7c43e",
+        "text": "Merci <@U59MQ46DA> mais je crains qu'il n'ait pas beaucoup de canaux ce casque n'est-ce pas ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gcc1f466cb69",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cc1f466cb69e526ede2e17c4196c9168.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Hassan Mkhallati",
+            "display_name": "Hassan Mkhallati",
+            "team": "T03FC4NDZ",
+            "name": "hassan.mkhallati-dit-",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AnsDi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " mais je crains qu'il n'ait pas beaucoup de canaux ce casque n'est-ce pas ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U013Z4CGVB9",
+        "type": "message",
+        "ts": "1606424677.003400",
+        "client_msg_id": "e363938a-7d00-4512-8e5c-e78bb27453b6",
+        "text": "Bonsoir romain, le enobio à 8 canaux",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gcc1f466cb69",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cc1f466cb69e526ede2e17c4196c9168.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Hassan Mkhallati",
+            "display_name": "Hassan Mkhallati",
+            "team": "T03FC4NDZ",
+            "name": "hassan.mkhallati-dit-",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b8DE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonsoir romain, le enobio à 8 canaux"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

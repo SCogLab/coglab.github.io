@@ -1,0 +1,238 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Hans Harisson",
+                "fallback": "New card Fête de la science 2019 added to list BLOG (notes externes) on board Activités CogLab (public).",
+                "text": "In list *BLOG (notes externes)* on *<https:\/\/trello.com\/b\/NFHS3ZPa|Activités CogLab (public)>*.",
+                "pretext": "New card created",
+                "title": "Fête de la science 2019",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/v9R2DbJL",
+                "author_link": "https:\/\/trello.com\/hansharisson1",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1570367436.000100",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1570388700.000200",
+        "text": "Petit message d'information <!here> \n\nIl n'y aura pas de <#C0R6W4X2Q|coglab-hacknight> les 2 prochaines semaines, prochain rendez-vous le lundi 21 octobre qui se tiendra au Centre de Recherche Interdisciplinaire (CRI)\n\nLe projet <#CL6EXG9EY|projet-bci-voyager> était présenté au salon IFTM la semaine dernière. Un grand merci à l'équipe : <@UMSL037JT> <@ULSDVUUVA> <@UMQA8DN92> <@U59MQ46DA> et toutes les personnes qui ont donné des coups de mains comme <@UN5THSRG8> et <@U03FEH3N8> et ont permis de mener à bien ce gros challenge d'un nouveau genre à notre échelle.\n\nCette après-midi j'ai préparé la structure d'un long article de retour d'expérience un peu particulier, que je publierai probablement sur médium. J'y parlerai notamment de hacking, médiation et design Fiction :sunglasses:\n\n\nUne lettre d'information sera diffusée dans les prochains jours avec toutes les actualités passées et à venir de l'association !\n\n_\nRomain, président de l'association.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Facebook",
+                "service_url": "https:\/\/www.facebook.com",
+                "author_name": "IFTM Top Resa",
+                "author_link": "https:\/\/www.facebook.com\/iftmparis\/",
+                "fallback": "Facebook Video: ",
+                "id": 1,
+                "original_url": "https:\/\/www.facebook.com\/iftmparis\/videos\/492959851258739\/?v=492959851258739",
+                "color": "D0D0D0",
+                "from_url": "https:\/\/scoglab.slack.com\/archives\/CL6EXG9EY\/p1570295698001500",
+                "is_share": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bQu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Petit message d'information "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nIl n'y aura pas de "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0R6W4X2Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " les 2 prochaines semaines, prochain rendez-vous le lundi 21 octobre qui se tiendra au Centre de Recherche Interdisciplinaire (CRI)\n\nLe projet "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CL6EXG9EY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " était présenté au salon IFTM la semaine dernière. Un grand merci à l'équipe : "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UMSL037JT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "ULSDVUUVA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UMQA8DN92"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et toutes les personnes qui ont donné des coups de mains comme "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UN5THSRG8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et ont permis de mener à bien ce gros challenge d'un nouveau genre à notre échelle.\n\nCette après-midi j'ai préparé la structure d'un long article de retour d'expérience un peu particulier, que je publierai probablement sur médium. J'y parlerai notamment de hacking, médiation et design Fiction "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses",
+                                "unicode": "1f60e"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\n\nUne lettre d'information sera diffusée dans les prochains jours avec toutes les actualités passées et à venir de l'association !\n\n_\nRomain, président de l'association."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UMQA8DN92",
+                    "U03FEH3N8",
+                    "ULABDBC9W"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "ULSDVUUVA",
+        "type": "message",
+        "ts": "1570427043.001100",
+        "client_msg_id": "53c57425-a45e-4819-9a76-e23da4c84a6a",
+        "text": "Médiation? Tu parle de MédiTation, non? :heart_eyes::wink:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "d6568f25a9a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-08\/3075305835828_d6568f25a9a41b2be2ef_72.jpg",
+            "first_name": "Maike",
+            "real_name": "Maike",
+            "display_name": "Maike",
+            "team": "T03FC4NDZ",
+            "name": "maikeherbort",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570427043.001100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1570459144.001500",
+        "reply_users": [
+            "U03FC5ZAK",
+            "ULSDVUUVA"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1570458191.001300"
+            },
+            {
+                "user": "ULSDVUUVA",
+                "ts": "1570459144.001500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WX2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Médiation? Tu parle de MédiTation, non? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes",
+                                "unicode": "1f60d"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

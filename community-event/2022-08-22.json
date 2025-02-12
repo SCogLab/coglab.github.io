@@ -1,0 +1,197 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U03VBQLAK2L",
+        "text": "<@U03VBQLAK2L> a rejoint le canal",
+        "type": "message",
+        "ts": "1661191091.924109"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1661196821.739469",
+        "client_msg_id": "ff64649d-a593-4747-aa02-3bd228bb9097",
+        "text": "<https:\/\/www.eventbrite.com\/e\/an-inside-look-uc-berkeleys-center-for-the-science-of-psychedelics-registration-405017206367>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.eventbrite.com\/e\/an-inside-look-uc-berkeleys-center-for-the-science-of-psychedelics-registration-405017206367",
+                "image_url": "https:\/\/img.evbuc.com\/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F338741649%2F513337182607%2F1%2Foriginal.20220819-201307?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=0859979b716ce914138e12fe4d646648",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 111653,
+                "service_icon": "https:\/\/cdn.evbstatic.com\/s3-build\/625194-rc2022-08-18_16.04-e7fd9ef\/django\/images\/touch_icons\/apple-touch-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.eventbrite.com\/e\/an-inside-look-uc-berkeleys-center-for-the-science-of-psychedelics-registration-405017206367",
+                "fallback": "Eventbrite: An Inside Look: UC Berkeley’s Center for the Science of Psychedelics",
+                "text": "Dr. Michael Silver, Director of the UC Berkeley Center for the Science of Psychedelics, introduces us to the new center on campus.",
+                "title": "An Inside Look: UC Berkeley’s Center for the Science of Psychedelics",
+                "title_link": "https:\/\/www.eventbrite.com\/e\/an-inside-look-uc-berkeleys-center-for-the-science-of-psychedelics-registration-405017206367",
+                "service_name": "Eventbrite",
+                "fields": [
+                    {
+                        "value": "Harmon Way, Berkeley, CA 94720",
+                        "title": "Where",
+                        "short": true
+                    },
+                    {
+                        "value": "Sat, Sep 10, 2022 at 11:00 AM",
+                        "title": "When",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wrU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.eventbrite.com\/e\/an-inside-look-uc-berkeleys-center-for-the-science-of-psychedelics-registration-405017206367"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01804NJ7AQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1661196850.576849",
+        "client_msg_id": "8ee40320-72bf-42fa-8945-4e6f36d4fee6",
+        "text": "11th International IEEE EMBS Conference on Neural Engineering\nApril 25 - April 28, 2023\n<https:\/\/ieee-ner.org\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ieee-ner.org\/",
+                "image_url": "https:\/\/confcats-web-assets.s3.amazonaws.com\/ner\/2023\/ner23-logo_color.png",
+                "image_width": 499,
+                "image_height": 250,
+                "image_bytes": 15345,
+                "service_icon": "https:\/\/confcats-web-assets.s3.amazonaws.com\/ner\/2023\/ner23-logo_color.png",
+                "id": 1,
+                "original_url": "https:\/\/ieee-ner.org\/",
+                "fallback": "IEEE EMBS Conference on Neural Engineering",
+                "text": "The Neural Engineering Community welcomes researchers, members of academia, clinicians, and representatives of patient associations, industry, government agencies, funders, and other interested parties to attend the premier conference for this highly interdisciplinary fi­eld. NER is the world’s gathering place for biomedical engineers, neuroscientists, and clinicians to share research and to exchange ideas and breakthrough advances in novel engineering tools for elucidating brain function and neuro technologies for the restoration and enhancement of impaired sensory, motor, and cognitive functions. The conference program will feature keynote speakers, invited talks, mini-symposia, and poster sessions.",
+                "title": "IEEE EMBS Conference on Neural Engineering",
+                "title_link": "https:\/\/ieee-ner.org\/",
+                "service_name": "ieee-ner.org"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QlB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "11th International IEEE EMBS Conference on Neural Engineering\nApril 25 - April 28, 2023\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ieee-ner.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1661196892.250259",
+        "client_msg_id": "d2db0890-f453-487b-ad7a-2b5c22019a55",
+        "text": "Neurophysiology Virtual Data Showcase\n_Co-hosted by the OpenScope Program, DANDI Archive, Neurodata Without Borders (NWB), and The Kavli Foundation._\nWednesday, September 28, 2022\n<https:\/\/alleninstitute.org\/what-we-do\/brain-science\/events-training\/2022-neurophysiology-virtual-data-showcase\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Fec",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Neurophysiology Virtual Data Showcase\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Co-hosted by the OpenScope Program, DANDI Archive, Neurodata Without Borders (NWB), and The Kavli Foundation.",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nWednesday, September 28, 2022\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/alleninstitute.org\/what-we-do\/brain-science\/events-training\/2022-neurophysiology-virtual-data-showcase\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

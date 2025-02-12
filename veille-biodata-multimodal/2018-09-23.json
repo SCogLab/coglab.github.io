@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1537725500.000100",
+        "client_msg_id": "cb917785-f685-43b6-9d2a-f1e8e340054c",
+        "text": "<https:\/\/www.youtube.com\/watch?v=b5AGVpQefss>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Battery-Free Eye Tracker on Glasses (MobiCom 2018)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=b5AGVpQefss",
+                "author_name": "DartNets Lab",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCQhj_t5VL-SnOAj24EJcwaw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/b5AGVpQefss\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Battery-Free Eye Tracker on Glasses (MobiCom 2018)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/b5AGVpQefss?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=b5AGVpQefss",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=b5AGVpQefss"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "502fl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=b5AGVpQefss"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

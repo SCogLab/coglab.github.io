@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1702487646.036029",
+        "client_msg_id": "3a76b716-eda5-4280-81e8-9a843b13d8f3",
+        "text": "Hello, je ne vais pas pouvoir me libérer pour la HackNight ce soir, j’ai une autre réunion qui va seulement démarrer :confused:\nPassez un bon moment d’échange !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KiuMB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, je ne vais pas pouvoir me libérer pour la HackNight ce soir, j’ai une autre réunion qui va seulement démarrer "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused",
+                                "unicode": "1f615"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPassez un bon moment d’échange !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06A1AP1ZPD",
+        "text": "<@U06A1AP1ZPD> a rejoint le canal",
+        "type": "message",
+        "ts": "1702496869.182329",
+        "team": "T03FC4NDZ"
+    }
+]

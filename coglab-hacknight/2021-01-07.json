@@ -1,0 +1,124 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1610009295.006400",
+        "client_msg_id": "cea7d0df-f0c8-4ce7-8460-919616844340",
+        "text": "Bonjour <!channel>\n\nLes hacknight reprennent à partir de lundi, avec une petite mise à jour sur le format et l’horaire\n\nRDV de\n• 18h30 à 20h00 pour l’actualité des neurotech et des échanges informels avec la communauté internationale (en visio sur Jitsi et en anglais)\n• 21h00 à 22h00 dédié à la communauté locale, à vos besoins, et les projets de l’association (directement ici en audio)\nPour rester informé, les invitations se font toujours via Meetup <https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/275600956\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "HackNight #177 (online)",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/275600956\/",
+                "text": "lun. 11 janv. 2021 à 18:30: (English version available below)#Présentation des HackNightsLes HackNight de l'association CogLab, NeuroTechX Paris sont des soirées hebdomadaires conviviales, dédiées aux",
+                "fallback": "Meetup: HackNight #177 (online)",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/1\/9\/7\/c\/600_494226524.jpeg",
+                "fields": [
+                    {
+                        "title": "Où",
+                        "value": "Événement en ligne",
+                        "short": true
+                    },
+                    {
+                        "title": "Quand",
+                        "value": "lun. 11 janv. 2021 à 18:30",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/275600956\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 34458,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/fr-FR\/m_swarm_120x120.4f86abc9.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/275600956\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "faY5N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nLes hacknight reprennent à partir de lundi, avec une petite mise à jour sur le format et l’horaire\n\nRDV de\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "18h30 à 20h00 pour l’actualité des neurotech et des échanges informels avec la communauté internationale (en visio sur Jitsi et en anglais)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "21h00 à 22h00 dédié à la communauté locale, à vos besoins, et les projets de l’association (directement ici en audio)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nPour rester informé, les invitations se font toujours via Meetup "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/275600956\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01804NJ7AQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,95 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "CogLab HackNight #241: <!date^1665420300^{date_short_pretty} from {time}|October 10th, 2022 from 6:45 PM> to <!date^1665432900^{time}|10:15 PM GMT+0200>",
+                "text": "<!date^1665420300^{date_short_pretty} from {time}|October 10th, 2022 from 6:45 PM> to <!date^1665432900^{time}|10:15 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Learning+Planet+Institut%29+-+Inserm+University+Paris+City%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France|Learning Planet Institut) - Inserm University Paris City, 8 bis Rue Charles V, 75004 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #241",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MDZmYzAyaTY4MjFqdTczM3NnZzRkZzNldjcgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "more",
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1665416701.184729",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "Event created: [NTXhack2022] Hackathon KickOFF: <!date^1666972800^{date_short_pretty} from {time}|October 28th, 2022 from 6:00 PM> to <!date^1666987200^{time}|10:00 PM GMT+0200>",
+                "text": "<!date^1666972800^{date_short_pretty} from {time}|October 28th, 2022 from 6:00 PM> to <!date^1666987200^{time}|10:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=42%2C+96+Bd+Bessi%C3%A8res%2C+75017+Paris%2C+France|42, 96 Bd Bessières, 75017 Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "[NTXhack2022] Hackathon KickOFF",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MTAwdnRkY3Fhb3A0YmJ1NW80amhzOHJjbGIgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "more",
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1665431229.152409",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "Event created: [NTXhack2022] Hackathon Day 1: <!date^1667029500^{date_short_pretty} from {time}|October 29th, 2022 from 9:45 AM> to <!date^1667070900^{time}|9:15 PM GMT+0200>",
+                "text": "<!date^1667029500^{date_short_pretty} from {time}|October 29th, 2022 from 9:45 AM> to <!date^1667070900^{time}|9:15 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=42%2C+96+Bd+Bessi%C3%A8res%2C+75017+Paris%2C+France|42, 96 Bd Bessières, 75017 Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "[NTXhack2022] Hackathon Day 1",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MGlpMGhrYXJjaDJrZGpydXFmaXI3Y2FyOGYgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "more",
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1665431289.337739",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "Event created: [NTXhack2022] Hackathon Day 2: <!date^1667119500^{date_short_pretty} from {time}|October 30th, 2022 from 9:45 AM> to <!date^1667160900^{time}|9:15 PM GMT+0100>",
+                "text": "<!date^1667119500^{date_short_pretty} from {time}|October 30th, 2022 from 9:45 AM> to <!date^1667160900^{time}|9:15 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=42%2C+96+Bd+Bessi%C3%A8res%2C+75017+Paris%2C+France|42, 96 Bd Bessières, 75017 Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "[NTXhack2022] Hackathon Day 2",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Mmgwa2ZmOHNuMmVzN2tlYzljcXExOGU2dTkgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "more",
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1665431413.419889",
+        "bot_id": "B4SJBP2L8"
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1499375542.717600",
+        "text": "un outil léger et pratique pour la documentation\n<http:\/\/ricostacruz.com\/flatdoc\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Flatdoc",
+                "title_link": "http:\/\/ricostacruz.com\/flatdoc\/",
+                "text": "Flatdoc is the fastest way to create a site for your open source project.",
+                "fallback": "Flatdoc",
+                "image_url": "http:\/\/ricostacruz.com\/flatdoc\/support\/preview.jpg",
+                "from_url": "http:\/\/ricostacruz.com\/flatdoc\/",
+                "image_width": 290,
+                "image_height": 250,
+                "image_bytes": 16250,
+                "service_icon": "http:\/\/ricostacruz.com\/favicon.ico",
+                "service_name": "ricostacruz.com",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "81mc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "un outil léger et pratique pour la documentation\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/ricostacruz.com\/flatdoc\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1629276152.006200",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1629276230.000000"
+        },
+        "client_msg_id": "af236fb2-9cce-4b8e-baca-18b28864d020",
+        "text": "Hello <@ULSDVUUVA>, j’ai mis la présentation de NTX Europe que j’avais faite lors du BIR2021 (+ la partie community projects + quelques slides supplémentaires mis en skip slides + modifications Connectome Commitee) : <https:\/\/docs.google.com\/presentation\/d\/1u8TSzbMsl8TceJTU1LLCAiTIWKz6OePKAC5V3LF1xYE\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4GA=C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "ULSDVUUVA"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", j’ai mis la présentation de NTX Europe que j’avais faite lors du BIR2021 (+ la partie community projects + quelques slides supplémentaires mis en skip slides + modifications Connectome Commitee) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/presentation\/d\/1u8TSzbMsl8TceJTU1LLCAiTIWKz6OePKAC5V3LF1xYE\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

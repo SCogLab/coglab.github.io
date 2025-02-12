@@ -1,0 +1,758 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568987849.001800",
+        "client_msg_id": "cdcd4aff-84b6-4d2f-a1f4-9e7238e58568",
+        "text": "Je démarre un *thread* pour *OSC*, c’est vital de régler ce problème !\n\nDe ce que j’ai compris <@U59MQ46DA> :\n- ça fonctionne de la tablette Android à Mac \/ Unity\n- ça ne fonctionne pas de la tablette Android à Windows \/ Unity",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568987849.001800",
+        "reply_count": 8,
+        "reply_users_count": 2,
+        "latest_reply": "1569002568.005100",
+        "reply_users": [
+            "U03FC5ZAK",
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1568987889.001900"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1568987932.002100"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1568990715.003900"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1568990748.004300"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1568992525.004500"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1568999436.004700"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1569001540.004900"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1569002568.005100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fsX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je démarre un "
+                            },
+                            {
+                                "type": "text",
+                                "text": "thread",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour "
+                            },
+                            {
+                                "type": "text",
+                                "text": "OSC",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", c’est vital de régler ce problème !\n\nDe ce que j’ai compris "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " :\n- ça fonctionne de la tablette Android à Mac \/ Unity\n- ça ne fonctionne pas de la tablette Android à Windows \/ Unity"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568987889.001900",
+        "client_msg_id": "b748e308-8019-411d-9d70-78f27629b9d4",
+        "text": "Il y a quand même des messages qui fonctionnent entre Android et Windows en écoutant avec un autre software ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568987849.001800",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PWnq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il y a quand même des messages qui fonctionnent entre Android et Windows en écoutant avec un autre software ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568987932.002100",
+        "client_msg_id": "fd7f312a-9cdd-4920-ae9d-fd926ad63ab1",
+        "text": "Est-ce qu’il serait enviseageable d’utiliser un autre protocole ?\n\nJe pense à quelques chose comme MQTT ?\n\nOu du WebRCT ?\n<https:\/\/blogs.unity3d.com\/2019\/09\/17\/stream-high-quality-real-time-graphics-through-your-browser-with-our-new-webrtc-framework\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568987849.001800",
+        "parent_user_id": "U03FC5ZAK",
+        "attachments": [
+            {
+                "service_name": "Unity Technologies Blog",
+                "title": "Stream high-quality real-time graphics through your browser with our new WebRTC framework – Unity Blog",
+                "title_link": "https:\/\/blogs.unity3d.com\/2019\/09\/17\/stream-high-quality-real-time-graphics-through-your-browser-with-our-new-webrtc-framework\/",
+                "text": "Now you can develop applications that take advantage of Unity’s rapidly advancing graphics capabilities without being constrained by device performance. Ou...",
+                "fallback": "Unity Technologies Blog: Stream high-quality real-time graphics through your browser with our new WebRTC framework – Unity Blog",
+                "image_url": "https:\/\/blogs.unity3d.com\/wp-content\/uploads\/2019\/09\/header-image_1.jpg",
+                "image_width": 445,
+                "image_height": 250,
+                "from_url": "https:\/\/blogs.unity3d.com\/2019\/09\/17\/stream-high-quality-real-time-graphics-through-your-browser-with-our-new-webrtc-framework\/",
+                "image_bytes": 1349341,
+                "service_icon": "https:\/\/blogs.unity3d.com\/wp-content\/themes\/unity\/images\/ui\/favicons\/apple-touch-icon-152x152.png",
+                "id": 1,
+                "original_url": "https:\/\/blogs.unity3d.com\/2019\/09\/17\/stream-high-quality-real-time-graphics-through-your-browser-with-our-new-webrtc-framework\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+L51Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Est-ce qu’il serait enviseageable d’utiliser un autre protocole ?\n\nJe pense à quelques chose comme MQTT ?\n\nOu du WebRCT ?\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/blogs.unity3d.com\/2019\/09\/17\/stream-high-quality-real-time-graphics-through-your-browser-with-our-new-webrtc-framework\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568989708.002600",
+        "client_msg_id": "f419e491-63c6-4739-8a60-ac08bbc155d9",
+        "text": "80 x 55 pixel ?\nça me semble extrêmement petit !\nla taille d’une favicon pour moi",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568728772.002800",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V67te",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "80 x 55 pixel ?\nça me semble extrêmement petit !\nla taille d’une favicon pour moi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UMSL037JT",
+        "type": "message",
+        "ts": "1568989749.002800",
+        "client_msg_id": "31cf9870-0940-4609-8209-083e9dd6507e",
+        "text": "C'est le minimum",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gc83ebac7853",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1c83ebac7853c13b22f556e7fdb52598.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Maxime Osty",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "maxime.osty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568728772.002800",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VcH4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est le minimum"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568989861.003000",
+        "client_msg_id": "c150c427-98cf-4b0f-9d72-d946c2951318",
+        "text": "Okay, je vais faire des essais avec un vrai Wireframe pour avoir une autre appréciation pour aider\n\nAs tu des contraintes sur le ratio ?\nC’est mieux d’avoir toujours le même ?\nEt éviter de mélanger du paysage et portrait ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568728772.002800",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/S7S8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay, je vais faire des essais avec un vrai Wireframe pour avoir une autre appréciation pour aider\n\nAs tu des contraintes sur le ratio ?\nC’est mieux d’avoir toujours le même ?\nEt éviter de mélanger du paysage et portrait ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UMSL037JT",
+        "type": "message",
+        "ts": "1568990067.003300",
+        "client_msg_id": "4800dc49-4d8b-45e8-9790-b1ce80b0fd36",
+        "text": "Si il y a le même ratio c'est mieux, pour le format soit paysage soit portrait mais trop compliqué de mixer les deux.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gc83ebac7853",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1c83ebac7853c13b22f556e7fdb52598.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Maxime Osty",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "maxime.osty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568728772.002800",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zqK9s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si il y a le même ratio c'est mieux, pour le format soit paysage soit portrait mais trop compliqué de mixer les deux."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U03FC5ZAK",
+        "thread_ts": "1568197164.048400",
+        "root": {
+            "user": "ULSDVUUVA",
+            "type": "message",
+            "ts": "1568197164.048400",
+            "edited": {
+                "user": "ULSDVUUVA",
+                "ts": "1568197182.000000"
+            },
+            "client_msg_id": "a06a339c-b068-4766-b4fa-9ab73e7879b7",
+            "text": "Salut à tous | Dear all. In order to organize our presence at the IFTM (and to see how many mummies and daddies we need to help us), I please you to fill out this form and in case circulate the link to people who could support us. We pay in Karma-points! <https:\/\/framadate.org\/BOoBKswY8xcKaMnk>",
+            "team": "T03FC4NDZ",
+            "thread_ts": "1568197164.048400",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1568990227.003500",
+            "reply_users": [
+                "U03FC5ZAK"
+            ],
+            "replies": [
+                {
+                    "user": "U03FC5ZAK",
+                    "ts": "1568990227.003500"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Lmn2",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Salut à tous | Dear all. In order to organize our presence at the IFTM (and to see how many mummies and daddies we need to help us), I please you to fill out this form and in case circulate the link to people who could support us. We pay in Karma-points! "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/framadate.org\/BOoBKswY8xcKaMnk"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1568990227.003500",
+        "client_msg_id": "727b8200-9309-4352-a782-54ef9c8f8778",
+        "text": "Petit up sur ce sujet,\n\nSophie L. de IFTM est en train d’éditer les badges pour l’animation du stand.\n\nJe vais donc me baser sur les informations de ce Framapad pour signaler les noms et prénoms.\n\nPS : pour venir ponctuellement, nous avons un code d’entrée gratuite à disposition",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L5yS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Petit up sur ce sujet,\n\nSophie L. de IFTM est en train d’éditer les badges pour l’animation du stand.\n\nJe vais donc me baser sur les informations de ce Framapad pour signaler les noms et prénoms.\n\nPS : pour venir ponctuellement, nous avons un code d’entrée gratuite à disposition"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Hello <@U03FC5ZAK>, je te confirme que ça marche sur mon réseau local de macmini1(192.168.20)+tablette(192.168.32)+casque vers macmini2+Unity(192.168.1.33) cf caps ci-après :",
+        "files": [
+            {
+                "id": "FN6SJS4AE",
+                "created": 1568990711,
+                "timestamp": 1568990711,
+                "name": "osc_streaming.png",
+                "title": "osc_streaming.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U59MQ46DA",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 496572,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FN6SJS4AE\/osc_streaming.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FN6SJS4AE\/download\/osc_streaming.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN6SJS4AE-30c278c6f1\/osc_streaming_64.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN6SJS4AE-30c278c6f1\/osc_streaming_80.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN6SJS4AE-30c278c6f1\/osc_streaming_360.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360_w": 360,
+                "thumb_360_h": 174,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN6SJS4AE-30c278c6f1\/osc_streaming_480.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_480_w": 480,
+                "thumb_480_h": 231,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN6SJS4AE-30c278c6f1\/osc_streaming_160.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN6SJS4AE-30c278c6f1\/osc_streaming_720.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720_w": 720,
+                "thumb_720_h": 347,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN6SJS4AE-30c278c6f1\/osc_streaming_800.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_800_w": 800,
+                "thumb_800_h": 386,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN6SJS4AE-30c278c6f1\/osc_streaming_960.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_960_w": 960,
+                "thumb_960_h": 463,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN6SJS4AE-30c278c6f1\/osc_streaming_1024.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 494,
+                "image_exif_rotation": 1,
+                "original_w": 1910,
+                "original_h": 921,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U59MQ46DA\/FN6SJS4AE\/osc_streaming.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-FN6SJS4AE-ab6e63a4b5",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U59MQ46DA",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nqX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", je te confirme que ça marche sur mon réseau local de macmini1(192.168.20)+tablette(192.168.32)+casque vers macmini2+Unity(192.168.1.33) cf caps ci-après :"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1568990715.003900",
+        "client_msg_id": "3785ea7f-26b7-4b9d-b572-6e059225a15e",
+        "thread_ts": "1568987849.001800",
+        "parent_user_id": "U03FC5ZAK"
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1568990748.004300",
+        "client_msg_id": "4f006f56-ea51-4cad-aed8-f46d346faa7a",
+        "text": "Je vais essayer en me connectant au wifi de mon iPhone.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568987849.001800",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gdu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je vais essayer en me connectant au wifi de mon iPhone."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1568992525.004500",
+        "client_msg_id": "23654168-16b7-4ae5-97d1-08c7a0b3cb58",
+        "text": "Bon, ça n’a pas l’air de marcher avec le wifi en partage de connection iPhone",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568987849.001800",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ergm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bon, ça n’a pas l’air de marcher avec le wifi en partage de connection iPhone"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568999436.004700",
+        "client_msg_id": "5521a23b-80aa-446e-a771-a79c5b68ae77",
+        "text": "J’en discutais avec un dev cette après-midi, il suggérait de monter un serveur NodeJS sur Windows et de faire de simples requêtes avec un json.\n\nJe ne sais pas dans quel mesure c’est laborieux à implémenter vu que tout est déjà en place avec OSC :confused:\n\nTu as des feedback sur un code erreur ou quelque chose pour t’aider à diagnostiquer d’ou viens le problème avec Windows ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568987849.001800",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ynC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’en discutais avec un dev cette après-midi, il suggérait de monter un serveur NodeJS sur Windows et de faire de simples requêtes avec un json.\n\nJe ne sais pas dans quel mesure c’est laborieux à implémenter vu que tout est déjà en place avec OSC "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused",
+                                "unicode": "1f615"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nTu as des feedback sur un code erreur ou quelque chose pour t’aider à diagnostiquer d’ou viens le problème avec Windows ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1569001540.004900",
+        "client_msg_id": "2efc5c18-0537-44a6-9089-399b345d8450",
+        "text": "Je n’ai pas de windows pour tester, mais je pencherais pour un problème avec le protocole UDP utilisé par osc, Je vais voir si on peut utiliser autre chose (LSL ou MQTT ou WebRTC).",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568987849.001800",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3n1c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je n’ai pas de windows pour tester, mais je pencherais pour un problème avec le protocole UDP utilisé par osc, Je vais voir si on peut utiliser autre chose (LSL ou MQTT ou WebRTC)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1569002568.005100",
+        "client_msg_id": "e0ab5948-889b-4e99-b9b7-dccbb7b87ef5",
+        "text": "Tu m'a dis avoir déjà testé sur mon laptop Windows\n\nÇa ne changera rien de tester un autre protocole sans Windows du coup\n\nTu si as besoin que je fasses des tests sur Windows, je t'invite à documenter la démarche afin que je reproduise le protocole. \n\nÇa permettra de compléter la documentation du projet par la même occasion",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568987849.001800",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a640",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu m'a dis avoir déjà testé sur mon laptop Windows\n\nÇa ne changera rien de tester un autre protocole sans Windows du coup\n\nTu si as besoin que je fasses des tests sur Windows, je t'invite à documenter la démarche afin que je reproduise le protocole. \n\nÇa permettra de compléter la documentation du projet par la même occasion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U59MQ46DA",
+        "text": "<@U59MQ46DA> a rejoint le canal",
+        "type": "message",
+        "ts": "1546870017.000200"
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1546870211.001500",
+        "client_msg_id": "511f9e72-a3ae-4e94-a9d5-9b6ff8a70596",
+        "text": "Le projet Soli de Google autorisé par la FCC (avec de fortes restrictions sur les fréquences d’utilisations qui pourraient diminuer le champ de portée) : <https:\/\/www.futura-sciences.com\/tech\/actualites\/smartphone-google-autorise-developper-grande-echelle-capteurs-reconnaissance-gestes-58454\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Futura",
+                "title": "Google autorisé à développer à grande échelle ses capteurs de reconnaissance de gestes",
+                "title_link": "https:\/\/www.futura-sciences.com\/tech\/actualites\/smartphone-google-autorise-developper-grande-echelle-capteurs-reconnaissance-gestes-58454\/",
+                "text": "Validée par la commission fédérale des communications américaine, cette technologie radar capte les mouvements des doigts et de la main pour contrôler à courte distance des appareils comme un...",
+                "fallback": "Futura: Google autorisé à développer à grande échelle ses capteurs de reconnaissance de gestes",
+                "image_url": "https:\/\/fr.cdn.v5.futura-sciences.com\/buildsv6\/images\/wide1920\/8\/4\/6\/846d2c5f47_50145507_soli-projet.jpg",
+                "from_url": "https:\/\/www.futura-sciences.com\/tech\/actualites\/smartphone-google-autorise-developper-grande-echelle-capteurs-reconnaissance-gestes-58454\/",
+                "image_width": 400,
+                "image_height": 250,
+                "image_bytes": 41882,
+                "service_icon": "https:\/\/www.futura-sciences.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.futura-sciences.com\/tech\/actualites\/smartphone-google-autorise-developper-grande-echelle-capteurs-reconnaissance-gestes-58454\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9FM9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le projet Soli de Google autorisé par la FCC (avec de fortes restrictions sur les fréquences d’utilisations qui pourraient diminuer le champ de portée) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.futura-sciences.com\/tech\/actualites\/smartphone-google-autorise-developper-grande-echelle-capteurs-reconnaissance-gestes-58454\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,402 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1573574678.000200",
+        "client_msg_id": "d18e6301-0e21-4439-8922-f590e83037aa",
+        "text": "<https:\/\/www.eventbrite.fr\/e\/billets-lecole-un-espace-de-creation-artistique-et-de-mediation-numerique-81472052101>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Eventbrite",
+                "title": "L'Ecole, un espace de création artistique et de médiation numérique",
+                "title_link": "https:\/\/www.eventbrite.fr\/e\/billets-lecole-un-espace-de-creation-artistique-et-de-mediation-numerique-81472052101",
+                "text": "Le travail sur l'art mené par des professeurs dans leurs classes s'invite au 110 bis pour clôturer la semaine de l'innovation publique.",
+                "fallback": "Eventbrite: L'Ecole, un espace de création artistique et de médiation numérique",
+                "image_url": "https:\/\/img.evbuc.com\/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F80567147%2F257325965435%2F1%2Foriginal.20191112-115822?w=1000&auto=compress&rect=0%2C0%2C720%2C360&s=751989df55683c3803ebfe524c929f9e",
+                "fields": [
+                    {
+                        "title": "Where",
+                        "value": "54 rue de Bellechasse, 75007 Paris, Paris, France",
+                        "short": true
+                    },
+                    {
+                        "title": "When",
+                        "value": "Le ven  29 nov. 2019 à 10:00",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.eventbrite.fr\/e\/billets-lecole-un-espace-de-creation-artistique-et-de-mediation-numerique-81472052101",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 80408,
+                "service_icon": "https:\/\/cdn.evbstatic.com\/s3-build\/perm_001\/eba891\/django\/images\/touch_icons\/apple-touch-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.eventbrite.fr\/e\/billets-lecole-un-espace-de-creation-artistique-et-de-mediation-numerique-81472052101"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5S7pp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.eventbrite.fr\/e\/billets-lecole-un-espace-de-creation-artistique-et-de-mediation-numerique-81472052101"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1573578851.000400",
+        "client_msg_id": "01ed3af6-a93d-45ce-8592-6a579361e4d0",
+        "text": "Je rend les copie ce soir, <@UMQA8DN92> au pire tu aura un accès si jamais tu veux venir faire un coucou sans payer l'entrée",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572900214.011900",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gGdo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je rend les copie ce soir, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UMQA8DN92"
+                            },
+                            {
+                                "type": "text",
+                                "text": " au pire tu aura un accès si jamais tu veux venir faire un coucou sans payer l'entrée"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UMQA8DN92",
+        "type": "message",
+        "ts": "1573579725.000600",
+        "client_msg_id": "fe9cd93c-8c0f-4be5-b9f9-f915a368ac5e",
+        "text": "On peut faire comme ça je ne serai sûrement dispo que le samedi désolé",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g144939de47f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3144939de47faa73d3d9c8d51dcff306.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Tanguy",
+            "real_name": "Tanguy HERSERANT",
+            "display_name": "Tanguy",
+            "team": "T03FC4NDZ",
+            "name": "tanguyherserant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572900214.011900",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7zlu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On peut faire comme ça je ne serai sûrement dispo que le samedi désolé"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UMQA8DN92",
+        "type": "message",
+        "ts": "1573579736.000800",
+        "client_msg_id": "2745707a-f43d-4a48-9ac7-c8dce3e31f97",
+        "text": "J'attends d'être sûr",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g144939de47f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3144939de47faa73d3d9c8d51dcff306.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Tanguy",
+            "real_name": "Tanguy HERSERANT",
+            "display_name": "Tanguy",
+            "team": "T03FC4NDZ",
+            "name": "tanguyherserant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572900214.011900",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mVESi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'attends d'être sûr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1573589508.001100",
+        "client_msg_id": "060caf72-1b28-4ed7-b7cb-07771b688f5d",
+        "text": "<https:\/\/www.eventbrite.fr\/e\/billets-le-laboratoire-des-emotions-au-cinema-et-en-sciences-cognitives-77084994293>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Eventbrite",
+                "title": "Le Laboratoire des Émotions, au cinéma et en sciences cognitives",
+                "title_link": "https:\/\/www.eventbrite.fr\/e\/billets-le-laboratoire-des-emotions-au-cinema-et-en-sciences-cognitives-77084994293",
+                "text": "Lundi 9 Décembre (de 9h30 à 18h) et Mardi 10 Décembre (de 9h30 à 16h) - Rencontre entre cinéma et sciences cognitives autour des émotions. École normale supérieure Salle Dussane 45 rue d'Ulm, 75005 Paris   DESCRIPTION : En tant que phénomène central de notre vie quotidienne, les émotions occupent une place de choix parmi les objets d'étude des sciences cognitives. Au laboratoire, de nombreuses techniques et méthodes sont utilisées par les chercheurs afin de mieux décrire et comprendre la manière dont les émotions sont produites, communiquées, perçues et traitées. Au cinéma, un travail collectif est également à l'œuvre afin d'inviter le spectateur à vivre ces émotions : comme dans un laboratoire, les techniques utilisées par les professionnels du cinéma sont le résultat de connaissances, d'intuitions et d'expériences qui enrichissent notre compréhension des émotions dans toute leur diversité. Ce colloque propose de rassembler des experts de ces deux \"laboratoires\", celui du cinéma et celui des sciences cognitives, afin de créer un dialogue et un apprentissage mutuel. Nous tenterons, ensemble, de comprendre les éléments qui sont en jeu dans les émotions (audition, attention visuelle, perception du temps, empathie) et d'enrichir la recherche sur les émotions de l'expertise des professionnels du septième art (esthétique, réalisation, jeu, montage). ORGANISATEURS :  Julie Grèzes, Rocco Mennella, Victor Chung – LNC2 – INSERM U960 – DEC\/ENS Klara Kovarski - Integrative Neuroscience and Cognition Center – CNRS UMR 8002 Carole Desbarats - Les enfants de cinéma - Directrice artistique des Rencontres du Havre sur les séries   PROGRAMME (horaires provisoires) : LUNDI 9 DÉCEMBRE 9h30 : Accueil – café 10h : Emmanuel Siety (Université Paris III) - \"Le film comme polyphonie émotionnelle\" 11h : Klara Kovarski (CNRS UMR 8002, Fondation Ophtalmologique Rothschild), Rocco Mennella (INSERM U960, IEA), Victor Chung (ENS, EHESS, Université Paris Descartes) - \"Qu'est-ce qu'une émotion ? Aperçu du laboratoire\" 12h : Pause déjeuner 13h : Carole Desbarats (Les enfants de cinéma) - \"Pleurer, dans le noir\" 14h : Patrick Vuilleumier (Université de Genève) - \"L'espace des émotions dans le cerveau : une exploration de la 6e dimension\" 15h : Pause café 15h30 : Anouk Grinberg (Actrice) - \"Représenter les émotions\" 16h30 : Julie Grèzes (INSERM U960, ENS) - \"Les différentes composantes de l'empathie\"   MARDI 10 DÉCEMBRE 9h30 : Accueil – café 10h : Sylvie Droit-Volet (UMR 6024, Clermont Auvergne) - \"Émotions, affects et temps\" 11h : Dimitri Amar (Monteur), Rémy Binisti (Réalisateur) - \"Les émotions du point de vue du monteur\" 12h : Pause déjeuner 13h : Jean-Julien Aucouturier (IRCAM) - \"Le son qui fait peur\" 14h : Cédric Kahn (Scénariste, Réalisateur et Acteur), Sylvain Malbrant (Monteur son, ingénieur du son) - \"De l'écriture au mixage\"  15h30 : Table-ronde et clôture   FINANCEMENTS : New Ideas in Social Cognition",
+                "fallback": "Eventbrite: Le Laboratoire des Émotions, au cinéma et en sciences cognitives",
+                "thumb_url": "https:\/\/img.evbuc.com\/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F77004841%2F198261449869%2F1%2Foriginal.20191016-090334?w=1000&auto=compress&rect=0%2C118%2C822%2C411&s=974dbcd18cdf63b8cf3bbc1bced94e79",
+                "fields": [
+                    {
+                        "title": "Where",
+                        "value": "Salle Dussane. 45 Rue d'Ulm. Paris, Île-de-France 75005 FR",
+                        "short": true
+                    },
+                    {
+                        "title": "When",
+                        "value": "Dates multiples",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.eventbrite.fr\/e\/billets-le-laboratoire-des-emotions-au-cinema-et-en-sciences-cognitives-77084994293",
+                "thumb_width": 1000,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/cdn.evbstatic.com\/s3-build\/perm_001\/eba891\/django\/images\/touch_icons\/apple-touch-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.eventbrite.fr\/e\/billets-le-laboratoire-des-emotions-au-cinema-et-en-sciences-cognitives-77084994293"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j5Dp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.eventbrite.fr\/e\/billets-le-laboratoire-des-emotions-au-cinema-et-en-sciences-cognitives-77084994293"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1573592986.001300",
+        "client_msg_id": "0a4093d9-9e7d-4910-a2cd-12fc70413876",
+        "text": "Noté, pas de soucis, si tu viens tu aura ton badge :slightly_smiling_face:\nTout le monde est enregistré : <@U59MQ46DA> <@ULSDVUUVA> <@UMSL037JT> <@UMQA8DN92> <@U0FB4KME0> et bibi :white_check_mark:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572900214.011900",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GQyt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Noté, pas de soucis, si tu viens tu aura ton badge "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nTout le monde est enregistré : "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "ULSDVUUVA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UMSL037JT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UMQA8DN92"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0FB4KME0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et bibi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark",
+                                "unicode": "2705"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UMQA8DN92",
+        "type": "message",
+        "ts": "1573594514.001500",
+        "client_msg_id": "cfee1354-3cee-4871-853b-fdb10a8c31c0",
+        "text": "Merci :wink:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g144939de47f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3144939de47faa73d3d9c8d51dcff306.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Tanguy",
+            "real_name": "Tanguy HERSERANT",
+            "display_name": "Tanguy",
+            "team": "T03FC4NDZ",
+            "name": "tanguyherserant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572900214.011900",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f6t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

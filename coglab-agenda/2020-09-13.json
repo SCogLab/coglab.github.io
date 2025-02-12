@@ -1,0 +1,64 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There are *2* events this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #163 [Online]: <!date^1600101000^{date_short_pretty} from {time}|September 14th, 2020 from 6:30 PM> to <!date^1600111800^{time}|9:30 PM GMT+0200>",
+                "text": "<!date^1600101000^{date_short_pretty} from {time}|September 14th, 2020 from 6:30 PM> to <!date^1600111800^{time}|9:30 PM GMT+0200> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "title": "CogLab HackNight #163 [Online]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MmhvbHEwMGFxN2FrY2FtdnE3dGQ0bG0xNDEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "CA CogLab 2020.3: <!date^1600446600^{date_short_pretty} from {time}|September 18th, 2020 from 6:30 PM> to <!date^1600450200^{time}|7:30 PM GMT+0200>",
+                "text": "<!date^1600446600^{date_short_pretty} from {time}|September 18th, 2020 from 6:30 PM> to <!date^1600450200^{time}|7:30 PM GMT+0200>",
+                "title": "CA CogLab 2020.3",
+                "id": 2,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MDZmam1pN2o5ZG5xYWMwMnU1ajgwdGw2ZXUgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1600063205.001800",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZfJJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "2",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " events this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

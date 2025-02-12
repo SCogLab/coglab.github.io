@@ -1,0 +1,88 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1617091034.000400",
+        "client_msg_id": "b1d8c92d-dc7e-4966-a3f5-27644725a273",
+        "text": "Une alternative open source à Gather Town cc <@U59MQ46DA> <@UMSL037JT> <https:\/\/workadventu.re\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1617091034.000400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1617385112.000300",
+        "reply_users": [
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1617385112.000300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "title": "WorkAdventure ",
+                "title_link": "https:\/\/workadventu.re\/",
+                "text": "Welcome to Work Adventure! Create your own digital office and meet online with your colleagues.",
+                "fallback": "WorkAdventure ",
+                "from_url": "https:\/\/workadventu.re\/",
+                "service_icon": "https:\/\/workadventu.re\/favicon.ico",
+                "service_name": "workadventu.re",
+                "id": 1,
+                "original_url": "https:\/\/workadventu.re\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ulVd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Une alternative open source à Gather Town cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UMSL037JT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/workadventu.re\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

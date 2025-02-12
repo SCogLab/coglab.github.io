@@ -1,0 +1,186 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U02N8PEA6SW",
+        "text": "<@U02N8PEA6SW> a rejoint le canal",
+        "type": "message",
+        "ts": "1637610052.000200"
+    },
+    {
+        "user": "U02N8PEA6SW",
+        "type": "message",
+        "ts": "1637610175.001000",
+        "client_msg_id": "6addc451-06ee-4bc9-a7f1-237ec77584c9",
+        "text": "<@UMSL037JT> salut j'ai rejoint le projet. voici un lien pour mettre le code unity sur github <https:\/\/unityatscale.com\/unity-version-control-guide\/how-to-setup-unity-project-on-github\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gc23d4c1bb99",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c23d4c1bb9910bb5021b113536434b22.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Damien",
+            "real_name": "Damien",
+            "display_name": "Damien",
+            "team": "T03FC4NDZ",
+            "name": "yoshi92",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/unityatscale.com\/unity-version-control-guide\/how-to-setup-unity-project-on-github\/",
+                "service_name": "Unity at Scale",
+                "title": "How to set up a Unity project in GitHub",
+                "title_link": "https:\/\/unityatscale.com\/unity-version-control-guide\/how-to-setup-unity-project-on-github\/",
+                "text": "Step-by-step tutorial to setup your Unity project for version control with Git and GitHub. Which files to include and project settings to choose.",
+                "fallback": "Unity at Scale: How to set up a Unity project in GitHub",
+                "service_icon": "https:\/\/unityatscale.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/unityatscale.com\/unity-version-control-guide\/how-to-setup-unity-project-on-github\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "93+si",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UMSL037JT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " salut j'ai rejoint le projet. voici un lien pour mettre le code unity sur github "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/unityatscale.com\/unity-version-control-guide\/how-to-setup-unity-project-on-github\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UMSL037JT",
+        "type": "message",
+        "ts": "1637615343.001700",
+        "client_msg_id": "5271c989-766d-4e4f-9a95-13ec6f2e38c1",
+        "text": "Génial ! J'essaie de faire ça demain",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gc83ebac7853",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1c83ebac7853c13b22f556e7fdb52598.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Maxime Osty",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "maxime.osty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6UB7D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Génial ! J'essaie de faire ça demain"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N8PEA6SW",
+        "type": "message",
+        "ts": "1637620194.001900",
+        "client_msg_id": "d917ac89-6040-4f49-aed2-7279d767087d",
+        "text": "super",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gc23d4c1bb99",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c23d4c1bb9910bb5021b113536434b22.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Damien",
+            "real_name": "Damien",
+            "display_name": "Damien",
+            "team": "T03FC4NDZ",
+            "name": "yoshi92",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bPhD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "super"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N8PEA6SW",
+        "type": "message",
+        "ts": "1637620241.002800",
+        "client_msg_id": "71e90755-bba0-4bd0-b801-27afc2c69167",
+        "text": "<@UMSL037JT> ou mieux. Est-ce que je peux faire ça avec toi demain sur team viewer. J'ai déjà fait ça et en plus ça m'intéresse. J'ai juste besoin du code source.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gc23d4c1bb99",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c23d4c1bb9910bb5021b113536434b22.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Damien",
+            "real_name": "Damien",
+            "display_name": "Damien",
+            "team": "T03FC4NDZ",
+            "name": "yoshi92",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ktNrY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UMSL037JT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ou mieux. Est-ce que je peux faire ça avec toi demain sur team viewer. J'ai déjà fait ça et en plus ça m'intéresse. J'ai juste besoin du code source."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

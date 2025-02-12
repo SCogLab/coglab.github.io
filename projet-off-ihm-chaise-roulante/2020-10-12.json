@@ -1,0 +1,116 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1602521776.001400",
+        "client_msg_id": "5bb1aeb3-4833-433f-958e-f3fed780649a",
+        "text": "un papier partagé pendant notre <#C0R6W4X2Q|coglab-hacknight> à l'instant <https:\/\/ieeexplore.ieee.org\/document\/8914364>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "ROS-Neuro: A common middleware for BMI and robotics. The acquisition and recorder packages - IEEE Conference Publication",
+                "title_link": "https:\/\/ieeexplore.ieee.org\/document\/8914364",
+                "text": "IEEE Xplore, delivering full text access to the world's highest quality technical literature in engineering and technology. | IEEE Xplore",
+                "fallback": "ROS-Neuro: A common middleware for BMI and robotics. The acquisition and recorder packages - IEEE Conference Publication",
+                "from_url": "https:\/\/ieeexplore.ieee.org\/document\/8914364",
+                "service_icon": "https:\/\/ieeexplore.ieee.org\/favicon.ico",
+                "service_name": "ieeexplore.ieee.org",
+                "id": 1,
+                "original_url": "https:\/\/ieeexplore.ieee.org\/document\/8914364"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iSNi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "un papier partagé pendant notre "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0R6W4X2Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " à l'instant "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ieeexplore.ieee.org\/document\/8914364"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1602523428.001700",
+        "client_msg_id": "21c2aff0-8a35-4083-b2ab-4c42220622b0",
+        "text": "<https:\/\/arxiv.org\/abs\/2008.13485>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "arXiv.org",
+                "title": "ROS-Neuro Integration of Deep Convolutional Autoencoders for EEG...",
+                "title_link": "https:\/\/arxiv.org\/abs\/2008.13485",
+                "text": "Typical EEG-based BCI applications require the computation of complex functions over the noisy EEG channels to be carried out in an efficient way. Deep learning algorithms are capable of learning...",
+                "fallback": "arXiv.org: ROS-Neuro Integration of Deep Convolutional Autoencoders for EEG...",
+                "from_url": "https:\/\/arxiv.org\/abs\/2008.13485",
+                "service_icon": "https:\/\/static.arxiv.org\/static\/browse\/0.3.4\/images\/icons\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/arxiv.org\/abs\/2008.13485"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VrD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/arxiv.org\/abs\/2008.13485"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

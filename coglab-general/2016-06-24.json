@@ -1,0 +1,93 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1466765919.000002",
+        "text": "<!here|@here>: [Sondage rapide] \n\nCe weekend s'organise le Hack the Brain 2016, Hackathon International avec la communauté NeuroTechX et en parallèle du Hackathon OHBM par la communauté BrainHack\n\nSi l'on organise une *session de bidouille entre Maker ce samedi après-midi (demain) à La Paillasse* avec mise à disposition d'EEG et autres dispositif pour l’occasion,\n\n*Est-ce que certains d'entres vous serait intéressés ?*\n\nPour en savoir plus sur ces événements :\n- <http:\/\/hackthebrain.nl\/>\n- <http:\/\/brainmeout.com\/>\n- <http:\/\/events.brainhack.org\/OHBM2016\/>\n- <http:\/\/www.humanbrainmapping.org\/i4a\/pages\/index.cfm?pageID=3692>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WpSv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here|@here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": [Sondage rapide] \n\nCe weekend s'organise le Hack the Brain 2016, Hackathon International avec la communauté NeuroTechX et en parallèle du Hackathon OHBM par la communauté BrainHack\n\nSi l'on organise une "
+                            },
+                            {
+                                "type": "text",
+                                "text": "session de bidouille entre Maker ce samedi après-midi (demain) à La Paillasse",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " avec mise à disposition d'EEG et autres dispositif pour l’occasion,\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Est-ce que certains d'entres vous serait intéressés ?",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nPour en savoir plus sur ces événements :\n- "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/hackthebrain.nl\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/brainmeout.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/events.brainhack.org\/OHBM2016\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.humanbrainmapping.org\/i4a\/pages\/index.cfm?pageID=3692"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

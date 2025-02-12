@@ -1,0 +1,130 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1589795922.005300",
+        "client_msg_id": "e234408d-1818-42ca-a042-cc2d66191529",
+        "text": "<@U03FC5ZAK> Tu as testé Spatial ? : <https:\/\/www.realite-virtuelle.com\/spatial-plateforme-ar-vr-gratuite\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1589795922.005300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1589886072.005700",
+        "reply_users": [
+            "U03FC5ZAK",
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1589818319.005500"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1589886072.005700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "service_name": "Réalité-Virtuelle.com",
+                "title": "Spatial, la plateforme de collaboration pro en AR et VR, gratuite sur tout support - Réalité-Virtuelle.com",
+                "title_link": "https:\/\/www.realite-virtuelle.com\/spatial-plateforme-ar-vr-gratuite\/",
+                "text": "Alors que beaucoup d'entreprises optent pour le télétravail dans le monde, Spatial annonce que sa pl",
+                "fallback": "Réalité-Virtuelle.com: Spatial, la plateforme de collaboration pro en AR et VR, gratuite sur tout support - Réalité-Virtuelle.com",
+                "image_url": "https:\/\/www.realite-virtuelle.com\/wp-content\/uploads\/2020\/01\/spatial-levee-fonds.jpg",
+                "image_width": 438,
+                "image_height": 250,
+                "ts": 1589544193,
+                "from_url": "https:\/\/www.realite-virtuelle.com\/spatial-plateforme-ar-vr-gratuite\/",
+                "image_bytes": 138591,
+                "service_icon": "https:\/\/www.realite-virtuelle.com\/wp-content\/uploads\/2017\/03\/réalité-virtuelle-logo-2016-10-3-03.png",
+                "id": 1,
+                "original_url": "https:\/\/www.realite-virtuelle.com\/spatial-plateforme-ar-vr-gratuite\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RONW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Tu as testé Spatial ? : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.realite-virtuelle.com\/spatial-plateforme-ar-vr-gratuite\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1589818319.005500",
+        "client_msg_id": "588fcd32-0be8-4d6f-8190-c3abd27f4ce0",
+        "text": "J’ai créé un compte la semaine dernière. Sans plus pour le moment, il faut le tester à plusieurs <https:\/\/app.spatial.io\/rooms\/5ebc2b821aa282363e1ea2a7>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1589795922.005300",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yooe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’ai créé un compte la semaine dernière. Sans plus pour le moment, il faut le tester à plusieurs "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/app.spatial.io\/rooms\/5ebc2b821aa282363e1ea2a7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

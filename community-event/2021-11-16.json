@@ -1,0 +1,129 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1637072279.008000",
+        "client_msg_id": "d22fea2d-3470-47ef-9c4a-2f6a1ee4fb4a",
+        "text": "<https:\/\/psitec.univ-lille.fr\/|JSJC2021 16e Journée Scientifique des Jeunes Chercheurs en Psychologie> ping <@U02GLDKAWQ2> <@U02GLDK69UJ> (accessible via Zoom)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637072279.008000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1637072721.008200",
+        "reply_users": [
+            "U02GLDKAWQ2"
+        ],
+        "replies": [
+            {
+                "user": "U02GLDKAWQ2",
+                "ts": "1637072721.008200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/psitec.univ-lille.fr\/",
+                "title": "psitec: Psitec - ULR 4072",
+                "title_link": "https:\/\/psitec.univ-lille.fr\/",
+                "text": "Psychologie : Interactions Temps Emotions Cognition",
+                "fallback": "psitec: Psitec - ULR 4072",
+                "service_icon": "https:\/\/psitec.univ-lille.fr\/typo3conf\/ext\/ul2fpfb\/Resources\/Public\/Icons\/favicon.ico",
+                "service_name": "psitec.univ-lille.fr",
+                "id": 1,
+                "original_url": "https:\/\/psitec.univ-lille.fr\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6wKy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/psitec.univ-lille.fr\/",
+                                "text": "JSJC2021 16e Journée Scientifique des Jeunes Chercheurs en Psychologie"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ping "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02GLDKAWQ2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02GLDK69UJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (accessible via Zoom)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02GLDKAWQ2",
+        "type": "message",
+        "ts": "1637072721.008200",
+        "client_msg_id": "ed7ed05c-2b3e-4294-a4c1-d5c1439e946e",
+        "text": "Merci pour l'info :)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "07907cc25c46",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-05\/2590402880352_07907cc25c46364153a5_72.jpg",
+            "first_name": "Adrien",
+            "real_name": "Adrien Paire",
+            "display_name": "Adrien Paire",
+            "team": "T03FC4NDZ",
+            "name": "adrienpaire",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637072279.008000",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9e8p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci pour l'info :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1548709202.000800",
+        "client_msg_id": "40fce921-a84a-4dec-b6bc-1a47fe98b615",
+        "text": "J’ai résumé une bonne partie ici <@U59MQ46DA>\n<https:\/\/twitter.com\/Rouffi\/status\/1088519777566556161>\n\nJe ferais une synthèse plus complète dès que je prendrais un moment",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/Rouffi|@Rouffi>: [Live] Meetup Web de données, centré sur le partage des données entre associations, animé par Jean Delahousse &amp; Thomas Francart à l'Holodeck de <https:\/\/twitter.com\/42born2code|@42born2code> #WebSemantique #KnowledgeGraph #RDF\n\n <http:\/\/meetu.ps\/e\/G3wpp\/9KkZF\/d>",
+                "ts": 1548358313,
+                "author_name": "Romain ROUYER",
+                "author_link": "https:\/\/twitter.com\/Rouffi\/status\/1088519777566556161",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1052326155846598656\/VPLGwxDt_normal.jpg",
+                "author_subname": "@Rouffi",
+                "text": "[Live] Meetup Web de données, centré sur le partage des données entre associations, animé par Jean Delahousse &amp; Thomas Francart à l'Holodeck de <https:\/\/twitter.com\/42born2code|@42born2code> #WebSemantique #KnowledgeGraph #RDF\n\n <http:\/\/meetu.ps\/e\/G3wpp\/9KkZF\/d>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/Rouffi\/status\/1088519777566556161",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/Rouffi\/status\/1088519777566556161",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mYJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’ai résumé une bonne partie ici "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/Rouffi\/status\/1088519777566556161"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nJe ferais une synthèse plus complète dès que je prendrais un moment"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

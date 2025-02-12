@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1557402788.001200",
+        "client_msg_id": "0ec37e7c-f1c0-4601-a365-591a4bcf68e5",
+        "text": "AntBot, un robot fourmis bio-inspiré qui n’utilise pas le GPS pour s’orienter et se déplacer : <https:\/\/theconversation.com\/apres-antman-decouvrez-antbot-le-petit-robot-qui-navigue-sans-gps-116700>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "The Conversation",
+                "title": "Après Antman, découvrez AntBot : le petit robot qui navigue sans GPS",
+                "title_link": "https:\/\/theconversation.com\/apres-antman-decouvrez-antbot-le-petit-robot-qui-navigue-sans-gps-116700",
+                "text": "Si le GPS est actuellement le système de localisation le plus utilisé, la nature, comme souvent, fait mieux que l’humain. Découvrez Antbot, le robot qui se localise comme une fourmi.",
+                "fallback": "The Conversation: Après Antman, découvrez AntBot : le petit robot qui navigue sans GPS",
+                "image_url": "https:\/\/images.theconversation.com\/files\/273324\/original\/file-20190508-183093-q3eafi.PNG?ixlib=rb-1.1.0&rect=0%2C2%2C1695%2C847&q=45&auto=format&w=1356&h=668&fit=crop",
+                "from_url": "https:\/\/theconversation.com\/apres-antman-decouvrez-antbot-le-petit-robot-qui-navigue-sans-gps-116700",
+                "image_width": 507,
+                "image_height": 250,
+                "image_bytes": 806222,
+                "service_icon": "https:\/\/theconversation.com\/assets\/logo-114x114-65dfe0d7cfa1a27576c4bea09d5070a3.png",
+                "id": 1,
+                "original_url": "https:\/\/theconversation.com\/apres-antman-decouvrez-antbot-le-petit-robot-qui-navigue-sans-gps-116700"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nW7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "AntBot, un robot fourmis bio-inspiré qui n’utilise pas le GPS pour s’orienter et se déplacer : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/theconversation.com\/apres-antman-decouvrez-antbot-le-petit-robot-qui-navigue-sans-gps-116700"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

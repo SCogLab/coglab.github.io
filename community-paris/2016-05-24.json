@@ -1,0 +1,49 @@
+[
+    {
+        "user": "U0KKC7AQ6",
+        "type": "message",
+        "ts": "1464087388.000002",
+        "text": "Bonjour,",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "13dc7d5c9299",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-05-24\/45385520722_13dc7d5c9299d594204d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume VICTOR-THOMAS",
+            "display_name": "guillaumevt",
+            "team": "T03FC4NDZ",
+            "name": "guillaumevt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VdIM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour,"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FEH3N8",
+                    "U0AR01SPQ"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

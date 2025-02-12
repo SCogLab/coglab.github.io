@@ -1,0 +1,70 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1543926691.004300",
+        "client_msg_id": "ae1d5f67-e949-4835-82b2-e2e5c4abaaab",
+        "text": "Un souvenir de ce weekend\n<https:\/\/www.facebook.com\/245402095517562\/posts\/2067980059926414\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "FRESCO",
+                "title_link": "https:\/\/www.facebook.com\/245402095517562\/posts\/2067980059926414\/",
+                "text": "Ce week-end s'est tenu le Week-End Associatif de Reflexion de la FRESCO ! Pour la première fois depuis 2016, les bureaux des associations membres de la FRESCO ont pu se retrouver le temps d'un...",
+                "fallback": "FRESCO",
+                "image_url": "https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t1.0-9\/47376697_2067973556593731_6174475161169821696_o.jpg?_nc_cat=107&_nc_ht=scontent-iad3-1.xx&oh=a4165b6b8b75ad4cbae8773a6ae50d65&oe=5C6D6101",
+                "from_url": "https:\/\/www.facebook.com\/245402095517562\/posts\/2067980059926414\/",
+                "image_width": 445,
+                "image_height": 250,
+                "image_bytes": 252590,
+                "service_icon": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/yz\/r\/KFyVIAWzntM.ico",
+                "service_name": "facebook.com",
+                "id": 1,
+                "original_url": "https:\/\/www.facebook.com\/245402095517562\/posts\/2067980059926414\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9X9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un souvenir de ce weekend\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.facebook.com\/245402095517562\/posts\/2067980059926414\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

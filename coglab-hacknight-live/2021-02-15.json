@@ -1,0 +1,223 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1613419351.000900",
+        "client_msg_id": "069e1079-1f56-46f4-a2fe-1c09c2d6f886",
+        "text": ":wave: Hello <!channel>, je serai présent dans quelques minutes, le temps que je reboote",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ew3l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hello "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", je serai présent dans quelques minutes, le temps que je reboote"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "sh_room_created",
+        "text": "A démarré un <https:\/\/scoglab.slack.com\/call\/R01MR66Q70F|appel>.",
+        "user": "U59MQ46DA",
+        "channel": "C01JBBNSJ0M",
+        "room": {
+            "id": "R01MR66Q70F",
+            "name": null,
+            "media_server": "",
+            "created_by": "U59MQ46DA",
+            "date_start": 1613420218,
+            "date_end": 1613423079,
+            "participants": [],
+            "participant_history": [
+                "U59MQ46DA",
+                "UMSL037JT"
+            ],
+            "participants_events": {
+                "U59MQ46DA": {
+                    "user_team": {},
+                    "joined": true,
+                    "camera_on": false,
+                    "camera_off": false,
+                    "screenshare_on": false,
+                    "screenshare_off": false
+                },
+                "UMSL037JT": {
+                    "user_team": {},
+                    "joined": true,
+                    "camera_on": false,
+                    "camera_off": false,
+                    "screenshare_on": false,
+                    "screenshare_off": false
+                }
+            },
+            "participants_camera_on": [],
+            "participants_camera_off": [],
+            "participants_screenshare_on": [],
+            "participants_screenshare_off": [],
+            "canvas_thread_ts": "0000000000.000000",
+            "thread_root_ts": "0000000000.000000",
+            "channels": [
+                "C01JBBNSJ0M"
+            ],
+            "is_dm_call": false,
+            "was_rejected": false,
+            "was_missed": false,
+            "was_accepted": false,
+            "has_ended": true,
+            "media_backend_type": "free_willy",
+            "external_unique_id": "df18d65e-b8dc-4565-9e60-aea3b65c1bb0",
+            "app_id": "A00",
+            "call_family": "native_call"
+        },
+        "no_notifications": false,
+        "permalink": "https:\/\/scoglab.slack.com\/call\/R01MR66Q70F",
+        "team": "T03FC4NDZ",
+        "type": "message",
+        "ts": "1613420224.000100"
+    },
+    {
+        "user": "UMSL037JT",
+        "type": "message",
+        "ts": "1613422519.000500",
+        "client_msg_id": "786144a1-322b-4431-bc4a-e5a6560e129a",
+        "text": "<https:\/\/assetstore.unity.com\/packages\/tools\/planet-texture-generator-51995>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gc83ebac7853",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1c83ebac7853c13b22f556e7fdb52598.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Maxime Osty",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "maxime.osty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Unity Asset Store",
+                "title": "Planet Texture Generator | Tools | Unity Asset Store",
+                "title_link": "https:\/\/assetstore.unity.com\/packages\/tools\/planet-texture-generator-51995",
+                "text": "Get the Planet Texture Generator package from Stuck Muck Interactive and speed up your game development process. Find this &amp; other Tools options on the Unity Asset Store.",
+                "fallback": "Unity Asset Store: Planet Texture Generator | Tools | Unity Asset Store",
+                "image_url": "https:\/\/assetstorev1-prd-cdn.unity3d.com\/key-image\/79050c5b-a442-4c52-8c39-5666fed9f919.jpg",
+                "from_url": "https:\/\/assetstore.unity.com\/packages\/tools\/planet-texture-generator-51995",
+                "image_width": 332,
+                "image_height": 250,
+                "image_bytes": 33339,
+                "service_icon": "https:\/\/unity-assetstorev2-prd.storage.googleapis.com\/cdn-origin\/images\/favicons\/apple-touch-icon.png?v=1",
+                "id": 1,
+                "original_url": "https:\/\/assetstore.unity.com\/packages\/tools\/planet-texture-generator-51995"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "47RK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/assetstore.unity.com\/packages\/tools\/planet-texture-generator-51995"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1613422837.000800",
+        "client_msg_id": "a348da0a-9fb0-4ca7-8d49-44481acd6385",
+        "text": "<https:\/\/vircadia.com>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Vircadia",
+                "title_link": "https:\/\/vircadia.com\/",
+                "text": "Vircadia is an open-source and decentralized real-time VR creation platform for university, enterprise, social, and OpenSim users.",
+                "fallback": "Vircadia",
+                "image_url": "https:\/\/vircadia.com\/wp-content\/uploads\/2020\/04\/vircadia-icon-h270-l55.png",
+                "from_url": "https:\/\/vircadia.com\/",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 31714,
+                "service_icon": "https:\/\/vircadia.com\/wp-content\/uploads\/2020\/04\/cropped-vircadia-icon-1024-tm-180x180.png",
+                "service_name": "vircadia.com",
+                "id": 1,
+                "original_url": "https:\/\/vircadia.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xvwD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/vircadia.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

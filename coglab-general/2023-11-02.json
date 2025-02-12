@@ -1,0 +1,222 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1698931478.505209",
+        "client_msg_id": "8939c8fc-c7ca-4860-b887-8f65e3321877",
+        "text": "Bonjour à toutes et tous <!here>\n\n:calendar: La communauté NeuroTechX organise la seconde édition de son *hackathon* international le *premier week-end de décembre* 2023 (dans un mois). Un évènement français est prévu à Paris.\n\nVoici quelques liens utiles pour les intéressé•e•s :\n• Page de présentation du Hackathon local à Paris <https:\/\/coglab.fr\/activites\/ntxhack2023\/> (il s’agit d’une première version actualisée progressivement)\n• Formulaire d’inscription <https:\/\/forms.gle\/qWHRPEcEQCYYK1GEA> (pour l’édition locale à Paris, école 42)\n• Page de présentation sur NeuroTechX <https:\/\/neurotechx.com\/hackathon2023\/> (version internationale, en anglais)\nN’hésitez pas à diffuser l’information.\n\n:bulb: Pour plus de précision, ou pour vous impliquer, vous pouvez interagir avec l’équipe sur la chaîne dédiée <#CG2JEQQ8L|event-hackathon>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/coglab.fr\/wp-content\/uploads\/2023\/10\/NTXHackathon23-Logo.png",
+                "image_width": 2048,
+                "image_height": 988,
+                "image_bytes": 105231,
+                "from_url": "https:\/\/coglab.fr\/activites\/ntxhack2023\/",
+                "service_icon": "https:\/\/i0.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=180%2C180&amp;ssl=1",
+                "ts": 1698268802,
+                "id": 1,
+                "original_url": "https:\/\/coglab.fr\/activites\/ntxhack2023\/",
+                "fallback": "CogLab, NeuroTechX Paris: Hackathon NeuroTechX 2023",
+                "text": "Édition #NTXhack2023 locale à Paris Cette page est dédiée à l’évènement local et en présentiel du Hackathon NeuroTechX qui se tiendra à Paris dans l’École 42.   Rejoignez-nous en tant qu…",
+                "title": "Hackathon NeuroTechX 2023",
+                "title_link": "https:\/\/coglab.fr\/activites\/ntxhack2023\/",
+                "service_name": "CogLab, NeuroTechX Paris"
+            },
+            {
+                "image_url": "https:\/\/lh3.googleusercontent.com\/giNf6ZZs43IE0sFOScYAL9Jf08lE__k3B91uv_OxvAm1NSx-DqvN9TvYQFFI3ezAH5ZVojEiq7A",
+                "image_width": 800,
+                "image_height": 600,
+                "image_bytes": 58067,
+                "from_url": "https:\/\/forms.gle\/qWHRPEcEQCYYK1GEA",
+                "service_icon": "http:\/\/ssl.gstatic.com\/docs\/forms\/device_home\/ios_120.png",
+                "id": 2,
+                "original_url": "https:\/\/forms.gle\/qWHRPEcEQCYYK1GEA",
+                "fallback": "Google Docs: NeuroTechX Hackathon 2023 \/ Paris chapter",
+                "title": "NeuroTechX Hackathon 2023 \/ Paris chapter",
+                "title_link": "https:\/\/forms.gle\/qWHRPEcEQCYYK1GEA",
+                "service_name": "Google Docs"
+            },
+            {
+                "image_url": "https:\/\/neurotechx.com\/wp-content\/uploads\/2018\/03\/NTX_Logo-1.png",
+                "image_width": 400,
+                "image_height": 400,
+                "image_bytes": 6566,
+                "from_url": "https:\/\/neurotechx.com\/hackathon2023\/",
+                "service_icon": "https:\/\/neurotechx.com\/wp-content\/uploads\/2020\/08\/cropped-ntx-180x180.png",
+                "id": 3,
+                "original_url": "https:\/\/neurotechx.com\/hackathon2023\/",
+                "fallback": "NeuroTechX: NeuroTechX Global Hackathon 2023 - NeuroTechX",
+                "title": "NeuroTechX Global Hackathon 2023 - NeuroTechX",
+                "title_link": "https:\/\/neurotechx.com\/hackathon2023\/",
+                "service_name": "NeuroTechX",
+                "fields": [
+                    {
+                        "value": "5 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zXds0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour à toutes et tous "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "calendar",
+                                "unicode": "1f4c6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " La communauté NeuroTechX organise la seconde édition de son "
+                            },
+                            {
+                                "type": "text",
+                                "text": "hackathon",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " international le "
+                            },
+                            {
+                                "type": "text",
+                                "text": "premier week-end de décembre ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "2023 (dans un mois). Un évènement français est prévu à Paris.\n\nVoici quelques liens utiles pour les intéressé•e•s :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Page de présentation du Hackathon local à Paris "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/coglab.fr\/activites\/ntxhack2023\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " (il s’agit d’une première version actualisée progressivement)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Formulaire d’inscription "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/forms.gle\/qWHRPEcEQCYYK1GEA"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " (pour l’édition locale à Paris, école 42)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Page de présentation sur NeuroTechX "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/neurotechx.com\/hackathon2023\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " (version internationale, en anglais)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nN’hésitez pas à diffuser l’information.\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bulb",
+                                "unicode": "1f4a1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Pour plus de précision, ou pour vous impliquer, vous pouvez interagir avec l’équipe sur la chaîne dédiée "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CG2JEQQ8L"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01804NJ7AQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

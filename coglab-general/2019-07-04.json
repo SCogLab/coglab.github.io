@@ -1,0 +1,321 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1562239254.000800",
+        "client_msg_id": "aed88ab8-996b-42a0-b503-2b76469daeb5",
+        "text": "<https:\/\/www.neurobureau.org\/galleries\/brain-art-competition-2019-2\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "The Neuro Bureau",
+                "title": "Brain Art Competition 2019",
+                "title_link": "https:\/\/www.neurobureau.org\/galleries\/brain-art-competition-2019-2\/",
+                "text": "Calliope (1D – short texts with\/out images) Erato (2D – all images) Clio (3D – sculptures and installations) Terpsichore (real-time performances) Melpomene (failed attempt, bug, a…",
+                "fallback": "The Neuro Bureau: Brain Art Competition 2019",
+                "image_url": "https:\/\/i1.wp.com\/www.neurobureau.org\/wp-content\/uploads\/2019\/05\/Calliope_Five-Little-Animals_by_Rowena-Richie.jpg",
+                "ts": 1559236279,
+                "from_url": "https:\/\/www.neurobureau.org\/galleries\/brain-art-competition-2019-2\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 115221,
+                "service_icon": "https:\/\/www.neurobureau.org\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.neurobureau.org\/galleries\/brain-art-competition-2019-2\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Inv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.neurobureau.org\/galleries\/brain-art-competition-2019-2\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1562241571.012500",
+        "client_msg_id": "2473bc79-9434-4255-a0af-aa8f9ff376f0",
+        "text": "<!everyone> [MESSAGE INFORMATIF]\n\nBonjour et bienvenue aux nouveaux, n’hésitez pas à vous présenter sur <#C041LLKGW|community-members>\n\n___\nVoici un petit récapitulatif des sujets qui nous occupent en ce moment :\n- Amorçage d’un gros projet ayant pour finalité la construction d’un *démonstrateur EEG* pour un salon dédié aux professionnels du tourisme. Nous allons collaboré avec plusieurs structure et toute aide est la bienvenue :point_right::skin-tone-2: <#C03KK2Z2Z|projet-off-eeg-openbci>\n- Rédaction de notre *lettre d’information* de juillet, si vous repérer des choses intéressantes, ou souhaitez faire passer un message :point_right::skin-tone-2: <#C0QMXAWMB|coglab-blog>\n- Rédaction d’un *livre blanc* suite à notre 3ème saison de Meetup sur les technologies immersives cc <#C0K1416SG|veille-xr> :point_right::skin-tone-2: <#C0QMXAWMB|coglab-blog>\n- Préparation de la 4ème saison de nos cycles de conférences portant sur les Sciences Cognitives et FictionS <#CFX6AJZTK|coglab-meetup>\n\n___\nEt aussi\n- Participer à une soirée hacknight :point_right::skin-tone-2: <#C0R6W4X2Q|coglab-hacknight>\n- Contribuer à un projet et\/ou partager de la veille :point_right::skin-tone-2: parcourez nos différentes chaines Slack !\n- Envie d’écrire un article sur le site ? :point_right::skin-tone-2: <#C0QMXAWMB|coglab-blog>\n- Poser une question aux membres du Conseil d’Administration :point_right::skin-tone-2: <#C5HFR0LSF|coglab-ca>\n\n\n___\nQui serait intéressé par une Open Night la semaine prochaine ?\n_Un moment de rencontre, partage, veille, prospective autour d’un thème d’actualité sollicité par la communauté ou simplement pour refaire le monde !_\nPour répondre clique sur une réaction :white_check_mark: ou :x: ci-dessous :",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OGOIU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " [MESSAGE INFORMATIF]\n\nBonjour et bienvenue aux nouveaux, n’hésitez pas à vous présenter sur "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C041LLKGW"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n___\nVoici un petit récapitulatif des sujets qui nous occupent en ce moment :\n- Amorçage d’un gros projet ayant pour finalité la construction d’un "
+                            },
+                            {
+                                "type": "text",
+                                "text": "démonstrateur EEG",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour un salon dédié aux professionnels du tourisme. Nous allons collaboré avec plusieurs structure et toute aide est la bienvenue "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03KK2Z2Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- Rédaction de notre "
+                            },
+                            {
+                                "type": "text",
+                                "text": "lettre d’information",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " de juillet, si vous repérer des choses intéressantes, ou souhaitez faire passer un message "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0QMXAWMB"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- Rédaction d’un "
+                            },
+                            {
+                                "type": "text",
+                                "text": "livre blanc",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " suite à notre 3ème saison de Meetup sur les technologies immersives cc "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0K1416SG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0QMXAWMB"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- Préparation de la 4ème saison de nos cycles de conférences portant sur les Sciences Cognitives et FictionS "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CFX6AJZTK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n___\nEt aussi\n- Participer à une soirée hacknight "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0R6W4X2Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- Contribuer à un projet et\/ou partager de la veille "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " parcourez nos différentes chaines Slack !\n- Envie d’écrire un article sur le site ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0QMXAWMB"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- Poser une question aux membres du Conseil d’Administration "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C5HFR0LSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\n\n___\nQui serait intéressé par une Open Night la semaine prochaine ?\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Un moment de rencontre, partage, veille, prospective autour d’un thème d’actualité sollicité par la communauté ou simplement pour refaire le monde !",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPour répondre clique sur une réaction "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark",
+                                "unicode": "2705"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ou "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "x",
+                                "unicode": "274c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ci-dessous :"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03FC5ZAK",
+                    "UGBFU7HGQ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "x",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

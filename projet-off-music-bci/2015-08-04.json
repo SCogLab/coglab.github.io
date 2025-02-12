@@ -1,0 +1,75 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1438716365.000002",
+        "text": "<http:\/\/joeleaton.co.uk\/bci-research\/history\/> cc <@U03HY4P8V> \n<http:\/\/cmr.soc.plymouth.ac.uk\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Joel Eaton",
+                "title": "History of Brainwave Music",
+                "title_link": "http:\/\/joeleaton.co.uk\/bci-research\/history\/",
+                "text": "A brief overview of some of the key historical developments in Brainwave music. Including Alvin Lucier, David Rosemboom, Biomuse and Eduardo Miranda",
+                "fallback": "Joel Eaton: History of Brainwave Music",
+                "thumb_url": "http:\/\/joeleaton.co.uk\/wp-content\/uploads\/2013\/07\/in-tune.png",
+                "from_url": "http:\/\/joeleaton.co.uk\/bci-research\/history\/",
+                "thumb_width": 865,
+                "thumb_height": 671,
+                "id": 1
+            },
+            {
+                "text": "neuroscience of music, biomusicology, eeg, university of Plymouth, Plymouth centre for computer music research, brain-computer interface, BCI, music, computer music, acousmatic",
+                "fallback": "neuroscience of music, biomusicology, eeg, university of Plymouth, Plymouth centre for computer music research, brain-computer interface, BCI, music, computer music, acousmatic",
+                "from_url": "http:\/\/cmr.soc.plymouth.ac.uk\/",
+                "id": 2
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PGA1E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/joeleaton.co.uk\/bci-research\/history\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HY4P8V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/cmr.soc.plymouth.ac.uk\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

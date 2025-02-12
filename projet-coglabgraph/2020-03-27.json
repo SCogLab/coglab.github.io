@@ -1,0 +1,150 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1585293733.000800",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1585293909.000000"
+        },
+        "client_msg_id": "f86faf42-837f-45db-9d9a-7e2d6ae4490c",
+        "text": "<@U03FC5ZAK> J’ai rajouté une rubrique _Remote Work Platform_ dans le benchmark Tools",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1585293733.000800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1585558047.001900",
+        "reply_users": [
+            "U03FC5ZAK",
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1585557849.001700"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1585558047.001900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XBX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " J’ai rajouté une rubrique "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Remote Work Platform",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " dans le benchmark Tools"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1585306340.001400",
+        "client_msg_id": "635bd997-6ff3-407d-a370-657468de977e",
+        "text": "“Graph Convolution for Multimodal Information Extraction from Visually Rich Documents” (Xiaojing Liu, Feiyu Gao, Qiong Zhang, Huasha Zhao, <https:\/\/www.meetup.com\/fr-FR\/Paris-Women-in-Machine-Learning-Data-Science\/events\/269506546\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "BBL #6 Paris WiMLDS Paper Reading Session",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/Paris-Women-in-Machine-Learning-Data-Science\/events\/269506546\/",
+                "text": "jeu. 16 avr. 2020 à 12:00: **********************************************************************Due to the current circumstances, the meetup will be held online.More info about how to join will come.",
+                "fallback": "Meetup: BBL #6 Paris WiMLDS Paper Reading Session",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/5\/8\/f\/b\/600_489922779.jpeg",
+                "fields": [
+                    {
+                        "title": "Où",
+                        "value": "Online event",
+                        "short": true
+                    },
+                    {
+                        "title": "Quand",
+                        "value": "jeu. 16 avr. 2020 à 12:00",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/Paris-Women-in-Machine-Learning-Data-Science\/events\/269506546\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 118500,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/fr-FR\/m_swarm_120x120.4f86abc9.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/Paris-Women-in-Machine-Learning-Data-Science\/events\/269506546\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nEX=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "“Graph Convolution for Multimodal Information Extraction from Visually Rich Documents” (Xiaojing Liu, Feiyu Gao, Qiong Zhang, Huasha Zhao, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/Paris-Women-in-Machine-Learning-Data-Science\/events\/269506546\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

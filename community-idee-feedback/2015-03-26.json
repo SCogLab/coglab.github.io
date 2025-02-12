@@ -1,0 +1,53 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1427360540.000002",
+        "text": "<http:\/\/sat.qc.ca\/fr\/evenements\/irm-fragments>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "IRM & Fragments | SAT",
+                "title_link": "http:\/\/sat.qc.ca\/fr\/evenements\/irm-fragments",
+                "text": "Programme double immersif par Bruno Ribeiro (Nohista) + William Young, Benjamin Gannaway et Jake Williams (RFID) présenté dans la Satosphère.",
+                "fallback": "IRM &amp; Fragments | SAT",
+                "image_url": "http:\/\/sat.qc.ca\/sites\/default\/files\/styles\/opengraph_facebook\/public\/irm-fragments_vign_620_v2_.jpg",
+                "from_url": "http:\/\/sat.qc.ca\/fr\/evenements\/irm-fragments",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 86823,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ti6b4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/sat.qc.ca\/fr\/evenements\/irm-fragments"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

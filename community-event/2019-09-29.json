@@ -1,0 +1,161 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "Sprint BCI Voyager: <!date^1569758400^{date_short_pretty} from {time}|September 29th, 2019 from 2:00 PM> to <!date^1569772800^{time}|6:00 PM GMT+0200>",
+                "text": "<!date^1569758400^{date_short_pretty} from {time}|September 29th, 2019 from 2:00 PM> to <!date^1569772800^{time}|6:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=28B+Rue+Gallieni%2C+92600+Asni%C3%A8res-sur-Seine%2C+France|28B Rue Gallieni, 92600 Asnières-sur-Seine, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "Sprint BCI Voyager",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NTRjcjNpdnVpZmFodGYxNmE0MWVqYnNjZTAgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1569754802.000300",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1569787037.000500",
+        "edited": {
+            "user": "U03FC5ZAK",
+            "ts": "1569787046.000000"
+        },
+        "client_msg_id": "2d5beb00-358e-458a-8625-158126b422b7",
+        "text": "<https:\/\/www.eventbrite.fr\/e\/inscription-rencontres-decouvrir-et-integrer-les-challenges-ia-pilotes-par-la-dge-74077901999>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569787037.000500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1569787243.000900",
+        "reply_users": [
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1569787243.000900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "service_name": "Eventbrite",
+                "title": "Rencontres : découvrir et intégrer les Challenges IA pilotés par la @DGE",
+                "title_link": "https:\/\/www.eventbrite.fr\/e\/inscription-rencontres-decouvrir-et-integrer-les-challenges-ia-pilotes-par-la-dge-74077901999?utm_source=eventbrite&utm_medium=email&utm_content=follow_notification&utm_campaign=following_published_event&utm_term=Rencontres+%3A+d%C3%A9couvrir+et+int%C3%A9grer+les+Challenges+IA+pilot%C3%A9s+par+la+%40DGE&aff=ebemoffollowpublishemail",
+                "text": "Assistez à un événement dédié aux Challenges IA et découvrez de nouvelles opportunités de développement et d’innovation.",
+                "fallback": "Eventbrite: Rencontres : découvrir et intégrer les Challenges IA pilotés par la @DGE",
+                "image_url": "https:\/\/img.evbuc.com\/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F74618551%2F241175863576%2F1%2Foriginal.20190927-161741?w=1000&auto=compress&rect=0%2C0%2C2160%2C1080&s=c0d1c559f2b63bc1504df72a063b3c44",
+                "fields": [
+                    {
+                        "title": "Where",
+                        "value": "Station F 55 boulevard Vincent Auriol, 75013 Paris, France",
+                        "short": true
+                    },
+                    {
+                        "title": "When",
+                        "value": "Le ven  11 oct. 2019 à 14:00",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.eventbrite.fr\/e\/inscription-rencontres-decouvrir-et-integrer-les-challenges-ia-pilotes-par-la-dge-74077901999?utm_source=eventbrite&utm_medium=email&utm_content=follow_notification&utm_campaign=following_published_event&utm_term=Rencontres+%3A+d%C3%A9couvrir+et+int%C3%A9grer+les+Challenges+IA+pilot%C3%A9s+par+la+%40DGE&aff=ebemoffollowpublishemail",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 52478,
+                "service_icon": "https:\/\/cdn.evbstatic.com\/s3-build\/perm_001\/eba891\/django\/images\/touch_icons\/apple-touch-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.eventbrite.fr\/e\/inscription-rencontres-decouvrir-et-integrer-les-challenges-ia-pilotes-par-la-dge-74077901999?utm_source=eventbrite&amp;utm_medium=email&amp;utm_content=follow_notification&amp;utm_campaign=following_published_event&amp;utm_term=Rencontres+%3A+d%C3%A9couvrir+et+int%C3%A9grer+les+Challenges+IA+pilot%C3%A9s+par+la+%40DGE&amp;aff=ebemoffollowpublishemail"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ix+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.eventbrite.fr\/e\/inscription-rencontres-decouvrir-et-integrer-les-challenges-ia-pilotes-par-la-dge-74077901999"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1569787243.000900",
+        "client_msg_id": "998f2bf6-68ac-46f3-96de-2c4c1b0fa694",
+        "text": "Top, je vais m’y inscrire",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569787037.000500",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "li+=T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Top, je vais m’y inscrire"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

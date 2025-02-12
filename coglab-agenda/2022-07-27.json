@@ -1,0 +1,25 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "Event created: [Interne][Option] Dej de synchro CogLab: <!date^1659000600^{date_short_pretty} from {time}|July 28th, 2022 from 11:30 AM> to <!date^1659007800^{time}|1:30 PM GMT+0200>",
+                "text": "<!date^1659000600^{date_short_pretty} from {time}|July 28th, 2022 from 11:30 AM> to <!date^1659007800^{time}|1:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Pantin%2C+93500+Pantin%2C+France|Pantin, 93500 Pantin, France>",
+                "pretext": "New calendar event created",
+                "title": "[Interne][Option] Dej de synchro CogLab",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NzhnNjNvYTVqcXJ1cTF0N2UwNWI2bnN0MXEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "more",
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1658956449.689939",
+        "bot_id": "B4SJBP2L8"
+    }
+]

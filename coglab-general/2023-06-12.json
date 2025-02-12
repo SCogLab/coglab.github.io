@@ -1,0 +1,117 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1686586875.560829",
+        "client_msg_id": "48915e57-a653-4d09-ae71-99e1aa962d4a",
+        "text": "Bonjour à toutes et tous <!here>,\n\nLe 3ème épisode des pérégrinations est sorti <https:\/\/coglab.fr\/peregrinations3\/>\nN’hésitez pas à partager vos commentaires :slightly_smiling_face:\n\nNous organisons également une Assemblée Générale Extraordinaire ce mercredi 14 juin de 18 à 19h, suite aux échanges lors de la dernière Assemblée Générale, qui s’est tenue le 13 mai dernier <https:\/\/coglab.fr\/age2023\/>.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/coglab.fr\/wp-content\/uploads\/2023\/04\/6284980572_e562176b13_w.jpg",
+                "image_width": 400,
+                "image_height": 267,
+                "image_bytes": 38139,
+                "from_url": "https:\/\/coglab.fr\/peregrinations3\/",
+                "service_icon": "https:\/\/i0.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=180%2C180&amp;ssl=1",
+                "ts": 1686525639,
+                "id": 1,
+                "original_url": "https:\/\/coglab.fr\/peregrinations3\/",
+                "fallback": "CogLab, NeuroTechX Paris: Les pérégrinations du CogLab #3 (juin 2023)",
+                "text": " Les pérégrinations du CogLab constituent une synthèse de l’actualité vue par Romain, agrégée des moments de partage lors des soirées HackNight du lundi soir et d’un travail de veille e…",
+                "title": "Les pérégrinations du CogLab #3 (juin 2023)",
+                "title_link": "https:\/\/coglab.fr\/peregrinations3\/",
+                "service_name": "CogLab, NeuroTechX Paris"
+            },
+            {
+                "from_url": "https:\/\/coglab.fr\/age2023\/",
+                "service_icon": "https:\/\/i0.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=180%2C180&amp;ssl=1",
+                "thumb_url": "https:\/\/i0.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=512%2C512&ssl=1",
+                "thumb_width": 512,
+                "thumb_height": 512,
+                "ts": 1686268434,
+                "id": 2,
+                "original_url": "https:\/\/coglab.fr\/age2023\/",
+                "fallback": "CogLab, NeuroTechX Paris: Assemblée Générale Extraordinaire",
+                "text": "Invitation à l’AGE de l’association CogLab, NeuroTechX Paris, qui se tiendra le mercredi 14 juin de 18h00 à 19h00 en ligne et en présentiel à Paris.   Chèr·e·s adhérent·e·s et symp…",
+                "title": "Assemblée Générale Extraordinaire",
+                "title_link": "https:\/\/coglab.fr\/age2023\/",
+                "service_name": "CogLab, NeuroTechX Paris"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MDPb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour à toutes et tous "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\n\nLe 3ème épisode des pérégrinations est sorti "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.fr\/peregrinations3\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nN’hésitez pas à partager vos commentaires "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nNous organisons également une Assemblée Générale Extraordinaire ce mercredi 14 juin de 18 à 19h, suite aux échanges lors de la dernière "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Assemblée Générale",
+                                "style": {
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", qui s’est tenue le 13 mai dernier "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.fr\/age2023\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

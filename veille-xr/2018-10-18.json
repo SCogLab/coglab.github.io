@@ -1,0 +1,89 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1539850757.000100",
+        "client_msg_id": "b850cdda-d576-4de1-adba-4f3894393e66",
+        "text": "Ah oui je l’ai vu passé, c’est intéressant ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539780861.000100",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fRxcb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah oui je l’ai vu passé, c’est intéressant ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "UDGVB333L",
+        "text": "<@UDGVB333L> a rejoint le canal",
+        "type": "message",
+        "ts": "1539858605.000200"
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1539860339.000100",
+        "client_msg_id": "d4b95efa-aa9f-42e5-9e63-e6dc0df2d10c",
+        "text": "C’est moyen mais ça permet surtout de savoir comment s’organise les évènements AR\/VR France-Chine",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539780861.000100",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8BKh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C’est moyen mais ça permet surtout de savoir comment s’organise les évènements AR\/VR France-Chine"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

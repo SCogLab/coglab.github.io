@@ -1,0 +1,137 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1453363631.000002",
+        "text": "Ouverture d'un nouveau channel <#C0K1416SG|veille-xr> sur la réalité augmentée \/ virtuelle",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OCYLN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ouverture d'un nouveau channel "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0K1416SG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sur la réalité augmentée \/ virtuelle"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1453381354.000003",
+        "text": "<http:\/\/www.lemonde.fr\/m-perso\/article\/2016\/01\/20\/cinq-raisons-de-ne-pas-delaisser-les-calins_4850703_4497916.html>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Le Monde.fr",
+                "title": "Pourquoi il ne faut pas oublier les câlins",
+                "title_link": "http:\/\/www.lemonde.fr\/m-perso\/article\/2016\/01\/20\/cinq-raisons-de-ne-pas-delaisser-les-calins_4850703_4497916.html",
+                "text": "Dans un monde où l’échange virtuel est roi, le câlin n’est jamais superflu. A l’occasion de la Journée mondiale des câlins, le 21 janvier, voici cinq bonnes raisons de ne pas s’en passer.",
+                "fallback": "Le Monde.fr: Pourquoi il ne faut pas oublier les câlins",
+                "image_url": "http:\/\/s1.lemde.fr\/image\/2016\/01\/20\/644x322\/4850702_3_7f86_sept-minutes-de-calin-par-jour-seraient_60179bdb91e5ab82db741d06ddb71993.jpg",
+                "image_width": 500,
+                "image_height": 250,
+                "from_url": "http:\/\/www.lemonde.fr\/m-perso\/article\/2016\/01\/20\/cinq-raisons-de-ne-pas-delaisser-les-calins_4850703_4497916.html",
+                "image_bytes": 34762,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K3f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.lemonde.fr\/m-perso\/article\/2016\/01\/20\/cinq-raisons-de-ne-pas-delaisser-les-calins_4850703_4497916.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1453391083.000005",
+        "text": ":+1: ",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mRu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

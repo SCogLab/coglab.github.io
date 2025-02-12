@@ -1,0 +1,120 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1443056825.000002",
+        "text": "Ultracortex Mark 3 is NOW available !\n<http:\/\/openbci.myshopify.com\/collections\/frontpage\/products\/ultracortex-mark-3-eeg-headset-kit-assembly-required?variant=7901127747>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "OpenBCI Online Store",
+                "title": "Ultracortex (Mark 3) EEG Headset Kit",
+                "title_link": "http:\/\/openbci.myshopify.com\/collections\/frontpage\/products\/ultracortex-mark-3-eeg-headset-kit-assembly-required?variant=7901127747",
+                "text": "Important Notes:  This kit DOES NOT INCLUDE an OpenBCI Board. For a fully-functioning Ultracortex headset, purchase the OpenBCI 32bit Board or the OpenBCI 16-ch",
+                "fallback": "OpenBCI Online Store: Ultracortex (Mark 3) EEG Headset Kit",
+                "thumb_url": "http:\/\/cdn.shopify.com\/s\/files\/1\/0613\/9353\/products\/Mark3_square_2_grande.jpg?v=1442965039",
+                "fields": [
+                    {
+                        "title": "PRICE",
+                        "value": "$ 499.99 USD",
+                        "short": true
+                    },
+                    {
+                        "title": "VENDOR",
+                        "value": "OpenBCI",
+                        "short": true
+                    }
+                ],
+                "from_url": "http:\/\/openbci.myshopify.com\/collections\/frontpage\/products\/ultracortex-mark-3-eeg-headset-kit-assembly-required?variant=7901127747",
+                "thumb_width": 600,
+                "thumb_height": 600,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "orpH1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ultracortex Mark 3 is NOW available !\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/openbci.myshopify.com\/collections\/frontpage\/products\/ultracortex-mark-3-eeg-headset-kit-assembly-required?variant=7901127747"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1443056848.000004",
+        "text": "<https:\/\/github.com\/OpenBCI\/Ultracortex\/tree\/master\/Mark_3>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "OpenBCI\/Ultracortex",
+                "title_link": "https:\/\/github.com\/OpenBCI\/Ultracortex\/tree\/master\/Mark_3",
+                "text": "Ultracortex - Files related to the ultracortex, the OpenBCI 3D-printable EEG headset currently under development",
+                "fallback": "GitHub: OpenBCI\/Ultracortex",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/6003329?v=3&s=400",
+                "from_url": "https:\/\/github.com\/OpenBCI\/Ultracortex\/tree\/master\/Mark_3",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hve",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/OpenBCI\/Ultracortex\/tree\/master\/Mark_3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

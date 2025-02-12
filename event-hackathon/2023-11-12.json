@@ -1,0 +1,268 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1699807738.342489",
+        "client_msg_id": "f6b46b54-3feb-4acb-a327-a63d67494b40",
+        "text": "Hello <@U59MQ46DA>, des nouvelles pour\n• L’organisation de la Masterclass ?\n• Y-a-t’il plus de précisions sur le Hackathon (horaires, info sur le lieu, programmation locale spécifique, liste de sponsors, etc.). \nPour le moment, j’ai seulement :\n• Copié la page de l’année dernière, en retirant toutes les infos superflues <https:\/\/coglab.fr\/activites\/ntxhack2023\/>\n• Créé un formulaire d’inscription <https:\/\/forms.gle\/qWHRPEcEQCYYK1GEA>\n• Dupliqué et actualisé une page Meetup <https:\/\/www.meetup.com\/coglab\/events\/297183811\/>\nJ’attendais plus de précisions et des validations des informations avant de communiquer largement. :speech_balloon:\n\n:warning: Je suis un peu inquiet, on est à trois semaines de l’événement et pour le moment zéro inscription. De mon côté, je n’ai pas le temps de m’impliquer et ne serais pas non plus dispo le jour J ! :warning:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/coglab.fr\/wp-content\/uploads\/2023\/10\/NTXHackathon23-Logo.png",
+                "image_width": 2048,
+                "image_height": 988,
+                "image_bytes": 105231,
+                "from_url": "https:\/\/coglab.fr\/activites\/ntxhack2023\/",
+                "service_icon": "https:\/\/i0.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=180%2C180&amp;ssl=1",
+                "ts": 1698268802,
+                "id": 1,
+                "original_url": "https:\/\/coglab.fr\/activites\/ntxhack2023\/",
+                "fallback": "CogLab, NeuroTechX Paris: Hackathon NeuroTechX 2023",
+                "text": "Édition #NTXhack2023 locale à Paris Cette page est dédiée à l’évènement local et en présentiel du Hackathon NeuroTechX qui se tiendra à Paris dans l’École 42.   Rejoignez-nous en tant qu…",
+                "title": "Hackathon NeuroTechX 2023",
+                "title_link": "https:\/\/coglab.fr\/activites\/ntxhack2023\/",
+                "service_name": "CogLab, NeuroTechX Paris"
+            },
+            {
+                "image_url": "https:\/\/lh3.googleusercontent.com\/giNf6ZZs43IE0sFOScYAL9Jf08lE__k3B91uv_OxvAm1NSx-DqvN9TvYQFFI3ezAH5ZVojEiq7A",
+                "image_width": 800,
+                "image_height": 600,
+                "image_bytes": 58067,
+                "from_url": "https:\/\/forms.gle\/qWHRPEcEQCYYK1GEA",
+                "service_icon": "http:\/\/ssl.gstatic.com\/docs\/forms\/device_home\/ios_120.png",
+                "id": 2,
+                "original_url": "https:\/\/forms.gle\/qWHRPEcEQCYYK1GEA",
+                "fallback": "Google Docs: NeuroTechX Hackathon 2023 \/ Paris chapter",
+                "title": "NeuroTechX Hackathon 2023 \/ Paris chapter",
+                "title_link": "https:\/\/forms.gle\/qWHRPEcEQCYYK1GEA",
+                "service_name": "Google Docs"
+            },
+            {
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/3\/a\/7\/8\/600_517094968.jpeg",
+                "image_width": 600,
+                "image_height": 337,
+                "image_bytes": 32026,
+                "from_url": "https:\/\/www.meetup.com\/coglab\/events\/297183811\/",
+                "service_icon": "https:\/\/secure.meetupstatic.com\/next\/images\/general\/m_swarm_120x120.png",
+                "id": 3,
+                "original_url": "https:\/\/www.meetup.com\/coglab\/events\/297183811\/",
+                "fallback": "Meetup: NeuroTechX Hackathon 2023 - Paris, Sat, Dec 2, 2023, 9:00 AM   | Meetup",
+                "text": "***Appel à participation au Hackathon NeuroTechX 2023 qui se déroulera le weekend du 2 au 3 novembre 2023, en ligne et dans plusieurs villes dont Paris à l'École 42. Pour s",
+                "title": "NeuroTechX Hackathon 2023 - Paris, Sat, Dec 2, 2023, 9:00 AM   | Meetup",
+                "title_link": "https:\/\/www.meetup.com\/coglab\/events\/297183811\/",
+                "service_name": "Meetup"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7LQy5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", des nouvelles pour\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "L’organisation de la Masterclass ?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Y-a-t’il plus de précisions sur le Hackathon (horaires, info sur le lieu, programmation locale spécifique, liste de sponsors, etc.). "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nPour le moment, j’ai seulement :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Copié la page de l’année dernière, en retirant toutes les infos superflues "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/coglab.fr\/activites\/ntxhack2023\/"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Créé un formulaire d’inscription "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/forms.gle\/qWHRPEcEQCYYK1GEA"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Dupliqué et actualisé une page Meetup "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.meetup.com\/coglab\/events\/297183811\/"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nJ’attendais plus de précisions et des validations des informations avant de communiquer largement. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "speech_balloon",
+                                "unicode": "1f4ac"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "warning",
+                                "unicode": "26a0-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Je suis un peu inquiet, on est à trois semaines de l’événement et pour le moment zéro inscription. De mon côté, je n’ai pas le temps de m’impliquer et ne serais pas non plus dispo le jour J ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "warning",
+                                "unicode": "26a0-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1699822144.961079",
+        "client_msg_id": "213bd5ca-72bd-44ee-a0c7-64ec4cea4560",
+        "text": "Au cas où, pour du sponsoring, j’ai mis en place cette page, en reprenant le modèle de l’année dernière.\n\n<https:\/\/www.helloasso.com\/associations\/coglab\/evenements\/hackathon-neurotechx-2023-paris>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.helloasso.com\/associations\/coglab\/evenements\/hackathon-neurotechx-2023-paris",
+                "image_url": "https:\/\/cdn.helloasso.com\/img\/photos\/evenements\/croppedimage-60039c546f584908941decb6348ab02f.png?resize=fill:500:360",
+                "image_width": 500,
+                "image_height": 360,
+                "image_bytes": 51783,
+                "service_icon": "https:\/\/www.helloasso.com\/forms\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.helloasso.com\/associations\/coglab\/evenements\/hackathon-neurotechx-2023-paris",
+                "fallback": "HelloAsso: Hackathon neurotechx paris 2023",
+                "text": "Compétition organisé·e par CogLab à Paris - Join the second edition NeuroTechX hackathon, globally hosted online, in addition to in-person local hosting by several NeuroTechX chapters, including Paris.\n\nThe hackathon will take place over the first weekend of December. The event is free and open to the public. The aim is to engage and bring together people from various backgrounds to speculate on possible use-cases of Neurotechnology and Brain-Computer Interfaces [BCI].",
+                "title": "Hackathon neurotechx paris 2023",
+                "title_link": "https:\/\/www.helloasso.com\/associations\/coglab\/evenements\/hackathon-neurotechx-2023-paris",
+                "service_name": "HelloAsso"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xtRyB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Au cas où, pour du sponsoring, j’ai mis en place cette page, en reprenant le modèle de l’année dernière.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.helloasso.com\/associations\/coglab\/evenements\/hackathon-neurotechx-2023-paris"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

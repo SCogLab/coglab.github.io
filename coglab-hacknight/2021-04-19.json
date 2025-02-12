@@ -1,0 +1,70 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1618859387.001900",
+        "client_msg_id": "db543a7f-8845-4f57-81d3-fd6f358d0367",
+        "text": "De retour sur Gather.Town comme chaque semaine, n’hésitez pas à nous faire un coucou <https:\/\/gather.town\/i\/PYn7w8L3> :wave:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Gather",
+                "title_link": "https:\/\/gather.town\/i\/PYn7w8L3",
+                "text": "Gather is a video-calling space that lets multiple people hold separate conversations in parallel, walking in and out of those conversations just as easily as they would in real life.",
+                "fallback": "Gather",
+                "image_url": "https:\/\/gather.town\/images\/site\/site_preview.png",
+                "from_url": "https:\/\/gather.town\/i\/PYn7w8L3",
+                "image_width": 418,
+                "image_height": 250,
+                "image_bytes": 168628,
+                "service_icon": "https:\/\/gather.town\/favicon.ico",
+                "service_name": "gather.town",
+                "id": 1,
+                "original_url": "https:\/\/gather.town\/i\/PYn7w8L3"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WwxXi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "De retour sur Gather.Town comme chaque semaine, n’hésitez pas à nous faire un coucou "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gather.town\/i\/PYn7w8L3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

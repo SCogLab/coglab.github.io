@@ -1,0 +1,66 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1446671937.000002",
+        "text": "C'est officiel, OpenBCI remet les couverts :simple_smile:\n<https:\/\/www.kickstarter.com\/projects\/openbci\/openbci-biosensing-for-everybody>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Kickstarter",
+                "title": "OpenBCI: Biosensing for Everybody",
+                "title_link": "https:\/\/www.kickstarter.com\/projects\/openbci\/openbci-biosensing-for-everybody",
+                "text": "Announcing the GANGLION and the ULTRACORTEX—a $99 biodata acquisition device and a 3D-printed, brain-sensing headset.",
+                "fallback": "Kickstarter: OpenBCI: Biosensing for Everybody",
+                "image_url": "https:\/\/ksr-ugc.imgix.net\/projects\/2154712\/photo-original.png?v=1446589705&w=1536&h=1152&fit=crop&auto=format&q=92&s=61c689475155a6874eec18e90e64993f",
+                "image_width": 333,
+                "image_height": 250,
+                "from_url": "https:\/\/www.kickstarter.com\/projects\/openbci\/openbci-biosensing-for-everybody",
+                "image_bytes": 1333862,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lec",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est officiel, OpenBCI remet les couverts "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kickstarter.com\/projects\/openbci\/openbci-biosensing-for-everybody"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

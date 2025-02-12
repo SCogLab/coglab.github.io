@@ -1,0 +1,367 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U03FC5ZAK",
+        "text": "<@U03FC5ZAK> a rejoint le canal",
+        "type": "message",
+        "ts": "1455625556.000002"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC5ZAK",
+        "purpose": "Création d'une application mélant mindmapping, sémantique et fonction de gamification pour un usage pédagogique.  \nDocumentation : https:\/\/coglab.hackpad.com\/DiagSem-Application-7cJT8ylREp6",
+        "text": "a défini la description du canal : Création d'une application mélant mindmapping, sémantique et fonction de gamification pour un usage pédagogique.  \nDocumentation : https:\/\/coglab.hackpad.com\/DiagSem-Application-7cJT8ylREp6",
+        "type": "message",
+        "ts": "1455625557.000003"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0MDFGWEP",
+        "text": "<@U0MDFGWEP> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1455625557.000004"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FC4NE1",
+        "text": "<@U03FC4NE1> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1455625557.000005"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FEH3N8",
+        "text": "<@U03FEH3N8> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1455625557.000006"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U07CFCCBG",
+        "text": "<@U07CFCCBG> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1455625557.000007"
+    },
+    {
+        "user": "U0MDFGWEP",
+        "type": "message",
+        "ts": "1455627950.000008",
+        "text": "<@U03FC5ZAK>: je pense que ce n'est pas une bonne idée d'écrire mindmapping dans la description : il va y avoir confusion. Peux tu remplacer par \"diagramme sémantique\" stp ? Parce que c'est ça le vrai nom en fait, merci d'avance :wink:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g6c600f36396",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/66c600f363966476bf223e2b086bf583.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "jennifer",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "jennifer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DGhX7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": je pense que ce n'est pas une bonne idée d'écrire mindmapping dans la description : il va y avoir confusion. Peux tu remplacer par \"diagramme sémantique\" stp ? Parce que c'est ça le vrai nom en fait, merci d'avance "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U07CFCCBG",
+        "purpose": "Création d'une application mêlant diagramme sémantique et fonction de gamification pour un usage pédagogique.  \nDocumentation : https:\/\/coglab.hackpad.com\/DiagSem-Application-7cJT8ylREp6",
+        "text": "a défini la description du canal : Création d'une application mêlant diagramme sémantique et fonction de gamification pour un usage pédagogique.  \nDocumentation : https:\/\/coglab.hackpad.com\/DiagSem-Application-7cJT8ylREp6",
+        "type": "message",
+        "ts": "1455628935.000009"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1455629215.000010",
+        "text": "Merci <@U07CFCCBG> :simple_smile:\n<@U0MDFGWEP>: tous le monde peux changer l'intitullé des channels",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uaL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07CFCCBG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0MDFGWEP"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": tous le monde peux changer l'intitullé des channels"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0MDFGWEP",
+        "type": "message",
+        "ts": "1455629716.000011",
+        "text": "merci :wink: bon il faudrait vraiment un dev maintenant !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g6c600f36396",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/66c600f363966476bf223e2b086bf583.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "jennifer",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "jennifer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PWZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": " bon il faudrait vraiment un dev maintenant !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07CFCCBG",
+        "type": "message",
+        "ts": "1455630749.000012",
+        "text": "je suis dev mais je ne suis absolument pas dev mobile",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ca0028538aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-04-21\/36646712194_7ca0028538aa7c07b0e3_72.jpg",
+            "first_name": "Mai",
+            "real_name": "Mai",
+            "display_name": "mai",
+            "team": "T03FC4NDZ",
+            "name": "mai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J2Ich",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je suis dev mais je ne suis absolument pas dev mobile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07CFCCBG",
+        "type": "message",
+        "ts": "1455630830.000013",
+        "text": "mais il va falloir préciser un peu plus le fonctionnement pratique du type qu’est ce que l’utilisateur fait - qu’est ce que le programme en fait de l’information - etc.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ca0028538aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-04-21\/36646712194_7ca0028538aa7c07b0e3_72.jpg",
+            "first_name": "Mai",
+            "real_name": "Mai",
+            "display_name": "mai",
+            "team": "T03FC4NDZ",
+            "name": "mai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a2i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mais il va falloir préciser un peu plus le fonctionnement pratique du type qu’est ce que l’utilisateur fait - qu’est ce que le programme en fait de l’information - etc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0MDFGWEP",
+        "type": "message",
+        "ts": "1455632733.000014",
+        "text": "<@U07CFCCBG>: je peux faire des shéma si tu veux mais là je suis au travail dc plus tard...",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g6c600f36396",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/66c600f363966476bf223e2b086bf583.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "jennifer",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "jennifer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wSl5b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U07CFCCBG"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": je peux faire des shéma si tu veux mais là je suis au travail dc plus tard..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07CFCCBG",
+        "type": "message",
+        "ts": "1455632745.000015",
+        "text": "pas de souci je suis au travail aussi :stuck_out_tongue:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ca0028538aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-04-21\/36646712194_7ca0028538aa7c07b0e3_72.jpg",
+            "first_name": "Mai",
+            "real_name": "Mai",
+            "display_name": "mai",
+            "team": "T03FC4NDZ",
+            "name": "mai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mCa9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pas de souci je suis au travail aussi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue",
+                                "unicode": "1f61b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

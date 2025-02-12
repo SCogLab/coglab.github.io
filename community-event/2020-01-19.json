@@ -1,0 +1,67 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CA CogLab 2020.1: <!date^1580054400^{date_short_pretty} from {time}|January 26th, 2020 from 5:00 PM> to <!date^1580059800^{time}|6:30 PM GMT+0100>",
+                "text": "<!date^1580054400^{date_short_pretty} from {time}|January 26th, 2020 from 5:00 PM> to <!date^1580059800^{time}|6:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=28B+Rue+Gallieni%2C+92600+Asni%C3%A8res-sur-Seine%2C+France|28B Rue Gallieni, 92600 Asnières-sur-Seine, France>",
+                "pretext": "Calendar event updated",
+                "title": "CA CogLab 2020.1",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MW9zc2V1czR1YWF1dTY4dDhyZG1vdmFkNDQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1579428605.000100",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1579429505.000400",
+        "client_msg_id": "e015db46-609d-496e-a07c-1cae3a63d9cb",
+        "text": "Hacker Space Festival 2020 (Paris, 7-8 février 2020)\n<https:\/\/2020.hackersfest.org\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eN6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hacker Space Festival 2020 (Paris, 7-8 février 2020)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/2020.hackersfest.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

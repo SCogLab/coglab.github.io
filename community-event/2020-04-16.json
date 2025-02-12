@@ -1,0 +1,115 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1587057730.006800",
+        "client_msg_id": "8e710f74-cd99-4c57-a05c-f119e5a1c9b4",
+        "text": "<https:\/\/www.meetup.com\/fr-FR\/NeuroTechSF\/events\/269964317\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "NeuroTechSF Hacknight",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/NeuroTechSF\/events\/269964317\/",
+                "text": "jeu. 16 avr. 2020 à 19:00: Join us every week for online Hacknight! Newcomers always welcome. Come in anytime between 7PM and 10PM and let’s stay connected while we have to stay apart.We will be avail",
+                "fallback": "Meetup: NeuroTechSF Hacknight",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/3\/8\/4\/9\/600_490094409.jpeg",
+                "fields": [
+                    {
+                        "title": "Où",
+                        "value": "Online event",
+                        "short": true
+                    },
+                    {
+                        "title": "Quand",
+                        "value": "jeu. 16 avr. 2020 à 19:00",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/NeuroTechSF\/events\/269964317\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 25269,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/fr-FR\/m_swarm_120x120.4f86abc9.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/NeuroTechSF\/events\/269964317\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wp=rs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/NeuroTechSF\/events\/269964317\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1587057863.007100",
+        "edited": {
+            "user": "U03FC5ZAK",
+            "ts": "1587057885.000000"
+        },
+        "client_msg_id": "fa3a58fb-12bf-435d-846c-17bf2f50f91d",
+        "text": "Neureka™ 2020 Epilepsy Challenge.\nWebinar hosted by Yannick Roy (NeuroTechX) and Joseph Picone (TUH).\n<https:\/\/zoom.us\/meeting\/register\/tJwudeippzosGdRe8GeWnjHb1ZcTI4mB7PWr>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HpY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Neureka™ 2020 Epilepsy Challenge.\nWebinar hosted by Yannick Roy (NeuroTechX) and Joseph Picone (TUH).\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zoom.us\/meeting\/register\/tJwudeippzosGdRe8GeWnjHb1ZcTI4mB7PWr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

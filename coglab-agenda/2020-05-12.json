@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "NTX BCI_101 Week 2 Day 1: <!date^1589302800^{date_short_pretty} from {time}|May 12th, 2020 from 7:00 PM> to <!date^1589306400^{time}|8:00 PM GMT+0200>",
+                "text": "<!date^1589302800^{date_short_pretty} from {time}|May 12th, 2020 from 7:00 PM> to <!date^1589306400^{time}|8:00 PM GMT+0200> at <https:\/\/www.eventbrite.com\/e\/bci-101-tickets-103682840166>, ",
+                "pretext": "Event starting in 1 hour:",
+                "title": "NTX BCI_101 Week 2 Day 1",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NTRpbTY4cnZxYzFiMnJ2aWM4aDRtNW1ic2ogc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1589299222.007900",
+        "bot_id": "B4SJBP2L8"
+    }
+]

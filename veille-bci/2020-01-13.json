@@ -1,0 +1,95 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1578953737.001700",
+        "client_msg_id": "70d678a4-bed1-46a2-a81d-87708796fd6b",
+        "text": "MOAB : une belle découverte lors de notre <#C0R6W4X2Q|coglab-hacknight> de ce soir\n\nMOAB = Mother of All BCI Benchmarks\nBuild a comprehensive benchmark of popular BCI algorithms applied on an extensive list of freely available EEG datasets.\nUn travail d'Alexandre Barachant, CTRL Lab\n\nDépôt <https:\/\/github.com\/NeuroTechX\/moabb>\nPapier <https:\/\/arxiv.org\/pdf\/1805.06427.pdf> MOABB: Trustworthy algorithm benchmarking for BCIs",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "NeuroTechX\/moabb",
+                "text": "Mother of All BCI Benchmarks",
+                "title": "NeuroTechX\/moabb",
+                "footer": "<https:\/\/github.com\/NeuroTechX\/moabb|NeuroTechX\/moabb>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1494860499,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "112",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "Python",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "BA73T1BTJ",
+                "app_unfurl_url": "https:\/\/github.com\/NeuroTechX\/moabb",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A876F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "MOAB : une belle découverte lors de notre "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0R6W4X2Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " de ce soir\n\nMOAB = Mother of All BCI Benchmarks\nBuild a comprehensive benchmark of popular BCI algorithms applied on an extensive list of freely available EEG datasets.\nUn travail d'Alexandre Barachant, CTRL Lab\n\nDépôt "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/NeuroTechX\/moabb"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPapier "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/arxiv.org\/pdf\/1805.06427.pdf"
+                            },
+                            {
+                                "type": "text",
+                                "text": " MOABB: Trustworthy algorithm benchmarking for BCIs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

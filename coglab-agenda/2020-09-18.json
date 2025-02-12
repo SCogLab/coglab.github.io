@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CA CogLab 2020.3: <!date^1600446600^{date_short_pretty} from {time}|September 18th, 2020 from 6:30 PM> to <!date^1600450200^{time}|7:30 PM GMT+0200>",
+                "text": "<!date^1600446600^{date_short_pretty} from {time}|September 18th, 2020 from 6:30 PM> to <!date^1600450200^{time}|7:30 PM GMT+0200>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CA CogLab 2020.3",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MDZmam1pN2o5ZG5xYWMwMnU1ajgwdGw2ZXUgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1600443001.000100",
+        "bot_id": "B4SJBP2L8"
+    }
+]

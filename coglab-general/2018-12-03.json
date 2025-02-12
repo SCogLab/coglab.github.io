@@ -1,0 +1,115 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1543840526.000300",
+        "client_msg_id": "3bfe2eaf-2e5d-4ca2-82b8-949b821e2c20",
+        "text": "Bien joué <@U0FB4KME0>!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1543422782.002600",
+        "parent_user_id": "U0FB4KME0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZJ5M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bien joué "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0FB4KME0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Sur le fil linkedin, j'ai fait de la pub pour le coglab, pour ceux que le domaine intéresserait. (résumé du projet -&gt;)",
+        "files": [
+            {
+                "id": "FEHBBDARX",
+                "created": 1543850685,
+                "timestamp": 1543850685,
+                "name": "oadf-neoseng.pdf",
+                "title": "oadf-neoseng.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U0FB4KME0",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 35575,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FEHBBDARX\/oadf-neoseng.pdf?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FEHBBDARX\/download\/oadf-neoseng.pdf?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FEHBBDARX-96b829b15e\/oadf-neoseng_thumb_pdf.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U0FB4KME0\/FEHBBDARX\/oadf-neoseng.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-FEHBBDARX-5e4a856a3a",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U0FB4KME0",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B9p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sur le fil linkedin, j'ai fait de la pub pour le coglab, pour ceux que le domaine intéresserait. (résumé du projet ->)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1543850688.000500",
+        "edited": {
+            "user": "U0FB4KME0",
+            "ts": "1543850750.000000"
+        },
+        "thread_ts": "1543422782.002600",
+        "parent_user_id": "U0FB4KME0"
+    }
+]

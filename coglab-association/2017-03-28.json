@@ -1,0 +1,80 @@
+[
+    {
+        "user": "U03FC4NE1",
+        "type": "message",
+        "ts": "1490742811.079129",
+        "text": "<!here|@here> Voici un doodle pour re-planifier une date d'assemblée générale constituante pour le CogLab :\n\n<https:\/\/doodle.com\/poll\/wu7bxgyqbzdiatxk>\n\nJ'ai proposé de nombreuses dates et suffisamment en avance pour envoyer les invitations.\nL'idéal serait juste après le FSC (samedi 29 avril) pour sensibiliser à nos projets :wink:\n\nLe document récapitulatif (Hackpad) est à votre disposition,\nEt n'hésitez pas à vous manifester si vous souhaitez faire partie du bureau\n<https:\/\/coglab.hackpad.com\/Assemble-Gnrale-constituante-CogLab-NeuroTechX-Paris-AozSb4Hmi6G>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ce8fbc12b73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-01-27\/3522174799_7ce8fbc12b7351a6a2b3_72.jpg",
+            "first_name": "CogLab",
+            "real_name": "CogLab NeuroTechX Paris",
+            "display_name": "coglab",
+            "team": "T03FC4NDZ",
+            "name": "coglab",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Doodle: Assemblée Générale constituante du CogLab",
+                "title_link": "https:\/\/doodle.com\/poll\/wu7bxgyqbzdiatxk",
+                "text": "Nous avons le plaisir de vous convier à l'assemblée générale ordinaire du CogLab à Paris. Ce sondage à vocation à déterminer la date. A noté que l'assemblée pourra être suivie à distance (système de visioconférence). <https:\/\/coglab.hackpad.com\/Assemble-Gnrale-constituante-CogLab-NeuroTechX-Paris-AozSb4Hmi6G>",
+                "fallback": "Doodle: Assemblée Générale constituante du CogLab",
+                "image_url": "http:\/\/doodle.com\/graphics\/static\/facebookSharingThumbnail.png",
+                "from_url": "https:\/\/doodle.com\/poll\/wu7bxgyqbzdiatxk",
+                "image_width": 300,
+                "image_height": 200,
+                "image_bytes": 6864,
+                "service_icon": "http:\/\/doodle.com\/dist\/normal\/i\/650dd6854eeca2499449e1a762978fc2.png",
+                "service_name": "Doodle",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l=kbs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here|@here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Voici un doodle pour re-planifier une date d'assemblée générale constituante pour le CogLab :\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/doodle.com\/poll\/wu7bxgyqbzdiatxk"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nJ'ai proposé de nombreuses dates et suffisamment en avance pour envoyer les invitations.\nL'idéal serait juste après le FSC (samedi 29 avril) pour sensibiliser à nos projets "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nLe document récapitulatif (Hackpad) est à votre disposition,\nEt n'hésitez pas à vous manifester si vous souhaitez faire partie du bureau\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.hackpad.com\/Assemble-Gnrale-constituante-CogLab-NeuroTechX-Paris-AozSb4Hmi6G"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

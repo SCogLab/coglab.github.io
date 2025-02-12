@@ -1,0 +1,209 @@
+[
+    {
+        "user": "U013XAZ4E58",
+        "type": "message",
+        "ts": "1590603859.016400",
+        "client_msg_id": "bef307c7-e184-49db-869e-4589dc3fc636",
+        "text": "I am in Paris",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g3dd461f5ebe",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3dd461f5ebe4a58ac3e69e2243dc508b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Alexandre Milevski",
+            "display_name": "Alexandre Milevski",
+            "team": "T03FC4NDZ",
+            "name": "alex",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1590603859.016400",
+        "reply_count": 15,
+        "reply_users_count": 3,
+        "latest_reply": "1591093692.023500",
+        "reply_users": [
+            "U59MQ46DA",
+            "U013XAZ4E58",
+            "ULSDVUUVA"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1590604050.016500"
+            },
+            {
+                "user": "U013XAZ4E58",
+                "ts": "1590604089.016700"
+            },
+            {
+                "user": "ULSDVUUVA",
+                "ts": "1590751551.017200"
+            },
+            {
+                "user": "U013XAZ4E58",
+                "ts": "1590863799.021300"
+            },
+            {
+                "user": "U013XAZ4E58",
+                "ts": "1590863805.021500"
+            },
+            {
+                "user": "ULSDVUUVA",
+                "ts": "1590864901.021700"
+            },
+            {
+                "user": "U013XAZ4E58",
+                "ts": "1591028323.021900"
+            },
+            {
+                "user": "ULSDVUUVA",
+                "ts": "1591082412.022100"
+            },
+            {
+                "user": "U013XAZ4E58",
+                "ts": "1591090107.022300"
+            },
+            {
+                "user": "U013XAZ4E58",
+                "ts": "1591090881.022500"
+            },
+            {
+                "user": "ULSDVUUVA",
+                "ts": "1591091177.022700"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1591091205.022900"
+            },
+            {
+                "user": "ULSDVUUVA",
+                "ts": "1591093487.023100"
+            },
+            {
+                "user": "U013XAZ4E58",
+                "ts": "1591093670.023300"
+            },
+            {
+                "user": "U013XAZ4E58",
+                "ts": "1591093692.023500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jtb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am in Paris"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1590604050.016500",
+        "client_msg_id": "3b4f58ac-c799-41a3-b56f-f5da843eb5c1",
+        "text": "Hello <@U013XAZ4E58> We can, maybe, make an IRL meeting (if <@ULSDVUUVA> is available) so we can present our respective projects.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1590603859.016400",
+        "parent_user_id": "U013XAZ4E58",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FpndC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U013XAZ4E58"
+                            },
+                            {
+                                "type": "text",
+                                "text": " We can, maybe, make an IRL meeting (if "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "ULSDVUUVA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is available) so we can present our respective projects."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U013XAZ4E58",
+        "type": "message",
+        "ts": "1590604089.016700",
+        "client_msg_id": "9163110b-2f4b-442e-95d5-c19882013729",
+        "text": "Would be great!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g3dd461f5ebe",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3dd461f5ebe4a58ac3e69e2243dc508b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Alexandre Milevski",
+            "display_name": "Alexandre Milevski",
+            "team": "T03FC4NDZ",
+            "name": "alex",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1590603859.016400",
+        "parent_user_id": "U013XAZ4E58",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jig3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would be great!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,149 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1614620150.002300",
+        "client_msg_id": "f028218f-483d-463d-bc67-2882ccd7f102",
+        "text": "Hello, quel sont les perspectives d'une HackNight ce soir, des personnes intéressées pour échanger ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1614620150.002300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1614628839.002600",
+        "reply_users": [
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1614628839.002600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b41",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, quel sont les perspectives d'une HackNight ce soir, des personnes intéressées pour échanger ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01PJMJD0JJ",
+        "text": "<@U01PJMJD0JJ> a rejoint le canal",
+        "type": "message",
+        "ts": "1614623632.002500",
+        "team": "T03FC4NDZ"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1614628839.002600",
+        "client_msg_id": "5470fa3f-343c-4e82-aa62-8cde2278b456",
+        "text": "Nous étions en mode informel sur Jitsy tout à l'heure, nous allons continuer les échanges en français sur <#C01JBBNSJ0M|coglab-hacknight-live>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1614620150.002300",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u80h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nous étions en mode informel sur Jitsy tout à l'heure, nous allons continuer les échanges en français sur "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C01JBBNSJ0M"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1614628876.002900",
+        "client_msg_id": "a2ef3bbd-c6df-42c1-9e2b-c140ec468bd0",
+        "text": "Nous étions en mode informel sur Jitsy tout à l'heure, nous allons continuer les échanges en français sur <#C01JBBNSJ0M|coglab-hacknight-live>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vLZZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nous étions en mode informel sur Jitsy tout à l'heure, nous allons continuer les échanges en français sur "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C01JBBNSJ0M"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

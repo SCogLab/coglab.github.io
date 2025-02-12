@@ -1,0 +1,89 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1679938183.620229",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1679938273.000000"
+        },
+        "client_msg_id": "342e69ce-2d1f-4d5f-bd10-91ba1ffbc7a7",
+        "text": "Après le film interactif <https:\/\/www.imdb.com\/title\/tt7853742\/plotsummary\/?ref_=tt_ov_pl|The moment en 2018>, utilisant des interfaces BCI's pour influer sur quelques parties du film via l'analyse des ondes cérébrales, Richard Ramchurn a produit un nouveau film interactif en utilisant cette fois-ci l'analyse des expressions faciales via un système IA de Computer Vision : <https:\/\/theconversation.com\/interactive-cinema-how-films-could-alter-plotlines-in-real-time-by-responding-to-viewers-emotions-200145>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.imdb.com\/title\/tt7853742\/plotsummary\/?ref_=tt_ov_pl",
+                "image_url": "https:\/\/m.media-amazon.com\/images\/M\/MV5BYjBlYjY4NzMtY2I5YS00MTc4LWJmMzctYjllYzk0MGFlZDhkXkEyXkFqcGdeQXVyODI5OTM4MDc@._V1_FMjpg_UX1000_.jpg",
+                "image_width": 1000,
+                "image_height": 563,
+                "image_bytes": 22398,
+                "service_icon": "https:\/\/m.media-amazon.com\/images\/G\/01\/imdb\/images-ANDW73HA\/apple-touch-icon-mobile._CB479963088_.png",
+                "id": 1,
+                "original_url": "https:\/\/www.imdb.com\/title\/tt7853742\/plotsummary\/?ref_=tt_ov_pl",
+                "fallback": "IMDb: The Moment (Short 2018) - Plot - IMDb",
+                "text": "The Moment (Short 2018) - Plot summary, synopsis, and more...",
+                "title": "The Moment (Short 2018) - Plot - IMDb",
+                "title_link": "https:\/\/www.imdb.com\/title\/tt7853742\/plotsummary\/?ref_=tt_ov_pl",
+                "service_name": "IMDb"
+            },
+            {
+                "image_url": "https:\/\/images.theconversation.com\/files\/514508\/original\/file-20230309-24-nzv160.JPG?ixlib=rb-1.1.0&rect=0%2C946%2C5987%2C2993&q=45&auto=format&w=1356&h=668&fit=crop",
+                "image_width": 1356,
+                "image_height": 668,
+                "image_bytes": 95779,
+                "from_url": "https:\/\/theconversation.com\/interactive-cinema-how-films-could-alter-plotlines-in-real-time-by-responding-to-viewers-emotions-200145",
+                "service_icon": "https:\/\/cdn.theconversation.com\/static\/tc\/@theconversation\/ui\/dist\/esm\/logos\/web-app-logo-114x114-63babb68ba1ae62de478a8e4d340e878.png",
+                "id": 2,
+                "original_url": "https:\/\/theconversation.com\/interactive-cinema-how-films-could-alter-plotlines-in-real-time-by-responding-to-viewers-emotions-200145",
+                "fallback": "The Conversation: Interactive cinema: how films could alter plotlines in real time by responding to viewers' emotions",
+                "text": "A new film changes its story based on the emotions expressed by the viewer.",
+                "title": "Interactive cinema: how films could alter plotlines in real time by responding to viewers' emotions",
+                "title_link": "https:\/\/theconversation.com\/interactive-cinema-how-films-could-alter-plotlines-in-real-time-by-responding-to-viewers-emotions-200145",
+                "service_name": "The Conversation"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/D+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Après le film interactif "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.imdb.com\/title\/tt7853742\/plotsummary\/?ref_=tt_ov_pl",
+                                "text": "The moment en 2018"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", utilisant des interfaces BCI's pour influer sur quelques parties du film via l'analyse des ondes cérébrales, Richard Ramchurn a produit un nouveau film interactif en utilisant cette fois-ci l'analyse des expressions faciales via un système IA de Computer Vision : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/theconversation.com\/interactive-cinema-how-films-could-alter-plotlines-in-real-time-by-responding-to-viewers-emotions-200145"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

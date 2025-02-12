@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1620072937.001500",
+        "client_msg_id": "7ca63622-2406-4644-b20f-677b5c6e6353",
+        "text": "Reportage BBC sur les sons binauraux : <https:\/\/www.bbc.co.uk\/taster\/pilots\/binaural-brain>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "BBC Taster",
+                "title": "Binaural Brain",
+                "title_link": "https:\/\/www.bbc.co.uk\/taster\/pilots\/binaural-brain",
+                "text": "Take an intimate trip around the inner workings of your head and explore the different areas that make up your brain. Produced in collaboration with neuroscience and mindfulness experts, Binaural Brain uses binaural audio to take you inside your mind.",
+                "fallback": "BBC Taster: Binaural Brain",
+                "image_url": "https:\/\/ichef.bbci.co.uk\/images\/ic\/1920x1080\/p09ft7rd.jpg",
+                "from_url": "https:\/\/www.bbc.co.uk\/taster\/pilots\/binaural-brain",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 82250,
+                "service_icon": "https:\/\/fxt.files.bbci.co.uk\/taster\/1462-1\/images\/Taster-256x256.png",
+                "id": 1,
+                "original_url": "https:\/\/www.bbc.co.uk\/taster\/pilots\/binaural-brain"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XHQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Reportage BBC sur les sons binauraux : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.bbc.co.uk\/taster\/pilots\/binaural-brain"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

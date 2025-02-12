@@ -1,0 +1,192 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Event cancelled: CogLab HackNight #54: <!date^1506360600^{date_short_pretty} from {time}|September 25th, 2017 from 7:30 PM> to <!date^1506375000^{time}|11:30 PM GMT+0200>",
+                "text": "<!date^1506360600^{date_short_pretty} from {time}|September 25th, 2017 from 7:30 PM> to <!date^1506375000^{time}|11:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Calendar event was cancelled",
+                "title": "CogLab HackNight #54",
+                "more": "HackNight #54\n\nOrdre du jour :\n- Team OpenBC[IA] : experimentation et prototypage (Hans &amp; Maxence)\n- Team Autispace : benchmark technique VR + protocol expérimental UX (Murielle, Isabelle, Murielle, Romain, Roselyne)\n- Workshop Resilient Cities avec Karine (Transmedia Ready)\n\nLieu : \n- Skype HackNight <https:\/\/join.skype.com\/jSrxm2kHx3PU>\n- Locaux af83 avec Romain pour ceux qui veulent (merci de prévenir avant !)\nSignalé : \n\n\nDocumentation\n- Projet BC[IA] <http:\/\/www.coglab.fr\/portfolio\/openbcia>\n- Projet Autispace <http:\/\/www.coglab.fr\/portfolio\/autispace\/>\n\nInteractions :\n- Agenda CogLab <https:\/\/paper.dropbox.com\/doc\/Agenda-CogLab-NeuroTechX-Paris-a6pJbEvbJvWdJ3fHeF9JJ>\n- Slack : <https:\/\/scoglab.slack.com>\n- Communauté Facebook : <https:\/\/www.facebook.com\/groups\/coglab\/>\n- Twitter : <https:\/\/twitter.com\/SCogLab>\n- Site web : <http:\/\/coglab.fr\/>",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MWFqNmlhdTgwaWMyaGpycHBpdTAwcW11MG1fMjAxNzA5MjVUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1506282910.000027",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1506283227.000097",
+        "text": "Hello <@U59MQ46DA> <@U6N3TJ0QM> <@U5JBN3M8Q> <@U03FEH3N8> \n\nJe ne pourrais *exceptionnellement pas assurer la permanence* de la HackNight prévue *demain soir*, je ne serais pas au bureau étant malade :face_with_thermometer: :sleeping: :neutral_face:\n\nJe reste joignable numériquement pour répondre à d'éventuelles besoins\n\nRDV lundi prochain, le 2 octobre, lieu et horaire habituel pour la HackNight N°55 !\n\nBonne semaine à tous",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TMG6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U6N3TJ0QM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U5JBN3M8Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nJe ne pourrais "
+                            },
+                            {
+                                "type": "text",
+                                "text": "exceptionnellement pas assurer la permanence",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " de la HackNight prévue "
+                            },
+                            {
+                                "type": "text",
+                                "text": "demain soir",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", je ne serais pas au bureau étant malade "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_thermometer",
+                                "unicode": "1f912"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sleeping",
+                                "unicode": "1f634"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "neutral_face",
+                                "unicode": "1f610"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nJe reste joignable numériquement pour répondre à d'éventuelles besoins\n\nRDV lundi prochain, le 2 octobre, lieu et horaire habituel pour la HackNight N°55 !\n\nBonne semaine à tous"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pill",
+                "users": [
+                    "U03FEH3N8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U6N3TJ0QM",
+        "type": "message",
+        "ts": "1506283698.000040",
+        "text": "ok!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gf97b64003f8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1f97b64003f820d41fe93839432d7aac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Maxence",
+            "real_name": "Maxence Dolle",
+            "display_name": "Maxence Dolle",
+            "team": "T03FC4NDZ",
+            "name": "maxenced",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2sx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

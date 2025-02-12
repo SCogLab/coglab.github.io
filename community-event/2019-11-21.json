@@ -1,0 +1,67 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1574341988.000700",
+        "client_msg_id": "fb4bd7bb-fe14-40a5-a0a1-b515ffebf88f",
+        "text": "Christophe m'a répondu qu'il fera une conférence WebXR pour l'Open Source Summit de paris le 11 décembre : <https:\/\/www.opensourcesummit.paris>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573910307.000500",
+        "parent_user_id": "U59MQ46DA",
+        "attachments": [
+            {
+                "text": "Paris Open Source Summit, 1er événement européen Libre et Open Source, est le fruit de la fusion de Solutions Linux et de l’Open World Forum, deux événements emblématiques du Libre et de l’Open Source.",
+                "fallback": "Paris Open Source Summit, 1er événement européen Libre et Open Source, est le fruit de la fusion de Solutions Linux et de l’Open World Forum, deux événements emblématiques du Libre et de l’Open Source.",
+                "from_url": "https:\/\/www.opensourcesummit.paris\/",
+                "service_icon": "https:\/\/www.opensourcesummit.paris\/linux\/images\/favicon.ico",
+                "service_name": "opensourcesummit.paris",
+                "id": 1,
+                "original_url": "https:\/\/www.opensourcesummit.paris"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B05",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Christophe m'a répondu qu'il fera une conférence WebXR pour l'Open Source Summit de paris le 11 décembre : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.opensourcesummit.paris"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK",
+                    "ULSDVUUVA"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

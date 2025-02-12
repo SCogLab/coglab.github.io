@@ -1,0 +1,75 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1587296201.007400",
+        "client_msg_id": "a4a30c01-779b-437d-972a-b22dd3bbf790",
+        "text": "Lundi de 18h à 22h\n<https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/270123154\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1587140553.007300",
+        "parent_user_id": "U0129CJ7P9P",
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Online HackNight CogLab, NeuroTechX Paris N°144",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/270123154\/",
+                "text": "lun. 20 avr. 2020 à 18:00: (English version available below)#Présentation des HackNightsLes HackNight de l'association CogLab, NeuroTechX Paris sont des soirées hebdomadaires conviviales, dédiées aux",
+                "fallback": "Meetup: Online HackNight CogLab, NeuroTechX Paris N°144",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/3\/b\/4\/a\/600_490035178.jpeg",
+                "fields": [
+                    {
+                        "title": "Où",
+                        "value": "Online event",
+                        "short": true
+                    },
+                    {
+                        "title": "Quand",
+                        "value": "lun. 20 avr. 2020 à 18:00",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/270123154\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 68154,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/fr-FR\/m_swarm_120x120.4f86abc9.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/270123154\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U=OV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lundi de 18h à 22h\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/270123154\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,168 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1594057715.064400",
+        "client_msg_id": "37865487-ea61-4b49-ad93-70d4f46db3ef",
+        "text": "Une synthèse des 4 prochains <#C03UHNB2H|community-event> orienté neurotech dans les 2 prochaines semaines, évoqué pendant notre <#C0R6W4X2Q|coglab-hacknight> ce soir :\n• KCNI Summer School, 6-10 July <https:\/\/kcnischool.org\/> \n• NeurotechGaming 2020 conference, July 18 &amp; 19 <https:\/\/www.eventbrite.com\/e\/neurotechgaming-2020-conference-connecting-your-brain-to-video-games-tickets-109018599566>\n• NEUROTECH CUP 2020, October 7-11 (project submission on July 15) <https:\/\/neurotechcup.com\/en> \n• BrainWeb, July 15 <https:\/\/brain-web.github.io\/> ",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Eventbrite",
+                "title": "NeurotechGaming 2020 conference: Connecting your brain to video games",
+                "title_link": "https:\/\/www.eventbrite.com\/e\/neurotechgaming-2020-conference-connecting-your-brain-to-video-games-tickets-109018599566",
+                "text": "What if you could connect your brain and body to a video game? Join leaders from the gaming and neurotech industries to find out more",
+                "fallback": "Eventbrite: NeurotechGaming 2020 conference: Connecting your brain to video games",
+                "image_url": "https:\/\/img.evbuc.com\/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F105376536%2F452378271452%2F1%2Foriginal.20200706-010153?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C1%2C1278%2C639&s=aeafd2a63c5dbd0fd12098542e61e0f1",
+                "from_url": "https:\/\/www.eventbrite.com\/e\/neurotechgaming-2020-conference-connecting-your-brain-to-video-games-tickets-109018599566",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 94119,
+                "service_icon": "https:\/\/cdn.evbstatic.com\/s3-build\/perm_001\/eba891\/django\/images\/touch_icons\/apple-touch-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.eventbrite.com\/e\/neurotechgaming-2020-conference-connecting-your-brain-to-video-games-tickets-109018599566"
+            },
+            {
+                "title": "NeuroTech CUP",
+                "title_link": "https:\/\/neurotechcup.com\/en",
+                "text": "NEUROTECH CUP 2020 - International Projects Competition for Young Researchers and Engineers in the Field of Neurotechnology and Artificial Intelligence",
+                "fallback": "NeuroTech CUP",
+                "image_url": "https:\/\/static.tildacdn.com\/tild6562-3562-4038-b231-336364376530\/2_1.jpg",
+                "from_url": "https:\/\/neurotechcup.com\/en",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 191714,
+                "service_icon": "https:\/\/static.tildacdn.com\/tild3931-3630-4165-b464-393333653439\/favicon1521.png",
+                "service_name": "neurotechcup.com",
+                "id": 2,
+                "original_url": "https:\/\/neurotechcup.com\/en"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3\/gRE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Une synthèse des 4 prochains "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03UHNB2H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " orienté neurotech dans les 2 prochaines semaines, évoqué pendant notre "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0R6W4X2Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ce soir :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "KCNI Summer School, 6-10 July "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/kcnischool.org\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "NeurotechGaming 2020 conference, July 18 & 19 "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.eventbrite.com\/e\/neurotechgaming-2020-conference-connecting-your-brain-to-video-games-tickets-109018599566"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "NEUROTECH CUP 2020, October 7-11 (project submission on July 15) "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/neurotechcup.com\/en"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "BrainWeb, July 15 "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/brain-web.github.io\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6EPG5PTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

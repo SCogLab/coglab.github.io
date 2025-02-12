@@ -1,0 +1,25 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: FSC 2021: <!date^1618056000^{date_short_pretty} from {time}|April 10th, 2021 from 2:00 PM> to <!date^1618761600^{date_short_pretty} at {time}|April 18th, 2021 at 6:00 PM GMT+0200>",
+                "text": "<!date^1618056000^{date_short_pretty} from {time}|April 10th, 2021 from 2:00 PM> to <!date^1618761600^{date_short_pretty} at {time}|April 18th, 2021 at 6:00 PM GMT+0200>",
+                "pretext": "New calendar event created",
+                "title": "FSC 2021",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NXVlMDd1MGZnajkwajYzbGJydmN1aG05MW4gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1609944965.000200",
+        "bot_id": "B4SJBP2L8"
+    }
+]

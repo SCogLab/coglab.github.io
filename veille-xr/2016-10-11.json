@@ -1,0 +1,99 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1476203595.000002",
+        "text": "Joli projet, adapté d’une BD\/Roman Graphique\ncc <@U03FEH3N8> <@U0AR01SPQ> <@U0Z7LQQS2> :slightly_smiling_face:\n<http:\/\/creative.arte.tv\/fr\/article\/sens-vr>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ARTE Creative",
+                "title": "S.E.N.S VR | ARTE Creative",
+                "title_link": "http:\/\/creative.arte.tv\/fr\/article\/sens-vr",
+                "text": "Le premier jeu vidéo en réalité virtuelle adapté d’une bande dessinée. Suivez les flèches pour découvrir le sens de la vie. À partir de la rentrée sur",
+                "fallback": "ARTE Creative: S.E.N.S VR | ARTE Creative",
+                "thumb_url": "http:\/\/creative.arte.tv\/sites\/default\/files\/styles\/foundation_seo_social_image\/public\/atoms\/image\/opa\/067306-000-SPHO-003.PNG?itok=D011kpS8",
+                "from_url": "http:\/\/creative.arte.tv\/fr\/article\/sens-vr",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "http:\/\/creative.arte.tv\/profiles\/foundation\/modules\/features\/foundation_seo\/assets\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XMTjg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Joli projet, adapté d’une BD\/Roman Graphique\ncc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0AR01SPQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0Z7LQQS2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/creative.arte.tv\/fr\/article\/sens-vr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FEH3N8",
+        "text": "<@U03FEH3N8> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1476203600.000004"
+    }
+]

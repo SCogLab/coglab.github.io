@@ -1,0 +1,54 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1463605447.000002",
+        "text": "<http:\/\/www.slate.fr\/story\/118203\/realite-virtuelle-lapin-geant>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Slate.fr",
+                "title": "Grâce à la réalité virtuelle, je me suis transformé en lapin géant dans un film d’animation",
+                "title_link": "http:\/\/www.slate.fr\/story\/118203\/realite-virtuelle-lapin-geant",
+                "text": "Le coréalisateur de la saga «Madagascar» revient avec un projet qu’il souhaite révolutionnaire: un film d’animation en réalité virtuelle.",
+                "fallback": "Slate.fr: Grâce à la réalité virtuelle, je me suis transformé en lapin géant dans un film d’animation",
+                "image_url": "http:\/\/www.slate.fr\/sites\/default\/files\/styles\/1090x500\/public\/lapin_ok.jpg",
+                "from_url": "http:\/\/www.slate.fr\/story\/118203\/realite-virtuelle-lapin-geant",
+                "image_width": 545,
+                "image_height": 250,
+                "image_bytes": 84639,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BKl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.slate.fr\/story\/118203\/realite-virtuelle-lapin-geant"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

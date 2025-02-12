@@ -1,0 +1,192 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U03FC5ZAK",
+        "text": "<@U03FC5ZAK> a rejoint le canal",
+        "type": "message",
+        "ts": "1556479989.000200"
+    },
+    {
+        "subtype": "channel_unarchive",
+        "user": "U03FC5ZAK",
+        "text": "a désarchivé le canal",
+        "type": "message",
+        "ts": "1556479989.000300"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U59MQ46DA",
+        "text": "<@U59MQ46DA> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1556480026.000500"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "UGBFU7HGQ",
+        "text": "<@UGBFU7HGQ> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1556480026.000700"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FEH3N8",
+        "text": "<@U03FEH3N8> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1556480026.000900"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U5JBN3M8Q",
+        "text": "<@U5JBN3M8Q> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1556480026.001100"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1556480405.002900",
+        "client_msg_id": "bb447892-9162-43b6-a097-f53c28c6bc77",
+        "text": "<!here> Prochaine soirée HackNight demain soir (lundi 29 avril) chez af83\nQui sera présent ? Réagi avec :white_check_mark: ou :x:\nN'hésite pas à indiquer ce que tu veux faire dans un thread :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556480405.002900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1556517774.003700",
+        "reply_users": [
+            "U03FEH3N8"
+        ],
+        "replies": [
+            {
+                "user": "U03FEH3N8",
+                "ts": "1556517774.003700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xiO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Prochaine soirée HackNight demain soir (lundi 29 avril) chez af83\nQui sera présent ? Réagi avec "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark",
+                                "unicode": "2705"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ou "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "x",
+                                "unicode": "274c"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nN'hésite pas à indiquer ce que tu veux faire dans un thread "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03FC5ZAK",
+                    "U59MQ46DA",
+                    "U03FEH3N8"
+                ],
+                "count": 3
+            },
+            {
+                "name": "x",
+                "users": [
+                    "U03FC5ZAK",
+                    "U0FB4KME0"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1556517774.003700",
+        "client_msg_id": "39f1f164-13f8-45b0-accd-36b2653b744d",
+        "text": "en parrallel derrirère mon ordi :white_check_mark:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556480405.002900",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T7Z=a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "en parrallel derrirère mon ordi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark",
+                                "unicode": "2705"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

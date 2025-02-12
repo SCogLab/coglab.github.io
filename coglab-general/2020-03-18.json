@@ -1,0 +1,75 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1584557963.015400",
+        "client_msg_id": "959a3593-c362-41de-b46e-e83664e1767f",
+        "text": "La nouvelle date du Forum des Sciences Cognitive est définie au dimanche 14 juin, si tout vas bien",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/WVp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La nouvelle date du Forum des Sciences Cognitive est définie au dimanche 14 juin, si tout vas bien"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card Hackathon OpenBCI Belgique added to list ÉVÉNEMENTS internes à venir on board Activités CogLab (public).",
+                "text": "In list *ÉVÉNEMENTS internes à venir* on *<https:\/\/trello.com\/b\/NFHS3ZPa|Activités CogLab (public)>*.",
+                "pretext": "New card created",
+                "title": "Hackathon OpenBCI Belgique",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/vshTVFtw",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "https:\/\/trello-members.s3.amazonaws.com\/50080b67614e7d5e0528a0d3\/862fb75f8484e0f5c02f7d7006c4b228\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1584567471.015500",
+        "bot_id": "B66HQV43C",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6EPG5PTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

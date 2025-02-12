@@ -1,0 +1,171 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Assemblée Générale Extraordinaire CogLab: <!date^1523554200^{date_short_pretty} from {time}|April 12th, 2018 from 7:30 PM> to <!date^1523557800^{time}|8:30 PM GMT+0200>",
+                "text": "<!date^1523554200^{date_short_pretty} from {time}|April 12th, 2018 from 7:30 PM> to <!date^1523557800^{time}|8:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Paris%2C+France|Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "Assemblée Générale Extraordinaire CogLab",
+                "more": "&lt;br&gt;Bonjour le Conseil d'Administration CogLab&lt;br&gt;&lt;br&gt;Je vous invite le 12 avril pour une AGE très rapide de 19h30 à 20h30 max en visioconférence, afin de désamorcer quelques points administratifs aujourd'hui bloquant pour l'association.&lt;br&gt;Notamment autoriser le président et la secrétaire à accéder au compte-bancaire pour la banque, élément qui n’apparaît pas dans les statuts, ni le PV de l'AG.&lt;br&gt;&lt;br&gt;Merci de confirmer votre présence au plus vite, ou à défaut, conformément aux statuts, vous avez la possibilité de vous faire représenter par l’adhérent de votre choix en lui donnant le pouvoir dûment rempli et signé afin de respecter le quorum pour le vote.&lt;br&gt;&lt;br&gt;Ordre du Jour :&lt;br&gt;&lt;br&gt;- Vote pour autorisation d'accès au compte-bancaire pour la banque&lt;br&gt;- Etat des lieux de l'association et stratégie 2018&lt;br&gt;- Point outil et lieu de l'association&lt;br&gt;- Planification de l'Assemblée Générale 2018&lt;br&gt;- Questions diverses&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;J'en profite pour vous signaler les prochains événements&lt;br&gt;(tous listé ouvertement sur Trello&amp;nbsp;&lt;a href=\"<https:\/\/trello.com\/b\/NFHS3ZPa\/activit%C3%A9s>\"&gt;https:\/\/trello.com\/b\/NFHS3ZPa\/activit%C3%A9s&lt;\/a&gt;)&lt;br&gt;&lt;ul&gt;&lt;li&gt;Nous organisons un petit dîner ce soir chez mois avec les membres régulier des hacknights (tous les lundi soir).&lt;br&gt;&lt;\/li&gt;&lt;li&gt;C'est la semaine de l'autisme, d'aujourd'hui à samedi 7 avril&lt;br&gt;&lt;\/li&gt;&lt;li&gt;Dimanche 8 avril, on vous donne RDV au Forum des Sciences Cognitives à la Cité des Sciences ! Nous tiendrons un stand comme chaque année.&lt;br&gt;&lt;\/li&gt;&lt;li&gt;Prochaine HackNight prévue le 9 avril, juste après le FSC !&lt;br&gt;&lt;\/li&gt;&lt;li&gt;AGE le 12 avril à 19h30&lt;\/li&gt;&lt;\/ul&gt;&lt;br&gt;&lt;br&gt;A très bientôt&lt;br&gt;Romain ROUYER, président de l'association CogLab, NeuroTechX Paris",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MGlnMGh2aGZibXZlcDk2M2pxMWttaXA2cDQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1523550600.000876",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1523551085.000265",
+        "client_msg_id": "1848a8e7-d88f-415d-8293-c1112857289f",
+        "text": "Voici le lien vers la visioconférence pour l'AGE (pas besoin de compte)\n<https:\/\/join.skype.com\/sGI9da1oYmYw>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Join conversation",
+                "title_link": "https:\/\/join.skype.com\/sGI9da1oYmYw",
+                "fallback": "Join conversation",
+                "image_url": "https:\/\/join.secure.skypeassets.com\/static\/13.59\/images\/icons\/opengraph_image.png",
+                "image_width": 250,
+                "image_height": 250,
+                "from_url": "https:\/\/join.skype.com\/sGI9da1oYmYw",
+                "image_bytes": 28276,
+                "service_name": "join.skype.com",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1x9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Voici le lien vers la visioconférence pour l'AGE (pas besoin de compte)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/join.skype.com\/sGI9da1oYmYw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: Assemblée Générale CogLab #2: <!date^1525368600^{date_short_pretty} from {time}|May 3rd, 2018 from 7:30 PM> to <!date^1525375800^{time}|9:30 PM GMT+0200>",
+                "text": "<!date^1525368600^{date_short_pretty} from {time}|May 3rd, 2018 from 7:30 PM> to <!date^1525375800^{time}|9:30 PM GMT+0200>",
+                "pretext": "New calendar event created",
+                "title": "Assemblée Générale CogLab #2",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Mzg5ODVkYmpxbjR1OHBtYWcwbGM3c3F2b2Igc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1523562187.000047",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1523568843.000041",
+        "text": "Pour info, tous les conférences filmées en live au Forum des Sciences Cognitives dimanche dernier sont disponible sur la page Facebook <https:\/\/www.facebook.com\/ForumDesSciencesCognitives\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Forum Des Sciences Cognitives",
+                "title_link": "https:\/\/www.facebook.com\/ForumDesSciencesCognitives\/",
+                "text": "Forum Des Sciences Cognitives. 2,078 likes · 825 talking about this. Forum autour des Sciences Cognitives rassemblant chaque années près de 2000 passionnés, chercheurs, néophytes et curieux.",
+                "fallback": "Forum Des Sciences Cognitives",
+                "from_url": "https:\/\/www.facebook.com\/ForumDesSciencesCognitives\/",
+                "thumb_url": "https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t1.0-1\/p200x200\/27657471_2022923561081660_4323731003219066243_n.jpg?_nc_cat=0&oh=48d789e95ffd9e3542a58e362e292f0b&oe=5B636985",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/yz\/r\/KFyVIAWzntM.ico",
+                "service_name": "facebook.com",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p58g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour info, tous les conférences filmées en live au Forum des Sciences Cognitives dimanche dernier sont disponible sur la page Facebook "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.facebook.com\/ForumDesSciencesCognitives\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

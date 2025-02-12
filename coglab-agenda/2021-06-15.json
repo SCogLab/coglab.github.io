@@ -1,0 +1,88 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CogLabOFF - Expo Palais Augmenté: <!date^1624194000^{date_short_pretty} from {time}|June 20th, 2021 from 3:00 PM> to <!date^1624199400^{time}|4:30 PM GMT+0200>",
+                "text": "<!date^1624194000^{date_short_pretty} from {time}|June 20th, 2021 from 3:00 PM> to <!date^1624199400^{time}|4:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Grand+Palais+%C3%89ph%C3%A9m%C3%A8re%2C+Avenue+Pierre+Loti%2C+75007+Paris%2C+France|Grand Palais Éphémère, Avenue Pierre Loti, 75007 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "CogLabOFF - Expo Palais Augmenté",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MTE1cnFsczVrZWo0YTMzOTRnbjBzYjMzYzAgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1623763932.000800",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: Projet InnerCosmos - Atelier de travail: <!date^1625488200^{date_short_pretty} from {time}|July 5th, 2021 from 2:30 PM> to <!date^1625499000^{time}|5:30 PM GMT+0200>",
+                "text": "<!date^1625488200^{date_short_pretty} from {time}|July 5th, 2021 from 2:30 PM> to <!date^1625499000^{time}|5:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=8+Rue+Godillot%2C+93400+Saint-Ouen%2C+France|8 Rue Godillot, 93400 Saint-Ouen, France>",
+                "pretext": "Calendar event updated",
+                "title": "Projet InnerCosmos - Atelier de travail",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NnBpbThvYjU2NWdqY2I5amNncW1hYjlrNzByNmFiYjFjZGdqZWI5bjZ0aWo2YzFqNzBwamFvcHA2OCBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1623765733.000900",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "channel_topic",
+        "user": "U03FC5ZAK",
+        "topic": "Agenda officiel de l’association. Un bot signale ici automatiquement chaque mises à jours. Le flux .ics est accessible auprès de nos membre adhérents.",
+        "text": "a défini le thème du canal : Agenda officiel de l’association. Un bot signale ici automatiquement chaque mises à jours. Le flux .ics est accessible auprès de nos membre adhérents.",
+        "type": "message",
+        "ts": "1623766921.001000"
+    },
+    {
+        "subtype": "channel_topic",
+        "user": "U03FC5ZAK",
+        "topic": "Agenda officiel de l’association. Un bot signale ici automatiquement chaque mises à jours. Le flux .ics est accessible auprès de nos membre adhérents.\n\nPlus d’info sur <https:\/\/coglab.fr\/agenda\/>",
+        "text": "a défini le thème du canal : Agenda officiel de l’association. Un bot signale ici automatiquement chaque mises à jours. Le flux .ics est accessible auprès de nos membre adhérents.\n\nPlus d’info sur <https:\/\/coglab.fr\/agenda\/>",
+        "type": "message",
+        "ts": "1623766947.001100"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "AG Fresco: <!date^1623780000^{date_short_pretty} from {time}|June 15th, 2021 from 8:00 PM> to <!date^1623787200^{time}|10:00 PM GMT+0200>",
+                "text": "<!date^1623780000^{date_short_pretty} from {time}|June 15th, 2021 from 8:00 PM> to <!date^1623787200^{time}|10:00 PM GMT+0200>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "AG Fresco",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NmNwMzhlMzJjOWdtNGJiMTcwcGowYjlrNnBpamNiOW9ja3FtMmJiMjcwczY0ZGhuNjBzNmNjMzY2ZyBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1623776404.001200",
+        "bot_id": "B4SJBP2L8"
+    }
+]

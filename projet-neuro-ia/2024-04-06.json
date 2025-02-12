@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U01804NJ7AQ",
+        "type": "message",
+        "ts": "1712411493.173009",
+        "client_msg_id": "5F679BEA-75D4-403F-BE4C-781DC080FC0B",
+        "text": "<https:\/\/arxiv.org\/abs\/2404.03325|https:\/\/arxiv.org\/abs\/2404.03325>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g7080a90c528",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7080a90c528526f8129488e607562782.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Morgan Hough",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "morgan.hough",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/arxiv.org\/abs\/2404.03325",
+                "service_icon": "https:\/\/arxiv.org\/static\/browse\/0.3.4\/images\/icons\/apple-touch-icon.png",
+                "thumb_url": "https:\/\/arxiv.org\/static\/browse\/0.3.4\/images\/arxiv-logo-fb.png",
+                "thumb_width": 1200,
+                "thumb_height": 700,
+                "id": 1,
+                "original_url": "https:\/\/arxiv.org\/abs\/2404.03325",
+                "fallback": "arXiv.org: Embodied Neuromorphic Artificial Intelligence for Robotics: Perspectives, Challenges, and Research Development Stack",
+                "text": "Robotic technologies have been an indispensable part for improving human productivity since they have been helping humans in completing diverse, complex, and intensive tasks in a fast yet accurate and efficient way. Therefore, robotic technologies have been deployed in a wide range of applications, ranging from personal to industrial use-cases. However, current robotic technologies and their computing paradigm still lack embodied intelligence to efficiently interact with operational environments, respond with correct\/expected actions, and adapt to changes in the environments. Toward this, recent advances in neuromorphic computing with Spiking Neural Networks (SNN) have demonstrated the potential to enable the embodied intelligence for robotics through bio-plausible computing paradigm that mimics how the biological brain works, known as \"neuromorphic artificial intelligence (AI)\". However, the field of neuromorphic AI-based robotics is still at an early stage, therefore its development and deployment for solving real-world problems expose new challenges in different design aspects, such as accuracy, adaptability, efficiency, reliability, and security. To address these challenges, this paper will discuss how we can enable embodied neuromorphic AI for robotic systems through our perspectives: (P1) Embodied intelligence based on effective learning rule, training mechanism, and adaptability; (P2) Cross-layer optimizations for energy-efficient neuromorphic computing; (P3) Representative and fair benchmarks; (P4) Low-cost reliability and safety enhancements; (P5) Security and privacy for neuromorphic computing; and (P6) A synergistic development for energy-efficient and robust neuromorphic-based robotics. Furthermore, this paper identifies research challenges and opportunities, as well as elaborates our vision for future research development toward embodied neuromorphic AI for robotics.",
+                "title": "Embodied Neuromorphic Artificial Intelligence for Robotics: Perspectives, Challenges, and Research Development Stack",
+                "title_link": "https:\/\/arxiv.org\/abs\/2404.03325",
+                "service_name": "arXiv.org"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PhMBB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/arxiv.org\/abs\/2404.03325",
+                                "text": "https:\/\/arxiv.org\/abs\/2404.03325"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

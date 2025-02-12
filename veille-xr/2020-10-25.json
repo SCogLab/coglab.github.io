@@ -1,0 +1,70 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1603623612.001800",
+        "client_msg_id": "9c2fe174-525f-4d0c-b4ae-51dde38936ca",
+        "text": "Par deux développeurs de Montreuil (société <http:\/\/initml.co|initml.co>) : <https:\/\/clipdrop.co>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "ClipDrop (AR Copy Paste)",
+                "title_link": "https:\/\/clipdrop.co\/",
+                "text": "The quickest way to capture and transfer anything around you.",
+                "fallback": "ClipDrop (AR Copy Paste)",
+                "image_url": "http:\/\/clipdrop.co\/public\/preview.jpg",
+                "from_url": "https:\/\/clipdrop.co\/",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 152653,
+                "service_icon": "https:\/\/clipdrop.co\/favicon.ico",
+                "service_name": "clipdrop.co",
+                "id": 1,
+                "original_url": "https:\/\/clipdrop.co"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ECikY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Par deux développeurs de Montreuil (société "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/initml.co",
+                                "text": "initml.co"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/clipdrop.co"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

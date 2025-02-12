@@ -1,0 +1,55 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1445862355.000002",
+        "text": "<http:\/\/techcrunch.com\/2015\/10\/19\/stanford-researchers-treat-autism-with-google-glass\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "TechCrunch",
+                "service_url": "http:\/\/techcrunch.com",
+                "title": "Stanford Researchers Treat Autism With Google Glass",
+                "title_link": "http:\/\/techcrunch.com\/2015\/10\/19\/stanford-researchers-treat-autism-with-google-glass\/",
+                "author_name": "Nitish Kulkarni",
+                "thumb_url": "https:\/\/i0.wp.com\/tctechcrunch2011.files.wordpress.com\/2015\/10\/screen_shot_2015-10-16_at_3-20-55_pm11.png?fit=200%2C150",
+                "thumb_width": 171,
+                "thumb_height": 150,
+                "text": "As Google retools its Glass experiment, researchers at Stanford are using the device to help autistic children recognize and classify emotions.\nIn a small office buried inside an administrative building at Stanford, Catalin Voss and Nick Haber are pairing face-tracking technology with machine learning to build at-home treatments for autism. The Autism Glass Project, a part of the Wall Lab in the Stanford School of Medicine, launches the second phase of its study Monday morning.\nThe software uses machine learning for feature extraction, to detect what Voss calls ‘action units’ from faces.\n\n<http:\/\/autismglass.stanford.edu\/assets\/glass_demo_1.mp4>\nThe project’s second phase is a 100-child study to investigate the system’s viability as an at-home autism treatment. The Autism Glass Project’s software classifies emotions in faces that the device is pointed at, and instantly gives users a read on the face’s expression.\nUsing images to translate emotions for children is only the first hurdle to cross, though. The bigger issue the team faced was ensuring the device’s use led to measurable learning when the children were no longer on the device.\n“We didn’t want this to be a prosthesis,” emphasized Haber.\nIn an effort to understand this off-device learning, the team launched the project’s first phase last year, which involved 40 studies and was conducted in the lab. Initially, the study was constrained because the Wall Lab only had access to one Google Glass device, but this changed when Google donated 35 more devices and the Packard Foundation donated a $379,408 grant to the project in early June this year.\n\nAfter studying the interaction between children and computer screens, the team set out to design a second phase that would allow children to “interact with their surrounding,” Voss said. The team settled on a game developed by MIT’s Media Lab called “Capture the Smile.”\nIn the game, children wear Glass and search for individuals with a specific emotion on their faces. By monitoring performance in this game as well as combining video analysis and questionnaires, ‘quantitative phenotype’ of Autism can be built for each study participant, providing a mathematical observation of the physical manifestations of their autism.\nThe team monitors performance in the game and combines their analysis with video analysis and parental questionnaires to build a ‘quantitative phenotype’ of Autism for each participant in the study. By tracking this over time, the team can show how their device helps improve emotion recognition over the long term.\nThe second phase of the study will last several months, and the Autism Glass Project’s unique technology will allow increased parental involvement in the treatment process.\n“You can start to ask questions, of the percentage of time that the child is talking to his mom, how much is the child looking at her?” said Voss.\nAlthough the study only requires children to wear the Google Glass device for three 20-minute periods each day, analyzing what the children are looking at will help the Wall Lab’s researchers develop a better understanding of how visual engagement plays a role in the emotion detection process.\n\nAs massive as the second phase of the project is, it is only the first of many steps for Voss and his team. Wall explained the researchers need to gather clinical data and obtain a code from the American Medical Association before the therapy can become reimbursable, and therefore widespread.\nWall hopes that if the technology is validated for widespread clinical use, the team will achieve his goal of widening the bottleneck for autism treatment. Although the current study only has 100 participants, future work will allow for the team to improve their software and techniques with an ever-widening data set that will be the first of its kind. The project is accepting applications to join the program through their website starting today.\nThough the technology may not be widespread yet, it already has been featured in a book series about an autistic superhero. In the second book in the “Trueman Bradley” series by Alexei Russell, the protagonist receives a set of glasses that let him ‘see’ emotions – a powerful tribute to Voss, Haber, and team.\n“If you think about it,” Voss said, “what we’re doing is giving children with autism superpowers.”",
+                "fallback": "TechCrunch Link: Stanford Researchers Treat Autism With Google&nbsp;Glass",
+                "from_url": "http:\/\/techcrunch.com\/2015\/10\/19\/stanford-researchers-treat-autism-with-google-glass\/",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cpd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/techcrunch.com\/2015\/10\/19\/stanford-researchers-treat-autism-with-google-glass\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

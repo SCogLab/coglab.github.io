@@ -1,0 +1,53 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "Romain ROUYER commented on Préparer AG 2020: \"Date proposée : samedi 3 octobre 2020 de 14 à 16h\"",
+                "text": "Date proposée : samedi 3 octobre 2020 de 14 à 16h",
+                "pretext": "New comment on *<https:\/\/trello.com\/c\/W11yUhwF|Préparer AG 2020>*",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "https:\/\/trello-members.s3.amazonaws.com\/50080b67614e7d5e0528a0d3\/8702436e6aff83ed056cbc687384d49f\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1600292595.004400",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "fallback": "Romain ROUYER attached Deck CogLab AG 2020.png to card Préparer AG 2020.",
+                "image_url": "https:\/\/trello-attachments.s3.amazonaws.com\/5afc8506af3549d5e5758bd3\/600x338\/9e046e80c292fe87468612318eac531e\/Deck_CogLab_AG_2020.png",
+                "image_width": 600,
+                "image_height": 338,
+                "image_bytes": 166651,
+                "author_name": "Romain ROUYER",
+                "pretext": "Attached *<https:\/\/trello-attachments.s3.amazonaws.com\/54600179bf0163b52abc2ebc\/5afc8506af3549d5e5758bd3\/59106fb491aaa5c533fd821704ec374f\/Deck_CogLab_AG_2020.png|Deck CogLab AG 2020.png>* to *<https:\/\/trello.com\/c\/W11yUhwF|Préparer AG 2020>*.",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "https:\/\/trello-members.s3.amazonaws.com\/50080b67614e7d5e0528a0d3\/8702436e6aff83ed056cbc687384d49f\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1600292598.004500",
+        "bot_id": "B66HQV43C"
+    }
+]

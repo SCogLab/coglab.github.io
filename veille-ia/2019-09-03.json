@@ -1,0 +1,139 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1567509135.001000",
+        "client_msg_id": "e8ea051d-3f46-4eb9-b7f6-f31617d9cef2",
+        "text": "<@U03FC5ZAK> L’application chinoise de générations de deepfakes dont je te parlais hier : <https:\/\/www.frandroid.com\/android\/applications\/619790_zao-face-swap-bluffant-et-soucis-de-vie-privee-pour-cette-application-chinoise>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "FrAndroid",
+                "title": "Zao : face swap bluffant et soucis de vie privée pour cette application chinoise - FrAndroid",
+                "title_link": "https:\/\/www.frandroid.com\/android\/applications\/619790_zao-face-swap-bluffant-et-soucis-de-vie-privee-pour-cette-application-chinoise",
+                "text": "Le face swap consiste à remplacer un visage par un autre sur une photo ou une vidéo. Certains algorithmes sont capables de le faire de manière automatique",
+                "fallback": "FrAndroid: Zao : face swap bluffant et soucis de vie privée pour cette application chinoise - FrAndroid",
+                "image_url": "https:\/\/images.frandroid.com\/wp-content\/uploads\/2019\/09\/zao.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "ts": 1567440901,
+                "from_url": "https:\/\/www.frandroid.com\/android\/applications\/619790_zao-face-swap-bluffant-et-soucis-de-vie-privee-pour-cette-application-chinoise",
+                "image_bytes": 351963,
+                "service_icon": "https:\/\/www.frandroid.com\/wp-content\/themes\/humanoid-redesign\/assets\/images\/frandroid\/frandroid-512.png",
+                "id": 1,
+                "original_url": "https:\/\/www.frandroid.com\/android\/applications\/619790_zao-face-swap-bluffant-et-soucis-de-vie-privee-pour-cette-application-chinoise"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jay4t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " L’application chinoise de générations de deepfakes dont je te parlais hier : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.frandroid.com\/android\/applications\/619790_zao-face-swap-bluffant-et-soucis-de-vie-privee-pour-cette-application-chinoise"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1567546580.001800",
+        "client_msg_id": "d1a18e48-57b9-40de-b958-b3799f2b8d22",
+        "text": "Une version open source en Python sur github (rajouté dan IATools) : <https:\/\/github.com\/iperov\/DeepFaceLab>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "iperov\/DeepFaceLab",
+                "text": "DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md).",
+                "title": "iperov\/DeepFaceLab",
+                "footer": "<https:\/\/github.com\/iperov\/DeepFaceLab|iperov\/DeepFaceLab>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1528117800,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "7499",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "Python",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "BA73T1BTJ",
+                "app_unfurl_url": "https:\/\/github.com\/iperov\/DeepFaceLab",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eedl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Une version open source en Python sur github (rajouté dan IATools) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/iperov\/DeepFaceLab"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

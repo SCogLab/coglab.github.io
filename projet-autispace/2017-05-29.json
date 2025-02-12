@@ -1,0 +1,63 @@
+[
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1496045398.975057",
+        "text": "vous avez vu ce film ? <http:\/\/www.lifeanimateddoc.com\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1496045398.975057",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1496599623.862116",
+        "reply_users": [
+            "U03FC5ZAK",
+            "U03FEH3N8"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1496594194.552821"
+            },
+            {
+                "user": "U03FEH3N8",
+                "ts": "1496599623.862116"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Acb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "vous avez vu ce film ? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.lifeanimateddoc.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

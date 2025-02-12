@@ -1,0 +1,164 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Hans Harisson",
+                "fallback": "New card OpenLaw - Quels enjeux pour l'Open Science en droit ? added to list BLOG (notes externes) on board Activités CogLab (public).",
+                "text": "In list *BLOG (notes externes)* on *<https:\/\/trello.com\/b\/NFHS3ZPa|Activités CogLab (public)>*.",
+                "pretext": "New card created",
+                "title": "OpenLaw - Quels enjeux pour l'Open Science en droit ?",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/ooVHSIRf",
+                "author_link": "https:\/\/trello.com\/hansharisson1",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1562671093.000100",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1562702646.002300",
+        "client_msg_id": "abffb0b2-5b63-425d-8f39-dcd92f842fb1",
+        "text": "<!everyone> Proposition d'agenda\n\nLundi prochain, le 15 juillet, l'association *Hack Your PhD* organise un apéro *Sciences ouvertes* à Paris et Strasbourg en simultané : <https:\/\/www.facebook.com\/events\/2478365885558913\/>\n\nJe vous propose de joindre cette initiative à la place de notre prochaine <#C0R6W4X2Q|coglab-hacknight> ! Qu'en pensez-vous ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562702646.002300",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1562851068.001200",
+        "reply_users": [
+            "U03FC5ZAK",
+            "ULABDBC9W"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1562850981.000800"
+            },
+            {
+                "user": "ULABDBC9W",
+                "ts": "1562851013.001000"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1562851068.001200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "title": "Apéro Sciences ouvertes - HackYourPhD @Paris",
+                "title_link": "https:\/\/www.facebook.com\/events\/2478365885558913\/",
+                "text": "Causes event by Hack Your Phd on Monday, July 15 2019",
+                "fallback": "Apéro Sciences ouvertes - HackYourPhD @Paris",
+                "from_url": "https:\/\/www.facebook.com\/events\/2478365885558913\/",
+                "thumb_url": "https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t1.0-0\/c131.0.200.200a\/p200x200\/66049386_1021648728041202_4202033008397516800_n.jpg?_nc_cat=109&_nc_oc=AQlrJLTJt3JzrjzC9gA4TatyMQn-XhNlr2TRtkv7M36goAzaUg3Oaw3rzDj1rQqEKNg&_nc_ht=scontent-iad3-1.xx&oh=b8b6966b93bff69431975fc112ca88bf&oe=5DC3219D",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/yz\/r\/KFyVIAWzntM.ico",
+                "service_name": "facebook.com",
+                "id": 1,
+                "original_url": "https:\/\/www.facebook.com\/events\/2478365885558913\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pUq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Proposition d'agenda\n\nLundi prochain, le 15 juillet, l'association "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hack Your PhD",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " organise un apéro "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Sciences ouvertes",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " à Paris et Strasbourg en simultané : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.facebook.com\/events\/2478365885558913\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nJe vous propose de joindre cette initiative à la place de notre prochaine "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0R6W4X2Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ! Qu'en pensez-vous ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03FC5ZAK",
+                    "U59MQ46DA"
+                ],
+                "count": 2
+            },
+            {
+                "name": "x",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

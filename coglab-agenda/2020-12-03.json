@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "NTX Zurich - Neuroethics Panel Discussion: <!date^1607016600^{date_short_pretty} from {time}|December 3rd, 2020 from 6:30 PM> to <!date^1607020200^{time}|7:30 PM GMT+0100>",
+                "text": "<!date^1607016600^{date_short_pretty} from {time}|December 3rd, 2020 from 6:30 PM> to <!date^1607020200^{time}|7:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Online+event|Online event>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "NTX Zurich - Neuroethics Panel Discussion",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NGNrYzE2a25hMWJlY20ydWIwc3U0NzlrcTIgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1607013025.000900",
+        "bot_id": "B4SJBP2L8"
+    }
+]

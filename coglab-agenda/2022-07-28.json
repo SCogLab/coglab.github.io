@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "RDV CRIB: <!date^1658997000^{date_short_pretty} from {time}|July 28th, 2022 from 10:30 AM> to <!date^1659000600^{time}|11:30 AM GMT+0200>",
+                "text": "<!date^1658997000^{date_short_pretty} from {time}|July 28th, 2022 from 10:30 AM> to <!date^1659000600^{time}|11:30 AM GMT+0200> at <https:\/\/maps.google.com\/maps?q=32+Rue+Delizy%2C+93500+Pantin%2C+France|32 Rue Delizy, 93500 Pantin, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "RDV CRIB",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NnM5ZzdmMjkxYmJtaG9oamFnc3Fhb2l1b2Qgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "more",
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1658993402.013989",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "[Interne][Option] Dej de synchro CogLab: <!date^1659000600^{date_short_pretty} from {time}|July 28th, 2022 from 11:30 AM> to <!date^1659007800^{time}|1:30 PM GMT+0200>",
+                "text": "<!date^1659000600^{date_short_pretty} from {time}|July 28th, 2022 from 11:30 AM> to <!date^1659007800^{time}|1:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Pantin%2C+93500+Pantin%2C+France|Pantin, 93500 Pantin, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "[Interne][Option] Dej de synchro CogLab",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NzhnNjNvYTVqcXJ1cTF0N2UwNWI2bnN0MXEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "more",
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1658997001.755809",
+        "bot_id": "B4SJBP2L8"
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1621761858.000500",
+        "client_msg_id": "ed87d7fd-6c57-4a7c-8665-65f46dff0e43",
+        "text": "Un article sur les knowledge graphs de Stanford AI : <http:\/\/ai.stanford.edu\/blog\/introduction-to-knowledge-graphs\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "SAIL Blog",
+                "title": "An Introduction to Knowledge Graphs",
+                "title_link": "http:\/\/ai.stanford.edu\/blog\/introduction-to-knowledge-graphs\/",
+                "text": "Knowledge Graphs (KGs) have emerged as a compelling abstraction for organizing the world’s structured knowledge, and as a way to integrate information extracted from multiple data sources. Knowledge graphs have started to play a central role in representing the information extracted using natural language processing and computer vision. Domain knowledge expressed in KGs is being input into machine learning models to produce better predictions. Our goals in this blog post are to (a) explain the basic terminology, concepts, and usage of KGs, (b) highlight recent applications of KGs that have led to a surge in their popularity, and (c) situate KGs in the overall landscape of AI. This blog post is a good starting point before reading a more extensive survey or following research seminars on this topic.",
+                "fallback": "SAIL Blog: An Introduction to Knowledge Graphs",
+                "thumb_url": "http:\/\/ai.stanford.edu\/blog\/assets\/img\/posts\/2021-05-10-introduction-to-knowledge-graphs\/logo_small.png",
+                "ts": 1620630000,
+                "from_url": "http:\/\/ai.stanford.edu\/blog\/introduction-to-knowledge-graphs\/",
+                "thumb_width": 591,
+                "thumb_height": 217,
+                "service_icon": "http:\/\/ai.stanford.edu\/blog\/assets\/img\/favicon-32x32.png",
+                "id": 1,
+                "original_url": "http:\/\/ai.stanford.edu\/blog\/introduction-to-knowledge-graphs\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LKinh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un article sur les knowledge graphs de Stanford AI : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/ai.stanford.edu\/blog\/introduction-to-knowledge-graphs\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

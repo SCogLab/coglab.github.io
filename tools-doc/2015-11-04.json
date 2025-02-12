@@ -1,0 +1,860 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U03FC5ZAK",
+        "text": "<@U03FC5ZAK> a rejoint le canal",
+        "type": "message",
+        "ts": "1446675637.000002"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U07CPSBGX",
+        "text": "<@U07CPSBGX> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1446675662.000003"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FC4NE1",
+        "text": "<@U03FC4NE1> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1446675662.000004"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0AR01SPQ",
+        "text": "<@U0AR01SPQ> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1446675662.000005"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FEH3N8",
+        "text": "<@U03FEH3N8> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1446675662.000006"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U07CFCCBG",
+        "text": "<@U07CFCCBG> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1446675662.000007"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1446676280.000008",
+        "text": "Suite à une proposition très juste de <@U0AR01SPQ> et que j'avais également dans un coin de la tête.\nNous pourrions mettre en place une sorte de glossaire ou des fiches sur les différentes techno \/ concept \/ support que l'on utilise au CogLab.\nUne sorte de WikiCogLab pour reprendre le terme de Murielle\n\nDe mon côté, j'ai amorcé il y a quelques jours un premier support pour présenter \/ vulgariser \/ comparer les techno EEG\nOn peux créer une section hackpad et puis transposer les fiches terminée, voir illustrée ce <@U07CFCCBG> <@U03FEH3N8> \nSur le site :)\n\nQu'en pensez vous?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gv5Py",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Suite à une proposition très juste de "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0AR01SPQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et que j'avais également dans un coin de la tête.\nNous pourrions mettre en place une sorte de glossaire ou des fiches sur les différentes techno \/ concept \/ support que l'on utilise au CogLab.\nUne sorte de WikiCogLab pour reprendre le terme de Murielle\n\nDe mon côté, j'ai amorcé il y a quelques jours un premier support pour présenter \/ vulgariser \/ comparer les techno EEG\nOn peux créer une section hackpad et puis transposer les fiches terminée, voir illustrée ce "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07CFCCBG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nSur le site :)\n\nQu'en pensez vous?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07CFCCBG",
+        "type": "message",
+        "ts": "1446676337.000009",
+        "text": "tout sur le site web coglab ca ne serait pas l’idéal ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ca0028538aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-04-21\/36646712194_7ca0028538aa7c07b0e3_72.jpg",
+            "first_name": "Mai",
+            "real_name": "Mai",
+            "display_name": "mai",
+            "team": "T03FC4NDZ",
+            "name": "mai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dBq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tout sur le site web coglab ca ne serait pas l’idéal ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1446676393.000010",
+        "text": "Même les draft ? ",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rNAoW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Même les draft ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07CFCCBG",
+        "type": "message",
+        "ts": "1446676429.000011",
+        "text": "ah non mais le wiki avec les liste des supports \/ glossaires",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ca0028538aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-04-21\/36646712194_7ca0028538aa7c07b0e3_72.jpg",
+            "first_name": "Mai",
+            "real_name": "Mai",
+            "display_name": "mai",
+            "team": "T03FC4NDZ",
+            "name": "mai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WqXz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah non mais le wiki avec les liste des supports \/ glossaires"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1446676440.000012",
+        "text": "<http:\/\/www.coglab.fr\/casques-eeg\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "CogLab",
+                "title": "Casques EEG",
+                "title_link": "http:\/\/www.coglab.fr\/casques-eeg\/",
+                "text": "EEG pour Electroencéphalographie Cette page est une ébauche permettant d’introduire l’électroencéphalographie et les différentes technologies de casques EEG disponibles. Définition de l…",
+                "fallback": "CogLab: Casques EEG",
+                "thumb_url": "https:\/\/s0.wp.com\/i\/blank.jpg",
+                "ts": 1438411776,
+                "from_url": "http:\/\/www.coglab.fr\/casques-eeg\/",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K5u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.coglab.fr\/casques-eeg\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07CFCCBG",
+        "type": "message",
+        "ts": "1446676479.000014",
+        "text": "pour les drafts direct sur le hackpad ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ca0028538aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-04-21\/36646712194_7ca0028538aa7c07b0e3_72.jpg",
+            "first_name": "Mai",
+            "real_name": "Mai",
+            "display_name": "mai",
+            "team": "T03FC4NDZ",
+            "name": "mai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rJIf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pour les drafts direct sur le hackpad ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1446676582.000015",
+        "text": "Oui c'est plus simple et rapide\nJ'ai déjà essayé de créer un wiki mais ça fait une plateforme supplémentaire :(\n<http:\/\/coglab.fr\/wiki\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gmc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui c'est plus simple et rapide\nJ'ai déjà essayé de créer un wiki mais ça fait une plateforme supplémentaire :(\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/coglab.fr\/wiki\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07CFCCBG",
+        "type": "message",
+        "ts": "1446676621.000016",
+        "text": "lol ouais",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ca0028538aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-04-21\/36646712194_7ca0028538aa7c07b0e3_72.jpg",
+            "first_name": "Mai",
+            "real_name": "Mai",
+            "display_name": "mai",
+            "team": "T03FC4NDZ",
+            "name": "mai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lrIWe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lol ouais"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07CFCCBG",
+        "type": "message",
+        "ts": "1446676626.000017",
+        "text": "soit on fait tout sur hackpad",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ca0028538aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-04-21\/36646712194_7ca0028538aa7c07b0e3_72.jpg",
+            "first_name": "Mai",
+            "real_name": "Mai",
+            "display_name": "mai",
+            "team": "T03FC4NDZ",
+            "name": "mai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8irW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "soit on fait tout sur hackpad"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07CFCCBG",
+        "type": "message",
+        "ts": "1446676629.000018",
+        "text": "soit tout sur wiki",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ca0028538aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-04-21\/36646712194_7ca0028538aa7c07b0e3_72.jpg",
+            "first_name": "Mai",
+            "real_name": "Mai",
+            "display_name": "mai",
+            "team": "T03FC4NDZ",
+            "name": "mai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JZi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "soit tout sur wiki"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07CFCCBG",
+        "type": "message",
+        "ts": "1446676647.000019",
+        "text": "mais tout sur wiki serait peut être mieux le hackpad serait surtout pour prendre des notes",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ca0028538aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-04-21\/36646712194_7ca0028538aa7c07b0e3_72.jpg",
+            "first_name": "Mai",
+            "real_name": "Mai",
+            "display_name": "mai",
+            "team": "T03FC4NDZ",
+            "name": "mai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UDqRX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mais tout sur wiki serait peut être mieux le hackpad serait surtout pour prendre des notes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1446676839.000020",
+        "text": "Hum, why not \n\nDu coup on fait sur hackpad \nEt les version finale sont mise à disposition sur le wiki ?\n(Qui est collaboratif aussi accessoirement)\n\nQu'est ce qui nous empêche de les mettre les versions finale directement sur le site ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7fL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hum, why not \n\nDu coup on fait sur hackpad \nEt les version finale sont mise à disposition sur le wiki ?\n(Qui est collaboratif aussi accessoirement)\n\nQu'est ce qui nous empêche de les mettre les versions finale directement sur le site ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07CFCCBG",
+        "type": "message",
+        "ts": "1446676852.000021",
+        "text": "(documentation finale vs prises de notes — mais bon pour la doc finale pas besoin du wiki, direct sur le site c’est mieux)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ca0028538aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-04-21\/36646712194_7ca0028538aa7c07b0e3_72.jpg",
+            "first_name": "Mai",
+            "real_name": "Mai",
+            "display_name": "mai",
+            "team": "T03FC4NDZ",
+            "name": "mai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "riK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(documentation finale vs prises de notes — mais bon pour la doc finale pas besoin du wiki, direct sur le site c’est mieux)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wink",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U07CFCCBG",
+        "type": "message",
+        "ts": "1446676863.000022",
+        "text": "lol",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ca0028538aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-04-21\/36646712194_7ca0028538aa7c07b0e3_72.jpg",
+            "first_name": "Mai",
+            "real_name": "Mai",
+            "display_name": "mai",
+            "team": "T03FC4NDZ",
+            "name": "mai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FVWU5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07CFCCBG",
+        "type": "message",
+        "ts": "1446676867.000023",
+        "text": "transmission de pensée",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ca0028538aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-04-21\/36646712194_7ca0028538aa7c07b0e3_72.jpg",
+            "first_name": "Mai",
+            "real_name": "Mai",
+            "display_name": "mai",
+            "team": "T03FC4NDZ",
+            "name": "mai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lR6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "transmission de pensée"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0AR01SPQ",
+        "type": "message",
+        "ts": "1446677448.000024",
+        "text": "on n'est pas obligés de tout de suite créer un wiki, l'important c'est d'avoir déjà le glossaire. J'avais en tête un glossaire comprenant à la fois les termes qu'on utilise et tous les sigles.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b34e84fd77bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-17\/18704226567_b34e84fd77bcdb81946f_72.jpg",
+            "first_name": "Murielle",
+            "real_name": "Murielle PALISSANDRE",
+            "display_name": "murielle",
+            "team": "T03FC4NDZ",
+            "name": "murielle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XADno",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "on n'est pas obligés de tout de suite créer un wiki, l'important c'est d'avoir déjà le glossaire. J'avais en tête un glossaire comprenant à la fois les termes qu'on utilise et tous les sigles."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0AR01SPQ",
+        "type": "message",
+        "ts": "1446677764.000025",
+        "text": "L'idéal est qu'on y retrouve nos disciplines (techno\/neuro et connexe). Comme ça un tech qui n'y connaît rien en neurosciences par ex peut rapidement accéder à une base d'informations. Ou une personne de background neuro\/psycho sans notion de technique, même chose. Ca ouvre le champ pour ceux qui n'ont pas de connaissance particulière dans nos domaines mais de la curiosité et l'envie d'en apprendre plus sur les \"neurotechnologies\" ^^",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b34e84fd77bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-17\/18704226567_b34e84fd77bcdb81946f_72.jpg",
+            "first_name": "Murielle",
+            "real_name": "Murielle PALISSANDRE",
+            "display_name": "murielle",
+            "team": "T03FC4NDZ",
+            "name": "murielle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OaU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "L'idéal est qu'on y retrouve nos disciplines (techno\/neuro et connexe). Comme ça un tech qui n'y connaît rien en neurosciences par ex peut rapidement accéder à une base d'informations. Ou une personne de background neuro\/psycho sans notion de technique, même chose. Ca ouvre le champ pour ceux qui n'ont pas de connaissance particulière dans nos domaines mais de la curiosité et l'envie d'en apprendre plus sur les \"neurotechnologies\" ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1446678007.000026",
+        "text": "Ça peux être vaste et fastidieux de tout lister\nIdée : Peux être dans un format graphe et liant tout les termes ? Un graphe 3D et on obtient la définition au clic ;) (oui je me projette loin ^^)\nÇa pourrai être chouette ! (Bien sûr en commençant par une liste \/ glossaire dans un premier temps ",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ScEC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ça peux être vaste et fastidieux de tout lister\nIdée : Peux être dans un format graphe et liant tout les termes ? Un graphe 3D et on obtient la définition au clic ;) (oui je me projette loin ^^)\nÇa pourrai être chouette ! (Bien sûr en commençant par une liste \/ glossaire dans un premier temps"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U07CPSBGX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0AR01SPQ",
+        "type": "message",
+        "ts": "1446678340.000027",
+        "text": "oui dans un 1er temps! De toute manière il y a beaucoup de termes qui reviennent très souvent dans nos échanges, je vais commencer par là.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b34e84fd77bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-17\/18704226567_b34e84fd77bcdb81946f_72.jpg",
+            "first_name": "Murielle",
+            "real_name": "Murielle PALISSANDRE",
+            "display_name": "murielle",
+            "team": "T03FC4NDZ",
+            "name": "murielle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PduT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oui dans un 1er temps! De toute manière il y a beaucoup de termes qui reviennent très souvent dans nos échanges, je vais commencer par là."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0AR01SPQ",
+        "type": "message",
+        "ts": "1446678958.000028",
+        "text": "Demain je crée une section hackpad ad hoc (en espérant que ça ne bugue pas ^^).",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b34e84fd77bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-17\/18704226567_b34e84fd77bcdb81946f_72.jpg",
+            "first_name": "Murielle",
+            "real_name": "Murielle PALISSANDRE",
+            "display_name": "murielle",
+            "team": "T03FC4NDZ",
+            "name": "murielle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5yxv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Demain je crée une section hackpad ad hoc (en espérant que ça ne bugue pas ^^)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U03FC5ZAK",
+                    "U07CFCCBG"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

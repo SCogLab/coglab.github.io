@@ -1,0 +1,104 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1425162523.000002",
+        "text": "Petite question à toi <@U03KXTN2D>\nOn se demandais avec <@U03HY4P8V> et Léo si tu finalement reçu l'Open BCI et\/ou as tu des feedback dessus?\nPour savoir si ça vaut le coup de s'en procurer un exemplaire ou si on continue nos effort sur l'Open EEG",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S+Lq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Petite question à toi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03KXTN2D"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nOn se demandais avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HY4P8V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et Léo si tu finalement reçu l'Open BCI et\/ou as tu des feedback dessus?\nPour savoir si ça vaut le coup de s'en procurer un exemplaire ou si on continue nos effort sur l'Open EEG"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03KXTN2D",
+        "type": "message",
+        "ts": "1425170273.000002",
+        "text": "<@U03FC5ZAK>: <@U03HY4P8V> Oui, je l'ai reçu il y a deux-trois semaines et je viens de finir une session de neurofeedback à l'instant. Le GUI de base en Processing est pas mal mais je vais rejoindre la team OpenFrameworks car en C++ cela sera quand même plus fluide. Le seul bémol est qu'il n'y a pas de casque et que les éléctrodes sont donc un peu compliqués à mettre en place. Je suis en train de réfléchir à une solution portable et low-cost, la version en imprimé 3d ayant pris du retard du côté de l'équipe OpenBCI.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gcb23890d1b9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3cb23890d1b93be0ac8ec9f7218fc8ee.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume DUMAS",
+            "display_name": "guillaume",
+            "team": "T03FC4NDZ",
+            "name": "guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "boPY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HY4P8V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Oui, je l'ai reçu il y a deux-trois semaines et je viens de finir une session de neurofeedback à l'instant. Le GUI de base en Processing est pas mal mais je vais rejoindre la team OpenFrameworks car en C++ cela sera quand même plus fluide. Le seul bémol est qu'il n'y a pas de casque et que les éléctrodes sont donc un peu compliqués à mettre en place. Je suis en train de réfléchir à une solution portable et low-cost, la version en imprimé 3d ayant pris du retard du côté de l'équipe OpenBCI."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

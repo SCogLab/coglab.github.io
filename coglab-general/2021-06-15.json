@@ -1,0 +1,297 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1623764417.009500",
+        "client_msg_id": "b5af7b44-a0e7-4450-a3df-52fdbc770367",
+        "text": "Pour faire suite à notre soirée HackNight \/ pique-nique hier (c’était très agréable et il y aura des suites !), je relance une initiative ‘*CogLab OFF’* cet été pour profiter de moment informel en profitant de la programmation riche parisienne.\n\n*Les rencontres CogLab OFF*\nVisite d’une installation ou événement culturelle, artistique ou scientifique entre membres de la communauté.\n\n*Palais Augmenté*\nPour cette première sortie de l’année, on se retrouve ce dimanche 20 juin pour une visite de l’exposition Palais Augmentée du Grand Palais Éphémère <http:\/\/palaisaugmente.fr\/> (chacun réserve ses billets gratuit et nominatifs pour 15h30). Point de rendez-vous à 15h00 devant la Statue du Maréchal Joseph Joffre sur la place Joffre (à 2km du Grand Palais).\n\n:spiral_calendar_pad:N’hésitez pas à proposer d’autres suggestions et surveillez la chaine <#C012Y8AA8PM|coglab-agenda> pour recevoir des rappels.\n:bulb: Nos adhérents ont un accès direct au flux ics de notre agenda",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Palais Augmenté",
+                "title_link": "http:\/\/palaisaugmente.fr\/",
+                "text": "Premier festival consacré à la création artistique en réalité augmentée, le Palais augmenté investit le tout nouveau Grand Palais éphémère, les 19 et 20 juin 2021, à Paris.",
+                "fallback": "Palais Augmenté",
+                "from_url": "http:\/\/palaisaugmente.fr\/",
+                "service_icon": "http:\/\/palaisaugmente.fr\/favicon.ico",
+                "service_name": "palaisaugmente.fr",
+                "id": 1,
+                "original_url": "http:\/\/palaisaugmente.fr\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TEMn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour faire suite à notre soirée HackNight \/ pique-nique hier (c’était très agréable et il y aura des suites !), je relance une initiative ‘"
+                            },
+                            {
+                                "type": "text",
+                                "text": "CogLab OFF’",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " cet été pour profiter de moment informel en profitant de la programmation riche parisienne.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Les rencontres CogLab OFF",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nVisite d’une installation ou événement culturelle, artistique ou scientifique entre membres de la communauté.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Palais Augmenté",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPour cette première sortie de l’année, on se retrouve ce dimanche 20 juin pour une visite de l’exposition Palais Augmentée du Grand Palais Éphémère "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/palaisaugmente.fr\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (chacun réserve ses billets gratuit et nominatifs pour 15h30). Point de rendez-vous à 15h00 devant la Statue du Maréchal Joseph Joffre sur la place Joffre (à 2km du Grand Palais).\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "spiral_calendar_pad",
+                                "unicode": "1f5d3-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "N’hésitez pas à proposer d’autres suggestions et surveillez la chaine "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C012Y8AA8PM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour recevoir des rappels.\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bulb",
+                                "unicode": "1f4a1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Nos adhérents ont un accès direct au flux ics de notre agenda"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1623768325.014800",
+        "client_msg_id": "2f1c2eea-9802-4e80-a639-cbe98391fe90",
+        "text": "Une dernière annonce pour aujourd’hui <!channel>\n\nJe viens de faire un peu de ménage dans les différentes chaînes de ce slack pour clôturer le printemps :four_leaf_clover:\n• archivage des chaînes non utilisées\n• ajout d’un prefix ‘projet-off’ aux projets non actifs\n• ajout et mise à jour de descriptions de chaînes\nÉgalement la création de la chaine <#C0259Q72NNQ|projet-inner-cosmos>\n&gt; Un nouveau projet projet art-science explorant les interactions entre neuroscience et cosmologie en collaboration avec l’artiste Filipe Vilas-Boas <https:\/\/www.filipevilasboas.com\/>\n:bulb: N’hésitez pas à parcourir l’annuaire des chaînes à votre disposition dans la barre située à gauche.\n:ear: Nous sommes toujours à l’écoute de vos suggestions, envies et retours sur <#C03FC4NEB|community-idee-feedback>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Filipe Vilas-Boas  –  Artist",
+                "title_link": "https:\/\/www.filipevilasboas.com\/",
+                "text": "Filipe Vilas-Boas is a conceptual artist exploring our use of technology and its political, social and environmental implications.",
+                "fallback": "Filipe Vilas-Boas  –  Artist",
+                "image_url": "http:\/\/payload517.cargocollective.com\/1\/19\/638884\/12653201\/Capture-decran-2017-03-22-a-14.12.32_1172.png",
+                "from_url": "https:\/\/www.filipevilasboas.com\/",
+                "image_width": 449,
+                "image_height": 250,
+                "image_bytes": 1015728,
+                "service_icon": "https:\/\/www.filipevilasboas.com\/favicon.ico",
+                "service_name": "filipevilasboas.com",
+                "id": 1,
+                "original_url": "https:\/\/www.filipevilasboas.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6ez\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Une dernière annonce pour aujourd’hui "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nJe viens de faire un peu de ménage dans les différentes chaînes de ce slack pour clôturer le printemps "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "four_leaf_clover",
+                                "unicode": "1f340"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "archivage des chaînes non utilisées"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ajout d’un prefix ‘projet-off’ aux projets non actifs"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ajout et mise à jour de descriptions de chaînes"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nÉgalement la création de la chaine "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0259Q72NNQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un nouveau projet projet art-science explorant les interactions entre neuroscience et cosmologie en collaboration avec l’artiste Filipe Vilas-Boas "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.filipevilasboas.com\/"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bulb",
+                                "unicode": "1f4a1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " N’hésitez pas à parcourir l’annuaire des chaînes à votre disposition dans la barre située à gauche.\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ear",
+                                "unicode": "1f442"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Nous sommes toujours à l’écoute de vos suggestions, envies et retours sur "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03FC4NEB"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "ULSDVUUVA",
+                    "U01S8PWA7GU"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

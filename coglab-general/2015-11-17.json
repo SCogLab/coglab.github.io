@@ -1,0 +1,71 @@
+[
+    {
+        "user": "U03FC4NE1",
+        "type": "message",
+        "ts": "1447804214.000002",
+        "text": "Merci pour le relais <@U0AR01SPQ> cc <@U0DK05RS5> :simple_smile:\n<!channel>: Tout le monde va bien par ici ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ce8fbc12b73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-01-27\/3522174799_7ce8fbc12b7351a6a2b3_72.jpg",
+            "first_name": "CogLab",
+            "real_name": "CogLab NeuroTechX Paris",
+            "display_name": "coglab",
+            "team": "T03FC4NDZ",
+            "name": "coglab",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cJc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci pour le relais "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0AR01SPQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0DK05RS5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Tout le monde va bien par ici ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

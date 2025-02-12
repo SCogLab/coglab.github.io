@@ -1,0 +1,64 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There are *2* events this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "Computer Vision Paris Meetup #27: <!date^1702404000^{date_short_pretty} from {time}|December 12th, 2023 from 7:00 PM> to <!date^1702411200^{time}|9:00 PM GMT+0100>",
+                "text": "<!date^1702404000^{date_short_pretty} from {time}|December 12th, 2023 from 7:00 PM> to <!date^1702411200^{time}|9:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=1+Rue+Ambroise+Thomas+%281+Rue+Ambroise+Thomas%2C+Paris%2C+France+75009%29|1 Rue Ambroise Thomas (1 Rue Ambroise Thomas, Paris, France 75009)>",
+                "title": "Computer Vision Paris Meetup #27",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=X2NscjZhcmprYnNwM2lkcGs2OG8zNGQ5bjgxbW1hcGJrZWxvMnNvcmZkayBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            },
+            {
+                "id": 2,
+                "color": "7bd148",
+                "fallback": "HackNight NeuroTechX Paris: <!date^1702488600^{date_short_pretty} from {time}|December 13th, 2023 from 6:30 PM> to <!date^1702499400^{time}|9:30 PM GMT+0100>",
+                "text": "<!date^1702488600^{date_short_pretty} from {time}|December 13th, 2023 from 6:30 PM> to <!date^1702499400^{time}|9:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Makerlab+Paris%2C+8+Bis+Rue+Charles+V%2C+75004+Paris%2C+France|Makerlab Paris, 8 Bis Rue Charles V, 75004 Paris, France>",
+                "title": "HackNight NeuroTechX Paris",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MnNrc25mb2c2NGR0MHR1ZHBxNmNvYXFuYW1fMjAyMzEyMTNUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1702278005.438129",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bpk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "2",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " events this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

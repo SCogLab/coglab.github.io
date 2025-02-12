@@ -1,0 +1,48 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: CA #3 CogLab: <!date^1552159800^{date_short_pretty} from {time}|March 9th, 2019 from 8:30 PM> to <!date^1552165200^{time}|10:00 PM GMT+0100>",
+                "text": "<!date^1552159800^{date_short_pretty} from {time}|March 9th, 2019 from 8:30 PM> to <!date^1552165200^{time}|10:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Skype+https%3A%2F%2Fjoin.skype.com%2Fs3dbDSqb0fgd|Skype https:\/\/join.skype.com\/s3dbDSqb0fgd>",
+                "pretext": "New calendar event created",
+                "title": "CA #3 CogLab",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MmNwZXEzNWl0bzJkODZuZ2drZG03dWJ2ZnMgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1551789665.001500",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: Meetup CogLab S3E3: <!date^1553623200^{date_short_pretty} from {time}|March 26th, 2019 from 7:00 PM> to <!date^1553634000^{time}|10:00 PM GMT+0100>",
+                "text": "<!date^1553623200^{date_short_pretty} from {time}|March 26th, 2019 from 7:00 PM> to <!date^1553634000^{time}|10:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=NUMA%2C+39+Rue+du+Caire%2C+75002+Paris%2C+France|NUMA, 39 Rue du Caire, 75002 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "Meetup CogLab S3E3",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NzZqN2kyZGhpM2F1N3FxY2xlZGFxbHE4ODMgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1551829208.001800",
+        "bot_id": "B4SJBP2L8"
+    }
+]

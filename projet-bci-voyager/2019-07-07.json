@@ -1,0 +1,118 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U03FC5ZAK",
+        "text": "<@U03FC5ZAK> a rejoint le canal",
+        "type": "message",
+        "ts": "1562531768.000200"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC5ZAK",
+        "purpose": "BCI Demonstrator to the Tourism exhibition in october 2019 <https:\/\/trello.com\/c\/FEOszHFg\/114-bci-voyager>",
+        "text": "a défini la description du canal : BCI Demonstrator to the Tourism exhibition in october 2019 <https:\/\/trello.com\/c\/FEOszHFg\/114-bci-voyager>",
+        "type": "message",
+        "ts": "1562531768.000300"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U59MQ46DA",
+        "text": "<@U59MQ46DA> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1562531768.000500"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FEH3N8",
+        "text": "<@U03FEH3N8> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1562531769.000700"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1562531797.000800",
+        "text": "",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[June 26th, 2019 3:51 PM] roselyne: on en parle ici du projet POC EEG - tourisme ? <@U03FC5ZAK> <@U59MQ46DA>\npas envie de mettre mes commentaires\/questions sur le doc qui est ouvert à l'équipe du salon\n- le globe qui est derrière le participant, c'est juste une boule ? qu'est ce qui doit être représenté dessus ? les électrodes EEG direct ou alors une information prétraité ?\n- la phase de calibration : est ce que vous voulez montrer des images et les gens doivent répondre si ils aiment ou pas et ensuite on fait des calculs de similarité avec les images présenté pendant l'expérience ? pour construire un graph de préférence?\n- si oui il faudra caractériser les images présenter (série de mots par exemple) et faire une petite analyse lineaire ou extraire le mode principale de variation entre le graph de similarité des données EEG et les descriptions des images\n- si vous voulez faire avec deux personnes, vous ne pourrez pas trouver de comonalités (destination de vacances commune) au niveau des données EEG (problème de correspondance entre les expressions cérébrales), il faudra le faire à partir des graphs de similairtés entre les images, donc il n'y a pas du tout besoin de le faire en simultannées, les gens peuvent passer les uns après les autres",
+                "ts": "1561557112.008100",
+                "author_id": "U03FEH3N8",
+                "author_subname": "Roselyne CHAUVIN",
+                "channel_id": "C03KK2Z2Z",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "on en parle ici du projet POC EEG - tourisme ? <@U03FC5ZAK> <@U59MQ46DA>\npas envie de mettre mes commentaires\/questions sur le doc qui est ouvert à l'équipe du salon\n- le globe qui est derrière le participant, c'est juste une boule ? qu'est ce qui doit être représenté dessus ? les électrodes EEG direct ou alors une information prétraité ?\n- la phase de calibration : est ce que vous voulez montrer des images et les gens doivent répondre si ils aiment ou pas et ensuite on fait des calculs de similarité avec les images présenté pendant l'expérience ? pour construire un graph de préférence?\n- si oui il faudra caractériser les images présenter (série de mots par exemple) et faire une petite analyse lineaire ou extraire le mode principale de variation entre le graph de similarité des données EEG et les descriptions des images\n- si vous voulez faire avec deux personnes, vous ne pourrez pas trouver de comonalités (destination de vacances commune) au niveau des données EEG (problème de correspondance entre les expressions cérébrales), il faudra le faire à partir des graphs de similairtés entre les images, donc il n'y a pas du tout besoin de le faire en simultannées, les gens peuvent passer les uns après les autres",
+                "author_name": "Roselyne CHAUVIN",
+                "author_link": "https:\/\/scoglab.slack.com\/team\/U03FEH3N8",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/scoglab.slack.com\/archives\/C03KK2Z2Z\/p1561557112008100?thread_ts=1561557112008100&cid=C03KK2Z2Z",
+                "is_share": true,
+                "footer": "Fil de discussion dans une conversation Slack"
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1562531823.000900",
+        "text": "",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[June 26th, 2019 9:50 PM] rouffi: Yes, on peux en parler ici\nMerci pour tout tes commentaires et feedback !\n\nOn pourra documenter le fruit de ces réflexions sur le document, ça sera un support pour les étudiants, il est peux probable que l'équipe du salon viendra dessus (ou au pire, seulement Sophie juste 1 ou 2 fois)\n+ ça permet de contextualiser les questions en mode commentaire\n\n*Phase de calibration*\nÇa peut être une bonne approche en effet, je n'ai pas poussé cette partie et sèche un peu sur ce qui est le plus efficace\n\n*Nombre de personnes*\nYes, je ne pensais pas faire d'analyse comparative en EEG, simplement réaliser un traitement des courbes individuel, avec chacun sa couleur représentée sur le planisphère (ou boule, d'un rayon à définir)",
+                "ts": "1561578644.000100",
+                "msg_subtype": "thread_broadcast",
+                "author_id": "U03FC5ZAK",
+                "author_subname": "Romain ROUYER",
+                "channel_id": "C03KK2Z2Z",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "text": "Yes, on peux en parler ici\nMerci pour tout tes commentaires et feedback !\n\nOn pourra documenter le fruit de ces réflexions sur le document, ça sera un support pour les étudiants, il est peux probable que l'équipe du salon viendra dessus (ou au pire, seulement Sophie juste 1 ou 2 fois)\n+ ça permet de contextualiser les questions en mode commentaire\n\n*Phase de calibration*\nÇa peut être une bonne approche en effet, je n'ai pas poussé cette partie et sèche un peu sur ce qui est le plus efficace\n\n*Nombre de personnes*\nYes, je ne pensais pas faire d'analyse comparative en EEG, simplement réaliser un traitement des courbes individuel, avec chacun sa couleur représentée sur le planisphère (ou boule, d'un rayon à définir)",
+                "author_name": "Romain ROUYER",
+                "author_link": "https:\/\/scoglab.slack.com\/team\/U03FC5ZAK",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/scoglab.slack.com\/archives\/C03KK2Z2Z\/p1561578644000100?thread_ts=1561557112008100&cid=C03KK2Z2Z",
+                "is_share": true,
+                "footer": "Fil de discussion dans une conversation Slack"
+            }
+        ]
+    }
+]

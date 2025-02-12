@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1549910614.000500",
+        "client_msg_id": "81f91438-de0a-4a30-80ca-29eba30dd748",
+        "text": "<@U0FB4KME0> si ça t'intéresse, le FabLab dans le quartier du Sentier\n<http:\/\/monatelierenville.com\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Mon Atelier En Ville, bricolage et loisirs créatifs",
+                "title_link": "http:\/\/monatelierenville.com\/",
+                "text": "Un atelier équipé en libre-service pour réaliser moi-même mes projets. Toute la logistique à partager sur place : les ateliers, les outils, les matériels et les fournitures.",
+                "fallback": "Mon Atelier En Ville, bricolage et loisirs créatifs",
+                "from_url": "http:\/\/monatelierenville.com\/",
+                "service_icon": "http:\/\/monatelierenville.com\/wp-content\/uploads\/2014\/05\/LogoSeul-e1399619367198.png",
+                "service_name": "monatelierenville.com",
+                "id": 1,
+                "original_url": "http:\/\/monatelierenville.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3om",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0FB4KME0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " si ça t'intéresse, le FabLab dans le quartier du Sentier\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/monatelierenville.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

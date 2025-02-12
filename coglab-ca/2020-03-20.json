@@ -1,0 +1,28 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Hans Harisson",
+                "fallback": "New card Check mail @coglab.fr added to list A FAIRE (CogLab) on board Gestion CogLab (administrateur).",
+                "text": "In list *A FAIRE (CogLab)* on *<https:\/\/trello.com\/b\/jSnI3dXM|Gestion CogLab (administrateur)>*.",
+                "pretext": "New card created",
+                "title": "Check mail @coglab.fr",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/GN9Fs7Zi",
+                "author_link": "https:\/\/trello.com\/hansharisson1",
+                "author_icon": "https:\/\/trello-members.s3.amazonaws.com\/5932ca0090ff177f1e3be0a0\/3b24595bfbf9964329e0f68a00393ac7\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1584736894.000100",
+        "bot_id": "B66HQV43C"
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Hans Harisson",
+                "fallback": "New card Collaboration hackathon IIM added to list PROJETS &amp; OPPORTUNITÉS on board Gestion CogLab (administrateur).",
+                "text": "In list *PROJETS &amp; OPPORTUNITÉS* on *<https:\/\/trello.com\/b\/jSnI3dXM|Gestion CogLab (administrateur)>*.",
+                "pretext": "New card created",
+                "title": "Collaboration hackathon IIM",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/1QJhd0Ce",
+                "author_link": "https:\/\/trello.com\/hansharisson1",
+                "author_icon": "https:\/\/trello-members.s3.amazonaws.com\/5932ca0090ff177f1e3be0a0\/3b24595bfbf9964329e0f68a00393ac7\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1603899529.001100",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "fallback": "Hans Harisson attached logo-iim.png to card Collaboration\/hackathon IIM\/Leonard de Vinci v2 (rémunéré).",
+                "image_url": "https:\/\/trello-attachments.s3.amazonaws.com\/5f999088883a34550ce0976c\/294x96\/ee0da389c84d32536b8fd2b476bd59b4\/logo-iim.png",
+                "image_width": 294,
+                "image_height": 96,
+                "image_bytes": 8028,
+                "author_name": "Hans Harisson",
+                "pretext": "Attached *<https:\/\/trello-attachments.s3.amazonaws.com\/54600179bf0163b52abc2ebc\/5f999088883a34550ce0976c\/157fe8dac115b65de9116053329ff58b\/logo-iim.png|logo-iim.png>* to *<https:\/\/trello.com\/c\/1QJhd0Ce|Collaboration\/hackathon IIM\/Leonard de Vinci v2 (rémunéré)>*.",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/hansharisson1",
+                "author_icon": "https:\/\/trello-members.s3.amazonaws.com\/5932ca0090ff177f1e3be0a0\/3b24595bfbf9964329e0f68a00393ac7\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1603899672.001200",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "user": "ULABDBC9W",
+        "type": "message",
+        "ts": "1603918721.002200",
+        "client_msg_id": "bcbd5507-80fc-4a08-93ae-55ffb3401e27",
+        "text": "Heylo bon confinement tout le monde ! (Pas taper). Une bonne nouvelle, tous les adhérents au CogLab ont droit à un abonnement gratuit (partenariat Fresco) C'est par ici ! <https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSe-m-BtbfzGrVEiRWgTRY93299-VsV8Jk5G1zpszB1Q996iMQ\/viewform?gxids=7757>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "8001f2d63c3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-10\/690479305888_8001f2d63c3cc42e6e2e_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu",
+            "display_name": "Matthieu",
+            "team": "T03FC4NDZ",
+            "name": "matthieu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ibL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Heylo bon confinement tout le monde ! (Pas taper). Une bonne nouvelle, tous les adhérents au CogLab ont droit à un abonnement gratuit (partenariat Fresco) C'est par ici ! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSe-m-BtbfzGrVEiRWgTRY93299-VsV8Jk5G1zpszB1Q996iMQ\/viewform?gxids=7757"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

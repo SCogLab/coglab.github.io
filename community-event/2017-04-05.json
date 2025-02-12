@@ -1,0 +1,24 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: Soirée LabVR Storycode: <!date^1492707600^{date_short_pretty} from {time}|Apr 20, 2017 from 7:00 PM> to <!date^1492718400^{time}|10:00 PM GMT+0200>",
+                "text": "<!date^1492707600^{date_short_pretty} from {time}|Apr 20, 2017 from 7:00 PM> to <!date^1492718400^{time}|10:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=157+Boulevard+Macdonald%2C+75019+Paris-19E-Arrondissement%2C+France|157 Boulevard Macdonald, 75019 Paris-19E-Arrondissement, France>",
+                "pretext": "New calendar event created",
+                "title": "Soirée LabVR Storycode",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=bWRzMzhkaWlrNTJubWJvMHF0MzdpYTBmczQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1491419047.100316",
+        "bot_id": "B4SJBP2L8"
+    }
+]

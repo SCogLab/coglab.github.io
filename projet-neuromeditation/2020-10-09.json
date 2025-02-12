@@ -1,0 +1,67 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1602238314.006700",
+        "client_msg_id": "83be4cb6-5966-475e-9d1e-91a73cdb6045",
+        "text": "_Note :_ du 21 au 22 octobre, il y a une conférence gratuite d’Unity : <https:\/\/ufhsummit2020.unity.com\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Unity",
+                "title": "Unity for Humanity Summit 2020",
+                "title_link": "https:\/\/ufhsummit2020.unity.com\/",
+                "text": "The first annual Unity for Humanity Summit takes place online on October 21, 2020. The Summit will bring together creators, influencers, and philanthropic and nonprofit organizations to inspire more people to create world-changing content with Unity.",
+                "fallback": "Unity: Unity for Humanity Summit 2020",
+                "thumb_url": "https:\/\/res.cloudinary.com\/bizzaboprod\/image\/upload\/q_auto:best,c_crop,g_custom\/v1601580554\/bxnccifjn4bvv1qbss9h.png",
+                "from_url": "https:\/\/ufhsummit2020.unity.com\/",
+                "thumb_width": 1200,
+                "thumb_height": 628,
+                "service_icon": "https:\/\/res.cloudinary.com\/bizzaboprod\/image\/upload\/q_auto:best,c_crop,g_custom\/v1592946600\/rro03n408hie0s6grh77.png",
+                "id": 1,
+                "original_url": "https:\/\/ufhsummit2020.unity.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jP8Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Note : ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "du 21 au 22 octobre, il y a une conférence gratuite d’Unity : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ufhsummit2020.unity.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

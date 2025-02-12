@@ -1,0 +1,58 @@
+[
+    {
+        "user": "U0AR01SPQ",
+        "type": "message",
+        "ts": "1456266301.000027",
+        "text": "#seriousgame, un Lab dédié:  <http:\/\/seriousgamelab.afjv.com\/serious-games-sante.php>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b34e84fd77bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-17\/18704226567_b34e84fd77bcdb81946f_72.jpg",
+            "first_name": "Murielle",
+            "real_name": "Murielle PALISSANDRE",
+            "display_name": "murielle",
+            "team": "T03FC4NDZ",
+            "name": "murielle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Serious Game Lab",
+                "title": "Les Serious Games sur la santé",
+                "title_link": "http:\/\/seriousgamelab.afjv.com\/serious-games-sante.php",
+                "text": "Retrouvez toutes les informations sur les Serious Games (jeux sérieux) traitant de la santé, de médecine et de thérapie. Egalement des informations sur les sociétés réalisant ce genre de serious games. Les communiqués sont classés chronologiquement.",
+                "fallback": "Serious Game Lab: Les Serious Games sur la santé",
+                "image_url": "http:\/\/www.afjv.com\/img\/logo2\/afjv_800px.png",
+                "from_url": "http:\/\/seriousgamelab.afjv.com\/serious-games-sante.php",
+                "image_width": 264,
+                "image_height": 250,
+                "image_bytes": 29173,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RrM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#seriousgame, un Lab dédié:  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/seriousgamelab.afjv.com\/serious-games-sante.php"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

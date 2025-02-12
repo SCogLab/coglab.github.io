@@ -1,0 +1,205 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1684530065.971319",
+        "client_msg_id": "f23a86fb-b02f-4432-bcb6-a328e6d3765d",
+        "text": "Bonsoir à toutes et tous <!here>,\n\nJe vous invite à découvrir le format « *Pérégrination du CogLab* » : des billets constituant une vue synthétique de l’actualité, issue d’un gros travail de veille et curation, en lien avec les activités et thématiques de l’association.\n\nLa seconde publication vient tout juste d’être mise en ligne <https:\/\/coglab.fr\/activites\/journal-hacknight\/>\n\nN’hésitez pas à me faire part de vos retours sur cette initiative et à remonter tout sujet qui vous paraitrait pertinent à insérer.\n\n\nAssocié à cette publication, vous trouverez 3 nouveaux <https:\/\/coglab.fr\/actu\/|billets de blog> traitant d’évènement à venir :\n• CJC-SC, le colloque de la Fresco qui se tiendra demain, samedi 20 mai, à l’ENS\n• Les journées d’études « Immersion et synesthésie », les 25 et 26 mai, à l’Institut du Cerveau\n• Le relais du hackathon Hack1Robo, organisé à Bordeaux par l’association AscoErgo et ses partenaires\n\nJ’en profite également pour rappeler une mobilisation en cours sur les évènements <#C057A1RH6KA|event-brainplay> &amp; <#C056HUWKJ65|event-double-science>.\nToute contribution est la bienvenue.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/coglab.fr\/activites\/journal-hacknight\/",
+                "service_icon": "https:\/\/i0.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=180%2C180&amp;ssl=1",
+                "thumb_url": "https:\/\/i0.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=512%2C512&ssl=1",
+                "thumb_width": 512,
+                "thumb_height": 512,
+                "ts": 1681524278,
+                "id": 1,
+                "original_url": "https:\/\/coglab.fr\/activites\/journal-hacknight\/",
+                "fallback": "CogLab, NeuroTechX Paris: Pérégrinations du CogLab",
+                "text": "Les pérégrinations du CogLab constituent une synthèse de l’actualité vue par Romain, agrégée des moments de partage lors des soirées HackNight du lundi soir et d’un travail de veille et…",
+                "title": "Pérégrinations du CogLab",
+                "title_link": "https:\/\/coglab.fr\/activites\/journal-hacknight\/",
+                "service_name": "CogLab, NeuroTechX Paris"
+            },
+            {
+                "from_url": "https:\/\/coglab.fr\/actu\/",
+                "service_icon": "https:\/\/i0.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=180%2C180&amp;ssl=1",
+                "thumb_url": "https:\/\/i0.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=512%2C512&ssl=1",
+                "thumb_width": 512,
+                "thumb_height": 512,
+                "ts": 1397662826,
+                "id": 2,
+                "original_url": "https:\/\/coglab.fr\/actu\/",
+                "fallback": "CogLab, NeuroTechX Paris: Actualités",
+                "text": "Voir l’article pour en savoir plus.",
+                "title": "Actualités",
+                "title_link": "https:\/\/coglab.fr\/actu\/",
+                "service_name": "CogLab, NeuroTechX Paris"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OSqS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonsoir à toutes et tous "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\n\nJe vous invite à découvrir le format « "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Pérégrination du CogLab",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " » : des billets constituant une vue synthétique de l’actualité, issue d’un gros travail de veille et curation, en lien avec les activités et thématiques de l’association.\n\nLa seconde publication vient tout juste d’être mise en ligne "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.fr\/activites\/journal-hacknight\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nN’hésitez pas à me faire part de vos retours sur cette initiative et à remonter tout sujet qui vous paraitrait pertinent à insérer.\n\n\nAssocié à cette publication, vous trouverez 3 nouveaux "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.fr\/actu\/",
+                                "text": "billets de blog"
+                            },
+                            {
+                                "type": "text",
+                                "text": " traitant d’évènement à venir :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "CJC-SC, le colloque de la Fresco qui se tiendra demain, samedi 20 mai, à l’ENS"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Les journées d’études « Immersion et synesthésie », les 25 et 26 mai, à l’Institut du Cerveau"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Le relais du hackathon Hack1Robo, organisé à Bordeaux par l’association AscoErgo et ses partenaires"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nJ’en profite également pour rappeler une mobilisation en cours sur les évènements "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C057A1RH6KA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " & "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C056HUWKJ65"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\nToute contribution est la bienvenue."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U66K73ES0",
+        "type": "message",
+        "ts": "1684530845.126589",
+        "bot_id": "B66HQV2AW",
+        "app_id": "A074YH40Z",
+        "text": "",
+        "team": "T03FC4NDZ",
+        "bot_profile": {
+            "id": "B66HQV2AW",
+            "app_id": "A074YH40Z",
+            "name": "Trello",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-07-19\/2282472048054_9a51d280179d828b3ad7_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-07-19\/2282472048054_9a51d280179d828b3ad7_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-19\/2282472048054_9a51d280179d828b3ad7_72.png"
+            },
+            "deleted": false,
+            "updated": 1657574201,
+            "team_id": "T03FC4NDZ"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "fallback": "Romain ROUYER commented on CJC-SC 2023: \"Le colloque a lieu ce samedi à l’ENS. La description de la carte vient d'être mise à jour avec les dernières informations transmises par la Fresco. Un billet résume le tout sur notre blog [<https:\/\/coglab.fr\/cjcsc2023\/>](<https:\/\/coglab.fr\/cjcsc2023\/> \"smartCard-inline\")\"",
+                "text": "Le colloque a lieu ce samedi à l’ENS. La description de la carte vient d'être mise à jour avec les dernières informations transmises par la Fresco. Un billet résume le tout sur notre blog [<https:\/\/coglab.fr\/cjcsc2023\/>](<https:\/\/coglab.fr\/cjcsc2023\/> \"smartCard-inline\")",
+                "pretext": "New comment on *<https:\/\/trello.com\/c\/ZKsMoIi2|CJC-SC 2023>*",
+                "author_name": "Romain ROUYER",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "https:\/\/trello-members.s3.amazonaws.com\/50080b67614e7d5e0528a0d3\/8702436e6aff83ed056cbc687384d49f\/30.png",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    }
+]

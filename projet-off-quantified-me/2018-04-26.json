@@ -1,0 +1,93 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1524739627.000054",
+        "text": "Snips vient de mettre à disposition sa technologie d’assistant vocal sur Raspberry, de quoi alimenté ton projet <@U59MQ46DA> :slightly_smiling_face:\n<https:\/\/www.developpez.com\/actu\/200346\/Une-start-up-parisienne-ouvre-sa-technologie-de-traitement-du-langage-naturel-Snips-NLU-est-disponible-pour-x86-64-et-Raspberry-Pi\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Developpez.com",
+                "title": "Une start-up parisienne ouvre sa technologie de traitement du langage naturel, Snips NLU est disponible pour x86_64 et Raspberry Pi",
+                "title_link": "https:\/\/www.developpez.com\/actu\/200346\/Une-start-up-parisienne-ouvre-sa-technologie-de-traitement-du-langage-naturel-Snips-NLU-est-disponible-pour-x86-64-et-Raspberry-Pi\/",
+                "text": "Envie dintégrer un assistant vocal à votre projet sans avoir à faire transiter vos informations sur le cloud où elles pourraient se retrouver entre les mains de tiers ? Alors, il faudrait peut-être jeter un il du côté de Snips, une jeune pousse parisienne spécialisée en traitement automatique du <http:\/\/langage.La|langage.La> start-up propose un assistant vocal quon peut intégrer à des dispositifs aux antipodes des ordinateurs actuels en termes de ressources. « Avec un Raspberry Pi 3, un microphone et ...",
+                "fallback": "Developpez.com: Une start-up parisienne ouvre sa technologie de traitement du langage naturel, Snips NLU est disponible pour x86_64 et Raspberry Pi",
+                "thumb_url": "https:\/\/www.developpez.com\/images\/logos\/calendrier.gif",
+                "from_url": "https:\/\/www.developpez.com\/actu\/200346\/Une-start-up-parisienne-ouvre-sa-technologie-de-traitement-du-langage-naturel-Snips-NLU-est-disponible-pour-x86-64-et-Raspberry-Pi\/",
+                "thumb_width": 60,
+                "thumb_height": 60,
+                "service_icon": "https:\/\/www.developpez.com\/template\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.developpez.com\/actu\/200346\/Une-start-up-parisienne-ouvre-sa-technologie-de-traitement-du-langage-naturel-Snips-NLU-est-disponible-pour-x86-64-et-Raspberry-Pi\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4F5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Snips vient de mettre à disposition sa technologie d’assistant vocal sur Raspberry, de quoi alimenté ton projet "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.developpez.com\/actu\/200346\/Une-start-up-parisienne-ouvre-sa-technologie-de-traitement-du-langage-naturel-Snips-NLU-est-disponible-pour-x86-64-et-Raspberry-Pi\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U59MQ46DA",
+        "text": "<@U59MQ46DA> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1524739631.000226"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "FSC 2020: <!date^1587301200^{date_short_pretty} from {time}|April 19th, 2020 from 3:00 PM> to <!date^1587312000^{time}|6:00 PM GMT+0200>",
+                "text": "<!date^1587301200^{date_short_pretty} from {time}|April 19th, 2020 from 3:00 PM> to <!date^1587312000^{time}|6:00 PM GMT+0200>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "FSC 2020",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NjE4MWpyaWdsdGh2dHZiZXI3czY0ZWg3b2cgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1587297602.007400",
+        "bot_id": "B4SJBP2L8"
+    }
+]

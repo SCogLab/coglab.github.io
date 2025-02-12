@@ -1,0 +1,68 @@
+[
+    {
+        "user": "U6EPG5PTQ",
+        "type": "message",
+        "ts": "1597742537.010400",
+        "client_msg_id": "b75dfba3-adf3-4342-8772-4d40d525a7ef",
+        "text": "Hacker la Hacknight ! Oui, je vois une option dans le calendrier pour le 19, c'est demain, tu l'enlève ?  et on fait le lundi 24 ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g09c260ee4c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/209c260ee4c8c21ab89b376055cd6e8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Karine",
+            "real_name": "Karine Halpern",
+            "display_name": "KarineH",
+            "team": "T03FC4NDZ",
+            "name": "karine.halpern",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1595844020.076200",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ciK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hacker la Hacknight ! Oui, je vois une option dans le calendrier pour le 19, c'est demain, tu l'enlève ?  et on fait le lundi 24 ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Hans Harisson",
+                "fallback": "New card NeuroTechX Berlin meetup added to list BLOG &amp; évènements externes on board Activités CogLab (public).",
+                "text": "In list *BLOG &amp; évènements externes* on *<https:\/\/trello.com\/b\/NFHS3ZPa|Activités CogLab (public)>*.",
+                "pretext": "New card created",
+                "title": "NeuroTechX Berlin meetup",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/xzTnFKXQ",
+                "author_link": "https:\/\/trello.com\/hansharisson1",
+                "author_icon": "https:\/\/trello-members.s3.amazonaws.com\/5932ca0090ff177f1e3be0a0\/3b24595bfbf9964329e0f68a00393ac7\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1597769638.010700",
+        "bot_id": "B66HQV43C"
+    }
+]

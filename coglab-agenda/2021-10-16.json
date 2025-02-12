@@ -1,0 +1,25 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: Webinar Maker Faire Paris 2021: <!date^1634832000^{date_short_pretty} from {time}|October 21st, 2021 from 6:00 PM> to <!date^1634835600^{time}|7:00 PM GMT+0200>",
+                "text": "<!date^1634832000^{date_short_pretty} from {time}|October 21st, 2021 from 6:00 PM> to <!date^1634835600^{time}|7:00 PM GMT+0200> at <http:\/\/meet.google.com\/vgt-ezqh-ebi>",
+                "pretext": "Calendar event updated",
+                "title": "Webinar Maker Faire Paris 2021",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NGdhaHI0bGZzNjdqcGowajJqM2U3MWV1cWMgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1634404155.000100",
+        "bot_id": "B4SJBP2L8"
+    }
+]

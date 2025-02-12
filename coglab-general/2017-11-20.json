@@ -1,0 +1,185 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1511207401.000187",
+        "text": "Une rencontre est prévue régulièrement <@U0AR01SPQ> \nLa prochaine est planifiée le mardi 5 décembre\nLes infos et le lien d’inscription à la lettre d’information sont sur le document ci-dessus :wink:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j80",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Une rencontre est prévue régulièrement "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0AR01SPQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nLa prochaine est planifiée le mardi 5 décembre\nLes infos et le lien d’inscription à la lettre d’information sont sur le document ci-dessus "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1511207563.000180",
+        "text": "<!here> [Veille][Exposition] *Présentation de OVO, le nouveau casque inventé pour LEVITATION*\n\nEst-ce que certains d’entre vous ont eu l’occasion de se rendre au collège des Bernardins pour découvrir le projet *Lévitation* du VRLab ?\n\nL’exposition est ouverte jusqu’à de 21.11.2017\nJe vous invite à poursuivre l’échange sur le channel <#C03KMPLR6|veille-bci> pour les intéressés :slightly_smiling_face:\n\n<http:\/\/vrlab.fr\/levitation\/?p=116>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "LEVITATION AU COLLEGE DES BERNARDINS | Levitation",
+                "title_link": "http:\/\/vrlab.fr\/levitation\/?p=116",
+                "text": "Exposition au collège des Bernardins du 16.11.2017 au 21.11.2017 \/ Présentation de OVO, le nouveau casque inventé pour LEVITATION. Exhibition at the Collège des",
+                "fallback": "LEVITATION AU COLLEGE DES BERNARDINS | Levitation",
+                "from_url": "http:\/\/vrlab.fr\/levitation\/?p=116",
+                "service_icon": "http:\/\/vrlab.fr\/favicon.ico",
+                "service_name": "vrlab.fr",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uRgY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " [Veille][Exposition] "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Présentation de OVO, le nouveau casque inventé pour LEVITATION",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nEst-ce que certains d’entre vous ont eu l’occasion de se rendre au collège des Bernardins pour découvrir le projet "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Lévitation",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " du VRLab ?\n\nL’exposition est ouverte jusqu’à de 21.11.2017\nJe vous invite à poursuivre l’échange sur le channel "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03KMPLR6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour les intéressés "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/vrlab.fr\/levitation\/?p=116"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0AR01SPQ",
+        "type": "message",
+        "ts": "1511207851.000082",
+        "text": "merci je me suis inscrite à ADN\nje ne connaissais pas OVO",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b34e84fd77bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-17\/18704226567_b34e84fd77bcdb81946f_72.jpg",
+            "first_name": "Murielle",
+            "real_name": "Murielle PALISSANDRE",
+            "display_name": "murielle",
+            "team": "T03FC4NDZ",
+            "name": "murielle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9LbP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci je me suis inscrite à ADN\nje ne connaissais pas OVO"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

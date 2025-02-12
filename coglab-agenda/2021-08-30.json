@@ -1,0 +1,92 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #204: <!date^1630341000^{date_short_pretty} from {time}|August 30th, 2021 from 6:30 PM> to <!date^1630350000^{time}|9:00 PM GMT+0200>",
+                "text": "<!date^1630341000^{date_short_pretty} from {time}|August 30th, 2021 from 6:30 PM> to <!date^1630350000^{time}|9:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Cri%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France%2C+Charles+V-0-MakerLab+Classroom+%2830%29|Cri, 8 bis Rue Charles V, 75004 Paris, France, Charles V-0-MakerLab Classroom (30)>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #204",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MWI5Y2FvN2g5c3NyNGpyaDFhcTMwaGpsZWNfMjAyMTA4MzBUMTYzMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1630337401.000200",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: [Bureau] Réunion de rentrée: <!date^1630508400^{date_short_pretty} from {time}|September 1st, 2021 from 5:00 PM> to <!date^1630512000^{time}|6:00 PM GMT+0200>",
+                "text": "<!date^1630508400^{date_short_pretty} from {time}|September 1st, 2021 from 5:00 PM> to <!date^1630512000^{time}|6:00 PM GMT+0200>",
+                "pretext": "New calendar event created",
+                "title": "[Bureau] Réunion de rentrée",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=M3JuNzNtMmJnbzJzczR2ZTFlMDBwZXRwYjEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1630362858.000300",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: [Bureau] Réunion de rentrée: <!date^1630508400^{date_short_pretty} from {time}|September 1st, 2021 from 5:00 PM> to <!date^1630512000^{time}|6:00 PM GMT+0200>",
+                "text": "<!date^1630508400^{date_short_pretty} from {time}|September 1st, 2021 from 5:00 PM> to <!date^1630512000^{time}|6:00 PM GMT+0200>",
+                "pretext": "Calendar event updated",
+                "title": "[Bureau] Réunion de rentrée",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=M3JuNzNtMmJnbzJzczR2ZTFlMDBwZXRwYjEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1630363754.000400",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: [Bureau] Réunion de rentrée: <!date^1630508400^{date_short_pretty} from {time}|September 1st, 2021 from 5:00 PM> to <!date^1630512000^{time}|6:00 PM GMT+0200>",
+                "text": "<!date^1630508400^{date_short_pretty} from {time}|September 1st, 2021 from 5:00 PM> to <!date^1630512000^{time}|6:00 PM GMT+0200>",
+                "pretext": "Calendar event updated",
+                "title": "[Bureau] Réunion de rentrée",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=M3JuNzNtMmJnbzJzczR2ZTFlMDBwZXRwYjEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1630364119.000500",
+        "bot_id": "B4SJBP2L8"
+    }
+]

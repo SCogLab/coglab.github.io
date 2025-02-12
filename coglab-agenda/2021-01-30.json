@@ -1,0 +1,49 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event time updated: NTX - Neurobar EU BIR2021: <!date^1612029600^{date_short_pretty} from {time}|January 30th, 2021 from 7:00 PM> to <!date^1612036800^{time}|9:00 PM GMT+0100>",
+                "text": "<!date^1612029600^{date_short_pretty} from {time}|January 30th, 2021 from 7:00 PM> to <!date^1612036800^{time}|9:00 PM GMT+0100>",
+                "pretext": "Calendar event time updated",
+                "title": "NTX - Neurobar EU BIR2021",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MTh2ZzZlM3F1bGQ2cG10OW04NW52dWhiM2kgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1612019106.002000",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "NTX - Neurobar EU BIR2021: <!date^1612029600^{date_short_pretty} from {time}|January 30th, 2021 from 7:00 PM> to <!date^1612036800^{time}|9:00 PM GMT+0100>",
+                "text": "<!date^1612029600^{date_short_pretty} from {time}|January 30th, 2021 from 7:00 PM> to <!date^1612036800^{time}|9:00 PM GMT+0100>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "NTX - Neurobar EU BIR2021",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MTh2ZzZlM3F1bGQ2cG10OW04NW52dWhiM2kgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1612026001.002100",
+        "bot_id": "B4SJBP2L8"
+    }
+]

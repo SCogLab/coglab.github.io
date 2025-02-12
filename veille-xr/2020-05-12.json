@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1589288086.004800",
+        "client_msg_id": "b4f92f38-4a46-4405-a3c0-6efed59ae12e",
+        "text": "<https:\/\/www.youtube.com\/watch?v=Z7TxgU4t0F0>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Oxford University lecture - Radiotherapy | ENGAGE Education &amp; Training Platform",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=Z7TxgU4t0F0",
+                "author_name": "Immersive VR Education",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCsG4UdABzOVHxNF-ndvwvZw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/Z7TxgU4t0F0\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Oxford University lecture - Radiotherapy | ENGAGE Education & Training Platform",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/Z7TxgU4t0F0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=Z7TxgU4t0F0",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=Z7TxgU4t0F0"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Khwc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=Z7TxgU4t0F0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

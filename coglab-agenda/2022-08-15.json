@@ -1,0 +1,49 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "CogLab HackNight: <!date^1660581000^{date_short_pretty} from {time}|August 15th, 2022 from 6:30 PM> to <!date^1660595400^{time}|10:30 PM GMT+0200>",
+                "text": "<!date^1660581000^{date_short_pretty} from {time}|August 15th, 2022 from 6:30 PM> to <!date^1660595400^{time}|10:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Learning+Planet+Institut%29+-+Inserm+University+Paris+City%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France|Learning Planet Institut) - Inserm University Paris City, 8 bis Rue Charles V, 75004 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MzMzM3ZzbHNlcGdudDNsY2s1M3A4aWZrYW1fMjAyMjA4MTVUMTYzMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "mrkdwn_in": [
+                    "more",
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1660577401.203349",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "Event cancelled: CogLab HackNight: <!date^1660581000^{date_short_pretty} from {time}|August 15th, 2022 from 6:30 PM> to <!date^1660595400^{time}|10:30 PM GMT+0200>",
+                "text": "<!date^1660581000^{date_short_pretty} from {time}|August 15th, 2022 from 6:30 PM> to <!date^1660595400^{time}|10:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Learning+Planet+Institut%29+-+Inserm+University+Paris+City%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France|Learning Planet Institut) - Inserm University Paris City, 8 bis Rue Charles V, 75004 Paris, France>",
+                "pretext": "Calendar event was cancelled",
+                "title": "CogLab HackNight",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MzMzM3ZzbHNlcGdudDNsY2s1M3A4aWZrYW1fMjAyMjA4MTVUMTYzMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "mrkdwn_in": [
+                    "more",
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1660577889.491069",
+        "bot_id": "B4SJBP2L8"
+    }
+]

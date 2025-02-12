@@ -1,0 +1,659 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568048110.017700",
+        "client_msg_id": "95ab8a2c-40e4-4ff1-ad2b-5cad97cd9d4d",
+        "text": "Bonsoir à tous <!channel>\n\nTout d’abord mes excuses pour ces derniers jours, je n’ai pas été très bavard, ni actif :confused:\nJ’étais assez fatigué (:nauseated_face:) + très occupé sur mon changement d’activité pro.\n\nOn s’approche dangereusement de la tenue du salon, *la pression monte* :exploding_head::stuck_out_tongue_winking_eye: !\n\nPour y voir plus clair et bien se coordonner, on vient de faire un retro-planning avec <@ULSDVUUVA>\nC’est elle qui mettra à jour le Trello et fera des rappels \/ pêche aux informations \/ relever des points de bloquage\n:point_right: <https:\/\/trello.com\/b\/IJ24cjQS\/tourismeeg> (sera mis à jour d’ici demain)\n\nToutes les tâches vont être regroupées par binôme et par couleur comme ceci :\n- UX (<@U03FC5ZAK>) \/ Unity (<@UMSL037JT>)\n- App (<@UMQA8DN92>) &amp; Protocol OSC (<@U59MQ46DA>)\n- Machine Learning \/ EEG (Héloïse, <@U03FEH3N8>)\n- Management &amp; Partner (<@U03FC5ZAK>, <@ULSDVUUVA>)\n- Communication (<@U03FC5ZAK>) \/ Traduction EN (<@ULSDVUUVA>)\n\nEn terme de deadline, sur les gros morceaux, il faut que :\n- Au plus tôt *dans la semaine* nous ayons l’application et la transmission d’informations fonctionnelle pour permettre une *acquisition et analyse* des données (idéalement en milieu de semaine)\n- La semaine prochaine (16 septembre) sera dédié à affiner l’algorithme et l’interface avec Unity\n- La semaine du 23, il nous faut une démo prête à être jouée sur le stand, on pourra faire une simulation en condition et ajouter la possibilité d’envoyer le rendu de l’expérience (du testeur) à l’email de son choix\n\n\/\/ En parallèle\n- on avance sur le travail de communication (site web, flyer, ...) et coordination avec les partenaires avec Maike.\n- si, parmi vous, certains sont dispo pour se rendre sur le salon, on se fera un petit tableau de permanance\n\nCe soir, Tanguy et Maike ont des contraintes et nous aurons la visite d’Héloïse (Data Scientiste).\nEn fonction des avancements de ce soir, je pourrais proposer des permanances supplémentaires si besoin (à votre disposition mardi soir, jeudi soir et ce weekend).",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568048110.017700",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1568051289.018300",
+        "reply_users": [
+            "U03FEH3N8",
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FEH3N8",
+                "ts": "1568049198.018100"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1568051289.018300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a189",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonsoir à tous "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nTout d’abord mes excuses pour ces derniers jours, je n’ai pas été très bavard, ni actif "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused",
+                                "unicode": "1f615"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nJ’étais assez fatigué ("
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "nauseated_face",
+                                "unicode": "1f922"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") + très occupé sur mon changement d’activité pro.\n\nOn s’approche dangereusement de la tenue du salon, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "la pression monte",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "exploding_head",
+                                "unicode": "1f92f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue_winking_eye",
+                                "unicode": "1f61c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !\n\nPour y voir plus clair et bien se coordonner, on vient de faire un retro-planning avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "ULSDVUUVA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nC’est elle qui mettra à jour le Trello et fera des rappels \/ pêche aux informations \/ relever des points de bloquage\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/trello.com\/b\/IJ24cjQS\/tourismeeg"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (sera mis à jour d’ici demain)\n\nToutes les tâches vont être regroupées par binôme et par couleur comme ceci :\n- UX ("
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") \/ Unity ("
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UMSL037JT"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n- App ("
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UMQA8DN92"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") & Protocol OSC ("
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n- Machine Learning \/ EEG (Héloïse, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n- Management & Partner ("
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "ULSDVUUVA"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n- Communication ("
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") \/ Traduction EN ("
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "ULSDVUUVA"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n\nEn terme de deadline, sur les gros morceaux, il faut que :\n- Au plus tôt "
+                            },
+                            {
+                                "type": "text",
+                                "text": "dans la semaine",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " nous ayons l’application et la transmission d’informations fonctionnelle pour permettre une "
+                            },
+                            {
+                                "type": "text",
+                                "text": "acquisition et analyse",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " des données (idéalement en milieu de semaine)\n- La semaine prochaine (16 septembre) sera dédié à affiner l’algorithme et l’interface avec Unity\n- La semaine du 23, il nous faut une démo prête à être jouée sur le stand, on pourra faire une simulation en condition et ajouter la possibilité d’envoyer le rendu de l’expérience (du testeur) à l’email de son choix\n\n\/\/ En parallèle\n- on avance sur le travail de communication (site web, flyer, ...) et coordination avec les partenaires avec Maike.\n- si, parmi vous, certains sont dispo pour se rendre sur le salon, on se fera un petit tableau de permanance\n\nCe soir, Tanguy et Maike ont des contraintes et nous aurons la visite d’Héloïse (Data Scientiste).\nEn fonction des avancements de ce soir, je pourrais proposer des permanances supplémentaires si besoin (à votre disposition mardi soir, jeudi soir et ce weekend)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Les catégories Trello avec les couleurs",
+        "files": [
+            {
+                "id": "FN7M7P0RM",
+                "created": 1568048260,
+                "timestamp": 1568048260,
+                "name": "Screenshot 2019-09-09 at 18.28.17.png",
+                "title": "Screenshot 2019-09-09 at 18.28.17.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03FC5ZAK",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 56133,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FN7M7P0RM\/screenshot_2019-09-09_at_18.28.17.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FN7M7P0RM\/download\/screenshot_2019-09-09_at_18.28.17.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN7M7P0RM-dc0941f72c\/screenshot_2019-09-09_at_18.28.17_64.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN7M7P0RM-dc0941f72c\/screenshot_2019-09-09_at_18.28.17_80.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN7M7P0RM-dc0941f72c\/screenshot_2019-09-09_at_18.28.17_360.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360_w": 360,
+                "thumb_360_h": 332,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN7M7P0RM-dc0941f72c\/screenshot_2019-09-09_at_18.28.17_480.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_480_w": 480,
+                "thumb_480_h": 443,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN7M7P0RM-dc0941f72c\/screenshot_2019-09-09_at_18.28.17_160.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "image_exif_rotation": 1,
+                "original_w": 592,
+                "original_h": 546,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U03FC5ZAK\/FN7M7P0RM\/screenshot_2019-09-09_at_18.28.17.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-FN7M7P0RM-26b7079b80",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U03FC5ZAK",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OBQV7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Les catégories Trello avec les couleurs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1568048261.017800",
+        "client_msg_id": "7a82bac1-8212-40fd-b9a4-29527ef0a5df"
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1568049198.018100",
+        "client_msg_id": "8b90a913-0191-481c-9ad7-e57a1aad4b1b",
+        "text": "héloise is joining us ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568048110.017700",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Ln",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "héloise is joining us ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568051289.018300",
+        "client_msg_id": "7b60b524-7f57-4b9f-af65-2763bd45c11e",
+        "text": "Elle est là ce soir pour nous donner quelques conseils :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568048110.017700",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9vlJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Elle est là ce soir pour nous donner quelques conseils "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "UN5THSRG8",
+        "text": "<@UN5THSRG8> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568051631.018600"
+    },
+    {
+        "user": "UN5THSRG8",
+        "type": "message",
+        "ts": "1568059273.021000",
+        "client_msg_id": "1908656a-5c93-47bb-8176-09c6a1903988",
+        "text": "J'ai trouvé un article sur les liens entre signaux EEG et préférences individuelles pour des bandes-annonces : ils parlent d'oscillations beta (17 Hz) dans des électrodes frontales donc on pourra essayer des analyses temps-fréquence si la P300 ne marche pas très bien :<https:\/\/www.researchgate.net\/publication\/280288731_Brain_Responses_to_Movie_Trailers_Predict_Individual_Preferences_for_Movies_and_Their_Population-Wide_Commercial_Success>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g13fbafc8b92",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/913fbafc8b92008ee8f401dc882cb718.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Héloïse",
+            "display_name": "Héloïse",
+            "team": "T03FC4NDZ",
+            "name": "thero.heloise",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GK1o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai trouvé un article sur les liens entre signaux EEG et préférences individuelles pour des bandes-annonces : ils parlent d'oscillations beta (17 Hz) dans des électrodes frontales donc on pourra essayer des analyses temps-fréquence si la P300 ne marche pas très bien :"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.researchgate.net\/publication\/280288731_Brain_Responses_to_Movie_Trailers_Predict_Individual_Preferences_for_Movies_and_Their_Population-Wide_Commercial_Success"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK",
+                    "U03FEH3N8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "text": "Avis a la team Unity. Sur une installation fraîche de Windows j'ai la version 2019.2.4f1 et pas le choix vers la 2019.2.3f1 du projet.\nEst ce que je fais la migration ? <@UMSL037JT> <@U59MQ46DA>?",
+        "files": [
+            {
+                "id": "FN65ZGJ5T",
+                "created": 1568063408,
+                "timestamp": 1568063408,
+                "name": "IMG_20190909_230747.jpg",
+                "title": "IMG_20190909_230747.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03FC5ZAK",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 1244708,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FN65ZGJ5T\/img_20190909_230747.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FN65ZGJ5T\/download\/img_20190909_230747.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN65ZGJ5T-0eac127874\/img_20190909_230747_64.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN65ZGJ5T-0eac127874\/img_20190909_230747_80.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN65ZGJ5T-0eac127874\/img_20190909_230747_360.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN65ZGJ5T-0eac127874\/img_20190909_230747_480.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN65ZGJ5T-0eac127874\/img_20190909_230747_160.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN65ZGJ5T-0eac127874\/img_20190909_230747_720.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN65ZGJ5T-0eac127874\/img_20190909_230747_800.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN65ZGJ5T-0eac127874\/img_20190909_230747_960.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN65ZGJ5T-0eac127874\/img_20190909_230747_1024.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "image_exif_rotation": 1,
+                "original_w": 4032,
+                "original_h": 2268,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U03FC5ZAK\/FN65ZGJ5T\/img_20190909_230747.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-FN65ZGJ5T-17082d2b86",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U03FC5ZAK",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yHkDO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Avis a la team Unity. Sur une installation fraîche de Windows j'ai la version 2019.2.4f1 et pas le choix vers la 2019.2.3f1 du projet.\nEst ce que je fais la migration ? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UMSL037JT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1568063408.023500",
+        "client_msg_id": "1fba7129-35de-493f-b201-4e40d3c5559c",
+        "thread_ts": "1568063408.023500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1568063621.026300",
+        "reply_users": [
+            "UMSL037JT"
+        ],
+        "replies": [
+            {
+                "user": "UMSL037JT",
+                "ts": "1568063621.026300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "user": "UMSL037JT",
+        "type": "message",
+        "ts": "1568063621.026300",
+        "client_msg_id": "6860e518-a0b4-4172-9ce1-3f5187fd0291",
+        "text": "Je pense que tu peux le faire temps que tu ne publie pas d'update",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gc83ebac7853",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1c83ebac7853c13b22f556e7fdb52598.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Maxime Osty",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "maxime.osty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568063408.023500",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZB=AH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je pense que tu peux le faire temps que tu ne publie pas d'update"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568063658.027500",
+        "client_msg_id": "2642896d-f87e-45b9-be96-aada0527e7d1",
+        "text": "Je confirme la tenue d'une permanence jeudi soir (12 septembre), dispo a partir de 18h a l'endroit habituel, avec a minima Hans et Tanguy. \n\nSi d'autres veulent venir, vous êtes les bienvenus !\nJe continue mes tâches et ma documentation demain.\n\nMerci à tous pour vos travaux et feedbacks :i_love_you_hand_sign::hugging_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568063658.027500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1568218287.048900",
+        "reply_users": [
+            "UMSL037JT"
+        ],
+        "replies": [
+            {
+                "user": "UMSL037JT",
+                "ts": "1568218287.048900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZQ6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je confirme la tenue d'une permanence jeudi soir (12 septembre), dispo a partir de 18h a l'endroit habituel, avec a minima Hans et Tanguy. \n\nSi d'autres veulent venir, vous êtes les bienvenus !\nJe continue mes tâches et ma documentation demain.\n\nMerci à tous pour vos travaux et feedbacks "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "i_love_you_hand_sign",
+                                "unicode": "1f91f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hugging_face",
+                                "unicode": "1f917"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

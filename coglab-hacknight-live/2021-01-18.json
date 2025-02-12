@@ -1,0 +1,576 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1611000226.000200",
+        "client_msg_id": "079d5e07-ee1f-4ce0-b64a-6ddeb4e87690",
+        "text": ":wave: S'il y a des personnes connectée pour la seconde partie de la soirée <#C0R6W4X2Q|coglab-hacknight>, manifestez-vous :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u=2NT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " S'il y a des personnes connectée pour la seconde partie de la soirée "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0R6W4X2Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", manifestez-vous "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U59MQ46DA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UMSL037JT",
+        "type": "message",
+        "ts": "1611000355.000500",
+        "client_msg_id": "8b635a8b-8a09-4544-b5ad-94991d484baa",
+        "text": "j'arrive dans pas longtemps",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gc83ebac7853",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1c83ebac7853c13b22f556e7fdb52598.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Maxime Osty",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "maxime.osty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U7ha4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "j'arrive dans pas longtemps"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "sh_room_created",
+        "text": "A démarré un <https:\/\/scoglab.slack.com\/call\/R01JMD31FF1|appel>.",
+        "user": "U03FC5ZAK",
+        "channel": "C01JBBNSJ0M",
+        "room": {
+            "id": "R01JMD31FF1",
+            "name": "HackNight 178 FR",
+            "media_server": "",
+            "created_by": "U03FC5ZAK",
+            "date_start": 1611000674,
+            "date_end": 1611006076,
+            "participants": [],
+            "participant_history": [
+                "U03FC5ZAK",
+                "UMSL037JT",
+                "U59MQ46DA"
+            ],
+            "participants_events": {
+                "U03FC5ZAK": {
+                    "user_team": {},
+                    "joined": true,
+                    "camera_on": false,
+                    "camera_off": false,
+                    "screenshare_on": false,
+                    "screenshare_off": false
+                },
+                "UMSL037JT": {
+                    "user_team": {},
+                    "joined": true,
+                    "camera_on": false,
+                    "camera_off": false,
+                    "screenshare_on": false,
+                    "screenshare_off": false
+                },
+                "U59MQ46DA": {
+                    "user_team": {},
+                    "joined": true,
+                    "camera_on": false,
+                    "camera_off": false,
+                    "screenshare_on": false,
+                    "screenshare_off": false
+                }
+            },
+            "participants_camera_on": [],
+            "participants_camera_off": [],
+            "participants_screenshare_on": [],
+            "participants_screenshare_off": [],
+            "canvas_thread_ts": "0000000000.000000",
+            "thread_root_ts": "0000000000.000000",
+            "channels": [
+                "C01JBBNSJ0M"
+            ],
+            "is_dm_call": false,
+            "was_rejected": false,
+            "was_missed": false,
+            "was_accepted": false,
+            "has_ended": true,
+            "media_backend_type": "free_willy",
+            "external_unique_id": "0e8eaed9-88e9-4c0d-8e1c-52c0c4a6e44f",
+            "app_id": "A00",
+            "call_family": "native_call"
+        },
+        "no_notifications": false,
+        "permalink": "https:\/\/scoglab.slack.com\/call\/R01JMD31FF1",
+        "type": "message",
+        "ts": "1611000677.000700"
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F01JVD6BGPQ",
+                "created": 1611000851,
+                "timestamp": 1611000851,
+                "name": "Capture d’écran 2021-01-18 à 19.18.28.png",
+                "title": "Capture d’écran 2021-01-18 à 19.18.28.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U59MQ46DA",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 305999,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F01JVD6BGPQ\/capture_d___e__cran_2021-01-18_a___19.18.28.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F01JVD6BGPQ\/download\/capture_d___e__cran_2021-01-18_a___19.18.28.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F01JVD6BGPQ-eeb9de15a7\/capture_d___e__cran_2021-01-18_a___19.18.28_64.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F01JVD6BGPQ-eeb9de15a7\/capture_d___e__cran_2021-01-18_a___19.18.28_80.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F01JVD6BGPQ-eeb9de15a7\/capture_d___e__cran_2021-01-18_a___19.18.28_360.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360_w": 360,
+                "thumb_360_h": 164,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F01JVD6BGPQ-eeb9de15a7\/capture_d___e__cran_2021-01-18_a___19.18.28_480.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_480_w": 480,
+                "thumb_480_h": 218,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F01JVD6BGPQ-eeb9de15a7\/capture_d___e__cran_2021-01-18_a___19.18.28_160.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F01JVD6BGPQ-eeb9de15a7\/capture_d___e__cran_2021-01-18_a___19.18.28_720.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720_w": 720,
+                "thumb_720_h": 327,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F01JVD6BGPQ-eeb9de15a7\/capture_d___e__cran_2021-01-18_a___19.18.28_800.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_800_w": 800,
+                "thumb_800_h": 363,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F01JVD6BGPQ-eeb9de15a7\/capture_d___e__cran_2021-01-18_a___19.18.28_960.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_960_w": 960,
+                "thumb_960_h": 436,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F01JVD6BGPQ-eeb9de15a7\/capture_d___e__cran_2021-01-18_a___19.18.28_1024.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 465,
+                "original_w": 1314,
+                "original_h": 597,
+                "thumb_tiny": "AwAVADC5ApMeWUK\/06VJtPqPypcAZwOtNC854zTAXYfUflRsPqPyp2D\/AJNGD\/k0gK2oAfY3wPT+dY2D6Gt26lEUJc9iOKzRe4n34O3pj2oA1PM9qTcPQ\/nTaKAH7x6frTXl2rnb+tJTJfuUICneTs+9D93AxVGrNx\/rJPoP6VXpsD\/\/2Q==",
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U59MQ46DA\/F01JVD6BGPQ\/capture_d___e__cran_2021-01-18_a___19.18.28.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-F01JVD6BGPQ-848c937eec",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U59MQ46DA",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1611000854.001200"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1611001892.001600",
+        "client_msg_id": "1c9c2f59-0235-40bd-b05c-a9b9f567eb35",
+        "text": "<https:\/\/www.mindaffect.nl\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "MindAffect",
+                "title": "MindAffect - Home",
+                "title_link": "https:\/\/www.mindaffect.nl\/",
+                "fallback": "MindAffect: MindAffect - Home",
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Van Ons",
+                        "short": true
+                    },
+                    {
+                        "title": "Est. reading time",
+                        "value": "0 minutes",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.mindaffect.nl\/",
+                "service_icon": "https:\/\/www.mindaffect.nl\/wp-content\/themes\/mindaffect\/assets\/images\/favicon\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.mindaffect.nl\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1DU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.mindaffect.nl\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1611001981.002000",
+        "client_msg_id": "93d8d728-a331-4414-bfe2-dcea1b76efe6",
+        "text": "<https:\/\/www.getsensate.com>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Sensate",
+                "title": "Sensate | The shortcut to reduce stress &amp; anxiety",
+                "title_link": "https:\/\/www.getsensate.com\/",
+                "text": "Sensate is a state of the art device designed to help you experience deep relaxation. Lower stress, reduce anxiety and improve wellbeing. Experience the benefit of years of mediation practise in just a few minutes a day.",
+                "fallback": "Sensate: Sensate | The shortcut to reduce stress &amp; anxiety",
+                "image_url": "http:\/\/cdn.shopify.com\/s\/files\/1\/1715\/1973\/files\/SENSATE_HERO_BANNER_3_7de7a5c9-2d16-4e9a-8ca1-4e0747dc25d5_1200x1200.jpg?v=1606930492",
+                "from_url": "https:\/\/www.getsensate.com\/",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 106294,
+                "service_icon": "http:\/\/cdn.shopify.com\/s\/files\/1\/1715\/1973\/files\/Group_36_3_32x32.png?v=1606147762",
+                "id": 1,
+                "original_url": "https:\/\/www.getsensate.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gst",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.getsensate.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1611002938.002300",
+        "client_msg_id": "eaf51852-0f11-4eab-9a0f-b5d9e6e33653",
+        "text": "<https:\/\/www.youtube.com\/watch?v=JyL15Yt4jGs>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "CogLab Summit 2020",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=JyL15Yt4jGs",
+                "author_name": "CogLab, NeuroTechX Paris",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCTI1YXKU35bdUhnLJuxk9pw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/JyL15Yt4jGs\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: CogLab Summit 2020",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/JyL15Yt4jGs?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=JyL15Yt4jGs",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=JyL15Yt4jGs"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YH=7v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=JyL15Yt4jGs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1611004044.002600",
+        "client_msg_id": "f5115a12-2938-4e0b-a6d9-a72015e0222e",
+        "text": "<https:\/\/trello.com\/c\/RceOeZxZ>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Trello",
+                "title": "Spikeling (version fr) on Activités CogLab (public)",
+                "title_link": "https:\/\/trello.com\/c\/RceOeZxZ",
+                "text": "Projet DIY Arduino (en) simulant un modèle computationel du spiking neuron d'izhikevich (<https:\/\/www.izhikevich.org\/publications\/spikes.htm>), projet open source à l'origine brittanico-africain d'op...",
+                "fallback": "Trello: Spikeling (version fr) on Activités CogLab (public)",
+                "thumb_url": "https:\/\/s3.amazonaws.com\/trello\/images\/og\/trello-icon.png?v=2013-08-15",
+                "from_url": "https:\/\/trello.com\/c\/RceOeZxZ",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/trello.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/trello.com\/c\/RceOeZxZ"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X753n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/trello.com\/c\/RceOeZxZ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1611004264.003200",
+        "client_msg_id": "de23c56e-5702-4aa7-9961-63e2181a99d6",
+        "text": "Mise à jour du billet avec slides et replay <https:\/\/coglab.fr\/summit2020\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "CogLab, NeuroTechX Paris",
+                "title": "CogLab Summit 2020",
+                "title_link": "https:\/\/coglab.fr\/summit2020\/",
+                "text": "Le bilan annuel de l’association CogLab, NeuroTechX Paris se tiendra le mercredi 7 octobre 2020 de 18h00 à 18h45, en visioconférence.   Cette année, afin de rendre plus accessible et interacti…",
+                "fallback": "CogLab, NeuroTechX Paris: CogLab Summit 2020",
+                "image_url": "https:\/\/coglab.fr\/wp-content\/uploads\/2020\/10\/CogLabSummit2020@2x.png",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1601508711,
+                "from_url": "https:\/\/coglab.fr\/summit2020\/",
+                "image_bytes": 682518,
+                "service_icon": "https:\/\/i1.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=180%2C180&#038;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/coglab.fr\/summit2020\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TYIHs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mise à jour du billet avec slides et replay "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.fr\/summit2020\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1611005067.003700",
+        "client_msg_id": "67821da5-9665-4c9e-986f-27a7847efa05",
+        "text": "<https:\/\/dvic.devinci.fr\/resource\/tutorial\/eeg-preprocess\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "De Vinci Innovation Center",
+                "title": "Comment traiter les données d'un EEG ?",
+                "title_link": "https:\/\/dvic.devinci.fr\/resource\/tutorial\/eeg-preprocess\/",
+                "text": "Récupérer, filtrer, découper et comprendre les données d'un EEG",
+                "fallback": "De Vinci Innovation Center: Comment traiter les données d'un EEG ?",
+                "from_url": "https:\/\/dvic.devinci.fr\/resource\/tutorial\/eeg-preprocess\/",
+                "id": 1,
+                "original_url": "https:\/\/dvic.devinci.fr\/resource\/tutorial\/eeg-preprocess\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZVEp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/dvic.devinci.fr\/resource\/tutorial\/eeg-preprocess\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

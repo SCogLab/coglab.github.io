@@ -1,0 +1,92 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1708265408.887619",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1708265464.000000"
+        },
+        "text": "Du 15 au 17 mars aura lieu l'événement BrainHack en Pologne",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "ts": "1707936798.048219",
+                "author_id": "U01804NJ7AQ",
+                "channel_id": "C04AD184ATY",
+                "channel_team": "T03FC4NDZ",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T03FC4NDZ",
+                        "channel": "C04AD184ATY",
+                        "ts": "1707936798.048219",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "5TBIe",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/brainhackwarsaw.fuw.edu.pl",
+                                                    "text": "https:\/\/brainhackwarsaw.fuw.edu.pl"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/scoglab.slack.com\/archives\/C04AD184ATY\/p1707936798048219",
+                "is_share": true,
+                "fallback": "[February 14th, 2024 7:53 PM] morgan.hough: <https:\/\/brainhackwarsaw.fuw.edu.pl|https:\/\/brainhackwarsaw.fuw.edu.pl>",
+                "text": "<https:\/\/brainhackwarsaw.fuw.edu.pl|https:\/\/brainhackwarsaw.fuw.edu.pl>",
+                "author_name": "Morgan Hough",
+                "author_link": "https:\/\/scoglab.slack.com\/team\/U01804NJ7AQ",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/7080a90c528526f8129488e607562782.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-48.png",
+                "author_subname": "Morgan Hough",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Conversation Slack"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XEC5Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Du 15 au 17 mars aura lieu l'événement BrainHack en Pologne"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

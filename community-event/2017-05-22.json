@@ -1,0 +1,129 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "CogLab - HackNight #44: <!date^1495474200^{date_short_pretty} from {time}|May 22, 2017 from 7:30 PM> to <!date^1495486800^{time}|11:00 PM GMT+0200>",
+                "text": "<!date^1495474200^{date_short_pretty} from {time}|May 22, 2017 from 7:30 PM> to <!date^1495486800^{time}|11:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab - HackNight #44",
+                "more": "HackNight #44\n\nOrdre du jour :\n- Projet BC[IA] (Hans)\n- Point projet Autispace (Storycode LabVR, FSC, partenaires)\n- Publication Newsletter et avancement Outil\n\nLieu : \n- Skype <https:\/\/join.skype.com\/jSrxm2kHx3PU>\n- Locaux af83 avec Romain pour ceux qui veulent (prévenir avant !)\n\nDocumentation\n- Projet BC[IA] <https:\/\/coglab.hackpad.com\/Projet-OpenBCIA-LNdWg4xq0P8>\n- Projet Autispace <https:\/\/coglab.hackpad.com\/Projet-Autispace-YfFYmWzpNhI>\n\nInteractions :\n- Slack : <https:\/\/scoglab.slack.com>\n- Communauté Facebook : <https:\/\/www.facebook.com\/groups\/coglab\/>\n- Site <http:\/\/coglab.fr\/>\n\nView meeting on Solid : <https:\/\/solid.wisembly.com\/meetings\/D2b9493?r=meeting.calendar.link&amp;u=m114455>",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=b3FsajJrcmhoM3V2MmlpMmszMjdqbnVwNDAgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1495470600.172595",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "text": "HackNight 44 with <@U59MQ46DA> \nProject OpenBC[AI] setup",
+        "files": [
+            {
+                "id": "F5FRKLQQG",
+                "created": 1495485742,
+                "timestamp": 1495485742,
+                "name": "20170522_221502.jpg",
+                "title": "20170522_221502.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03FC5ZAK",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 4066794,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F5FRKLQQG\/20170522_221502.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F5FRKLQQG\/download\/20170522_221502.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F5FRKLQQG-80383a2474\/20170522_221502_64.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F5FRKLQQG-80383a2474\/20170522_221502_80.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F5FRKLQQG-80383a2474\/20170522_221502_360.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F5FRKLQQG-80383a2474\/20170522_221502_480.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F5FRKLQQG-80383a2474\/20170522_221502_160.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F5FRKLQQG-80383a2474\/20170522_221502_720.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F5FRKLQQG-80383a2474\/20170522_221502_800.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F5FRKLQQG-80383a2474\/20170522_221502_960.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F5FRKLQQG-80383a2474\/20170522_221502_1024.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "image_exif_rotation": 1,
+                "original_w": 4032,
+                "original_h": 2268,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U03FC5ZAK\/F5FRKLQQG\/20170522_221502.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-F5FRKLQQG-5670398f47",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U03FC5ZAK",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CJWqz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " uploaded a file: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/scoglab.slack.com\/files\/rouffi\/F5FRKLQQG\/20170522_221502.jpg",
+                                "text": "20170522_221502.jpg"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and commented: HackNight 44 with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nProject OpenBC[AI] setup"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1495485748.163547"
+    }
+]

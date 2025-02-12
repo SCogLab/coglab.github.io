@@ -1,0 +1,64 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There are *2* events this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "FSC Paris 2022: <!date^1648971000^{date_short_pretty} from {time}|April 3rd, 2022 from 9:30 AM> to <!date^1649003400^{time}|6:30 PM GMT+0200>",
+                "text": "<!date^1648971000^{date_short_pretty} from {time}|April 3rd, 2022 from 9:30 AM> to <!date^1649003400^{time}|6:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=City+of+Science+and+Industry%2C+30+Av.+Corentin+Cariou%2C+75019+Paris%2C+France|City of Science and Industry, 30 Av. Corentin Cariou, 75019 Paris, France>",
+                "title": "FSC Paris 2022",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NDhhb2hodHJkaGtrNjhyZ2Nhc2pqZW8xcW8gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            },
+            {
+                "id": 2,
+                "color": "7bd148",
+                "fallback": "CogLab HackNight #220 - Préparation FSC: <!date^1648485000^{date_short_pretty} from {time}|March 28th, 2022 from 6:30 PM> to <!date^1648499400^{time}|10:30 PM GMT+0200>",
+                "text": "<!date^1648485000^{date_short_pretty} from {time}|March 28th, 2022 from 6:30 PM> to <!date^1648499400^{time}|10:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Learning+Planet+Institute%29+-+Inserm+Universit%C3%A9+De+Paris%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France|Learning Planet Institute) - Inserm Université De Paris, 8 bis Rue Charles V, 75004 Paris, France>",
+                "title": "CogLab HackNight #220 - Préparation FSC",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MWU3MG82amc0aGVtMTZ0ZzdlZ2JxdmJsbjQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1648447203.903239",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I0tvW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "2",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " events this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

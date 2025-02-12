@@ -1,0 +1,160 @@
+[
+    {
+        "subtype": "thread_broadcast",
+        "user": "U03FC5ZAK",
+        "thread_ts": "1571828530.004900",
+        "root": {
+            "user": "U03FC5ZAK",
+            "type": "message",
+            "ts": "1571828530.004900",
+            "client_msg_id": "c6d814be-563f-4827-914c-acc2b2b84770",
+            "text": "Hello, je ne pourrais pas assurer la HackNight lundi prochain, je serais chez Facebook <https:\/\/www.meetup.com\/fr-FR\/React-VR-Paris\/events\/265880870\/>",
+            "team": "T03FC4NDZ",
+            "thread_ts": "1571828530.004900",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1572263795.006500",
+            "reply_users": [
+                "U59MQ46DA",
+                "U03FC5ZAK"
+            ],
+            "replies": [
+                {
+                    "user": "U59MQ46DA",
+                    "ts": "1571833028.005100"
+                },
+                {
+                    "user": "U03FC5ZAK",
+                    "ts": "1572263795.006500"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "service_name": "Meetup",
+                    "title": "Découvrez le Réalité Virtuelle avec Oculus VR @ Facebook France",
+                    "title_link": "https:\/\/www.meetup.com\/fr-FR\/React-VR-Paris\/events\/265880870\/",
+                    "text": "lun. 28 oct. 2019 à 17:45: The Oculus RoadshowVenez assister à une présentation exclusive des ingénieurs Oculus dans les locaux de Facebook Paris !Au programme :17:45 - Accueil:rotating_light: Inscription obligatoi",
+                    "fallback": "Meetup: Découvrez le Réalité Virtuelle avec Oculus VR @ Facebook France",
+                    "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/d\/a\/6\/2\/600_485995906.jpeg",
+                    "fields": [
+                        {
+                            "title": "Où",
+                            "value": "Facebook France 6 rue Ménars Paris",
+                            "short": true
+                        },
+                        {
+                            "title": "Quand",
+                            "value": "lun. 28 oct. 2019 à 17:45",
+                            "short": true
+                        }
+                    ],
+                    "from_url": "https:\/\/www.meetup.com\/fr-FR\/React-VR-Paris\/events\/265880870\/",
+                    "image_width": 444,
+                    "image_height": 250,
+                    "image_bytes": 149703,
+                    "service_icon": "https:\/\/www.meetup.com\/mu_static\/fr-FR\/m_swarm_120x120.4f86abc9.png",
+                    "id": 1,
+                    "original_url": "https:\/\/www.meetup.com\/fr-FR\/React-VR-Paris\/events\/265880870\/"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Cd0H",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Hello, je ne pourrais pas assurer la HackNight lundi prochain, je serais chez Facebook "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/www.meetup.com\/fr-FR\/React-VR-Paris\/events\/265880870\/"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1572263795.006500",
+        "client_msg_id": "b8e05af0-e8e6-41c9-a5bf-2bca83673b94",
+        "text": "Petit reminder. \nPas de HackNight ce soir cc <@UMQA8DN92> <@UMSL037JT> \nLa prochaine sera lundi 4 novembre et je pourrais vous faire un petit retour sur le Kikk Festival <http:\/\/Kikk.be|Kikk.be>",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Mwm\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Petit reminder. \nPas de HackNight ce soir cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UMQA8DN92"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UMSL037JT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nLa prochaine sera lundi 4 novembre et je pourrais vous faire un petit retour sur le Kikk Festival "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Kikk.be",
+                                "text": "Kikk.be"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UMQA8DN92",
+                    "UMSL037JT"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: CogLab @ Maker Faire Paris 2019: <!date^1574413200^{date_short_pretty} from {time}|November 22nd, 2019 from 10:00 AM> to <!date^1574442000^{time}|6:00 PM GMT+0100>\nRecurring every day until <!date^1574636399^{date_pretty}|November 24th, 2019>",
+                "text": "<!date^1574413200^{date_short_pretty} from {time}|November 22nd, 2019 from 10:00 AM> to <!date^1574442000^{time}|6:00 PM GMT+0100>\nRecurring every day until <!date^1574636399^{date_pretty}|November 24th, 2019> at <https:\/\/maps.google.com\/maps?q=Cit%C3%A9+des+sciences+et+de+l%27industrie%2C+30+Avenue+Corentin+Cariou%2C+75019+Paris%2C+France|Cité des sciences et de l'industrie, 30 Avenue Corentin Cariou, 75019 Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "CogLab @ Maker Faire Paris 2019",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MGZqMnBqaDJxaDByaTBnamNsaGpmMWhrdnRfMjAxOTExMjJUMDkwMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1572268453.007000",
+        "bot_id": "B4SJBP2L8"
+    }
+]

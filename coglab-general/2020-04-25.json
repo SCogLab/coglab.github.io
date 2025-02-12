@@ -1,0 +1,117 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1587847997.021500",
+        "client_msg_id": "edd7fb79-ce83-4805-b9c4-a516350e124a",
+        "text": "Une ressource qui peux vous intéresser sur la chaine Youtube du DEC (une association du Département d'Étude Cognitive de l'ENS) <https:\/\/www.youtube.com\/watch?v=r-_GWJ25pT0&amp;list=PLiUS0sf9k0fPHbV3AJ_7zfU4ItFv--p_x|Workshop - A researcher in 2019>\n• Playlist : <https:\/\/www.youtube.com\/playlist?list=PLiUS0sf9k0fPHbV3AJ_7zfU4ItFv--p_x>\n• Site de l'association <https:\/\/ensdeclife.wixsite.com\/declife>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "My Experience of Having a Blog - Franck Ramus - DEC Life workshop",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=r-_GWJ25pT0",
+                "author_name": "DEC Life",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC7h8YFPbUkyudkesYSMTcbA",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/r-_GWJ25pT0\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: My Experience of Having a Blog - Franck Ramus - DEC Life workshop",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/r-_GWJ25pT0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=r-_GWJ25pT0",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=r-_GWJ25pT0&amp;list=PLiUS0sf9k0fPHbV3AJ_7zfU4ItFv--p_x"
+            },
+            {
+                "service_name": "YouTube",
+                "title": "Workshop - A researcher in 2019 - YouTube",
+                "title_link": "https:\/\/www.youtube.com\/playlist?list=PLiUS0sf9k0fPHbV3AJ_7zfU4ItFv--p_x",
+                "text": "In light of the new tools for researchers to conduct and communicate their research, we organized a workshop to discuss essential elements for a researcher i...",
+                "fallback": "YouTube: Workshop - A researcher in 2019 - YouTube",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/r-_GWJ25pT0\/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLA40mqGxMko_uuoDB2ujKqUO2omvw",
+                "from_url": "https:\/\/www.youtube.com\/playlist?list=PLiUS0sf9k0fPHbV3AJ_7zfU4ItFv--p_x",
+                "thumb_width": 168,
+                "thumb_height": 94,
+                "service_icon": "https:\/\/s.ytimg.com\/yts\/img\/favicon-vfl8qSV2F.ico",
+                "id": 2,
+                "original_url": "https:\/\/www.youtube.com\/playlist?list=PLiUS0sf9k0fPHbV3AJ_7zfU4ItFv--p_x"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cn=t6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Une ressource qui peux vous intéresser sur la chaine Youtube du DEC (une association du Département d'Étude Cognitive de l'ENS) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=r-_GWJ25pT0&list=PLiUS0sf9k0fPHbV3AJ_7zfU4ItFv--p_x",
+                                "text": "Workshop - A researcher in 2019"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Playlist : "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.youtube.com\/playlist?list=PLiUS0sf9k0fPHbV3AJ_7zfU4ItFv--p_x"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Site de l'association "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/ensdeclife.wixsite.com\/declife"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "HackNight NeuroTechX Paris: <!date^1675704600^{date_short_pretty} from {time}|February 6th, 2023 from 6:30 PM> to <!date^1675715400^{time}|9:30 PM GMT+0100>",
+                "text": "<!date^1675704600^{date_short_pretty} from {time}|February 6th, 2023 from 6:30 PM> to <!date^1675715400^{time}|9:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Makerlab+Paris%2C+8+Bis+Rue+Charles+V%2C+75004+Paris%2C+France|Makerlab Paris, 8 Bis Rue Charles V, 75004 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "HackNight NeuroTechX Paris",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NHFxMWl1bHFxbm9kNjJkZHExcWQ2ZXNwZjRfMjAyMzAyMDZUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "mrkdwn_in": [
+                    "more",
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1675701001.744589",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1675701025.571989",
+        "client_msg_id": "ba836100-eea6-433e-aa2f-201e5d580b2c",
+        "text": "Bonjour,\n\nFinalement je ne serais pas disponible encore ce soir pour la Hacknight, dans un train de retour vers Paris. \n\nA priori, présent à nouveau à partir de la semaine prochaine après une période de recul ces dernières semaines.\n\nAu plaisir de poursuivre les échanges et activités \n\nRomain",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BLMn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour,\n\nFinalement je ne serais pas disponible encore ce soir pour la Hacknight, dans un train de retour vers Paris. \n\nA priori, présent à nouveau à partir de la semaine prochaine après une période de recul ces dernières semaines.\n\nAu plaisir de poursuivre les échanges et activités \n\nRomain"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1675706216.334129",
+        "client_msg_id": "5ef7707a-027f-4103-8966-a8ae033a8a30",
+        "text": "Ok, c'est noté à la semaine prochaine !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EXMt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok, c'est noté à la semaine prochaine !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

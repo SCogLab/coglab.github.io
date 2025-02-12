@@ -1,0 +1,110 @@
+[
+    {
+        "user": "U065TGVPMQA",
+        "type": "message",
+        "ts": "1709720998.961529",
+        "client_msg_id": "6e0f5392-dbd0-4d4a-8cc6-d165c357eb71",
+        "text": "cool thanks :)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "d1c45b06a897",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6190932855014_d1c45b06a89739c22a4f_72.png",
+            "first_name": "Emmanuel",
+            "real_name": "Emmanuel Gauvain",
+            "display_name": "Emmanuel Gauvain",
+            "team": "T03FC4NDZ",
+            "name": "emmanuel.gauvain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709582538.262009",
+        "parent_user_id": "U01804NJ7AQ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h1uAk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cool thanks :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065TGVPMQA",
+        "type": "message",
+        "ts": "1709721574.735359",
+        "client_msg_id": "2e30cfeb-afa7-4bb1-972f-b3de959805c2",
+        "text": "Really impressive, especially on neuroscience : <https:\/\/www.anthropic.com\/claude>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "d1c45b06a897",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6190932855014_d1c45b06a89739c22a4f_72.png",
+            "first_name": "Emmanuel",
+            "real_name": "Emmanuel Gauvain",
+            "display_name": "Emmanuel Gauvain",
+            "team": "T03FC4NDZ",
+            "name": "emmanuel.gauvain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/cdn.sanity.io\/images\/4zrzovbb\/website\/4b8bc05b916dc4fbaf2543f76f946e5587aaeb43-2400x1260.png",
+                "image_width": 2400,
+                "image_height": 1260,
+                "image_bytes": 31452,
+                "from_url": "https:\/\/www.anthropic.com\/claude",
+                "service_icon": "https:\/\/www.anthropic.com\/images\/icons\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.anthropic.com\/claude",
+                "fallback": "Claude",
+                "text": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+                "title": "Claude",
+                "title_link": "https:\/\/www.anthropic.com\/claude",
+                "service_name": "anthropic.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QLdc+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Really impressive, especially on neuroscience : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.anthropic.com\/claude"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

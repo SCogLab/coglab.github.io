@@ -1,0 +1,205 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1568189812.001400",
+        "client_msg_id": "ff361d4b-d528-41fb-92f2-da83b898c47b",
+        "text": "An interactive web-based neuroscience app for analyzing task-related functional networks over time and frequency <http:\/\/ericdeno.com\/research\/SpectraVis\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gcxF7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "An interactive web-based neuroscience app for analyzing task-related functional networks over time and frequency "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/ericdeno.com\/research\/SpectraVis\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1568189855.001800",
+        "client_msg_id": "7fda0737-6b67-4e1c-aa3a-e8cd1c4b4a7c",
+        "text": "Projet github associé : <https:\/\/github.com\/NeurophysVis\/SpectraVis>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "NeurophysVis\/SpectraVis",
+                "text": "An interactive web-based neuroscience app for analyzing task-related functional networks over time and frequency",
+                "title": "NeurophysVis\/SpectraVis",
+                "footer": "<https:\/\/github.com\/NeurophysVis\/SpectraVis|NeurophysVis\/SpectraVis>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1405189056,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Website",
+                        "value": "<http:\/\/ericdeno.com\/research\/SpectraVis\/>",
+                        "short": true
+                    },
+                    {
+                        "title": "Stars",
+                        "value": "30",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "BA73T1BTJ",
+                "app_unfurl_url": "https:\/\/github.com\/NeurophysVis\/SpectraVis",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MpN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Projet github associé : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/NeurophysVis\/SpectraVis"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Gif de présentation de l’outil",
+        "files": [
+            {
+                "id": "FNA0MSM8F",
+                "created": 1568189969,
+                "timestamp": 1568189969,
+                "name": "SpectraVis-Demo.gif",
+                "title": "SpectraVis-Demo.gif",
+                "mimetype": "image\/gif",
+                "filetype": "gif",
+                "pretty_type": "GIF",
+                "user": "U59MQ46DA",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 4453872,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FNA0MSM8F\/spectravis-demo.gif?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FNA0MSM8F\/download\/spectravis-demo.gif?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FNA0MSM8F-c01b130239\/spectravis-demo_64.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FNA0MSM8F-c01b130239\/spectravis-demo_80.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FNA0MSM8F-c01b130239\/spectravis-demo_360.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360_w": 360,
+                "thumb_360_h": 225,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FNA0MSM8F-c01b130239\/spectravis-demo_480.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_480_w": 480,
+                "thumb_480_h": 300,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FNA0MSM8F-c01b130239\/spectravis-demo_160.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FNA0MSM8F-c01b130239\/spectravis-demo_720.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720_w": 720,
+                "thumb_720_h": 450,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FNA0MSM8F-c01b130239\/spectravis-demo_800.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_800_w": 800,
+                "thumb_800_h": 500,
+                "thumb_360_gif": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FNA0MSM8F-c01b130239\/spectravis-demo_360.gif?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_480_gif": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FNA0MSM8F-c01b130239\/spectravis-demo_480.gif?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "image_exif_rotation": 1,
+                "original_w": 800,
+                "original_h": 500,
+                "deanimate": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FNA0MSM8F-c01b130239\/spectravis-demo_deanimate_gif.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "deanimate_gif": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FNA0MSM8F-c01b130239\/spectravis-demo_deanimate_gif.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U59MQ46DA\/FNA0MSM8F\/spectravis-demo.gif",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-FNA0MSM8F-0cf63be008",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U59MQ46DA",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B9o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gif de présentation de l’outil"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1568190011.002200",
+        "client_msg_id": "83f42a81-3c79-4a64-9af3-4feccac288c9"
+    }
+]

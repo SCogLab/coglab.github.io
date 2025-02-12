@@ -1,0 +1,76 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1574232040.000100",
+        "client_msg_id": "05df111a-3f14-456c-a001-2727d3950ff2",
+        "text": "<@U03FC5ZAK> Les slides de Christophe sont dispo ici : <https:\/\/www.slideshare.net\/hellosct1\/construire-web-ar-vr>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573910307.000500",
+        "parent_user_id": "U59MQ46DA",
+        "attachments": [
+            {
+                "title": "Construire le web en AR - VR",
+                "title_link": "https:\/\/www.slideshare.net\/hellosct1\/construire-web-ar-vr",
+                "text": "Présentation effectuée à Meetup Firefox (15 novembre 2019) par Christophe Villeneuve sur \"Construire le Web en AR \/ VR\". Une occasion pour voir les possibilité…",
+                "fallback": "Construire le web en AR - VR",
+                "thumb_url": "https:\/\/cdn.slidesharecdn.com\/ss_thumbnails\/construire-web-ar-vr-191119233307-thumbnail-4.jpg?cb=1574207477",
+                "from_url": "https:\/\/www.slideshare.net\/hellosct1\/construire-web-ar-vr",
+                "thumb_width": 768,
+                "thumb_height": 576,
+                "service_icon": "https:\/\/public.slidesharecdn.com\/favicon.ico?d8e2a4ed15",
+                "service_name": "slideshare.net",
+                "id": 1,
+                "original_url": "https:\/\/www.slideshare.net\/hellosct1\/construire-web-ar-vr"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P=v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Les slides de Christophe sont dispo ici : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.slideshare.net\/hellosct1\/construire-web-ar-vr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK",
+                    "ULSDVUUVA"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

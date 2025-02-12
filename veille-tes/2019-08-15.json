@@ -1,0 +1,53 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1565894653.001400",
+        "client_msg_id": "1d9ef372-58a2-4eb8-8fd9-fcf5c6200734",
+        "text": "Nouveau projet openource d’OpenBCI, Emotibit (ping <@U0FB4KME0>) dispo pour l’automne prochain : <https:\/\/www.emotibit.com\/?mc_cid=74428595bd&amp;mc_eid=62f1b35b67>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5D19",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nouveau projet openource d’OpenBCI, Emotibit (ping "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0FB4KME0"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") dispo pour l’automne prochain : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.emotibit.com\/?mc_cid=74428595bd&amp;mc_eid=62f1b35b67",
+                                "text": "https:\/\/www.emotibit.com\/?mc_cid=74428595bd&mc_eid=62f1b35b67"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

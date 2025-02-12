@@ -1,0 +1,68 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1619802815.005500",
+        "client_msg_id": "0644fdf1-e373-4954-91d4-695fbd8b1c6b",
+        "text": "Un festival la semaine prochaine, rdv du futur : <https:\/\/lecube.com\/notre-ecosysteme\/les-rendez-vous-des-futurs\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Le Cube, Centre de création et de formation au numérique",
+                "title": "Le Rendez-Vous des Futurs | Le Cube, Centre de création et de formation au numérique",
+                "title_link": "https:\/\/lecube.com\/notre-ecosysteme\/les-rendez-vous-des-futurs\/",
+                "text": "Le Rendez-Vous des Futurs (RDVF) s’est imposé depuis 2010 comme un média à part qui privilégie le dialogue, l’imaginaire et la nuance. Il s’attache à décrypter les mutations du monde.",
+                "fallback": "Le Cube, Centre de création et de formation au numérique: Le Rendez-Vous des Futurs | Le Cube, Centre de création et de formation au numérique",
+                "image_url": "https:\/\/lecube.com\/wp-content\/uploads\/2020\/10\/RDVF.jpg",
+                "image_width": 594,
+                "image_height": 250,
+                "fields": [
+                    {
+                        "title": "Durée de lecture est.",
+                        "value": "1 minute",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/lecube.com\/notre-ecosysteme\/les-rendez-vous-des-futurs\/",
+                "image_bytes": 90043,
+                "service_icon": "https:\/\/lecube.com\/wp-content\/themes\/lecube\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/lecube.com\/notre-ecosysteme\/les-rendez-vous-des-futurs\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XCL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un festival la semaine prochaine, rdv du futur : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/lecube.com\/notre-ecosysteme\/les-rendez-vous-des-futurs\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

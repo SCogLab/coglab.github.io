@@ -1,0 +1,50 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1496698979.255765",
+        "text": "<http:\/\/cognionics.com\/index.php\/technology>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Cognionics, Inc.",
+                "title_link": "http:\/\/cognionics.com\/index.php\/technology",
+                "text": "Cognionics is a leader in dry and non-contact wireless bioelectric sensor systems for EEG, ECG, EMG and EOG. We have novel solutions in electronics, sensors and harnesses, and deliver exceptional signal quality. Systems can be customized to meet any use and market requirement.",
+                "fallback": "Cognionics, Inc.",
+                "from_url": "http:\/\/cognionics.com\/index.php\/technology",
+                "service_name": "cognionics.com",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7oq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/cognionics.com\/index.php\/technology"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

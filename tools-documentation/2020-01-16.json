@@ -1,0 +1,56 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1579179785.000200",
+        "client_msg_id": "d8f86ade-c3bf-4135-95b8-74a68270862c",
+        "text": "<https:\/\/www.manuscripts.io\/about\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Manuscripts",
+                "title_link": "https:\/\/www.manuscripts.io\/about\/",
+                "text": "A simple authoring tool for complex documents.",
+                "fallback": "Manuscripts",
+                "image_url": "https:\/\/www.manuscripts.io\/about\/static\/BlueBoxScreenshots-6e19c8d8e118427a65f17e8258450083.png",
+                "from_url": "https:\/\/www.manuscripts.io\/about\/",
+                "image_width": 319,
+                "image_height": 250,
+                "image_bytes": 85406,
+                "service_name": "manuscripts.io",
+                "id": 1,
+                "original_url": "https:\/\/www.manuscripts.io\/about\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k4W+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.manuscripts.io\/about\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

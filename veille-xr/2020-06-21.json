@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1592735228.009800",
+        "client_msg_id": "8b33eff6-548f-494c-8a0c-9e55ff3f7b5a",
+        "text": "Projet Holo-math combinant réalité augmentée et concept mathématiques : <https:\/\/holo-math.org\/index-fr.html>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Holo-Math",
+                "title_link": "https:\/\/holo-math.org\/index-fr.html",
+                "text": "Un projet international dont l’objectif est de plonger les participants dans des expériences mathématiques immersives grâce à la technologie de la réalité mixte.",
+                "fallback": "Holo-Math",
+                "from_url": "https:\/\/holo-math.org\/index-fr.html",
+                "service_icon": "https:\/\/holo-math.org\/img\/favicon.png",
+                "service_name": "holo-math.org",
+                "id": 1,
+                "original_url": "https:\/\/holo-math.org\/index-fr.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7J9G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Projet Holo-math combinant réalité augmentée et concept mathématiques : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/holo-math.org\/index-fr.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

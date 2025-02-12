@@ -1,0 +1,135 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1441839796.000002",
+        "text": "Tu as essayé ça <@U04T6ATLX> ? :simple_smile:\nPour info Meiso à acheté un Muse et ils veulent le tester dans le cocon cc <@U03HY4P8V> \n<http:\/\/developer.choosemuse.com\/featured-projects\/neural-drift>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Muse Developers",
+                "title": "Featured Project: Neural Drift - Muse Developers",
+                "title_link": "http:\/\/developer.choosemuse.com\/featured-projects\/neural-drift",
+                "text": "BCIMontreal members Yannick Roy and Hubert Banville show off NeuralDrift, a collaborative game in which, using Muse, two players have to combine the power of their focus to drive a LEGO Mindstorms robot.",
+                "fallback": "Muse Developers: Featured Project: Neural Drift - Muse Developers",
+                "thumb_url": "http:\/\/developer.choosemuse.com\/wp-content\/uploads\/2015\/08\/neuraldrift_banner.jpg",
+                "ts": 1440505439,
+                "from_url": "http:\/\/developer.choosemuse.com\/featured-projects\/neural-drift",
+                "thumb_width": 1200,
+                "thumb_height": 373,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vWUe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu as essayé ça "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04T6ATLX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPour info Meiso à acheté un Muse et ils veulent le tester dans le cocon cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HY4P8V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/developer.choosemuse.com\/featured-projects\/neural-drift"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1441846126.000004",
+        "text": "<http:\/\/blog.neuroelectrics.com\/can-cortical-networks-be-used-to-analyse-eeg-signals\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Blog Neuroelectrics",
+                "title": "Can cortical networks be used to analyse EEG signals?",
+                "title_link": "http:\/\/blog.neuroelectrics.com\/can-cortical-networks-be-used-to-analyse-eeg-signals\/",
+                "text": "Broadly speaking, when we talk about analysing EEG signals, we are talking about how to use those time-varying signals to classify clinical conditions, behavioural events or predict responses (is t...",
+                "fallback": "Blog Neuroelectrics: Can cortical networks be used to analyse EEG signals?",
+                "image_url": "http:\/\/blog.neuroelectrics.com\/wp-content\/uploads\/2015\/06\/84_neuroeletrics_WIRED_00-2.jpg?w=640",
+                "ts": 1438418318,
+                "from_url": "http:\/\/blog.neuroelectrics.com\/can-cortical-networks-be-used-to-analyse-eeg-signals\/",
+                "image_width": 450,
+                "image_height": 250,
+                "image_bytes": 192054,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tG\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/blog.neuroelectrics.com\/can-cortical-networks-be-used-to-analyse-eeg-signals\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

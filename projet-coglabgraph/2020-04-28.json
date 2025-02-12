@@ -1,0 +1,65 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1588092572.004200",
+        "client_msg_id": "9b1b71c2-92e9-4be9-adda-2da94181138a",
+        "text": "<https:\/\/www.youtube.com\/playlist?list=PLAiy7NYe9U2Gjg-600CTV1HGypiF95d_D>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "title": "Columbia SPS Executive Education: 2019 Knowledge Graph Conference - YouTube",
+                "title_link": "https:\/\/www.youtube.com\/playlist?list=PLAiy7NYe9U2Gjg-600CTV1HGypiF95d_D",
+                "text": "2019 Knowledge Graph Conference - May 7 &amp; 8 The Knowledge Graph Conference (KGC) is a world-class curated program that brings experienced practitioners, tech...",
+                "fallback": "YouTube: Columbia SPS Executive Education: 2019 Knowledge Graph Conference - YouTube",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/ABN2377ER_A\/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLA62QzQAhkZy4nrOEkCXFEpTGVZxA",
+                "from_url": "https:\/\/www.youtube.com\/playlist?list=PLAiy7NYe9U2Gjg-600CTV1HGypiF95d_D",
+                "thumb_width": 168,
+                "thumb_height": 94,
+                "service_icon": "https:\/\/s.ytimg.com\/yts\/img\/favicon-vfl8qSV2F.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/playlist?list=PLAiy7NYe9U2Gjg-600CTV1HGypiF95d_D"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tn\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/playlist?list=PLAiy7NYe9U2Gjg-600CTV1HGypiF95d_D"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

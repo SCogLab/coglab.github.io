@@ -1,0 +1,67 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U59MQ46DA",
+        "text": "<@U59MQ46DA> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1498416271.612820"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1498416290.613812",
+        "text": "<@U59MQ46DA> peux t’intéresser <https:\/\/app.swaggerhub.com\/apis\/pushtheworld\/openbci-wifi-server\/1.1.0>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Build, Collaborate &amp; Integrate APIs | SwaggerHub",
+                "title_link": "https:\/\/app.swaggerhub.com\/apis\/pushtheworld\/openbci-wifi-server\/1.1.0",
+                "text": "Join thousands of developers who use SwaggerHub to build and design great APIs. Signup or login today.",
+                "fallback": "Build, Collaborate &amp; Integrate APIs | SwaggerHub",
+                "from_url": "https:\/\/app.swaggerhub.com\/apis\/pushtheworld\/openbci-wifi-server\/1.1.0",
+                "service_icon": "https:\/\/app.swaggerhub.com\/img\/favicon-32x32.png",
+                "service_name": "app.swaggerhub.com",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fIz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " peux t’intéresser "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/app.swaggerhub.com\/apis\/pushtheworld\/openbci-wifi-server\/1.1.0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

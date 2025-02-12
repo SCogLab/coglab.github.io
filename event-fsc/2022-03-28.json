@@ -1,0 +1,182 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1648488089.228819",
+        "client_msg_id": "28e1bf0c-de34-49ad-9746-482f4af2640a",
+        "text": "Petit rappel <!here>, le forum à lieu toute la journée ce dimanche, je vais créer un petit planning pour s’assurer que nous avons à minima 1 personne, dans l’idéal 2 personnes sur le stand de l’association pour accueillir les visiteurs",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HI9I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Petit rappel "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", le forum à lieu toute la journée ce dimanche, je vais créer un petit planning pour s’assurer que nous avons à minima 1 personne, dans l’idéal 2 personnes sur le stand de l’association pour accueillir les visiteurs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1648488330.015149",
+        "client_msg_id": "e4e760b2-c2c3-499d-89d3-26f62ea85e2f",
+        "text": "En bonus, on as toujours l’occasion de proposer une animation de dernière minutes dans l’une des salles de la cité des sciences.\n\n*[ET SI ... à condition qu’on soit assez nombreux]*\nPour ‘hacker’ la chose, je me dis que l’on pourrais faire une sorte de mini-sprint <#C01FM8US683|projet-sensory-odyssee>, l’occasion d’éprouver et itérer sur notre protocole directement avec les visiteurs, voir d’autres associations\n\nSait-tu si vous avez prévu des animations spécifiques du côté de COGitERGO <@U02GLDK69UJ>?\n\n<https:\/\/www.cite-sciences.fr\/fr\/vous-etes\/organisateurs-devenements\/salles-de-sous-commission\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.cite-sciences.fr\/fr\/vous-etes\/organisateurs-devenements\/salles-de-sous-commission\/",
+                "image_url": "https:\/\/www.cite-sciences.fr\/fileadmin\/_processed_\/e\/6\/csm_ImgGenCSI2_b092ab7b8e.jpg",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 106671,
+                "id": 1,
+                "original_url": "https:\/\/www.cite-sciences.fr\/fr\/vous-etes\/organisateurs-devenements\/salles-de-sous-commission\/",
+                "fallback": "Salles de sous-commission - Organisateurs d'événements - Vous êtes - Cité des sciences et de l'industrie",
+                "text": "La cité des sciences et de l'industrie est un établissement public de diffusion de la culture scientifique, technique et industrielle située à Paris, La Villette. La Cité propose expositions, films, conférences et animations pour les enfants et leurs familles.",
+                "title": "Salles de sous-commission - Organisateurs d'événements - Vous êtes - Cité des sciences et de l'industrie",
+                "title_link": "https:\/\/www.cite-sciences.fr\/fr\/vous-etes\/organisateurs-devenements\/salles-de-sous-commission\/",
+                "service_name": "cite-sciences.fr"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xRM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En bonus, on as toujours l’occasion de proposer une animation de dernière minutes dans l’une des salles de la cité des sciences.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "[ET SI ... à condition qu’on soit assez nombreux]",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPour ‘hacker’ la chose, je me dis que l’on pourrais faire une sorte de mini-sprint "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C01FM8US683"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", l’occasion d’éprouver et itérer sur notre protocole directement avec les visiteurs, voir d’autres associations\n\nSait-tu si vous avez prévu des animations spécifiques du côté de COGitERGO "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02GLDK69UJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.cite-sciences.fr\/fr\/vous-etes\/organisateurs-devenements\/salles-de-sous-commission\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1648493517.991829",
+        "client_msg_id": "987d4d5c-0206-46dd-8723-bea20df29a6b",
+        "text": "Voici un lien pour indiquer vos éventuelles disponibilités sur la journée du FSC <https:\/\/docs.google.com\/document\/d\/1OOJHEYYV6tUowRK2Me9NXvM0ZRKi97UfuyE0xFDWdoc\/edit#heading=h.yt9czu9qh3cs>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c6X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Voici un lien pour indiquer vos éventuelles disponibilités sur la journée du FSC "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1OOJHEYYV6tUowRK2Me9NXvM0ZRKi97UfuyE0xFDWdoc\/edit#heading=h.yt9czu9qh3cs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U02GLDK69UJ",
+        "text": "<@U02GLDK69UJ> a rejoint le canal",
+        "type": "message",
+        "ts": "1648495924.411519"
+    }
+]

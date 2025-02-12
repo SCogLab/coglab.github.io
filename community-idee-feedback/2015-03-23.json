@@ -1,0 +1,89 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1427141807.000002",
+        "text": "<https:\/\/brainbrowser.cbrain.mcgill.ca\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "BrainBrowser v2.3.0",
+                "title_link": "https:\/\/brainbrowser.cbrain.mcgill.ca\/",
+                "text": "BrainBrowser is an open source JavaScript library exposing a set of WebGL and HTML5 3D visualization tools for neuroimaging data.",
+                "fallback": "BrainBrowser v2.3.0",
+                "thumb_url": "https:\/\/brainbrowser.cbrain.mcgill.ca\/img\/surface-viewer.png",
+                "from_url": "https:\/\/brainbrowser.cbrain.mcgill.ca\/",
+                "thumb_width": 300,
+                "thumb_height": 200,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CrSr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/brainbrowser.cbrain.mcgill.ca\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1427148405.000002",
+        "text": "<https:\/\/cbmm.mit.edu\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1A4t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/cbmm.mit.edu\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

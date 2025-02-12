@@ -1,0 +1,225 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1611000282.000600",
+        "client_msg_id": "321ef081-5c6b-4b3b-b66c-d5801d81691b",
+        "text": ":wave: S'il y a des personnes connectée pour la seconde partie de la soirée, manifestez-vous sur <#C01JBBNSJ0M|coglab-hacknight-live>, nous serons en audio :sound:  :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7uea",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " S'il y a des personnes connectée pour la seconde partie de la soirée, manifestez-vous sur "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C01JBBNSJ0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", nous serons en audio "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sound",
+                                "unicode": "1f509"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1611000637.004300",
+        "client_msg_id": "49612647-4ff1-4a10-accd-68ac7978aed7",
+        "text": ":warning: A noter qu'il n'y aura exceptionnellement *pas de HackNight* lundi prochain\n\n:bulb: C'est la semaine Européenne du NeuroTechX Buzz in Review, nous suivrons la soirée de nos voisin.e.s Londonien-ne-s :flag-au:\n<https:\/\/www.meetup.com\/NeuroTechLDN\/events\/275544912>\n\n:calendar: Rendez-vous également jeudi prochain, 28 janvier, pour notre Buzz in Review Paris en français et avec nos invités :pray:\n<https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/275443864\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "NeuroTechX LDN + Scotland Buzz In Review 2021",
+                "title_link": "https:\/\/www.meetup.com\/NeuroTechLDN\/events\/275544912",
+                "text": "Mon, Jan 25, 2021, 6:30 PM: ***Registration link here: runtheworld.today\/app\/invitation\/15164***It's that time of the year again... NeuroTechX's annual Buzz In Review global event series is back!Join",
+                "fallback": "Meetup: NeuroTechX LDN + Scotland Buzz In Review 2021",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/4\/4\/4\/c\/600_494237484.jpeg",
+                "fields": [
+                    {
+                        "title": "Where",
+                        "value": "Online event",
+                        "short": true
+                    },
+                    {
+                        "title": "When",
+                        "value": "Mon, Jan 25, 2021, 6:30 PM",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.meetup.com\/NeuroTechLDN\/events\/275544912",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 91690,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/en-US\/m_swarm_120x120.4f86abc9.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/NeuroTechLDN\/events\/275544912"
+            },
+            {
+                "service_name": "Meetup",
+                "title": "NeuroTechX Paris Buzz in Review 2021 (#NTXBIR2021)",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/275443864\/",
+                "text": "jeu. 28 janv. 2021 à 18:00: Le réseau NeuroTechX organise son second Buzz in Review (BIR) début 2021, rejoignez nous en ligne avec la communauté local pour un événement spécial en coordination avec le",
+                "fallback": "Meetup: NeuroTechX Paris Buzz in Review 2021 (#NTXBIR2021)",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/1\/7\/c\/2\/600_494226082.jpeg",
+                "fields": [
+                    {
+                        "title": "Où",
+                        "value": "Événement en ligne",
+                        "short": true
+                    },
+                    {
+                        "title": "Quand",
+                        "value": "jeu. 28 janv. 2021 à 18:00",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/275443864\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 18411,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/fr-FR\/m_swarm_120x120.4f86abc9.png",
+                "id": 2,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/275443864\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZBD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "warning",
+                                "unicode": "26a0-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " A noter qu'il n'y aura exceptionnellement "
+                            },
+                            {
+                                "type": "text",
+                                "text": "pas de HackNight",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " lundi prochain\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bulb",
+                                "unicode": "1f4a1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " C'est la semaine Européenne du NeuroTechX Buzz in Review, nous suivrons la soirée de nos voisin.e.s Londonien-ne-s "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "flag-au",
+                                "unicode": "1f1e6-1f1fa"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/NeuroTechLDN\/events\/275544912"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "calendar",
+                                "unicode": "1f4c6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Rendez-vous également jeudi prochain, 28 janvier, pour notre Buzz in Review Paris en français et avec nos invités "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/275443864\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

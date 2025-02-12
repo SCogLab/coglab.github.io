@@ -1,0 +1,63 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1466776774.000002",
+        "text": "Un exemples d’IHM pour un service (un draft, mais permet de faire émerger des idées)\n<https:\/\/www.youtube.com\/watch?v=Rci8BtDthKc>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Innovation : Voyages-sncf.com expérimente la Réalité Virtuelle pour la préparation du voyage",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=Rci8BtDthKc",
+                "author_name": "Voyages-sncf.com",
+                "author_link": "https:\/\/www.youtube.com\/user\/VoyagesSNCFcom",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/Rci8BtDthKc\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Innovation : Voyages-sncf.com expérimente la Réalité Virtuelle pour la préparation du voyage",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/Rci8BtDthKc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=Rci8BtDthKc",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hOsK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un exemples d’IHM pour un service (un draft, mais permet de faire émerger des idées)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=Rci8BtDthKc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

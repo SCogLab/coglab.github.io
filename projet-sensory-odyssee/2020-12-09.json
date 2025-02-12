@@ -1,0 +1,278 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1607505875.003000",
+        "client_msg_id": "0a3f6f90-5390-4657-a138-25fdda187bef",
+        "text": "Hello. Petit retour sur la réunion SO d’hier matin, en gros rien de particulier à remonter, simplement des *précisions de vocabulaire*, à l’exception d’un point : Mardi8 ne va *plus utiliser d’UWB* pour l’installation mais des *caméras infrarouges*.\nCela questionne notre capacité à ‘suivre’ une personne avec notre dispositif.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1607505875.003000",
+        "reply_count": 10,
+        "reply_users_count": 3,
+        "latest_reply": "1608128042.005200",
+        "reply_users": [
+            "U59MQ46DA",
+            "U03FC5ZAK",
+            "UAMPR1P5L"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1607520852.003100"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1607525447.003400"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1607532839.003600"
+            },
+            {
+                "user": "UAMPR1P5L",
+                "ts": "1608059716.002700"
+            },
+            {
+                "user": "UAMPR1P5L",
+                "ts": "1608059738.003000"
+            },
+            {
+                "user": "UAMPR1P5L",
+                "ts": "1608060024.003200"
+            },
+            {
+                "user": "UAMPR1P5L",
+                "ts": "1608060381.003500"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1608063765.003800"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1608127468.005000"
+            },
+            {
+                "user": "UAMPR1P5L",
+                "ts": "1608128042.005200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+HrCf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello. Petit retour sur la réunion SO d’hier matin, en gros rien de particulier à remonter, simplement des "
+                            },
+                            {
+                                "type": "text",
+                                "text": "précisions de vocabulaire",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", à l’exception d’un point : Mardi8 ne va "
+                            },
+                            {
+                                "type": "text",
+                                "text": "plus utiliser d’UWB",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour l’installation mais des "
+                            },
+                            {
+                                "type": "text",
+                                "text": "caméras infrarouges",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\nCela questionne notre capacité à ‘suivre’ une personne avec notre dispositif."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1607520852.003100",
+        "client_msg_id": "6103e4dc-5b3e-4a7b-9434-7fecd5562d91",
+        "text": "On peut peut-être utiliser un module GPS pour le tracking type : <https:\/\/www.adafruit.com\/product\/3133>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1607505875.003000",
+        "parent_user_id": "U03FC5ZAK",
+        "attachments": [
+            {
+                "title": "Adafruit Ultimate GPS FeatherWing",
+                "title_link": "https:\/\/www.adafruit.com\/product\/3133",
+                "text": "Give your Feather a sense of place, with an Ultimate GPS FeatherWing. In 2013 we designed the Ultimate GPS module to satisfy all your GPS desires - and now we have brought its power and ...",
+                "fallback": "Adafruit Ultimate GPS FeatherWing",
+                "thumb_url": "https:\/\/www.adafruit.com\/images\/480x360\/3133-00.jpg",
+                "fields": [
+                    {
+                        "title": "PRICE",
+                        "value": "$39.95 USD",
+                        "short": true
+                    },
+                    {
+                        "title": "STOCK",
+                        "value": "33 IN STOCK",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.adafruit.com\/product\/3133",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "service_icon": "https:\/\/cdn-shop.adafruit.com\/static\/apple-touch-icon-57x57.png",
+                "service_name": "adafruit.com",
+                "id": 1,
+                "original_url": "https:\/\/www.adafruit.com\/product\/3133"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n6oIg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On peut peut-être utiliser un module GPS pour le tracking type : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.adafruit.com\/product\/3133"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1607525447.003400",
+        "client_msg_id": "ed255628-37ba-427e-8fbb-cca699801d6b",
+        "text": "Le GPS n’est pas assez précis et adapté pour du indoor\nJe me demandais si de la triangulation Bluetooth pourrais fonctionner\n\nSinon l’équipe SO est plutôt d’avis de prendre qq chose de standard et existant plutôt que de passer du temps à faire ce travail nous même. S’ils doivent passer par l’achat de borne et capteur en plus, ça le fera",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1607505875.003000",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eyed5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le GPS n’est pas assez précis et adapté pour du indoor\nJe me demandais si de la triangulation Bluetooth pourrais fonctionner\n\nSinon l’équipe SO est plutôt d’avis de prendre qq chose de standard et existant plutôt que de passer du temps à faire ce travail nous même. S’ils doivent passer par l’achat de borne et capteur en plus, ça le fera"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1607532839.003600",
+        "client_msg_id": "ca392519-ae47-425c-8d2f-dc9ca2f29e2c",
+        "text": "Sur internet, ils indiquent qu’une solution BLE + LoRa semble pas mal pour de l’indoor positioning",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1607505875.003000",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zyFXn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sur internet, ils indiquent qu’une solution BLE + LoRa semble pas mal pour de l’indoor positioning"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

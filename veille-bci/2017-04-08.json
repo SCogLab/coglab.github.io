@@ -1,0 +1,75 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1491675387.218027",
+        "text": "<https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC2996143\/>\n<https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC5171906\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "PubMed Central (PMC)",
+                "title": "Localizing and Estimating Causal Relations of Interacting Brain Rhythms",
+                "title_link": "https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC2996143\/",
+                "text": "Estimating brain connectivity and especially causality between different brain regions from EEG or MEG is limited by the fact that the data are a largely unknown superposition of the actual brain activities. Any method, which is not robust to mixing artifacts, ...",
+                "fallback": "PubMed Central (PMC): Localizing and Estimating Causal Relations of Interacting Brain Rhythms",
+                "thumb_url": "https:\/\/www.ncbi.nlm.nih.gov\/corehtml\/pmc\/pmcgifs\/pmc-logo-share.png",
+                "from_url": "https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC2996143\/",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "http:\/\/www.ncbi.nlm.nih.gov\/favicon.ico",
+                "id": 1
+            },
+            {
+                "service_name": "PubMed Central (PMC)",
+                "title": "Intelligence and eeg measures of information flow: efficiency and homeostatic neuroplasticity",
+                "title_link": "https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC5171906\/",
+                "text": "The purpose of this study was to explore the relationship between the magnitude of EEG information flow and intelligence. The electroencephalogram (EEG) was recorded from 19 scalp locations from 371 subjects ranging in age from 5 years to 17.6 years. ...",
+                "fallback": "PubMed Central (PMC): Intelligence and eeg measures of information flow: efficiency and homeostatic neuroplasticity",
+                "thumb_url": "https:\/\/www.ncbi.nlm.nih.gov\/corehtml\/pmc\/pmcgifs\/pmc-logo-share.png",
+                "from_url": "https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC5171906\/",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "http:\/\/www.ncbi.nlm.nih.gov\/favicon.ico",
+                "id": 2
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H3cyH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC2996143\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC5171906\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

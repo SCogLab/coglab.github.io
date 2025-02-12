@@ -1,0 +1,166 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1554150080.000200",
+        "client_msg_id": "5bd964cd-3438-4af9-be83-98a200dae0aa",
+        "text": "<https:\/\/www.youtube.com\/watch?v=XWXhpEr9LPY>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "WebVOWL Editor",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=XWXhpEr9LPY",
+                "author_name": "visualdataweb",
+                "author_link": "https:\/\/www.youtube.com\/user\/visualdataweb",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/XWXhpEr9LPY\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: WebVOWL Editor",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/XWXhpEr9LPY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=XWXhpEr9LPY",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=XWXhpEr9LPY"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tJpJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=XWXhpEr9LPY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1554150172.000500",
+        "client_msg_id": "919cba2e-fe24-49fb-811d-dbdbbd7d179b",
+        "text": "Accessible ici <http:\/\/editor.visualdataweb.org\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "VOWL: Visual Notation for OWL Ontologies",
+                "title_link": "http:\/\/editor.visualdataweb.org\/",
+                "text": "WebVOWL Editor - Visual Ontology Modeling",
+                "fallback": "VOWL: Visual Notation for OWL Ontologies",
+                "from_url": "http:\/\/editor.visualdataweb.org\/",
+                "service_name": "editor.visualdataweb.org",
+                "id": 1,
+                "original_url": "http:\/\/editor.visualdataweb.org\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FvZIU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Accessible ici "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/editor.visualdataweb.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1554150304.000800",
+        "client_msg_id": "bcade1d5-de1b-4d80-bf3c-ead19efa5a91",
+        "text": "<http:\/\/vowl.visualdataweb.org\/webvowl.html>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "WebVOWL - Web-based Visualization of Ontologies",
+                "title_link": "http:\/\/vowl.visualdataweb.org\/webvowl.html",
+                "text": "WebVOWL - Web-based Visualization of Ontologies",
+                "fallback": "WebVOWL - Web-based Visualization of Ontologies",
+                "from_url": "http:\/\/vowl.visualdataweb.org\/webvowl.html",
+                "service_icon": "http:\/\/vowl.visualdataweb.org\/favicon.ico",
+                "service_name": "vowl.visualdataweb.org",
+                "id": 1,
+                "original_url": "http:\/\/vowl.visualdataweb.org\/webvowl.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o7pji",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/vowl.visualdataweb.org\/webvowl.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

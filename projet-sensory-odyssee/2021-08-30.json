@@ -1,0 +1,99 @@
+[
+    {
+        "user": "U01S8PWA7GU",
+        "type": "message",
+        "ts": "1630343277.001400",
+        "client_msg_id": "98f9bdda-eeff-485f-8339-6b6f8207a1e9",
+        "text": "<@UAMPR1P5L> quel est la situation de ton cote avec les dev emotibit ? je suis dispo pour t'aider",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "c0ad61371238",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1886649922098_c0ad61371238e9b3ed71_72.png",
+            "first_name": "Eduardo",
+            "real_name": "Eduardo de Conto",
+            "display_name": "Eduardo de Conto",
+            "team": "T03FC4NDZ",
+            "name": "eduardoconto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pt6xh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UAMPR1P5L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " quel est la situation de ton cote avec les dev emotibit ? je suis dispo pour t'aider"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UAMPR1P5L",
+        "type": "message",
+        "ts": "1630347356.002700",
+        "client_msg_id": "3C61BC0E-42DB-4618-82E7-6C4E1C6F5748",
+        "text": "Hello <@U01S8PWA7GU> je suis off pour quelques jours, je reviens vers toi jeudi.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g73db985d858",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273db985d858035ed23c0594718e0eac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "mesca",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "coglab644",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hK\/M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01S8PWA7GU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je suis off pour quelques jours, je reviens vers toi jeudi."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S8PWA7GU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

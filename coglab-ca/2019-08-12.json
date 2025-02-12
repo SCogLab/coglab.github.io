@@ -1,0 +1,279 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card Exploitation Trello added to list A FAIRE on board Gestion CogLab (administrateur).",
+                "text": "In list *A FAIRE* on *<https:\/\/trello.com\/b\/jSnI3dXM|Gestion CogLab (administrateur)>*.",
+                "pretext": "New card created",
+                "title": "Exploitation Trello",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/VWVTInWy",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1565602490.000300",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U03FC5ZAK",
+        "thread_ts": "1564667710.001500",
+        "root": {
+            "user": "U03FC5ZAK",
+            "type": "message",
+            "ts": "1564667710.001500",
+            "client_msg_id": "053a4bb5-0d50-40e0-949b-f89fc19db822",
+            "text": "Qui est intéressé par cette rencontre afin de convenir d'une date à partir du 19 août ?",
+            "team": "T03FC4NDZ",
+            "thread_ts": "1564667710.001500",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1565610878.000400",
+            "reply_users": [
+                "U03FC5ZAK"
+            ],
+            "replies": [
+                {
+                    "user": "U03FC5ZAK",
+                    "ts": "1565610878.000400"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "syPv",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Qui est intéressé par cette rencontre afin de convenir d'une date à partir du 19 août ?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1565610878.000400",
+        "client_msg_id": "0f491c13-3880-47c4-9b1a-2431c82ec30f",
+        "text": "De mon côté, je n’ai pas de contraintes la semaine prochaine, à part le jeudi 22.\n\nJe vais donc leur proposer plusieurs créneaux",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dlr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "De mon côté, je n’ai pas de contraintes la semaine prochaine, à part le jeudi 22.\n\nJe vais donc leur proposer plusieurs créneaux"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1565611325.000800",
+        "client_msg_id": "433f8a4d-1c56-4222-a038-3520838b47f4",
+        "text": "FIY : je viens de proposer lundi 19 (soirée HackNight), mardi 20 ou jeudi 22 à Imprudence en fin de journée",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1e7d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "FIY : je viens de proposer lundi 19 (soirée HackNight), mardi 20 ou jeudi 22 à Imprudence en fin de journée"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "Romain ROUYER Completed \"Rencontre 4D Motion 9\/08 @rouffi\" in checklist \"Checklist\" on Management projet EEG Tourisme.",
+                "text": "Completed *Rencontre 4D Motion 9\/08 @rouffi* in checklist *Checklist* on *<https:\/\/trello.com\/c\/qrflJNWT|Management projet EEG Tourisme>*.",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1565621069.000900",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "Romain ROUYER Completed \"Gestion stage et étudiante CRI via Jean François (call 24 juillet) @rouffi\" in checklist \"Checklist\" on Management projet EEG Tourisme.",
+                "text": "Completed *Gestion stage et étudiante CRI via Jean François (call 24 juillet) @rouffi* in checklist *Checklist* on *<https:\/\/trello.com\/c\/qrflJNWT|Management projet EEG Tourisme>*.",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1565621070.001000",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card Dongle OpenBCI added to list EN COURS on board Gestion CogLab (administrateur).",
+                "text": "In list *EN COURS* on *<https:\/\/trello.com\/b\/jSnI3dXM|Gestion CogLab (administrateur)>*.",
+                "pretext": "New card created",
+                "title": "Dongle OpenBCI",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/aw59v7iH",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1565622790.001100",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card Facture Summer School EPITA added to list EN COURS on board Gestion CogLab (administrateur).",
+                "text": "In list *EN COURS* on *<https:\/\/trello.com\/b\/jSnI3dXM|Gestion CogLab (administrateur)>*.",
+                "pretext": "New card created",
+                "title": "Facture Summer School EPITA",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/xqH3WYTc",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1565622806.001200",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1565625970.001600",
+        "client_msg_id": "86ae6954-721c-4678-ad07-d517413d55dd",
+        "text": "Bonjour <!here>\n\nMerci de compléter ce sondage pour la tenue du prochain Conseil d’Administration de l’association CogLab, NeuroTechX Paris : <https:\/\/framadate.org\/ca-coglab-0819>\n\nDurée estimée : 1h00 (max 1h30).\n\nOrdre du jour :\n- Démonstrateur EEG aux salons IFTM &amp; Maker Faire Paris (BCI Voyager)\n- Cycles de Meetup Saison 3 et 4 et projets associés (Livre Blanc, CogLab 2042)\n- Point sur les articles de blogs, Wiki et projet associé (SciCog Knowledge Graph)\n- Préparation du C.A. de la Fresco et questionnaire associé",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Tb3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nMerci de compléter ce sondage pour la tenue du prochain Conseil d’Administration de l’association CogLab, NeuroTechX Paris : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/framadate.org\/ca-coglab-0819"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nDurée estimée : 1h00 (max 1h30).\n\nOrdre du jour :\n- Démonstrateur EEG aux salons IFTM & Maker Faire Paris (BCI Voyager)\n- Cycles de Meetup Saison 3 et 4 et projets associés (Livre Blanc, CogLab 2042)\n- Point sur les articles de blogs, Wiki et projet associé (SciCog Knowledge Graph)\n- Préparation du C.A. de la Fresco et questionnaire associé"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1711294607.513839",
+        "client_msg_id": "5064d7a6-33b3-4fa5-9083-629f47b6c15c",
+        "text": "En ce moment Desci London (2e jour) :  <https:\/\/www.youtube.com\/watch?v=b2DfMJMCEZU>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=b2DfMJMCEZU",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/b2DfMJMCEZU\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/b2DfMJMCEZU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"Day 2: The Decentralised Science Conference 2024\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=b2DfMJMCEZU",
+                "fallback": "YouTube Video: Day 2: The Decentralised Science Conference 2024",
+                "title": "Day 2: The Decentralised Science Conference 2024",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=b2DfMJMCEZU",
+                "author_name": "DeSci London",
+                "author_link": "https:\/\/www.youtube.com\/@descilondon",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Et7n7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En ce moment Desci London (2e jour) :  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=b2DfMJMCEZU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01804NJ7AQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,111 @@
+[
+    {
+        "user": "U013Z4CGVB9",
+        "type": "message",
+        "ts": "1606313322.000500",
+        "edited": {
+            "user": "U013Z4CGVB9",
+            "ts": "1606313614.000000"
+        },
+        "client_msg_id": "278116cd-1c16-4deb-b6f9-3edff5fdace3",
+        "text": "Salut tout le monde <!channel> !\nJ'espère que vous allez bien.\nJusqu'à présent on a malheureusement pas beaucoup avancé. La prise en main de l'EEG a été particulièrement fastidieuse et pas encore totalement maîtrisée. On aimerait savoir si l'on pouvait travailler avec l'un de vos EEG, ça nous aiderait beaucoup !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gcc1f466cb69",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cc1f466cb69e526ede2e17c4196c9168.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Hassan Mkhallati",
+            "display_name": "Hassan Mkhallati",
+            "team": "T03FC4NDZ",
+            "name": "hassan.mkhallati-dit-",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y\/=o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut tout le monde "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !\nJ'espère que vous allez bien.\nJusqu'à présent on a malheureusement pas beaucoup avancé. La prise en main de l'EEG a été particulièrement fastidieuse et pas encore totalement maîtrisée. On aimerait savoir si l'on pouvait travailler avec l'un de vos EEG, ça nous aiderait beaucoup !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1606319120.001500",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1606319248.000000"
+        },
+        "client_msg_id": "1d1c617b-1804-4bc9-9f16-3420147d6ac3",
+        "text": "Hello <@U013Z4CGVB9>, je peux vous passer mon bandeau EEG Muse",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SFi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U013Z4CGVB9"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", je peux vous passer mon bandeau EEG Muse"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013Z4CGVB9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1427974755.000002",
+        "text": "<http:\/\/www.emotionalarcade.com\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "EM0TI0NAL ARCADE",
+                "title": "E M 0 T I 0 N A L  A R C A D E",
+                "title_link": "http:\/\/www.emotionalarcade.com\/",
+                "text": "The Emotional Arcade is an interactive installation where experiencers engage in competitive games using their emotions. Because emotions are important, and because feeling is fun.",
+                "fallback": "EM0TI0NAL ARCADE: E M 0 T I 0 N A L  A R C A D E",
+                "thumb_url": "http:\/\/static1.squarespace.com\/static\/52a9ddf0e4b0b732574ea89c\/52aa0154e4b0cb06a58f8570\/52aa88b9e4b0532c165ba2ec\/?format=1000w",
+                "from_url": "http:\/\/www.emotionalarcade.com\/",
+                "thumb_width": 1000,
+                "thumb_height": 1000,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SRSL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.emotionalarcade.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

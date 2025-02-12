@@ -1,0 +1,176 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1501336361.557783",
+        "text": "<@U59MQ46DA> un tuto de Jérémy (Inria Bordeaux) qui peu peut-être aider pour compiler OpenVibe sur MacOS\n<https:\/\/gist.github.com\/jfrey-xx\/34c7dd0a8aa4d73be028be47dcb14176>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "paK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " un tuto de Jérémy (Inria Bordeaux) qui peu peut-être aider pour compiler OpenVibe sur MacOS\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gist.github.com\/jfrey-xx\/34c7dd0a8aa4d73be028be47dcb14176"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "<@U03FC5ZAK|rouffi> shared a file: <https:\/\/scoglab.slack.com\/files\/rouffi\/F6GGMSMC7\/howto_openvibe-2.0.0-beta.md|HOWTO_openvibe-2.0.0-beta.md>",
+        "files": [
+            {
+                "id": "F6GGMSMC7",
+                "created": 1501336377,
+                "timestamp": 1501336377,
+                "name": "HOWTO_openvibe-2.0.0-beta.md",
+                "title": "HOWTO_openvibe-2.0.0-beta.md",
+                "mimetype": "text\/plain",
+                "filetype": "markdown",
+                "pretty_type": "Markdown (raw)",
+                "user": "U03FC5ZAK",
+                "user_team": "T03FC4NDZ",
+                "editable": true,
+                "size": 820,
+                "mode": "snippet",
+                "is_external": true,
+                "external_type": "unknown",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/gist.github.com\/34c7dd0a8aa4d73be028be47dcb14176#file-HOWTO_openvibe-2-0-0-beta-md",
+                "url_private_download": "https:\/\/gist.github.com\/34c7dd0a8aa4d73be028be47dcb14176#file-HOWTO_openvibe-2-0-0-beta-md",
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U03FC5ZAK\/F6GGMSMC7\/howto_openvibe-2.0.0-beta.md",
+                "edit_link": "https:\/\/scoglab.slack.com\/files\/U03FC5ZAK\/F6GGMSMC7\/howto_openvibe-2.0.0-beta.md\/edit",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03FC5ZAK",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6J8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " shared a file: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/scoglab.slack.com\/files\/rouffi\/F6GGMSMC7\/howto_openvibe-2.0.0-beta.md",
+                                "text": "HOWTO_openvibe-2.0.0-beta.md",
+                                "unsafe": true
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1501336377.558847"
+    },
+    {
+        "text": "<@U03FC5ZAK|rouffi> shared a file: <https:\/\/scoglab.slack.com\/files\/rouffi\/F6FHML9J9\/openvibe-2.0.0-beta_compile.patch|openvibe-2.0.0-beta_compile.patch>",
+        "files": [
+            {
+                "id": "F6FHML9J9",
+                "created": 1501336377,
+                "timestamp": 1501336377,
+                "name": "openvibe-2.0.0-beta_compile.patch",
+                "title": "openvibe-2.0.0-beta_compile.patch",
+                "mimetype": "text\/plain",
+                "filetype": "diff",
+                "pretty_type": "Diff",
+                "user": "U03FC5ZAK",
+                "user_team": "T03FC4NDZ",
+                "editable": true,
+                "size": 4907,
+                "mode": "snippet",
+                "is_external": true,
+                "external_type": "unknown",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/gist.github.com\/34c7dd0a8aa4d73be028be47dcb14176#file-openvibe-2-0-0-beta_compile-patch",
+                "url_private_download": "https:\/\/gist.github.com\/34c7dd0a8aa4d73be028be47dcb14176#file-openvibe-2-0-0-beta_compile-patch",
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U03FC5ZAK\/F6FHML9J9\/openvibe-2.0.0-beta_compile.patch",
+                "edit_link": "https:\/\/scoglab.slack.com\/files\/U03FC5ZAK\/F6FHML9J9\/openvibe-2.0.0-beta_compile.patch\/edit",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03FC5ZAK",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oflB9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " shared a file: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/scoglab.slack.com\/files\/rouffi\/F6FHML9J9\/openvibe-2.0.0-beta_compile.patch",
+                                "text": "openvibe-2.0.0-beta_compile.patch"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1501336378.558874"
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1518012223.000114",
+        "text": "Découverte de WikiJS <https:\/\/wiki.js.org\/>\nNotamment utilisé par le gouvernement sur la RGPD <http:\/\/live.parlement-ouvert.fr\/592\/\/15\/AN#article-1>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Wiki.js | A modern open-source Wiki software",
+                "title_link": "https:\/\/wiki.js.org\/",
+                "text": "An open source, modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown.",
+                "fallback": "Wiki.js | A modern open-source Wiki software",
+                "from_url": "https:\/\/wiki.js.org\/",
+                "service_icon": "https:\/\/wiki.js.org\/assets\/favicons\/apple-icon-57x57.png",
+                "service_name": "wiki.js.org",
+                "id": 1
+            },
+            {
+                "title": "Parlement live !",
+                "title_link": "http:\/\/live.parlement-ouvert.fr\/592\/\/15\/AN#article-1",
+                "text": "Suivez les discussions sur les amendements, à l'Assemblée comme au Sénat",
+                "fallback": "Parlement live !",
+                "from_url": "http:\/\/live.parlement-ouvert.fr\/592\/\/15\/AN#article-1",
+                "service_icon": "http:\/\/live.parlement-ouvert.fr\/favicon.ico",
+                "service_name": "live.parlement-ouvert.fr",
+                "id": 2
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SrX1z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Découverte de WikiJS "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/wiki.js.org\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nNotamment utilisé par le gouvernement sur la RGPD "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/live.parlement-ouvert.fr\/592\/\/15\/AN#article-1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U59MQ46DA",
+        "text": "<@U59MQ46DA> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1518012231.000187"
+    }
+]

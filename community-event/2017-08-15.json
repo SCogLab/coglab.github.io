@@ -1,0 +1,28 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Event cancelled: CogLab - HackNight #46: <!date^1503336600^{date_short_pretty} from {time}|August 21st, 2017 from 7:30 PM> to <!date^1503349200^{time}|11:00 PM GMT+0200>",
+                "text": "<!date^1503336600^{date_short_pretty} from {time}|August 21st, 2017 from 7:30 PM> to <!date^1503349200^{time}|11:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Calendar event was cancelled",
+                "title": "CogLab - HackNight #46",
+                "more": "HackNight #46\n\nOrdre du jour :\n- Prototypage Projet OpenBCIA et Google AI Voice Kit\n- Prototypage Autispace\n\nLieu : \n- Skype <https:\/\/join.skype.com\/jSrxm2kHx3PU>\n- Locaux af83 avec Romain pour ceux qui veulent (merci de prévenir avant !)\n\nDocumentation\n- Projet BC[IA] <https:\/\/coglab.hackpad.com\/Projet-OpenBCIA-LNdWg4xq0P8>\n- Migration des outils <https:\/\/coglab.hackpad.com\/Migration-des-Outils-Y9CdSkvJo6u>\n\nInteractions :\n- Slack : <https:\/\/scoglab.slack.com>\n- Communauté Facebook : <https:\/\/www.facebook.com\/groups\/coglab\/>\n- Site <http:\/\/coglab.fr\/>",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=cXNodHJjZG90NG81bnRjdm1sN2k3ZG9wOTRfMjAxNzA4MjFUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1502823731.000092",
+        "bot_id": "B4SJBP2L8"
+    }
+]

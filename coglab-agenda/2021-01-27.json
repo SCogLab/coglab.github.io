@@ -1,0 +1,49 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CogLab - Showcase SO: <!date^1611928800^{date_short_pretty} from {time}|January 29th, 2021 from 3:00 PM> to <!date^1611936000^{time}|5:00 PM GMT+0100>",
+                "text": "<!date^1611928800^{date_short_pretty} from {time}|January 29th, 2021 from 3:00 PM> to <!date^1611936000^{time}|5:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=27+Rue+Maurice+Gunsbourg%2C+94200+Ivry-sur-Seine%2C+France|27 Rue Maurice Gunsbourg, 94200 Ivry-sur-Seine, France>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab - Showcase SO",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MnZla2JyYm5oYTM5bHVsdnM4bmJpbGdkM2ggc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1611761826.001200",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "NTX BIR 2021 Amsterdam: <!date^1611772200^{date_short_pretty} from {time}|January 27th, 2021 from 7:30 PM> to <!date^1611781200^{time}|10:00 PM GMT+0100>",
+                "text": "<!date^1611772200^{date_short_pretty} from {time}|January 27th, 2021 from 7:30 PM> to <!date^1611781200^{time}|10:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Online+event|Online event>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "NTX BIR 2021 Amsterdam",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=N2I2OTcxNTRyM3YxZGF1czAwOGU0bnBpYjggc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1611768602.001300",
+        "bot_id": "B4SJBP2L8"
+    }
+]

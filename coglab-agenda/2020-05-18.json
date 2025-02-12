@@ -1,0 +1,175 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #148 [Online]: <!date^1589817600^{date_short_pretty} from {time}|May 18th, 2020 from 6:00 PM> to <!date^1589828400^{time}|9:00 PM GMT+0200>",
+                "text": "<!date^1589817600^{date_short_pretty} from {time}|May 18th, 2020 from 6:00 PM> to <!date^1589828400^{time}|9:00 PM GMT+0200> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>, ",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #148 [Online]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Mm45a25zNmYwcWtvYTVtbDRwcnAwZjNxamIgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1589814035.008500",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1589820741.008700",
+        "client_msg_id": "d8ff51c9-ca19-4df1-bef8-9c2f38dfe1ca",
+        "text": "We are currently live on Jisti <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>\n\nWeekly HackNight Paris <https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/mnnwrrybchbxb\/>\n\n2 project presentations :\n• <@ULSDVUUVA> present the CogLab, NeuroTechX Paris’s project called “Neuromeditation”, in collaboration with <@U59MQ46DA> \n• Then, we should have a presentation of un0rick project by Luc Jonveaux <http:\/\/un0rick.cc\/>\n",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Jitsi Meet",
+                "title_link": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "text": "Join a WebRTC video conference powered by the Jitsi Videobridge",
+                "fallback": "Jitsi Meet",
+                "from_url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "service_icon": "https:\/\/meet.jit.si\/images\/apple-touch-icon.png",
+                "service_name": "meet.jit.si",
+                "id": 1,
+                "original_url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight"
+            },
+            {
+                "service_name": "Meetup",
+                "title": "HackNight CogLab, NeuroTechX Paris N°148",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/mnnwrrybchbxb\/",
+                "text": "lun. 18 mai 2020 à 18:00: (English version available below)___#Présentation des HackNightsLes HackNight de l'association CogLab, NeuroTechX Paris sont des soirées hebdomadaires conviviales, dédiées au",
+                "fallback": "Meetup: HackNight CogLab, NeuroTechX Paris N°148",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/3\/b\/4\/a\/600_490035178.jpeg",
+                "fields": [
+                    {
+                        "title": "Où",
+                        "value": "Événement en ligne",
+                        "short": true
+                    },
+                    {
+                        "title": "Quand",
+                        "value": "lun. 18 mai 2020 à 18:00",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/mnnwrrybchbxb\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 68154,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/fr-FR\/m_swarm_120x120.4f86abc9.png",
+                "id": 2,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/mnnwrrybchbxb\/"
+            },
+            {
+                "title": "un0rick open hardware",
+                "title_link": "http:\/\/un0rick.cc\/",
+                "text": "un0rick is a open-source ultrasound project.",
+                "fallback": "un0rick open hardware",
+                "from_url": "http:\/\/un0rick.cc\/",
+                "service_name": "un0rick.cc",
+                "id": 3,
+                "original_url": "http:\/\/un0rick.cc\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QVPya",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We are currently live on Jisti "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nWeekly HackNight Paris "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/mnnwrrybchbxb\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n2 project presentations :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "ULSDVUUVA"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " present the CogLab, NeuroTechX Paris’s project called “Neuromeditation”, in collaboration with "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U59MQ46DA"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Then, we should have a presentation of un0rick project by Luc Jonveaux "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/un0rick.cc\/"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ]
+    }
+]

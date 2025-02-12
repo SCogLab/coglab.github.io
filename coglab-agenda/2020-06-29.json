@@ -1,0 +1,128 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #151 [Online]: <!date^1593448200^{date_short_pretty} from {time}|June 29th, 2020 from 6:30 PM> to <!date^1593459000^{time}|9:30 PM GMT+0200>",
+                "text": "<!date^1593448200^{date_short_pretty} from {time}|June 29th, 2020 from 6:30 PM> to <!date^1593459000^{time}|9:30 PM GMT+0200> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>, ",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #151 [Online]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Mm9jMnI4b2NzOXQzM3BxdTBjMmxqamRtZmdfMjAyMDA2MjlUMTYzMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1593444601.000400",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1593449875.001000",
+        "client_msg_id": "7dd9f926-fee7-456c-a2a6-198f092a3ce6",
+        "text": "We are online (<#C0R6W4X2Q|coglab-hacknight> time) with Caglar from Berlin poke <@ULSDVUUVA>\n<https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Jitsi Meet",
+                "title_link": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "text": "Join a WebRTC video conference powered by the Jitsi Videobridge",
+                "fallback": "Jitsi Meet",
+                "from_url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "service_icon": "https:\/\/meet.jit.si\/images\/apple-touch-icon.png",
+                "service_name": "meet.jit.si",
+                "id": 1,
+                "original_url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "90EtV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We are online ("
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0R6W4X2Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " time) with Caglar from Berlin poke "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "ULSDVUUVA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "ULSDVUUVA",
+        "text": "<@ULSDVUUVA> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1593449882.001300"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: [NTX] NeurotechGaming 2020 conference: <!date^1595091600^{date_short_pretty} from {time}|July 18th, 2020 from 7:00 PM> to <!date^1595187000^{date_short_pretty} at {time}|July 19th, 2020 at 9:30 PM GMT+0200>",
+                "text": "<!date^1595091600^{date_short_pretty} from {time}|July 18th, 2020 from 7:00 PM> to <!date^1595187000^{date_short_pretty} at {time}|July 19th, 2020 at 9:30 PM GMT+0200>",
+                "pretext": "New calendar event created",
+                "title": "[NTX] NeurotechGaming 2020 conference",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MjRwbGtqZWdocnBybzFmMzRvcGNjb3I3OW4gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1593451925.003200",
+        "bot_id": "B4SJBP2L8"
+    }
+]

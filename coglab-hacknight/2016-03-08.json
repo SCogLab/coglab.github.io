@@ -1,0 +1,130 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U07CFCCBG",
+        "text": "<@U07CFCCBG> a rejoint le canal",
+        "type": "message",
+        "ts": "1457447623.000002"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FC5ZAK",
+        "text": "<@U03FC5ZAK> a rejoint le canal",
+        "inviter": "U07CFCCBG",
+        "type": "message",
+        "ts": "1457447623.000003"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0MDFGWEP",
+        "text": "<@U0MDFGWEP> a rejoint le canal",
+        "inviter": "U07CFCCBG",
+        "type": "message",
+        "ts": "1457447623.000004"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03JDJWSR",
+        "text": "<@U03JDJWSR> a rejoint le canal",
+        "inviter": "U07CFCCBG",
+        "type": "message",
+        "ts": "1457447623.000005"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FEH3N8",
+        "text": "<@U03FEH3N8> a rejoint le canal",
+        "inviter": "U07CFCCBG",
+        "type": "message",
+        "ts": "1457447623.000006"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0AR01SPQ",
+        "text": "<@U0AR01SPQ> a rejoint le canal",
+        "inviter": "U07CFCCBG",
+        "type": "message",
+        "ts": "1457447624.000007"
+    },
+    {
+        "user": "U07CFCCBG",
+        "type": "message",
+        "ts": "1457447697.000008",
+        "text": "Quelqu’un aurait un petit appareil photo numérique (pas de téléphone) pour lundi prochain ? Flemme de prendre mon gros matos pour des tests",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ca0028538aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-04-21\/36646712194_7ca0028538aa7c07b0e3_72.jpg",
+            "first_name": "Mai",
+            "real_name": "Mai",
+            "display_name": "mai",
+            "team": "T03FC4NDZ",
+            "name": "mai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uhQzS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Quelqu’un aurait un petit appareil photo numérique (pas de téléphone) pour lundi prochain ? Flemme de prendre mon gros matos pour des tests"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1457448210.000009",
+        "text": "Je peux amener mon bridge sans problème",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ig7Rc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je peux amener mon bridge sans problème"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_archive",
+        "user": "U07CFCCBG",
+        "text": "a archivé le canal",
+        "type": "message",
+        "ts": "1457448448.000010"
+    }
+]

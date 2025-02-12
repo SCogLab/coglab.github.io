@@ -1,0 +1,115 @@
+[
+    {
+        "user": "UMQA8DN92",
+        "type": "message",
+        "ts": "1570281355.001300",
+        "client_msg_id": "f10a9ad9-7fe2-4542-898c-130724304d7a",
+        "text": "Tres bien :muscle::skin-tone-2:\nBravo on a tous\nOn debrief quand on re-verra :hugging_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g144939de47f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3144939de47faa73d3d9c8d51dcff306.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Tanguy",
+            "real_name": "Tanguy HERSERANT",
+            "display_name": "Tanguy",
+            "team": "T03FC4NDZ",
+            "name": "tanguyherserant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SGH=o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tres bien "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nBravo on a tous\nOn debrief quand on re-verra "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hugging_face",
+                                "unicode": "1f917"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1570295698.001500",
+        "client_msg_id": "2588293f-c979-4faf-8281-799e11a52ee2",
+        "text": "<https:\/\/www.facebook.com\/iftmparis\/videos\/492959851258739\/?v=492959851258739>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Facebook",
+                "service_url": "https:\/\/www.facebook.com",
+                "author_name": "IFTM Top Resa",
+                "author_link": "https:\/\/www.facebook.com\/iftmparis\/",
+                "fallback": "Facebook Video: ",
+                "from_url": "https:\/\/www.facebook.com\/iftmparis\/videos\/492959851258739\/?v=492959851258739",
+                "id": 1,
+                "original_url": "https:\/\/www.facebook.com\/iftmparis\/videos\/492959851258739\/?v=492959851258739"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ygE8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.facebook.com\/iftmparis\/videos\/492959851258739\/?v=492959851258739"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UMSL037JT",
+                    "UMQA8DN92"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

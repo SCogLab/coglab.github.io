@@ -1,0 +1,101 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1545996543.000500",
+        "client_msg_id": "0dbc9655-f597-4c67-8e75-fd76aa243e74",
+        "text": ":mouse2: :brain: :robot_face:\n<https:\/\/actu.epfl.ch\/news\/blue-brain-project-releases-first-ever-digital-3d-\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Blue Brain Project releases first-ever digital 3D brain cell atlas",
+                "title_link": "https:\/\/actu.epfl.ch\/news\/blue-brain-project-releases-first-ever-digital-3d-\/",
+                "text": "Like “going from hand-drawn maps to Google Earth,” the Blue Brain Cell Atlas allows anyone to visualize every region in the mouse brain, cell-by-cell – and freely download data for new analyses and modelling.",
+                "fallback": "Blue Brain Project releases first-ever digital 3D brain cell atlas",
+                "image_url": "https:\/\/actu.epfl.ch\/image\/72105\/640x360.jpg",
+                "from_url": "https:\/\/actu.epfl.ch\/news\/blue-brain-project-releases-first-ever-digital-3d-\/",
+                "image_width": 446,
+                "image_height": 250,
+                "image_bytes": 76975,
+                "service_icon": "http:\/\/web2018.epfl.ch\/1.0.2\/icons\/apple-touch-icon.png",
+                "service_name": "actu.epfl.ch",
+                "id": 1,
+                "original_url": "https:\/\/actu.epfl.ch\/news\/blue-brain-project-releases-first-ever-digital-3d-\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+jjgf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "mouse2",
+                                "unicode": "1f401"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "brain",
+                                "unicode": "1f9e0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "robot_face",
+                                "unicode": "1f916"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/actu.epfl.ch\/news\/blue-brain-project-releases-first-ever-digital-3d-\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA",
+                    "U03FEH3N8"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U03FEH3N8"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

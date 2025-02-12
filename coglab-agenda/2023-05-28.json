@@ -1,0 +1,76 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There are *3* events this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "Forum BrainPlay (CogitErgo): <!date^1685777400^{date_short_pretty} from {time}|June 3rd, 2023 from 9:30 AM> to <!date^1685809800^{time}|6:30 PM GMT+0200>",
+                "text": "<!date^1685777400^{date_short_pretty} from {time}|June 3rd, 2023 from 9:30 AM> to <!date^1685809800^{time}|6:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Sorbonne+University+Pierre+and+Marie+Curie+Campus%2C+4+Pl.+Jussieu%2C+75005+Paris%2C+France|Sorbonne University Pierre and Marie Curie Campus, 4 Pl. Jussieu, 75005 Paris, France>",
+                "title": "Forum BrainPlay (CogitErgo)",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NXMzbXQwc285b2duamJqb3FrMnZmbGJsMWUgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            },
+            {
+                "id": 2,
+                "color": "7bd148",
+                "fallback": "Science Friction @ Double Science Festival: <!date^1685880000^{date_short_pretty} from {time}|June 4th, 2023 from 2:00 PM> to <!date^1685901600^{time}|8:00 PM GMT+0200>",
+                "text": "<!date^1685880000^{date_short_pretty} from {time}|June 4th, 2023 from 2:00 PM> to <!date^1685901600^{time}|8:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Ground+Control%2C+81+Rue+du+Charolais%2C+75012+Paris%2C+France|Ground Control, 81 Rue du Charolais, 75012 Paris, France>",
+                "title": "Science Friction @ Double Science Festival",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NGs3dWo5NzljOHY1cmdkdmRwZjV2aDBmaTQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            },
+            {
+                "id": 3,
+                "color": "7bd148",
+                "fallback": "HackNight NeuroTechX Paris: <!date^1685377800^{date_short_pretty} from {time}|May 29th, 2023 from 6:30 PM> to <!date^1685388600^{time}|9:30 PM GMT+0200>",
+                "text": "<!date^1685377800^{date_short_pretty} from {time}|May 29th, 2023 from 6:30 PM> to <!date^1685388600^{time}|9:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Makerlab+Paris%2C+8+Bis+Rue+Charles+V%2C+75004+Paris%2C+France|Makerlab Paris, 8 Bis Rue Charles V, 75004 Paris, France>",
+                "title": "HackNight NeuroTechX Paris",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NjdmbWVwN3BxZWVkM3FudjBydnRkcmlkajJfMjAyMzA1MjlUMTYzMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1685340003.208139",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TO11",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " events this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

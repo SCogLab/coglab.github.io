@@ -1,0 +1,202 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1553354166.000900",
+        "client_msg_id": "ea9dad30-2d37-4dba-a0f2-e621f9cd6580",
+        "text": "Cartographie de l’historique des sciences cognitives : <http:\/\/www.riedlanna.com\/cognitivesciencemap.html>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ANNA RIEDL",
+                "title": "Cognitive Science",
+                "title_link": "http:\/\/www.riedlanna.com\/cognitivesciencemap.html",
+                "text": "Map of the cognitive science, historical from 1930 to 2020 with prehistory and future prediction. Including Psychology, Artificial Intelligence, Mathematics, Neuroscience, Biology and more.",
+                "fallback": "ANNA RIEDL: Cognitive Science",
+                "image_url": "http:\/\/www.riedlanna.com\/uploads\/1\/2\/1\/3\/121339134\/cognitivesciencemap-v6_orig.png",
+                "from_url": "http:\/\/www.riedlanna.com\/cognitivesciencemap.html",
+                "image_width": 477,
+                "image_height": 250,
+                "image_bytes": 424985,
+                "service_icon": "http:\/\/www.riedlanna.com\/favicon.ico",
+                "id": 1,
+                "original_url": "http:\/\/www.riedlanna.com\/cognitivesciencemap.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r9p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cartographie de l’historique des sciences cognitives : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.riedlanna.com\/cognitivesciencemap.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1553357568.002800",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1553358119.000000"
+        },
+        "client_msg_id": "35996b2c-d896-4a43-a410-b3b92c5ef31c",
+        "text": "Vers le début d’une taxonomie standard des cellules nerveuses\/neurones grâce au projet Blue Brain : <https:\/\/medicalxpress.com\/news\/2019-03-blue-brain-century-old-neuroscience-problem.html>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1553357568.002800",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1553589290.000400",
+        "reply_users": [
+            "U59MQ46DA",
+            "U03FC5ZAK",
+            "U03FEH3N8"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1553357608.003000"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1553588394.000200"
+            },
+            {
+                "user": "U03FEH3N8",
+                "ts": "1553589290.000400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "title": "Blue Brain solves a century-old neuroscience problem",
+                "title_link": "https:\/\/medicalxpress.com\/news\/2019-03-blue-brain-century-old-neuroscience-problem.html",
+                "text": "A team led by Lida Kanari now reports a new system for distinguishing cell types in the brain, an algorithmic classification method that the researchers say will benefit the entire field of neuroscience. Blue Brain founder Professor Henry Markram says, \"For nearly 100 years, scientists have been trying to name cells. They have been describing them in the same way that Darwin described animals and trees. Now, the Blue Brain Project has developed a mathematical algorithm to objectively classify the shapes of the neurons in the brain. This will allow the development of a standardized taxonomy [classification of cells into distinct groups] of all cells in the brain, which will help researchers compare their data in a more reliable manner.\"",
+                "fallback": "Blue Brain solves a century-old neuroscience problem",
+                "image_url": "https:\/\/3c1703fe8d.site.internapcdn.net\/newman\/gfx\/news\/hires\/2019\/bluebrainsol.jpg",
+                "from_url": "https:\/\/medicalxpress.com\/news\/2019-03-blue-brain-century-old-neuroscience-problem.html",
+                "image_width": 177,
+                "image_height": 250,
+                "image_bytes": 1614458,
+                "service_icon": "https:\/\/medicalxpress.com\/favicon.ico",
+                "service_name": "medicalxpress.com",
+                "id": 1,
+                "original_url": "https:\/\/medicalxpress.com\/news\/2019-03-blue-brain-century-old-neuroscience-problem.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OciB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vers le début d’une taxonomie standard des cellules nerveuses\/neurones grâce au projet Blue Brain : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/medicalxpress.com\/news\/2019-03-blue-brain-century-old-neuroscience-problem.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1553357608.003000",
+        "client_msg_id": "ce9f7391-cd4c-4192-a1bf-1d2fd61627de",
+        "text": "Lien vers la publication : <https:\/\/academic.oup.com\/cercor\/article\/29\/4\/1719\/5304727>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1553357568.002800",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tg34",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lien vers la publication : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/academic.oup.com\/cercor\/article\/29\/4\/1719\/5304727"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

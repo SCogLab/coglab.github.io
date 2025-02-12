@@ -1,0 +1,68 @@
+[
+    {
+        "user": "U0AR01SPQ",
+        "type": "message",
+        "ts": "1464025495.000002",
+        "text": "un wikihow intéressant sur comment créer un jeu: <http:\/\/fr.wikihow.com\/d%C3%A9velopper-votre-propre-jeu-vid%C3%A9o>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b34e84fd77bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-17\/18704226567_b34e84fd77bcdb81946f_72.jpg",
+            "first_name": "Murielle",
+            "real_name": "Murielle PALISSANDRE",
+            "display_name": "murielle",
+            "team": "T03FC4NDZ",
+            "name": "murielle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "wikiHow",
+                "title": "Comment développer votre propre jeu vidéo",
+                "title_link": "http:\/\/fr.wikihow.com\/d%C3%A9velopper-votre-propre-jeu-vid%C3%A9o",
+                "text": "Développer un jeu vidéo n'est pas chose aisée. Si vous avez cependant en tête une bonne idée de jeu, il n'y a aucune raison pour qu'elle ne voie pas le jour. C'est donc maintenant ou jamais le moment idéal pour vous lancer. Grâce à la génér...",
+                "fallback": "wikiHow: Comment développer votre propre jeu vidéo",
+                "image_url": "http:\/\/www.wikihow.com\/images\/f\/fe\/Make-Your-Own-Video-Game-Step-30.jpg",
+                "image_width": 333,
+                "image_height": 250,
+                "from_url": "http:\/\/fr.wikihow.com\/d%C3%A9velopper-votre-propre-jeu-vid%C3%A9o",
+                "image_bytes": 172924,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8w9k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "un wikihow intéressant sur comment créer un jeu: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/fr.wikihow.com\/d%C3%A9velopper-votre-propre-jeu-vid%C3%A9o"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK",
+                    "U0Z7LQQS2"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

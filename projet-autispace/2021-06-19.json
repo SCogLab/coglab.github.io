@@ -1,0 +1,53 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1624091510.000300",
+        "client_msg_id": "502bb7da-3e80-45d4-adcc-5c865c1385c0",
+        "text": "<https:\/\/www.emoface.fr\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "EMOFACE",
+                "title": "EMOFACE - APPRENDRE LES ÉMOTIONS",
+                "title_link": "https:\/\/www.emoface.fr\/",
+                "text": "Emoface développe des solutions pour apprendre aux enfants à distinguer les différentes expressions faciales et à les associer aux émotions correspondantes.",
+                "fallback": "EMOFACE: EMOFACE - APPRENDRE LES ÉMOTIONS",
+                "from_url": "https:\/\/www.emoface.fr\/",
+                "service_icon": "https:\/\/www.emoface.fr\/wp-content\/uploads\/2021\/03\/cropped-favicon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.emoface.fr\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0dNH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.emoface.fr\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

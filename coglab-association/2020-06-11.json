@@ -1,0 +1,84 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U014UEQBC2K",
+        "text": "<@U014UEQBC2K> a rejoint le canal",
+        "type": "message",
+        "ts": "1591900046.003900"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0152GLG3K8",
+        "text": "<@U0152GLG3K8> a rejoint le canal",
+        "type": "message",
+        "ts": "1591901439.004100"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1591910609.005000",
+        "client_msg_id": "aa42e6b5-0ad7-45e0-88a7-1148681898ff",
+        "text": "Petite mise à jour du site web : je viens de tester la mise en place d'un ChatBot :robot_face:\n<http:\/\/coglab.fr\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "CogLab, NeuroTechX Paris",
+                "title_link": "http:\/\/coglab.fr\/",
+                "text": "Communauté ouverte explorant les Sciences Cognitives",
+                "fallback": "CogLab, NeuroTechX Paris",
+                "image_url": "https:\/\/coglab.fr\/wp-content\/uploads\/2016\/01\/DSC01772-2.jpg",
+                "image_width": 801,
+                "image_height": 250,
+                "from_url": "http:\/\/coglab.fr\/",
+                "image_bytes": 948178,
+                "service_icon": "https:\/\/i0.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=180%2C180&#038;ssl=1",
+                "service_name": "coglab.fr",
+                "id": 1,
+                "original_url": "http:\/\/coglab.fr\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sgMZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Petite mise à jour du site web : je viens de tester la mise en place d'un ChatBot "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "robot_face",
+                                "unicode": "1f916"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/coglab.fr\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

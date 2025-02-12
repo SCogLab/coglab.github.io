@@ -1,0 +1,93 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1542655665.000200",
+        "client_msg_id": "77b54c77-aae1-4ad2-b8a2-83e58f667d71",
+        "text": "<http:\/\/karunavr.com\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/I4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/karunavr.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1542655696.000400",
+        "client_msg_id": "6a6cdf66-fff2-4f81-a9c9-7c5f1dfbe077",
+        "text": "<https:\/\/realityvirtuallyhack.com\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Reality Virtually Hackathon",
+                "title_link": "https:\/\/realityvirtuallyhack.com\/",
+                "text": "Calling everyone to create, learn and explore new and yet to be known VR and AR applications at the MIT Media Lab, Cambridge, Massachusetts, USA",
+                "fallback": "Reality Virtually Hackathon",
+                "thumb_url": "https:\/\/realityvirtuallyhack.com\/img\/seo\/rv-hack-social-photo.png",
+                "from_url": "https:\/\/realityvirtuallyhack.com\/",
+                "thumb_width": 1024,
+                "thumb_height": 512,
+                "service_name": "realityvirtuallyhack.com",
+                "id": 1,
+                "original_url": "https:\/\/realityvirtuallyhack.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4ejhB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/realityvirtuallyhack.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

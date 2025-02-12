@@ -1,0 +1,33 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "UUC2JHAMR",
+        "text": "<@UUC2JHAMR> a rejoint le canal",
+        "type": "message",
+        "ts": "1588844351.007200"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "NTX BCI_101 Week 1 Day 3: <!date^1588870800^{date_short_pretty} from {time}|May 7th, 2020 from 7:00 PM> to <!date^1588874400^{time}|8:00 PM GMT+0200>",
+                "text": "<!date^1588870800^{date_short_pretty} from {time}|May 7th, 2020 from 7:00 PM> to <!date^1588874400^{time}|8:00 PM GMT+0200> at <https:\/\/www.eventbrite.com\/e\/bci-101-tickets-103682840166>, ",
+                "pretext": "Event starting in 1 hour:",
+                "title": "NTX BCI_101 Week 1 Day 3",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MW4xNTQ4bzNjMGNoODd2YzltanE3NTEwM3Egc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1588867238.007300",
+        "bot_id": "B4SJBP2L8"
+    }
+]

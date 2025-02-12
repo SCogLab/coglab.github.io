@@ -1,0 +1,91 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1689678277.953289",
+        "client_msg_id": "71722ff0-bacf-43d6-8e6e-270d36fbea53",
+        "text": "Ok, dès que j'ai un peu de temps je regarderai le reddit.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1689429152.802509",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tAk=W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok, dès que j'ai un peu de temps je regarderai le reddit."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U030N4TDS3G"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U030N4TDS3G",
+        "type": "message",
+        "ts": "1689679079.552219",
+        "client_msg_id": "d4c8e096-a6ec-4619-9096-d963dbf53b91",
+        "text": "Merci beaucoup",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "683dfd9e69a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-10\/8136710699895_683dfd9e69a03425b687_72.jpg",
+            "first_name": "Dimitri",
+            "real_name": "Dimitri Boïdo",
+            "display_name": "Dimitri B.",
+            "team": "T03FC4NDZ",
+            "name": "dimitri.boido",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1689429152.802509",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2\/=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci beaucoup"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1507151215.000572",
+        "text": "Bonsoir <!channel>, notre dernière newsletter est enfin sortie !\nN'hésitez pas à donner votre avis, réagir et diffuser :slightly_smiling_face:\n<http:\/\/mailchi.mp\/0028577f625a\/coglab-newsletter-octobre2017>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Newsletter CogLab, Octobre 2017",
+                "title_link": "http:\/\/mailchi.mp\/0028577f625a\/coglab-newsletter-octobre2017",
+                "text": "L'actualité de NeuroTechX Paris et du réseau associatif en Sciences Cognitives. Au programme : création de l'association, FSC2017, Culture Experience Days et LabVR StoryCode.",
+                "fallback": "Newsletter CogLab, Octobre 2017",
+                "image_url": "https:\/\/gallery.mailchimp.com\/4cd8f74435\/images\/9667dcb1-7173-4138-a368-d5d22f91f13d.jpg",
+                "from_url": "http:\/\/mailchi.mp\/0028577f625a\/coglab-newsletter-octobre2017",
+                "image_width": 546,
+                "image_height": 250,
+                "image_bytes": 890920,
+                "service_icon": "http:\/\/mailchi.mp\/favicon.ico",
+                "service_name": "mailchi.mp",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A3MlL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonsoir "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", notre dernière newsletter est enfin sortie !\nN'hésitez pas à donner votre avis, réagir et diffuser "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/mailchi.mp\/0028577f625a\/coglab-newsletter-octobre2017"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0AR01SPQ",
+                    "U6EPG5PTQ"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

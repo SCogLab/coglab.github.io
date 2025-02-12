@@ -1,0 +1,355 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1615839358.000500",
+        "client_msg_id": "aae918c8-5578-4c75-ac81-d3aec5c63622",
+        "text": ":wave: des gens en ligne pour la permanence de ce soir ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8X569",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " des gens en ligne pour la permanence de ce soir ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UMSL037JT",
+        "type": "message",
+        "ts": "1615839381.000700",
+        "client_msg_id": "d70ef3f2-f2e6-4dd5-97db-352161100f96",
+        "text": "Yes",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gc83ebac7853",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1c83ebac7853c13b22f556e7fdb52598.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Maxime Osty",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "maxime.osty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C0a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "sh_room_created",
+        "text": "A démarré un <https:\/\/scoglab.slack.com\/call\/R01RPLK3YD7|appel>.",
+        "user": "U03FC5ZAK",
+        "channel": "C01JBBNSJ0M",
+        "room": {
+            "id": "R01RPLK3YD7",
+            "name": "HackNight 185",
+            "media_server": "",
+            "created_by": "U03FC5ZAK",
+            "date_start": 1615839411,
+            "date_end": 1615843748,
+            "participants": [],
+            "participant_history": [
+                "U03FC5ZAK",
+                "UMSL037JT",
+                "U59MQ46DA"
+            ],
+            "participants_events": {
+                "U03FC5ZAK": {
+                    "user_team": {},
+                    "joined": true,
+                    "camera_on": false,
+                    "camera_off": false,
+                    "screenshare_on": false,
+                    "screenshare_off": false
+                },
+                "UMSL037JT": {
+                    "user_team": {},
+                    "joined": true,
+                    "camera_on": false,
+                    "camera_off": false,
+                    "screenshare_on": true,
+                    "screenshare_off": true
+                },
+                "U59MQ46DA": {
+                    "user_team": {},
+                    "joined": true,
+                    "camera_on": false,
+                    "camera_off": false,
+                    "screenshare_on": true,
+                    "screenshare_off": true
+                }
+            },
+            "participants_camera_on": [],
+            "participants_camera_off": [],
+            "participants_screenshare_on": [],
+            "participants_screenshare_off": [],
+            "canvas_thread_ts": "0000000000.000000",
+            "thread_root_ts": "0000000000.000000",
+            "channels": [
+                "C01JBBNSJ0M"
+            ],
+            "is_dm_call": false,
+            "was_rejected": false,
+            "was_missed": false,
+            "was_accepted": false,
+            "has_ended": true,
+            "media_backend_type": "free_willy",
+            "external_unique_id": "1a4c80c7-c9e0-4a79-81ee-944546bb47ec",
+            "app_id": "A00",
+            "call_family": "native_call"
+        },
+        "no_notifications": false,
+        "permalink": "https:\/\/scoglab.slack.com\/call\/R01RPLK3YD7",
+        "team": "T03FC4NDZ",
+        "type": "message",
+        "ts": "1615839419.000800"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1615841324.002000",
+        "client_msg_id": "9ab78ce4-87df-48b6-96a4-196af399f210",
+        "text": "Le doc pour le projet de vulgarisation avec nos amis d’Ekos\n\n<https:\/\/docs.google.com\/document\/d\/1FHYuwHvTOSAgZkIBbUgTin3y3rjzuZjdxvXSnhSIvtM\/edit>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VGT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le doc pour le projet de vulgarisation avec nos amis d’Ekos\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1FHYuwHvTOSAgZkIBbUgTin3y3rjzuZjdxvXSnhSIvtM\/edit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1615841681.002500",
+        "client_msg_id": "13b6f605-5a56-4724-8723-02eec504f0c0",
+        "text": "Le FSC à changé de “peau” numérique pour la version 2021 :slightly_smiling_face:\n<https:\/\/www.facebook.com\/ForumDesSciencesCognitives\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Facebook",
+                "title": "Log into Facebook",
+                "title_link": "https:\/\/www.facebook.com\/ForumDesSciencesCognitives\/",
+                "text": "Log into Facebook to start sharing and connecting with your friends, family, and people you know.",
+                "fallback": "Facebook: Log into Facebook",
+                "from_url": "https:\/\/www.facebook.com\/ForumDesSciencesCognitives\/",
+                "service_icon": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/yz\/r\/KFyVIAWzntM.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.facebook.com\/ForumDesSciencesCognitives\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jxC+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le FSC à changé de “peau” numérique pour la version 2021 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.facebook.com\/ForumDesSciencesCognitives\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1615842405.002800",
+        "client_msg_id": "8db6b65d-37ed-45dc-ab79-f56f27c2395d",
+        "text": "<https:\/\/www.youtube.com\/watch?v=0p7HKKvIrUc>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Lesson 3.3: Neuroscience - Motor Areas of the Brain - Foundations of Neurotechnology",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=0p7HKKvIrUc",
+                "author_name": "The BCI Guys",
+                "author_link": "https:\/\/www.youtube.com\/c\/TheBCIGuys",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/0p7HKKvIrUc\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Lesson 3.3: Neuroscience - Motor Areas of the Brain - Foundations of Neurotechnology",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/0p7HKKvIrUc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=0p7HKKvIrUc",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=0p7HKKvIrUc"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HF11=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=0p7HKKvIrUc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1615842758.003100",
+        "client_msg_id": "e35b89e5-c834-405e-b15e-3e0bb48c2a43",
+        "text": "<https:\/\/cognivence.scicog.fr\/forum-des-sciences-cognitives-2020\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hQFf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/cognivence.scicog.fr\/forum-des-sciences-cognitives-2020\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

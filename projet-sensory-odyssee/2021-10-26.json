@@ -1,0 +1,527 @@
+[
+    {
+        "user": "U02GLDKAWQ2",
+        "type": "message",
+        "ts": "1635237535.016300",
+        "client_msg_id": "e66a1ff7-1db1-467d-bf5f-1abb736e93c6",
+        "text": "Bonjour, voici quelques inputs avec <@U02GLDK69UJ>\n\n*Idée du questionnaire :*  mesure du flow avec échelle de Heutte, 2009 \n( <http:\/\/jean.heutte.free.fr\/spip.php?article101>) --&gt; 4 sous dimensions. \n\n• + construire une échelle de sentiment d’immersion (items à sélectionner et prétester)\n• vérifier dans le *pré-test* la validité convergente de “l’émerveillement” &amp; validité divergente des items\n• Voir le travail de Carine Lallemand pour traductions éventuelles de tests standardisés (<https:\/\/uxmind.eu\/tag\/guillaume-gronier\/>)\n⇒ *Objectifs* : voir si le score global du questionnaire et\/ou des sous-dimensions corrèle avec les mesures Physio\/EEG.\n\n\n*Pré-Tests questionnaires :* voir si notre questionnaire mesure bien qque chose (_Sensibilité, fidélité interne, validité convergente\/divergente : avec d’autres échelles par ex_)\n\nEst-ce possible de faire des pré-tests pour le questionnaire au musée avant les passations ?\nQuestion de la baseline une salle d’expo “basique” (grande galerie) ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "07907cc25c46",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-05\/2590402880352_07907cc25c46364153a5_72.jpg",
+            "first_name": "Adrien",
+            "real_name": "Adrien Paire",
+            "display_name": "Adrien Paire",
+            "team": "T03FC4NDZ",
+            "name": "adrienpaire",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Mesurer le Flow : vers la construction de Flow4D-16 (Heutte, 2009) - Bloc notes de Jean Heutte : sérendipité, phronèsis et ataraxie sont les trois mamelles qui nourrissent l'Épicurien de la connaissance ;-)",
+                "title_link": "http:\/\/jean.heutte.free.fr\/spip.php?article101",
+                "text": "De nombreux essais depuis la méthode ESM, jusqu’aux questionnaires… « Plusieurs outils d’autodescription ont été créés afin d’étudier les éléments de (...)",
+                "fallback": "Mesurer le Flow : vers la construction de Flow4D-16 (Heutte, 2009) - Bloc notes de Jean Heutte : sérendipité, phronèsis et ataraxie sont les trois mamelles qui nourrissent l'Épicurien de la connaissance ;-)",
+                "from_url": "http:\/\/jean.heutte.free.fr\/spip.php?article101",
+                "service_icon": "http:\/\/jean.heutte.free.fr\/plugins\/sarkaspip_31\/images\/favicon.ico",
+                "service_name": "jean.heutte.free.fr",
+                "id": 1,
+                "original_url": "http:\/\/jean.heutte.free.fr\/spip.php?article101"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mi3=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour, voici quelques inputs avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02GLDK69UJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Idée du questionnaire :",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "  mesure du flow avec échelle de Heutte, 2009 \n( "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/jean.heutte.free.fr\/spip.php?article101"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") --> 4 sous dimensions. \n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "+ construire une échelle de sentiment d’immersion (items à sélectionner et prétester)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "vérifier dans le "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "pré-test",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " la validité convergente de “l’émerveillement” & validité divergente des items"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Voir le travail de Carine Lallemand pour traductions éventuelles de tests standardisés ("
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/uxmind.eu\/tag\/guillaume-gronier\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n⇒ "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Objectifs ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": voir si le score global du questionnaire et\/ou des sous-dimensions corrèle avec les mesures Physio\/EEG.\n\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Pré-Tests questionnaires :",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " voir si notre questionnaire mesure bien qque chose ("
+                            },
+                            {
+                                "type": "text",
+                                "text": "Sensibilité, fidélité interne, validité convergente\/divergente : avec d’autres échelles par ex",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n\nEst-ce possible de faire des pré-tests pour le questionnaire au musée avant les passations ?\nQuestion de la baseline une salle d’expo “basique” (grande galerie) ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S8PWA7GU",
+                    "U03FC5ZAK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1635239539.016900",
+        "client_msg_id": "3a2c92a4-1f41-455f-8ed6-77a143f8991a",
+        "text": "Couverture média de l’expo : <https:\/\/www.sortiraparis.com\/arts-culture\/exposition\/articles\/258586-l-odyssee-sensorielle-l-exposition-immersive-evenement-au-museum-d-histoire-natu|https:\/\/www.sortiraparis.com\/arts-culture\/exposition\/articles\/258586-l-odyssee-sensorie[…]l-exposition-immersive-evenement-au-museum-d-histoire-natu>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1635239539.016900",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1635368433.021700",
+        "reply_users": [
+            "U59MQ46DA",
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1635239554.017100"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1635239566.017400"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1635239658.017700"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1635240189.018000"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1635354077.018600"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1635368433.021700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "title": "L'Odyssée sensorielle, l'exposition immersive événement au Muséum d'Histoire naturelle de Paris",
+                "title_link": "https:\/\/www.sortiraparis.com\/arts-culture\/exposition\/articles\/258586-l-odyssee-sensorielle-l-exposition-immersive-evenement-au-museum-d-histoire-natu",
+                "text": "Plus qu'une exposition, le Muséum national d'Histoire naturelle de Paris nous propose une expérience immersive inédite et exceptionnelle : du 23 octobre 2021 au 4 juillet 2022, plongez dans \"L'Odyssée sensorielle\" et découvrez le monde vivant comme vous ne l'aviez jamais vu... ou senti !",
+                "fallback": "L'Odyssée sensorielle, l'exposition immersive événement au Muséum d'Histoire naturelle de Paris",
+                "image_url": "https:\/\/www.sortiraparis.com\/images\/58\/95870\/692998-photos-odyssee-sensorielle-lexpo-immersive-au-museum-22.jpg",
+                "from_url": "https:\/\/www.sortiraparis.com\/arts-culture\/exposition\/articles\/258586-l-odyssee-sensorielle-l-exposition-immersive-evenement-au-museum-d-histoire-natu",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 372022,
+                "service_icon": "https:\/\/www.sortiraparis.com\/resources\/apple-touch-icon\/1568441994.png",
+                "service_name": "sortiraparis.com",
+                "id": 1,
+                "original_url": "https:\/\/www.sortiraparis.com\/arts-culture\/exposition\/articles\/258586-l-odyssee-sensorielle-l-exposition-immersive-evenement-au-museum-d-histoire-natu"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vS1uT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Couverture média de l’expo : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sortiraparis.com\/arts-culture\/exposition\/articles\/258586-l-odyssee-sensorielle-l-exposition-immersive-evenement-au-museum-d-histoire-natu",
+                                "text": "https:\/\/www.sortiraparis.com\/arts-culture\/exposition\/articles\/258586-l-odyssee-sensorie[…]l-exposition-immersive-evenement-au-museum-d-histoire-natu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S8PWA7GU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rolled_up_newspaper",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1635239554.017100",
+        "client_msg_id": "6f2b3045-5344-4b08-b684-a1e73104e1b3",
+        "text": "<https:\/\/usbeketrica.com\/fr\/article\/l-odyssee-sensorielle-une-exposition-immersive-pour-s-emerveiller-face-au-vivant>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1635239539.016900",
+        "parent_user_id": "U59MQ46DA",
+        "attachments": [
+            {
+                "fallback": "« L’Odyssée sensorielle », une exposition immersive pour s’émerveiller face au vivant",
+                "image_url": "https:\/\/usbeketrica.com\/uploads\/media\/1640x720\/08\/83468-OS5.jpg?v=1-0",
+                "image_width": 569,
+                "image_height": 250,
+                "image_bytes": 784166,
+                "from_url": "https:\/\/usbeketrica.com\/fr\/article\/l-odyssee-sensorielle-une-exposition-immersive-pour-s-emerveiller-face-au-vivant",
+                "service_name": "usbeketrica.com",
+                "service_icon": "https:\/\/usbeketrica.com\/build\/usbeketrica\/images\/icons\/esperluette-57-b871fb9d35.png",
+                "title": "« L’Odyssée sensorielle », une exposition immersive pour s’émerveiller face au vivant",
+                "title_link": "https:\/\/usbeketrica.com\/fr\/article\/l-odyssee-sensorielle-une-exposition-immersive-pour-s-emerveiller-face-au-vivant",
+                "text": "L’exposition L’Odyssée sensorielle s’est ouverte le 23 octobre au Muséum national d’Histoire naturelle, à Paris. Elle propose un voyage inédit au cœur de huit écosystèmes pour découvrir des espèces animales en tout genre, à travers des dispositifs à la fois visuels, sonores et olfactifs.",
+                "id": 1,
+                "original_url": "https:\/\/usbeketrica.com\/fr\/article\/l-odyssee-sensorielle-une-exposition-immersive-pour-s-emerveiller-face-au-vivant"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6gP5q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/usbeketrica.com\/fr\/article\/l-odyssee-sensorielle-une-exposition-immersive-pour-s-emerveiller-face-au-vivant"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1635239566.017400",
+        "client_msg_id": "84966dd5-5aeb-4a10-bc5f-75c48f29855e",
+        "text": "<https:\/\/www.lebonbon.fr\/marseille\/expo\/installation-xxl-expo-odyssee-sensorielle-gare-marseille-saint-charles\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1635239539.016900",
+        "parent_user_id": "U59MQ46DA",
+        "attachments": [
+            {
+                "service_name": "Le Bonbon",
+                "title": "Une installation XXL inédite prend place sur le parvis de la gare de Marseille Saint-Charles",
+                "title_link": "https:\/\/www.lebonbon.fr\/marseille\/expo\/installation-xxl-expo-odyssee-sensorielle-gare-marseille-saint-charles\/",
+                "text": "Un des Univers de l'exposition l'Odyssee sensorielle s'installe sur le parvis de la Gare Marseille Saint-Charles.",
+                "fallback": "Le Bonbon: Une installation XXL inédite prend place sur le parvis de la gare de Marseille Saint-Charles",
+                "image_url": "https:\/\/uploads.lebonbon.fr\/source\/2021\/october\/2024901\/expo-senso-marseille_2_1000.jpg",
+                "ts": 1635231849,
+                "from_url": "https:\/\/www.lebonbon.fr\/marseille\/expo\/installation-xxl-expo-odyssee-sensorielle-gare-marseille-saint-charles\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 109554,
+                "service_icon": "https:\/\/www.lebonbon.fr\/img\/favicons\/apple-touch-icon-180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.lebonbon.fr\/marseille\/expo\/installation-xxl-expo-odyssee-sensorielle-gare-marseille-saint-charles\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y975",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.lebonbon.fr\/marseille\/expo\/installation-xxl-expo-odyssee-sensorielle-gare-marseille-saint-charles\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1635239658.017700",
+        "client_msg_id": "bea7697f-dac6-4be7-98f3-4e2e736532cd",
+        "text": "<https:\/\/actu.fr\/grand-est\/strasbourg_67482\/strasbourg-c-est-quoi-cette-installation-geante-installee-sur-la-facade-de-la-gare_45920948.html>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1635239539.016900",
+        "parent_user_id": "U59MQ46DA",
+        "attachments": [
+            {
+                "service_name": "actu.fr",
+                "title": "Strasbourg : c'est quoi cette installation géante installée sur la façade de la gare ?",
+                "title_link": "https:\/\/actu.fr\/grand-est\/strasbourg_67482\/strasbourg-c-est-quoi-cette-installation-geante-installee-sur-la-facade-de-la-gare_45920948.html",
+                "text": "La verrière de la gare de Strasbourg accueille jusqu'au 15 décembre 2021, une installation XXL inédite, créée sur mesure pour elle.",
+                "fallback": "actu.fr: Strasbourg : c'est quoi cette installation géante installée sur la façade de la gare ?",
+                "image_url": "https:\/\/static.actu.fr\/uploads\/2021\/10\/sncf-strasbourg.jpg",
+                "from_url": "https:\/\/actu.fr\/grand-est\/strasbourg_67482\/strasbourg-c-est-quoi-cette-installation-geante-installee-sur-la-facade-de-la-gare_45920948.html",
+                "image_width": 369,
+                "image_height": 250,
+                "image_bytes": 317037,
+                "service_icon": "https:\/\/static.actu.fr\/themes\/actu_v2\/dist\/favicons\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/actu.fr\/grand-est\/strasbourg_67482\/strasbourg-c-est-quoi-cette-installation-geante-installee-sur-la-facade-de-la-gare_45920948.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9x=ta",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/actu.fr\/grand-est\/strasbourg_67482\/strasbourg-c-est-quoi-cette-installation-geante-installee-sur-la-facade-de-la-gare_45920948.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1635240189.018000",
+        "client_msg_id": "d1fdb878-2442-4cce-9ab1-173bf08b7abf",
+        "text": "<https:\/\/www.sciencesetavenir.fr\/decouvrir\/agenda\/sensory-odyssey-une-exposition-multisens-au-museum_155802#comments>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1635239539.016900",
+        "parent_user_id": "U59MQ46DA",
+        "attachments": [
+            {
+                "service_name": "Sciences et Avenir",
+                "title": "L’Odyssée sensorielle, une exposition multisens au Muséum - Sciences et Avenir",
+                "title_link": "https:\/\/www.sciencesetavenir.fr\/decouvrir\/agenda\/sensory-odyssey-une-exposition-multisens-au-museum_155802#comments",
+                "text": "L'exposition l'Odyssée sensorielle au MNHN permet de découvrir le monde en odeurs.",
+                "fallback": "Sciences et Avenir: L’Odyssée sensorielle, une exposition multisens au Muséum - Sciences et Avenir",
+                "image_url": "https:\/\/www.sciencesetavenir.fr\/assets\/img\/2021\/07\/19\/cover-r4x3w1000-60f537931b807-mnhn-so-30x20-presse.jpg",
+                "from_url": "https:\/\/www.sciencesetavenir.fr\/decouvrir\/agenda\/sensory-odyssey-une-exposition-multisens-au-museum_155802#comments",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 94227,
+                "service_icon": "https:\/\/www.sciencesetavenir.fr\/icons\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.sciencesetavenir.fr\/decouvrir\/agenda\/sensory-odyssey-une-exposition-multisens-au-museum_155802#comments"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jDnqj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sciencesetavenir.fr\/decouvrir\/agenda\/sensory-odyssey-une-exposition-multisens-au-museum_155802#comments"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

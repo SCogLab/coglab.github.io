@@ -1,0 +1,32 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "UP8GBG6GY",
+        "text": "<@UP8GBG6GY> a rejoint le canal",
+        "type": "message",
+        "ts": "1570703234.000200"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Hans Harisson",
+                "fallback": "Hans Harisson commented on Fête de la science 2019: \"Bonus : jeudi 10 octobre : sciences cognitives et société à l'ENS amphi Jaurès\"",
+                "text": "Bonus : jeudi 10 octobre : sciences cognitives et société à l'ENS amphi Jaurès",
+                "pretext": "New comment on *<https:\/\/trello.com\/c\/v9R2DbJL|Fête de la science 2019>*",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/hansharisson1",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1570720191.000400",
+        "bot_id": "B66HQV43C"
+    }
+]

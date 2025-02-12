@@ -1,0 +1,97 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event cancelled: CogLab - Apéro IRL: <!date^1598281200^{date_short_pretty} from {time}|August 24th, 2020 from 5:00 PM> to <!date^1598295600^{time}|9:00 PM GMT+0200>",
+                "text": "<!date^1598281200^{date_short_pretty} from {time}|August 24th, 2020 from 5:00 PM> to <!date^1598295600^{time}|9:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Quai+de+la+Seine%2C+75019+Paris%2C+France|Quai de la Seine, 75019 Paris, France>",
+                "pretext": "Calendar event was cancelled",
+                "title": "CogLab - Apéro IRL",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MzY0bzZkbGYxanNvZjE5cTg5YTl2NG5naHIgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1598196965.000600",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CogLab HackNight #161 [IRL]: <!date^1598281200^{date_short_pretty} from {time}|August 24th, 2020 from 5:00 PM> to <!date^1598295600^{time}|9:00 PM GMT+0200>",
+                "text": "<!date^1598281200^{date_short_pretty} from {time}|August 24th, 2020 from 5:00 PM> to <!date^1598295600^{time}|9:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Quai+de+la+Seine%2C+75019+Paris%2C+France|Quai de la Seine, 75019 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab HackNight #161 [IRL]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NnJpMnZvZHQ5ZzZya2RrY282ZnZ2NDFnaTMgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1598196965.000700",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "There is *1* event this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #161 [IRL]: <!date^1598281200^{date_short_pretty} from {time}|August 24th, 2020 from 5:00 PM> to <!date^1598295600^{time}|9:00 PM GMT+0200>",
+                "text": "<!date^1598281200^{date_short_pretty} from {time}|August 24th, 2020 from 5:00 PM> to <!date^1598295600^{time}|9:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Quai+de+la+Seine%2C+75019+Paris%2C+France|Quai de la Seine, 75019 Paris, France>",
+                "title": "CogLab HackNight #161 [IRL]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NnJpMnZvZHQ5ZzZya2RrY282ZnZ2NDFnaTMgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1598248806.000800",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mQR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "1",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " event this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

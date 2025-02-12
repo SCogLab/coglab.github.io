@@ -1,0 +1,184 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1653316481.895949",
+        "client_msg_id": "950ee717-0c57-4b64-b115-04ac1dcb25a3",
+        "text": "Petit check <https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/vrgztsydchbfc\/|HackNight> pour ce soir :\n• <@U59MQ46DA> assurera la permanence au LPI\n• de mon côté je ferais une petite permanence en ligne sur la première heure sur Jitsi <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/vrgztsydchbfc\/",
+                "image_url": "https:\/\/secure-content.meetupstatic.com\/images\/classic-events\/503971627\/676x380.jpg",
+                "image_width": 445,
+                "image_height": 250,
+                "image_bytes": 50517,
+                "service_icon": "https:\/\/secure.meetupstatic.com\/next\/images\/general\/m_swarm_120x120.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/vrgztsydchbfc\/",
+                "fallback": "Meetup: HackNight NeuroTechX Paris, Mon, May 23, 2022, 6:30 PM   | Meetup",
+                "text": "Mon, May 23, 6:30 PM CEST: **Programme de la soirée** On se retrouve dans le MakerLab du Learning Planet Institute (ex Centre de Recherche Interdisciplinaire) situé rue Charle V, Paris 4e. 1\\. Foru",
+                "title": "HackNight NeuroTechX Paris, Mon, May 23, 2022, 6:30 PM   | Meetup",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/vrgztsydchbfc\/",
+                "service_name": "Meetup"
+            },
+            {
+                "from_url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "service_icon": "https:\/\/meet.jit.si\/images\/apple-touch-icon.png",
+                "id": 2,
+                "original_url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "fallback": "Jitsi Meet",
+                "text": "Join a WebRTC video conference powered by the Jitsi Videobridge",
+                "title": "Jitsi Meet",
+                "title_link": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "service_name": "meet.jit.si"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JJkC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Petit check "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/vrgztsydchbfc\/",
+                                "text": "HackNight"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour ce soir :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U59MQ46DA"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " assurera la permanence au LPI"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "de mon côté je ferais une petite permanence en ligne sur la première heure sur Jitsi "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01804NJ7AQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1653324546.979609",
+        "client_msg_id": "4964ba7b-aa64-439f-a16f-8a4947ffd1aa",
+        "text": "je suis avec Morgan de San Francisco sur Jitsi <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "service_icon": "https:\/\/meet.jit.si\/images\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "fallback": "Jitsi Meet",
+                "text": "Join a WebRTC video conference powered by the Jitsi Videobridge",
+                "title": "Jitsi Meet",
+                "title_link": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "service_name": "meet.jit.si"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7TLt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je suis avec Morgan de San Francisco sur Jitsi "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01804NJ7AQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

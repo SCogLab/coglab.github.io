@@ -1,0 +1,118 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1724952523.518849",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1724952571.000000"
+        },
+        "client_msg_id": "a73eee33-c0cf-4793-a487-df4d1c335be8",
+        "text": "via NTX Slack : <https:\/\/www.syntheticintelligencelabs.com\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.syntheticintelligencelabs.com\/",
+                "thumb_url": "https:\/\/synthetic-intelligence-labs.github.io\/SIL-website\/assets\/img\/logo.webp",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 1,
+                "original_url": "https:\/\/www.syntheticintelligencelabs.com\/",
+                "fallback": "Bio-Silicon Synergetic Intelligence System | Synthetic Intelligence Labs",
+                "text": "Synthetic Intelligence Labs is leading the way in developing bio-silicon intelligence systems. Explore how we bridge biological cognition with silicon-based computational power.",
+                "title": "Bio-Silicon Synergetic Intelligence System | Synthetic Intelligence Labs",
+                "title_link": "https:\/\/www.syntheticintelligencelabs.com\/",
+                "service_name": "syntheticintelligencelabs.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7B4dT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "via NTX Slack : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.syntheticintelligencelabs.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01804NJ7AQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01804NJ7AQ",
+        "type": "message",
+        "ts": "1724952816.573939",
+        "client_msg_id": "C3565F8F-F918-4C7C-8ED5-29267D1B8123",
+        "text": "Yeah I have talked with him but it’s always been light on details ",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g7080a90c528",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7080a90c528526f8129488e607562782.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Morgan Hough",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "morgan.hough",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pg+kk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah I have talked with him but "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " always been light on details "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

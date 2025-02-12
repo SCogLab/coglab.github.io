@@ -1,0 +1,52 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There is *1* event this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #146 [Online]: <!date^1588608000^{date_short_pretty} from {time}|May 4th, 2020 from 6:00 PM> to <!date^1588622400^{time}|10:00 PM GMT+0200>",
+                "text": "<!date^1588608000^{date_short_pretty} from {time}|May 4th, 2020 from 6:00 PM> to <!date^1588622400^{time}|10:00 PM GMT+0200> at <https:\/\/join.skype.com\/be7Ty93o77rj>, ",
+                "title": "CogLab HackNight #146 [Online]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=M2s0NGtlaTJwMW52Nmw0ZWVsdXI2N25wcTAgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1588572001.000100",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LjI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "1",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " event this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

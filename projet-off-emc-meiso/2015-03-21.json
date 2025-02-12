@@ -1,0 +1,102 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1426981303.000002",
+        "text": "J'ai échangé avec une personne de <http:\/\/www.wedemain.fr\/> cet après-midi.\nIl m'a parlé de ça : <http:\/\/sleepwithremee.com\/> #LucidDream\nQu'en pensez-vous ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "We Demain, une revue pour changer d'époque",
+                "title_link": "http:\/\/www.wedemain.fr\/",
+                "text": "une revue, un site, une communauté qui racontent un monde en mutation",
+                "fallback": "We Demain, une revue pour changer d'époque",
+                "from_url": "http:\/\/www.wedemain.fr\/",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D3wT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai échangé avec une personne de "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.wedemain.fr\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " cet après-midi.\nIl m'a parlé de ça : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/sleepwithremee.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #LucidDream\nQu'en pensez-vous ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1427007151.000002",
+        "text": "C'est une simple et bonne idée, je n'ai pas fait attention si il y a des OMG pour déclencher le signal pendant le rem sleep mais je suppose",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R1=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est une simple et bonne idée, je n'ai pas fait attention si il y a des OMG pour déclencher le signal pendant le rem sleep mais je suppose"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

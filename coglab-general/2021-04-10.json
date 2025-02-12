@@ -1,0 +1,68 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1618056967.005900",
+        "client_msg_id": "d9b78b48-69ba-414c-a966-db374c5778ce",
+        "text": "<!here> L’association Cognivence vient de démarrer la 20e édition du *Forum Des Sciences Cognitives* qui se tiendra pendant 10 jours. Un événement national et annuel, entièrement en ligne et ouvert à tous.\n\nConsultez toutes les informations sur cette page\n<https:\/\/cognivence.scicog.fr\/forum-des-sciences-cognitives-2021-2\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sJpV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " L’association Cognivence vient de démarrer la 20e édition du "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Forum Des Sciences Cognitives",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " qui se tiendra pendant 10 jours. Un événement national et annuel, entièrement en ligne et ouvert à tous.\n\nConsultez toutes les informations sur cette page\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/cognivence.scicog.fr\/forum-des-sciences-cognitives-2021-2\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01J9RAA8H1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

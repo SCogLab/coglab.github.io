@@ -1,0 +1,79 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1457905538.000006",
+        "text": "Je viens de découvrir un service d'aide à la décision collaborative, ça à l'air assez jeune et non disponible sur mobile, mais il y a des idées intéressante qui manquent (ou sont incomplet) sur Slack et Trello\n<https:\/\/www.loomio.org>\n\nUn vidéo de présentation : <https:\/\/www.youtube.com\/watch?v=ZipyebSY2Lo>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Loomio",
+                "title": "Loomio | Collaborative Decision-Making",
+                "title_link": "https:\/\/www.loomio.org",
+                "text": "Loomio is an easy to use online tool for group decision-making. It allows dispersed groups to reach decisions quickly and take constructive action.",
+                "fallback": "Loomio: Loomio | Collaborative Decision-Making",
+                "from_url": "https:\/\/www.loomio.org",
+                "id": 1
+            },
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Demo: Making a Decision with Loomio",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=ZipyebSY2Lo",
+                "author_name": "Loomio",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC3wke78zNd9-j27JUsXQ7gg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/ZipyebSY2Lo\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Demo: Making a Decision with Loomio",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/ZipyebSY2Lo?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=ZipyebSY2Lo",
+                "id": 2
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7zG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je viens de découvrir un service d'aide à la décision collaborative, ça à l'air assez jeune et non disponible sur mobile, mais il y a des idées intéressante qui manquent (ou sont incomplet) sur Slack et Trello\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.loomio.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nUn vidéo de présentation : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=ZipyebSY2Lo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

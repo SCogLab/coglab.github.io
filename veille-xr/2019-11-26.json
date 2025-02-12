@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1574791615.000500",
+        "client_msg_id": "d8321a56-4eba-428d-a659-d8dbc56ba5e1",
+        "text": "Le projet VR que l'on as vu de loin à la Maker Faire Paris 2019\n<http:\/\/vrai-studio.com\/recyclagevr\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Vrai Studio",
+                "title": "RecyclageVR - Vrai Studio",
+                "title_link": "http:\/\/vrai-studio.com\/recyclagevr\/",
+                "text": "Recyclage VR RecyclageVR est une solution innovante pour sensibiliser aux gestes de tri. Le joueur se retrouve immergé dans un centre de tri et doit choisir…",
+                "fallback": "Vrai Studio: RecyclageVR - Vrai Studio",
+                "image_url": "http:\/\/vrai-studio.com\/wp-content\/uploads\/2019\/10\/VosCouleurs.png",
+                "from_url": "http:\/\/vrai-studio.com\/recyclagevr\/",
+                "image_width": 493,
+                "image_height": 250,
+                "image_bytes": 20681,
+                "service_icon": "http:\/\/vrai-studio.com\/wp-content\/uploads\/2019\/08\/cropped-Logo-version-couleur-bleu-1-180x180.png",
+                "id": 1,
+                "original_url": "http:\/\/vrai-studio.com\/recyclagevr\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JlS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le projet VR que l'on as vu de loin à la Maker Faire Paris 2019\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/vrai-studio.com\/recyclagevr\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

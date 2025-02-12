@@ -1,0 +1,103 @@
+[
+    {
+        "user": "U04793S9VTP",
+        "type": "message",
+        "ts": "1680966304.598839",
+        "client_msg_id": "4678202b-93ad-40f1-acaf-50a828b1474c",
+        "text": "Désolé j'ai oublié de répondre, oui effectivement il y a un formulaire : <https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSd7fzU87IAbwJv0RsfNfiqiaFFHTMGFK0lVOOXQeeK39vtByQ\/viewform?usp=sf_link>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "9c3aa53d4669",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-20\/4252539762068_9c3aa53d4669e21a94d2_72.png",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Coudriet",
+            "display_name": "Guillaume Coudriet",
+            "team": "T03FC4NDZ",
+            "name": "guillaume.coudriet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680456299.737329",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tFTF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Désolé j'ai oublié de répondre, oui effectivement il y a un formulaire : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSd7fzU87IAbwJv0RsfNfiqiaFFHTMGFK0lVOOXQeeK39vtByQ\/viewform?usp=sf_link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04793S9VTP",
+        "type": "message",
+        "ts": "1680966680.785549",
+        "client_msg_id": "e6503035-b282-487f-9b77-bd5b205bf30e",
+        "text": "Nous n'avons pas de pack de communication au delà des liens que tu as noté <@U03FC5ZAK> :)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "9c3aa53d4669",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-20\/4252539762068_9c3aa53d4669e21a94d2_72.png",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume Coudriet",
+            "display_name": "Guillaume Coudriet",
+            "team": "T03FC4NDZ",
+            "name": "guillaume.coudriet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680456299.737329",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k2jV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nous n'avons pas de pack de communication au delà des liens que tu as noté "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "SO&lt;&gt;CogLab - Réunion technique: <!date^1625054400^{date_short_pretty} from {time}|June 30th, 2021 from 2:00 PM> to <!date^1625058000^{time}|3:00 PM GMT+0200>",
+                "text": "<!date^1625054400^{date_short_pretty} from {time}|June 30th, 2021 from 2:00 PM> to <!date^1625058000^{time}|3:00 PM GMT+0200> at <https:\/\/us02web.zoom.us\/j\/89955582328?pwd=b0FJQWtDQ1lYTE1BZCtyNllUNnd4UT09>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "SO&lt;&gt;CogLab - Réunion technique",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NjVoamVkYjI2a3AzY2I5aWM1ajM4YjlrY3BpMzhiOXBjY3IzYWI5cGM0cmoyZDloY2RoNmNvcjJjZyBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1625050801.003000",
+        "bot_id": "B4SJBP2L8"
+    }
+]

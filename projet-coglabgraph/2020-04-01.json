@@ -1,0 +1,66 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1585754552.002200",
+        "client_msg_id": "a1a02a27-e097-4d0b-b88a-942c63e0fb32",
+        "text": "<https:\/\/www.eventbrite.com\/e\/solid-world-tickets-100417571660>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Eventbrite",
+                "title": "Solid World",
+                "title_link": "https:\/\/www.eventbrite.com\/e\/solid-world-tickets-100417571660",
+                "text": "Solid World is an opportunity to meet people who are working on or interested in working on Solid.",
+                "fallback": "Eventbrite: Solid World",
+                "image_url": "https:\/\/img.evbuc.com\/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F96975976%2F430856625158%2F1%2Foriginal.20200319-154419?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=6676ca19b22c58f927f53ab0f0306533",
+                "from_url": "https:\/\/www.eventbrite.com\/e\/solid-world-tickets-100417571660",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 15036,
+                "service_icon": "https:\/\/cdn.evbstatic.com\/s3-build\/perm_001\/eba891\/django\/images\/touch_icons\/apple-touch-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.eventbrite.com\/e\/solid-world-tickets-100417571660"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IY=v8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.eventbrite.com\/e\/solid-world-tickets-100417571660"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

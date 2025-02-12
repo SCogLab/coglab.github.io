@@ -1,0 +1,88 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1582922737.000800",
+        "client_msg_id": "a04a24c5-13ac-4bb5-af31-dfa1caa7c053",
+        "text": "<https:\/\/www.tangerine.app\/>\n\nA growing self-care app available on iOS only curently\nSpoted on <https:\/\/techcrunch.com\/2020\/02\/10\/tangerines-pretty-self-care-app-combines-habit-and-mood-tracking-for-better-insights\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Tangerine | Habit and mood tracking app",
+                "title_link": "https:\/\/www.tangerine.app\/",
+                "text": "Tangerine is a simple habit and mood tracker that helps you organize your routine, achieve your personal goals and reflect on your life.",
+                "fallback": "Tangerine | Habit and mood tracking app",
+                "thumb_url": "https:\/\/i.imgur.com\/HREb31J.png",
+                "from_url": "https:\/\/www.tangerine.app\/",
+                "thumb_width": 2400,
+                "thumb_height": 1260,
+                "service_icon": "https:\/\/www.tangerine.app\/icons\/icon-48x48.png?v=3a8bf6c57772673c216a680d38b98c78",
+                "service_name": "tangerine.app",
+                "id": 1,
+                "original_url": "https:\/\/www.tangerine.app\/"
+            },
+            {
+                "service_name": "TechCrunch",
+                "title": "Tangerine’s pretty self-care app combines habit and mood tracking – TechCrunch",
+                "title_link": "https:\/\/techcrunch.com\/2020\/02\/10\/tangerines-pretty-self-care-app-combines-habit-and-mood-tracking-for-better-insights\/",
+                "text": "Millennials’ interest in self-care has helped to fuel an entirely new market for mobile apps focused on health and wellness. Last year alone, the top 10 meditation apps pulled in $195 million — a 52% increase from 2018, for example. A newcomer to the self-care app market is Tangerine, a…",
+                "fallback": "TechCrunch: Tangerine’s pretty self-care app combines habit and mood tracking – TechCrunch",
+                "image_url": "https:\/\/techcrunch.com\/wp-content\/uploads\/2020\/02\/Screen-Shot-2020-02-10-at-11.44.15-AM.png?w=530",
+                "from_url": "https:\/\/techcrunch.com\/2020\/02\/10\/tangerines-pretty-self-care-app-combines-habit-and-mood-tracking-for-better-insights\/",
+                "image_width": 331,
+                "image_height": 250,
+                "image_bytes": 111613,
+                "service_icon": "https:\/\/techcrunch.com\/wp-content\/uploads\/2015\/02\/cropped-cropped-favicon-gradient.png?w=180",
+                "id": 2,
+                "original_url": "https:\/\/techcrunch.com\/2020\/02\/10\/tangerines-pretty-self-care-app-combines-habit-and-mood-tracking-for-better-insights\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pl=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.tangerine.app\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nA growing self-care app available on iOS only curently\nSpoted on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/techcrunch.com\/2020\/02\/10\/tangerines-pretty-self-care-app-combines-habit-and-mood-tracking-for-better-insights\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U6EPG5PTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

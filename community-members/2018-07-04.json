@@ -1,0 +1,74 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1530728976.000147",
+        "client_msg_id": "243c24b5-1a2d-4de3-9807-432cf8273160",
+        "text": "Salut Sarah, nous sommes une jeune association sur Paris et avons des rdv (hacknights) les lundi soirs et quelques jeudis soirs (Open Paillasse), on est en mode _Do It Yourself_ pour l’instant. Sur Bordeaux, il y a le MindLabX, <https:\/\/www.mindlabx.com>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1530537302.000038",
+        "parent_user_id": "UBGPAFD5E",
+        "attachments": [
+            {
+                "title": "MindLab",
+                "title_link": "https:\/\/www.mindlabx.com\/",
+                "text": "A free online community exploring consciousness through accessible topics like brainwaves, mind science, meditation, lucid dreaming, mind tech &amp; more.",
+                "fallback": "MindLab",
+                "image_url": "https:\/\/www.mindlabx.com\/wp-content\/uploads\/2014\/12\/mindlab-headerB.jpg",
+                "from_url": "https:\/\/www.mindlabx.com\/",
+                "image_width": 1033,
+                "image_height": 250,
+                "image_bytes": 143545,
+                "service_icon": "https:\/\/www.mindlabx.com\/wp-content\/uploads\/2014\/12\/iOS_icon_144x144.png",
+                "service_name": "mindlabx.com",
+                "id": 1,
+                "original_url": "https:\/\/www.mindlabx.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mkl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut Sarah, nous sommes une jeune association sur Paris et avons des rdv (hacknights) les lundi soirs et quelques jeudis soirs (Open Paillasse), on est en mode "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Do It Yourself",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour l’instant. Sur Bordeaux, il y a le MindLabX, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.mindlabx.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

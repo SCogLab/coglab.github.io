@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1586340089.001900",
+        "client_msg_id": "f2b15977-b07b-4894-8b96-e6253e42161b",
+        "text": "<https:\/\/sites.google.com\/a\/interaxon.ca\/muse-developer-site\/museio\/presets>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Available Data Modes (Presets) - Muse Developer Resources",
+                "title_link": "https:\/\/sites.google.com\/a\/interaxon.ca\/muse-developer-site\/museio\/presets",
+                "text": "Documentation and resources for developers working with the Muse brain-sensing headband SDK.",
+                "fallback": "Available Data Modes (Presets) - Muse Developer Resources",
+                "image_url": "https:\/\/sites.google.com\/a\/interaxon.ca\/muse-developer-site\/_\/rsrc\/1415649520022\/config\/customLogo.gif?revision=1",
+                "from_url": "https:\/\/sites.google.com\/a\/interaxon.ca\/muse-developer-site\/museio\/presets",
+                "image_width": 300,
+                "image_height": 69,
+                "image_bytes": 9220,
+                "service_icon": "https:\/\/ssl.gstatic.com\/sites\/p\/93cc3e\/system\/app\/images\/apple-touch-icon.png",
+                "service_name": "sites.google.com",
+                "id": 1,
+                "original_url": "https:\/\/sites.google.com\/a\/interaxon.ca\/muse-developer-site\/museio\/presets"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S\/U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sites.google.com\/a\/interaxon.ca\/muse-developer-site\/museio\/presets"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "The Brainstorms Festival: <!date^1616166000^{date_short_pretty} from {time}|March 19th, 2021 from 4:00 PM> to <!date^1616180400^{time}|8:00 PM GMT+0100>",
+                "text": "<!date^1616166000^{date_short_pretty} from {time}|March 19th, 2021 from 4:00 PM> to <!date^1616180400^{time}|8:00 PM GMT+0100>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "The Brainstorms Festival",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NDlwZTVrM3JzYnNudDJvdWNzNHJkNjk5ZDRfMjAyMTAzMTlUMTUwMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1616162444.000400",
+        "bot_id": "B4SJBP2L8"
+    }
+]

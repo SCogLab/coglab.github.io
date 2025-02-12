@@ -1,0 +1,152 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1592423795.000300",
+        "client_msg_id": "66d7c12c-5fcc-4d3c-9ff7-a5c2b5a97048",
+        "text": "<https:\/\/account.altvr.com\/events\/1496375982913749198>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "AltspaceVR",
+                "title": "AUTISM VR Community Casual Meet-up | AltspaceVR",
+                "title_link": "https:\/\/account.altvr.com\/events\/1496375982913749198",
+                "text": "Time to socialise... We invite all of you to a casual meet-up so we get to know each other and familiarise ourselves with the VR space!",
+                "fallback": "AltspaceVR: AUTISM VR Community Casual Meet-up | AltspaceVR",
+                "image_url": "https:\/\/altvr-distro.azureedge.net\/uploads\/event\/image\/1496375982913749198\/tile_IMG_6694.jpg",
+                "from_url": "https:\/\/account.altvr.com\/events\/1496375982913749198",
+                "image_width": 221,
+                "image_height": 250,
+                "image_bytes": 33241,
+                "service_icon": "https:\/\/account.altvr.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/account.altvr.com\/events\/1496375982913749198"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w6GdI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/account.altvr.com\/events\/1496375982913749198"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6EPG5PTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U014STZS797",
+        "text": "<@U014STZS797> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1592423807.000600"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1592428109.000800",
+        "client_msg_id": "13eb865a-cf32-4627-999c-08ec663afab5",
+        "text": "<https:\/\/en.cphdox.dk\/lab\/call-for-submissions-2020-2021>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1592428109.000800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1593594151.001600",
+        "reply_users": [
+            "U6EPG5PTQ"
+        ],
+        "replies": [
+            {
+                "user": "U6EPG5PTQ",
+                "ts": "1593594151.001600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "title": "Call for submissions  — LAB on CPH:DOX 2020",
+                "title_link": "https:\/\/en.cphdox.dk\/lab\/call-for-submissions-2020-2021",
+                "text": "A new world offers new opportunities. The COVID-19 situation has brought a seismic shift to the world we live in. As we peer into the future from our isolation, what kind of world do we want going forward?",
+                "fallback": "Call for submissions  — LAB on CPH:DOX 2020",
+                "image_url": "https:\/\/assets-global.website-files.com\/5e4e6600430e30174da03c01\/5ed8bfc6e531435b5d32e659_florian-olivo-VqET4JUmq_c-unsplash%20(1).jpg",
+                "from_url": "https:\/\/en.cphdox.dk\/lab\/call-for-submissions-2020-2021",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 1608215,
+                "service_name": "en.cphdox.dk",
+                "id": 1,
+                "original_url": "https:\/\/en.cphdox.dk\/lab\/call-for-submissions-2020-2021"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rHHT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/en.cphdox.dk\/lab\/call-for-submissions-2020-2021"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6EPG5PTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

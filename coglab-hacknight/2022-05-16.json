@@ -1,0 +1,112 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1652720184.361579",
+        "client_msg_id": "6ec9c134-393b-44d2-a9c7-5c85c0c2a889",
+        "text": "On est actuellement en permanence HackNight avec Hans au LPI jusqu’à 22h\n<https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/vrgztsydchbvb\/>\n\nAu cas où, une fenêtre Jisti est ouverte : <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>\n\nEt on se connecte régulièrement sur Gather.Town, avec une interface personnalisée par l’équipe contenant des ressources utiles : <https:\/\/app.gather.town\/app\/Y7Z6xE5Yup4sHy0S\/coglab>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/vrgztsydchbvb\/",
+                "image_url": "https:\/\/secure-content.meetupstatic.com\/images\/classic-events\/503971627\/676x380.jpg",
+                "image_width": 445,
+                "image_height": 250,
+                "image_bytes": 50517,
+                "service_icon": "https:\/\/secure.meetupstatic.com\/next\/images\/general\/m_swarm_120x120.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/vrgztsydchbvb\/",
+                "fallback": "Meetup: HackNight NeuroTechX Paris, Mon, May 16, 2022, 6:30 PM   | Meetup",
+                "text": "Mon, May 16, 6:30 PM CEST: **Programme de la soirée** On se retrouve dans le MakerLab du Learning Planet Institute (ex Centre de Recherche Interdisciplinaire) situé rue Charle V, Paris 4e. 1\\. Foru",
+                "title": "HackNight NeuroTechX Paris, Mon, May 16, 2022, 6:30 PM   | Meetup",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/vrgztsydchbvb\/",
+                "service_name": "Meetup"
+            },
+            {
+                "from_url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "service_icon": "https:\/\/meet.jit.si\/images\/apple-touch-icon.png",
+                "id": 2,
+                "original_url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "fallback": "Jitsi Meet",
+                "text": "Join a WebRTC video conference powered by the Jitsi Videobridge",
+                "title": "Jitsi Meet",
+                "title_link": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "service_name": "meet.jit.si"
+            },
+            {
+                "from_url": "https:\/\/app.gather.town\/app\/Y7Z6xE5Yup4sHy0S\/coglab",
+                "image_url": "https:\/\/gather.town\/images\/site\/site_preview.png",
+                "image_width": 418,
+                "image_height": 250,
+                "image_bytes": 168628,
+                "service_icon": "https:\/\/app.gather.town\/favicon.ico",
+                "id": 3,
+                "original_url": "https:\/\/app.gather.town\/app\/Y7Z6xE5Yup4sHy0S\/coglab",
+                "fallback": "Gather",
+                "text": "Gather is a video-calling space that lets multiple people hold separate conversations in parallel, walking in and out of those conversations just as easily as they would in real life.",
+                "title": "Gather",
+                "title_link": "https:\/\/app.gather.town\/app\/Y7Z6xE5Yup4sHy0S\/coglab",
+                "service_name": "app.gather.town"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XKsI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On est actuellement en permanence HackNight avec Hans au LPI jusqu’à 22h\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/vrgztsydchbvb\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAu cas où, une fenêtre Jisti est ouverte : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nEt on se connecte régulièrement sur Gather.Town, avec une interface personnalisée par l’équipe contenant des ressources utiles : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/app.gather.town\/app\/Y7Z6xE5Yup4sHy0S\/coglab"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01804NJ7AQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

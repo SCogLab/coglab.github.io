@@ -1,0 +1,99 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1500837392.496915",
+        "text": "<http:\/\/eak.hauts-de-seine.fr\/les-prochains-%C3%A9v%C3%A8nements\/l-apprentissage-collectif-avec-les-neurosciences>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Les entretiens albert-kahn, laboratoire d'innovation publique - L'apprentissage collectif avec les neurosciences",
+                "title_link": "http:\/\/eak.hauts-de-seine.fr\/les-prochains-%C3%A9v%C3%A8nements\/l-apprentissage-collectif-avec-les-neurosciences",
+                "text": "Les entretiens Albert-Kahn, un laboratoire d'innovation publique, proposé par le Conseil départemental des Hauts-de-Seine",
+                "fallback": "Les entretiens albert-kahn, laboratoire d'innovation publique - L'apprentissage collectif avec les neurosciences",
+                "from_url": "http:\/\/eak.hauts-de-seine.fr\/les-prochains-%C3%A9v%C3%A8nements\/l-apprentissage-collectif-avec-les-neurosciences",
+                "service_icon": "http:\/\/eak.hauts-de-seine.fr\/templates\/eak\/images\/apple-touch-icon-57x57-precomposed.png",
+                "service_name": "eak.hauts-de-seine.fr",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IRTRH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/eak.hauts-de-seine.fr\/les-prochains-%C3%A9v%C3%A8nements\/l-apprentissage-collectif-avec-les-neurosciences"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Event updated: LabVR StoryCode: <!date^1501088400^{date_short_pretty} from {time}|Jul 26, 2017 from 7:00 PM> to <!date^1501099200^{time}|10:00 PM GMT+0200>",
+                "text": "<!date^1501088400^{date_short_pretty} from {time}|Jul 26, 2017 from 7:00 PM> to <!date^1501099200^{time}|10:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Le+Cargo%2C+157+Boulevard+Macdonald%2C+75019+Paris%2C+France|Le Cargo, 157 Boulevard Macdonald, 75019 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "LabVR StoryCode",
+                "more": "Nous vous proposons une dernière session un peu en dehors du calendrier habituel avant une grande pause estivale :\n\nRendez-vous mercredi 26 juillet à partir de 19h au Cargo pour:\n\n1. Early-alpha 2 : Balthazar propose une 2e séance de test de son projet Rodin\nPour ceux qui souhaitent tester, démo de *19h jusqu'à 20h30* dans les bureaux d'Innerspace VR - 2 personnes à la fois par slot de 30mn soit 6 personnes max\n&gt;&gt; Envoyez un email à *playtest@innerspacevr.com* avec votre heure de préférence \n\n2. Séance apéro après les tests à 20h30\nOn se retrouve tous pour discuter de vos projets autour d'un verre. \n(Si vous arrivez + tôt, rdv devant les bureaux d'Innerspace)\n\nComme d'habitude, merci de nous confirmer votre présence pour l'accès au Cargo.\n\nA très vite, bon weekend et bonnes vacances à ceux qui sont déjà sur le départ !\nOn vous retrouve le 1er mercredi de septembre...",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=ZHJoNm4xdmYzMHY5MDZnNmx0MDI3c3RpaTggc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1500846127.197217",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: LabVR StoryCode: <!date^1504717200^{date_short_pretty} from {time}|Sep 6, 2017 from 7:00 PM> to <!date^1504728000^{time}|10:00 PM GMT+0200>",
+                "text": "<!date^1504717200^{date_short_pretty} from {time}|Sep 6, 2017 from 7:00 PM> to <!date^1504728000^{time}|10:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Le+Cargo%2C+157+Boulevard+Macdonald%2C+75019+Paris%2C+France|Le Cargo, 157 Boulevard Macdonald, 75019 Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "LabVR StoryCode",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NWV0cTd2YjRraTg3YWpyNG1vdHNxdnZ0OTQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1500846127.197233",
+        "bot_id": "B4SJBP2L8"
+    }
+]

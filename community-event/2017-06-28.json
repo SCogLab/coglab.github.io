@@ -1,0 +1,28 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Event created: LabVR StoryCode: <!date^1499275800^{date_short_pretty} from {time}|Jul 5, 2017 from 7:30 PM> to <!date^1499283000^{time}|9:30 PM GMT+0200>",
+                "text": "<!date^1499275800^{date_short_pretty} from {time}|Jul 5, 2017 from 7:30 PM> to <!date^1499283000^{time}|9:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Le+Cargo%2C+157+Boulevard+Macdonald%2C+75019+Paris%2C+France|Le Cargo, 157 Boulevard Macdonald, 75019 Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "LabVR StoryCode",
+                "more": "Si vous avez un sujet, une question, une demo, c'est le moment de l'annoncer pour qu'on organise la séance \n\nSéance précédente : \n- LusKa, réalisatrice et artiste VR nous a rejoint (ajout d'un projet à la liste)\n- Mise à jour notre fichier Projets et Contacts <https:\/\/docs.google.com\/spreadsheets\/d\/1dvJkG3_dGFZsKlJIBFPUPeoCBeBms65kldvVAb3w1I4\/edit?usp=sharing>\n\nPROJET\nSam amènera sans doute Valerian de VR Lines avec lui\nBalthazar nous avons une alpha de prête pour le projet 'Rodin', donc pour ceux qui souhaitent tester on démarrera la démo à partir de 18h jusqu'à 19h30 et on peut accueillir environ 2 personnes à la fois par slots de 30mn pendant 1h30, ça fait 6 personnes jusqu'à 19h30 (envoyer un email à <mailto:playtest@innerspacevr.com|playtest@innerspacevr.com> avec votre heure de préférence)",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=c2NibW90b3BycWEwOGhnZTBibzliOTUxcTQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1498701068.019326",
+        "bot_id": "B4SJBP2L8"
+    }
+]

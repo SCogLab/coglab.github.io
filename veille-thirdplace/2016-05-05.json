@@ -1,0 +1,53 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1462483764.000002",
+        "text": "<http:\/\/www.makeithappen.paris\/appel-aux-makers\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Make it Happen",
+                "title_link": "http:\/\/www.makeithappen.paris\/appel-aux-makers\/",
+                "text": "#Makeithappen Fabriquez, testez et financez votre projet : 20 000 € de dotation &amp; un accompagnement sur mesure pour donner vie à vos idées ! <http:\/\/makeithappen.paris>",
+                "fallback": "Make it Happen",
+                "image_url": "http:\/\/www.makeithappen.paris\/img\/makeithappen.jpg",
+                "from_url": "http:\/\/www.makeithappen.paris\/appel-aux-makers\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 23083,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h5GoW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.makeithappen.paris\/appel-aux-makers\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1582064873.000200",
+        "client_msg_id": "323ba5a7-74d6-40b4-98e7-0d61fc866237",
+        "text": "<https:\/\/logancollinsblog.com\/neuroengineering\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "LoganThrasherCollins.com",
+                "service_url": "http:\/\/logancollinsblog.com",
+                "title": "Global Highlights in Neurotechnology, Connectomics, and Brain Simulation: 2005 to 2019",
+                "title_link": "https:\/\/logancollinsblog.com\/neuroengineering\/",
+                "author_name": "logancollins",
+                "author_link": "https:\/\/logancollinsblog.com\/author\/loganphospholipid\/",
+                "thumb_url": "https:\/\/logancollinsblog.files.wordpress.com\/2020\/02\/neuroengineering_timeline_background.png?w=1200&fit=200%2C150",
+                "thumb_width": 185,
+                "thumb_height": 150,
+                "text": "Entries are categorized by year. Within each year, they are listed alphabetically. It should be noted that the dates of some entries may vary depending on what is considered to mark the specific event (e.g. the date when the event appeared in a publication, the date when a company was founded, the date when a company was made public, etc.) As such, this list should act as a loose timeline of progress in neuroengineering fields rather than a temporally exact record. I hope that you enjoy reading about these exciting breakthroughs in neurotechnology, connectomics, and brain simulation! \nPDF version: Global Highlights in Neurotechnology, Connectomics, and Brain Simulation 2005 to 2019 &ndash; by Logan Thrasher Collins\nCover image source: Motta et al., 2019\n2005\n1 &ndash; Optogenetic stimulation using ChR2\nReference: (Boyden, Zhang, Bamberg, Nagel, &amp; Deisseroth, 2005)\nNeurons were engineered to express a bacterial light-gated ion channel called ChR2 which responds to blue wavelengths. In this way, the neurons were stimulated to fire using blue light. This innovation gave rise to the field of optogenetics.\n\n2006\n2 &ndash; Blue Brain Project and detailed cortical column simulation\nReference: (Markram, 2006)\nHenry Markram announced the European Blue Brain Project (which later developed into the Human Brain Project), a large-scale initiative with the goal of simulating the brain in a supercomputer. In November 2007, the Blue Brain Project reported a biophysically detailed simulation of a rat neocortical column consisting of about 10,000multicompartmental Hodgkin-Huxley neuron models and over ten million synapses. The connectivity was based on the numbers of inputs and outputs quantified for given cell types. The simulation was carried out using the Blue Gene\/L supercomputer.\n\n2007\n3 &ndash; Brainbow\nReference: (Livet et al., 2007)\nNeurons were genetically engineered using Cre\/Lox tools to randomly express three or&nbsp;more differently-colored fluorescent proteins (XFPs) in a given cell, labeling that cell with a unique combination of colors. Ninety distinct colors were emitted from a population of these engineered neurons. Tissue modified with Brainbow allows superior imaging since neurons can be distinguished via color contrast.\n\n4 &ndash; Optogenetic silencing using halorhodopsin\nReference: (Han &amp; Boyden, 2007)\nA bacterial protein channel called halorhodopsin was expressed in neurons (along with&nbsp;ChR2). Halorhodopsin moves chloride ions into the cell upon exposure to yellow light, hyperpolarizing the membrane and inhibiting neuronal activity. By using both halorhodopsin and ChR2, neurons were inhibited and activated with yellow and blue light respectively.\n\n2008\n5 &ndash; Anatomically simplified simulation of 22 million neurons\nReference: (Djurfeldt et al., 2008)\nAs part of the European FACETs project, the IBM Blue Gene\/L supercomputer was employed to carry out a simulation consisting of 22 million simplified&nbsp;multicompartmental Hodgkin-Huxley neurons with 11 billion synapses. Depending on the cell type, the neurons were modeled using 3-6 compartments. Pyramidal cells and two types of inhibitory interneuron were used. Connectivity was defined according to a simple set of rules which acted to roughly reflect biological trends. With this setup, subpopulations of virtual neurons were able to store memories in the form of activity patterns.\n\n2010\n6 &ndash; Hardware for faster than real-time neuroscience simulations\nReference: (Schemmel et al., 2010)\nAs part of the European FACETs project, the neuromorphic hardware system BrainScaleS was developed to simulate networks of adaptive exponential integrate-and-fire neuron models 1,000-100,000 times faster than biological real-time. With this system, each neuromorphic wafer can simulate up to 180,000 neurons and forty million synapses and each artificial neuron can receive up to 14,336 presynaptic inputs. Multiple wafers can&nbsp;be interconnected to simulate larger networks. In addition, a Python-based software interface called PyNN was developed to facilitate easier configuration of the wafers to simulate desired neuronal networks.&nbsp;\n\n7 &ndash; High temporal precision optogenetics\nReference: (Gunaydin et al., 2010)\nThe ChR2 protein was mutated to make a new optogenetic ion channel dubbed ChETA, allowing light-mediated induction of spike trains with much higher frequencies (up to 200 Hz) and decreasing the incidence of unintended spikes. ChETA also eliminates a phenomenon which can interfere with precise control of neural activity called the plateau potential.\n\n2011\n8 &ndash; Automated tape collecting ultramicrotome\nReference: (Schalek et al., 2011)\nTo increase the throughput of scanning electron microscopy (SEM) for imaging brain tissue, the automated tape collecting ultramicrotome (ATUM) was developed. ATUM automatically slices tissue volumes into thin sections (around 30 nm thickness) and deposits the sections onto a continuous tape. Many pieces of the tape can easily be put onto silicon wafers, stained, and automatically imaged via SEM. After imaging, the wafers can be stored for later use. Though this method increases the throughput of the SEM process, ATUM-SEM alone still can take weeks or months to image volumes of just a few hundred micrometers on a side. Nonetheless, ATUM-SEM has paved the way for more advances in volume SEM.\n\n2012\n9 &ndash; Hippocampal prosthesis in rats\nReference: (Berger et al., 2012)\nAn electronic prosthesis was shown to restore memory to rats with pharmacologically inhibited hippocampal function as well as to enhance memory in rats with normally functioning hippocampi. This prosthesis consisted of recording electrodes at the CA3 region of the hippocampus, stimulation electrodes at the CA1 region of the hippocampus, and a mathematical signal processing model which took inputs from the recording electrodes and predicted an appropriate set of outputs to send via the stimulation electrodes.\n\n10 &ndash; In vivo superresolution microscopy to visualize neurons\nReference: (Berning, Willig, Steffens, Dibaj, &amp; Hell, 2012)\nStimulated emission depletion microscopy (STED), a type of superresolution microscopy, was used to observe neurons in live anesthetized mice (equipped with skull windows) at a resolution of \n\n2013\n11 &ndash; CLARITY method\nReference: (Chung &amp; Deisseroth, 2013)\nCLARITY was developed as a method to make neural tissue samples translucent without damaging cellular morphologies. Tissue was infused with hydrogel monomers which were then crosslinked. Lipids were extracted using organic solvents and electrophoresis. CLARITY allows immunohistochemistry and fluorescence microscopy to be performed on volumetric tissue samples (or even entire brains) as well as making the tissue more permeable to macromolecules such as antibodies.\n\n12 &ndash; Eyewire as a crowdsourcing method for retina mapping\nReference: (Marx, 2013)\nTo facilitate reconstruction of neurons in the retina (from serial section electron microscopy data), Eyewire employs crowdsourcing in the form of an online game. Images of tissue slices are given to the players who then &ldquo;color in&rdquo; the parts of the images corresponding to cells. Reconstructions are made by stacking many of these images on top of each other. As of the end of 2019, over 700 neurons have been mapped by Eyewire players.\n\n13 &ndash; In vivo three-photon microscopy\nReference: (Horton et al., 2013)\nIn multi-photon microscopy, more than one photon of lower energy recombines during the excitation of a fluorophore, causing the fluorophore to emit a higher energy photon. Since long wavelengths of excitation light are employed, deep tissue penetration is possible. Using a three-photon method with excitation wavelengths of 1,700 nm, imaging was performed at a depth of up to 1.4 mm in living mouse brains. Blood vessels and RFP-labeled neurons were imaged using this approach.\n\n14 &ndash; Telepathic rats engineered using hippocampal…",
+                "fallback": "LoganThrasherCollins.com Link: Global Highlights in Neurotechnology, Connectomics, and Brain Simulation: 2005 to&nbsp;2019",
+                "from_url": "https:\/\/logancollinsblog.com\/neuroengineering\/",
+                "service_icon": "https:\/\/logancollinsblog.files.wordpress.com\/2018\/06\/cropped-surrealwasp1.png?w=180",
+                "id": 1,
+                "original_url": "https:\/\/logancollinsblog.com\/neuroengineering\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "glga5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/logancollinsblog.com\/neuroengineering\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "USAE4L2AC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

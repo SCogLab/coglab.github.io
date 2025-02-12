@@ -1,0 +1,73 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1623862339.001600",
+        "client_msg_id": "790b7682-7eeb-4d26-ab92-2f041ed332f8",
+        "text": "Un meetup proposé par la communauté NeuroTechX Los Angeles samedi prochain <https:\/\/www.meetup.com\/fr-FR\/NeuroTechLA\/events\/278856169\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "NeuroTech &amp; Innovation Webinar - Unlocking the Future of Dry NeuroTechnology",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/NeuroTechLA\/events\/278856169\/",
+                "text": "sam. 26 juin 2021 à 9:00: Imagine being able to double your output. To discover double the science.This is the power of true innovation &amp; the reality of CGX's neurotechnology.Join us to hear from Mike",
+                "fallback": "Meetup: NeuroTech &amp; Innovation Webinar - Unlocking the Future of Dry NeuroTechnology",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/4\/d\/8\/5\/600_496939845.jpeg",
+                "fields": [
+                    {
+                        "title": "Où",
+                        "value": "Événement en ligne",
+                        "short": true
+                    },
+                    {
+                        "title": "Quand",
+                        "value": "sam. 26 juin 2021 à 9:00",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/NeuroTechLA\/events\/278856169\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 27822,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/fr-FR\/m_swarm_120x120.4f86abc9.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/NeuroTechLA\/events\/278856169\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wWd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un meetup proposé par la communauté NeuroTechX Los Angeles samedi prochain "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/NeuroTechLA\/events\/278856169\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "user": "U03JDJWSR",
+        "type": "message",
+        "ts": "1481621953.000002",
+        "text": "<https:\/\/www.wired.com\/2016\/12\/watch-brain-flicker-activity-rests\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "geb22d6490de",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/beb22d6490deaf2df715016c6c7d1577.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Salman",
+            "real_name": "Salman NADEEM",
+            "display_name": "msn",
+            "team": "T03FC4NDZ",
+            "name": "msn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "WIRED",
+                "title": "Watch a Resting Brain Light Up With Activity",
+                "title_link": "https:\/\/www.wired.com\/2016\/12\/watch-brain-flicker-activity-rests\/",
+                "text": "The blood rushing around in your brain is actually a good indicator of what your neurons are doing.",
+                "fallback": "WIRED: Watch a Resting Brain Light Up With Activity",
+                "image_url": "https:\/\/www.wired.com\/wp-content\/uploads\/2016\/12\/FMRIHP-660x660.jpg",
+                "image_width": 250,
+                "image_height": 250,
+                "from_url": "https:\/\/www.wired.com\/2016\/12\/watch-brain-flicker-activity-rests\/",
+                "image_bytes": 53758,
+                "service_icon": "https:\/\/www.wired.com\/wp-content\/themes\/Phoenix\/assets\/images\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gzw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.wired.com\/2016\/12\/watch-brain-flicker-activity-rests\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK",
+                    "U0AR01SPQ"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1562857928.000800",
+        "client_msg_id": "cc816e85-a416-4ac2-8a66-930d00d1ed7c",
+        "text": "<http:\/\/www.popotojs.com\/> <@U59MQ46DA>!\n\nPopoto.js is a JavaScript library built with D3.js designed to create interactive and customizable visual query builder for Neo4j graph databases.:+1:\n\n- Documentation <https:\/\/github.com\/Nhogs\/popoto\/wiki>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v2fm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.popotojs.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!\n\nPopoto.js is a JavaScript library built with D3.js designed to create interactive and customizable visual query builder for Neo4j graph databases."
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n- Documentation "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/Nhogs\/popoto\/wiki"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1562857930.001000",
+        "client_msg_id": "fdf83fab-75ed-47bf-a9d6-9c5132b388a2",
+        "text": "<https:\/\/www.slideshare.net\/SonyGreen1\/data-injection-to-neo4j-with-graphxr-quick-easy-and-codefree>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Data injection to Neo4j with GraphXR: Quick, easy, and code-free",
+                "title_link": "https:\/\/www.slideshare.net\/SonyGreen1\/data-injection-to-neo4j-with-graphxr-quick-easy-and-codefree",
+                "text": "Bringing a CSV into Neo4j is quick and painless with GraphXR. Import, model, and save your data without writing a single query.",
+                "fallback": "Data injection to Neo4j with GraphXR: Quick, easy, and code-free",
+                "thumb_url": "https:\/\/cdn.slidesharecdn.com\/ss_thumbnails\/graphxrtoneo4jdesktop-190624205058-thumbnail-4.jpg?cb=1561409732",
+                "from_url": "https:\/\/www.slideshare.net\/SonyGreen1\/data-injection-to-neo4j-with-graphxr-quick-easy-and-codefree",
+                "thumb_width": 768,
+                "thumb_height": 432,
+                "service_icon": "https:\/\/public.slidesharecdn.com\/favicon.ico?d8e2a4ed15",
+                "service_name": "slideshare.net",
+                "id": 1,
+                "original_url": "https:\/\/www.slideshare.net\/SonyGreen1\/data-injection-to-neo4j-with-graphxr-quick-easy-and-codefree"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y33+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.slideshare.net\/SonyGreen1\/data-injection-to-neo4j-with-graphxr-quick-easy-and-codefree"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

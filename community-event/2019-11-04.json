@@ -1,0 +1,203 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CogLab HackNight #124: <!date^1572886800^{date_short_pretty} from {time}|November 4th, 2019 from 6:00 PM> to <!date^1572901200^{time}|10:00 PM GMT+0100>",
+                "text": "<!date^1572886800^{date_short_pretty} from {time}|November 4th, 2019 from 6:00 PM> to <!date^1572901200^{time}|10:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Centre+de+Recherche+Interdisciplinaire+%28CRI%29%2C+8bis+Rue+Charles+V%2C+75004+Paris%2C+France%2C+Charles+V-0-Creative+Room+0.05+%2810%29|Centre de Recherche Interdisciplinaire (CRI), 8bis Rue Charles V, 75004 Paris, France, Charles V-0-Creative Room 0.05 (10)>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab HackNight #124",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NGZwcWdsNDJuYWI4dTJsc3QwMnNxaXZsczQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1572875775.008600",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #124: <!date^1572886800^{date_short_pretty} from {time}|November 4th, 2019 from 6:00 PM> to <!date^1572901200^{time}|10:00 PM GMT+0100>",
+                "text": "<!date^1572886800^{date_short_pretty} from {time}|November 4th, 2019 from 6:00 PM> to <!date^1572901200^{time}|10:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Centre+de+Recherche+Interdisciplinaire+%28CRI%29%2C+8bis+Rue+Charles+V%2C+75004+Paris%2C+France%2C+Charles+V-0-Creative+Room+0.05+%2810%29|Centre de Recherche Interdisciplinaire (CRI), 8bis Rue Charles V, 75004 Paris, France, Charles V-0-Creative Room 0.05 (10)>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #124",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NGZwcWdsNDJuYWI4dTJsc3QwMnNxaXZsczQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1572883206.008700",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1572884766.008900",
+        "client_msg_id": "330c9587-82bc-4ae4-9bfb-2c7c9ca6284e",
+        "text": "Rendez vous dans la salle \"Creative room\" du rez de chaussée ce soir au CRI (salle 0.05) !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Wo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Rendez vous dans la salle \"Creative room\" du rez de chaussée ce soir au CRI (salle 0.05) !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1572900214.011900",
+        "client_msg_id": "7d8e8e94-ed11-4ec2-81f6-cc1c19404907",
+        "text": "Pour les personnes souhaitant donner un coup de main à la Maker Faire Paris qui se tiendra du 22 au 24 novembre à la Cité des Sciences, merci de :\n1\/ Prendre connaissance de ce fichier <https:\/\/docs.google.com\/document\/d\/1C4VwcKhP3ydFwmgkyAPN4Z3x0yV6vbWp4Z2PGp-qRX4\/edit#heading=h.ihq8kp4aq905>\n2\/ Signaler votre présence sur le *Tableau des présences*\n3\/ Apporter des précisions sur comment vous souhaitez participer ou quelle partie animer\n\nNous avons jusqu'à 7 badges nominatifs",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572900214.011900",
+        "reply_count": 9,
+        "reply_users_count": 3,
+        "latest_reply": "1573594514.001500",
+        "reply_users": [
+            "U03FC5ZAK",
+            "ULSDVUUVA",
+            "UMQA8DN92"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1573416420.000100"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1573416459.000500"
+            },
+            {
+                "user": "ULSDVUUVA",
+                "ts": "1573453141.000500"
+            },
+            {
+                "user": "UMQA8DN92",
+                "ts": "1573464378.000100"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1573578851.000400"
+            },
+            {
+                "user": "UMQA8DN92",
+                "ts": "1573579725.000600"
+            },
+            {
+                "user": "UMQA8DN92",
+                "ts": "1573579736.000800"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1573592986.001300"
+            },
+            {
+                "user": "UMQA8DN92",
+                "ts": "1573594514.001500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ej\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour les personnes souhaitant donner un coup de main à la Maker Faire Paris qui se tiendra du 22 au 24 novembre à la Cité des Sciences, merci de :\n1\/ Prendre connaissance de ce fichier "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1C4VwcKhP3ydFwmgkyAPN4Z3x0yV6vbWp4Z2PGp-qRX4\/edit#heading=h.ihq8kp4aq905"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n2\/ Signaler votre présence sur le "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Tableau des présences",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n3\/ Apporter des précisions sur comment vous souhaitez participer ou quelle partie animer\n\nNous avons jusqu'à 7 badges nominatifs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA",
+                    "U0FB4KME0"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

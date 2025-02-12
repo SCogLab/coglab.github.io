@@ -1,0 +1,104 @@
+[
+    {
+        "user": "U065TGVPMQA",
+        "type": "message",
+        "ts": "1708608381.198169",
+        "client_msg_id": "30bc7c9f-73d4-4a1d-9d80-6074add95ad0",
+        "text": "thanks ! yes, that's the idea. I didn't know there where so many med forks already.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "d1c45b06a897",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6190932855014_d1c45b06a89739c22a4f_72.png",
+            "first_name": "Emmanuel",
+            "real_name": "Emmanuel Gauvain",
+            "display_name": "Emmanuel Gauvain",
+            "team": "T03FC4NDZ",
+            "name": "emmanuel.gauvain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708316811.016419",
+        "parent_user_id": "U01804NJ7AQ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1ApqH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks ! yes, that's the idea. I didn't know there where so many med forks already."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01804NJ7AQ",
+        "type": "message",
+        "ts": "1708613149.252599",
+        "client_msg_id": "BE6A1C8F-FF01-464E-BE9F-E03F02E99A74",
+        "text": "<https:\/\/youtu.be\/XmItNTqeGZQ?si=VKaBfbovcm-aXztR|https:\/\/youtu.be\/XmItNTqeGZQ?si=VKaBfbovcm-aXztR>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g7080a90c528",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7080a90c528526f8129488e607562782.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Morgan Hough",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "morgan.hough",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708316811.016419",
+        "parent_user_id": "U01804NJ7AQ",
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/XmItNTqeGZQ?si=VKaBfbovcm-aXztR",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/XmItNTqeGZQ\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/XmItNTqeGZQ?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"JoVE Webinar: Designing Engaging Physics Courses Using Videos | France\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/XmItNTqeGZQ?si=VKaBfbovcm-aXztR",
+                "fallback": "YouTube Video: JoVE Webinar: Designing Engaging Physics Courses Using Videos | France",
+                "title": "JoVE Webinar: Designing Engaging Physics Courses Using Videos | France",
+                "title_link": "https:\/\/youtu.be\/XmItNTqeGZQ?si=VKaBfbovcm-aXztR",
+                "author_name": "JoVE (Journal of Visualized Experiments)",
+                "author_link": "https:\/\/www.youtube.com\/@JoVEJournal",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AsX4p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/XmItNTqeGZQ?si=VKaBfbovcm-aXztR",
+                                "text": "https:\/\/youtu.be\/XmItNTqeGZQ?si=VKaBfbovcm-aXztR"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "user": "ULABDBC9W",
+        "type": "message",
+        "ts": "1584172263.011500",
+        "client_msg_id": "155fda1f-aff2-47c1-b9b4-ac902bd442bc",
+        "text": "Tiens le monde est petit, je ne savais pas que tu étais là <@UUC2JHAMR>! Salut !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "8001f2d63c3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-10\/690479305888_8001f2d63c3cc42e6e2e_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu",
+            "display_name": "Matthieu",
+            "team": "T03FC4NDZ",
+            "name": "matthieu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dJeu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tiens le monde est petit, je ne savais pas que tu étais là "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUC2JHAMR"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Salut !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUC2JHAMR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "yum",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

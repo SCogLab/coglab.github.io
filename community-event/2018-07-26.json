@@ -1,0 +1,28 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Summer Open Paillasse: <!date^1532624400^{date_short_pretty} from {time}|July 26th, 2018 from 7:00 PM> to <!date^1532631600^{time}|9:00 PM GMT+0200>",
+                "text": "<!date^1532624400^{date_short_pretty} from {time}|July 26th, 2018 from 7:00 PM> to <!date^1532631600^{time}|9:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=La+Paillasse%2C+226+Rue+Saint-Denis%2C+75002+Paris%2C+France|La Paillasse, 226 Rue Saint-Denis, 75002 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "Summer Open Paillasse",
+                "more": "Le Summer Open Paillasse c’est LE rendez-vous où vous pourrez profiter de la présence de nos résidents pour en connaître plus sur leurs projets et sur l’innovation dans de nombreux domaines.\nEn plus de cela nous avons le plaisir d’accueillir le groupe de Snootchie Bootchies, chanteur solo accompagné d’une boîte à rythmes et à effets, présent pour une scène ouverte sur cet événement.\nC’est donc un rendez-vous à ne pas manquer pour marquer l’été donc la Paillasse vous attend nombreux !\n\nInfos pratiques :\n• Jeudi 26 juillet\n• A partir de 18h30\n• Hall d’accueil de la Paillasse (226, rue St Denis 75002 Paris)\n<https:\/\/www.meetup.com\/fr-FR\/La-Paillasse-Events\/events\/252705494\/>",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MTFmMGYxbjNjZDhhdW1qbGQ4YW9pZmg4aWYgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1532620800.000642",
+        "bot_id": "B4SJBP2L8"
+    }
+]

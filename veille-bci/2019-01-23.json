@@ -1,0 +1,53 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1548268770.000200",
+        "client_msg_id": "38dc0fbc-de56-4455-9255-e493a195ba7a",
+        "text": "<https:\/\/www.frontiersin.org\/articles\/10.3389\/fnins.2018.01030\/abstract>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Frontiers",
+                "title": "BCI2000Web and WebFM: Browser-based Tools for Brain Computer Interface Development and Functional Brain Mapping",
+                "title_link": "https:\/\/www.frontiersin.org\/articles\/10.3389\/fnins.2018.01030\/abstract",
+                "text": "BCI2000 has been a popular platform for development of real-time brain computer interfaces (BCIs).Since BCI2000's initial release, web browsers have evolved considerably, enabling rapid development of internet-enabled applications and interactive visualizations. Linking the amplifier abstraction and signal processing native to BCI2000 with the host of technologies and ease of development afforded by modern web browsers could enable a new generation of browser-based BCIs and visualizations. We developed a server and filter module called BCI2000Web providing an HTTP connection capable of escalation into an RFC6455 WebSocket, which enables direct communication between a browser and a BCI2000 distribution in real-time, facilitating a number of novel applications. We also present a JavaScript module, bci2k.js, that allows web developers to create paradigms and visualizations using this interface in an easy-to-use and intuitive manner. To illustrate the utility of BCI2000Web, we demonstrate a browser-based implementation of a real-time electrocorticographic (ECoG) functional mapping suite called WebFM. We also explore how the unique characteristics of our browser-based framework make BCI2000Web an attractive tool for future BCI applications. BCI2000Web leverages the advances of BCI2000 to provide real-time browser-based interactions with human neurophysiological recordings, allowing for web-based BCIs and other applications, including real-time functional brain mapping. Both BCI...",
+                "fallback": "Frontiers: BCI2000Web and WebFM: Browser-based Tools for Brain Computer Interface Development and Functional Brain Mapping",
+                "from_url": "https:\/\/www.frontiersin.org\/articles\/10.3389\/fnins.2018.01030\/abstract",
+                "service_icon": "https:\/\/3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com\/favicon_16x16.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.frontiersin.org\/articles\/10.3389\/fnins.2018.01030\/abstract"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jc1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.frontiersin.org\/articles\/10.3389\/fnins.2018.01030\/abstract"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

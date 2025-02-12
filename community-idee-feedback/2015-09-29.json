@@ -1,0 +1,49 @@
+[
+    {
+        "user": "U07CFCCBG",
+        "type": "message",
+        "ts": "1443527797.000002",
+        "text": "<http:\/\/journals.plos.org\/plosone\/article?id=10.1371\/journal.pone.0111332>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ca0028538aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-04-21\/36646712194_7ca0028538aa7c07b0e3_72.jpg",
+            "first_name": "Mai",
+            "real_name": "Mai",
+            "display_name": "mai",
+            "team": "T03FC4NDZ",
+            "name": "mai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "A Direct Brain-to-Brain Interface in Humans",
+                "title_link": "http:\/\/journals.plos.org\/plosone\/article?id=10.1371\/journal.pone.0111332",
+                "text": "We describe the first direct brain-to-brain interface in humans and present results from experiments involving six different subjects. Our non-invasive interface, demonstrated originally in August 2013, combines electroencephalography (EEG) for recording brain signals with transcranial magnetic stimulation (TMS) for delivering information to the brain. We illustrate our method using a visuomotor task in which two humans must cooperate through direct brain-to-brain communication to achieve a desired goal in a computer game. The brain-to-brain interface detects motor imagery in EEG signals recorded from one subject (the “sender”) and transmits this information over the internet to the motor cortex region of a second subject (the “receiver”). This allows the sender to cause a desired motor response in the receiver (a press on a touchpad) via TMS. We quantify the performance of the brain-to-brain interface in terms of the amount of information transmitted as well as the accuracies attained in (1) decoding the sender’s signals, (2) generating a motor response from the receiver upon stimulation, and (3) achieving the overall goal in the cooperative visuomotor task. Our results provide evidence for a rudimentary form of direct information transmission from one human brain to another using non-invasive means.",
+                "fallback": "A Direct Brain-to-Brain Interface in Humans",
+                "from_url": "http:\/\/journals.plos.org\/plosone\/article?id=10.1371\/journal.pone.0111332",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d6H66",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/journals.plos.org\/plosone\/article?id=10.1371\/journal.pone.0111332"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

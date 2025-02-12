@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "Webinar Maker Faire Paris 2021: <!date^1633536000^{date_short_pretty} from {time}|October 6th, 2021 from 6:00 PM> to <!date^1633539600^{time}|7:00 PM GMT+0200>",
+                "text": "<!date^1633536000^{date_short_pretty} from {time}|October 6th, 2021 from 6:00 PM> to <!date^1633539600^{time}|7:00 PM GMT+0200> at <http:\/\/meet.google.com\/mxc-pzri-zpc>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "Webinar Maker Faire Paris 2021",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=M3Zmczc5bm40bWx2ZGxjNXZxbWkxbG03MWMgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1633532408.000300",
+        "bot_id": "B4SJBP2L8"
+    }
+]

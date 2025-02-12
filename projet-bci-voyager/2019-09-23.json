@@ -1,0 +1,471 @@
+[
+    {
+        "user": "UMQA8DN92",
+        "type": "message",
+        "ts": "1569231572.006500",
+        "client_msg_id": "a8137945-1c3c-488a-b4f7-5964d9d51ee5",
+        "text": "Bonjour à tous :slightly_smiling_face:\n\nNous aurions bien besoin d'aide (<@U03FEH3N8>, <@UN5THSRG8>, <@ULSDVUUVA>) ! :wink:\n\nNous avons envoyé un mail à Sophie et nous ne comprenons pas la partie en gras (cf plus bas), pourriez vous nous éclairer et peut-être expliquer comment faire afin d'essayer de le coder ? :thinking_face:\n\nDe base la question était :\n&gt; On voudrait faire une calibration avant de lancer le test. Aurais-tu des conseils à nous apporter ?\nRéponse de Sophie :\n&gt; _Nous utilisons les qualités justement pour s'assurer que les capteurs sont bien placés : nous considérons que la qualité doit valoir 0,5 ou 1 sur au moins une des 2 électrodes pendant plusieurs secondes._ Une fois que ces critères sont remplis, vous pouvez par exemple ouvrir une nouvelle activité qui va *gérer une acquisition permettant de calibrer le signal (c'est ce que nous faisons pour l'application Melomind, et nous utilisons ces données de calibration pour calculer nos indices de neurofeedback)*.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g144939de47f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3144939de47faa73d3d9c8d51dcff306.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Tanguy",
+            "real_name": "Tanguy HERSERANT",
+            "display_name": "Tanguy",
+            "team": "T03FC4NDZ",
+            "name": "tanguyherserant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569231572.006500",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1569410191.001500",
+        "reply_users": [
+            "U03FC5ZAK",
+            "U03FEH3N8"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1569232324.006600"
+            },
+            {
+                "user": "U03FEH3N8",
+                "ts": "1569350864.000100"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1569410191.001500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oh6DI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour à tous "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nNous aurions bien besoin d'aide ("
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UN5THSRG8"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "ULSDVUUVA"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nNous avons envoyé un mail à Sophie et nous ne comprenons pas la partie en gras (cf plus bas), pourriez vous nous éclairer et peut-être expliquer comment faire afin d'essayer de le coder ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face",
+                                "unicode": "1f914"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nDe base la question était :"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On voudrait faire une calibration avant de lancer le test. Aurais-tu des conseils à nous apporter ?"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Réponse de Sophie :"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nous utilisons les qualités justement pour s'assurer que les capteurs sont bien placés : nous considérons que la qualité doit valoir 0,5 ou 1 sur au moins une des 2 électrodes pendant plusieurs secondes.",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Une fois que ces critères sont remplis, vous pouvez par exemple ouvrir une nouvelle activité qui va "
+                            },
+                            {
+                                "type": "text",
+                                "text": "gérer une acquisition permettant de calibrer le signal (c'est ce que nous faisons pour l'application Melomind, et nous utilisons ces données de calibration pour calculer nos indices de neurofeedback)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1569232324.006600",
+        "client_msg_id": "4b32fcfb-d67d-41d4-bbb3-fa53da2f86b7",
+        "text": "Pour compléter, notre idée de la calibration consistait à utilisé l'indice de *qualités* des électrodes invoqué avec la fonction useQualities() du SDK :\n<https:\/\/github.com\/mbt-administrator\/DemoSDK.Android\/#eeg-features>\n\nCe qui correspond à la première partie de la réponse de Sophie.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569231572.006500",
+        "parent_user_id": "UMQA8DN92",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7rPK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour compléter, notre idée de la calibration consistait à utilisé l'indice de "
+                            },
+                            {
+                                "type": "text",
+                                "text": "qualités",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " des électrodes invoqué avec la fonction useQualities() du SDK :\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/mbt-administrator\/DemoSDK.Android\/#eeg-features"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nCe qui correspond à la première partie de la réponse de Sophie."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "UMQA8DN92"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "Rendu mockup pour l'écran 55', qu'en pensez-vous <!here> ?",
+        "files": [
+            {
+                "id": "FNG0DQLHF",
+                "created": 1569270727,
+                "timestamp": 1569270727,
+                "name": "BCI Voyager - Project Deck.png",
+                "title": "BCI Voyager - Project Deck.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03FC5ZAK",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 218333,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FNG0DQLHF\/bci_voyager_-_project_deck.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FNG0DQLHF\/download\/bci_voyager_-_project_deck.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FNG0DQLHF-52e1446fd5\/bci_voyager_-_project_deck_64.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FNG0DQLHF-52e1446fd5\/bci_voyager_-_project_deck_80.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FNG0DQLHF-52e1446fd5\/bci_voyager_-_project_deck_360.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FNG0DQLHF-52e1446fd5\/bci_voyager_-_project_deck_480.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FNG0DQLHF-52e1446fd5\/bci_voyager_-_project_deck_160.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FNG0DQLHF-52e1446fd5\/bci_voyager_-_project_deck_720.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FNG0DQLHF-52e1446fd5\/bci_voyager_-_project_deck_800.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "image_exif_rotation": 1,
+                "original_w": 960,
+                "original_h": 540,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U03FC5ZAK\/FNG0DQLHF\/bci_voyager_-_project_deck.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-FNG0DQLHF-60839a8c78",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U03FC5ZAK",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WYf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Rendu mockup pour l'écran 55', qu'en pensez-vous "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1569270729.000200",
+        "client_msg_id": "fa018779-63da-4b2d-a6ac-603c339e235d",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "Voici le flyer pour le projet, avec un contenu en FR et EN\n<https:\/\/docs.google.com\/document\/d\/1rQH6vSP7PShvOzVYIDoagLpcLxYCu1-YL_iTPS3jNa8\/edit#>",
+        "files": [
+            {
+                "id": "FNN029W5A",
+                "created": 1569272473,
+                "timestamp": 1569272473,
+                "name": "BCI Voyager - Flyer.pdf",
+                "title": "BCI Voyager - Flyer.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U03FC5ZAK",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 304205,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FNN029W5A\/bci_voyager_-_flyer.pdf?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FNN029W5A\/download\/bci_voyager_-_flyer.pdf?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FNN029W5A-af492ad791\/bci_voyager_-_flyer_thumb_pdf.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_pdf_w": 1288,
+                "thumb_pdf_h": 911,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U03FC5ZAK\/FNN029W5A\/bci_voyager_-_flyer.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-FNN029W5A-e30c286a7a",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U03FC5ZAK",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wH=s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Voici le flyer pour le projet, avec un contenu en FR et EN\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1rQH6vSP7PShvOzVYIDoagLpcLxYCu1-YL_iTPS3jNa8\/edit#"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1569272474.000500",
+        "client_msg_id": "c27d8fae-1a1e-4b9d-b162-908c89d978b5",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "Le squelette de l’activity settings pour les données techniques de la démo + graphe :",
+        "files": [
+            {
+                "id": "FN9M88FBL",
+                "created": 1569273961,
+                "timestamp": 1569273961,
+                "name": "technical_settings.png",
+                "title": "technical_settings.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U59MQ46DA",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 76024,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FN9M88FBL\/technical_settings.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FN9M88FBL\/download\/technical_settings.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN9M88FBL-bbe11f8345\/technical_settings_64.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN9M88FBL-bbe11f8345\/technical_settings_80.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN9M88FBL-bbe11f8345\/technical_settings_360.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360_w": 360,
+                "thumb_360_h": 211,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN9M88FBL-bbe11f8345\/technical_settings_480.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_480_w": 480,
+                "thumb_480_h": 281,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN9M88FBL-bbe11f8345\/technical_settings_160.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN9M88FBL-bbe11f8345\/technical_settings_720.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720_w": 720,
+                "thumb_720_h": 422,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN9M88FBL-bbe11f8345\/technical_settings_800.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_800_w": 800,
+                "thumb_800_h": 468,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN9M88FBL-bbe11f8345\/technical_settings_960.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_960_w": 960,
+                "thumb_960_h": 562,
+                "image_exif_rotation": 1,
+                "original_w": 1023,
+                "original_h": 599,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U59MQ46DA\/FN9M88FBL\/technical_settings.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-FN9M88FBL-be5994b922",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U59MQ46DA",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nM5\/n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le squelette de l’activity settings pour les données techniques de la démo + graphe :"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1569273965.001500",
+        "client_msg_id": "a7676c2d-5689-436d-b847-48ee159e4602"
+    }
+]

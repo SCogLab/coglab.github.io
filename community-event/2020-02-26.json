@@ -1,0 +1,33 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "MasterClass BCI \/ EEG ft. Timeflux : <!date^1582722000^{date_short_pretty} from {time}|February 26th, 2020 from 2:00 PM> to <!date^1582727400^{time}|3:30 PM GMT+0100>",
+                "text": "<!date^1582722000^{date_short_pretty} from {time}|February 26th, 2020 from 2:00 PM> to <!date^1582727400^{time}|3:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=42%2C+96+Boulevard+Bessi%C3%A8res%2C+75017+Paris%2C+France|42, 96 Boulevard Bessières, 75017 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "MasterClass BCI \/ EEG ft. Timeflux ",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=N3NhdTVhNnZ2aGhzY3F2ZWRqcWNiMThsN2wgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1582718403.000300",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "UUL77EULW",
+        "text": "<@UUL77EULW> a rejoint le canal",
+        "type": "message",
+        "ts": "1582726476.000600"
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1576316971.000200",
+        "client_msg_id": "6a2358db-4897-458e-baf4-7ff99fc2336a",
+        "text": "<https:\/\/www.youtube.com\/playlist?list=PLOLKyO33TrxUB05hswh-aR5icFj_uNq4k> cc <@U03FEH3N8>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "title": "Becoming a VR Artist \/\/ DESKTOP PATH - YouTube",
+                "title_link": "https:\/\/www.youtube.com\/playlist?list=PLOLKyO33TrxUB05hswh-aR5icFj_uNq4k",
+                "text": "Learn everything you need to get started as a professional VR Artist. Built for both experts and absolute beginners to 3D design, we walk through the basics ...",
+                "fallback": "YouTube: Becoming a VR Artist \/\/ DESKTOP PATH - YouTube",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/MqXPux6wiLw\/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLD74MmUQI3lhW4Z07L_eVCrsMchjQ",
+                "from_url": "https:\/\/www.youtube.com\/playlist?list=PLOLKyO33TrxUB05hswh-aR5icFj_uNq4k",
+                "thumb_width": 168,
+                "thumb_height": 94,
+                "service_icon": "https:\/\/s.ytimg.com\/yts\/img\/favicon-vfl8qSV2F.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/playlist?list=PLOLKyO33TrxUB05hswh-aR5icFj_uNq4k"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i1eK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/playlist?list=PLOLKyO33TrxUB05hswh-aR5icFj_uNq4k"
+                            },
+                            {
+                                "type": "text",
+                                "text": " cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,466 @@
+[
+    {
+        "user": "UN5THSRG8",
+        "type": "message",
+        "ts": "1568297383.000100",
+        "client_msg_id": "a71534fe-8fbf-4243-bab1-b490bac46825",
+        "text": "La classe Hans, bien joué :open_mouth:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g13fbafc8b92",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/913fbafc8b92008ee8f401dc882cb718.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Héloïse",
+            "display_name": "Héloïse",
+            "team": "T03FC4NDZ",
+            "name": "thero.heloise",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568143063.031500",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aLGt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La classe Hans, bien joué "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "open_mouth",
+                                "unicode": "1f62e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UN5THSRG8",
+        "type": "message",
+        "ts": "1568297601.000900",
+        "client_msg_id": "87aeed5b-3147-4002-a68e-c6dacd082df0",
+        "text": "Je viens ce soir. <@U59MQ46DA> on regardera ensemble si les timestamps ça peut marcher.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g13fbafc8b92",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/913fbafc8b92008ee8f401dc882cb718.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Héloïse",
+            "display_name": "Héloïse",
+            "team": "T03FC4NDZ",
+            "name": "thero.heloise",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lZoq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je viens ce soir. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on regardera ensemble si les timestamps ça peut marcher."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568310152.001900",
+        "client_msg_id": "7d0bc491-852c-46c5-9a72-75ffcad68eb9",
+        "text": "Good news, le code Android Studio est enfin sur GitHub !\nJe vous invite à passer par ici désormais pour l'éditer <https:\/\/github.com\/SCogLab\/TourismEEG>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "SCogLab\/TourismEEG",
+                "text": "EEG Demonstrator at IFTM exhibition in Paris (october 2019) <https:\/\/coglab.fr\/portfolio\/bci-voyager\/>",
+                "title": "SCogLab\/TourismEEG",
+                "footer": "<https:\/\/github.com\/SCogLab\/TourismEEG|SCogLab\/TourismEEG>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1565875017,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "1",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "Java",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "BA73T1BTJ",
+                "app_unfurl_url": "https:\/\/github.com\/SCogLab\/TourismEEG",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jisW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good news, le code Android Studio est enfin sur GitHub !\nJe vous invite à passer par ici désormais pour l'éditer "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/SCogLab\/TourismEEG"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1568317887.002400",
+        "client_msg_id": "1ec41b25-2c1d-4f21-8929-e921044547a3",
+        "text": "<https:\/\/github.com\/mbt-administrator\/DemoSDK.Android#synchronize-external-triggers->",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "mbt-administrator\/DemoSDK.Android",
+                "title": "mbt-administrator\/DemoSDK.Android",
+                "footer": "<https:\/\/github.com\/mbt-administrator\/DemoSDK.Android|mbt-administrator\/DemoSDK.Android>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1530028035,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "1",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "Java",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "BA73T1BTJ",
+                "app_unfurl_url": "https:\/\/github.com\/mbt-administrator\/DemoSDK.Android#synchronize-external-triggers-",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J=\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/mbt-administrator\/DemoSDK.Android#synchronize-external-triggers-"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Captures d’écran de la fonction Trigger activée (a priori, nécessite un trigger emitter usb sur le casque :disappointed: ) : <https:\/\/drive.google.com\/open?id=1pHJW1swVfMpuQJyUZUJ__01bhQwfubPC>",
+        "files": [
+            {
+                "id": "FNCE5H147",
+                "created": 1568321186,
+                "timestamp": 1568321186,
+                "name": "IMG_0201.HEIC",
+                "title": "IMG_0201.HEIC",
+                "mimetype": "video\/quicktime",
+                "filetype": "mov",
+                "pretty_type": "QuickTime Movie",
+                "user": "U59MQ46DA",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 1218578,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/drive.google.com\/open?id=1pHJW1swVfMpuQJyUZUJ__01bhQwfubPC",
+                "media_display_type": "video",
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U59MQ46DA\/FNCE5H147\/img_0201.heic",
+                "is_starred": false,
+                "external_id": "1pHJW1swVfMpuQJyUZUJ__01bhQwfubPC",
+                "external_url": "https:\/\/drive.google.com\/open?id=1pHJW1swVfMpuQJyUZUJ__01bhQwfubPC",
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U59MQ46DA",
+        "display_as_bot": false,
+        "x_files": [
+            "FNCE5H147"
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vFVY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Captures d’écran de la fonction Trigger activée (a priori, nécessite un trigger emitter usb sur le casque "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed",
+                                "unicode": "1f61e"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=1pHJW1swVfMpuQJyUZUJ__01bhQwfubPC"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1568321185.003800",
+        "client_msg_id": "a8494adc-f595-4a30-96a5-b11a5ed994cc"
+    },
+    {
+        "text": "Vidéo : <https:\/\/drive.google.com\/open?id=1eTCV5BTVgP-awpxwl9Izpgj5aR9Tt0-V>",
+        "files": [
+            {
+                "id": "FNAJ5H9FA",
+                "created": 1568321271,
+                "timestamp": 1568321271,
+                "name": "IMG_0202.MOV",
+                "title": "IMG_0202.MOV",
+                "mimetype": "video\/quicktime",
+                "filetype": "mov",
+                "pretty_type": "QuickTime Movie",
+                "user": "U59MQ46DA",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 6708262,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/drive.google.com\/open?id=1eTCV5BTVgP-awpxwl9Izpgj5aR9Tt0-V",
+                "media_display_type": "video",
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U59MQ46DA\/FNAJ5H9FA\/img_0202.mov",
+                "is_starred": false,
+                "external_id": "1eTCV5BTVgP-awpxwl9Izpgj5aR9Tt0-V",
+                "external_url": "https:\/\/drive.google.com\/open?id=1eTCV5BTVgP-awpxwl9Izpgj5aR9Tt0-V",
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U59MQ46DA",
+        "display_as_bot": false,
+        "x_files": [
+            "FNAJ5H9FA"
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "==89d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vidéo : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=1eTCV5BTVgP-awpxwl9Izpgj5aR9Tt0-V"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1568321268.004500",
+        "client_msg_id": "50ab2157-6291-441b-804e-306e1c00af68"
+    },
+    {
+        "text": "Première connexion OSC réussie avec affichage de l’électrode P3 sur le graphe :",
+        "files": [
+            {
+                "id": "FNCET8BST",
+                "created": 1568322206,
+                "timestamp": 1568322206,
+                "name": "OSC_to_unity.png",
+                "title": "OSC_to_unity.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U59MQ46DA",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 122631,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FNCET8BST\/osc_to_unity.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FNCET8BST\/download\/osc_to_unity.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FNCET8BST-68b792ce05\/osc_to_unity_64.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FNCET8BST-68b792ce05\/osc_to_unity_80.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FNCET8BST-68b792ce05\/osc_to_unity_360.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360_w": 360,
+                "thumb_360_h": 236,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FNCET8BST-68b792ce05\/osc_to_unity_480.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_480_w": 480,
+                "thumb_480_h": 315,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FNCET8BST-68b792ce05\/osc_to_unity_160.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "image_exif_rotation": 1,
+                "original_w": 514,
+                "original_h": 337,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U59MQ46DA\/FNCET8BST\/osc_to_unity.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-FNCET8BST-13a392cade",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U59MQ46DA",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W=OJf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Première connexion OSC réussie avec affichage de l’électrode P3 sur le graphe :"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1568322207.006100",
+        "client_msg_id": "50d341e6-2d31-4f00-9fdd-bd4fd8cdf662",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U03FC5ZAK",
+                    "U03FEH3N8"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

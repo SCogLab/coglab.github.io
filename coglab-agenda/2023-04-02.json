@@ -1,0 +1,64 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There are *2* events this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "Meeting - Martin \/ Naxon Labs ?: <!date^1680712200^{date_short_pretty} from {time}|April 5th, 2023 from 6:30 PM> to <!date^1680715800^{time}|7:30 PM GMT+0200>",
+                "text": "<!date^1680712200^{date_short_pretty} from {time}|April 5th, 2023 from 6:30 PM> to <!date^1680715800^{time}|7:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Learning+Planet+Institute%29+-+Inserm+University+Paris+City%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France|Learning Planet Institute) - Inserm University Paris City, 8 bis Rue Charles V, 75004 Paris, France>",
+                "title": "Meeting - Martin \/ Naxon Labs ?",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Mjk3azQ1NjBlMWMwaWs0bGEyZGR0MG80aW0gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            },
+            {
+                "id": 2,
+                "color": "7bd148",
+                "fallback": "HackNight NeuroTechX Paris: <!date^1680539400^{date_short_pretty} from {time}|April 3rd, 2023 from 6:30 PM> to <!date^1680550200^{time}|9:30 PM GMT+0200>",
+                "text": "<!date^1680539400^{date_short_pretty} from {time}|April 3rd, 2023 from 6:30 PM> to <!date^1680550200^{time}|9:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Makerlab+Paris%2C+8+Bis+Rue+Charles+V%2C+75004+Paris%2C+France%2C+Charles+V-0-MakerLab+Classroom+%2830%29|Makerlab Paris, 8 Bis Rue Charles V, 75004 Paris, France, Charles V-0-MakerLab Classroom (30)>",
+                "title": "HackNight NeuroTechX Paris",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NmI1cnZ2bzNoOWdmdGkwZ3BvczY5dDRqbGdfMjAyMzA0MDNUMTYzMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1680501603.383159",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yq8C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "2",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " events this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

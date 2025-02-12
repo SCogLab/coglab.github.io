@@ -1,0 +1,28 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card 42ème Forum des Associations added to list ÉVÉNEMENTS à venir on board Activités CogLab (public).",
+                "text": "In list *ÉVÉNEMENTS à venir* on *<https:\/\/trello.com\/b\/NFHS3ZPa|Activités CogLab (public)>*.",
+                "pretext": "New card created",
+                "title": "42ème Forum des Associations",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/btA6f2X5",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "https:\/\/trello-members.s3.amazonaws.com\/50080b67614e7d5e0528a0d3\/2fa24ca179db27c01d7fe8be31c79914\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1587923171.021700",
+        "bot_id": "B66HQV43C"
+    }
+]

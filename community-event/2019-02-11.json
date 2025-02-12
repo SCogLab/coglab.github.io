@@ -1,0 +1,130 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #103: <!date^1549909800^{date_short_pretty} from {time}|February 11th, 2019 from 7:30 PM> to <!date^1549922400^{time}|11:00 PM GMT+0100>",
+                "text": "<!date^1549909800^{date_short_pretty} from {time}|February 11th, 2019 from 7:30 PM> to <!date^1549922400^{time}|11:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #103",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MXBmdWRkM21oMzVtM3Frcm03aGVrZWtiYzAgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1549906201.000100",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1549911094.001000",
+        "edited": {
+            "user": "U03FC5ZAK",
+            "ts": "1549911127.000000"
+        },
+        "client_msg_id": "473d8e29-ae33-422e-88d3-e6242600dca8",
+        "text": "Hello, pour rappel il y a une conférence à la Cité des Sciences ce mercredi\nConférence - *Piloter un objet par l'activité cérébrale*\n\nQui sera dispo pour y aller ?\n\n<http:\/\/www.cite-sciences.fr\/fr\/au-programme\/animations-spectacles\/conferences\/thema-suivez-le-mouvement\/piloter-un-objet-par-lactivite-cerebrale\/>\n<https:\/\/www.facebook.com\/events\/523825821444152\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Conférence - Piloter un objet par l'activité cérébrale",
+                "title_link": "https:\/\/www.facebook.com\/events\/523825821444152\/",
+                "fallback": "Conférence - Piloter un objet par l'activité cérébrale",
+                "image_url": "https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t1.0-0\/c50.0.200.200a\/p200x200\/50299065_10156712866361047_6175085214029578240_n.jpg?_nc_cat=106&_nc_ht=scontent-iad3-1.xx&oh=3e2e4aad44d8ef28eb253b9ff04c37d4&oe=5CFA7455",
+                "from_url": "https:\/\/www.facebook.com\/events\/523825821444152\/",
+                "image_width": 200,
+                "image_height": 200,
+                "image_bytes": 9419,
+                "service_icon": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/yz\/r\/KFyVIAWzntM.ico",
+                "service_name": "facebook.com",
+                "id": 1,
+                "original_url": "https:\/\/www.facebook.com\/events\/523825821444152\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mHo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, pour rappel il y a une conférence à la Cité des Sciences ce mercredi\nConférence - "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Piloter un objet par l'activité cérébrale",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nQui sera dispo pour y aller ?\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.cite-sciences.fr\/fr\/au-programme\/animations-spectacles\/conferences\/thema-suivez-le-mouvement\/piloter-un-objet-par-lactivite-cerebrale\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.facebook.com\/events\/523825821444152\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: [Cité des Sciences] Conférence BCI: <!date^1550077200^{date_short_pretty} from {time}|February 13th, 2019 from 6:00 PM> to <!date^1550086200^{time}|8:30 PM GMT+0100>",
+                "text": "<!date^1550077200^{date_short_pretty} from {time}|February 13th, 2019 from 6:00 PM> to <!date^1550086200^{time}|8:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Cit%C3%A9+des+sciences+et+de+l%27industrie%2C+30+Avenue+Corentin+Cariou%2C+75019+Paris%2C+France|Cité des sciences et de l'industrie, 30 Avenue Corentin Cariou, 75019 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "[Cité des Sciences] Conférence BCI",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NW5mNWRtYTl0MjNydnZzNmwyYWoxdDNsbW0gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1549911316.001300",
+        "bot_id": "B4SJBP2L8"
+    }
+]

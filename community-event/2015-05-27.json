@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U03FC4NE1",
+        "type": "message",
+        "ts": "1432765035.000002",
+        "text": "Yop,\n\nNous avons une demande de La Paillasse :\n\nIls reçoivent le 15 juin en après-midi Les Comptoirs et souhaiteraient rencontrer quelqu'un pour leur présenter les projets du CogLab.\n\nQuelqu'un serait  disponible à cette date et sur ce créneau ? <@U03HY4P8V> ?\n\nIl s'agit d'une agence digitale à priori, je ne sais pas trop qu'elle est l'intention derrière\n<http:\/\/www.lescomptoirs.com\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ce8fbc12b73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-01-27\/3522174799_7ce8fbc12b7351a6a2b3_72.jpg",
+            "first_name": "CogLab",
+            "real_name": "CogLab NeuroTechX Paris",
+            "display_name": "coglab",
+            "team": "T03FC4NDZ",
+            "name": "coglab",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "text": "Agence - Conseil Digitale Internet et Mobile, spécialisée dans le marketing, la mobilité, l'e-Reputation et l'influence.",
+                "fallback": "Agence - Conseil Digitale Internet et Mobile, spécialisée dans le marketing, la mobilité, l'e-Reputation et l'influence.",
+                "from_url": "http:\/\/www.lescomptoirs.com\/",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i4es",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yop,\n\nNous avons une demande de La Paillasse :\n\nIls reçoivent le 15 juin en après-midi Les Comptoirs et souhaiteraient rencontrer quelqu'un pour leur présenter les projets du CogLab.\n\nQuelqu'un serait  disponible à cette date et sur ce créneau ? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HY4P8V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?\n\nIl s'agit d'une agence digitale à priori, je ne sais pas trop qu'elle est l'intention derrière\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.lescomptoirs.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1535710048.000100",
+        "client_msg_id": "29b77452-fe93-4599-9a92-287249711e66",
+        "text": "Hello <!channel>\n\nLundi j’ai une mission à Versailles toute la journée et ne sais pas trop à quelle heure je vais rentrer.\n\nPlutôt que d’annuler la HackNight, ne pouvant pas assurer la permanence habituelle, je vous propose de la décalé exceptionnellement au lendemain, le mardi 4 septembre.\n\nQui prévois de venir lundi ? Et disponible mardi ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MBw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nLundi j’ai une mission à Versailles toute la journée et ne sais pas trop à quelle heure je vais rentrer.\n\nPlutôt que d’annuler la HackNight, ne pouvant pas assurer la permanence habituelle, je vous propose de la décalé exceptionnellement au lendemain, le mardi 4 septembre.\n\nQui prévois de venir lundi ? Et disponible mardi ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1535713097.000100",
+        "client_msg_id": "1f9e9ed7-302c-4b47-8584-6a4d0c638964",
+        "text": "Salut <@U03FC5ZAK>, je prévoyais de venir lundi mais je ne suis pas dispo ce mardi",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+qTSC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", je prévoyais de venir lundi mais je ne suis pas dispo ce mardi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

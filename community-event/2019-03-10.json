@@ -1,0 +1,83 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: Sprint CogLab - RGPD \/ FSC: <!date^1552735800^{date_short_pretty} from {time}|March 16th, 2019 from 12:30 PM> to <!date^1552753800^{time}|5:30 PM GMT+0100>",
+                "text": "<!date^1552735800^{date_short_pretty} from {time}|March 16th, 2019 from 12:30 PM> to <!date^1552753800^{time}|5:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=28B+Rue+Gallieni%2C+92600+Asni%C3%A8res-sur-Seine%2C+France|28B Rue Gallieni, 92600 Asnières-sur-Seine, France>",
+                "pretext": "New calendar event created",
+                "title": "Sprint CogLab - RGPD \/ FSC",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NGQzMHZsNDYyZWxtMGFqdDRvazdsN2JhMDcgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1552226586.000300",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1552257745.001100",
+        "client_msg_id": "bbf0ca21-52ad-42e8-8795-a8b6632ff4db",
+        "text": "Salon Virtuality 2019 (ajouté dans KG Events) : <https:\/\/www.virtuality.fr\/fr\/virtualityparis>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Virtuality Paris 2019 - Le salon de la VR\/AR",
+                "title_link": "https:\/\/www.virtuality.fr\/fr\/virtualityparis",
+                "text": "3ème édition du salon international de la réalité virtuelle et augmentée à Paris. Rendez-vous du 21 au 23 novembre 2019 au Centquatre-Paris.",
+                "fallback": "Virtuality Paris 2019 - Le salon de la VR\/AR",
+                "image_url": "https:\/\/s3.amazonaws.com\/eventtia\/event_logos\/8056\/medium\/virtualitylogo2018paysagec15371742431537174243.png?1537174243",
+                "from_url": "https:\/\/www.virtuality.fr\/fr\/virtualityparis",
+                "image_width": 640,
+                "image_height": 232,
+                "image_bytes": 51959,
+                "service_icon": "https:\/\/www.virtuality.fr\/favicon.ico",
+                "service_name": "virtuality.fr",
+                "id": 1,
+                "original_url": "https:\/\/www.virtuality.fr\/fr\/virtualityparis"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "91U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salon Virtuality 2019 (ajouté dans KG Events) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.virtuality.fr\/fr\/virtualityparis"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

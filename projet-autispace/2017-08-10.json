@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1502351915.983876",
+        "text": "un autre exemple de démo en VR très sympa !\nc’est très fluide sur PC et mobile, et c’est en WebVR\n<http:\/\/devel.lulzbot.com\/vr\/taz\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "LulzBot TAZ Virtual Experience",
+                "title_link": "http:\/\/devel.lulzbot.com\/vr\/taz\/",
+                "text": "Interact with a LulzBot TAZ 3D printer in VR!",
+                "fallback": "LulzBot TAZ Virtual Experience",
+                "image_url": "http:\/\/devel.lulzbot.com\/vr\/taz\/artwork\/screenshot.png",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "http:\/\/devel.lulzbot.com\/vr\/taz\/",
+                "image_bytes": 235344,
+                "service_icon": "http:\/\/devel.lulzbot.com\/favicon.ico",
+                "service_name": "devel.lulzbot.com",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tA1q5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "un autre exemple de démo en VR très sympa !\nc’est très fluide sur PC et mobile, et c’est en WebVR\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/devel.lulzbot.com\/vr\/taz\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

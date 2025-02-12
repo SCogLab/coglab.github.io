@@ -1,0 +1,66 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U0XM71R9C",
+        "text": "<@U0XM71R9C> a rejoint le canal",
+        "type": "message",
+        "ts": "1459760252.000019"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1459771196.000020",
+        "text": "Bonjour <@U0XM71R9C> bienvenu\nN'hésite pas à te présenter sur <#C041LLKGW|community-members> :simple_smile:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Ss33",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0XM71R9C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " bienvenu\nN'hésite pas à te présenter sur "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C041LLKGW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

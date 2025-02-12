@@ -1,0 +1,87 @@
+[
+    {
+        "user": "U01804NJ7AQ",
+        "type": "message",
+        "ts": "1708316811.016419",
+        "client_msg_id": "48BD4D38-BEF7-48D4-9BBF-976CEA070815",
+        "text": "<https:\/\/x.com\/PTenigma\/status\/1759370169640788463|https:\/\/x.com\/PTenigma\/status\/1759370169640788463>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g7080a90c528",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7080a90c528526f8129488e607562782.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Morgan Hough",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "morgan.hough",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708316811.016419",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1708613149.252599",
+        "reply_users": [
+            "U065TGVPMQA",
+            "U01804NJ7AQ"
+        ],
+        "replies": [
+            {
+                "user": "U065TGVPMQA",
+                "ts": "1708608381.198169"
+            },
+            {
+                "user": "U01804NJ7AQ",
+                "ts": "1708613149.252599"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/x.com\/PTenigma\/status\/1759370169640788463",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/GGqJX_DaIAAvqv7.jpg:large",
+                "image_width": 1396,
+                "image_height": 734,
+                "image_bytes": 105526,
+                "service_icon": "http:\/\/abs.twimg.com\/favicons\/twitter.3.ico",
+                "id": 1,
+                "original_url": "https:\/\/x.com\/PTenigma\/status\/1759370169640788463",
+                "fallback": "X (formerly Twitter): Paul Thompson (@PTenigma) on X",
+                "text": "AI models for both language and images (including SAM - <https:\/\/t.co\/eSTcXJfUai> ) are now showing emergent behavior - models trained on extremely large amounts of data can develop a capability to understand mechanisms; with enough falling apples and videos of the world, they can…",
+                "title": "Paul Thompson (@PTenigma) on X",
+                "title_link": "https:\/\/x.com\/PTenigma\/status\/1759370169640788463",
+                "service_name": "X (formerly Twitter)"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ihvAl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/x.com\/PTenigma\/status\/1759370169640788463",
+                                "text": "https:\/\/x.com\/PTenigma\/status\/1759370169640788463"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U065TGVPMQA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

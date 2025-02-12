@@ -1,0 +1,58 @@
+[
+    {
+        "user": "U03FC4NE1",
+        "type": "message",
+        "ts": "1423140327.000002",
+        "text": "Bienvenue sur le Slack dédié à la gestion du CogLab\nLe principe de la plateforme est de centraliser tous les services web ici.\nEt d'y intégrer chacun d'entre eux dans des channels correspondant à un flux d'échanges.\n\nN'hésitez pas à créer des channels et faire un lien vers le board du Trello correspondant :simple_smile:\n<https:\/\/trello.com\/scoglab>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ce8fbc12b73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-01-27\/3522174799_7ce8fbc12b7351a6a2b3_72.jpg",
+            "first_name": "CogLab",
+            "real_name": "CogLab NeuroTechX Paris",
+            "display_name": "coglab",
+            "team": "T03FC4NDZ",
+            "name": "coglab",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CIV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bienvenue sur le Slack dédié à la gestion du CogLab\nLe principe de la plateforme est de centraliser tous les services web ici.\nEt d'y intégrer chacun d'entre eux dans des channels correspondant à un flux d'échanges.\n\nN'hésitez pas à créer des channels et faire un lien vers le board du Trello correspondant "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/trello.com\/scoglab"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03JDJWSR",
+        "text": "<@U03JDJWSR> a rejoint le canal",
+        "type": "message",
+        "ts": "1423141945.000000"
+    }
+]

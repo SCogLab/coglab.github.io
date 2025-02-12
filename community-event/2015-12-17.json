@@ -1,0 +1,63 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1450355839.000002",
+        "text": "<!channel>: Hello, pour rappel, ce soir c'est le dernier gros événement CogLab de l'année !\nNous accueillons Marion de NeuroTechSF à La Paillasse\n<http:\/\/www.coglab.fr\/rencontre6\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "CogLab",
+                "title": "Rencontre #6 – NeuroTechSF",
+                "title_link": "http:\/\/www.coglab.fr\/rencontre6\/",
+                "text": "  Description Rencontre #6 – NeuroTechSF Jeudi 17 décembre, de 19h30 à 22h00 Sous-sol de La Paillasse (226 rue Saint-Denis, Paris) Suite à la Rencontre #4 qui as permis de faire connaiss…",
+                "fallback": "CogLab: Rencontre #6 – NeuroTechSF",
+                "image_url": "http:\/\/www.coglab.fr\/wp-content\/uploads\/2015\/12\/Rencontre6.png",
+                "image_width": 588,
+                "image_height": 250,
+                "ts": 1449445051,
+                "from_url": "http:\/\/www.coglab.fr\/rencontre6\/",
+                "image_bytes": 339081,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y68qA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Hello, pour rappel, ce soir c'est le dernier gros événement CogLab de l'année !\nNous accueillons Marion de NeuroTechSF à La Paillasse\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.coglab.fr\/rencontre6\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

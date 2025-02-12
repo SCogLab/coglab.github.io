@@ -1,0 +1,72 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1574107375.000500",
+        "client_msg_id": "6f0b725d-cf40-45ee-af72-b7107688da8c",
+        "text": "Je viens d'écrire un billet de blog pour la Maker Faire, qu'en pensez vous ?\n<https:\/\/coglab.fr\/makerfaireparis-2019\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "CogLab, NeuroTechX Paris",
+                "title": "CogLab à Maker Faire Paris 2019",
+                "title_link": "https:\/\/coglab.fr\/makerfaireparis-2019\/",
+                "text": "Cette année, nous serons présent à la Maker Faire Paris qui aura lieu du 22 au 24 novembre 2019 à la Cité des Sciences et de l’Industrie   Qu’est-ce que la Maker Faire ? Maker Fair…",
+                "fallback": "CogLab, NeuroTechX Paris: CogLab à Maker Faire Paris 2019",
+                "image_url": "https:\/\/coglab.fr\/wp-content\/uploads\/2019\/11\/image001.png",
+                "image_width": 626,
+                "image_height": 250,
+                "ts": 1574107320,
+                "from_url": "https:\/\/coglab.fr\/makerfaireparis-2019\/",
+                "image_bytes": 347173,
+                "service_icon": "https:\/\/i0.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=180%2C180&#038;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/coglab.fr\/makerfaireparis-2019\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wKI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je viens d'écrire un billet de blog pour la Maker Faire, qu'en pensez vous ?\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.fr\/makerfaireparis-2019\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "ULSDVUUVA",
+                    "U59MQ46DA"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

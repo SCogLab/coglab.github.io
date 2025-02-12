@@ -1,0 +1,80 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1527278697.000326",
+        "text": "<http:\/\/bcisociety.org\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "BCI society",
+                "title": "BCI Society Homepage",
+                "title_link": "http:\/\/bcisociety.org\/",
+                "text": "Join us for the 7th International BCI Meeting About Us We are pleased to introduce the BCI Society! Please check out the recently posted News for the BCI Society. At the Fifth International Brain-Computer Interface (BCI) Meeting in Pacific Grove, California in 2013, the attendees voted for the establishment of a BCI society to oversee future … Continue reading BCI Society Home Page →",
+                "fallback": "BCI society: BCI Society Homepage",
+                "thumb_url": "http:\/\/bcisociety.org\/wp-content\/uploads\/2015\/06\/BCI2018-SaveDate-300x167.png",
+                "from_url": "http:\/\/bcisociety.org\/",
+                "thumb_width": 300,
+                "thumb_height": 167,
+                "id": 1,
+                "original_url": "http:\/\/bcisociety.org\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l9y\/p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/bcisociety.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Event updated: CogLab HackNight #80 (visioconf): <!date^1527534000^{date_short_pretty} from {time}|May 28th, 2018 from 9:00 PM> to <!date^1527537600^{time}|10:00 PM GMT+0200>",
+                "text": "<!date^1527534000^{date_short_pretty} from {time}|May 28th, 2018 from 9:00 PM> to <!date^1527537600^{time}|10:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Skype|Skype>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab HackNight #80 (visioconf)",
+                "more": "HackNight hebdomadaire l'association 'CogLab, NeuroTechX Paris'&lt;br&gt;&lt;br&gt;&lt;br&gt;Ordre du jour :&lt;br&gt;- Team OpenBC[IA] : experimentation et prototypage (Hans &amp;amp; Maxence)&lt;br&gt;-&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=https%3A%2F%2Fpaper.dropbox.com%2Fdoc%2FyAWwKWaFkXa9w42sA0Sdj&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNH9q3hhrWopVThNTnogVHtK-DNRoQ>\" target=\"_blank\"&gt;&lt;span&gt;Projet Autispace&lt;\/span&gt;&lt;\/a&gt; : prototypage WebVR \/ Unity (Romain)&lt;br&gt;&lt;br&gt;&lt;br&gt;Lieu :&amp;nbsp;&lt;br&gt;- &lt;b&gt;Groupe Skype HackNight&lt;\/b&gt;&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=https%3A%2F%2Fjoin.skype.com%2Fbe7Ty93o77rj&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNHJrhgRqqQ8EaGHaW7wb_qkHNA24g>\" target=\"_blank\"&gt;https:\/\/join.skype.com\/be7Ty93o77rj&lt;\/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Documentation&lt;br&gt;- Projet BC[IA]&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=http%3A%2F%2Fwww.coglab.fr%2Fportfolio%2Fopenbcia&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNHq_Dw940zmTMJ8-4uxs8WlhifyhQ>\" target=\"_blank\"&gt;http:\/\/www.coglab.fr\/portfolio\/openbcia&lt;\/a&gt;&lt;br&gt;- Projet Autispace&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=http%3A%2F%2Fwww.coglab.fr%2Fportfolio%2Fautispace%2F&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNEZZ1afsh0HORrngY_VaIeyH3L9RQ>\" target=\"_blank\"&gt;http:\/\/www.coglab.fr\/portfolio\/autispace\/&lt;\/a&gt;",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=N2ZzdTVrMWN2aDl2b3J1NjFiYWgydTFmdDBfMjAxODA1MjhUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1527280635.000351",
+        "bot_id": "B4SJBP2L8"
+    }
+]

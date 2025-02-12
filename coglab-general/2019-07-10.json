@@ -1,0 +1,41 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Hans Harisson",
+                "fallback": "New card OpenBrain Bar #12 : added to list BLOG (notes externes) on board Activités CogLab (public).",
+                "text": "In list *BLOG (notes externes)* on *<https:\/\/trello.com\/b\/NFHS3ZPa|Activités CogLab (public)>*.",
+                "pretext": "New card created",
+                "title": "OpenBrain Bar #12 :",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/plVaXlPg",
+                "author_link": "https:\/\/trello.com\/hansharisson1",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1562768986.000100",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "ULABDBC9W",
+        "text": "<@ULABDBC9W> a rejoint le canal",
+        "type": "message",
+        "ts": "1562774908.000300"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "UL9U7PSTE",
+        "text": "<@UL9U7PSTE> a rejoint le canal",
+        "type": "message",
+        "ts": "1562776648.000600"
+    }
+]

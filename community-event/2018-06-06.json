@@ -1,0 +1,46 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Autispace - LabVR StoryCode: <!date^1528306200^{date_short_pretty} from {time}|June 6th, 2018 from 7:30 PM> to <!date^1528315200^{time}|10:00 PM GMT+0200>",
+                "text": "<!date^1528306200^{date_short_pretty} from {time}|June 6th, 2018 from 7:30 PM> to <!date^1528315200^{time}|10:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Le+Cargo%2C+157+Boulevard+Macdonald%2C+75019+Paris%2C+France|Le Cargo, 157 Boulevard Macdonald, 75019 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "Autispace - LabVR StoryCode",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NHA5YmEybmducWg0Z3NjaHF1ajBxcnB1Z2JfMjAxODA2MDZUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1528302600.000964",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event cancelled: Autispace - LabVR StoryCode: <!date^1528306200^{date_short_pretty} from {time}|June 6th, 2018 from 7:30 PM> to <!date^1528315200^{time}|10:00 PM GMT+0200>",
+                "text": "<!date^1528306200^{date_short_pretty} from {time}|June 6th, 2018 from 7:30 PM> to <!date^1528315200^{time}|10:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Le+Cargo%2C+157+Boulevard+Macdonald%2C+75019+Paris%2C+France|Le Cargo, 157 Boulevard Macdonald, 75019 Paris, France>",
+                "pretext": "Calendar event was cancelled",
+                "title": "Autispace - LabVR StoryCode",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NHA5YmEybmducWg0Z3NjaHF1ajBxcnB1Z2JfMjAxODA2MDZUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1528302673.000461",
+        "bot_id": "B4SJBP2L8"
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: RDV CogLab &lt;&gt; Polytech PSC HSS10: <!date^1603292400^{date_short_pretty} from {time}|October 21st, 2020 from 5:00 PM> to <!date^1603296000^{time}|6:00 PM GMT+0200>",
+                "text": "<!date^1603292400^{date_short_pretty} from {time}|October 21st, 2020 from 5:00 PM> to <!date^1603296000^{time}|6:00 PM GMT+0200>",
+                "pretext": "Calendar event updated",
+                "title": "RDV CogLab &lt;&gt; Polytech PSC HSS10",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MjZ0Z28wb2wydW01bWRqZTFxN3NkNTIxbWUgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1603102505.001400",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #168 [Online]: <!date^1603125000^{date_short_pretty} from {time}|October 19th, 2020 from 6:30 PM> to <!date^1603134000^{time}|9:00 PM GMT+0200>",
+                "text": "<!date^1603125000^{date_short_pretty} from {time}|October 19th, 2020 from 6:30 PM> to <!date^1603134000^{time}|9:00 PM GMT+0200> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #168 [Online]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Njc5Z2hnZmpjNTJyNGVwbWdiOWJpc3B0NjMgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1603121401.001500",
+        "bot_id": "B4SJBP2L8"
+    }
+]

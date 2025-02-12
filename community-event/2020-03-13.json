@@ -1,0 +1,48 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "Hackathon Timeflux: <!date^1584086400^{date_short_pretty} from {time}|March 13th, 2020 from 9:00 AM> to <!date^1584298800^{date_short_pretty} at {time}|March 15th, 2020 at 8:00 PM GMT+0100>",
+                "text": "<!date^1584086400^{date_short_pretty} from {time}|March 13th, 2020 from 9:00 AM> to <!date^1584298800^{date_short_pretty} at {time}|March 15th, 2020 at 8:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=42%2C+96+Boulevard+Bessi%C3%A8res%2C+75017+Paris%2C+France|42, 96 Boulevard Bessières, 75017 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "Hackathon Timeflux",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NXNtcmpxa3VwamRwbDN1NGZxdG45ZTJrbTQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1584082802.000800",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: [Evenement reporté] Hackathon Timeflux @ 42: <!date^1584086400^{date_short_pretty} from {time}|March 13th, 2020 from 9:00 AM> to <!date^1584298800^{date_short_pretty} at {time}|March 15th, 2020 at 8:00 PM GMT+0100>",
+                "text": "<!date^1584086400^{date_short_pretty} from {time}|March 13th, 2020 from 9:00 AM> to <!date^1584298800^{date_short_pretty} at {time}|March 15th, 2020 at 8:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=42%2C+96+Boulevard+Bessi%C3%A8res%2C+75017+Paris%2C+France|42, 96 Boulevard Bessières, 75017 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "[Evenement reporté] Hackathon Timeflux @ 42",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NXNtcmpxa3VwamRwbDN1NGZxdG45ZTJrbTQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1584102484.000900",
+        "bot_id": "B4SJBP2L8"
+    }
+]

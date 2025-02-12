@@ -1,0 +1,60 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1563547041.000400",
+        "client_msg_id": "db8f06a3-3184-4454-8a68-eddcc2720684",
+        "text": "Société Versaillaise : <https:\/\/brainanalyze.com>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "BrainAnalyze",
+                "title": "Home - BrainAnalyze",
+                "title_link": "https:\/\/brainanalyze.com\/",
+                "text": "BrainAnalyze Website Home Page, scientific and medical data processing solutions based on the BrainAnalyst Software and Virtual Reality Developments.",
+                "fallback": "BrainAnalyze: Home - BrainAnalyze",
+                "thumb_url": "https:\/\/brainanalyze.com\/wp-content\/uploads\/2017\/12\/23800237_119996112112864_4702043518079770784_o-1024x379.jpg",
+                "from_url": "https:\/\/brainanalyze.com\/",
+                "thumb_width": 1024,
+                "thumb_height": 379,
+                "service_icon": "https:\/\/i1.wp.com\/brainanalyze.com\/wp-content\/uploads\/2017\/03\/cropped-BrainAnalyzeSquare.png?fit=180%2C180&#038;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/brainanalyze.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fjp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Société Versaillaise : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/brainanalyze.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

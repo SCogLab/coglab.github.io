@@ -1,0 +1,68 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U0N66HZU5",
+        "text": "<@U0N66HZU5> a rejoint le canal",
+        "type": "message",
+        "ts": "1455896321.000021"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1455915652.000022",
+        "text": "<!channel>: [Vote] HackNight CogLab\n\nPetit rappel, un Doodle est en cours pour déterminer le moment de rencontre idéal hebdomadaire permettant d' avancer plus régulièrement sur les projets et favoriser le dynamisme de la communauté.\n\nLa Paillasse est ok sur l'idée (vu avec eux rapidement hier soir). Si vous avez d'autres suggestions de lieux de rencontre, n'hésitez pas.\n\n<http:\/\/doodle.com\/poll\/ymuqmykc9kykgx5a>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Doodle: HackNight CogLab",
+                "title_link": "http:\/\/doodle.com\/poll\/ymuqmykc9kykgx5a",
+                "text": "A l'image des HackNight de NeuroTechX Montréal, l'idée de mettre en place une soirée de rencontre hebdomadaire avec la communauté du CogLab serai très bénéfique pour avancer plus régulièrement sur les projets et favoriser le dynamisme de la communauté. Avant d'évoquer un lieu (toute suggestion est la bienvenue, nous proposerons l'idée à La Paillasse), mettons nous d'accord sur un jour de la semaine dans un premier temps.",
+                "fallback": "Doodle: HackNight CogLab",
+                "image_url": "http:\/\/doodle.com\/graphics\/static\/facebookSharingThumbnail.png",
+                "from_url": "http:\/\/doodle.com\/poll\/ymuqmykc9kykgx5a",
+                "image_width": 300,
+                "image_height": 200,
+                "image_bytes": 6864,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LHhi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": [Vote] HackNight CogLab\n\nPetit rappel, un Doodle est en cours pour déterminer le moment de rencontre idéal hebdomadaire permettant d' avancer plus régulièrement sur les projets et favoriser le dynamisme de la communauté.\n\nLa Paillasse est ok sur l'idée (vu avec eux rapidement hier soir). Si vous avez d'autres suggestions de lieux de rencontre, n'hésitez pas.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/doodle.com\/poll\/ymuqmykc9kykgx5a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

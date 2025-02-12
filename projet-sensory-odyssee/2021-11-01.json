@@ -1,0 +1,50 @@
+[
+    {
+        "user": "U01S8PWA7GU",
+        "type": "message",
+        "ts": "1635789169.000100",
+        "client_msg_id": "6e488b1a-9adf-4ef1-9975-c02646bddd56",
+        "text": "Super, merci <@U01RUJ02ECS> ! Je lui envoyé mon e-mail avec mes quelques mentions de débutant. ;o",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "c0ad61371238",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1886649922098_c0ad61371238e9b3ed71_72.png",
+            "first_name": "Eduardo",
+            "real_name": "Eduardo de Conto",
+            "display_name": "Eduardo de Conto",
+            "team": "T03FC4NDZ",
+            "name": "eduardoconto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1635506662.001700",
+        "parent_user_id": "U01RUJ02ECS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tLXFd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Super, merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RUJ02ECS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ! Je lui envoyé mon e-mail avec mes quelques mentions de débutant. ;o"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

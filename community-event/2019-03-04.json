@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #104 - Autispace: <!date^1551724200^{date_short_pretty} from {time}|March 4th, 2019 from 7:30 PM> to <!date^1551736800^{time}|11:00 PM GMT+0100>",
+                "text": "<!date^1551724200^{date_short_pretty} from {time}|March 4th, 2019 from 7:30 PM> to <!date^1551736800^{time}|11:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #104 - Autispace",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=N2tqc29tcGVsOHRkb3FwZDluaTZnNTVnOWogc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1551720602.001400",
+        "bot_id": "B4SJBP2L8"
+    }
+]

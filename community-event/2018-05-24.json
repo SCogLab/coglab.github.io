@@ -1,0 +1,24 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "CogLab @ Open Paillasse: <!date^1527183000^{date_short_pretty} from {time}|May 24th, 2018 from 7:30 PM> to <!date^1527192000^{time}|10:00 PM GMT+0200>",
+                "text": "<!date^1527183000^{date_short_pretty} from {time}|May 24th, 2018 from 7:30 PM> to <!date^1527192000^{time}|10:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=La+Paillasse%2C+226+Rue+Saint-Denis%2C+75002+Paris%2C+France|La Paillasse, 226 Rue Saint-Denis, 75002 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab @ Open Paillasse",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MXY2YzdobmtnZWdkNGVqY2dhMjNvdTVtaWwgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1527179401.000004",
+        "bot_id": "B4SJBP2L8"
+    }
+]

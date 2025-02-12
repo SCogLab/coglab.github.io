@@ -1,0 +1,372 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card MOOC Saventuriers added to list PROJETS on board Activités CogLab (public).",
+                "text": "In list *PROJETS* on *<https:\/\/trello.com\/b\/NFHS3ZPa|Activités CogLab (public)>*.",
+                "pretext": "New card created",
+                "title": "MOOC Saventuriers",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/946LbbCa",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1556483573.008600",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1556485203.017100",
+        "client_msg_id": "ffb37a17-a935-4395-9e7c-2752cd3fa998",
+        "text": "Bonjour <!here>, je viens d'effectuer une petite mise à jour du slack :\n\n- [Nouvelle chaîne] Pour les *soirées hacknight* hebdomadaires du lundi, rendez-vous désormais sur <#C0R6W4X2Q|coglab-hacknight> pour discerner de la chaîne <#C03UHNB2H|community-event> un peu trop générale. Cela permettra de faciliter la coordination des soirées. A noter qu'il y a également une chaîne <#CFX6AJZTK|coglab-meetup> pour ceux qui voudrait aider \/ contribuer à organiser des Meetup.\n- [Changement de nom] Le channel *coglab-idea* est désormais <#C03FC4NEB|community-idee-feedback>, il s'agit d'un espace générique pour poser une question, partager une idée, une remarque ou si vous ne savez pas ou écrire (après avoir parcouru la liste des channels).\n\nPour rappel, il existe une multitude de chaînes spécifiques, regroupées par préfixes :\n- Pour les projets, nous utilisons le préfixe *projet-* (ex <#C03UHP8UD|projet-autispace>)\n- Le préfixe *coglab-* regroupe les initiatives et l'animation de l'équipe de bénévole (<#C41SVL8BH|coglab-association>, <#C5HFR0LSF|coglab-ca>, <#C0QMXAWMB|coglab-blog>, ...)\n- Le préfixe communauté avec les membres, répartition géographique, événements et idées\n- On diffuse régulièrement de la veille sur différentes chaîne <#C03KMPLR6|veille-bci> <#C0EKG3B8U|veille-thirdplace> <#C96FGFNKD|veille-ia> <#CFYSX9T8T|veille-robotic> <#C03KMPNC6|veille-biodata-multimodal> <#C0BHFFUJE|veille-hci-ux> <#C0K1416SG|veille-xr> ... ou de manière plus générique désormais sur <#CHX97BV2P|veille-divers>\n- Enfin 3 chaines spécifiques <#C03JFHJL2|tools-documentation> <#C03JFE6Q4|tools-twitter> et <#C04LWU1SN|tools-code> respectivement la mise en place d'outil pour la documentation, un bot Twitter et un bot GitHub\n\nAu plaisir de croiser certain.e.s d'entre vous à la <#C0R6W4X2Q|coglab-hacknight> de demain soir ou à d'autres occasions :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x=\/tA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", je viens d'effectuer une petite mise à jour du slack :\n\n- [Nouvelle chaîne] Pour les "
+                            },
+                            {
+                                "type": "text",
+                                "text": "soirées hacknight",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " hebdomadaires du lundi, rendez-vous désormais sur "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0R6W4X2Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour discerner de la chaîne "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03UHNB2H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " un peu trop générale. Cela permettra de faciliter la coordination des soirées. A noter qu'il y a également une chaîne "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CFX6AJZTK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour ceux qui voudrait aider \/ contribuer à organiser des Meetup.\n- [Changement de nom] Le channel "
+                            },
+                            {
+                                "type": "text",
+                                "text": "coglab-idea",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " est désormais "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03FC4NEB"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", il s'agit d'un espace générique pour poser une question, partager une idée, une remarque ou si vous ne savez pas ou écrire (après avoir parcouru la liste des channels).\n\nPour rappel, il existe une multitude de chaînes spécifiques, regroupées par préfixes :\n- Pour les projets, nous utilisons le préfixe "
+                            },
+                            {
+                                "type": "text",
+                                "text": "projet-",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (ex "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03UHP8UD"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n- Le préfixe "
+                            },
+                            {
+                                "type": "text",
+                                "text": "coglab-",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " regroupe les initiatives et l'animation de l'équipe de bénévole ("
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C41SVL8BH"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C5HFR0LSF"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0QMXAWMB"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", ...)\n- Le préfixe communauté avec les membres, répartition géographique, événements et idées\n- On diffuse régulièrement de la veille sur différentes chaîne "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03KMPLR6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0EKG3B8U"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C96FGFNKD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CFYSX9T8T"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03KMPNC6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0BHFFUJE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0K1416SG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ... ou de manière plus générique désormais sur "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CHX97BV2P"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- Enfin 3 chaines spécifiques "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03JFHJL2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03JFE6Q4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C04LWU1SN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " respectivement la mise en place d'outil pour la documentation, un bot Twitter et un bot GitHub\n\nAu plaisir de croiser certain.e.s d'entre vous à la "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0R6W4X2Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " de demain soir ou à d'autres occasions "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FEH3N8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "N'hésite pas à parcourir, rejoindre et interagir parmis les différentes chaînes Slack du CogLab",
+        "files": [
+            {
+                "id": "FJ8N5AEH3",
+                "created": 1556485283,
+                "timestamp": 1556485283,
+                "name": "Screenshot 2019-04-28 at 21.55.41.png",
+                "title": "Screenshot 2019-04-28 at 21.55.41.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03FC5ZAK",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 609189,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FJ8N5AEH3\/screenshot_2019-04-28_at_21.55.41.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FJ8N5AEH3\/download\/screenshot_2019-04-28_at_21.55.41.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FJ8N5AEH3-0640187e13\/screenshot_2019-04-28_at_21.55.41_64.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FJ8N5AEH3-0640187e13\/screenshot_2019-04-28_at_21.55.41_80.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FJ8N5AEH3-0640187e13\/screenshot_2019-04-28_at_21.55.41_360.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360_w": 284,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FJ8N5AEH3-0640187e13\/screenshot_2019-04-28_at_21.55.41_480.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_480_w": 379,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FJ8N5AEH3-0640187e13\/screenshot_2019-04-28_at_21.55.41_160.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FJ8N5AEH3-0640187e13\/screenshot_2019-04-28_at_21.55.41_720.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720_w": 568,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FJ8N5AEH3-0640187e13\/screenshot_2019-04-28_at_21.55.41_800.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1014,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FJ8N5AEH3-0640187e13\/screenshot_2019-04-28_at_21.55.41_960.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_960_w": 757,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FJ8N5AEH3-0640187e13\/screenshot_2019-04-28_at_21.55.41_1024.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_1024_w": 807,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1380,
+                "original_h": 1750,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U03FC5ZAK\/FJ8N5AEH3\/screenshot_2019-04-28_at_21.55.41.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-FJ8N5AEH3-a50c5bb5c6",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U03FC5ZAK",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5FS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "N'hésite pas à parcourir, rejoindre et interagir parmis les différentes chaînes Slack du CogLab"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1556485286.017200",
+        "client_msg_id": "74fef276-c58b-422f-825e-8161b2c1d754"
+    }
+]

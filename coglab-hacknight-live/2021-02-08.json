@@ -1,0 +1,441 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U01M6LR0DFG",
+        "text": "<@U01M6LR0DFG> a rejoint le canal",
+        "type": "message",
+        "ts": "1612814577.000200"
+    },
+    {
+        "user": "U01M6LR0DFG",
+        "type": "message",
+        "ts": "1612814631.000400",
+        "client_msg_id": "6290a898-3f41-4f8b-9cae-3ef15a3bd955",
+        "text": "Salut !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "ga1f45545037",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1f45545037072d033c555a103e893d8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "Dylan - Ekos",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "dylan.canete5",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Jr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1612814641.000700",
+        "client_msg_id": "8fc4e854-5486-46c8-ae3f-567085963f2e",
+        "text": "Hello!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "46QP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "*EKOS* a rejoint ce canal sur une invitation de *CogLab - NeuroTechX Paris*.",
+        "user": "USLACKBOT",
+        "username": "slackbot",
+        "type": "message",
+        "ts": "1612814697.001000",
+        "team": "T03FC4NDZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "erE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "EKOS",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " a rejoint ce canal sur une invitation de "
+                            },
+                            {
+                                "type": "text",
+                                "text": "CogLab - NeuroTechX Paris",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01M6LR0DFG",
+        "type": "message",
+        "ts": "1612814713.001700",
+        "client_msg_id": "419950da-b9a8-4d0d-bb69-e1ec0371cf91",
+        "text": "Ça y est normalement nous avons réussi à vous rejoindre !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "ga1f45545037",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1f45545037072d033c555a103e893d8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "Dylan - Ekos",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "dylan.canete5",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WBJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ça y est normalement nous avons réussi à vous rejoindre !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "sh_room_created",
+        "text": "A démarré un <https:\/\/scoglab.slack.com\/call\/R01N3KY3RME|appel>.",
+        "user": "U03FC5ZAK",
+        "channel": "C01JBBNSJ0M",
+        "room": {
+            "id": "R01N3KY3RME",
+            "name": "HackNight CogLab 180",
+            "media_server": "",
+            "created_by": "U03FC5ZAK",
+            "date_start": 1612814735,
+            "date_end": 1612818805,
+            "participants": [],
+            "participant_history": [
+                "U03FC5ZAK",
+                "U01M6LR0DFG",
+                "U01MALX25AR",
+                "U59MQ46DA",
+                "UMSL037JT"
+            ],
+            "participants_events": {
+                "U03FC5ZAK": {
+                    "user_team": {},
+                    "joined": true,
+                    "camera_on": false,
+                    "camera_off": false,
+                    "screenshare_on": false,
+                    "screenshare_off": false
+                },
+                "U01M6LR0DFG": {
+                    "user_team": {},
+                    "joined": true,
+                    "camera_on": false,
+                    "camera_off": false,
+                    "screenshare_on": false,
+                    "screenshare_off": false
+                },
+                "U01MALX25AR": {
+                    "user_team": {},
+                    "joined": true,
+                    "camera_on": false,
+                    "camera_off": false,
+                    "screenshare_on": false,
+                    "screenshare_off": false
+                },
+                "U59MQ46DA": {
+                    "user_team": {},
+                    "joined": true,
+                    "camera_on": false,
+                    "camera_off": false,
+                    "screenshare_on": false,
+                    "screenshare_off": false
+                },
+                "UMSL037JT": {
+                    "user_team": {},
+                    "joined": true,
+                    "camera_on": false,
+                    "camera_off": false,
+                    "screenshare_on": false,
+                    "screenshare_off": false
+                }
+            },
+            "participants_camera_on": [],
+            "participants_camera_off": [],
+            "participants_screenshare_on": [],
+            "participants_screenshare_off": [],
+            "canvas_thread_ts": "0000000000.000000",
+            "thread_root_ts": "0000000000.000000",
+            "channels": [
+                "C01JBBNSJ0M"
+            ],
+            "is_dm_call": false,
+            "was_rejected": false,
+            "was_missed": false,
+            "was_accepted": false,
+            "has_ended": true,
+            "media_backend_type": "free_willy",
+            "external_unique_id": "842c19ca-c5ae-4819-ad5f-cfc3870ff5e9",
+            "app_id": "A00",
+            "call_family": "native_call"
+        },
+        "no_notifications": false,
+        "permalink": "https:\/\/scoglab.slack.com\/call\/R01N3KY3RME",
+        "team": "T03FC4NDZ",
+        "type": "message",
+        "ts": "1612814739.002100"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1612814997.002900",
+        "client_msg_id": "bbe9c80a-de6c-4c66-a6a7-ee050313ca6c",
+        "text": "On est sur ce doc <https:\/\/docs.google.com\/document\/d\/1FHYuwHvTOSAgZkIBbUgTin3y3rjzuZjdxvXSnhSIvtM\/edit#heading=h.8ei32vfg15qs>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IGD=c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On est sur ce doc "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1FHYuwHvTOSAgZkIBbUgTin3y3rjzuZjdxvXSnhSIvtM\/edit#heading=h.8ei32vfg15qs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1612816079.003700",
+        "client_msg_id": "6da23973-11e2-4feb-9693-0d7368fe2837",
+        "text": "<https:\/\/www.instagram.com\/curieuxlive\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VHSmt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.instagram.com\/curieuxlive\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1612816257.004000",
+        "client_msg_id": "0760fc67-de7a-48a0-8ba9-8dd28f6bc75d",
+        "text": "<https:\/\/www.instagram.com\/p\/CK3pkDuIo-q\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Instagram",
+                "service_url": "https:\/\/www.instagram.com\/",
+                "author_name": "makesensefr",
+                "thumb_url": "https:\/\/scontent.cdninstagram.com\/v\/t51.2885-15\/e15\/s480x480\/145225846_850672195718428_1614845882766590555_n.jpg?_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_ohc=1F5_sB_rVbwAX-AVPCd&tp=1&oh=9fb33b31d8a9905ebdd79e955d0a030a&oe=604B85CF",
+                "thumb_width": 480,
+                "thumb_height": 480,
+                "fallback": "Instagram Photo: ",
+                "image_url": "https:\/\/scontent.cdninstagram.com\/v\/t51.2885-15\/e15\/s480x480\/145225846_850672195718428_1614845882766590555_n.jpg?_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_ohc=1F5_sB_rVbwAX-AVPCd&tp=1&oh=9fb33b31d8a9905ebdd79e955d0a030a&oe=604B85CF",
+                "image_width": 480,
+                "image_height": 480,
+                "from_url": "https:\/\/www.instagram.com\/p\/CK3pkDuIo-q\/",
+                "image_bytes": 10571,
+                "id": 1,
+                "original_url": "https:\/\/www.instagram.com\/p\/CK3pkDuIo-q\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1srM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.instagram.com\/p\/CK3pkDuIo-q\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1612818035.004700",
+        "client_msg_id": "6e6c88bf-3a69-4105-a822-720f495c43ee",
+        "text": "l'inspiration avec des extraits d'interview <https:\/\/www.instagram.com\/oasis_de_vie\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Et2I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "l'inspiration avec des extraits d'interview "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.instagram.com\/oasis_de_vie\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,144 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1579738180.002200",
+        "client_msg_id": "79227516-a2b6-48af-bf9a-9dd9d8b844dc",
+        "text": ":date: <!channel> RDV mercredi prochain (29 janvier) à 18h45 au Centre de Recherche Interdisciplinaire pour notre premier événement de l’année :ok_hand::rocket:\n\nN’hésiter pas à partager\n\n• <https:\/\/www.eventbrite.fr\/e\/billets-neurotechx-paris-buzz-in-review-2020-86976576281>\n• <https:\/\/www.facebook.com\/events\/814783648980569\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Eventbrite",
+                "title": "NeuroTechX Paris Buzz in Review 2020",
+                "title_link": "https:\/\/www.eventbrite.fr\/e\/billets-neurotechx-paris-buzz-in-review-2020-86976576281",
+                "text": "Joignez-vous à l'équipe NeuroTechX Paris pour une soirée où nous passerons en revue ce qui s'est passé dans le domaine des neurotech en 2019",
+                "fallback": "Eventbrite: NeuroTechX Paris Buzz in Review 2020",
+                "image_url": "https:\/\/img.evbuc.com\/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F88934525%2F43057386560%2F1%2Foriginal.20200122-234558?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C8%2C1200%2C600&s=a7139e801fdbb33b501bca324731d2fb",
+                "fields": [
+                    {
+                        "title": "Where",
+                        "value": "8 bis Rue Charles V, 75004 Paris, France",
+                        "short": true
+                    },
+                    {
+                        "title": "When",
+                        "value": "Le mer  29 janv. 2020 à 18:30",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.eventbrite.fr\/e\/billets-neurotechx-paris-buzz-in-review-2020-86976576281",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 107052,
+                "service_icon": "https:\/\/cdn.evbstatic.com\/s3-build\/perm_001\/eba891\/django\/images\/touch_icons\/apple-touch-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.eventbrite.fr\/e\/billets-neurotechx-paris-buzz-in-review-2020-86976576281"
+            },
+            {
+                "title": "NeuroTechX Paris Buzz In Review 2020",
+                "title_link": "https:\/\/www.facebook.com\/events\/814783648980569\/",
+                "text": "Networking event by Coglab, Neurotechx Paris on Wednesday, January 29 2020",
+                "fallback": "NeuroTechX Paris Buzz In Review 2020",
+                "from_url": "https:\/\/www.facebook.com\/events\/814783648980569\/",
+                "thumb_url": "https:\/\/scontent-lga3-1.xx.fbcdn.net\/v\/t1.0-0\/c91.0.200.200a\/p200x200\/82983127_2770719816351585_3064346117861801984_o.jpg?_nc_cat=109&_nc_ohc=i0gzoCg41qEAX--tDHd&_nc_ht=scontent-lga3-1.xx&_nc_tp=1003&oh=5fb09d54a76bff2f43cb24d030f46f22&oe=5ECA7D7D",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/yz\/r\/KFyVIAWzntM.ico",
+                "service_name": "facebook.com",
+                "id": 2,
+                "original_url": "https:\/\/www.facebook.com\/events\/814783648980569\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RHu8m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "date",
+                                "unicode": "1f4c5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " RDV mercredi prochain (29 janvier) à 18h45 au Centre de Recherche Interdisciplinaire pour notre premier événement de l’année "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand",
+                                "unicode": "1f44c"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rocket",
+                                "unicode": "1f680"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nN’hésiter pas à partager\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.eventbrite.fr\/e\/billets-neurotechx-paris-buzz-in-review-2020-86976576281"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.facebook.com\/events\/814783648980569\/"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "UL4SA8V7Y"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

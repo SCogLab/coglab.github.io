@@ -1,0 +1,25 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: [CogLab] RDV Démonstrateur EEG @IFTM : <!date^1561649400^{date_short_pretty} from {time}|June 27th, 2019 from 5:30 PM> to <!date^1561653000^{time}|6:30 PM GMT+0200>",
+                "text": "<!date^1561649400^{date_short_pretty} from {time}|June 27th, 2019 from 5:30 PM> to <!date^1561653000^{time}|6:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=La+Paillasse%2C+226+Rue+Saint-Denis%2C+75002+Paris%2C+France|La Paillasse, 226 Rue Saint-Denis, 75002 Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "[CogLab] RDV Démonstrateur EEG @IFTM ",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MjIycGtwaGFpY3Yyc2FyZHM1Y2hpazRxMWIgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1561117447.000200",
+        "bot_id": "B4SJBP2L8"
+    }
+]

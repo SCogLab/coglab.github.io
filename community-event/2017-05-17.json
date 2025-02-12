@@ -1,0 +1,106 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "CA CogLab N°0: <!date^1495042200^{date_short_pretty} from {time}|May 17, 2017 from 7:30 PM> to <!date^1495049400^{time}|9:30 PM GMT+0200>",
+                "text": "<!date^1495042200^{date_short_pretty} from {time}|May 17, 2017 from 7:30 PM> to <!date^1495049400^{time}|9:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Skype+https%3A%2F%2Fjoin.skype.com%2FpnJEYZpTwNyZ|Skype https:\/\/join.skype.com\/pnJEYZpTwNyZ>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CA CogLab N°0",
+                "more": "Suite au framadate, on se retrouve donc ce mercredi 17 mai à 19h30 pour une première réunion du C.A. !\n\nL'objectif de cette réunion est de finaliser tous les aspects administratifs et logistiques pour la création de l'association et définir notre mode d'organisation (outils collaboratifs).\n\nLes détails et le compte-rendu sont ici : Conseil d'Administration N°0\n<https:\/\/coglab.hackpad.com\/Conseil-dadministration-N0-xNsOEhtEY7K>\n\nPar défaut, je vous propose de se retrouver sur Skype.\nFaites moi signe si certains veulent qu'on se retrouve à Paris ou chez af83 (si on es pas nombreux).\n\nRessources :\n- ODJ &amp; CR <https:\/\/coglab.hackpad.com\/Conseil-dadministration-N0-xNsOEhtEY7K>\n- Framadate <https:\/\/framadate.org\/coglab-ag0>\n- Skype <https:\/\/join.skype.com\/pnJEYZpTwNyZ>",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=a25nOG4yczBnaHN1N2dybnRtbDJpamNxdm8gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1495038600.879695",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1495040407.694294",
+        "text": "Un meetup repéré sur de la vulgarisation des neurosciences\n<https:\/\/www.meetup.com\/fr-FR\/Cafe-Sciences\/events\/239597571\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Café Sciences",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/Cafe-Sciences\/events\/239597571\/",
+                "text": "Le bon fonctionnement du système nerveux du point de vue énergétique, immunitaire, et la réalisation des fonctions de communication des neurones sont possibles grâce aux cellules gliales. Pourtant ell",
+                "fallback": "Meetup: Café Sciences",
+                "thumb_url": "https:\/\/secure.meetupstatic.com\/s\/img\/286374644891845767035\/logo\/meetup-logo-script-1200x630.png",
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/Cafe-Sciences\/events\/239597571\/",
+                "thumb_width": 2400,
+                "thumb_height": 1260,
+                "service_icon": "https:\/\/secure.meetupstatic.com\/s\/img\/144395054627769971357\/logo\/swarm\/m_swarm_120x120.png",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g93B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un meetup repéré sur de la vulgarisation des neurosciences\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/Cafe-Sciences\/events\/239597571\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: [CogLab] Réunion Bureau: <!date^1496943000^{date_short_pretty} from {time}|Jun 8, 2017 from 7:30 PM> to <!date^1496948400^{time}|9:00 PM GMT+0200>",
+                "text": "<!date^1496943000^{date_short_pretty} from {time}|Jun 8, 2017 from 7:30 PM> to <!date^1496948400^{time}|9:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Skype|Skype>",
+                "pretext": "New calendar event created",
+                "title": "[CogLab] Réunion Bureau",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=aDNoMzZzYjFkaWh1dTdvbWtna2Uzb2Vtc2sgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1495051052.472619",
+        "bot_id": "B4SJBP2L8"
+    }
+]

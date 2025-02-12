@@ -1,0 +1,130 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1583407549.000800",
+        "client_msg_id": "2360d2f5-6ac7-4fc1-94f3-6416e83a1abb",
+        "text": "*VGZ Biometric VR* – Studio 05 (Pays-Bas)\n\nVGZ Biometric VR est une campagne immersive qui incite les employés de l’assurance maladie collective de VGZ à adopter la pleine conscience. C’est une expérience VR interactive. *Les utilisateurs peuvent contrôler leurs alentours virtuels avec leur activité cérébrale* à travers le bandeau de détection Muse. Il est combiné avec un casque de réalité virtuelle Oculus GO.\n\nVideo <https:\/\/www.youtube.com\/watch?v=ys6-ZwDr4mo>\n\nSource <https:\/\/blog.laval-virtual.com\/des-experiences-de-cross-technologie-a-laval-virtual-2020\/>\n\nPoke <#CQPLK1RRD|projet-neuromeditation> <@U59MQ46DA> <@ULSDVUUVA>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "ReVolution #Experiences 2020 - VGZ BIOMETRIC VR by Studio 05",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=ys6-ZwDr4mo",
+                "author_name": "Laval Virtual",
+                "author_link": "https:\/\/www.youtube.com\/user\/lavalvirtual",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/ys6-ZwDr4mo\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: ReVolution #Experiences 2020 - VGZ BIOMETRIC VR by Studio 05",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/ys6-ZwDr4mo?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=ys6-ZwDr4mo",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=ys6-ZwDr4mo"
+            },
+            {
+                "service_name": "Laval Virtual",
+                "title": "Des expériences de cross-technologie à Laval Virtual 2020",
+                "title_link": "https:\/\/blog.laval-virtual.com\/des-experiences-de-cross-technologie-a-laval-virtual-2020\/",
+                "text": "Chaque année, Laval Virtual met en valeur des studios de production ayant créé un contenu cross-technologie lors des compétitions ReVolution. La catégorie",
+                "fallback": "Laval Virtual: Des expériences de cross-technologie à Laval Virtual 2020",
+                "thumb_url": "https:\/\/blog.laval-virtual.com\/wp-content\/uploads\/2020\/03\/laval-virtual-2020-competition-revolution-experiences-cross-technologique-awards-nomines.jpg",
+                "ts": 1583327678,
+                "from_url": "https:\/\/blog.laval-virtual.com\/des-experiences-de-cross-technologie-a-laval-virtual-2020\/",
+                "thumb_width": 1000,
+                "thumb_height": 667,
+                "service_icon": "https:\/\/blog.laval-virtual.com\/wp-content\/uploads\/2019\/05\/Fav_Blog-02-1.png",
+                "id": 2,
+                "original_url": "https:\/\/blog.laval-virtual.com\/des-experiences-de-cross-technologie-a-laval-virtual-2020\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bs\/yl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "VGZ Biometric VR",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " – Studio 05 (Pays-Bas)\n\nVGZ Biometric VR est une campagne immersive qui incite les employés de l’assurance maladie collective de VGZ à adopter la pleine conscience. C’est une expérience VR interactive. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Les utilisateurs peuvent contrôler leurs alentours virtuels avec leur activité cérébrale",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " à travers le bandeau de détection Muse. Il est combiné avec un casque de réalité virtuelle Oculus GO.\n\nVideo "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=ys6-ZwDr4mo"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nSource "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/blog.laval-virtual.com\/des-experiences-de-cross-technologie-a-laval-virtual-2020\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nPoke "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CQPLK1RRD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "ULSDVUUVA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

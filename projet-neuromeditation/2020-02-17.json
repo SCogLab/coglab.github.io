@@ -1,0 +1,113 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U6EPG5PTQ",
+        "text": "<@U6EPG5PTQ> a rejoint le canal",
+        "type": "message",
+        "ts": "1581970747.000200"
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1581972955.001800",
+        "client_msg_id": "EA663F6C-733B-498A-8007-CDE6E9A259CC",
+        "text": "Article critique sur la méditation pleine conscience par Jack Dorsey (CEO de Twitter) : <https:\/\/www.courrierinternational.com\/article\/opinion-la-meditation-de-pleine-conscience-toute-les-sauces-ca-suffit|https:\/\/www.courrierinternational.com\/article\/opinion-la-meditation-de-pleine-conscience-toute-les-sauces-ca-suffit>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Courrier international",
+                "title": "Opinion. La méditation de pleine conscience à toute les sauces, ça suffit !",
+                "title_link": "https:\/\/www.courrierinternational.com\/article\/opinion-la-meditation-de-pleine-conscience-toute-les-sauces-ca-suffit",
+                "text": "La méditation de pleine conscience s’est imposée comme outil de management dans les entreprises. L’armée américaine l’utilise aussi pour former les tireurs d’élite. Une pratique délétère dénonce cet auteur car elle favorise le repli sur soi et non l’action collective.",
+                "fallback": "Courrier international: Opinion. La méditation de pleine conscience à toute les sauces, ça suffit !",
+                "image_url": "https:\/\/www.courrierinternational.com\/sites\/ci_master\/files\/styles\/image_940\/public\/illustrations\/thumbnails\/rtx6vyz9.jpg?itok=rH0nI88_",
+                "ts": 1581774268,
+                "from_url": "https:\/\/www.courrierinternational.com\/article\/opinion-la-meditation-de-pleine-conscience-toute-les-sauces-ca-suffit",
+                "image_width": 374,
+                "image_height": 250,
+                "image_bytes": 107268,
+                "service_icon": "https:\/\/www.courrierinternational.com\/sites\/ci_master\/themes\/ci\/images\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.courrierinternational.com\/article\/opinion-la-meditation-de-pleine-conscience-toute-les-sauces-ca-suffit"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "doF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Article critique sur la méditation pleine conscience par Jack Dorsey (CEO de Twitter) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.courrierinternational.com\/article\/opinion-la-meditation-de-pleine-conscience-toute-les-sauces-ca-suffit",
+                                "text": "https:\/\/www.courrierinternational.com\/article\/opinion-la-meditation-de-pleine-conscience-toute-les-sauces-ca-suffit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1581972980.002300",
+        "client_msg_id": "A318C622-F402-4FE6-B270-AC4444C0EAA9",
+        "text": "En VO : <https:\/\/mekongreview.com\/unthink\/|https:\/\/mekongreview.com\/unthink\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=d10",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En VO : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mekongreview.com\/unthink\/",
+                                "text": "https:\/\/mekongreview.com\/unthink\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U017ZV5CSB0",
+        "text": "<@U017ZV5CSB0> a rejoint le canal",
+        "type": "message",
+        "ts": "1596475379.061800"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1596479825.062300",
+        "client_msg_id": "98ea0c03-a31d-46bd-9cab-a03fe96d4365",
+        "text": "Nous tenons un Journal des HackNight avec <@U59MQ46DA> à cette adresse <https:\/\/docs.google.com\/document\/d\/16tyW7HrX8MdOavIi-KfushMocZoWZvLOPEm-YnY-gE0\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SdZG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nous tenons un Journal des HackNight avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " à cette adresse "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/16tyW7HrX8MdOavIi-KfushMocZoWZvLOPEm-YnY-gE0\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1596479956.063900",
+        "client_msg_id": "c60b2075-3132-4f74-9c92-25cc08c92df6",
+        "text": "Voici la vidéo “*brute”* de la soirée de la semaine dernière avec la présentation de *<@U017L7FBHDE>* CEO de la sleeptech française Moona <https:\/\/www.youtube.com\/watch?v=0ad5QBxIKkY>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "NeuroTechX Paris Hacknight #157 - Pitch \"HackSleep\" by Coline Juin",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=0ad5QBxIKkY",
+                "author_name": "CogLab, NeuroTechX Paris",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCTI1YXKU35bdUhnLJuxk9pw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/0ad5QBxIKkY\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: NeuroTechX Paris Hacknight #157 - Pitch \"HackSleep\" by Coline Juin",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/0ad5QBxIKkY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=0ad5QBxIKkY",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=0ad5QBxIKkY"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8WE2j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Voici la vidéo “"
+                            },
+                            {
+                                "type": "text",
+                                "text": "brute” ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "de la soirée de la semaine dernière avec la présentation de"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017L7FBHDE",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " CEO de la sleeptech française Moona"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=0ad5QBxIKkY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U017L7FBHDE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

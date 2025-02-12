@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1548072050.000400",
+        "client_msg_id": "afbfd3a4-20ab-4fb9-8b4b-b646083bbb36",
+        "text": "Agents IA pour Unity : <https:\/\/unity3d.ai\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Unity",
+                "title": "Machine Learning - Unity",
+                "title_link": "https:\/\/unity3d.ai\/",
+                "text": "Unity is the ultimate game development platform. Use Unity to build high-quality 3D and 2D games, deploy them across mobile, desktop, VR\/AR, consoles or the Web, and connect with loyal and enthusiastic players and customers.",
+                "fallback": "Unity: Machine Learning - Unity",
+                "image_url": "https:\/\/unity3d.com\/files\/images\/ogimg.jpg?1",
+                "from_url": "https:\/\/unity3d.ai\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 88446,
+                "service_icon": "https:\/\/unity3d.com\/profiles\/unity3d\/themes\/unity\/images\/ui\/favicons\/apple-touch-icon-152x152.png",
+                "id": 1,
+                "original_url": "https:\/\/unity3d.ai\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3wsL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agents IA pour Unity : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/unity3d.ai\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

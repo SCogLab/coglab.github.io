@@ -1,0 +1,77 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1584379618.001400",
+        "client_msg_id": "0e849d58-6ab8-463c-8d98-dee4ca3415af",
+        "text": "Pour rappel, les réunions se font en ligne uniquement pendant la période #Covid19. Safety first.\n\nNotre Skype HackNight <https:\/\/join.skype.com\/be7Ty93o77rj>\n\nPrenez-soin de vous et n’hésitez pas à faire un coucou <!here> ou donner des nouvelles :pray:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Skype",
+                "title_link": "https:\/\/join.skype.com\/be7Ty93o77rj",
+                "fallback": "Skype",
+                "image_url": "https:\/\/join.secure.skypeassets.com\/static\/14.213\/images\/icons\/opengraph_image.png",
+                "image_width": 250,
+                "image_height": 250,
+                "from_url": "https:\/\/join.skype.com\/be7Ty93o77rj",
+                "image_bytes": 28276,
+                "service_icon": "https:\/\/join.secure.skypeassets.com\/static\/14.213\/images\/icons\/apple-touch-icon.png",
+                "service_name": "join.skype.com",
+                "id": 1,
+                "original_url": "https:\/\/join.skype.com\/be7Ty93o77rj"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yl2=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour rappel, les réunions se font en ligne uniquement pendant la période #Covid19. Safety first.\n\nNotre Skype HackNight "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/join.skype.com\/be7Ty93o77rj"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nPrenez-soin de vous et n’hésitez pas à faire un coucou "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ou donner des nouvelles "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1578548522.001400",
+        "client_msg_id": "8ac61c26-2dcc-4a81-808f-fc925904fe3f",
+        "text": "Aujourd’hui démarre le BIR 2020 de NTX à Montréal : <http:\/\/ow.ly\/gO1q50xEvyC>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "NeuroTech Buzz in Review 2020",
+                "title_link": "http:\/\/ow.ly\/gO1q50xEvyC",
+                "text": "Thu, Jan 9, 2020, 5:30 PM: Join NTX Montreal and HBHL for a great evening where we will review what happened in Neurotechnology around the world in 2019.--Are you passionate about neurotechnologies? W",
+                "fallback": "Meetup: NeuroTech Buzz in Review 2020",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/2\/1\/c\/c\/600_487508652.jpeg",
+                "fields": [
+                    {
+                        "title": "Where",
+                        "value": "New Residence Hall 3625 Av du Parc Montréal, QC",
+                        "short": true
+                    },
+                    {
+                        "title": "When",
+                        "value": "Thu, Jan 9, 2020, 5:30 PM",
+                        "short": true
+                    }
+                ],
+                "from_url": "http:\/\/ow.ly\/gO1q50xEvyC",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 275719,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/en-US\/m_swarm_120x120.4f86abc9.png",
+                "id": 1,
+                "original_url": "http:\/\/ow.ly\/gO1q50xEvyC"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zdrI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Aujourd’hui démarre le BIR 2020 de NTX à Montréal : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/ow.ly\/gO1q50xEvyC"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U2J1A2248",
+        "text": "<@U2J1A2248> a rejoint le canal",
+        "type": "message",
+        "ts": "1475245774.000002"
+    },
+    {
+        "user": "U2J1A2248",
+        "type": "message",
+        "ts": "1475246335.000003",
+        "text": "Bonjour tout le monde, J'aimerai proposer un projet comment procéder?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g62890b13a4d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a62890b13a4de83689baa26be7f94eb6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Edouard",
+            "real_name": "Edouard Beau",
+            "display_name": "fillthisusername",
+            "team": "T03FC4NDZ",
+            "name": "fillthisusername",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D3mym",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour tout le monde, J'aimerai proposer un projet comment procéder?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1475262824.000002",
+        "text": "Je t’invite à décrire ton projet directement ici en quelques lignes, et\/ou n’hésite pas à partager ou créer un document sur notre Hackpad <https:\/\/coglab.hackpad.com\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J4e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je t’invite à décrire ton projet directement ici en quelques lignes, et\/ou n’hésite pas à partager ou créer un document sur notre Hackpad "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.hackpad.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

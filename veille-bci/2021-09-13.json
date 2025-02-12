@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1631553981.001300",
+        "client_msg_id": "39dc242f-54a0-44e0-97bf-fabe7ca8821b",
+        "text": "<https:\/\/www.bitbrain.com\/blog\/the-cyberbrain-project>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Bitbrain",
+                "title": "The CyberBrain Project - Cybersecurity in Brain-Computer Interfaces",
+                "title_link": "https:\/\/www.bitbrain.com\/blog\/the-cyberbrain-project",
+                "text": "The CyberBrain Project was one of the 6 winning proposals of the 2020 Call for Research Projects organized by Bitbrain. This project aims to identify and exploit BCI cybersecurity issues within an advanced driver assistance scenario, defining three use cases where Bitbrain devices can be applied to this environment. Moreover, CyberBrain will design and implement a framework to detect cyberattacks affecting the BCI lifecycle of Bitbrain products.",
+                "fallback": "Bitbrain: The CyberBrain Project - Cybersecurity in Brain-Computer Interfaces",
+                "thumb_url": "https:\/\/www.bitbrain.com\/sites\/default\/files\/the_cyberbrain_project.jpg",
+                "ts": 1622209746,
+                "from_url": "https:\/\/www.bitbrain.com\/blog\/the-cyberbrain-project",
+                "thumb_width": 1500,
+                "thumb_height": 1500,
+                "service_icon": "https:\/\/www.bitbrain.com\/sites\/default\/files\/favicon_0.png",
+                "id": 1,
+                "original_url": "https:\/\/www.bitbrain.com\/blog\/the-cyberbrain-project"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mcsZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.bitbrain.com\/blog\/the-cyberbrain-project"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

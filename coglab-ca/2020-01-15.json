@@ -1,0 +1,52 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card NeuroTechX Berlin added to list To Do NeuroTechX on board Gestion CogLab (administrateur).",
+                "text": "In list *To Do NeuroTechX* on *<https:\/\/trello.com\/b\/jSnI3dXM|Gestion CogLab (administrateur)>*.",
+                "pretext": "New card created",
+                "title": "NeuroTechX Berlin",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/QS5eWFL6",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1579086007.000100",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card NeuroTechX Vienne added to list To Do NeuroTechX on board Gestion CogLab (administrateur).",
+                "text": "In list *To Do NeuroTechX* on *<https:\/\/trello.com\/b\/jSnI3dXM|Gestion CogLab (administrateur)>*.",
+                "pretext": "New card created",
+                "title": "NeuroTechX Vienne",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/eEk9H7uK",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1579086016.000200",
+        "bot_id": "B66HQV43C"
+    }
+]

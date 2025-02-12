@@ -1,0 +1,48 @@
+[
+    {
+        "user": "U02GLDKAWQ2",
+        "type": "message",
+        "ts": "1649333340.951359",
+        "client_msg_id": "ba2d28d4-1e6d-418b-aa78-10fe4ae5cb84",
+        "text": "J'ai vu avec <@U02GLDK69UJ>, est ce que 15h te convient ? Et sinon, pour le format du questionnaire comment ça se passe ? Format papier-crayon ou sur tablette (type google form) ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "07907cc25c46",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-05\/2590402880352_07907cc25c46364153a5_72.jpg",
+            "first_name": "Adrien",
+            "real_name": "Adrien Paire",
+            "display_name": "Adrien Paire",
+            "team": "T03FC4NDZ",
+            "name": "adrienpaire",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X2e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai vu avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02GLDK69UJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", est ce que 15h te convient ? Et sinon, pour le format du questionnaire comment ça se passe ? Format papier-crayon ou sur tablette (type google form) ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

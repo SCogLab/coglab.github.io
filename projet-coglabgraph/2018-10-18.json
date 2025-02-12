@@ -1,0 +1,224 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U03FC5ZAK",
+        "text": "<@U03FC5ZAK> a rejoint le canal",
+        "type": "message",
+        "ts": "1539851734.000200"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC5ZAK",
+        "purpose": "From idea and curation to Knowledge Graph CogLab",
+        "text": "a défini la description du canal : From idea and curation to Knowledge Graph CogLab",
+        "type": "message",
+        "ts": "1539851734.000300"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U59MQ46DA",
+        "text": "<@U59MQ46DA> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1539851734.000500"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1539851786.000100",
+        "client_msg_id": "9e6b9e78-cf74-47b3-a7a4-39273d165450",
+        "text": "<@U59MQ46DA> je te propose de poursuivre nos échanges sur AirTable et la documentation d’une base de données ici :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x0IRW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je te propose de poursuivre nos échanges sur AirTable et la documentation d’une base de données ici "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1539860379.000100",
+        "client_msg_id": "b8b0ee9c-4fe9-4513-9e22-d711fa0b2265",
+        "text": "ok ça marche",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "khn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok ça marche"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1539864020.000100",
+        "client_msg_id": "382472a9-9b40-493b-8350-a3b6f1c0ff82",
+        "text": "Bon, je pense que je vais faire un mix structurel entre l’onglet Sujet et Géographie de la base Videos - Catalog (Continent -&gt; MetaSujet, Pays-&gt;Sujet, Tag -&gt;Sous-Sujet)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZvG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bon, je pense que je vais faire un mix structurel entre l’onglet Sujet et Géographie de la base Videos - Catalog (Continent -> MetaSujet, Pays->Sujet, Tag ->Sous-Sujet)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1539865499.000100",
+        "client_msg_id": "0d85a05c-2640-40b1-b077-5b3b0526da7b",
+        "text": "Je pense qu’il serait intéressant de travailler sur la même base pour utiliser les mêmes Tags et points géographiques, avec un onglet Litérature et un Video, voir d’autres ensuite si besoin",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9HtR5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je pense qu’il serait intéressant de travailler sur la même base pour utiliser les mêmes Tags et points géographiques, avec un onglet Litérature et un Video, voir d’autres ensuite si besoin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1539866306.000100",
+        "client_msg_id": "63d463c2-86fb-4fb8-b170-6c8a15a70f44",
+        "text": "Je préfère faire 2 bases séparées (pour éviter la surcharge d’informations visuelles et la confusion entre les types de produits) et importer a posteriori (comme tu l’as fait pour Vidéos - Géographie) les fields\/onglets communs.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dOjne",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je préfère faire 2 bases séparées (pour éviter la surcharge d’informations visuelles et la confusion entre les types de produits) et importer a posteriori (comme tu l’as fait pour Vidéos - Géographie) les fields\/onglets communs."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

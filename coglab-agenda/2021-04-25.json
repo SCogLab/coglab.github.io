@@ -1,0 +1,64 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There are *2* events this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #191 [Online EN]: <!date^1619454600^{date_short_pretty} from {time}|April 26th, 2021 from 6:30 PM> to <!date^1619458200^{time}|7:30 PM GMT+0200>",
+                "text": "<!date^1619454600^{date_short_pretty} from {time}|April 26th, 2021 from 6:30 PM> to <!date^1619458200^{time}|7:30 PM GMT+0200> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "title": "CogLab HackNight #191 [Online EN]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MjRuNXJtb2hjaGVocGtncGhuZWxtYTUyOGkgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "CogLab HackNight #191 [Online FR]: <!date^1619463600^{date_short_pretty} from {time}|April 26th, 2021 from 9:00 PM> to <!date^1619469000^{time}|10:30 PM GMT+0200>",
+                "text": "<!date^1619463600^{date_short_pretty} from {time}|April 26th, 2021 from 9:00 PM> to <!date^1619469000^{time}|10:30 PM GMT+0200> at <https:\/\/gather.town\/i\/PYn7w8L3>",
+                "title": "CogLab HackNight #191 [Online FR]",
+                "id": 2,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NGdqdGthOGVtZWk1MWJ2Z21zOGM3YWRoYmUgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1619416805.004700",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ETh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "2",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " events this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

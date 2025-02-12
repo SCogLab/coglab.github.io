@@ -1,0 +1,192 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "New attachment added to card <https:\/\/trello.com\/c\/g5MmViDI|Appel à participation>",
+                "text": "<https:\/\/coglab.hackpad.com\/Appel-projet-chappe-Vole-Get3a0RnQdD|Download file>",
+                "pretext": "New attachment added to card <https:\/\/trello.com\/c\/g5MmViDI|Appel à participation>",
+                "title": "<https:\/\/coglab.hackpad.com\/Appel-projet-chappe-Vole-Get3a0RnQdD>",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "ts": "1426520147.000002",
+        "bot_id": "B03UHP1LD"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "@romain166 je te propose de faire l'exercice de compléter le formulaire pour avoir ton point de vue sur les objectifs du CogLab sans être influencé par le dossier que j'ai déjà commencé.\nPuis ont mixera nos points de vue pour enrichir le tout :)\nEst-ce que cela te va ?",
+                "text": "@romain166 je te propose de faire l'exercice de compléter le formulaire pour avoir ton point de vue sur les objectifs du CogLab sans être influencé par le dossier que j'ai déjà commencé.\nPuis ont mixera nos points de vue pour enrichir le tout :)\nEst-ce que cela te va ?",
+                "pretext": "New comment on card \"<https:\/\/trello.com\/c\/g5MmViDI|Appel à participation>\" by Rouffi",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "ts": "1426520362.000003",
+        "bot_id": "B03UHP1LD"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Yep! Ca marche.\nJ'ai pas trop le temps en se moment, mais je le fais d'ici ce weekend.\nTu peux deja remplir la partie sur l'équipe...",
+                "text": "Yep! Ca marche.\nJ'ai pas trop le temps en se moment, mais je le fais d'ici ce weekend.\nTu peux deja remplir la partie sur l'équipe...",
+                "pretext": "New comment on card \"<https:\/\/trello.com\/c\/g5MmViDI|Appel à participation>\" by RomainTrach",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "ts": "1426521217.000004",
+        "bot_id": "B03UHP1LD"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "@romain166 Bien reçu, pas de soucis. A jeudi !",
+                "text": "@romain166 Bien reçu, pas de soucis. A jeudi !",
+                "pretext": "New comment on card \"<https:\/\/trello.com\/c\/g5MmViDI|Appel à participation>\" by Rouffi",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "ts": "1426521763.000005",
+        "bot_id": "B03UHP1LD"
+    },
+    {
+        "user": "U03HY4P8V",
+        "type": "message",
+        "ts": "1426522308.000006",
+        "text": "<@U03FC5ZAK>: cool le lien entre slack et trello au passage!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g188c1f43049",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3188c1f43049ebd001b834c2efa1fdf8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Romain",
+            "real_name": "Romain TRACHEL",
+            "display_name": "romaintrach",
+            "team": "T03FC4NDZ",
+            "name": "romaintrach",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OcCU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": cool le lien entre slack et trello au passage!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1426524177.000007",
+        "text": "Hep, je commence à m'éclater avec Slack, l'idée est vraiment d'avoir un Hub pour centraliser tout les outils :smirk:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g8UBD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hep, je commence à m'éclater avec Slack, l'idée est vraiment d'avoir un Hub pour centraliser tout les outils "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smirk",
+                                "unicode": "1f60f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1426537032.000002",
+        "text": "Je vois que ton côté geek est satisfait :wink:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y\/gQt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je vois que ton côté geek est satisfait "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

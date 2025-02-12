@@ -1,0 +1,467 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1546175266.000200",
+        "client_msg_id": "de8dada7-c361-42bc-adc5-3e0fee6518bb",
+        "text": "Vous avez déjà des contacts en plus, non ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546150951.000600",
+        "parent_user_id": "U03FEH3N8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2zSn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vous avez déjà des contacts en plus, non ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1546175380.000600",
+        "client_msg_id": "f929a389-d60a-4173-b893-d231c1d175de",
+        "text": "Une belle initiative canadienne\n<http:\/\/conp.ca\/fr\/platform-du-canadian-neuroscience-ouvert\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D2vM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Une belle initiative canadienne\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/conp.ca\/fr\/platform-du-canadian-neuroscience-ouvert\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1546175744.000800",
+        "client_msg_id": "0017acf5-bf25-40c4-869e-69381f287c5c",
+        "text": "Lecture complémentaire\n\n“For over five years now, EFF and our allies in the open access world have been campaigning for the Fair Access to Science and Technology Research Act (FASTR, S. 1701, H.R. 3427). Despite broad support from both parties and barely any opposition from anyone besides major publishers, Congress continues to snooze on FASTR year after year.”\n\n<https:\/\/www.eff.org\/deeplinks\/2018\/12\/europe-speeds-ahead-open-access-2018-review>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Electronic Frontier Foundation",
+                "title": "Europe Speeds Ahead on Open Access: 2018 in Review",
+                "title_link": "https:\/\/www.eff.org\/deeplinks\/2018\/12\/europe-speeds-ahead-open-access-2018-review",
+                "text": "Open access is the common-sense idea that scientific research (especially scientific research funded by the government or philanthropic foundations) should be available to the public—ideally with no legal or technical barriers to access and reuse. EFF is a longtime supporter of the open access...",
+                "fallback": "Electronic Frontier Foundation: Europe Speeds Ahead on Open Access: 2018 in Review",
+                "image_url": "https:\/\/www.eff.org\/files\/banner_library\/year-in-review-2018.png",
+                "image_width": 500,
+                "image_height": 250,
+                "ts": 1545846269,
+                "from_url": "https:\/\/www.eff.org\/deeplinks\/2018\/12\/europe-speeds-ahead-open-access-2018-review",
+                "image_bytes": 71128,
+                "service_icon": "https:\/\/www.eff.org\/sites\/all\/themes\/phoenix\/apple-touch-icon-precomposed.png",
+                "id": 1,
+                "original_url": "https:\/\/www.eff.org\/deeplinks\/2018\/12\/europe-speeds-ahead-open-access-2018-review"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OF0Et",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lecture complémentaire\n\n“For over five years now, EFF and our allies in the open access world have been campaigning for the Fair Access to Science and Technology Research Act (FASTR, S. 1701, H.R. 3427). Despite broad support from both parties and barely any opposition from anyone besides major publishers, Congress continues to snooze on FASTR year after year.”\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.eff.org\/deeplinks\/2018\/12\/europe-speeds-ahead-open-access-2018-review"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card SciCog Knowledge Graphe added to list PROJETS on board ACTIVITÉS.",
+                "text": "In list *PROJETS* on *<https:\/\/trello.com\/b\/NFHS3ZPa|ACTIVITÉS>*.",
+                "pretext": "New card created",
+                "title": "SciCog Knowledge Graphe",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/70Hk0TW9",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/862fb75f8484e0f5c02f7d7006c4b228\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1546180900.001000",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "Romain ROUYER commented on SciCog Knowledge Graphe: \"Constitution de la fiche projet en cours sur le document \n<https:\/\/docs.google.com\/document\/d\/19KYDfDytjFrFOYawOlkZqgEQIUAIGA7J0VftpwlnmEM\/edit#>\"",
+                "text": "Constitution de la fiche projet en cours sur le document \n<https:\/\/docs.google.com\/document\/d\/19KYDfDytjFrFOYawOlkZqgEQIUAIGA7J0VftpwlnmEM\/edit#>",
+                "pretext": "New comment on *<https:\/\/trello.com\/c\/70Hk0TW9|SciCog Knowledge Graphe>*",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/862fb75f8484e0f5c02f7d7006c4b228\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1546180945.001100",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "Romain ROUYER attached <https:\/\/docs.google.com\/document\/d\/19KYDfDytjFrFOYawOlkZqgEQIUAIGA7J0VftpwlnmEM\/edit#> to card SciCog Knowledge Graphe.",
+                "text": "Attached *<https:\/\/docs.google.com\/document\/d\/19KYDfDytjFrFOYawOlkZqgEQIUAIGA7J0VftpwlnmEM\/edit#|https:\/\/docs.google.com\/document\/d\/19KYDfDytjFrFOYawOlkZqgEQIUAIGA7J0VftpwlnmEM\/edit#>* to *<https:\/\/trello.com\/c\/70Hk0TW9|SciCog Knowledge Graphe>*.",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/862fb75f8484e0f5c02f7d7006c4b228\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1546180948.001200",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card Design Fiction added to list PROJETS on board ACTIVITÉS.",
+                "text": "In list *PROJETS* on *<https:\/\/trello.com\/b\/NFHS3ZPa|ACTIVITÉS>*.",
+                "pretext": "New card created",
+                "title": "Design Fiction",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/GCyJqNbW",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/862fb75f8484e0f5c02f7d7006c4b228\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1546180994.001300",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "Romain ROUYER commented on Design Fiction: \"Constitution de la fiche projet en cours sur le document <https:\/\/docs.google.com\/document\/d\/14CP3R4M90IUB6F0e0hUzeSfzRQcLD7VPg1RzKcRTHMc\/edit#>\"",
+                "text": "Constitution de la fiche projet en cours sur le document <https:\/\/docs.google.com\/document\/d\/14CP3R4M90IUB6F0e0hUzeSfzRQcLD7VPg1RzKcRTHMc\/edit#>",
+                "pretext": "New comment on *<https:\/\/trello.com\/c\/GCyJqNbW|Design Fiction>*",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/862fb75f8484e0f5c02f7d7006c4b228\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1546181032.001400",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "Romain ROUYER attached <https:\/\/docs.google.com\/document\/d\/14CP3R4M90IUB6F0e0hUzeSfzRQcLD7VPg1RzKcRTHMc\/edit#> to card Design Fiction.",
+                "text": "Attached *<https:\/\/docs.google.com\/document\/d\/14CP3R4M90IUB6F0e0hUzeSfzRQcLD7VPg1RzKcRTHMc\/edit#|https:\/\/docs.google.com\/document\/d\/14CP3R4M90IUB6F0e0hUzeSfzRQcLD7VPg1RzKcRTHMc\/edit#>* to *<https:\/\/trello.com\/c\/GCyJqNbW|Design Fiction>*.",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/862fb75f8484e0f5c02f7d7006c4b228\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1546181035.001500",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card HackNight N°100 ! added to list TIMELINE on board ACTIVITÉS.",
+                "text": "In list *TIMELINE* on *<https:\/\/trello.com\/b\/NFHS3ZPa|ACTIVITÉS>*.",
+                "pretext": "New card created",
+                "title": "HackNight N°100 !",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/6c3OKlAE",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/862fb75f8484e0f5c02f7d7006c4b228\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1546181213.001600",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card AG CogLab N°2 added to list TIMELINE on board ACTIVITÉS.",
+                "text": "In list *TIMELINE* on *<https:\/\/trello.com\/b\/NFHS3ZPa|ACTIVITÉS>*.",
+                "pretext": "New card created",
+                "title": "AG CogLab N°2",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/1t6d4bRT",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/862fb75f8484e0f5c02f7d7006c4b228\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1546182547.001700",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "Romain ROUYER commented on AG CogLab N°2: \"A planifier en mai 2019\"",
+                "text": "A planifier en mai 2019",
+                "pretext": "New comment on *<https:\/\/trello.com\/c\/1t6d4bRT|AG CogLab N°2>*",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/862fb75f8484e0f5c02f7d7006c4b228\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1546182561.001800",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card CR Table ronde Brain-To-Machine added to list BLOG on board ACTIVITÉS.",
+                "text": "In list *BLOG* on *<https:\/\/trello.com\/b\/NFHS3ZPa|ACTIVITÉS>*.",
+                "pretext": "New card created",
+                "title": "CR Table ronde Brain-To-Machine",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/3ym8mE6v",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/862fb75f8484e0f5c02f7d7006c4b228\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1546187228.001900",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "Romain ROUYER marked WE ARE Fresco complete.",
+                "text": "Marked *<https:\/\/trello.com\/c\/2pE8A603|WE ARE Fresco>* complete.",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/862fb75f8484e0f5c02f7d7006c4b228\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1546187295.002000",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card CR Webinar #4 NeurotechX added to list BLOG on board ACTIVITÉS.",
+                "text": "In list *BLOG* on *<https:\/\/trello.com\/b\/NFHS3ZPa|ACTIVITÉS>*.",
+                "pretext": "New card created",
+                "title": "CR Webinar #4 NeurotechX",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/fQSWF2fH",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/862fb75f8484e0f5c02f7d7006c4b228\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1546187329.002100",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card WEPASCO added to list TIMELINE on board ACTIVITÉS.",
+                "text": "In list *TIMELINE* on *<https:\/\/trello.com\/b\/NFHS3ZPa|ACTIVITÉS>*.",
+                "pretext": "New card created",
+                "title": "WEPASCO",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/iBMjpYxe",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/862fb75f8484e0f5c02f7d7006c4b228\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1546205627.002200",
+        "bot_id": "B66HQV43C"
+    }
+]

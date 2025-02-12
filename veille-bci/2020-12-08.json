@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1607450064.005700",
+        "client_msg_id": "03c67e9b-b2ed-4987-870c-be7bf616688f",
+        "text": "<https:\/\/twitter.com\/nextmindlab\/status\/1336360439136088065?s=19|https:\/\/twitter.com\/nextmindlab\/status\/1336360439136088065?s=19>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/nextmindlab|@nextmindlab>: It's official, the NextMind Dev Kit is now shipping!\nBefore getting yours, discover our new video - <https:\/\/www.youtube.com\/watch?v=RR7tHXV14xk&amp;feature=youtu.be>",
+                "ts": 1607448131,
+                "author_name": "NextMind",
+                "author_link": "https:\/\/twitter.com\/nextmindlab\/status\/1336360439136088065",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1277915369211035648\/JIQzwz85_normal.png",
+                "author_subname": "@nextmindlab",
+                "text": "It's official, the NextMind Dev Kit is now shipping!\nBefore getting yours, discover our new video - <https:\/\/www.youtube.com\/watch?v=RR7tHXV14xk&amp;feature=youtu.be>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/nextmindlab\/status\/1336360439136088065?s=19",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/nextmindlab\/status\/1336360439136088065?s=19",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TsQn8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/nextmindlab\/status\/1336360439136088065?s=19",
+                                "text": "https:\/\/twitter.com\/nextmindlab\/status\/1336360439136088065?s=19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

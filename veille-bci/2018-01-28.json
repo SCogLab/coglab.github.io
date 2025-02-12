@@ -1,0 +1,54 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1517159441.000068",
+        "text": "<https:\/\/neurostars.org\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Neurostars",
+                "title_link": "https:\/\/neurostars.org\/",
+                "text": "a question and answer site for neuroinformatics",
+                "fallback": "Neurostars",
+                "thumb_url": "http:\/\/neurostars.org\/uploads\/default\/original\/1X\/48db4a6583d2f981d413246842765a2ecb6f7675.png",
+                "from_url": "https:\/\/neurostars.org\/",
+                "thumb_width": 278,
+                "thumb_height": 278,
+                "service_icon": "https:\/\/neurostars.org\/uploads\/default\/original\/1X\/48db4a6583d2f981d413246842765a2ecb6f7675.png",
+                "service_name": "neurostars.org",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "So4p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/neurostars.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

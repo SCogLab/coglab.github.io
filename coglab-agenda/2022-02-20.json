@@ -1,0 +1,64 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There are *2* events this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "XR Biosense - Day 1: <!date^1645461900^{date_short_pretty} from {time}|February 21st, 2022 from 5:45 PM> to <!date^1645476300^{time}|9:45 PM GMT+0100>",
+                "text": "<!date^1645461900^{date_short_pretty} from {time}|February 21st, 2022 from 5:45 PM> to <!date^1645476300^{time}|9:45 PM GMT+0100>",
+                "title": "XR Biosense - Day 1",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NnRwZ21rYzByb2hhdmZmamVqc2cwNGVoNjAgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            },
+            {
+                "id": 2,
+                "color": "7bd148",
+                "fallback": "XR Biosense - Day 2: <!date^1645548300^{date_short_pretty} from {time}|February 22nd, 2022 from 5:45 PM> to <!date^1645571700^{time}|12:15 AM GMT+0100>",
+                "text": "<!date^1645548300^{date_short_pretty} from {time}|February 22nd, 2022 from 5:45 PM> to <!date^1645571700^{time}|12:15 AM GMT+0100>",
+                "title": "XR Biosense - Day 2",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NzI4NDU1YmRjYjIyY2s1aW05cDl1NWQ3anUgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1645426802.845559",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LgHHC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "2",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " events this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1446034792.000002",
+        "edited": {
+            "user": "U03FC5ZAK",
+            "ts": "1446034901.000000"
+        },
+        "text": "Une initiative intéressante de l'Inserm pouvant inspirer les travaux de CogniJunior et de <#C07K80611|projet-off-fiches-neuromythes> :simple_smile: cc <@U03FEH3N8> \n<http:\/\/www.inserm.fr\/actualites\/rubriques\/actualites-evenements\/neuroplanete-explorez-la-planete-cerveau>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Neuroplanète : explorez la planète Cerveau",
+                "title_link": "http:\/\/www.inserm.fr\/actualites\/rubriques\/actualites-evenements\/neuroplanete-explorez-la-planete-cerveau",
+                "fallback": "Neuroplanète : explorez la planète Cerveau",
+                "image_url": "http:\/\/www.inserm.fr\/var\/inserm\/storage\/images\/inserm\/accueil\/actualites\/rubriques\/actualites-evenements\/neuroplanete-explorez-la-planete-cerveau\/708006-6-fre-FR\/neuroplanete-explorez-la-planete-cerveau_medium.jpg",
+                "from_url": "http:\/\/www.inserm.fr\/actualites\/rubriques\/actualites-evenements\/neuroplanete-explorez-la-planete-cerveau",
+                "image_width": 250,
+                "image_height": 127,
+                "image_bytes": 10790,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QqVAv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Une initiative intéressante de l'Inserm pouvant inspirer les travaux de CogniJunior et de "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C07K80611"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": " cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.inserm.fr\/actualites\/rubriques\/actualites-evenements\/neuroplanete-explorez-la-planete-cerveau"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1446069961.000002",
+        "text": "I checked the programming, they got big name !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ixw8e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I checked the programming, they got big name !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,289 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1638038961.037300",
+        "text": "Note importante :\n• pas de permanence au CRI lundi prochain, on vous propose une session mercredi\n• j’arriverais avec une version 1 bêta imprimée du protocole et une version de la note d’intention scientifique\n• si vous êtes dispo, on peux essayer de faire un premier test du protocole ou bien faire une dernière review et se fixer une date pour la semaine suivante",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[November 27th, 2021 7:45 PM] rouffi: :warning: Note importante pour la semaine prochaine <!here>\n\nHackNight N°217\n• :calendar: Suite à des contraintes d’agenda et logistique, les horaires et le lieu de la prochaine soirée HackNight ont changé : on se retrouvera *en ligne* ce lundi 29 novembre de 20h30 à 22h30.\n• :christmas_tree: Ça sera également la dernière HackNight ouverte avant l’année prochaine, après une pause de l’équipe !\nHackNight Spéciale projet (réservée aux adhérents)\n• A l’attention de nos membres, on vous propose avec <@U59MQ46DA> une session spéciale projet le mercredi 1er décembre au CRI aux horaires de HackNight habituel. En particulier pour les équipes <#C01FM8US683|projet-sensory-odyssee> &amp; <#CL6EXG9EY|projet-bci-voyager>.\nDétail et inscription sur notre page Meetup habituelle : <https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/>",
+                "ts": "1638038733.027300",
+                "author_id": "U03FC5ZAK",
+                "author_subname": "Romain ROUYER",
+                "channel_team": "T03FC4NDZ",
+                "channel_id": "C0R6W4X2Q",
+                "is_msg_unfurl": true,
+                "text": ":warning: Note importante pour la semaine prochaine <!here>\n\nHackNight N°217\n• :calendar: Suite à des contraintes d’agenda et logistique, les horaires et le lieu de la prochaine soirée HackNight ont changé : on se retrouvera *en ligne* ce lundi 29 novembre de 20h30 à 22h30.\n• :christmas_tree: Ça sera également la dernière HackNight ouverte avant l’année prochaine, après une pause de l’équipe !\nHackNight Spéciale projet (réservée aux adhérents)\n• A l’attention de nos membres, on vous propose avec <@U59MQ46DA> une session spéciale projet le mercredi 1er décembre au CRI aux horaires de HackNight habituel. En particulier pour les équipes <#C01FM8US683|projet-sensory-odyssee> &amp; <#CL6EXG9EY|projet-bci-voyager>.\nDétail et inscription sur notre page Meetup habituelle : <https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/>",
+                "message_blocks": [
+                    {
+                        "team": "T03FC4NDZ",
+                        "channel": "C0R6W4X2Q",
+                        "ts": "1638038733.027300",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "eQ\/",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "warning"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " Note importante pour la semaine prochaine "
+                                                },
+                                                {
+                                                    "type": "broadcast",
+                                                    "range": "here"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n\nHackNight N°217\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "emoji",
+                                                            "name": "calendar"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": " Suite à des contraintes d’agenda et logistique, les horaires et le lieu de la prochaine soirée HackNight ont changé : on se retrouvera "
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "en ligne",
+                                                            "style": {
+                                                                "bold": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": " ce lundi 29 novembre de 20h30 à 22h30."
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "emoji",
+                                                            "name": "christmas_tree"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": " Ça sera également la dernière HackNight ouverte avant l’année prochaine, après une pause de l’équipe !"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "bullet",
+                                            "indent": 0,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "\nHackNight Spéciale projet (réservée aux adhérents)\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "A l’attention de nos membres, on vous propose avec "
+                                                        },
+                                                        {
+                                                            "type": "user",
+                                                            "user_id": "U59MQ46DA"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": " une session spéciale projet le mercredi 1er décembre au CRI aux horaires de HackNight habituel. En particulier pour les équipes "
+                                                        },
+                                                        {
+                                                            "type": "channel",
+                                                            "channel_id": "C01FM8US683"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": " & "
+                                                        },
+                                                        {
+                                                            "type": "channel",
+                                                            "channel_id": "CL6EXG9EY"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "."
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "bullet",
+                                            "indent": 0,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "\nDétail et inscription sur notre page Meetup habituelle : "
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "author_name": "Romain ROUYER",
+                "author_link": "https:\/\/scoglab.slack.com\/team\/U03FC5ZAK",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/scoglab.slack.com\/archives\/C0R6W4X2Q\/p1638038733027300",
+                "is_share": true,
+                "footer": "Conversation Slack"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b=r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Note importante :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "pas de permanence au CRI lundi prochain, on vous propose une session mercredi"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "j’arriverais avec une version 1 bêta imprimée du protocole et une version de la note d’intention scientifique"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "si vous êtes dispo, on peux essayer de faire un premier test du protocole ou bien faire une dernière review et se fixer une date pour la semaine suivante"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02GLDKAWQ2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1638039082.038700",
+        "client_msg_id": "e58cbdfc-e1f6-4810-8d37-611fe8c1c741",
+        "text": "J’ai encore accusé de retard cette semaine suite à une urgence familiale et m’en excuse.\nJ’essaie de terminer mes To Do List demain en marge de la Maker Faire.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5CWpY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’ai encore accusé de retard cette semaine suite à une urgence familiale et m’en excuse.\nJ’essaie de terminer mes To Do List demain en marge de la Maker Faire."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568561008.000400",
+        "client_msg_id": "ac2a0043-f7ee-4c1a-b4ca-100a3d1fdc32",
+        "text": "Nouvel article disponible sur le blog, qu'en pensez-vous ?\n<https:\/\/coglab.fr\/rencontre-webxr\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "CogLab, NeuroTechX Paris",
+                "title": "Rencontre WebXR et « pitch » du projet Autispace",
+                "title_link": "https:\/\/coglab.fr\/rencontre-webxr\/",
+                "text": "Fabien Benetou organisait une rencontre informelle WebXR au Pavillon ce vendredi 13 septembre. L’occasion pour Hans et Romain de s’y rendre et de présenter Autispace.   En ce vendr…",
+                "fallback": "CogLab, NeuroTechX Paris: Rencontre WebXR et « pitch » du projet Autispace",
+                "image_url": "https:\/\/coglab.fr\/wp-content\/uploads\/2019\/09\/Meetup-WebXR.png",
+                "image_width": 445,
+                "image_height": 250,
+                "ts": 1568560944,
+                "from_url": "https:\/\/coglab.fr\/rencontre-webxr\/",
+                "image_bytes": 131850,
+                "service_icon": "https:\/\/i2.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=180%2C180&#038;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/coglab.fr\/rencontre-webxr\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ljdyA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nouvel article disponible sur le blog, qu'en pensez-vous ?\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.fr\/rencontre-webxr\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

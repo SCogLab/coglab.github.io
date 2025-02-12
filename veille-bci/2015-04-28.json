@@ -1,0 +1,62 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1430250293.000002",
+        "text": "Une vidéo de présentation du nouveau SDK Emotiv\n<https:\/\/www.youtube.com\/watch?v=Qv9I8F0wVfI>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "http:\/\/www.youtube.com\/",
+                "title": "Emotiv SDK Overview 4-28-2015",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=Qv9I8F0wVfI",
+                "author_name": "emotivstation",
+                "author_link": "http:\/\/www.youtube.com\/user\/emotivstation",
+                "thumb_url": "http:\/\/i.ytimg.com\/vi\/Qv9I8F0wVfI\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Emotiv SDK Overview 4-28-2015",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"http:\/\/www.youtube.com\/embed\/Qv9I8F0wVfI?feature=oembed\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=Qv9I8F0wVfI",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tb3O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Une vidéo de présentation du nouveau SDK Emotiv\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=Qv9I8F0wVfI"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

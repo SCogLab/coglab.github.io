@@ -1,0 +1,260 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U03FC5ZAK",
+        "text": "<@U03FC5ZAK> a rejoint le canal",
+        "type": "message",
+        "ts": "1442092154.000002"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC5ZAK",
+        "purpose": "\"Cinéma émotif\" est un dispositif de cinéma interactif qui évolue en temps réel en fonction de l'activité cérébrale des spectateurs",
+        "text": "a défini la description du canal : \"Cinéma émotif\" est un dispositif de cinéma interactif qui évolue en temps réel en fonction de l'activité cérébrale des spectateurs",
+        "type": "message",
+        "ts": "1442092154.000003"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC5ZAK",
+        "purpose": "\"Cinéma émotif\" est un dispositif de cinéma interactif qui évolue en temps réel en fonction de l'activité cérébrale des spectateurs",
+        "text": "a défini la description du canal : \"Cinéma émotif\" est un dispositif de cinéma interactif qui évolue en temps réel en fonction de l'activité cérébrale des spectateurs",
+        "type": "message",
+        "ts": "1442092167.000004"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC5ZAK",
+        "purpose": "Projet Art\/Science de l’artiste Marie-Laure Cazin dans le laboratoire Arts &amp; Technologies de Stereolux. \"Cinéma émotif\" est un dispositif de cinéma interactif qui évolue en temps réel en fonction de l'activité cérébrale des spectateurs.",
+        "text": "a défini la description du canal : Projet Art\/Science de l’artiste Marie-Laure Cazin dans le laboratoire Arts &amp; Technologies de Stereolux. \"Cinéma émotif\" est un dispositif de cinéma interactif qui évolue en temps réel en fonction de l'activité cérébrale des spectateurs.",
+        "type": "message",
+        "ts": "1442092244.000005"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FC4NE1",
+        "text": "<@U03FC4NE1> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1442092268.000006"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03HY4P8V",
+        "text": "<@U03HY4P8V> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1442092268.000007"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U07CFCCBG",
+        "text": "<@U07CFCCBG> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1442092268.000008"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FEH3N8",
+        "text": "<@U03FEH3N8> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1442092268.000009"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1442092470.000010",
+        "text": "\"Cinéma émotif\" est un dispositif de cinéma interactif qui évolue en temps réel en fonction de l'activité cérébrale des spectateurs.\nC'est un projet Art\/Science créé par l’artiste Marie-Laure Cazin dans le laboratoire Arts &amp; Technologies de Stereolux (Nantes)\n\n<http:\/\/www.stereolux.org\/projets-du-laboratoire-arts-et-technologies\/cinema-emotif-et-si-le-cerveau-influencait-le-scenario-dun-film>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "text": "        Expérience de cinéma émotif à Tourcoing par 20Minutes     Le...",
+                "fallback": "        Expérience de cinéma émotif à Tourcoing par 20Minutes     Le...",
+                "from_url": "http:\/\/www.stereolux.org\/projets-du-laboratoire-arts-et-technologies\/cinema-emotif-et-si-le-cerveau-influencait-le-scenario-dun-film",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tkHm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Cinéma émotif\" est un dispositif de cinéma interactif qui évolue en temps réel en fonction de l'activité cérébrale des spectateurs.\nC'est un projet Art\/Science créé par l’artiste Marie-Laure Cazin dans le laboratoire Arts & Technologies de Stereolux (Nantes)\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.stereolux.org\/projets-du-laboratoire-arts-et-technologies\/cinema-emotif-et-si-le-cerveau-influencait-le-scenario-dun-film"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1442092473.000012",
+        "text": "<http:\/\/www.crabe-fantome.fr\/realisation.cfm\/le-cinema-emotif.html>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Le Crabe Fantôme",
+                "title": "Le Cinéma Emotif - Marie-Laure Cazin",
+                "title_link": "http:\/\/www.crabe-fantome.fr\/realisation.cfm\/le-cinema-emotif.html",
+                "text": "Imaginez (re)voir Les Dents de la Mer et, plus vous avez peur, plus vite le requin approche. Imaginez (re)voir La Rose Pourpre du Caire et, plus vous tombez amoureux, plus les personnages sortent de l’écran. Imaginez (re)voir Lost Highway et, plus vos émotions sont fortes, plus vous plongez dans la folie. LE CINÉMA ÉMOTIF est un prototype de cinéma interactif dans lequel le film varie en fonction des émotions des spectateurs, analysées par des casques EEG (Electro Encephalo Gramme) qui captent leur activité cérébrale. Le film répond au ressenti des spectateurs en temps réel, les personnages agissent différemment et le scénario varie d'une séance à l'autre.  Produit par Le Crabe Fantôme, développé par FILMO, en coproduction avec Pictanovo, « Expériences interactives», avec l'aide de la Région Nord-Pas de Calais, Lille Métropole communauté urbaine, Le Fresnoy Studio National des arts contemporains, Transfictions et \"La Panacée, centre de culture contemporaine, Montpellier. Le projet a reçu l'aide du Dicréam - aide à la Maquette (CNC- Ministère de la Culture et de la Communication). Le projet a fait l'objet de collaboration avec plusieurs laboratoires scientifiques (Numédiart à Mons, Belgique, le LIFL-NOCE et le LAGIS à l'Université de Lille 1, le LABRi, le SCRIME et l'INRIA à Bordeaux et la société bordelaise de développement informatique ASI. Équipe IVC, POLYTECH Nantes. Télécharger le dossier de présentation .",
+                "fallback": "Le Crabe Fantôme: Le Cinéma Emotif - Marie-Laure Cazin",
+                "image_url": "http:\/\/services.poissonbouge.net\/clients\/D2892276-DD14-D0D9-DF4AEA534A3FB866\/images\/xl\/e6e89075-2590-a75b-bc321e6653efb61e.jpg",
+                "from_url": "http:\/\/www.crabe-fantome.fr\/realisation.cfm\/le-cinema-emotif.html",
+                "image_width": 550,
+                "image_height": 220,
+                "image_bytes": 21316,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ew3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.crabe-fantome.fr\/realisation.cfm\/le-cinema-emotif.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1442092617.000014",
+        "text": "Je vous propose une rencontre avec Marie-Laure samedi prochain (19 septembre) en début d'après-midi.\nElle va nous présenter en détail le projet, notamment le défis technologique des casques EEG cc <@U03HY4P8V> <@U04T6ATLX>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RJk3H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je vous propose une rencontre avec Marie-Laure samedi prochain (19 septembre) en début d'après-midi.\nElle va nous présenter en détail le projet, notamment le défis technologique des casques EEG cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HY4P8V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04T6ATLX"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U04T6ATLX",
+        "text": "<@U04T6ATLX> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1442092625.000015"
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1442096854.000002",
+        "text": "Super, hâte d'avoir un retour sur cette rencontre ",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dUM6B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Super, hâte d'avoir un retour sur cette rencontre"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

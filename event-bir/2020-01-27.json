@@ -1,0 +1,56 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1580126369.000400",
+        "client_msg_id": "9cd1662d-11bc-4992-89e1-159abe61f15e",
+        "text": "Dreem est dans le FrenchTech120 <https:\/\/static.latribune.fr\/1351426\/french-tech-120-liste.jpg>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "1536x1086px image",
+                "image_url": "https:\/\/static.latribune.fr\/1351426\/french-tech-120-liste.jpg",
+                "image_width": 1536,
+                "image_height": 1086,
+                "image_bytes": 167134,
+                "from_url": "https:\/\/static.latribune.fr\/1351426\/french-tech-120-liste.jpg",
+                "id": 1,
+                "original_url": "https:\/\/static.latribune.fr\/1351426\/french-tech-120-liste.jpg"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7LGFI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dreem est dans le FrenchTech120 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/static.latribune.fr\/1351426\/french-tech-120-liste.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

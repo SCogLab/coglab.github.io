@@ -1,0 +1,98 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U07CLARN1",
+        "text": "<@U07CLARN1> a rejoint le canal",
+        "type": "message",
+        "ts": "1436431907.000002"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U07CPSBGX",
+        "text": "<@U07CPSBGX> a rejoint le canal",
+        "type": "message",
+        "ts": "1436438157.000003"
+    },
+    {
+        "user": "U07CFCCBG",
+        "type": "message",
+        "ts": "1436481536.000002",
+        "text": "Bonjour, bonjour",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ca0028538aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-04-21\/36646712194_7ca0028538aa7c07b0e3_72.jpg",
+            "first_name": "Mai",
+            "real_name": "Mai",
+            "display_name": "mai",
+            "team": "T03FC4NDZ",
+            "name": "mai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KRPp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour, bonjour"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1436508833.000002",
+        "text": "Bonjour, enchantée <@U07CFCCBG> et bienvenue. Dis nous, tu as des envies particulières de projet avec le coglab ? Déjà des idées en tête ? ",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jc3z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour, enchantée "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07CFCCBG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et bienvenue. Dis nous, tu as des envies particulières de projet avec le coglab ? Déjà des idées en tête ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

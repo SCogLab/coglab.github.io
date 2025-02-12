@@ -1,0 +1,40 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #118 - Spéciale BCI Voyager: <!date^1566837000^{date_short_pretty} from {time}|August 26th, 2019 from 6:30 PM> to <!date^1566853200^{time}|11:00 PM GMT+0200>",
+                "text": "<!date^1566837000^{date_short_pretty} from {time}|August 26th, 2019 from 6:30 PM> to <!date^1566853200^{time}|11:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #118 - Spéciale BCI Voyager",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MWwyNDY2azk3cGVoMHY4NTVlb2RnOGhlOG5fMjAxOTA4MjZUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1566833402.002500",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "UMQA8DN92",
+        "text": "<@UMQA8DN92> a rejoint le canal",
+        "type": "message",
+        "ts": "1566851307.002700"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "UMSL037JT",
+        "text": "<@UMSL037JT> a rejoint le canal",
+        "type": "message",
+        "ts": "1566851308.002900"
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CogLab HackNight #215: <!date^1636997400^{date_short_pretty} from {time}|November 15th, 2021 from 6:30 PM> to <!date^1637011800^{time}|10:30 PM GMT+0100>",
+                "text": "<!date^1636997400^{date_short_pretty} from {time}|November 15th, 2021 from 6:30 PM> to <!date^1637011800^{time}|10:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Cri%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France%2C+Charles+V-0-MakerLab+Classroom+%2830%29|Cri, 8 bis Rue Charles V, 75004 Paris, France, Charles V-0-MakerLab Classroom (30)>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab HackNight #215",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MjQ4dDE2NzM3aWpwNGMwYjR0dWc0Z2d1bnBfMjAyMTExMTVUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1636910776.003600",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "There is *1* event this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #215: <!date^1636997400^{date_short_pretty} from {time}|November 15th, 2021 from 6:30 PM> to <!date^1637011800^{time}|10:30 PM GMT+0100>",
+                "text": "<!date^1636997400^{date_short_pretty} from {time}|November 15th, 2021 from 6:30 PM> to <!date^1637011800^{time}|10:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Cri%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France%2C+Charles+V-0-MakerLab+Classroom+%2830%29|Cri, 8 bis Rue Charles V, 75004 Paris, France, Charles V-0-MakerLab Classroom (30)>",
+                "title": "CogLab HackNight #215",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MjQ4dDE2NzM3aWpwNGMwYjR0dWc0Z2d1bnBfMjAyMTExMTVUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1636959606.003700",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GLIIM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "1",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " event this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

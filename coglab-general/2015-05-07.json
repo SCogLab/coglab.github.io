@@ -1,0 +1,140 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U04NM0590",
+        "text": "<@U04NM0590> a rejoint le canal",
+        "type": "message",
+        "ts": "1430983252.000000"
+    },
+    {
+        "user": "U04NM0590",
+        "type": "message",
+        "ts": "1431017443.000002",
+        "text": "Bonjour ",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b561558c5ef2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-05-11\/4849334179_b561558c5ef2fad582fc_72.jpg",
+            "first_name": "Medhi",
+            "real_name": "Medhi Famibelle",
+            "display_name": "medhi",
+            "team": "T03FC4NDZ",
+            "name": "medhi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "itk4w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04NM0590",
+        "type": "message",
+        "ts": "1431017615.000003",
+        "text": "Est ce que vous pouvez me donner le lien du Hackpad avec le compte rendu de notre réunion d'hier ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b561558c5ef2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-05-11\/4849334179_b561558c5ef2fad582fc_72.jpg",
+            "first_name": "Medhi",
+            "real_name": "Medhi Famibelle",
+            "display_name": "medhi",
+            "team": "T03FC4NDZ",
+            "name": "medhi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KQe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Est ce que vous pouvez me donner le lien du Hackpad avec le compte rendu de notre réunion d'hier ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1431022843.000002",
+        "text": "Welcome <@U04NM0590>, go sur <#C03UHNB2H|community-event> :simple_smile:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Hqy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04NM0590"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", go sur "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03UHNB2H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

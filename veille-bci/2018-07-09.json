@@ -1,0 +1,245 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1531147530.000187",
+        "client_msg_id": "31d1087b-88f0-47ae-b329-72015238a6f5",
+        "text": "<https:\/\/github.com\/voytekresearch\/OpenData>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "voytekresearch\/OpenData",
+                "text": "A collection of openly available datasets in (mostly human) electrophysiology. ",
+                "title": "voytekresearch\/OpenData",
+                "footer": "<https:\/\/github.com\/voytekresearch\/OpenData|voytekresearch\/OpenData>",
+                "id": 1,
+                "footer_icon": "https:\/\/assets-cdn.github.com\/favicon.ico",
+                "ts": 1530407416,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "12",
+                        "short": true
+                    },
+                    {
+                        "title": "Last updated",
+                        "value": "a minute ago",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "BA73T1BTJ",
+                "app_unfurl_url": "https:\/\/github.com\/voytekresearch\/OpenData",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sKbWC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/voytekresearch\/OpenData"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1531147545.000525",
+        "client_msg_id": "d86a4dd0-c414-46f9-8786-51a28b11324a",
+        "text": "<https:\/\/github.com\/neurosity\/eeg-pipes>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "neurosity\/eeg-pipes",
+                "text": "Pipeable RxJS operators for working with EEG data in Node and the Browser",
+                "title": "neurosity\/eeg-pipes",
+                "footer": "<https:\/\/github.com\/neurosity\/eeg-pipes|neurosity\/eeg-pipes>",
+                "id": 1,
+                "footer_icon": "https:\/\/assets-cdn.github.com\/favicon.ico",
+                "ts": 1511414050,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "18",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "JavaScript",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "BA73T1BTJ",
+                "app_unfurl_url": "https:\/\/github.com\/neurosity\/eeg-pipes",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3CAqE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/neurosity\/eeg-pipes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1531147561.000438",
+        "client_msg_id": "e643a5db-c9c4-450b-b8a1-6c67a2a11729",
+        "text": "<http:\/\/learn.neurotechedu.com\/oscillations\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "NeurotechEDU",
+                "title": "Neural Oscillations",
+                "title_link": "http:\/\/learn.neurotechedu.com\/oscillations\/",
+                "text": "This tutorial serves as an introduction to extracting neural oscillations from eeg data. It assumes a basic knowledge of Python and MNE for EEG analysis",
+                "fallback": "NeurotechEDU: Neural Oscillations",
+                "from_url": "http:\/\/learn.neurotechedu.com\/oscillations\/",
+                "service_icon": "http:\/\/learn.neurotechedu.com\/assets\/img\/favicon-32x32.png",
+                "id": 1,
+                "original_url": "http:\/\/learn.neurotechedu.com\/oscillations\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9P2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/learn.neurotechedu.com\/oscillations\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1531147573.000179",
+        "client_msg_id": "540159a6-56fe-4ca3-aff8-e5552963ce26",
+        "text": "<https:\/\/www.researchgate.net\/publication\/235352276_Brain_Invaders_a_prototype_of_an_open-source_P300-_based_video_game_working_with_the_OpenViBE_platform>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ResearchGate",
+                "title": "(PDF) \"Brain Invaders\": a prototype of an open-source P300- based video game working with the OpenViBE platform",
+                "title_link": "https:\/\/www.researchgate.net\/publication\/235352276_Brain_Invaders_a_prototype_of_an_open-source_P300-_based_video_game_working_with_the_OpenViBE_platform",
+                "text": "PDF | We have developed the prototype of a pure-BCI video game based on the well known vintage video game \"Space Invaders\". In our \"Brain Invaders\" a number of aliens are displayed in a grid and the player has to destroy a particular alien, the target, only by concentrating on it....",
+                "fallback": "ResearchGate: (PDF) \"Brain Invaders\": a prototype of an open-source P300- based video game working with the OpenViBE platform",
+                "thumb_url": "https:\/\/i1.rgstatic.net\/publication\/235352276_Brain_Invaders_a_prototype_of_an_open-source_P300-_based_video_game_working_with_the_OpenViBE_platform\/links\/0fcfd51138f0792398000000\/largepreview.png",
+                "from_url": "https:\/\/www.researchgate.net\/publication\/235352276_Brain_Invaders_a_prototype_of_an_open-source_P300-_based_video_game_working_with_the_OpenViBE_platform",
+                "thumb_width": 850,
+                "thumb_height": 1202,
+                "service_icon": "https:\/\/www.researchgate.net\/apple-touch-icon-120x120.png",
+                "id": 1,
+                "original_url": "https:\/\/www.researchgate.net\/publication\/235352276_Brain_Invaders_a_prototype_of_an_open-source_P300-_based_video_game_working_with_the_OpenViBE_platform"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hnku",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.researchgate.net\/publication\/235352276_Brain_Invaders_a_prototype_of_an_open-source_P300-_based_video_game_working_with_the_OpenViBE_platform"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

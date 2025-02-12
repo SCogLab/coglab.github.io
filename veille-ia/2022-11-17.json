@@ -1,0 +1,203 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1668725194.068079",
+        "client_msg_id": "8d180550-8452-4dd4-a807-799ef0938aac",
+        "text": "Depuis cette rentrée 2022, il y a un petit big bang d'applications issus des frameworks IA (Dall-E\/OpenAI GPT-3, Midjourney, stable diffusion,...) :\n• DiffusionBee (optimisé Apple Silicon) : <https:\/\/diffusionbee.com\/>\n• Version multiplateforme, Unstable Diffusion : <https:\/\/github.com\/ahrm\/UnstableFusion>\n• Midjourney (via Discord, par David Holtz cto leapmotion\/ultraleap) : <https:\/\/www.midjourney.com\/>\n• Plugin pour Obsidian : <https:\/\/github.com\/louis030195\/obsidian-ava>\n• Craiyon\/Dalle-e mini) : <https:\/\/github.com\/borisdayma\/dalle-mini> , <https:\/\/www.craiyon.com>\n• ...",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/diffusionbee.com\/",
+                "image_url": "https:\/\/diffusionbee.com\/diffusionbee_banner.jpg",
+                "image_width": 498,
+                "image_height": 250,
+                "image_bytes": 462511,
+                "service_icon": "https:\/\/diffusionbee.com\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/diffusionbee.com\/",
+                "fallback": "DiffusionBee - Stable Diffusion GUI App",
+                "text": "DiffusionBee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer.",
+                "title": "DiffusionBee - Stable Diffusion GUI App",
+                "title_link": "https:\/\/diffusionbee.com\/",
+                "service_name": "diffusionbee.com"
+            },
+            {
+                "from_url": "https:\/\/github.com\/ahrm\/UnstableFusion",
+                "image_url": "https:\/\/opengraph.githubassets.com\/24c354ab3caa7c8fa1b0d55b73d26c5647710f2842ebdabcfb0c331db92a36db\/ahrm\/UnstableFusion",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 49390,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 2,
+                "original_url": "https:\/\/github.com\/ahrm\/UnstableFusion",
+                "fallback": "GitHub: GitHub - ahrm\/UnstableFusion: A Stable Diffusion desktop frontend with inpainting, img2img and more!",
+                "text": "A Stable Diffusion desktop frontend with inpainting, img2img and more! - GitHub - ahrm\/UnstableFusion: A Stable Diffusion desktop frontend with inpainting, img2img and more!",
+                "title": "GitHub - ahrm\/UnstableFusion: A Stable Diffusion desktop frontend with inpainting, img2img and more!",
+                "title_link": "https:\/\/github.com\/ahrm\/UnstableFusion",
+                "service_name": "GitHub"
+            },
+            {
+                "from_url": "https:\/\/www.midjourney.com\/",
+                "service_icon": "https:\/\/www.midjourney.com\/apple-touch-icon.png",
+                "id": 3,
+                "original_url": "https:\/\/www.midjourney.com\/",
+                "fallback": "Midjourney",
+                "text": "An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.",
+                "title": "Midjourney",
+                "title_link": "https:\/\/www.midjourney.com\/",
+                "service_name": "midjourney.com"
+            },
+            {
+                "from_url": "https:\/\/github.com\/louis030195\/obsidian-ava",
+                "image_url": "https:\/\/opengraph.githubassets.com\/bf7fc8d664287ab614e2d09f17d7ae49159f4684a712f346ff99bf6189260f3a\/louis030195\/obsidian-ava",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 112413,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 4,
+                "original_url": "https:\/\/github.com\/louis030195\/obsidian-ava",
+                "fallback": "GitHub: GitHub - louis030195\/obsidian-ava: AI-enhanced reflection in Obsidian https:\/\/obsidian.md",
+                "text": "AI-enhanced reflection in Obsidian <https:\/\/obsidian.md> - GitHub - louis030195\/obsidian-ava: AI-enhanced reflection in Obsidian <https:\/\/obsidian.md>",
+                "title": "GitHub - louis030195\/obsidian-ava: AI-enhanced reflection in Obsidian https:\/\/obsidian.md",
+                "title_link": "https:\/\/github.com\/louis030195\/obsidian-ava",
+                "service_name": "GitHub"
+            },
+            {
+                "from_url": "https:\/\/github.com\/borisdayma\/dalle-mini",
+                "image_url": "https:\/\/repository-images.githubusercontent.com\/382680786\/df63823f-74d9-4e06-87a2-fd2feed39931",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 63500,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 5,
+                "original_url": "https:\/\/github.com\/borisdayma\/dalle-mini",
+                "fallback": "GitHub: GitHub - borisdayma\/dalle-mini: DALL·E Mini - Generate images from a text prompt",
+                "text": "DALL·E Mini - Generate images from a text prompt. Contribute to borisdayma\/dalle-mini development by creating an account on GitHub.",
+                "title": "GitHub - borisdayma\/dalle-mini: DALL·E Mini - Generate images from a text prompt",
+                "title_link": "https:\/\/github.com\/borisdayma\/dalle-mini",
+                "service_name": "GitHub"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vJqyS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Depuis cette rentrée 2022, il y a un petit big bang d'applications issus des frameworks IA (Dall-E\/OpenAI GPT-3, Midjourney, stable diffusion,...) :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "DiffusionBee (optimisé Apple Silicon) : "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/diffusionbee.com\/"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Version multiplateforme, Unstable Diffusion : "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/ahrm\/UnstableFusion"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Midjourney (via Discord, par David Holtz cto leapmotion\/ultraleap) : "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.midjourney.com\/"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Plugin pour Obsidian : "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/louis030195\/obsidian-ava"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Craiyon\/Dalle-e mini) : "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/borisdayma\/dalle-mini"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " , "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.craiyon.com"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "..."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

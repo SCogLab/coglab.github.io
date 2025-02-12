@@ -1,0 +1,65 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1443560296.000002",
+        "text": "Une campagne et un support original #transmédia :simple_smile:\n<http:\/\/fr.ulule.com\/latelier-werther\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Ulule",
+                "title": "Dans l'atelier de Werther",
+                "title_link": "http:\/\/fr.ulule.com\/latelier-werther\/",
+                "text": "Dans l'atelier de Werther Un album interactif pour les 10-12 ans sur l'histoire de l'invention de l'imprimerie Dans l’atelier de Werther c’est, d’une part, un album jeunesse de la plus belle facture. C’est, d’autre part un complément au livre dans ...",
+                "fallback": "Ulule: Dans l'atelier de Werther",
+                "thumb_url": "https:\/\/img.ulule.com\/display\/f35acb5336607838c2a4652632eb47babd06698a\/thumbnail\/640x360\/presales\/9\/6\/8\/30869\/image-presentation.MgkU7uxRLLFD.jpg?upscale=1",
+                "from_url": "http:\/\/fr.ulule.com\/latelier-werther\/",
+                "thumb_width": 640,
+                "thumb_height": 360,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/FX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Une campagne et un support original #transmédia "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/fr.ulule.com\/latelier-werther\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

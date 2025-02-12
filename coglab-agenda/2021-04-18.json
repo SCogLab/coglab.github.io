@@ -1,0 +1,100 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "FSC 2021 - Conference et clôture: <!date^1618747200^{date_short_pretty} from {time}|April 18th, 2021 from 2:00 PM> to <!date^1618758000^{time}|5:00 PM GMT+0200>",
+                "text": "<!date^1618747200^{date_short_pretty} from {time}|April 18th, 2021 from 2:00 PM> to <!date^1618758000^{time}|5:00 PM GMT+0200>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "FSC 2021 - Conference et clôture",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MDFyb3ZvNjgxY2E2MWNuOG9hZzVhcWduN3Agc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1618743601.003900",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "There are *3* events this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #190 [Online EN]: <!date^1618849800^{date_short_pretty} from {time}|April 19th, 2021 from 6:30 PM> to <!date^1618853400^{time}|7:30 PM GMT+0200>",
+                "text": "<!date^1618849800^{date_short_pretty} from {time}|April 19th, 2021 from 6:30 PM> to <!date^1618853400^{time}|7:30 PM GMT+0200> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "title": "CogLab HackNight #190 [Online EN]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MW10czRldnBwaWxrMzU1ZzBsOWJ1Z2lvMGQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "CogLab HackNight #190 [Online FR]: <!date^1618858800^{date_short_pretty} from {time}|April 19th, 2021 from 9:00 PM> to <!date^1618864200^{time}|10:30 PM GMT+0200>",
+                "text": "<!date^1618858800^{date_short_pretty} from {time}|April 19th, 2021 from 9:00 PM> to <!date^1618864200^{time}|10:30 PM GMT+0200> at <https:\/\/gather.town\/i\/PYn7w8L3>",
+                "title": "CogLab HackNight #190 [Online FR]",
+                "id": 2,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NTdkb2Ntcms1YXBtcG83aGk3OG82YTFzc2Ugc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "Discussion AFT &lt;&gt; CogLab: <!date^1618907400^{date_short_pretty} from {time}|April 20th, 2021 from 10:30 AM> to <!date^1618911000^{time}|11:30 AM GMT+0200>",
+                "text": "<!date^1618907400^{date_short_pretty} from {time}|April 20th, 2021 from 10:30 AM> to <!date^1618911000^{time}|11:30 AM GMT+0200>",
+                "title": "Discussion AFT &lt;&gt; CogLab",
+                "id": 3,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MGc5NnVjdW1oMnU0aHBjMzQwYm81OThhaGQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1618812003.004000",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9nyk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " events this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

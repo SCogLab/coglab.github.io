@@ -1,0 +1,52 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There is *1* event this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "NTX BIR 2023 Series: <!date^1674583200^{date_short_pretty} from {time}|January 24th, 2023 from 7:00 PM> to <!date^1674592200^{time}|9:30 PM GMT+0100>",
+                "text": "<!date^1674583200^{date_short_pretty} from {time}|January 24th, 2023 from 7:00 PM> to <!date^1674592200^{time}|9:30 PM GMT+0100>",
+                "title": "NTX BIR 2023 Series",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MXFhbmVxcWVsMDRwamI5NzNjZ2phcmxtcXZfMjAyMzAxMjRUMTgwMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1674457203.523949",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uc8l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "1",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " event this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

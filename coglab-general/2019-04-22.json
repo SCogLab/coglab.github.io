@@ -1,0 +1,121 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1555949296.001000",
+        "client_msg_id": "4e0b2b04-9c05-4700-b043-8978342bb27c",
+        "text": "Avis aux intéressé.e.s, à vos agenda :slightly_smiling_face: <https:\/\/coglab.fr\/ag3\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "CogLab, NeuroTechX Paris",
+                "title": "Assemblée Générale N°3",
+                "title_link": "https:\/\/coglab.fr\/ag3\/",
+                "text": "L’association Coglab, Neurotechx Paris prépare le bilan de sa seconde année en tant qu’association. Nous avons le plaisir de vous convier à la 3ème assemblée générale, le samedi 25 mai …",
+                "fallback": "CogLab, NeuroTechX Paris: Assemblée Générale N°3",
+                "image_url": "https:\/\/coglab.fr\/wp-content\/uploads\/2019\/04\/AG-CogLab-3.png",
+                "image_width": 444,
+                "image_height": 250,
+                "ts": 1555949162,
+                "from_url": "https:\/\/coglab.fr\/ag3\/",
+                "image_bytes": 806329,
+                "service_icon": "https:\/\/i2.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=180%2C180&#038;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/coglab.fr\/ag3\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bca",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Avis aux intéressé.e.s, à vos agenda "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.fr\/ag3\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card Journées CORTICO added to list BLOG (notes externes) on board Activités CogLab (public).",
+                "text": "In list *BLOG (notes externes)* on *<https:\/\/trello.com\/b\/NFHS3ZPa|Activités CogLab (public)>*.",
+                "pretext": "New card created",
+                "title": "Journées CORTICO",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/yuRJdTXz",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1555950119.001200",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card IEEE SMC 2019 added to list TIMELINE (à venir) on board Activités CogLab (public).",
+                "text": "In list *TIMELINE (à venir)* on *<https:\/\/trello.com\/b\/NFHS3ZPa|Activités CogLab (public)>*.",
+                "pretext": "New card created",
+                "title": "IEEE SMC 2019",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/Hp4TGgP6",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1555950777.001300",
+        "bot_id": "B66HQV43C"
+    }
+]

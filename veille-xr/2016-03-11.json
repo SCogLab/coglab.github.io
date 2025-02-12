@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1457709325.000043",
+        "text": "Un gros événement payant, qui affiche complet en 48h\n<http:\/\/pickupvrcinema.com\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "\/\/ pickupVRcinema \/\/",
+                "title_link": "http:\/\/pickupvrcinema.com\/",
+                "text": "La VR, beaucoup en parlent, peu l'ont testée. Avec le pickupVRcinema, immergez-vous dans la réalité virtuelle au cours d'une séance exceptionnelle à 360°. Muni d'un casque VR, pickupVRcinema vous fera vivre une expérience unique en plein coeur de Paris.",
+                "fallback": "\/\/ pickupVRcinema \/\/",
+                "image_url": "http:\/\/vrcinema.pickupfilms.com\/images\/fb.jpg?q=update",
+                "from_url": "http:\/\/pickupvrcinema.com\/",
+                "image_width": 479,
+                "image_height": 250,
+                "image_bytes": 280345,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SEHiM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un gros événement payant, qui affiche complet en 48h\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/pickupvrcinema.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

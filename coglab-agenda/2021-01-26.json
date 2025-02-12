@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "NTX BIR 2021 Zurich: <!date^1611682200^{date_short_pretty} from {time}|January 26th, 2021 from 6:30 PM> to <!date^1611689400^{time}|8:30 PM GMT+0100>",
+                "text": "<!date^1611682200^{date_short_pretty} from {time}|January 26th, 2021 from 6:30 PM> to <!date^1611689400^{time}|8:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Online+event|Online event>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "NTX BIR 2021 Zurich",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MWY0bmszNWVmNnQ4OTNqdTZidHBqMWNmNHYgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1611678601.001100",
+        "bot_id": "B4SJBP2L8"
+    }
+]

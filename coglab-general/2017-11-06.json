@@ -1,0 +1,116 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Rouffi",
+                "fallback": "Rouffi commented on MOOC Neurosciences: \"Fruits de mes réflexions du week-end, avec l'aide de @roselynechauvin \n<https:\/\/docs.google.com\/document\/d\/1TwkQQrqBagRlo5THWFTUltvP3j2rHRUvFyAvsrIc4gI\/edit#>\"",
+                "text": "Fruits de mes réflexions du week-end, avec l'aide de @roselynechauvin \n<https:\/\/docs.google.com\/document\/d\/1TwkQQrqBagRlo5THWFTUltvP3j2rHRUvFyAvsrIc4gI\/edit#>",
+                "pretext": "New comment on *<https:\/\/trello.com\/c\/Y7wJUl2r|MOOC Neurosciences>*",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/3d3e4fd69be807e8d0a24825f25004d3\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1509959222.000436",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Rouffi",
+                "fallback": "Rouffi attached <https:\/\/docs.google.com\/document\/d\/1TwkQQrqBagRlo5THWFTUltvP3j2rHRUvFyAvsrIc4gI\/edit#> to card MOOC Neurosciences.",
+                "text": "Attached *<https:\/\/docs.google.com\/document\/d\/1TwkQQrqBagRlo5THWFTUltvP3j2rHRUvFyAvsrIc4gI\/edit#|https:\/\/docs.google.com\/document\/d\/1TwkQQrqBagRlo5THWFTUltvP3j2rHRUvFyAvsrIc4gI\/edit#>* to *<https:\/\/trello.com\/c\/Y7wJUl2r|MOOC Neurosciences>*.",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/3d3e4fd69be807e8d0a24825f25004d3\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1509959227.000093",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1509997675.000457",
+        "text": "Si ça vous intéresse, suite au festival Rouxter à Mains d’Oeuvres, un groupe d’ *AutoDéfense numérique* à été créé avec les personnes sur place\n\nUne première réunion à lieu demain soir à La Paillasse\nC’est ouvert à tous, dans la limite des places disponibles !\n\nToutes les informations sont disponibles sur ce document\n<https:\/\/hackmd.io\/s\/rklFPtQRZ>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "HackMD",
+                "title": "Autodéfense numérique (ADN) - HackMD",
+                "title_link": "https:\/\/hackmd.io\/s\/rklFPtQRZ",
+                "text": "# Autodéfense numérique (ADN) *Suite aux [discussions commencées](<https:\/\/semestriel.framapad.org\/p>",
+                "fallback": "HackMD: Autodéfense numérique (ADN) - HackMD",
+                "thumb_url": "https:\/\/i.imgur.com\/t482ypG.jpg",
+                "from_url": "https:\/\/hackmd.io\/s\/rklFPtQRZ",
+                "thumb_width": 120,
+                "thumb_height": 120,
+                "service_icon": "https:\/\/hackmd.io\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=A2lQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si ça vous intéresse, suite au festival Rouxter à Mains d’Oeuvres, un groupe d’ "
+                            },
+                            {
+                                "type": "text",
+                                "text": "AutoDéfense numérique",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " à été créé avec les personnes sur place\n\nUne première réunion à lieu demain soir à La Paillasse\nC’est ouvert à tous, dans la limite des places disponibles !\n\nToutes les informations sont disponibles sur ce document\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/hackmd.io\/s\/rklFPtQRZ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

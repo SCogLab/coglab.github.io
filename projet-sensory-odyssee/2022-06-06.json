@@ -1,0 +1,223 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1654535807.957229",
+        "client_msg_id": "f7917c3c-e656-4db1-8ea7-d8f7bcb46419",
+        "text": "Salut Olivier, tes appareils sont sur quelles version d’Android ?\nJe suis sur Android 12 et sur les forums, l’accès à ce répertoire semble verrouillé, je n’ai pas trouvé de solution encore",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1654171784.449229",
+        "parent_user_id": "U03CMPK03K8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LpdEk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut Olivier, tes appareils sont sur quelles version d’Android ?\nJe suis sur Android 12 et sur les forums, l’accès à ce répertoire semble verrouillé, je n’ai pas trouvé de solution encore"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03CMPK03K8",
+        "type": "message",
+        "ts": "1654541882.244229",
+        "client_msg_id": "010c1c36-2756-4727-a4c9-89674b0d9e95",
+        "text": "J'ai Android 12 aussi. Je me rappelle que j'avais du accorder l'autorisation a l'app de gestion de fichier.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gf3d80ee195b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f3d80ee195b6a4739fa89cc738c89dc9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Olivier",
+            "real_name": "Olivier Mével",
+            "display_name": "Olivier Mével",
+            "team": "T03FC4NDZ",
+            "name": "olivier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1654171784.449229",
+        "parent_user_id": "U03CMPK03K8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rhp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai Android 12 aussi. Je me rappelle que j'avais du accorder l'autorisation a l'app de gestion de fichier."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1654545207.372269",
+        "client_msg_id": "b0cea5c9-e5c0-400c-8479-1028eae778e2",
+        "text": "Tu utilises une application spécifique ?\nJ'ai ouvert toutes les autorisations en reverifiant encore ce weekend, entre l'App de log et les deux explorateurs que j'utilise (celui de Samsung en natif, et Google files)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1654171784.449229",
+        "parent_user_id": "U03CMPK03K8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VE+8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu utilises une application spécifique ?\nJ'ai ouvert toutes les autorisations en reverifiant encore ce weekend, entre l'App de log et les deux explorateurs que j'utilise (celui de Samsung en natif, et Google files)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03CMPK03K8",
+        "type": "message",
+        "ts": "1654583339.724039",
+        "client_msg_id": "73ce956e-b4b4-455c-a12b-92070ab736e2",
+        "text": "Ah oui, ça ne marche pas avec les outils natifs.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gf3d80ee195b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f3d80ee195b6a4739fa89cc738c89dc9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Olivier",
+            "real_name": "Olivier Mével",
+            "display_name": "Olivier Mével",
+            "team": "T03FC4NDZ",
+            "name": "olivier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1654171784.449229",
+        "parent_user_id": "U03CMPK03K8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F9FP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah oui, ça ne marche pas avec les outils natifs."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03CMPK03K8",
+        "type": "message",
+        "ts": "1654583388.337959",
+        "client_msg_id": "ff72c72f-f81b-42cb-b1eb-3218a5220b76",
+        "text": "J'utilise <https:\/\/play.google.com\/store\/apps\/details?id=com.alphainventor.filemanager&amp;hl=fr&amp;gl=US>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gf3d80ee195b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f3d80ee195b6a4739fa89cc738c89dc9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Olivier",
+            "real_name": "Olivier Mével",
+            "display_name": "Olivier Mével",
+            "team": "T03FC4NDZ",
+            "name": "olivier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1654171784.449229",
+        "parent_user_id": "U03CMPK03K8",
+        "attachments": [
+            {
+                "from_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.alphainventor.filemanager&hl=fr&gl=US",
+                "image_url": "https:\/\/play-lh.googleusercontent.com\/9PzlG2XGr5sQDf5925tlZhqluOreI2cwzp-FOZiuj545Kt1Gk5EE9J4IdGsD7e5xWw",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 219209,
+                "service_icon": "http:\/\/www.gstatic.com\/android\/market_images\/web\/favicon_v2.ico",
+                "id": 1,
+                "original_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.alphainventor.filemanager&amp;hl=fr&amp;gl=US",
+                "fallback": "Gestionnaire de fichiers – Applications sur Google Play",
+                "text": "Gestionnaire de fichiers rapide, facile à utiliser et complet avec cloud.",
+                "title": "Gestionnaire de fichiers – Applications sur Google Play",
+                "title_link": "https:\/\/play.google.com\/store\/apps\/details?id=com.alphainventor.filemanager&hl=fr&gl=US",
+                "service_name": "play.google.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Yjz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'utilise "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/play.google.com\/store\/apps\/details?id=com.alphainventor.filemanager&hl=fr&gl=US"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

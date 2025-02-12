@@ -1,0 +1,592 @@
+[
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1568186102.044200",
+        "client_msg_id": "5b8dc493-b47c-4313-a421-75a7453b280b",
+        "text": "réponse :\n\nLes triggers sont en effet inclus dans une version différente du SDK.\nPour importer cette version, vous pouvez remplacer les dépendances\nimplementation '<http:\/\/mybraintech.com:sdk-lite:2.1.0|mybraintech.com:sdk-lite:2.1.0>'\nimplementation '<http:\/\/mybraintech.com:sdk-lite:2.1.0:javadoc|mybraintech.com:sdk-lite:2.1.0:javadoc>'\npar\nimplementation '<http:\/\/mybraintech.com:sdk-full:2.1.0|mybraintech.com:sdk-full:2.1.0>'\nimplementation '<http:\/\/mybraintech.com:sdk-full:2.1.0:javadoc|mybraintech.com:sdk-full:2.1.0:javadoc>'",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568143382.034200",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5NoN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "réponse :\n\nLes triggers sont en effet inclus dans une version différente du SDK.\nPour importer cette version, vous pouvez remplacer les dépendances\nimplementation '"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/mybraintech.com:sdk-lite:2.1.0",
+                                "text": "mybraintech.com:sdk-lite:2.1.0",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": "'\nimplementation '"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/mybraintech.com:sdk-lite:2.1.0:javadoc",
+                                "text": "mybraintech.com:sdk-lite:2.1.0:javadoc",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": "'\npar\nimplementation '"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/mybraintech.com:sdk-full:2.1.0",
+                                "text": "mybraintech.com:sdk-full:2.1.0",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": "'\nimplementation '"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/mybraintech.com:sdk-full:2.1.0:javadoc",
+                                "text": "mybraintech.com:sdk-full:2.1.0:javadoc",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": "'"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1568186414.044400",
+        "client_msg_id": "e66d9ae6-0323-4f52-8d23-78c37aaa3315",
+        "text": "Merci <@U03FEH3N8>, je vais regarder ça :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568143382.034200",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NAu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", je vais regarder ça "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568192373.044700",
+        "client_msg_id": "30db23f6-65d2-404c-abce-42139740fc53",
+        "text": "Top, redis nous ce que te remonte le P300 Hans",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568143382.034200",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NUKCK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Top, redis nous ce que te remonte le P300 Hans"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1568192633.044900",
+        "client_msg_id": "1aca3f92-6816-412c-8dac-81c99acadc56",
+        "text": "Je suis en train de faire l’analyse des différences entre la version 2.0.5 et 2.1.0",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568143382.034200",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ov+X=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je suis en train de faire l’analyse des différences entre la version 2.0.5 et 2.1.0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568194396.045100",
+        "client_msg_id": "b244a3ee-f5d5-4923-aefc-4cf869b6c5c6",
+        "text": "Quick and dirty Hans, appel simplement la fonction P300 et regarde ce que ça fait\nOn arrive à cours de temps pour faire de la méta analyse :confused:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568143382.034200",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fsI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Quick and dirty Hans, appel simplement la fonction P300 et regarde ce que ça fait\nOn arrive à cours de temps pour faire de la méta analyse "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused",
+                                "unicode": "1f615"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1568194470.045300",
+        "client_msg_id": "0400552f-bd12-405c-8499-1836ccf6054e",
+        "text": "C’est impossible !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568143382.034200",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YITE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C’est impossible !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568194919.045500",
+        "client_msg_id": "beeb8d33-975f-4cc6-9fc1-9a8ada58c1e3",
+        "text": "Qu’est ce qui n’est pas possible ? :open_mouth:\nDit nous si quelque chose te bloque",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568143382.034200",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Wqe8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Qu’est ce qui n’est pas possible ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "open_mouth",
+                                "unicode": "1f62e"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDit nous si quelque chose te bloque"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1568195946.045700",
+        "client_msg_id": "0c652fd7-1841-4b1b-92ee-de6cd0676751",
+        "text": "Voilà, l’analyse est faite.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568143382.034200",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3E6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Voilà, l’analyse est faite."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "ULSDVUUVA",
+        "type": "message",
+        "ts": "1568196815.045900",
+        "client_msg_id": "9bf67b42-f9ac-4495-b4ab-3427bd21d7ba",
+        "text": "<@U03FC5ZAK> les alibi-images sont prets?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "d6568f25a9a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-08\/3075305835828_d6568f25a9a41b2be2ef_72.jpg",
+            "first_name": "Maike",
+            "real_name": "Maike",
+            "display_name": "Maike",
+            "team": "T03FC4NDZ",
+            "name": "maikeherbort",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568152929.043000",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OKgDv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " les alibi-images sont prets?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "ULSDVUUVA",
+        "type": "message",
+        "ts": "1568197164.048400",
+        "edited": {
+            "user": "ULSDVUUVA",
+            "ts": "1568197182.000000"
+        },
+        "client_msg_id": "a06a339c-b068-4766-b4fa-9ab73e7879b7",
+        "text": "Salut à tous | Dear all. In order to organize our presence at the IFTM (and to see how many mummies and daddies we need to help us), I please you to fill out this form and in case circulate the link to people who could support us. We pay in Karma-points! <https:\/\/framadate.org\/BOoBKswY8xcKaMnk>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "d6568f25a9a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-08\/3075305835828_d6568f25a9a41b2be2ef_72.jpg",
+            "first_name": "Maike",
+            "real_name": "Maike",
+            "display_name": "Maike",
+            "team": "T03FC4NDZ",
+            "name": "maikeherbort",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568197164.048400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1568990227.003500",
+        "reply_users": [
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1568990227.003500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v8un",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut à tous | Dear all. In order to organize our presence at the IFTM (and to see how many mummies and daddies we need to help us), I please you to fill out this form and in case circulate the link to people who could support us. We pay in Karma-points! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/framadate.org\/BOoBKswY8xcKaMnk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1568197240.048600",
+        "client_msg_id": "f4f450ad-e52e-4b6b-90d1-621eb189b2f0",
+        "text": "Pour infos, nous n’avons pas de changelog de versions de la part de Melomind (pas trop grave) et si il y a des changements importants entre 2 versions en 2.x.y au niveau du core, ça permettrait de résoudre “plus rapidement” les problèmes sur le code bci-voyager existant (si jamais il y en a).\nLeurs process de dév. et déploiement software du sdk sont encore un peu erratiques : sur leurs serveurs, il y a 4 versions du sdk en plus de celle qu’on a utilisées (2.0.5) depuis le mois de juillet.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568143382.034200",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HZ1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour infos, nous n’avons pas de changelog de versions de la part de Melomind (pas trop grave) et si il y a des changements importants entre 2 versions en 2.x.y au niveau du core, ça permettrait de résoudre “plus rapidement” les problèmes sur le code bci-voyager existant (si jamais il y en a).\nLeurs process de dév. et déploiement software du sdk sont encore un peu erratiques : sur leurs serveurs, il y a 4 versions du sdk en plus de celle qu’on a utilisées (2.0.5) depuis le mois de juillet."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UMSL037JT",
+        "type": "message",
+        "ts": "1568218287.048900",
+        "client_msg_id": "3b44df0b-c221-43b5-8a20-3fc7568f1bf2",
+        "text": "Je vais essayer de venir mais je ne garantie rien",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gc83ebac7853",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1c83ebac7853c13b22f556e7fdb52598.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Maxime Osty",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "maxime.osty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568063658.027500",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ccs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je vais essayer de venir mais je ne garantie rien"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

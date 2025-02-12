@@ -1,0 +1,712 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1701883485.049479",
+        "client_msg_id": "9A414CC1-F830-4045-91C3-4A83F981818C",
+        "text": "Hello, je vais être un peu en retard, je suis encore à Nanterre Préfecture.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hPsTQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, je vais être un peu en retard, je suis encore à Nanterre Préfecture."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1701884676.261389",
+        "client_msg_id": "899781e1-c9b8-4c1f-a17d-04ec1cdc749a",
+        "text": "Hello, de mon côté je suis en ligne avec <@U01804NJ7AQ> et serais en pause de 19h à 20h",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O2JOP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, de mon côté je suis en ligne avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01804NJ7AQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et serais en pause de 19h à 20h"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1701889985.502339",
+        "client_msg_id": "bb78b6ec-e8f5-48c6-bcea-3d9808399b25",
+        "text": "De retour,\n\n:bulb: Petite astuce pour permettre deux espaces de discussion\n• Un espace pour la communauté internationale NeuroTechX, avec la présence de Morgan (plutôt anglophone)\n• Un espace pour celles et ceux qui souhaitent échanger sur les projets communautaires locaux (francophone)\nUne « salle annexe » virtuelle est accessible depuis la liste des participants (picto :busts_in_silhouette: à droite de la :hand: sur la barre de menu du bas de Jisti) <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "service_icon": "https:\/\/meet.jit.si\/images\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "fallback": "Jitsi Meet",
+                "text": "Join a WebRTC video conference powered by the Jitsi Videobridge",
+                "title": "Jitsi Meet",
+                "title_link": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "service_name": "meet.jit.si"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FNL7f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "De retour,\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bulb",
+                                "unicode": "1f4a1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Petite astuce pour permettre deux espaces de discussion\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Un espace pour la communauté internationale NeuroTechX, avec la présence de Morgan (plutôt anglophone)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Un espace pour celles et ceux qui souhaitent échanger sur les projets communautaires locaux (francophone)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nUne « salle annexe » virtuelle est accessible depuis la liste des participants (picto "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "busts_in_silhouette",
+                                "unicode": "1f465"
+                            },
+                            {
+                                "type": "text",
+                                "text": " à droite de la "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hand",
+                                "unicode": "270b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sur la barre de menu du bas de Jisti) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1701891064.873189",
+        "client_msg_id": "c8506148-6a17-499d-b091-7a5e85075f7e",
+        "text": "Notez que ceci est une *première tentative*, itérative, de faire évoluer, à nouveau, le *format HackNight*, en réponse\n• Au besoin de rencontre de la communauté internationale en ligne (il n’hésite actuellement plus d’autres espaces de rencontre réguliers, à priori) ;\n• En complément des moments privilégiés avec la communauté locale, en duplex à Paris et pour les personnes à distance souhaitant contribuer.\nLa semaine dernière, quelques pistes ont été évoquées dans ce sens avec la mise en place d’un format dédié pour la communauté NeuroTechX.\n\nParmi les formats proposés (n’hésitez pas à compléter et\/ou réagir en commentaire) :\n• Proposer un format HackNight international, sur un autre jour de la semaine, en complément de notre soirée du mercredi\n• Proposer une session sur deux (bi-mensuel) ou mensuelle de nos HackNight, entièrement anglophone\n• Proposer un format différent de type « Journal Club » en faisant un appel à thématique bi-mensuel ou mensuel (_à l’image des rencontres <https:\/\/www.clinicalneuroanatomyseminars.com\/neuroccino|Neuroccino> hebdomadaire organisée par une chercheuse au Donders Institute_)\nOn peut essayer plusieurs approches et affiner en fonction des retours !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/static.wixstatic.com\/media\/fff170_b5520d37c6484f3faf9bab8e771268f1~mv2.jpg\/v1\/fill\/w_400,h_266,al_c\/fff170_b5520d37c6484f3faf9bab8e771268f1~mv2.jpg",
+                "image_width": 400,
+                "image_height": 266,
+                "image_bytes": 25970,
+                "from_url": "https:\/\/www.clinicalneuroanatomyseminars.com\/neuroccino",
+                "service_icon": "https:\/\/static.wixstatic.com\/media\/a1f6ef_72f14ae0d5fc453698b67ba29e07da16%7Emv2.png\/v1\/fill\/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01\/a1f6ef_72f14ae0d5fc453698b67ba29e07da16%7Emv2.png",
+                "id": 1,
+                "original_url": "https:\/\/www.clinicalneuroanatomyseminars.com\/neuroccino",
+                "fallback": "clinicalneuroanatomy: Neuroccino | clinicalneuroanatomy",
+                "title": "Neuroccino | clinicalneuroanatomy",
+                "title_link": "https:\/\/www.clinicalneuroanatomyseminars.com\/neuroccino",
+                "service_name": "clinicalneuroanatomy"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "baZj0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Notez que ceci est une "
+                            },
+                            {
+                                "type": "text",
+                                "text": "première tentative",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", itérative, de faire évoluer, à nouveau, le "
+                            },
+                            {
+                                "type": "text",
+                                "text": "format HackNight",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", en réponse\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Au besoin de rencontre de la communauté internationale en ligne (il n’hésite actuellement plus d’autres espaces de rencontre réguliers, à priori) ;"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "En complément des moments privilégiés avec la communauté locale, en duplex à Paris et pour les personnes à distance souhaitant contribuer."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nLa semaine dernière, quelques pistes ont été évoquées dans ce sens avec la mise en place d’un format dédié pour la communauté NeuroTechX.\n\nParmi les formats proposés (n’hésitez pas à compléter et\/ou réagir en commentaire) :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Proposer un format HackNight international, sur un autre jour de la semaine, en complément de notre soirée du mercredi"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Proposer une session sur deux (bi-mensuel) ou mensuelle de nos HackNight, entièrement anglophone"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Proposer un format différent de type « Journal Club » en faisant un appel à thématique bi-mensuel ou mensuel ("
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "à l’image des rencontres ",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.clinicalneuroanatomyseminars.com\/neuroccino",
+                                        "text": "Neuroccino",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " hebdomadaire organisée par une chercheuse au Donders Institute",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nOn peut essayer plusieurs approches et affiner en fonction des retours !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1701891439.463639",
+        "client_msg_id": "f959baf4-2506-4d39-ae61-37beb4520acd",
+        "text": "Et du coup ce serait quel jour ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eb9M+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et du coup ce serait quel jour ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1701891538.787189",
+        "client_msg_id": "5e63832f-60aa-488d-8610-a1ee1af0a3e8",
+        "text": "Ce sont des propositions à discuter pour le moment.\nOn peut faire un sondage en fonction de ce qui vous semble le plus intéressant.\nPeut-être l’occasion de mutualiser avec NTX EU ?!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701891538.787189",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1701906037.414299",
+        "reply_users": [
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1701906037.414299"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ESPQa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ce sont des propositions à discuter pour le moment.\nOn peut faire un sondage en fonction de ce qui vous semble le plus intéressant.\nPeut-être l’occasion de mutualiser avec NTX EU ?!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1701892077.949679",
+        "client_msg_id": "693267f9-77aa-496a-898d-fe9cc9ac93d2",
+        "text": "Je tente un premier sondage (répondez en choisissant l’émoji associé) <!here> :\n• :speech_balloon: Format *HackNight international*, sur un autre jour de la semaine, en complément de notre soirée du mercredi (n’hésitez pas à faire des suggestions de jours en commentaire si cette proposition vous intéresse). Notez que cela nous mobilise deux fois par semaine, peut être lourd à porter seul.\n• :scissors: Proposer une session sur deux (bi-mensuel) ou mensuelle de nos HackNight, entièrement anglophone. On coupe la poire en deux.\n• :newspaper: Proposer un format international différent, de type « Journal Club », en faisant un appel à thématique au préalable (fréquence bi-mensuelle ou mensuelle ?). Permets de distinguer HackNight (=projet) et Journal Club (discussion thématique)\n• :school_satchel: Ré-ouvrir le format « Open CogLab » dédié à des activités locales, historiquement le samedi, et laisser assez libre le format HackNight tel qu’il est",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZAEAY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je tente un premier sondage (répondez en choisissant l’émoji associé) "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "speech_balloon",
+                                        "unicode": "1f4ac"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Format "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "HackNight international",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", sur un autre jour de la semaine, en complément de notre soirée du mercredi (n’hésitez pas à faire des suggestions de jours en commentaire si cette proposition vous intéresse). Notez que cela nous mobilise deux fois par semaine, peut être lourd à porter seul."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "scissors",
+                                        "unicode": "2702-fe0f"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Proposer une session sur deux (bi-mensuel) ou mensuelle de nos HackNight, entièrement anglophone. On coupe la poire en deux."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "newspaper",
+                                        "unicode": "1f4f0"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Proposer un format international différent, de type « Journal Club », en faisant un appel à thématique au préalable (fréquence bi-mensuelle ou mensuelle ?). Permets de distinguer HackNight (=projet) et Journal Club (discussion thématique)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "school_satchel",
+                                        "unicode": "1f392"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Ré-ouvrir le format « Open CogLab » dédié à des activités locales, historiquement le samedi, et laisser assez libre le format HackNight tel qu’il est"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "speech_balloon",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "scissors",
+                "users": [
+                    "U03FC5ZAK",
+                    "U065TGVPMQA",
+                    "U0637AUUYBZ",
+                    "U058UQCU7R9"
+                ],
+                "count": 4
+            },
+            {
+                "name": "newspaper",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "school_satchel",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1701894373.541499",
+        "client_msg_id": "190251e5-4170-4353-882b-135c02f04e1e",
+        "text": "Je passe hors-ligne pour ce soir, bonne fin de soirée :wave:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X5fue",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je passe hors-ligne pour ce soir, bonne fin de soirée "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1701906037.414299",
+        "client_msg_id": "a83e1c5b-5fdc-49e0-979f-b91866f6987b",
+        "text": "Surement, je vais voir avec Marc (et Mohit) pour faire un site web dédié",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701891538.787189",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EyKO8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Surement, je vais voir avec Marc (et Mohit) pour faire un site web dédié"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

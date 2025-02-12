@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1556577579.002300",
+        "client_msg_id": "23314051-c0c9-47ad-ba37-1caf948db7b7",
+        "text": "Pour entraîner tes algos de NLP, regarde les corpus sur l'ATILF <@U59MQ46DA> \n\n<http:\/\/www.atilf.fr\/>\n<http:\/\/www.cnrtl.fr\/>\n\nMade in University de Lorraine :grinning:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Accueil - Site du laboratoire ATILF",
+                "title_link": "http:\/\/www.atilf.fr\/",
+                "text": "ATILF, Analyse et Traitement Informatique de la Langue Française, Linguistique historique française et romane, Lexique, Acquisition et apprentissage des langues : CRAPEL, Macro-syntaxe de l’écrit et de l’oral, Ressources et normalisation",
+                "fallback": "Accueil - Site du laboratoire ATILF",
+                "from_url": "http:\/\/www.atilf.fr\/",
+                "service_icon": "http:\/\/www.atilf.fr\/favicon.ico",
+                "service_name": "atilf.fr",
+                "id": 1,
+                "original_url": "http:\/\/www.atilf.fr\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C=oj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour entraîner tes algos de NLP, regarde les corpus sur l'ATILF "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.atilf.fr\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.cnrtl.fr\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nMade in University de Lorraine "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grinning",
+                                "unicode": "1f600"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

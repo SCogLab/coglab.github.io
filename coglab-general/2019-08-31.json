@@ -1,0 +1,69 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1567249238.000500",
+        "client_msg_id": "03871CB6-5068-4878-BAE2-016C93589A49",
+        "text": "‪Curious to see this netflix documentary « The Mind, explained » <https:\/\/youtu.be\/9SzZTTHbj-8> #Neuroscience #CognitiveScience #Anxiety #Mindfulness ‬",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "The Mind, Explained | Trailer | Netflix",
+                "title_link": "https:\/\/youtu.be\/9SzZTTHbj-8",
+                "author_name": "Netflix",
+                "author_link": "https:\/\/www.youtube.com\/user\/NewOnNetflix",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/9SzZTTHbj-8\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: The Mind, Explained | Trailer | Netflix",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/9SzZTTHbj-8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/9SzZTTHbj-8",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/9SzZTTHbj-8"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iwePP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "‪Curious to see this netflix documentary « The Mind, explained » "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/9SzZTTHbj-8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #Neuroscience #CognitiveScience #Anxiety #Mindfulness ‬"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

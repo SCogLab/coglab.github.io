@@ -1,0 +1,99 @@
+[
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1558950658.000900",
+        "client_msg_id": "083231bf-bcbc-407c-b0f9-fb456fbafc96",
+        "text": "<@U5JBN3M8Q> pas disponible ce soir mais lundi prochain si tu veux parler d'autispace on peut (après je pars en conference et pas dispo les deux prochaines lundi)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558950658.000900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1558953545.001000",
+        "reply_users": [
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1558953545.001000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sLm2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U5JBN3M8Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pas disponible ce soir mais lundi prochain si tu veux parler d'autispace on peut (après je pars en conference et pas dispo les deux prochaines lundi)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1558953545.001000",
+        "client_msg_id": "f3a94a30-8fe5-448d-8dc1-4ece45134ab4",
+        "text": "Je me permets de répondre en attendant le retour d'Isabelle\nLundi prochain c'est le Meetup et elle m'a dit ne pas être dispo.\nOn reprendra le sujet quand on sera tous dispo courant juin \nEn attendant, j'avance sur mes MOOC et expérimentation technique",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558950658.000900",
+        "parent_user_id": "U03FEH3N8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xITBc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je me permets de répondre en attendant le retour d'Isabelle\nLundi prochain c'est le Meetup et elle m'a dit ne pas être dispo.\nOn reprendra le sujet quand on sera tous dispo courant juin \nEn attendant, j'avance sur mes MOOC et expérimentation technique"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1604564982.001500",
+        "client_msg_id": "4621dc22-bee3-47e1-a69a-ad65c75ba63a",
+        "text": "<https:\/\/spectrum.ieee.org\/the-human-os\/biomedical\/devices\/what-is-neural-implant-neuromodulation-brain-implants-electroceuticals-neuralink-definition-examples>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Be0kT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/spectrum.ieee.org\/the-human-os\/biomedical\/devices\/what-is-neural-implant-neuromodulation-brain-implants-electroceuticals-neuralink-definition-examples"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "exploding_head",
+                "users": [
+                    "U016X9GLPEU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1604567972.001800",
+        "client_msg_id": "bfa0cf55-a9a9-4cbf-99a7-8591485c2a50",
+        "text": "<https:\/\/github.com\/google\/x-amber>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "google\/x-amber",
+                "title": "google\/x-amber",
+                "footer": "<https:\/\/github.com\/google\/x-amber|google\/x-amber>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1598577659,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "73",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "C",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "BA73T1BTJ",
+                "app_unfurl_url": "https:\/\/github.com\/google\/x-amber",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+EA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/google\/x-amber"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1604568020.002200",
+        "client_msg_id": "42949aeb-c8e5-4f4b-8efe-2a7f5ac24aef",
+        "text": "Google's recently open sourced EEG hardware and software. And yeah is based on ADS1299\n<https:\/\/blog.x.company\/sharing-project-amber-with-the-mental-health-community-7b6d8814a862>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "Sharing Project Amber with the mental health community",
+                "title_link": "https:\/\/blog.x.company\/sharing-project-amber-with-the-mental-health-community-7b6d8814a862",
+                "text": "New open source resources to help researchers collect and interpret electroencephalography (EEG) data for mental health measurement",
+                "fallback": "Medium: Sharing Project Amber with the mental health community",
+                "image_url": "https:\/\/miro.medium.com\/max\/1200\/1*LrflnB8rc6bRJyQ6Jbi33g.jpeg",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "9 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1604345595,
+                "from_url": "https:\/\/blog.x.company\/sharing-project-amber-with-the-mental-health-community-7b6d8814a862",
+                "image_width": 288,
+                "image_height": 250,
+                "image_bytes": 110287,
+                "service_icon": "https:\/\/miro.medium.com\/fit\/c\/152\/152\/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+                "id": 1,
+                "original_url": "https:\/\/blog.x.company\/sharing-project-amber-with-the-mental-health-community-7b6d8814a862"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l8v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Google's recently open sourced EEG hardware and software. And yeah is based on ADS1299\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/blog.x.company\/sharing-project-amber-with-the-mental-health-community-7b6d8814a862"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1604568042.002500",
+        "client_msg_id": "c9e16037-6754-418e-95a4-7de807629447",
+        "text": "Podcast <https:\/\/rosenmaninstitute.org\/podcasts\/faster-better-eeg-tests-with-zeto\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Rosenman Institute",
+                "title": "Faster &amp; Better EEG Tests with Zeto - Rosenman Institute",
+                "title_link": "https:\/\/rosenmaninstitute.org\/podcasts\/faster-better-eeg-tests-with-zeto\/",
+                "fallback": "Rosenman Institute: Faster &amp; Better EEG Tests with Zeto - Rosenman Institute",
+                "image_url": "https:\/\/rosenmaninstitute.org\/wp-content\/uploads\/2020\/11\/66-Aswin-Gunasekar-3x2-1.png",
+                "image_width": 375,
+                "image_height": 250,
+                "from_url": "https:\/\/rosenmaninstitute.org\/podcasts\/faster-better-eeg-tests-with-zeto\/",
+                "image_bytes": 1310704,
+                "service_icon": "https:\/\/rosenmaninstitute.org\/wp-content\/uploads\/2020\/08\/cropped-UCSF_Rosenman-logo-NAVY-social-1200-180x180.jpg",
+                "id": 1,
+                "original_url": "https:\/\/rosenmaninstitute.org\/podcasts\/faster-better-eeg-tests-with-zeto\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=GfV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Podcast "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/rosenmaninstitute.org\/podcasts\/faster-better-eeg-tests-with-zeto\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

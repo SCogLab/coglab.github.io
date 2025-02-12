@@ -1,0 +1,90 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1578565161.000300",
+        "edited": {
+            "user": "U03FC5ZAK",
+            "ts": "1578565231.000000"
+        },
+        "client_msg_id": "45f5b3bb-76e6-411b-b0b0-64d53123a107",
+        "text": "MindAffect, Nimègue, NL (cc <@U03FEH3N8>)\n<https:\/\/www.mindaffect.nl\/>\n\nA new BCI kickstarter campaign just launched today!  It enables everyone to make their devices easily brain controlled. The kit is in collaboration with OpenBCI and includes their Ganglion <https:\/\/www.kickstarter.com\/projects\/bci\/make-100-create-your-own-brain-computer-interface>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Kickstarter",
+                "title": "Make 100: create your own Brain Computer Interface",
+                "title_link": "https:\/\/www.kickstarter.com\/projects\/bci\/make-100-create-your-own-brain-computer-interface",
+                "text": "Control devices with your brain",
+                "fallback": "Kickstarter: Make 100: create your own Brain Computer Interface",
+                "image_url": "https:\/\/ksr-ugc.imgix.net\/assets\/027\/572\/894\/a5024c9fe756ae56db70d7df96b8b3d4_original.png?ixlib=rb-2.1.0&crop=faces&w=1552&h=873&fit=crop&v=1577110781&auto=format&frame=1&q=92&s=d6a32e9c4856081980e379be162c1254",
+                "image_width": 444,
+                "image_height": 250,
+                "from_url": "https:\/\/www.kickstarter.com\/projects\/bci\/make-100-create-your-own-brain-computer-interface",
+                "image_bytes": 1743155,
+                "service_icon": "https:\/\/www.kickstarter.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.kickstarter.com\/projects\/bci\/make-100-create-your-own-brain-computer-interface"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fvV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "MindAffect, Nimègue, NL (cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.mindaffect.nl\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nA new BCI kickstarter campaign just launched today!  It enables everyone to make their devices easily brain controlled. The kit is in collaboration with OpenBCI and includes their Ganglion "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kickstarter.com\/projects\/bci\/make-100-create-your-own-brain-computer-interface"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FEH3N8"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

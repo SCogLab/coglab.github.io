@@ -1,0 +1,84 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06M2NNGRD4",
+        "text": "<@U06M2NNGRD4> a rejoint le canal",
+        "type": "message",
+        "ts": "1709547823.605779"
+    },
+    {
+        "user": "U01804NJ7AQ",
+        "type": "message",
+        "ts": "1709582538.262009",
+        "client_msg_id": "E5FCBAA0-1423-41A8-89A8-04BC41A43479",
+        "text": "<https:\/\/youtu.be\/8Ukin_-5aLQ?si=hQV_1LsYFF6IdZdI|https:\/\/youtu.be\/8Ukin_-5aLQ?si=hQV_1LsYFF6IdZdI>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g7080a90c528",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7080a90c528526f8129488e607562782.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Morgan Hough",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "morgan.hough",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709582538.262009",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1709720998.961529",
+        "reply_users": [
+            "U065TGVPMQA"
+        ],
+        "replies": [
+            {
+                "user": "U065TGVPMQA",
+                "ts": "1709720998.961529"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/8Ukin_-5aLQ?si=hQV_1LsYFF6IdZdI",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/8Ukin_-5aLQ\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/8Ukin_-5aLQ?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"How fly neurons compute the direction of visual motion\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/8Ukin_-5aLQ?si=hQV_1LsYFF6IdZdI",
+                "fallback": "YouTube Video: How fly neurons compute the direction of visual motion",
+                "title": "How fly neurons compute the direction of visual motion",
+                "title_link": "https:\/\/youtu.be\/8Ukin_-5aLQ?si=hQV_1LsYFF6IdZdI",
+                "author_name": "MITCBMM",
+                "author_link": "https:\/\/www.youtube.com\/@MITCBMM",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vRe9n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/8Ukin_-5aLQ?si=hQV_1LsYFF6IdZdI",
+                                "text": "https:\/\/youtu.be\/8Ukin_-5aLQ?si=hQV_1LsYFF6IdZdI"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

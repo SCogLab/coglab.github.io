@@ -1,0 +1,144 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U2J1A2248",
+        "text": "<@U2J1A2248> a rejoint le canal",
+        "type": "message",
+        "ts": "1475245774.000002"
+    },
+    {
+        "user": "U2J1A2248",
+        "type": "message",
+        "ts": "1475246048.000003",
+        "text": "Je serais interessé pour venir vous rencontrer demain après midi.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g62890b13a4d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a62890b13a4de83689baa26be7f94eb6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Edouard",
+            "real_name": "Edouard Beau",
+            "display_name": "fillthisusername",
+            "team": "T03FC4NDZ",
+            "name": "fillthisusername",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DJ41h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je serais interessé pour venir vous rencontrer demain après midi."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1475247569.000004",
+        "text": "bonjour et bienvenue,  je t'invite à te présenter dans <#C041LLKGW|community-members> et dans <#C03FC4NEB|community-idee-feedback> tu peux en effet développer ton idée de projet",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "05jc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bonjour et bienvenue,  je t'invite à te présenter dans "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C041LLKGW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et dans "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03FC4NEB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tu peux en effet développer ton idée de projet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1475262730.000002",
+        "text": "Salut <@U2J1A2248> et bienvenue\nPas sûr qu’il y ai du monde dispo demain après-midi\nDe mon côté, je ne pourrais pas me rendre à La Paillasse ce WE",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oYQy2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U2J1A2248"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et bienvenue\nPas sûr qu’il y ai du monde dispo demain après-midi\nDe mon côté, je ne pourrais pas me rendre à La Paillasse ce WE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

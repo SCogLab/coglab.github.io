@@ -1,0 +1,87 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1541435292.000200",
+        "client_msg_id": "d73a3010-14b8-4a57-8651-2cfdf154f49e",
+        "text": ":heart:\n<https:\/\/www.meetup.com\/fr-FR\/NeuroTechSF\/events\/dnrwkqyxpbmb\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Study WebXR for Brain Computer Interfaces, with EEG, Oculus GO &amp; Tensor Flow",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/NeuroTechSF\/events\/dnrwkqyxpbmb\/",
+                "text": "ven. 9 nov. 2018 à 20:02: This meetup is a Friday Hacknight: We are playing with things like WebXR, WebVR, Three.js, Brainduino EEG, Oculus GO, Raspberry Pi Zero W, MySQL, Tensorflow, and Blockchain.C",
+                "fallback": "Meetup: Study WebXR for Brain Computer Interfaces, with EEG, Oculus GO &amp; Tensor Flow",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/1\/e\/f\/d\/600_475747933.jpeg",
+                "fields": [
+                    {
+                        "title": "Où",
+                        "value": "Noisebridge 2169 Mission St San Francisco",
+                        "short": true
+                    },
+                    {
+                        "title": "Quand",
+                        "value": "ven. 9 nov. 2018 à 20:02",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/NeuroTechSF\/events\/dnrwkqyxpbmb\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 185950,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/fr-FR\/m_swarm_120x120.4f86abc9.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/NeuroTechSF\/events\/dnrwkqyxpbmb\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I31Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "heart",
+                                "unicode": "2764-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/NeuroTechSF\/events\/dnrwkqyxpbmb\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

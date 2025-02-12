@@ -1,0 +1,279 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #126: <!date^1574697600^{date_short_pretty} from {time}|November 25th, 2019 from 5:00 PM> to <!date^1574717400^{time}|10:30 PM GMT+0100>",
+                "text": "<!date^1574697600^{date_short_pretty} from {time}|November 25th, 2019 from 5:00 PM> to <!date^1574717400^{time}|10:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Centre+de+Recherche+Interdisciplinaire+%28CRI%29%2C+8bis+Rue+Charles+V%2C+75004+Paris%2C+France%2C+Charles+V-0-MakerLab+Classroom+%2830%29|Centre de Recherche Interdisciplinaire (CRI), 8bis Rue Charles V, 75004 Paris, France, Charles V-0-MakerLab Classroom (30)>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #126",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MTYzMGg5aTVpOGV0cW83MmdlbnV2dTBlMW8gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1574694005.000100",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1574711707.001600",
+        "client_msg_id": "d909e1d8-67cd-4219-86fb-1f4e3b364d70",
+        "text": "Dans le cadre du projet <#CDH3LMXFX|projet-coglabgraph>, je vais essayer de me rendre au nouveau cycle d’événement de l’Assemblée Virtuelle au Grand Voisin\n\nPremière rencontre ce mercredi cc <@U59MQ46DA>\n\n<https:\/\/www.virtual-assembly.org\/faire-systemes-episode-1-refaire-le-web\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Assemblée Virtuelle",
+                "title": "Faire Systèmes - Episode 1 - Refaire le web - Assemblée Virtuelle",
+                "title_link": "https:\/\/www.virtual-assembly.org\/faire-systemes-episode-1-refaire-le-web\/",
+                "text": "Pour sa première session thématique, le cycle de conférences « Faire Systèmes » aborde ce mois-ci la question du Web. Aujourd'hui trusté par des multinationales, peut-il devenir ce qu'il se destinait à être, un commun au service de l'humanité ? Nous structurerons cette conférence autour de 3 enjeux : - Comprendre : Qu'est ce que le web,",
+                "fallback": "Assemblée Virtuelle: Faire Systèmes - Episode 1 - Refaire le web - Assemblée Virtuelle",
+                "thumb_url": "https:\/\/www.virtual-assembly.org\/wp-content\/uploads\/2019\/11\/FaireSystemes_Ep.1-1.jpg",
+                "ts": 1573743218,
+                "from_url": "https:\/\/www.virtual-assembly.org\/faire-systemes-episode-1-refaire-le-web\/",
+                "thumb_width": 793,
+                "thumb_height": 1121,
+                "service_icon": "https:\/\/www.virtual-assembly.org\/wp-content\/uploads\/2016\/10\/cropped-ms-icon-310x310-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.virtual-assembly.org\/faire-systemes-episode-1-refaire-le-web\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y+v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dans le cadre du projet "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CDH3LMXFX"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", je vais essayer de me rendre au nouveau cycle d’événement de l’Assemblée Virtuelle au Grand Voisin\n\nPremière rencontre ce mercredi cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.virtual-assembly.org\/faire-systemes-episode-1-refaire-le-web\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1574716931.003700",
+        "client_msg_id": "509CB05C-CFE0-4B6C-8D9D-DECDDA3A85BB",
+        "text": "cc <@U03FC5ZAK> <@ULSDVUUVA> et les slides UX du premier talk : <https:\/\/speakerdeck.com\/mozilla_fr\/ux-design-dans-la-realite-virtuelle?slide=14>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573910307.000500",
+        "parent_user_id": "U59MQ46DA",
+        "attachments": [
+            {
+                "service_name": "Speaker Deck",
+                "title": "UX Design dans la réalité virtuelle",
+                "title_link": "https:\/\/speakerdeck.com\/mozilla_fr\/ux-design-dans-la-realite-virtuelle?slide=14",
+                "text": "Présentation de Pol Goasdoué à EEMI",
+                "fallback": "Speaker Deck: UX Design dans la réalité virtuelle",
+                "image_url": "https:\/\/speakerd.s3.amazonaws.com\/presentations\/206508284b9246feb04c2b12f2e8ee30\/slide_0.jpg?577036",
+                "from_url": "https:\/\/speakerdeck.com\/mozilla_fr\/ux-design-dans-la-realite-virtuelle?slide=14",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 25963,
+                "service_icon": "https:\/\/d2dfho4r6t7asi.cloudfront.net\/assets\/favicon-c0fe5475f88a65b817c8cc7c0fedc01b7acc17fe27628fa13ca3f96e56e16977.png",
+                "id": 1,
+                "original_url": "https:\/\/speakerdeck.com\/mozilla_fr\/ux-design-dans-la-realite-virtuelle?slide=14"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vPv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "ULSDVUUVA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et les slides UX du premier talk : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/speakerdeck.com\/mozilla_fr\/ux-design-dans-la-realite-virtuelle?slide=14"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1574725894.004500",
+        "client_msg_id": "e286498e-9216-4c3b-bd57-cd9f25419e33",
+        "text": "Be there too :wink:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D4uU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Be there too "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "ULSDVUUVA",
+        "type": "message",
+        "ts": "1574744824.004900",
+        "client_msg_id": "78fcf168-0203-4fe1-90ce-964a1141493c",
+        "text": "Vous connaissez Christophe d'où?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "d6568f25a9a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-08\/3075305835828_d6568f25a9a41b2be2ef_72.jpg",
+            "first_name": "Maike",
+            "real_name": "Maike",
+            "display_name": "Maike",
+            "team": "T03FC4NDZ",
+            "name": "maikeherbort",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573910307.000500",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8wsZk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vous connaissez Christophe d'où?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

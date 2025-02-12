@@ -1,0 +1,67 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1506027765.000379",
+        "text": "Coucou\nOn m'a conseillé cet ouvrage ce soir au LabVR Storycode\n<https:\/\/www.babelio.com\/livres\/Demoulin-Robinson\/888026>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Babelio",
+                "title": "Robinson - Laurent Demoulin - Babelio",
+                "title_link": "https:\/\/www.babelio.com\/livres\/Demoulin-Robinson\/888026",
+                "text": "Critiques, citations, extraits de Robinson de Laurent Demoulin. Laurent Demoulin a deux vies. Dans le civil il est un universitaire br...",
+                "fallback": "Babelio: Robinson - Laurent Demoulin - Babelio",
+                "thumb_url": "http:\/\/ecx.images-amazon.com\/images\/I\/41XPJ2zAOVL._SX195_.jpg",
+                "from_url": "https:\/\/www.babelio.com\/livres\/Demoulin-Robinson\/888026",
+                "thumb_width": 195,
+                "thumb_height": 285,
+                "service_icon": "https:\/\/www.babelio.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yD4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coucou\nOn m'a conseillé cet ouvrage ce soir au LabVR Storycode\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.babelio.com\/livres\/Demoulin-Robinson\/888026"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0AR01SPQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

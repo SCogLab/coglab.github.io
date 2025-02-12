@@ -1,0 +1,93 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1531146447.000349",
+        "edited": {
+            "user": "U03FC5ZAK",
+            "ts": "1531146472.000000"
+        },
+        "client_msg_id": "c6ede30a-a464-4d96-b615-abed62541e96",
+        "text": "Hello\n\nDe retour de congé, je suis de nouveau disponible online et pour les hacknight !\n\nJe relaie un événement organisé par l’équipe <#C1S2538QL|community-neurotechx> (je vais l’ajouter sur l’agenda).\n\n---\n\n*Webinar : EEG Notebooks*\nNeuroTechX would like to invite you to our first online webinar! These webinars serve as an opportunity for you to learn about the fantastic initiatives that our international community tirelessly work on. Our first Webinar will be presenting @dano’s project EEG Notebooks: An Accessible, Affordable, and Scalable Cognitive Neuroscience Research Platform.  The Webinar will be happening July 24th at 12 PM Eastern. Sign up here! <https:\/\/goo.gl\/forms\/jVEgh7o5mEkZgwe03>\n\n---\n\nA noter que le prochain webinar aura lieu en aout sur le thème VR &amp; EEG :heart:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Google Docs",
+                "title": "Webinar Signup Form",
+                "title_link": "https:\/\/goo.gl\/forms\/jVEgh7o5mEkZgwe03",
+                "text": "Please Signup for the upcoming NeuroTechX Webinar: Title: EEG Notebooks: An Accessible, Affordable, and Scalable Cognitive Neuroscience Research Platform Abstract: The rise of low-cost consumer EEG devices has made it easier than ever for students and enthusiasts to access neural data. However, pay-for-access licensing and a lack of beginner-friendly tools has lead to frustration amongst potential newcomers and restricted the use of these devices as research tools to those with programming experience. EEG Notebooks aims to address this problem by providing an accessible, reliable, and open source framework for performing EEG experiments with Python and Jupyter Notebooks. The project is being debuted this year at a number of high schools in the Toronto and New York areas, where it is being used as a platform to provide hands-on neuroscience, psychology, and scientific computing education. With the support, contributions, and extensions from the NeuroTechX and the broader neuroscience research and education communities, this project hopes to develop much-needed bridges between the research, education, and technology sectors. Presenter: Dano Morrison holds MSc. in Neuroscience from the University of Toronto and has 2 years of experience building applications for desktop, mobile, and web. After leaving the lab, Dano decided to shift his focus to the emerging neurotechnology industry and built EEG 101, an interactive neuroscience educational tool for Android that makes use of real-time EEG data",
+                "fallback": "Google Docs: Webinar Signup Form",
+                "image_url": "https:\/\/lh6.googleusercontent.com\/VvNauHjWC5g8CGcInDVam7euBLXzNterF0DRVDJpHL8-xW_VTWj1kbeITih_yZCrq0U",
+                "image_width": 333,
+                "image_height": 250,
+                "from_url": "https:\/\/goo.gl\/forms\/jVEgh7o5mEkZgwe03",
+                "image_bytes": 307980,
+                "service_icon": "http:\/\/ssl.gstatic.com\/docs\/forms\/device_home\/ios_120.png",
+                "id": 1,
+                "original_url": "https:\/\/goo.gl\/forms\/jVEgh7o5mEkZgwe03"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2C2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello\n\nDe retour de congé, je suis de nouveau disponible online et pour les hacknight !\n\nJe relaie un événement organisé par l’équipe "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C1S2538QL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (je vais l’ajouter sur l’agenda).\n\n---\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Webinar : EEG Notebooks",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nNeuroTechX would like to invite you to our first online webinar! These webinars serve as an opportunity for you to learn about the fantastic initiatives that our international community tirelessly work on. Our first Webinar will be presenting @dano’s project EEG Notebooks: An Accessible, Affordable, and Scalable Cognitive Neuroscience Research Platform.  The Webinar will be happening July 24th at 12 PM Eastern. Sign up here! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/goo.gl\/forms\/jVEgh7o5mEkZgwe03"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n---\n\nA noter que le prochain webinar aura lieu en aout sur le thème VR & EEG "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart",
+                                "unicode": "2764-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

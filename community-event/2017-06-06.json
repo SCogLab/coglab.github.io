@@ -1,0 +1,24 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "[CogLab] Réunion Bureau: <!date^1496770200^{date_short_pretty} from {time}|Jun 6, 2017 from 7:30 PM> to <!date^1496775600^{time}|9:00 PM GMT+0200>",
+                "text": "<!date^1496770200^{date_short_pretty} from {time}|Jun 6, 2017 from 7:30 PM> to <!date^1496775600^{time}|9:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Skype|Skype>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "[CogLab] Réunion Bureau",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=aDNoMzZzYjFkaWh1dTdvbWtna2Uzb2Vtc2sgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1496766600.497289",
+        "bot_id": "B4SJBP2L8"
+    }
+]

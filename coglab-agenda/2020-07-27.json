@@ -1,0 +1,71 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #157 [Online]: <!date^1595867400^{date_short_pretty} from {time}|July 27th, 2020 from 6:30 PM> to <!date^1595876400^{time}|9:00 PM GMT+0200>",
+                "text": "<!date^1595867400^{date_short_pretty} from {time}|July 27th, 2020 from 6:30 PM> to <!date^1595876400^{time}|9:00 PM GMT+0200> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #157 [Online]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MWhjdTdzMnRsZnVoaTZidHNjcjEwbXRlaW4gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1595863801.000500",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: [Option] Apéro CogLab IRL: <!date^1596643200^{date_short_pretty} from {time}|August 5th, 2020 from 6:00 PM> to <!date^1596650400^{time}|8:00 PM GMT+0200>",
+                "text": "<!date^1596643200^{date_short_pretty} from {time}|August 5th, 2020 from 6:00 PM> to <!date^1596650400^{time}|8:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Quai+de+la+Seine%2C+75019+Paris%2C+France|Quai de la Seine, 75019 Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "[Option] Apéro CogLab IRL",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MzY0bzZkbGYxanNvZjE5cTg5YTl2NG5naHIgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1595874424.000600",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: CogLab HackNight #158 [Online]: <!date^1596472200^{date_short_pretty} from {time}|August 3rd, 2020 from 6:30 PM> to <!date^1596481200^{time}|9:00 PM GMT+0200>",
+                "text": "<!date^1596472200^{date_short_pretty} from {time}|August 3rd, 2020 from 6:30 PM> to <!date^1596481200^{time}|9:00 PM GMT+0200> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "pretext": "New calendar event created",
+                "title": "CogLab HackNight #158 [Online]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NW02N3JxbHZzaGoxcGR1ajdmYWdkOWhvZ2Ugc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1595874606.000700",
+        "bot_id": "B4SJBP2L8"
+    }
+]

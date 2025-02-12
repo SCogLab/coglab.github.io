@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #204: <!date^1632155400^{date_short_pretty} from {time}|September 20th, 2021 from 6:30 PM> to <!date^1632164400^{time}|9:00 PM GMT+0200>",
+                "text": "<!date^1632155400^{date_short_pretty} from {time}|September 20th, 2021 from 6:30 PM> to <!date^1632164400^{time}|9:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Cri%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France%2C+Charles+V-0-MakerLab+Classroom+%2830%29|Cri, 8 bis Rue Charles V, 75004 Paris, France, Charles V-0-MakerLab Classroom (30)>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #204",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=YW1ndmJnOWloY2liZzJmMWlocTE1aHA1dGxfMjAyMTA5MjBUMTYzMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1632151802.000200",
+        "bot_id": "B4SJBP2L8"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U03JDJWSR",
+        "text": "<@U03JDJWSR> a rejoint le canal",
+        "inviter": "U03FC4NE1",
+        "type": "message",
+        "ts": "1425855127.000002"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03UF3DCB",
+        "text": "<@U03UF3DCB> a rejoint le canal",
+        "inviter": "U03FC4NE1",
+        "type": "message",
+        "ts": "1425855127.000003"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FEH3N8",
+        "text": "<@U03FEH3N8> a rejoint le canal",
+        "inviter": "U03FC4NE1",
+        "type": "message",
+        "ts": "1425855127.000004"
+    },
+    {
+        "user": "U03FC4NE1",
+        "type": "message",
+        "ts": "1425856119.000005",
+        "text": "<http:\/\/forumsciencescognitives.com\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ce8fbc12b73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-01-27\/3522174799_7ce8fbc12b7351a6a2b3_72.jpg",
+            "first_name": "CogLab",
+            "real_name": "CogLab NeuroTechX Paris",
+            "display_name": "coglab",
+            "team": "T03FC4NDZ",
+            "name": "coglab",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5O4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/forumsciencescognitives.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_name",
+        "user": "U03FC4NE1",
+        "old_name": "event-coglabsummit",
+        "name": "event-fsc-coglab-v2",
+        "text": "a changé le nom du canal de « event-coglabsummit » en « event-fsc-coglab-v2 »",
+        "type": "message",
+        "ts": "1425856302.000006"
+    }
+]

@@ -1,0 +1,170 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1630523444.000100",
+        "bot_id": "B02DGMZQ3S5",
+        "text": "Impossible d’afficher ce contenu.",
+        "team": "T03FC4NDZ",
+        "bot_profile": {
+            "id": "B02DGMZQ3S5",
+            "deleted": false,
+            "name": "Trello",
+            "updated": 1657574201,
+            "app_id": "A074YH40Z",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-07-19\/2282472048054_9a51d280179d828b3ad7_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-07-19\/2282472048054_9a51d280179d828b3ad7_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-19\/2282472048054_9a51d280179d828b3ad7_72.png"
+            },
+            "team_id": "T03FC4NDZ"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "ceqZ",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*<https:\/\/trello.com\/c\/dwsF4NcE|NeuroTechX Conectome EU (project)>*\nIn list *PROJETS partenaires* on *<https:\/\/trello.com\/b\/NFHS3ZPa|Activités CogLab (public)>*",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "f6A5b",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": ":speech_balloon: 4  :paperclip: 1  :ballot_box_with_check: 0\/2  :bust_in_silhouette: Hans Harisson, Maike  ",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "actions",
+                "block_id": "3p7X",
+                "elements": [
+                    {
+                        "type": "static_select",
+                        "action_id": "card-actions",
+                        "placeholder": {
+                            "type": "plain_text",
+                            "text": "Quick actions",
+                            "emoji": true
+                        },
+                        "options": [
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Add members",
+                                    "emoji": true
+                                },
+                                "value": "{\"action\":\"openAddMembersModal\",\"idCard\":\"612fc267a3bb4d501e1deaa8\"}"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Add labels",
+                                    "emoji": true
+                                },
+                                "value": "{\"action\":\"openAddLabelsModal\",\"idCard\":\"612fc267a3bb4d501e1deaa8\"}"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Add checklist",
+                                    "emoji": true
+                                },
+                                "value": "{\"action\":\"openAddChecklistModal\",\"idCard\":\"612fc267a3bb4d501e1deaa8\"}"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Set due date",
+                                    "emoji": true
+                                },
+                                "value": "{\"action\":\"openSetDueModal\",\"idCard\":\"612fc267a3bb4d501e1deaa8\"}"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Move",
+                                    "emoji": true
+                                },
+                                "value": "{\"action\":\"openMoveModal\",\"idCard\":\"612fc267a3bb4d501e1deaa8\"}"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Join card",
+                                    "emoji": true
+                                },
+                                "value": "{\"action\":\"join\",\"idCard\":\"612fc267a3bb4d501e1deaa8\"}"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Subscribe",
+                                    "emoji": true
+                                },
+                                "value": "{\"action\":\"subscribe\",\"idCard\":\"612fc267a3bb4d501e1deaa8\"}"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Add comment",
+                                    "emoji": true
+                                },
+                                "value": "{\"action\":\"openAddCommentModal\",\"idCard\":\"612fc267a3bb4d501e1deaa8\"}"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Attach conversation",
+                                    "emoji": true
+                                },
+                                "value": "{\"action\":\"link\",\"idCard\":\"612fc267a3bb4d501e1deaa8\"}"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "See card details",
+                                    "emoji": true
+                                },
+                                "value": "{\"action\":\"openCardDetailsModal\",\"idCard\":\"612fc267a3bb4d501e1deaa8\"}"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "block_id": "WsdI",
+                "fields": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "*Labels:*\nNeuroTechX",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "block_id": "YWVC",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Description:*\n#Synthèse\n\nRéférents\n- Global Conectome manager : Bryan\n- EU connectome : @hansharisson1 ?\n\nChapitres NeuroTechX Européens (cf carte de @hanshariss...",
+                    "verbatim": false
+                }
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U66K73ES0",
+        "text": "<@U66K73ES0> a rejoint le canal",
+        "inviter": "U59MQ46DA",
+        "type": "message",
+        "ts": "1630526236.000500"
+    }
+]

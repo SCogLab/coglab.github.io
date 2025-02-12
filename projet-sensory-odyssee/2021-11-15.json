@@ -1,0 +1,376 @@
+[
+    {
+        "user": "U02GLDKAWQ2",
+        "type": "message",
+        "ts": "1637005688.007600",
+        "client_msg_id": "b44dfede-3040-4655-82a7-ffa73f136c96",
+        "text": "Bonsoir, voici une ébauche du formulaire de consentement et de la notice d'information (dans le dossier drive partagé) : <https:\/\/docs.google.com\/document\/d\/1dw8SDYWNDKJ4jTwNuv3StAltMsNX031M\/edit>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "07907cc25c46",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-05\/2590402880352_07907cc25c46364153a5_72.jpg",
+            "first_name": "Adrien",
+            "real_name": "Adrien Paire",
+            "display_name": "Adrien Paire",
+            "team": "T03FC4NDZ",
+            "name": "adrienpaire",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637005688.007600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1637005739.007800",
+        "reply_users": [
+            "U02GLDKAWQ2"
+        ],
+        "replies": [
+            {
+                "user": "U02GLDKAWQ2",
+                "ts": "1637005739.007800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qxC5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonsoir, voici une ébauche du formulaire de consentement et de la notice d'information (dans le dossier drive partagé) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1dw8SDYWNDKJ4jTwNuv3StAltMsNX031M\/edit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02GLDKAWQ2",
+        "type": "message",
+        "ts": "1637005739.007800",
+        "client_msg_id": "4eeefb39-707a-481d-90f2-258c1775575e",
+        "text": "N'hésitez pas à commenter et\/ou apporter des modifications :)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "07907cc25c46",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-05\/2590402880352_07907cc25c46364153a5_72.jpg",
+            "first_name": "Adrien",
+            "real_name": "Adrien Paire",
+            "display_name": "Adrien Paire",
+            "team": "T03FC4NDZ",
+            "name": "adrienpaire",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1637005688.007600",
+        "parent_user_id": "U02GLDKAWQ2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4hWph",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "N'hésitez pas à commenter et\/ou apporter des modifications :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1637009315.022500",
+        "client_msg_id": "35bbc78b-43f0-41c4-af5f-67b84945bf43",
+        "text": "Hello\n\n*Slide de la rencontre de mardi dernier*\nCe soir j’ai itéré sur le déroulé de la présentation, en particulier toute la partie exploratoire. Ça me parait un peu plus cohérent même si ça manque encore de détail.\nEn l’état vous pouvez a priori diffuser côté COGitERGO avec <https:\/\/docs.google.com\/presentation\/d\/1e_lcbQ28YaUYueEWJwfj79B8JvYSUqIoCkOSlXgHiPo\/edit?usp=sharing|ce lien> sauf s’il y a d’autre retour d’ici mercredi\n\n*Itération sur le protocole*\nLa team COGitERGO (<@U02GLDK69UJ> <@U02GLDKAWQ2> <@U02MAJBVBEZ>) à également apporté sa contribution ce soir. J’ai rassemblé le tout dans un <https:\/\/drive.google.com\/drive\/folders\/1DWTiX3kMQ7gwmukoNKfn5ZW9MYyBURW_|répertoire>.\nOn as eu un échange intéressant, en particulier sur la baseline. Entre nature (jardin du musée), expo classique (grande galerie ?), la mini-expo de fin de SO, une visite en VR, nos :heart: balancent toujours.\nJe propose de faire appel à <@ULSDVUUVA> &amp; <@U03FEH3N8> pour récolter vos avis et conseil sur le sujet ! Je vais revenir vers vous pour en discuter.\n\n*Rétroplanning*\nVoici quelques dates \/ objectifs pour être opérationnel à horizon janvier 2022.\n• Mardi 23 nov : on va proposer un checkpoint scientifico-logistique à SO avec <@UAMPR1P5L> &amp; <@U01RUJ02ECS>. Serais-tu dispo en début d’après-midi Sylvain ? L’idée serait de détailler nos différents protocoles et préparer une réunion avec le Muséum.\n• Mardi 30 nov : on va propose une réunion avec le Muséum pour se synchroniser sur tout les aspects logistique (planning, espace de test, accès, pre-test des questionnaires auprès des visiteurs, recrutement des cohortes, ...)\n• Première semaine de décembre : organisation d’un pré-test au CRI pour éprouver l’acquisition des données et notre protocole de test\n• Le reste du mois de décembre sera à priori focalisé sur des itérations, synchronisation entre les équipes et une pause pendant les fêtes !\nJ’envois les propositions de réunion d’ici demain soir auprès de SO.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "507b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slide de la rencontre de mardi dernier",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nCe soir j’ai itéré sur le déroulé de la présentation, en particulier toute la partie exploratoire. Ça me parait un peu plus cohérent même si ça manque encore de détail.\nEn l’état vous pouvez a priori diffuser côté COGitERGO avec "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/presentation\/d\/1e_lcbQ28YaUYueEWJwfj79B8JvYSUqIoCkOSlXgHiPo\/edit?usp=sharing",
+                                "text": "ce lien"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sauf s’il y a d’autre retour d’ici mercredi\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Itération sur le protocole",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nLa team COGitERGO ("
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02GLDK69UJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02GLDKAWQ2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02MAJBVBEZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") à également apporté sa contribution ce soir. J’ai rassemblé le tout dans un "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1DWTiX3kMQ7gwmukoNKfn5ZW9MYyBURW_",
+                                "text": "répertoire"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\nOn as eu un échange intéressant, en particulier sur la baseline. Entre nature (jardin du musée), expo classique (grande galerie ?), la mini-expo de fin de SO, une visite en VR, nos "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart",
+                                "unicode": "2764-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " balancent toujours.\nJe propose de faire appel à "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "ULSDVUUVA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " & "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour récolter vos avis et conseil sur le sujet ! Je vais revenir vers vous pour en discuter.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Rétroplanning",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nVoici quelques dates \/ objectifs pour être opérationnel à horizon janvier 2022.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Mardi 23 nov : on va proposer un checkpoint scientifico-logistique à SO avec "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "UAMPR1P5L"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " & "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01RUJ02ECS"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". Serais-tu dispo en début d’après-midi Sylvain ? L’idée serait de détailler nos différents protocoles et préparer une réunion avec le Muséum."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Mardi 30 nov : on va propose une réunion avec le Muséum pour se synchroniser sur tout les aspects logistique (planning, espace de test, accès, pre-test des questionnaires auprès des visiteurs, recrutement des cohortes, ...)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Première semaine de décembre : organisation d’un pré-test au CRI pour éprouver l’acquisition des données et notre protocole de test"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Le reste du mois de décembre sera à priori focalisé sur des itérations, synchronisation entre les équipes et une pause pendant les fêtes !"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’envois les propositions de réunion d’ici demain soir auprès de SO."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02GLDKAWQ2",
+                    "U02GLDK69UJ",
+                    "U03FEH3N8"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U02MAJBVBEZ",
+        "text": "<@U02MAJBVBEZ> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1637009319.022900"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1637009387.023700",
+        "client_msg_id": "364f9581-8d04-4f4d-b796-4651cc5e81ad",
+        "text": "Voilà, n’hésitez pas à apporter vos retours et signaler vos actions.\nEt bienvenue à <@U02MAJBVBEZ> :wave:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5\/g=s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Voilà, n’hésitez pas à apporter vos retours et signaler vos actions.\nEt bienvenue à "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02MAJBVBEZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

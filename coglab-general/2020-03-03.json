@@ -1,0 +1,102 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "UUC2JHAMR",
+        "text": "<@UUC2JHAMR> a rejoint le canal",
+        "type": "message",
+        "ts": "1583241914.003700"
+    },
+    {
+        "user": "UUC2JHAMR",
+        "type": "message",
+        "ts": "1583246452.003900",
+        "client_msg_id": "f444e743-af85-46b6-92cd-30be3e115463",
+        "text": "Hello à tous !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1a4774e3468b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-10\/990974570133_1a4774e3468bddbf7b07_72.png",
+            "first_name": "Nicolas",
+            "real_name": "Nicolas",
+            "display_name": "Nicolas",
+            "team": "T03FC4NDZ",
+            "name": "nrauber",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DL=5\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "spock-hand",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1583257436.004800",
+        "client_msg_id": "74D3CDB9-B1E4-4E20-AEC3-20629F213B7C",
+        "text": "Hello <@UUC2JHAMR> !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uIw1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUC2JHAMR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U066WGAJLFM",
+        "text": "<@U066WGAJLFM> a rejoint le canal",
+        "type": "message",
+        "ts": "1700656946.152929",
+        "team": "T03FC4NDZ"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U067MHJN22U",
+        "text": "<@U067MHJN22U> a rejoint le canal",
+        "type": "message",
+        "ts": "1700676657.562629",
+        "team": "T03FC4NDZ"
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1700697635.992009",
+        "client_msg_id": "bacaa78d-b585-4b64-9de4-923d5e7fc078",
+        "text": "<@U058UQCU7R9> Je vous enverrai le mail demain matin, je suis rentré un peu tard et je suis HS",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F9ziN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U058UQCU7R9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Je vous enverrai le mail demain matin, je suis rentré un peu tard et je suis HS"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U058UQCU7R9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

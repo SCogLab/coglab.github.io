@@ -1,0 +1,53 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1584962611.000300",
+        "client_msg_id": "d03bf622-3a60-472c-9629-0ad5c383828b",
+        "text": "<https:\/\/www.limbix.com\/vrlibrary>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "   Limbix | VR Library    ",
+                "title_link": "https:\/\/www.limbix.com\/vrlibrary",
+                "text": "Use the Limbix VR Kit in your mental health clinic or hospital to treat anxiety, trauma, addiction, and depression based disorders with virtual reality therapy.",
+                "fallback": "   Limbix | VR Library    ",
+                "from_url": "https:\/\/www.limbix.com\/vrlibrary",
+                "service_icon": "https:\/\/www.limbix.com\/gulp\/root_assets\/apple-touch-icon-464841aa65.png",
+                "service_name": "limbix.com",
+                "id": 1,
+                "original_url": "https:\/\/www.limbix.com\/vrlibrary"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N77WS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.limbix.com\/vrlibrary"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

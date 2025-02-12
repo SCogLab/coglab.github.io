@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1574710719.000200",
+        "client_msg_id": "316753eb-52f4-4451-af89-2c752c37e443",
+        "text": "<https:\/\/www.youtube.com\/watch?v=VVesO5hOHng&amp;feature=youtu.be>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "2019 November WebXR SF Meetup - Connecting Humans with AI, XR and AR",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=VVesO5hOHng&amp;feature=youtu.be",
+                "author_name": "Kieran Farr",
+                "author_link": "https:\/\/www.youtube.com\/user\/ghaj56",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/VVesO5hOHng\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: 2019 November WebXR SF Meetup - Connecting Humans with AI, XR and AR",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/VVesO5hOHng?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=VVesO5hOHng&amp;feature=youtu.be",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=VVesO5hOHng&amp;feature=youtu.be"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ly1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=VVesO5hOHng&feature=youtu.be"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

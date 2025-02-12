@@ -1,0 +1,231 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U03FC5ZAK",
+        "text": "<@U03FC5ZAK> a rejoint le canal",
+        "type": "message",
+        "ts": "1586947431.000200"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC5ZAK",
+        "purpose": "Constitution d'un Abécédaire des neuromythes sous forme de fiches illustrée (vulgarisation)",
+        "text": "a défini la description du canal : Constitution d'un Abécédaire des neuromythes sous forme de fiches illustrée (vulgarisation)",
+        "type": "message",
+        "ts": "1586947431.000300"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U59MQ46DA",
+        "text": "<@U59MQ46DA> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1586947454.000500"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "ULSDVUUVA",
+        "text": "<@ULSDVUUVA> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1586947454.000700"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FEH3N8",
+        "text": "<@U03FEH3N8> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1586947454.000900"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1586947456.001100",
+        "client_msg_id": "703b0a15-91be-41bd-8264-1625b65fb894",
+        "text": "<https:\/\/lab.omind.me\/serie-neuro-mythes-2-cerveau-droit-cerveau-gauche\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Open Mind Neurotechnologies",
+                "title": "Neurosciences | Faire tomber les neuro mythes : Cerveau droit &amp; cerveau gauche| EPISODE 2 - Open Mind Neurotechnologies",
+                "title_link": "https:\/\/lab.omind.me\/serie-neuro-mythes-2-cerveau-droit-cerveau-gauche\/",
+                "fallback": "Open Mind Neurotechnologies: Neurosciences | Faire tomber les neuro mythes : Cerveau droit &amp; cerveau gauche| EPISODE 2 - Open Mind Neurotechnologies",
+                "image_url": "https:\/\/lab.omind.me\/wp-content\/uploads\/2020\/03\/2-1024x576.png",
+                "image_width": 444,
+                "image_height": 250,
+                "ts": 1586844379,
+                "from_url": "https:\/\/lab.omind.me\/serie-neuro-mythes-2-cerveau-droit-cerveau-gauche\/",
+                "image_bytes": 452937,
+                "service_icon": "https:\/\/lab.omind.me\/wp-content\/uploads\/2018\/10\/favicon-open-mind.png",
+                "id": 1,
+                "original_url": "https:\/\/lab.omind.me\/serie-neuro-mythes-2-cerveau-droit-cerveau-gauche\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T5kLM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/lab.omind.me\/serie-neuro-mythes-2-cerveau-droit-cerveau-gauche\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1586960229.001700",
+        "client_msg_id": "3194083e-ed52-4b96-ba26-0f663dd243ff",
+        "text": "hmm c'est un vieux projet  ou je confonds avec des choses qu'on aurait déjà discuté ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586960229.001700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586960429.001800",
+        "reply_users": [
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1586960429.001800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZYVpm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hmm c'est un vieux projet  ou je confonds avec des choses qu'on aurait déjà discuté ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1586960429.001800",
+        "client_msg_id": "61f13746-569a-4fbc-9bb9-4ed82fc5570f",
+        "text": "oui c’est un vieux projet que je remets ici (comme indiqué sur <#C03FC4NE9|coglab-general> )\n\nça me trotte toujours dans la tête ces histoires\n• les neuromythes ont la vie dur\n• perso je suis loin de tous les connaître \/ maîtriser\n• j’aimerais trouver des ressources pour au moins bien aiguiller les personnes quand on y est confronté, à défaut de pouvoir en produire pour le moment",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586960229.001700",
+        "parent_user_id": "U03FEH3N8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d26p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oui c’est un vieux projet que je remets ici (comme indiqué sur "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03FC4NE9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " )\n\nça me trotte toujours dans la tête ces histoires\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "les neuromythes ont la vie dur"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "perso je suis loin de tous les connaître \/ maîtriser"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "j’aimerais trouver des ressources pour au moins bien aiguiller les personnes quand on y est confronté, à défaut de pouvoir en produire pour le moment"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

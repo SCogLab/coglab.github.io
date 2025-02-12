@@ -1,0 +1,60 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1702751090.217709",
+        "client_msg_id": "8713a1b0-9988-4700-9408-5a63e3ef5507",
+        "text": "On a parlé robotique lors de notre dernière hacknight, je rappelle que nous avons un canal d'information\/veille sur le sujet <#CFYSX9T8T|veille-robotic> et qu'il y a un hackathon à Bordeaux sur cette thématique les 9 et 11 février 2024 cf <#C03UHNB2H|community-event>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zTnUt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On a parlé robotique lors de notre dernière hacknight, je rappelle que nous avons un canal d'information\/veille sur le sujet "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CFYSX9T8T"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et qu'il y a un hackathon à Bordeaux sur cette thématique les 9 et 11 février 2024 cf "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03UHNB2H"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06AGU5C3GA",
+        "text": "<@U06AGU5C3GA> a rejoint le canal",
+        "type": "message",
+        "ts": "1702765695.963399",
+        "team": "T03FC4NDZ"
+    }
+]

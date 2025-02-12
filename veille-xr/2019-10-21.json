@@ -1,0 +1,122 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1571651601.001300",
+        "client_msg_id": "14bfe276-8cfb-43ef-a1cc-fa45ad9cb428",
+        "text": "Projet AR open source de manipulation d’objets virtuels combinant smartphone, leap motion (+petit PC) : <https:\/\/github.com\/brownhci\/portalble>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "brownhci\/Portalble",
+                "text": "Open-source portalble",
+                "title": "brownhci\/Portalble",
+                "footer": "<https:\/\/github.com\/brownhci\/Portalble|brownhci\/Portalble>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1569685450,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "17",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "C#",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "BA73T1BTJ",
+                "app_unfurl_url": "https:\/\/github.com\/brownhci\/portalble",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ve0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Projet AR open source de manipulation d’objets virtuels combinant smartphone, leap motion (+petit PC) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/brownhci\/portalble"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FEH3N8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1571653472.002000",
+        "client_msg_id": "36bfad18-7ae3-4aa0-b2cd-c1cc4f30acc3",
+        "text": "Hum... il faut toujours Windows pour la partie PC",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rHOJY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hum... il faut toujours Windows pour la partie PC"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

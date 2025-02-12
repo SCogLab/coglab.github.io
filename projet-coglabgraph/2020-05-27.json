@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1590601302.000900",
+        "client_msg_id": "7c21fbd4-a740-44f3-9f2f-46c2e9206521",
+        "text": "Suite au meetup #1 Datavis Paris, j’ai fait une fiche Trello récapitulative : <https:\/\/trello.com\/c\/iErXgUlR>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Trello",
+                "title": "Meetup #1 Data Visualisation Paris on Activités CogLab (public)",
+                "title_link": "https:\/\/trello.com\/c\/iErXgUlR",
+                "text": "Meetup parisien sur la data visualisation organisé par Evelina Judeikyte et Lucie Bailly, sous l'angle business\/BI mais pas que : * REX du 1er vainqueur français de l'IronViz (Tristan Guillevin) ...",
+                "fallback": "Trello: Meetup #1 Data Visualisation Paris on Activités CogLab (public)",
+                "image_url": "https:\/\/trello-attachments.s3.amazonaws.com\/5ece32d5913c701b52147919\/465x357\/31dbb697414d523c01afecca0fb7cb5c\/DataViz_Paris_logo.png",
+                "image_width": 326,
+                "image_height": 250,
+                "from_url": "https:\/\/trello.com\/c\/iErXgUlR",
+                "image_bytes": 54031,
+                "service_icon": "https:\/\/trello.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/trello.com\/c\/iErXgUlR"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KMJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Suite au meetup #1 Datavis Paris, j’ai fait une fiche Trello récapitulative : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/trello.com\/c\/iErXgUlR"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CogLab HackNight #204: <!date^1630341000^{date_short_pretty} from {time}|August 30th, 2021 from 6:30 PM> to <!date^1630350000^{time}|9:00 PM GMT+0200>\nRecurring every week on Monday until <!date^1635199199^{date_pretty}|October 25th, 2021>",
+                "text": "<!date^1630341000^{date_short_pretty} from {time}|August 30th, 2021 from 6:30 PM> to <!date^1630350000^{time}|9:00 PM GMT+0200>\nRecurring every week on Monday until <!date^1635199199^{date_pretty}|October 25th, 2021> at <https:\/\/maps.google.com\/maps?q=Cri%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France%2C+Charles+V-0-MakerLab+Classroom+%2830%29|Cri, 8 bis Rue Charles V, 75004 Paris, France, Charles V-0-MakerLab Classroom (30)>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab HackNight #204",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=YW1ndmJnOWloY2liZzJmMWlocTE1aHA1dGxfMjAyMTA4MzBUMTYzMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1630930518.002100",
+        "bot_id": "B4SJBP2L8"
+    }
+]

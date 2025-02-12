@@ -1,0 +1,115 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U03FC5ZAK",
+        "text": "<@U03FC5ZAK> a rejoint le canal",
+        "type": "message",
+        "ts": "1423513021.000002"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC5ZAK",
+        "purpose": "Meetup Rêve &amp; Eveil",
+        "text": "a défini la description du canal : Meetup Rêve &amp; Eveil",
+        "type": "message",
+        "ts": "1423513022.000003"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FC4NE1",
+        "text": "<@U03FC4NE1> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1423513033.000004"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03HY4P8V",
+        "text": "<@U03HY4P8V> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1423513033.000005"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC5ZAK",
+        "purpose": "Meetup Rêve &amp; Eveil",
+        "text": "a défini la description du canal : Meetup Rêve &amp; Eveil",
+        "type": "message",
+        "ts": "1423513118.000006"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC5ZAK",
+        "purpose": "Meetup Rêve &amp; Eveil : https:\/\/coglab.hackpad.com\/Meetup-6-Rve-Eveil-7qWrUQsS7LX",
+        "text": "a défini la description du canal : Meetup Rêve &amp; Eveil : https:\/\/coglab.hackpad.com\/Meetup-6-Rve-Eveil-7qWrUQsS7LX",
+        "type": "message",
+        "ts": "1423513131.000007"
+    },
+    {
+        "user": "U03FC4NE1",
+        "type": "message",
+        "ts": "1423516437.000002",
+        "text": "En parlant de rêve, aujourd'hui c'est la journée internationale de l'épilepsie\n<http:\/\/www.indesciences.com\/lenfant-reveur-ou-labsence-epileptique\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ce8fbc12b73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-01-27\/3522174799_7ce8fbc12b7351a6a2b3_72.jpg",
+            "first_name": "CogLab",
+            "real_name": "CogLab NeuroTechX Paris",
+            "display_name": "coglab",
+            "team": "T03FC4NDZ",
+            "name": "coglab",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Indésciences",
+                "title": "L’enfant \"rêveur\" ou l’absence épileptique - Indésciences",
+                "title_link": "http:\/\/www.indesciences.com\/lenfant-reveur-ou-labsence-epileptique\/",
+                "text": "Journée internationale de l'épilepsie",
+                "fallback": "Indésciences: L’enfant \"rêveur\" ou l’absence épileptique - Indésciences",
+                "image_url": "http:\/\/www.indesciences.com\/wp-content\/uploads\/2015\/02\/233512778_663613b899_o.jpg",
+                "ts": 1423517726,
+                "from_url": "http:\/\/www.indesciences.com\/lenfant-reveur-ou-labsence-epileptique\/",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 199053,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8b8V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En parlant de rêve, aujourd'hui c'est la journée internationale de l'épilepsie\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.indesciences.com\/lenfant-reveur-ou-labsence-epileptique\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_name",
+        "user": "U03FC4NE1",
+        "old_name": "event-meetup6",
+        "name": "event-meetup5",
+        "text": "a changé le nom du canal de « event-meetup6 » en « event-meetup5 »",
+        "type": "message",
+        "ts": "1423517618.000004"
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1615803296.004700",
+        "client_msg_id": "1935cf56-be46-446b-a5c6-535f786c49b8",
+        "text": "Merci pour le partage Lisa. Est-ce qu’une captation et\/ou un streaming est prévu ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1615480524.004400",
+        "parent_user_id": "U01J9RAA8H1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WECD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci pour le partage Lisa. Est-ce qu’une captation et\/ou un streaming est prévu ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01J9RAA8H1",
+        "type": "message",
+        "ts": "1615815370.004900",
+        "client_msg_id": "e110a964-b8a2-4ea3-a47a-1ea5ee892838",
+        "text": "Merci à vous pour votre attention :slightly_smiling_face: Malheureusement pas de streaming, mais la captation de chaque talk est diffusée sous forme de vidéo sur le site officiel de TEDx (et sa chaine youtube) quelques mois après son déroulé !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "358dd4c13130",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-08\/1645496664912_358dd4c13130045aea43_72.png",
+            "first_name": "",
+            "real_name": "lisa formentini",
+            "display_name": "lisa formentini",
+            "team": "T03FC4NDZ",
+            "name": "lisa.formentini",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1615480524.004400",
+        "parent_user_id": "U01J9RAA8H1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/yL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci à vous pour votre attention "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Malheureusement pas de streaming, mais la captation de chaque talk est diffusée sous forme de vidéo sur le site officiel de TEDx (et sa chaine youtube) quelques mois après son déroulé !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

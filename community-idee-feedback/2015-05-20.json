@@ -1,0 +1,64 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1432150558.000002",
+        "text": "For you <@U03JDJWSR> <http:\/\/pulse.edf.com\/fr\/neuronaute-le-vetement-qui-diagnostique-lepilepsie>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "« Neuronaute », le vêtement qui diagnostique l’épilepsie",
+                "title_link": "http:\/\/pulse.edf.com\/fr\/neuronaute-le-vetement-qui-diagnostique-lepilepsie",
+                "text": "Des vêtements munis de capteurs biométriques pour suivre au mieux les personnes épileptiques.",
+                "fallback": "« Neuronaute », le vêtement qui diagnostique l’épilepsie",
+                "thumb_url": "http:\/\/pulse.edf.com\/bundles\/fo\/image\/media\/neuronaute_550.jpeg",
+                "from_url": "http:\/\/pulse.edf.com\/fr\/neuronaute-le-vetement-qui-diagnostique-lepilepsie",
+                "thumb_width": 275,
+                "thumb_height": 377,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cLv=w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03JDJWSR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/pulse.edf.com\/fr\/neuronaute-le-vetement-qui-diagnostique-lepilepsie"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

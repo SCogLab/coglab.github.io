@@ -1,0 +1,42 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U03FC4NE1",
+        "text": "<@U03FC4NE1> a rejoint le canal",
+        "type": "message",
+        "ts": "1423140434.000002"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC4NE1",
+        "purpose": "Gestion des flux sociaux",
+        "text": "a défini la description du canal : Gestion des flux sociaux",
+        "type": "message",
+        "ts": "1423140435.000003"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FC5ZAK",
+        "text": "<@U03FC5ZAK> a rejoint le canal",
+        "inviter": "U03FC4NE1",
+        "type": "message",
+        "ts": "1423140443.000004"
+    },
+    {
+        "subtype": "channel_topic",
+        "user": "U03FC4NE1",
+        "topic": "communication",
+        "text": "a défini le thème du canal : communication",
+        "type": "message",
+        "ts": "1423140852.000005"
+    },
+    {
+        "subtype": "channel_name",
+        "user": "U03FC4NE1",
+        "old_name": "community-management",
+        "name": "com-cm",
+        "text": "a changé le nom du canal de « community-management » en « com-cm »",
+        "type": "message",
+        "ts": "1423140882.000006"
+    }
+]

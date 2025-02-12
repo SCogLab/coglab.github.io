@@ -1,0 +1,70 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1612703621.002000",
+        "client_msg_id": "508aca3d-96ed-4454-9d14-e7c519187b36",
+        "text": "Hello, pour la HackNight demain, je vous propose d’évoquer la Semaine du Cerveau en préparation <https:\/\/trello.com\/c\/7GB8Znjv\/224-semaine-du-cerveau-2021>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Trello",
+                "title": "Semaine du Cerveau 2021 on Activités CogLab (public)",
+                "title_link": "https:\/\/trello.com\/c\/7GB8Znjv\/224-semaine-du-cerveau-2021",
+                "text": "Semaine du Cerveau (15-21 mars) Préparation d'une animation pour la semaine du cerveau en binôme avec l'association Ekos (Nancy) ! Répertoire de travail <https:\/\/drive.google.com\/drive\/u\/0\/folders>...",
+                "fallback": "Trello: Semaine du Cerveau 2021 on Activités CogLab (public)",
+                "image_url": "https:\/\/trello-attachments.s3.amazonaws.com\/60054e86357d6f54772a098f\/1024x925\/cbcf012114dc1cf68aeca45f8928bbfd\/logo.png",
+                "image_width": 277,
+                "image_height": 250,
+                "from_url": "https:\/\/trello.com\/c\/7GB8Znjv\/224-semaine-du-cerveau-2021",
+                "image_bytes": 129707,
+                "service_icon": "https:\/\/trello.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/trello.com\/c\/7GB8Znjv\/224-semaine-du-cerveau-2021"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nTCx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, pour la HackNight demain, je vous propose d’évoquer la Semaine du Cerveau en préparation "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/trello.com\/c\/7GB8Znjv\/224-semaine-du-cerveau-2021"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

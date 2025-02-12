@@ -1,0 +1,161 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1529483291.000221",
+        "client_msg_id": "b4ca7fb6-abed-45e5-9f53-a7a01b9a1a2b",
+        "text": "<https:\/\/github.com\/merlin-neurotech\/WizardHat>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1529483291.000221",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1529507412.000742",
+        "reply_users": [
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1529507412.000742"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "fallback": "merlin-neurotech\/WizardHat",
+                "text": "Real-time processing and plotting of data streamed over LSL, with a focus on student-led BCI projects.",
+                "title": "merlin-neurotech\/WizardHat",
+                "footer": "<https:\/\/github.com\/merlin-neurotech\/WizardHat|merlin-neurotech\/WizardHat>",
+                "id": 1,
+                "footer_icon": "https:\/\/assets-cdn.github.com\/favicon.ico",
+                "ts": 1510759383,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "3",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "Python",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "BA73T1BTJ",
+                "app_unfurl_url": "https:\/\/github.com\/merlin-neurotech\/WizardHat",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bCd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/merlin-neurotech\/WizardHat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1529507412.000742",
+        "client_msg_id": "a1f1ddc7-3cfc-4f9a-8fd2-abeb638cc990",
+        "text": "Intéressant, mais il faut s’équiper d’un dongle BLED112 pour la partie BLE sur PC (hors Linux) \/o\\. Il y a le projet d’Adafruit qui pourrait être un début de piste pour cette partie sans dongle : <https:\/\/github.com\/adafruit\/Adafruit_Python_BluefruitLE>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1529483291.000221",
+        "parent_user_id": "U03FC5ZAK",
+        "attachments": [
+            {
+                "fallback": "adafruit\/Adafruit_Python_BluefruitLE",
+                "text": "Python library to simplify access to Bluetooth low energy devices and services on Linux (using bluez) and Mac OSX.",
+                "title": "adafruit\/Adafruit_Python_BluefruitLE",
+                "footer": "<https:\/\/github.com\/adafruit\/Adafruit_Python_BluefruitLE|adafruit\/Adafruit_Python_BluefruitLE>",
+                "id": 1,
+                "footer_icon": "https:\/\/assets-cdn.github.com\/favicon.ico",
+                "ts": 1429214105,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "227",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "Python",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "BA73T1BTJ",
+                "app_unfurl_url": "https:\/\/github.com\/adafruit\/Adafruit_Python_BluefruitLE",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jhIX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Intéressant, mais il faut s’équiper d’un dongle BLED112 pour la partie BLE sur PC (hors Linux) \/o\\. Il y a le projet d’Adafruit qui pourrait être un début de piste pour cette partie sans dongle : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/adafruit\/Adafruit_Python_BluefruitLE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

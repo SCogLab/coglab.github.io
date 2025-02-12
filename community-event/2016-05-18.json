@@ -1,0 +1,74 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1463555856.000002",
+        "text": "Hello,\nSi cela intéresse des gens, le prochain Bricole It est prévu le samedi 4 juin chez Draft Ateliers (Paris 18), de 14h à 19h, puis apéro. \n\nComme d'habitude, ce sera une journée de prototypage sans règle, pour le plaisir, ouverte à tous et gratuite.\n\nToutes les infos sont là : <http:\/\/bit.ly\/1T7gVZv>\nL'événement Facebook : <https:\/\/www.facebook.com\/events\/483781651820993\/>\nEt le récap en images de la 5ème édition : <https:\/\/flic.kr\/s\/aHsknqV1by>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Makery",
+                "title": "Bricole it n°6, samedi 4 juin chez Draft Ateliers",
+                "title_link": "http:\/\/bit.ly\/1T7gVZv",
+                "text": "Makery organise le samedi 4 juin le 6ème Bricole It avec Draft Ateliers. Une journée d'expérimentations hasardeuses et de second degré technologique.",
+                "fallback": "Makery: Bricole it n°6, samedi 4 juin chez Draft Ateliers",
+                "image_url": "http:\/\/cdn.makery.info\/wp-content\/uploads\/2016\/04\/BiY_event_cover_BRICOLE_IT_pas_un_hackathon.jpg",
+                "from_url": "http:\/\/bit.ly\/1T7gVZv",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 272278,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y+f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello,\nSi cela intéresse des gens, le prochain Bricole It est prévu le samedi 4 juin chez Draft Ateliers (Paris 18), de 14h à 19h, puis apéro. \n\nComme d'habitude, ce sera une journée de prototypage sans règle, pour le plaisir, ouverte à tous et gratuite.\n\nToutes les infos sont là : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/bit.ly\/1T7gVZv"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nL'événement Facebook : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.facebook.com\/events\/483781651820993\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nEt le récap en images de la 5ème édition : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/flic.kr\/s\/aHsknqV1by"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

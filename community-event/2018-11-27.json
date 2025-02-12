@@ -1,0 +1,91 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: FSC 2019: <!date^1554019200^{date_short_pretty} from {time}|March 31st, 2019 from 10:00 AM> to <!date^1554049800^{time}|6:30 PM GMT+0200>",
+                "text": "<!date^1554019200^{date_short_pretty} from {time}|March 31st, 2019 from 10:00 AM> to <!date^1554049800^{time}|6:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=City+of+Science+and+Industry%2C+30+Avenue+Corentin+Cariou%2C+75019+Paris%2C+France|City of Science and Industry, 30 Avenue Corentin Cariou, 75019 Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "FSC 2019",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NzRxbTZjcG82a3EzMGI5ZzZncDMyYjlrYzhwajJiOW82NHBqMGI5azZjc202cDM1Y29wajRwMWk2ayBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1543308549.000400",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1543315438.000700",
+        "client_msg_id": "84ecd0f2-51dd-4ca8-a95e-45c544d143b6",
+        "text": "<https:\/\/www.eventbrite.fr\/e\/billets-les-communs-une-voie-pour-transformer-leducation-52159149420>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Eventbrite",
+                "title": "Les communs : une voie pour transformer l’éducation",
+                "title_link": "https:\/\/www.eventbrite.fr\/e\/billets-les-communs-une-voie-pour-transformer-leducation-52159149420",
+                "text": "En collaboration avec la mission société numérique, cet après-midi dédié sera l'occasion de revenir sur l'événement Numérique-en-commun, de se questionner et de contribuer aux communs de l'éducation. Programme :  Témoignages  Keynote sur les  Communs NeC : la démarche   Nec : documentation et médialab Regards croisés de professeurs: favoriser chez les élèves une dynamique de et de partage   Ateliers contributifs : des communs pour l’éducation. - Malette data : contribution à sa diffusion\/réappropriation - Forum tiers-lieux éducatifs (2) : comment développer le forum tiers-lieux éducatifs (infrastructure mise à dispo par l’institution) pour contribuer à fédérer la communauté et  « sortir des cloisonnements disciplinaire, territoriaux, de niveau et d’approche ”? - Boncoin des classes : Comment créer le bon coin du mobilier scolaire (problématique écoles sous-dotées et école sur-dotées) ? Les communs, c'est quoi ? Les biens communs (ou “communs”) sont des ressources gérées collectivement par une communauté selon une forme de gouvernance définie par elle-même. Distinct du “bien commun”, question d’ordre moral, la notion des biens communs est une notion économique et politique. Plus d'informations ici",
+                "fallback": "Eventbrite: Les communs : une voie pour transformer l’éducation",
+                "image_url": "https:\/\/img.evbuc.com\/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F52199521%2F257325965435%2F1%2Foriginal.jpg?w=1000&auto=compress&rect=0%2C0%2C532%2C266&s=b26e54d4e4e8ec31c7c79edcefc1b9ae",
+                "fields": [
+                    {
+                        "title": "Where",
+                        "value": "54 rue de Bellechasse, Paris, France",
+                        "short": true
+                    },
+                    {
+                        "title": "When",
+                        "value": "jeu le 29 nov. 2018, 13:45",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.eventbrite.fr\/e\/billets-les-communs-une-voie-pour-transformer-leducation-52159149420",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 49526,
+                "service_icon": "https:\/\/cdn.evbstatic.com\/s3-build\/perm_001\/1d8fef\/django\/images\/touch_icons\/apple-touch-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.eventbrite.fr\/e\/billets-les-communs-une-voie-pour-transformer-leducation-52159149420"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MJcsn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.eventbrite.fr\/e\/billets-les-communs-une-voie-pour-transformer-leducation-52159149420"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

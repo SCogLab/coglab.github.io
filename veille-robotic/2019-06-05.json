@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1559768068.002200",
+        "client_msg_id": "12a784a1-e5f3-4863-a7d1-c964e91f8a05",
+        "text": "Le MIT développe des interfaces haptiques (sensor gloves) pour alimenter les réseaux de neurones en vue d’améliorer les robots et les prothèses : <http:\/\/news.mit.edu\/2019\/sensor-glove-human-grasp-robotics-0529>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "MIT News",
+                "title": "Sensor-packed glove learns signatures of the human grasp",
+                "title_link": "http:\/\/news.mit.edu\/2019\/sensor-glove-human-grasp-robotics-0529",
+                "text": "Signals help neural network identify objects by touch; system could aid robotics and prosthetics design.",
+                "fallback": "MIT News: Sensor-packed glove learns signatures of the human grasp",
+                "image_url": "http:\/\/news.mit.edu\/sites\/mit.edu.newsoffice\/files\/styles\/og\/public\/images\/2019\/MIT-Grasp-Signature.jpg",
+                "from_url": "http:\/\/news.mit.edu\/2019\/sensor-glove-human-grasp-robotics-0529",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 55602,
+                "service_icon": "http:\/\/news.mit.edu\/sites\/mit.edu.newsoffice\/themes\/mitnews\/favicon.ico",
+                "id": 1,
+                "original_url": "http:\/\/news.mit.edu\/2019\/sensor-glove-human-grasp-robotics-0529"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7+IU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le MIT développe des interfaces haptiques (sensor gloves) pour alimenter les réseaux de neurones en vue d’améliorer les robots et les prothèses : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/news.mit.edu\/2019\/sensor-glove-human-grasp-robotics-0529"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

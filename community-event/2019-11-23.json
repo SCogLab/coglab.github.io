@@ -1,0 +1,148 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab @ Maker Faire Paris 2019: <!date^1574499600^{date_short_pretty} from {time}|November 23rd, 2019 from 10:00 AM> to <!date^1574528400^{time}|6:00 PM GMT+0100>",
+                "text": "<!date^1574499600^{date_short_pretty} from {time}|November 23rd, 2019 from 10:00 AM> to <!date^1574528400^{time}|6:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Cit%C3%A9+des+sciences+et+de+l%27industrie%2C+30+Avenue+Corentin+Cariou%2C+75019+Paris%2C+France|Cité des sciences et de l'industrie, 30 Avenue Corentin Cariou, 75019 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab @ Maker Faire Paris 2019",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MGZqMnBqaDJxaDByaTBnamNsaGpmMWhrdnRfMjAxOTExMjNUMDkwMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1574496002.000100",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1574508538.001600",
+        "client_msg_id": "b632bade-f7fa-4e55-a3d9-60e30c6352df",
+        "text": "N'hésitez pas à prendre des photos (en évitant d'avoir le visage des visiteurs) pour nos archives ! cc <@U59MQ46DA> <@U0FB4KME0> <@UMSL037JT> <@UL4SA8V7Y>\n\nVoici un lien pour les mettre en commun sur notre Drive <https:\/\/drive.google.com\/drive\/folders\/1z66kQCnkRGTAxuhoYphHGkcEFGhEIXkr?usp=sharing>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1574508538.001600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1575468877.011900",
+        "reply_users": [
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1575468877.011900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LAQ4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "N'hésitez pas à prendre des photos (en évitant d'avoir le visage des visiteurs) pour nos archives ! cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0FB4KME0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UMSL037JT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UL4SA8V7Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nVoici un lien pour les mettre en commun sur notre Drive "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1z66kQCnkRGTAxuhoYphHGkcEFGhEIXkr?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U59MQ46DA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "Apéro Maker Faire: <!date^1574532000^{date_short_pretty} from {time}|November 23rd, 2019 from 7:00 PM> to <!date^1574541000^{time}|9:30 PM GMT+0100>",
+                "text": "<!date^1574532000^{date_short_pretty} from {time}|November 23rd, 2019 from 7:00 PM> to <!date^1574541000^{time}|9:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Villette+Makerz%2C+Galerie+de+la+Villette%2C+75019+Paris|Villette Makerz, Galerie de la Villette, 75019 Paris>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "Apéro Maker Faire",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MjdkZ3FoZ3M2NjliMTMyYzNwcWRmcmJsM2Igc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1574528402.000100",
+        "bot_id": "B4SJBP2L8"
+    }
+]

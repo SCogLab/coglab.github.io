@@ -1,0 +1,209 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1584381469.011900",
+        "client_msg_id": "d9c6afe4-bfb8-4272-acd2-69834b242f0d",
+        "text": "Bonsoir <!here> *Info événement \/ agenda (impact Covid-19)*\n\nActualisation et en complément du précédant message ci-dessus\n• :date::x: Tous les événements prévu ces prochaines semaines (FSC, CJC-SC, WEPASCO, Hackahton Timeflux à 42, Meetup, ...) ainsi que nos rencontres HackNight physique sont annulés ou reportés\n• :wave::heart: Je vous propose des permanences <#C0R6W4X2Q|coglab-hacknight> en chat \/ audio \/ visio conférence chaque lundi soir. L’occasion d’échanger sur nos sujets habituels en ligne et\/ou simplement se faire un coucou, se donner des nouvelles pour se prémunir de l’isolement massif à venir\n• :spock-hand::brain: N’hésitez pas à écrire, partager ce que vous voulez ou solliciter la communauté. Demandez des conseils sur des outils et bonnes pratiques (nous sommes nombreux à être des habitués du travail nomade et du télétravail). Détendre l’atmosphère avec des ressources. Parcourir les (nombreuses) chaînes du Slack pour (re)découvrir les projets et ressources.\nLa communauté Maker essaie également de se mobiliser pour soutenir les personnes dans le besoin ainsi que les ressources médicales. Si certains sont intéressé, je peux indiquer quelques références.\n\nPrenez-soin de vous :pray:\nPrenons soin de tous :shamrock:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9n6mQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonsoir "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Info événement \/ agenda (impact Covid-19)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nActualisation et en complément du précédant message ci-dessus\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "date",
+                                        "unicode": "1f4c5"
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "x",
+                                        "unicode": "274c"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Tous les événements prévu ces prochaines semaines (FSC, CJC-SC, WEPASCO, Hackahton Timeflux à 42, Meetup, ...) ainsi que nos rencontres HackNight physique sont annulés ou reportés"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "wave",
+                                        "unicode": "1f44b"
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "heart",
+                                        "unicode": "2764-fe0f"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Je vous propose des permanences "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C0R6W4X2Q"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " en chat \/ audio \/ visio conférence chaque lundi soir. L’occasion d’échanger sur nos sujets habituels en ligne et\/ou simplement se faire un coucou, se donner des nouvelles pour se prémunir de l’isolement massif à venir"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "spock-hand",
+                                        "unicode": "1f596"
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "brain",
+                                        "unicode": "1f9e0"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " N’hésitez pas à écrire, partager ce que vous voulez ou solliciter la communauté. Demandez des conseils sur des outils et bonnes pratiques (nous sommes nombreux à être des habitués du travail nomade et du télétravail). Détendre l’atmosphère avec des ressources. Parcourir les (nombreuses) chaînes du Slack pour (re)découvrir les projets et ressources."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nLa communauté Maker essaie également de se mobiliser pour soutenir les personnes dans le besoin ainsi que les ressources médicales. Si certains sont intéressé, je peux indiquer quelques références.\n\nPrenez-soin de vous "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPrenons soin de tous "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "shamrock",
+                                "unicode": "2618-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U6EPG5PTQ",
+        "type": "message",
+        "ts": "1584386591.012600",
+        "client_msg_id": "a951a22f-2022-4950-bd69-25899be4ecf4",
+        "text": "Merci <@U03FC5ZAK> c'est parfait comme plan(s) B étant donné la situation ! (suis en ligne de temps en temps, sinon email)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g09c260ee4c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/209c260ee4c8c21ab89b376055cd6e8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Karine",
+            "real_name": "Karine Halpern",
+            "display_name": "KarineH",
+            "team": "T03FC4NDZ",
+            "name": "karine.halpern",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2TS\/i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " c'est parfait comme plan(s) B étant donné la situation ! (suis en ligne de temps en temps, sinon email)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

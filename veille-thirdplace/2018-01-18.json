@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1516280399.000265",
+        "text": "Un nouvel outil Open Source fraichement sortis pour gérer un FabLab\n<https:\/\/www.fab-manager.com\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Fab Manager",
+                "title": "Accueil - Fab Manager",
+                "title_link": "https:\/\/www.fab-manager.com\/",
+                "text": "Fab Manager : Plateforme web open source dédiée aux Fab Labs et aux ateliers de fabrication numérique . A télécharger sur GitHub",
+                "fallback": "Fab Manager: Accueil - Fab Manager",
+                "image_url": "https:\/\/www.fab-manager.com\/wp-content\/uploads\/2017\/06\/communuate_Fab_Manager-1.png",
+                "from_url": "https:\/\/www.fab-manager.com\/",
+                "image_width": 327,
+                "image_height": 250,
+                "image_bytes": 285146,
+                "service_icon": "https:\/\/www.fab-manager.com\/wp-content\/uploads\/2017\/06\/cropped-fav-180x180.png",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RxsJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un nouvel outil Open Source fraichement sortis pour gérer un FabLab\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.fab-manager.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

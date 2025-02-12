@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1715702308.533909",
+        "client_msg_id": "6EE130E5-536A-485C-B5AD-45B81AC16BCA",
+        "text": "OpenAI a présenté sa nouvelle version de ChatGPT 4o une version « grand public » (gratuit pour tous) où ils ont présenté de très nettes améliorations dans tous les domaines (voix, vision , audio conversationnel,…) qui sera à mi-chemin entre ChatGPT-3.5 et le futur ChatGPT-5.0 : <https:\/\/www.youtube.com\/watch?v=DQacCB9tDaw|https:\/\/www.youtube.com\/watch?v=DQacCB9tDaw>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=DQacCB9tDaw",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/DQacCB9tDaw\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/DQacCB9tDaw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Introducing GPT-4o\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=DQacCB9tDaw",
+                "fallback": "YouTube Video: Introducing GPT-4o",
+                "title": "Introducing GPT-4o",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=DQacCB9tDaw",
+                "author_name": "OpenAI",
+                "author_link": "https:\/\/www.youtube.com\/@OpenAI",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sq+p1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OpenAI a présenté sa nouvelle version de ChatGPT 4o une version « grand public » (gratuit pour tous"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            },
+                            {
+                                "type": "text",
+                                "text": " où ils ont présenté de très nettes améliorations dans tous les domaines (voix, vision , audio conversationnel,"
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") qui sera à mi-chemin entre ChatGPT-3.5 et le futur ChatGPT-5.0 : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=DQacCB9tDaw",
+                                "text": "https:\/\/www.youtube.com\/watch?v=DQacCB9tDaw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

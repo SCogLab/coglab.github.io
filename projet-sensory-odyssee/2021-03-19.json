@@ -1,0 +1,479 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1616147827.000700",
+        "client_msg_id": "f1a60b05-8abf-4cc3-a266-036f1b7cef22",
+        "text": "J'ai pris des notes sur la réunion ce matin, je consolide et vous envoie ça\nLà dans l'immédiat je dois filer",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5rNW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai pris des notes sur la réunion ce matin, je consolide et vous envoie ça\nLà dans l'immédiat je dois filer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1616148013.001000",
+        "client_msg_id": "e826d090-168a-4f51-a7ef-43c57b3d5057",
+        "text": "ça marche",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iQR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ça marche"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1616156501.001300",
+        "client_msg_id": "85d87e1f-bd78-4bc0-8b4b-a6c431879250",
+        "text": "Mes notes sont ici ping <@UAMPR1P5L>\n<https:\/\/docs.google.com\/document\/d\/1-G8ZsRwFu-0cypHGJM_PCClx73gp1xyFD49t2uSqh1M\/edit#heading=h.wjihljlgvmu8>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iOks",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mes notes sont ici ping "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UAMPR1P5L"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1-G8ZsRwFu-0cypHGJM_PCClx73gp1xyFD49t2uSqh1M\/edit#heading=h.wjihljlgvmu8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01RUJ02ECS",
+        "text": "<@U01RUJ02ECS> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1616156976.001600"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1616156992.001900",
+        "client_msg_id": "2b2360ef-9606-4251-b502-fd7e9073db7b",
+        "text": "Welcome <@U01RUJ02ECS> :wave:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "acNi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RUJ02ECS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U01RUJ02ECS",
+                    "UAMPR1P5L",
+                    "U59MQ46DA"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1616157123.003400",
+        "client_msg_id": "8e7ca263-bb23-4851-a068-9a3282aa878e",
+        "text": ":wave:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yZR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Je dépose ici le document que l’on a reçu ce matin de l’équipe projet Sensory Odyssey (SO)\nBasé sur la proposition qu’on as faite avec Pierre et Hans, habillée et ‘storytellé’ à la sauce SO pour leur partenaires",
+        "files": [
+            {
+                "id": "F01RUQLEPRR",
+                "created": 1616157051,
+                "timestamp": 1616157051,
+                "name": "Programme SO-COGLAB R&D #1.pdf",
+                "title": "Programme SO-COGLAB R&amp;D #1.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U03FC5ZAK",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 1378422,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F01RUQLEPRR\/programme_so-coglab_r_d__1.pdf?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F01RUQLEPRR\/download\/programme_so-coglab_r_d__1.pdf?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F01RUQLEPRR-86db27239e\/programme_so-coglab_r_d__1_thumb_pdf.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_pdf_w": 2418,
+                "thumb_pdf_h": 1360,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U03FC5ZAK\/F01RUQLEPRR\/programme_so-coglab_r_d__1.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-F01RUQLEPRR-17731e1eca",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03FC5ZAK",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N7u=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je dépose ici le document que l’on a reçu ce matin de l’équipe projet Sensory Odyssey (SO)\nBasé sur la proposition qu’on as faite avec Pierre et Hans, habillée et ‘storytellé’ à la sauce SO pour leur partenaires"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1616157143.003700"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1616157529.006700",
+        "client_msg_id": "c4d5811b-bdc6-4351-82e9-6d7f79fe62dd",
+        "text": "Nos 3 prochains objectifs :\n• Répondre à l’AAP Science et Société, deadline le 31 mars <https:\/\/www.enseignementsup-recherche.gouv.fr\/cid157274\/appels-a-projets-2021-science-societe.html>\n• Faire l’acquisition de 1 ou 2 Emotibit <https:\/\/mailchi.mp\/eda3c62f5d6d\/emotibit-update-get-beta-access-4142509?e=3ad0f76ba9>\n• Premier RDV informel avec Franck, expert technique du studio <https:\/\/mardi8.com\/|Mardi8>, lors de la journée de showroom prévue à Marseille le 1er avril (Hans sur place, on peux essayer de faire un pont en visio pour les personnes à distance ?)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1616157529.006700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1616857445.017200",
+        "reply_users": [
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1616857445.017200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "service_name": "Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation",
+                "title": "Appels à projets 2021 : Science-Société",
+                "title_link": "https:\/\/www.enseignementsup-recherche.gouv.fr\/cid157274\/appels-a-projets-2021-science-societe.html",
+                "text": "Le minist&amp;egrave;re de l&amp;rsquo;Enseignement sup&amp;eacute;rieur, de la Recherche et de l&amp;rsquo;Innovation lance l'appel &amp;agrave; projets destin&amp;eacute;s aux associations œuvrant dans le champ des relations science-soci&amp;eacute;t&amp;eacute; au niveau national. Cet appel &amp;agrave; projets vise &amp;agrave; structurer le paysage de la culture scientifique, technique et industrielle &amp;agrave; l&amp;rsquo;&amp;eacute;chelle nationale. Cl&amp;ocirc;ture de l'appel&amp;nbsp;: 31 mars 2021 &amp;agrave; minuit.",
+                "fallback": "Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation: Appels à projets 2021 : Science-Société",
+                "image_url": "https:\/\/cache.media.enseignementsup-recherche.gouv.fr\/image\/culture_scientifique\/22\/1\/science_et_societe_1079221.jpg",
+                "from_url": "https:\/\/www.enseignementsup-recherche.gouv.fr\/cid157274\/appels-a-projets-2021-science-societe.html",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 22909,
+                "service_icon": "https:\/\/www.enseignementsup-recherche.gouv.fr\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.enseignementsup-recherche.gouv.fr\/cid157274\/appels-a-projets-2021-science-societe.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NQS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nos 3 prochains objectifs :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Répondre à l’AAP Science et Société, deadline le 31 mars "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.enseignementsup-recherche.gouv.fr\/cid157274\/appels-a-projets-2021-science-societe.html"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Faire l’acquisition de 1 ou 2 Emotibit "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/mailchi.mp\/eda3c62f5d6d\/emotibit-update-get-beta-access-4142509?e=3ad0f76ba9"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Premier RDV informel avec Franck, expert technique du studio "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/mardi8.com\/",
+                                        "text": "Mardi8"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", lors de la journée de showroom prévue à Marseille le 1er avril (Hans sur place, on peux essayer de faire un pont en visio pour les personnes à distance ?)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01J9RAA8H1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UAMPR1P5L",
+        "type": "message",
+        "ts": "1616161417.009300",
+        "client_msg_id": "234e2067-be6c-41d8-a111-822edbdc954b",
+        "text": "J’ai envoyé un mail à Sean. A priori, la board n’a pas d’interface de communication, je pense qu’il faut ajouter une Feather board (compter 10-30 € supplémentaire). Je ne connais pas très bien Lora, mais à voir si ça ne serait pas mieux que du WiFi ou BT, et si ça permettrait la localisation en intérieur.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g73db985d858",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273db985d858035ed23c0594718e0eac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "mesca",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "coglab644",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1616161417.009300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1616495321.011200",
+        "reply_users": [
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1616495321.011200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IBS0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’ai envoyé un mail à Sean. A priori, la board n’a pas d’interface de communication, je pense qu’il faut ajouter une Feather board (compter 10-30 € supplémentaire). Je ne connais pas très bien Lora, mais à voir si ça ne serait pas mieux que du WiFi ou BT, et si ça permettrait la localisation en intérieur."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

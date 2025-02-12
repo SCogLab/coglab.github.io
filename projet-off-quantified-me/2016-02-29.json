@@ -1,0 +1,78 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U0KKC7AQ6",
+        "text": "<@U0KKC7AQ6> a rejoint le canal",
+        "type": "message",
+        "ts": "1456751217.000002"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC5ZAK",
+        "purpose": "Project DIY &amp; speaking about quantified self, well-being &amp; augmented human. Documentation https:\/\/coglab.hackpad.com\/Quantified-Me-iFt5WF2hlP5",
+        "text": "a défini la description du canal : Project DIY &amp; speaking about quantified self, well-being &amp; augmented human. Documentation https:\/\/coglab.hackpad.com\/Quantified-Me-iFt5WF2hlP5",
+        "type": "message",
+        "ts": "1456797012.000003"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1456797136.000004",
+        "text": "<@U07CFCCBG>: suite à la discussion de hier soir à la HackNight #2, j'ai créé un pad pour l'emergence d'un projet DIY QS <https:\/\/coglab.hackpad.com\/Quantified-Me-iFt5WF2hlP5>\n\nCela fait également écho au prochain Meetup que j'aimerais organiser !\n<https:\/\/coglab.hackpad.com\/Meetup-CogLab-7-Quantified-Cog-70t83BqfzW0>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jnh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U07CFCCBG"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": suite à la discussion de hier soir à la HackNight #2, j'ai créé un pad pour l'emergence d'un projet DIY QS "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.hackpad.com\/Quantified-Me-iFt5WF2hlP5"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nCela fait également écho au prochain Meetup que j'aimerais organiser !\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.hackpad.com\/Meetup-CogLab-7-Quantified-Cog-70t83BqfzW0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U07CFCCBG",
+        "text": "<@U07CFCCBG> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1456797143.000005"
+    }
+]

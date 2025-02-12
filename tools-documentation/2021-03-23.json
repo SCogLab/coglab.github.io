@@ -1,0 +1,56 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1616511642.000200",
+        "client_msg_id": "211cab80-24de-4d0e-9e59-ac8df2d0e5a0",
+        "text": "<https:\/\/doc.incubateur.net\/outils-communs\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Bienvenue",
+                "title_link": "https:\/\/doc.incubateur.net\/outils-communs\/",
+                "text": "Ensemble de ressources, théoriques et opérationnelles, destiné à vous accompagner dans le cadre de vos démarches de communs numériques.",
+                "fallback": "Bienvenue",
+                "thumb_url": "https:\/\/app.gitbook.com\/share\/space\/thumbnail\/-MKAs3x8smCTe9jlpnGA.png",
+                "from_url": "https:\/\/doc.incubateur.net\/outils-communs\/",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/d1j8pt39hxlh3d.cloudfront.net\/emoji\/emojione\/5.0\/png\/unicode\/32\/1f4c1.png",
+                "service_name": "doc.incubateur.net",
+                "id": 1,
+                "original_url": "https:\/\/doc.incubateur.net\/outils-communs\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BGu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/doc.incubateur.net\/outils-communs\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,120 @@
+[
+    {
+        "user": "U0523DY2FAB",
+        "type": "message",
+        "ts": "1730202784.515609",
+        "client_msg_id": "cdefce65-cdcd-49a2-888a-ff7c14b4c4d7",
+        "text": "Coucou :wave:\nMerci pour tout ces documents Hans",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "4cb8bf38fddf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-10\/5085885164403_4cb8bf38fddf88c49141_72.png",
+            "first_name": "nicolas",
+            "real_name": "nicolas playe",
+            "display_name": "nicolas playe",
+            "team": "T03FC4NDZ",
+            "name": "playe.nicolas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VoxQI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coucou "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMerci pour tout ces documents Hans"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1730212849.762089",
+        "client_msg_id": "6efac69d-ada3-40da-b7cc-d7b1b62b1815",
+        "text": "Hello <@U0523DY2FAB>, j'ai trouvé une playlist de mini docus, il faudra qu'on choisisse une de cette playlist pour remplacer Slow Life - Positive (Bio Quest Studios) : <https:\/\/www.youtube.com\/watch?v=6stlCkUDG_s&amp;list=PL4Gr5tOAPttKUXrXjulSCYa-L4xIwDyTi&amp;index=2>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=6stlCkUDG_s&amp;index=2",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/6stlCkUDG_s\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/6stlCkUDG_s?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Sea waves &amp; beach drone video | Free HD Video - no copyright\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=6stlCkUDG_s&amp;list=PL4Gr5tOAPttKUXrXjulSCYa-L4xIwDyTi&amp;index=2",
+                "fallback": "YouTube Video: Sea waves & beach drone video | Free HD Video - no copyright",
+                "title": "Sea waves &amp; beach drone video | Free HD Video - no copyright",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=6stlCkUDG_s&amp;index=2",
+                "author_name": "Free HD videos - no copyright",
+                "author_link": "https:\/\/www.youtube.com\/@FreeHDvideosnocopyright",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sbMN8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0523DY2FAB"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", j'ai trouvé une playlist de mini docus, il faudra qu'on choisisse une de cette playlist pour remplacer Slow Life - Positive (Bio Quest Studios) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=6stlCkUDG_s&list=PL4Gr5tOAPttKUXrXjulSCYa-L4xIwDyTi&index=2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

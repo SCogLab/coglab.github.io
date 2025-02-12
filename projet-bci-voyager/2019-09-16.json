@@ -1,0 +1,567 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568622139.000500",
+        "client_msg_id": "b993310f-9efa-4875-8290-934fe896d1fa",
+        "text": "Hello, je viens de pusher mes ajouts du weekend concernant Android Studio sur GitHub",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568622139.000500",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1568624121.003800",
+        "reply_users": [
+            "UMQA8DN92",
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "UMQA8DN92",
+                "ts": "1568623087.001200"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1568623314.001400"
+            },
+            {
+                "user": "UMQA8DN92",
+                "ts": "1568623358.001600"
+            },
+            {
+                "user": "UMQA8DN92",
+                "ts": "1568623579.001800"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1568623695.002100"
+            },
+            {
+                "user": "UMQA8DN92",
+                "ts": "1568623867.003000"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1568624121.003800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+wfny",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, je viens de pusher mes ajouts du weekend concernant Android Studio sur GitHub"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "UMQA8DN92",
+                    "U59MQ46DA"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "UMQA8DN92",
+        "type": "message",
+        "ts": "1568623087.001200",
+        "client_msg_id": "6c05edba-463f-4e36-bb08-c70379c8db50",
+        "text": "J'ai des librairies manquantes, ton code fonctionne-t-il ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g144939de47f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3144939de47faa73d3d9c8d51dcff306.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Tanguy",
+            "real_name": "Tanguy HERSERANT",
+            "display_name": "Tanguy",
+            "team": "T03FC4NDZ",
+            "name": "tanguyherserant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568622139.000500",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KIL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai des librairies manquantes, ton code fonctionne-t-il ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568623314.001400",
+        "client_msg_id": "d7c830c0-2a0f-4105-993b-e2bdba37f186",
+        "text": "Arf, yes ça compile de mon côté :confused:\nOu est-ce que ça coince pour toi ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568622139.000500",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "on21",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Arf, yes ça compile de mon côté "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused",
+                                "unicode": "1f615"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nOu est-ce que ça coince pour toi ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UMQA8DN92",
+        "type": "message",
+        "ts": "1568623358.001600",
+        "client_msg_id": "add1d495-4a3a-4f94-8a1b-2650f25c8a43",
+        "text": "Dans les librairies, je vais regarder pourquoi",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g144939de47f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3144939de47faa73d3d9c8d51dcff306.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Tanguy",
+            "real_name": "Tanguy HERSERANT",
+            "display_name": "Tanguy",
+            "team": "T03FC4NDZ",
+            "name": "tanguyherserant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568622139.000500",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MeCJG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dans les librairies, je vais regarder pourquoi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UMQA8DN92",
+        "type": "message",
+        "ts": "1568623579.001800",
+        "client_msg_id": "a584b587-9232-4eb8-8fa8-467893f04256",
+        "text": "Plus de problème, il fallait synchroniser le gradle !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g144939de47f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3144939de47faa73d3d9c8d51dcff306.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Tanguy",
+            "real_name": "Tanguy HERSERANT",
+            "display_name": "Tanguy",
+            "team": "T03FC4NDZ",
+            "name": "tanguyherserant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568622139.000500",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1eBq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plus de problème, il fallait synchroniser le gradle !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568623695.002100",
+        "client_msg_id": "0fc053a8-707a-4353-b047-b7aec1bb422d",
+        "text": "J’ai pas encore tout compris sur le manifeste, par défaut il lance mon nouvel écran (encore en draft et les boutons ne sont pas actif). Et sinon j’ai une bien meilleur compréhension du bousin désormais :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568622139.000500",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lRC8V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’ai pas encore tout compris sur le manifeste, par défaut il lance mon nouvel écran (encore en draft et les boutons ne sont pas actif). Et sinon j’ai une bien meilleur compréhension du bousin désormais "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UMQA8DN92",
+        "type": "message",
+        "ts": "1568623867.003000",
+        "client_msg_id": "9a3e06f8-e59c-4a56-a7b5-d0d9ae53810e",
+        "text": "Du \"bousin\" ?\nLe manifest c'est genre des options que tu ajoutes dedans pour l'application en général :wink: genre les permissions, ta launch screen, si tu la veux en portrait ... Mais aussi ton icone d'app et nom d'app :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g144939de47f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3144939de47faa73d3d9c8d51dcff306.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Tanguy",
+            "real_name": "Tanguy HERSERANT",
+            "display_name": "Tanguy",
+            "team": "T03FC4NDZ",
+            "name": "tanguyherserant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568622139.000500",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e0U7w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Du \"bousin\" ?\nLe manifest c'est genre des options que tu ajoutes dedans pour l'application en général "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": " genre les permissions, ta launch screen, si tu la veux en portrait ... Mais aussi ton icone d'app et nom d'app "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1568623894.003600",
+        "edited": {
+            "user": "U03FEH3N8",
+            "ts": "1568623912.000000"
+        },
+        "client_msg_id": "4acb8f17-1b01-497b-9150-d1eed7602d4c",
+        "text": "juste un petit bravo pour les progrès incroyables sur le projet (en mode chearleadeuse, parceque je ne peux pas être trop présente pour aider) but I am very impressed ! GO GO !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oib",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "juste un petit bravo pour les progrès incroyables sur le projet (en mode chearleadeuse, parceque je ne peux pas être trop présente pour aider) but I am very impressed ! GO GO !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "spock-hand",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568624121.003800",
+        "client_msg_id": "a45a5b7d-e3db-452d-b45e-833ea2f7651b",
+        "text": "Yes ! Ce que je n’ai pas compris c’est la priorité entre les &lt;activity&gt; et le rôle des &lt;intent-filter&gt;. J’y verrai plus clair avec le tuto, ce midi je branche les boutons pour pouvoir changer d’écran ! :sunglasses:\n\nLe “bousin” Android Studio en général, et j’me suis remis à jour sur Java et compagnie. Tellement de souvenir sont remonté :yum:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568622139.000500",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yYY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes ! Ce que je n’ai pas compris c’est la priorité entre les <activity> et le rôle des <intent-filter>. J’y verrai plus clair avec le tuto, ce midi je branche les boutons pour pouvoir changer d’écran ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses",
+                                "unicode": "1f60e"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nLe “bousin” Android Studio en général, et j’me suis remis à jour sur Java et compagnie. Tellement de souvenir sont remonté "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "yum",
+                                "unicode": "1f60b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UMQA8DN92"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "Cette semaine on aura une belle app toute neuve :slightly_smiling_face:",
+        "files": [
+            {
+                "id": "FN1PGD467",
+                "created": 1568624307,
+                "timestamp": 1568624307,
+                "name": "App Android Studio 15092019.png",
+                "title": "App Android Studio 15092019.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03FC5ZAK",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 550257,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FN1PGD467\/app_android_studio_15092019.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FN1PGD467\/download\/app_android_studio_15092019.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN1PGD467-4447761572\/app_android_studio_15092019_64.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN1PGD467-4447761572\/app_android_studio_15092019_80.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN1PGD467-4447761572\/app_android_studio_15092019_360.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360_w": 360,
+                "thumb_360_h": 218,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN1PGD467-4447761572\/app_android_studio_15092019_480.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_480_w": 480,
+                "thumb_480_h": 291,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN1PGD467-4447761572\/app_android_studio_15092019_160.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN1PGD467-4447761572\/app_android_studio_15092019_720.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720_w": 720,
+                "thumb_720_h": 437,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN1PGD467-4447761572\/app_android_studio_15092019_800.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_800_w": 800,
+                "thumb_800_h": 485,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN1PGD467-4447761572\/app_android_studio_15092019_960.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_960_w": 960,
+                "thumb_960_h": 582,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN1PGD467-4447761572\/app_android_studio_15092019_1024.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 621,
+                "image_exif_rotation": 1,
+                "original_w": 2738,
+                "original_h": 1660,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U03FC5ZAK\/FN1PGD467\/app_android_studio_15092019.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-FN1PGD467-f24f1bcf74",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U03FC5ZAK",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EBR+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cette semaine on aura une belle app toute neuve "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1568624311.004300",
+        "client_msg_id": "67f1732c-47c4-4ce7-a95d-5f9f203e1289"
+    }
+]

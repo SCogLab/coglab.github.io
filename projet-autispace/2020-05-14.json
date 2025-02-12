@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U6EPG5PTQ",
+        "type": "message",
+        "ts": "1589484824.001400",
+        "client_msg_id": "6d6a575a-8b06-44e9-8028-36cdf13907b7",
+        "text": "<http:\/\/www.auditalents.fr\/appelaprojets\/> (mis aussi dans le fil transmédia)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g09c260ee4c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/209c260ee4c8c21ab89b376055cd6e8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Karine",
+            "real_name": "Karine Halpern",
+            "display_name": "KarineH",
+            "team": "T03FC4NDZ",
+            "name": "karine.halpern",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Audi talents",
+                "title": "Appel à projets Audi talents 2020 - Ouverture 8 janvier",
+                "title_link": "http:\/\/www.auditalents.fr\/appelaprojets\/",
+                "text": "Le concours Audi talents permet chaque année à de jeunes créateurs en arts visuels de réaliser leur projet. Proposez votre candidature.",
+                "fallback": "Audi talents: Appel à projets Audi talents 2020 - Ouverture 8 janvier",
+                "from_url": "http:\/\/www.auditalents.fr\/appelaprojets\/",
+                "service_icon": "http:\/\/www.auditalents.fr\/wp-content\/themes\/auditalents\/fav\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "http:\/\/www.auditalents.fr\/appelaprojets\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nv5\/9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.auditalents.fr\/appelaprojets\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (mis aussi dans le fil transmédia)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U07CPSBGX",
+        "text": "<@U07CPSBGX> a rejoint le canal",
+        "type": "message",
+        "ts": "1501589535.515433"
+    },
+    {
+        "user": "U07CPSBGX",
+        "type": "message",
+        "ts": "1501589552.521412",
+        "text": "Haaa oui merci pour l’info, je vais regarder ça ! :wink:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g2e0d1ac2856",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a2e0d1ac2856ecc07d133a48e7fb61f1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Clémence",
+            "real_name": "Clémence BLANCHET",
+            "display_name": "clemsy",
+            "team": "T03FC4NDZ",
+            "name": "clemsy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FJnjx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Haaa oui merci pour l’info, je vais regarder ça ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wink",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

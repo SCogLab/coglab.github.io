@@ -1,0 +1,152 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1528730606.000029",
+        "client_msg_id": "7d97ac3c-80a1-4053-a9d9-8f4cac10afa2",
+        "text": "sur le site de La Paillasse",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1528642086.000084",
+        "parent_user_id": "U5JBN3M8Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VkXL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sur le site de La Paillasse"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0AR01SPQ",
+        "type": "message",
+        "ts": "1528753358.000221",
+        "client_msg_id": "9192a1aa-0b21-4c29-98d9-9f4b7efd6b27",
+        "text": "hello <@U5JBN3M8Q> j'ai contacté, je regarde quelle date (weekend, plutot samedi) on pourrait avoir les testeurs, je te reviens dès confirmation de disponibilité des testeurs. Pour ma part je pars en vacances le 1er juillet!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b34e84fd77bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-17\/18704226567_b34e84fd77bcdb81946f_72.jpg",
+            "first_name": "Murielle",
+            "real_name": "Murielle PALISSANDRE",
+            "display_name": "murielle",
+            "team": "T03FC4NDZ",
+            "name": "murielle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hzyH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U5JBN3M8Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " j'ai contacté, je regarde quelle date (weekend, plutot samedi) on pourrait avoir les testeurs, je te reviens dès confirmation de disponibilité des testeurs. Pour ma part je pars en vacances le 1er juillet!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U5JBN3M8Q",
+        "type": "message",
+        "ts": "1528785386.000091",
+        "client_msg_id": "5b9f9978-76ba-408f-9020-4cd5d7829888",
+        "text": "Hello <@U0AR01SPQ>! Merci ! Je suis dispo tous les samedi de ce mois. J'attends de tes nouvelles. Je bosse sur le scénar version \"porteurs d'autisme\" cette semaine. Bises",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1b6f1c358f7d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-04\/280876898465_1b6f1c358f7daf194add_72.jpg",
+            "first_name": "Isabelle",
+            "real_name": "Isabelle NICHELLE",
+            "display_name": "isabelle_n",
+            "team": "T03FC4NDZ",
+            "name": "isabelle_n",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qkEgg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0AR01SPQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Merci ! Je suis dispo tous les samedi de ce mois. J'attends de tes nouvelles. Je bosse sur le scénar version \"porteurs d'autisme\" cette semaine. Bises"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

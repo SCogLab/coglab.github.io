@@ -1,0 +1,76 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Hans Harisson",
+                "fallback": "New card OpenCollective : initiative d'anciens de science-po. added to list Prospect on board Gestion CogLab (administrateur).",
+                "text": "In list *Prospect* on *<https:\/\/trello.com\/b\/jSnI3dXM|Gestion CogLab (administrateur)>*.",
+                "pretext": "New card created",
+                "title": "OpenCollective : initiative d'anciens de science-po.",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/DaeG7ZTj",
+                "author_link": "https:\/\/trello.com\/hansharisson1",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1583136845.000200",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "fallback": "Hans Harisson attached opencollective.jpg to card OpenCollective : initiative d'anciens de science-po..",
+                "image_url": "https:\/\/trello-attachments.s3.amazonaws.com\/5e5cc04dee727f14d76067c2\/347x145\/9a13937772320a26d89809b10ecbd37f\/opencollective.jpg",
+                "image_width": 347,
+                "image_height": 145,
+                "image_bytes": 5545,
+                "author_name": "Hans Harisson",
+                "pretext": "Attached *<https:\/\/trello-attachments.s3.amazonaws.com\/54600179bf0163b52abc2ebc\/5e5cc04dee727f14d76067c2\/e2ff3e690c482ce648cd23f8a74dafb6\/opencollective.jpg|opencollective.jpg>* to *<https:\/\/trello.com\/c\/DaeG7ZTj|OpenCollective : initiative d'anciens de science-po.>*.",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/hansharisson1",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1583137636.000300",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "Romain ROUYER commented on Changement Banque: \"@hansharisson1 Merci pour le feedback\n\n Ma réaction :\n- A priori nous n'avons pas besoin de dépôt en espèce\n- Nous ne serons pas à découvert en tant qu'association, si nous n'avons pas les capacités financière pour un achat, nous n'y allons pas\n- Manager one est 3x plus cher\n- Anytime propose un IBAN Français et semble bien implanté\n- Un changement d'agence CM ne résoudra pas l'extrême lourdeur de leur service :\/\"",
+                "text": "@hansharisson1 Merci pour le feedback\n\n Ma réaction :\n- A priori nous n'avons pas besoin de dépôt en espèce\n- Nous ne serons pas à découvert en tant qu'association, si nous n'avons pas les capacités financière pour un achat, nous n'y allons pas\n- Manager one est 3x plus cher\n- Anytime propose un IBAN Français et semble bien implanté\n- Un changement d'agence CM ne résoudra pas l'extrême lourdeur de leur service :\/",
+                "pretext": "New comment on *<https:\/\/trello.com\/c\/MWlAUumX|Changement Banque>*",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1583144250.000400",
+        "bot_id": "B66HQV43C"
+    }
+]

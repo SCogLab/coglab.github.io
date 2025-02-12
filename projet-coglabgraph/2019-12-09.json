@@ -1,0 +1,149 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1575905862.000600",
+        "client_msg_id": "41d76fee-e26b-4ab3-8331-fd3f5f0ba9f3",
+        "text": "3 technos intéressantes à évaluer, tu connais <@U59MQ46DA>?\n• GrakN <https:\/\/grakn.ai\/>\n• Neo4J + Neovis <https:\/\/github.com\/neo4j-contrib\/neovis.js\/>\n• RedisGraph <https:\/\/oss.redislabs.com\/redisgraph\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Grakn Labs",
+                "title": "Grakn: The Knowledge Graph",
+                "title_link": "https:\/\/grakn.ai\/",
+                "text": "Grakn is a knowledge graph - a database to organise complex networks of data and make it queryable.",
+                "fallback": "Grakn Labs: Grakn: The Knowledge Graph",
+                "image_url": "https:\/\/grakn.ai\/assets\/img\/og\/og-home-min.png",
+                "from_url": "https:\/\/grakn.ai\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 336047,
+                "service_icon": "https:\/\/grakn.ai\/assets\/img\/apple\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/grakn.ai\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S282J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "3 technos intéressantes à évaluer, tu connais "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "GrakN "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/grakn.ai\/"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Neo4J + Neovis "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/neo4j-contrib\/neovis.js\/"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "RedisGraph "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/oss.redislabs.com\/redisgraph\/"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1575908479.003700",
+        "client_msg_id": "7E57B8C7-9CBA-4540-B680-5FDF172D45DE",
+        "text": "Je ne connais que neo4j pas vis.js, Grakn c’est basé sur un modèle symbolique et redisgraph je ne connais pas.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D\/=d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je ne connais que neo4j pas vis.js, Grakn c’est basé sur un modèle symbolique et redisgraph je ne connais pas."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

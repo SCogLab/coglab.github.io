@@ -1,0 +1,120 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1689414688.839409",
+        "client_msg_id": "b95cc8fb-c75e-4a48-b6d1-8e60d89c787a",
+        "text": "Mise à disposition de Bard (concurrent de chatGPT) en Europe : <https:\/\/bard.google.com\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.gstatic.com\/lamda\/images\/bard_thumbnail.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 13599,
+                "from_url": "https:\/\/bard.google.com\/",
+                "id": 1,
+                "original_url": "https:\/\/bard.google.com\/",
+                "fallback": "‎Try Bard, an AI experiment by Google",
+                "text": "Bard is your creative and helpful collaborator to supercharge your imagination, boost productivity, and bring ideas to life.",
+                "title": "‎Try Bard, an AI experiment by Google",
+                "title_link": "https:\/\/bard.google.com\/",
+                "service_name": "bard.google.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fwq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mise à disposition de Bard (concurrent de chatGPT) en Europe : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bard.google.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1689427128.374969",
+        "client_msg_id": "8223ae0e-6f24-45c1-8994-250605d66dea",
+        "text": "Un autre concurrent de chatGPT qui fait le buzz outre atlantique (dispo en us et uk pour l'instant) : <https:\/\/claude.ai\/login|Claude (by Anthropic)>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/claude.ai\/opengraph-image@2x.png",
+                "image_width": 2400,
+                "image_height": 1350,
+                "image_bytes": 150334,
+                "from_url": "https:\/\/claude.ai\/login",
+                "service_icon": "https:\/\/claude.ai\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/claude.ai\/login",
+                "fallback": "Claude",
+                "text": "Talk to Claude, an AI assistant from Anthropic",
+                "title": "Claude",
+                "title_link": "https:\/\/claude.ai\/login",
+                "service_name": "claude.ai"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "94L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un autre concurrent de chatGPT qui fait le buzz outre atlantique (dispo en us et uk pour l'instant) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/claude.ai\/login",
+                                "text": "Claude (by Anthropic)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1601905319.001000",
+        "client_msg_id": "53d67dd6-bc8c-4318-bf20-4b7930513575",
+        "text": "Je viens de mettre à jour la page agenda de l’association pour détailler les soirées HackNight <https:\/\/coglab.fr\/agenda\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "CogLab, NeuroTechX Paris",
+                "title": "Agenda",
+                "title_link": "https:\/\/coglab.fr\/agenda\/",
+                "text": "Voir l’article pour en savoir plus.",
+                "fallback": "CogLab, NeuroTechX Paris: Agenda",
+                "thumb_url": "https:\/\/i0.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=512%2C512&ssl=1",
+                "ts": 1430779219,
+                "from_url": "https:\/\/coglab.fr\/agenda\/",
+                "thumb_width": 512,
+                "thumb_height": 512,
+                "service_icon": "https:\/\/i0.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=180%2C180&#038;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/coglab.fr\/agenda\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j3T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je viens de mettre à jour la page agenda de l’association pour détailler les soirées HackNight "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.fr\/agenda\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "ULABDBC9W",
+        "type": "message",
+        "ts": "1601925573.001300",
+        "client_msg_id": "42d05537-f096-492d-a155-0de436df25c3",
+        "text": "Bonsoir <!here>!\n\nTrès bientôt vous sera envoyé le CR du CA de la Fresco.\n\nEn tant que co-responsable de la revue Perspectives, j'aimerais savoir svp quand vous (quelqu'un connaissant bien les contenus de l'asso) serait dispo pour une réunion (1h30) avec de parler des contenus qu'on pourrait recycler dans la revue en l'enrichissant (ou pas) d'un format BD. Merci !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "8001f2d63c3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-10\/690479305888_8001f2d63c3cc42e6e2e_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu",
+            "display_name": "Matthieu",
+            "team": "T03FC4NDZ",
+            "name": "matthieu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E4QK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonsoir "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!\n\nTrès bientôt vous sera envoyé le CR du CA de la Fresco.\n\nEn tant que co-responsable de la revue Perspectives, j'aimerais savoir svp quand vous (quelqu'un connaissant bien les contenus de l'asso) serait dispo pour une réunion (1h30) avec de parler des contenus qu'on pourrait recycler dans la revue en l'enrichissant (ou pas) d'un format BD. Merci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

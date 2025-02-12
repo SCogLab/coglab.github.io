@@ -1,0 +1,48 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "Event created: [SO] Réunion de synchro : <!date^1643904000^{date_short_pretty} from {time}|February 3rd, 2022 from 5:00 PM> to <!date^1643907600^{time}|6:00 PM GMT+0100>",
+                "text": "<!date^1643904000^{date_short_pretty} from {time}|February 3rd, 2022 from 5:00 PM> to <!date^1643907600^{time}|6:00 PM GMT+0100> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "pretext": "New calendar event created",
+                "title": "[SO] Réunion de synchro",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=M3I3dXNmaHB0cG1paGprM29wb3F2dGc5bnMgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "more",
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1643841369.752629",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "Event updated: [SO] Réunion de synchro : <!date^1643904000^{date_short_pretty} from {time}|February 3rd, 2022 from 5:00 PM> to <!date^1643907600^{time}|6:00 PM GMT+0100>",
+                "text": "<!date^1643904000^{date_short_pretty} from {time}|February 3rd, 2022 from 5:00 PM> to <!date^1643907600^{time}|6:00 PM GMT+0100> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "pretext": "Calendar event updated",
+                "title": "[SO] Réunion de synchro",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=M3I3dXNmaHB0cG1paGprM29wb3F2dGc5bnMgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "more",
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1643874969.871169",
+        "bot_id": "B4SJBP2L8"
+    }
+]

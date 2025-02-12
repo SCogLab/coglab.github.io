@@ -1,0 +1,96 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event cancelled: FSC 2021: <!date^1618056000^{date_short_pretty} from {time}|April 10th, 2021 from 2:00 PM> to <!date^1618761600^{date_short_pretty} at {time}|April 18th, 2021 at 6:00 PM GMT+0200>",
+                "text": "<!date^1618056000^{date_short_pretty} from {time}|April 10th, 2021 from 2:00 PM> to <!date^1618761600^{date_short_pretty} at {time}|April 18th, 2021 at 6:00 PM GMT+0200>",
+                "pretext": "Calendar event was cancelled",
+                "title": "FSC 2021",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NXVlMDd1MGZnajkwajYzbGJydmN1aG05MW4gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1618232771.002900",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "FSC 2021 - Hugo Mercier: <!date^1618243200^{date_short_pretty} from {time}|April 12th, 2021 from 6:00 PM> to <!date^1618246800^{time}|7:00 PM GMT+0200>",
+                "text": "<!date^1618243200^{date_short_pretty} from {time}|April 12th, 2021 from 6:00 PM> to <!date^1618246800^{time}|7:00 PM GMT+0200>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "FSC 2021 - Hugo Mercier",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MWhwbmNrdHMzYm1rODAwaHU2Z2w1YmsxaWUgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1618239601.003000",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #189 [Online FR]: <!date^1618254000^{date_short_pretty} from {time}|April 12th, 2021 from 9:00 PM> to <!date^1618259400^{time}|10:30 PM GMT+0200>",
+                "text": "<!date^1618254000^{date_short_pretty} from {time}|April 12th, 2021 from 9:00 PM> to <!date^1618259400^{time}|10:30 PM GMT+0200> at <https:\/\/gather.town\/i\/PYn7w8L3>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #189 [Online FR]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MXJldml2MWQ1ZDA4dXJtbmFzaXVodjBiaHQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1618250401.003100",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event time updated: CogLab HackNight #189 [Online FR]: <!date^1618254000^{date_short_pretty} from {time}|April 12th, 2021 from 9:00 PM> to <!date^1618266600^{time}|12:30 AM GMT+0200>",
+                "text": "<!date^1618254000^{date_short_pretty} from {time}|April 12th, 2021 from 9:00 PM> to <!date^1618266600^{time}|12:30 AM GMT+0200> at <https:\/\/gather.town\/i\/PYn7w8L3>",
+                "pretext": "Calendar event time updated",
+                "title": "CogLab HackNight #189 [Online FR]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MXJldml2MWQ1ZDA4dXJtbmFzaXVodjBiaHQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1618266488.003200",
+        "bot_id": "B4SJBP2L8"
+    }
+]

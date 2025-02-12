@@ -1,0 +1,71 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U03FC5ZAK",
+        "text": "<@U03FC5ZAK> a rejoint le canal",
+        "type": "message",
+        "ts": "1574805126.000200"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC5ZAK",
+        "purpose": "Espace dédié aux Masterclass, Summer School et autres interventions à titre pro ou aboutissant sur un financement",
+        "text": "a défini la description du canal : Espace dédié aux Masterclass, Summer School et autres interventions à titre pro ou aboutissant sur un financement",
+        "type": "message",
+        "ts": "1574805126.000300"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U59MQ46DA",
+        "text": "<@U59MQ46DA> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1574805135.000500"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "ULSDVUUVA",
+        "text": "<@ULSDVUUVA> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1574805135.000700"
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1574819767.001600",
+        "client_msg_id": "5bbab591-fe66-4f1e-9970-5ea1faa6dd96",
+        "text": "Est-ce que l’ECE peut fournir un ordinateur portable, un projo pour le cours ? Quelle est la nature du cours ? (j’imagine data cience ?)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DpQwi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Est-ce que l’ECE peut fournir un ordinateur portable, un projo pour le cours ? Quelle est la nature du cours ? (j’imagine data cience ?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,396 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1651061377.651969",
+        "client_msg_id": "41b0b197-78e8-4ca2-abdf-574d9f563e54",
+        "text": "Bonjour, un passage rapide pour signaler que j'ai refais un long passage sur le précédant formulaire de soumission au Comité d'Éthique hier soir.\n\nJe vous invite à relire le document, en particulier :\n• <@U02GLDK69UJ> <@U02GLDKAWQ2> et aussi<@U03FEH3N8> et\/ou <@ULSDVUUVA> si vous repérez des éléments à signaler\n• <@U59MQ46DA> <@U01S8PWA7GU> et peut être <@U03DEGQ2HT3> sur toute la partie 2 (aspect techniques) que je n'ai pas complété et suis loin d'avoir toutes les réponses\nEt de manière générale, si l'un.e d'entre vous à un petit moment pour en faire une relecture ça serait apprécié :pray:\n\nQuelques rappels pratiques :\n:page_with_curl: Le document est accessible ici <https:\/\/docs.google.com\/document\/d\/1kAFrgPG9L74BfbZLFTAi-LFvhdOATFlq\/edit>\n:thought_balloon: N'hésitez pas ajouter des commentaires (j'en ai aussi laissé quelques uns) et éditer directement le document\n:hourglass: Pour rappel, nous sommes en flux tendu, la deadline pour rendre le document c'est &lt;demain&gt;\n\nCe soir je termine d'affiner les fichiers indiqués en annexe.\nMerci à toutes et tous !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1651061377.651969",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1651065415.746639",
+        "reply_users": [
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1651065415.746639"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nT8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour, un passage rapide pour signaler que j'ai refais un long passage sur le précédant formulaire de soumission au Comité d'Éthique hier soir.\n\nJe vous invite à relire le document, en particulier :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U02GLDK69UJ"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U02GLDKAWQ2"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " et aussi"
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U03FEH3N8"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " et\/ou "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "ULSDVUUVA"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " si vous repérez des éléments à signaler"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U59MQ46DA"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01S8PWA7GU"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " et peut être "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U03DEGQ2HT3"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " sur toute la partie 2 (aspect techniques) que je n'ai pas complété et suis loin d'avoir toutes les réponses"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nEt de manière générale, si l'un.e d'entre vous à un petit moment pour en faire une relecture ça serait apprécié "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nQuelques rappels pratiques :\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "page_with_curl",
+                                "unicode": "1f4c3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Le document est accessible ici "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1kAFrgPG9L74BfbZLFTAi-LFvhdOATFlq\/edit"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thought_balloon",
+                                "unicode": "1f4ad"
+                            },
+                            {
+                                "type": "text",
+                                "text": " N'hésitez pas ajouter des commentaires (j'en ai aussi laissé quelques uns) et éditer directement le document\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hourglass",
+                                "unicode": "231b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Pour rappel, nous sommes en flux tendu, la deadline pour rendre le document c'est <demain>\n\nCe soir je termine d'affiner les fichiers indiqués en annexe.\nMerci à toutes et tous !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03DEGQ2HT3",
+        "text": "<@U03DEGQ2HT3> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1651061381.093949",
+        "team": "T03FC4NDZ"
+    },
+    {
+        "text": "J’ai fait une photo du bitalino (au cas où il y  en ait besoin)",
+        "files": [
+            {
+                "id": "F03DV58DENL",
+                "created": 1651065392,
+                "timestamp": 1651065392,
+                "name": "IMG_3630.HEIC",
+                "title": "IMG_3630.HEIC",
+                "mimetype": "image\/heic",
+                "filetype": "heic",
+                "pretty_type": "High Efficiency Image File",
+                "user": "U59MQ46DA",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 1792366,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F03DV58DENL\/img_3630.heic?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F03DV58DENL\/download\/img_3630.heic?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DV58DENL-4168c183e5\/img_3630_64.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DV58DENL-4168c183e5\/img_3630_80.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DV58DENL-4168c183e5\/img_3630_360.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DV58DENL-4168c183e5\/img_3630_480.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DV58DENL-4168c183e5\/img_3630_160.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DV58DENL-4168c183e5\/img_3630_720.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DV58DENL-4168c183e5\/img_3630_800.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DV58DENL-4168c183e5\/img_3630_960.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DV58DENL-4168c183e5\/img_3630_1024.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U59MQ46DA\/F03DV58DENL\/img_3630.heic",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-F03DV58DENL-3cab6d3250",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U59MQ46DA",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cpy7z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’ai fait une photo du bitalino (au cas où il y  en ait besoin)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1651065415.746639",
+        "client_msg_id": "e9b10e7e-a066-4fad-8e7d-f600bdccc551",
+        "team": "T03FC4NDZ",
+        "thread_ts": "1651061377.651969",
+        "parent_user_id": "U03FC5ZAK",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1651128305.466179",
+        "client_msg_id": "d5c36cf8-0043-4133-997a-b642d7f74ec8",
+        "text": "Bonjour,\n\nPour faire suite à mon précédent message (merci Adrien pour tes retours !), j'ai refais un passage complet sur le formulaire de soumission au comité d'éthique cette nuit, et terminé de préparer les fichiers annexes.\n\n:page_facing_up: Le dossier est disponible dans le répertoire 'Dossier Comité Éthique' <https:\/\/drive.google.com\/drive\/folders\/1rCpgZiKpEFp2J-SipqX2CcwWGjLRUgu4>.\n\n<@U01RUJ02ECS> je te laisse en faire une relecture pour un envoi en fin de journée (je n'ai pas vu d'heure spécifique sur <https:\/\/www.universite-paris-saclay.fr\/recherche\/polethis-ethique-et-integrite\/comite-dethique-de-la-recherche|la plateforme>)\nJ'ai laissé quelques commentaires pour te flécher mes doutes et n'hésite pas à m'écrire si besoin (Olivier et Anastasia referons probablement aussi une relecture dans la journée)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1651128305.466179",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1651153461.717469",
+        "reply_users": [
+            "U01RUJ02ECS",
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U01RUJ02ECS",
+                "ts": "1651146834.091499"
+            },
+            {
+                "user": "U01RUJ02ECS",
+                "ts": "1651149069.684509"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1651153461.717469"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.universite-paris-saclay.fr\/recherche\/polethis-ethique-et-integrite\/comite-dethique-de-la-recherche",
+                "ts": 1578351600,
+                "id": 1,
+                "original_url": "https:\/\/www.universite-paris-saclay.fr\/recherche\/polethis-ethique-et-integrite\/comite-dethique-de-la-recherche",
+                "fallback": "Université Paris-Saclay: Comité d'éthique de la recherche",
+                "text": "Le CER  Paris-Saclay  ne se prononce pas sur le respect des mesures barrières contre le Covid-19. Afin de protéger les participants et les personnes impliquées dans la recherche, les responsables de la recherche doivent se mettre en conformité avec les mesures préconisées pour les recherches  sur site et hors site par les tutelles hébergeant les unités de recherche concernée. Cependant si vous avez des documents relatifs au protocole sanitaire mis en place pour le COVID 19 (e.g. fiche à remettre aux participants, questionnaires), vous pouvez les joindre au dossier. Nous reverrons uniquement les aspects éthiques. Le CER ne peut évaluer que 8 dossiers par séance. Par conséquent, certains dossiers pourront être mis sur liste d'attente. ATTENTION : Toute demande d'évaluation, amendement ou réponse au CER doit être faite par la plateforme de dépôt de dossiers (voir Démarche de soumission, point 3) et non par mail.",
+                "title": "Comité d'éthique de la recherche",
+                "title_link": "https:\/\/www.universite-paris-saclay.fr\/recherche\/polethis-ethique-et-integrite\/comite-dethique-de-la-recherche",
+                "service_name": "Université Paris-Saclay"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r9M4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour,\n\nPour faire suite à mon précédent message (merci Adrien pour tes retours !), j'ai refais un passage complet sur le formulaire de soumission au comité d'éthique cette nuit, et terminé de préparer les fichiers annexes.\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "page_facing_up",
+                                "unicode": "1f4c4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Le dossier est disponible dans le répertoire 'Dossier Comité Éthique' "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1rCpgZiKpEFp2J-SipqX2CcwWGjLRUgu4"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RUJ02ECS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je te laisse en faire une relecture pour un envoi en fin de journée (je n'ai pas vu d'heure spécifique sur "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.universite-paris-saclay.fr\/recherche\/polethis-ethique-et-integrite\/comite-dethique-de-la-recherche",
+                                "text": "la plateforme"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\nJ'ai laissé quelques commentaires pour te flécher mes doutes et n'hésite pas à m'écrire si besoin (Olivier et Anastasia referons probablement aussi une relecture dans la journée)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

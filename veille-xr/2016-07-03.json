@@ -1,0 +1,76 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1467578269.000002",
+        "text": "<!here>:  <http:\/\/www.tomsguide.fr\/actualite\/google-chrome-realite-virtuelle,52120.html>\nIntéressant pour developper des projets facilement, notamment <#C03UHP8UD|projet-autispace> si un standard de navigation émerge\nÀ voir toutefois dans quel mesure c'est open ...",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Tom's Guide",
+                "title": "Google Chrome bientôt compatible avec la réalité virtuelle",
+                "title_link": "http:\/\/www.tomsguide.fr\/actualite\/google-chrome-realite-virtuelle,52120.html",
+                "text": "Google compte aller plus loin encore que les simples jeux et vidéos en VR avec un navigateur Internet compatible avec la réalité virtuelle.",
+                "fallback": "Tom's Guide: Google Chrome bientôt compatible avec la réalité virtuelle",
+                "image_url": "http:\/\/media.bestofmicro.com\/ext\/aHR0cDovL21lZGlhLmJlc3RvZm1pY3JvLmNvbS8zLzIvNTc2ODMwL29yaWdpbmFsL2dvb2dsZV9jaHJvbWUucG5n\/w_500.png",
+                "image_width": 445,
+                "image_height": 250,
+                "ts": 1467356400,
+                "from_url": "http:\/\/www.tomsguide.fr\/actualite\/google-chrome-realite-virtuelle,52120.html",
+                "image_bytes": 49470,
+                "service_icon": "http:\/\/www.tomsguide.fr\/medias\/favicon\/apple-touch-icon-57x57.png?v=kPPAMMXoY2",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xi9Z0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ":  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.tomsguide.fr\/actualite\/google-chrome-realite-virtuelle,52120.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nIntéressant pour developper des projets facilement, notamment "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03UHP8UD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " si un standard de navigation émerge\nÀ voir toutefois dans quel mesure c'est open ..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

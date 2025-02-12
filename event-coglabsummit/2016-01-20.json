@@ -1,0 +1,229 @@
+[
+    {
+        "user": "U0AR01SPQ",
+        "type": "message",
+        "ts": "1453328564.000002",
+        "text": "[Fiche d'adhésion 2016] \"cotisation à remettre à l'adhérant\" =&gt; coquille à remplacer par \"adhérent\"\nSi on laisse la case à cocher \"association Ekos\", peut-être expliquer ce que c'est.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b34e84fd77bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-17\/18704226567_b34e84fd77bcdb81946f_72.jpg",
+            "first_name": "Murielle",
+            "real_name": "Murielle PALISSANDRE",
+            "display_name": "murielle",
+            "team": "T03FC4NDZ",
+            "name": "murielle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P4EgJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[Fiche d'adhésion 2016] \"cotisation à remettre à l'adhérant\" => coquille à remplacer par \"adhérent\"\nSi on laisse la case à cocher \"association Ekos\", peut-être expliquer ce que c'est."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1453329427.000003",
+        "text": "le fichier à été mis à jour pas <@U07CFCCBG> ce midi\nje n'ai pas encore relu, ni diffusé\n\nJ'ai créé cela la nuit dernière, pour permettre à n'importe qui de rejoindre le Slack CogLab\n(jusqu'à maintenant je devais inviter les gens manuellement avec leurs mails)\n<https:\/\/slack-neurotechxparis.herokuapp.com\/>\n\nEt j'ai mis le CR de la réunion Fresco de lundi en ligne sur hackpad\n<https:\/\/coglab.hackpad.com\/CR-Runion-Fresco-La-Paillasse-AZ0LFxLoXDF>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3zB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "le fichier à été mis à jour pas "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07CFCCBG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ce midi\nje n'ai pas encore relu, ni diffusé\n\nJ'ai créé cela la nuit dernière, pour permettre à n'importe qui de rejoindre le Slack CogLab\n(jusqu'à maintenant je devais inviter les gens manuellement avec leurs mails)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/slack-neurotechxparis.herokuapp.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nEt j'ai mis le CR de la réunion Fresco de lundi en ligne sur hackpad\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.hackpad.com\/CR-Runion-Fresco-La-Paillasse-AZ0LFxLoXDF"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0AR01SPQ",
+        "type": "message",
+        "ts": "1453330322.000004",
+        "text": "Merci pour les CR, c'est riche en infos! \"NeuroTechParis\" validé :+1:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b34e84fd77bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-17\/18704226567_b34e84fd77bcdb81946f_72.jpg",
+            "first_name": "Murielle",
+            "real_name": "Murielle PALISSANDRE",
+            "display_name": "murielle",
+            "team": "T03FC4NDZ",
+            "name": "murielle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RLs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci pour les CR, c'est riche en infos! \"NeuroTechParis\" validé "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1453330565.000005",
+        "text": "Hum presque :\n* NTX Paris sera officiellement validée par la Fresco samedi lors de l'AG\n* La discussion avec La Paillasse à ce sujet est encore à finaliser\n* Et on est en discussion avec les admin NTX pour le nom et l'apparence du logo (PAR, PARIS, Paris, avec ou sans X, ...)\nUne semaine TRES complexe en somme, vivement ce WE\nRouffi qui s'en va s'écrouler dans son lit, réunion tôt demain au bureau :confused:\n++ !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hOG7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hum presque :\n* NTX Paris sera officiellement validée par la Fresco samedi lors de l'AG\n* La discussion avec La Paillasse à ce sujet est encore à finaliser\n* Et on est en discussion avec les admin NTX pour le nom et l'apparence du logo (PAR, PARIS, Paris, avec ou sans X, ...)\nUne semaine TRES complexe en somme, vivement ce WE\nRouffi qui s'en va s'écrouler dans son lit, réunion tôt demain au bureau "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused",
+                                "unicode": "1f615"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n++ !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0AR01SPQ",
+        "type": "message",
+        "ts": "1453355726.000002",
+        "text": "Hello <@U03FC5ZAK> Penses-tu toujours \"appuyer\" sur un bouton lors du Summit pour lancer le site brandé NTX? Si oui, je propose:\n-Que l'on planifie le launch à 22h pile \n-qu'on annonce sur le facebook invite une inauguration spéciale\n\nPuis qu'on enchaîne sur \"vision collaborative, moment d'échange et partage\" sur petit fond musical. Après tout, c'est vendredi soir! \n\nEventuellement, vu qu'on fait le launch, on pourrait même permettre aux participants de surfer sur le site en direct sur un ordi. Ca les mettrait au coeur de l'action, de la découverte de l'environnement NTX. Enfin c'est juste une idée, à voir...",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b34e84fd77bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-17\/18704226567_b34e84fd77bcdb81946f_72.jpg",
+            "first_name": "Murielle",
+            "real_name": "Murielle PALISSANDRE",
+            "display_name": "murielle",
+            "team": "T03FC4NDZ",
+            "name": "murielle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jxai",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Penses-tu toujours \"appuyer\" sur un bouton lors du Summit pour lancer le site brandé NTX? Si oui, je propose:\n-Que l'on planifie le launch à 22h pile \n-qu'on annonce sur le facebook invite une inauguration spéciale\n\nPuis qu'on enchaîne sur \"vision collaborative, moment d'échange et partage\" sur petit fond musical. Après tout, c'est vendredi soir! \n\nEventuellement, vu qu'on fait le launch, on pourrait même permettre aux participants de surfer sur le site en direct sur un ordi. Ca les mettrait au coeur de l'action, de la découverte de l'environnement NTX. Enfin c'est juste une idée, à voir..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

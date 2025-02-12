@@ -1,0 +1,108 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1558442194.000400",
+        "client_msg_id": "ae6ddd3a-e1ae-49e6-89c1-56a728c42d12",
+        "text": "<https:\/\/knowledge-space.org\/> peut t'intéresser aussi pour ta litérature <@U03FEH3N8>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sO8m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/knowledge-space.org\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " peut t'intéresser aussi pour ta litérature "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FEH3N8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1558443693.000700",
+        "client_msg_id": "6f19f32e-0276-40b8-a419-fe5ae4f9a6f3",
+        "text": "<http:\/\/voila2019.visualdataweb.org\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "VOILA 2019 - Visualization and Interaction for Ontologies and Linked Data",
+                "title_link": "http:\/\/voila2019.visualdataweb.org\/",
+                "text": "ISWC 2019 Workshop on Visualization and Interaction for Ontologies and Linked Data",
+                "fallback": "VOILA 2019 - Visualization and Interaction for Ontologies and Linked Data",
+                "from_url": "http:\/\/voila2019.visualdataweb.org\/",
+                "service_icon": "http:\/\/voila.visualdataweb.org\/favicon.ico",
+                "service_name": "voila2019.visualdataweb.org",
+                "id": 1,
+                "original_url": "http:\/\/voila2019.visualdataweb.org\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5zY7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/voila2019.visualdataweb.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "user": "U01804NJ7AQ",
+        "type": "message",
+        "ts": "1704342637.645969",
+        "client_msg_id": "F4825F6A-D80A-472D-8A71-8AA896E04F7F",
+        "text": "Hey <@U065TGVPMQA> what do you think of this <https:\/\/arxiv.org\/abs\/2401.00473|https:\/\/arxiv.org\/abs\/2401.00473>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g7080a90c528",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7080a90c528526f8129488e607562782.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Morgan Hough",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "morgan.hough",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704342637.645969",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1704359514.080149",
+        "reply_users": [
+            "U065TGVPMQA"
+        ],
+        "replies": [
+            {
+                "user": "U065TGVPMQA",
+                "ts": "1704359514.080149"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/arxiv.org\/abs\/2401.00473",
+                "service_icon": "https:\/\/arxiv.org\/static\/browse\/0.3.4\/images\/icons\/apple-touch-icon.png",
+                "thumb_url": "https:\/\/arxiv.org\/static\/browse\/0.3.4\/images\/arxiv-logo-fb.png",
+                "thumb_width": 1200,
+                "thumb_height": 700,
+                "id": 1,
+                "original_url": "https:\/\/arxiv.org\/abs\/2401.00473",
+                "fallback": "arXiv.org: Emulating insect brains for neuromorphic navigation",
+                "text": "Bees display the remarkable ability to return home in a straight line after meandering excursions to their environment. Neurobiological imaging studies have revealed that this capability emerges from a path integration mechanism implemented within the insect's brain. In the present work, we emulate this neural network on the neuromorphic mixed-signal processor BrainScaleS-2 to guide bees, virtually embodied on a digital co-processor, back to their home location after randomly exploring their environment. To realize the underlying neural integrators, we introduce single-neuron spike-based short-term memory cells with axo-axonic synapses. All entities, including environment, sensory organs, brain, actuators, and the virtual body, run autonomously on a single BrainScaleS-2 microchip. The functioning network is fine-tuned for better precision and reliability through an evolution strategy. As BrainScaleS-2 emulates neural processes 1000 times faster than biology, 4800 consecutive bee journeys distributed over 320 generations occur within only half an hour on a single neuromorphic core.",
+                "title": "Emulating insect brains for neuromorphic navigation",
+                "title_link": "https:\/\/arxiv.org\/abs\/2401.00473",
+                "service_name": "arXiv.org"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "liz0d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U065TGVPMQA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " what do you think of this "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/arxiv.org\/abs\/2401.00473",
+                                "text": "https:\/\/arxiv.org\/abs\/2401.00473"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

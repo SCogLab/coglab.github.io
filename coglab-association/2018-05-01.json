@@ -1,0 +1,220 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1525205219.000572",
+        "client_msg_id": "1c1bd91e-735e-44aa-b7d7-fc867c1acb20",
+        "text": "Coucou\nVoici mon support d'écriture pour la prochaine newsletter qui est quasiment prête !\nJ'invite ceux qui auraient un peu de temps dans la soirée à faire une petite relecture :)\n<https:\/\/docs.google.com\/document\/d\/1cA8Buio1nMMpbtOKC4uxCB4TavpBLMYl2LrgmySdDug\/edit?usp=drivesdk>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1525205219.000572",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1525212204.000414",
+        "reply_users": [
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1525211717.000377"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1525212204.000414"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V\/fm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coucou\nVoici mon support d'écriture pour la prochaine newsletter qui est quasiment prête !\nJ'invite ceux qui auraient un peu de temps dans la soirée à faire une petite relecture :)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1cA8Buio1nMMpbtOKC4uxCB4TavpBLMYl2LrgmySdDug\/edit?usp=drivesdk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U59MQ46DA",
+        "text": "<@U59MQ46DA> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1525211678.000113"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U6N3TJ0QM",
+        "text": "<@U6N3TJ0QM> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1525211678.000268"
+    },
+    {
+        "subtype": "pinned_item",
+        "text": "<@U03FC5ZAK> pinned a message to this channel.",
+        "user": "U03FC5ZAK",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[May 1st, 2018 1:06 PM] rouffi: Coucou\nVoici mon support d'écriture pour la prochaine newsletter qui est quasiment prête !\nJ'invite ceux qui auraient un peu de temps dans la soirée à faire une petite relecture :)\n<https:\/\/docs.google.com\/document\/d\/1cA8Buio1nMMpbtOKC4uxCB4TavpBLMYl2LrgmySdDug\/edit?usp=drivesdk>",
+                "ts": "1525205219.000572",
+                "author_id": "U03FC5ZAK",
+                "author_subname": "Romain ROUYER",
+                "channel_id": "C41SVL8BH",
+                "channel_team": "T03FC4NDZ",
+                "channel_name": "coglab-association",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "Coucou\nVoici mon support d'écriture pour la prochaine newsletter qui est quasiment prête !\nJ'invite ceux qui auraient un peu de temps dans la soirée à faire une petite relecture :)\n<https:\/\/docs.google.com\/document\/d\/1cA8Buio1nMMpbtOKC4uxCB4TavpBLMYl2LrgmySdDug\/edit?usp=drivesdk>",
+                "message_blocks": [
+                    {
+                        "team": "T03FC4NDZ",
+                        "channel": "C41SVL8BH",
+                        "ts": "1525205219.000572",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "6bGP",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Coucou\nVoici mon support d'écriture pour la prochaine newsletter qui est quasiment prête !\nJ'invite ceux qui auraient un peu de temps dans la soirée à faire une petite relecture :)\n"
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/docs.google.com\/document\/d\/1cA8Buio1nMMpbtOKC4uxCB4TavpBLMYl2LrgmySdDug\/edit?usp=drivesdk"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "author_name": "Romain ROUYER",
+                "author_link": "https:\/\/scoglab.slack.com\/team\/U03FC5ZAK",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "from_hidden_wksp": false
+            }
+        ],
+        "type": "message",
+        "ts": "1525211688.000104"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1525211717.000377",
+        "text": "intégration en cours dans mailchimp",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1525205219.000572",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4GO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "intégration en cours dans mailchimp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1525212204.000414",
+        "text": "cc <@U5JBN3M8Q>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1525205219.000572",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8mz=x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U5JBN3M8Q"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

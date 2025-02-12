@@ -1,0 +1,54 @@
+[
+    {
+        "user": "U01804NJ7AQ",
+        "type": "message",
+        "ts": "1711343487.192179",
+        "client_msg_id": "15810F3E-F835-4BB7-998D-E2D685C1C71C",
+        "text": "<https:\/\/hal.science\/hal-04512801|https:\/\/hal.science\/hal-04512801>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g7080a90c528",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7080a90c528526f8129488e607562782.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Morgan Hough",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "morgan.hough",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/hal.science\/hal-04512801",
+                "service_icon": "https:\/\/hal.science\/assets\/favicon\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/hal.science\/hal-04512801",
+                "fallback": "Deep learning models reveal the link between dynamic brain connectivity patterns and states of consciousness",
+                "text": "Decoding states of consciousness from brain activity is a central challenge in neuroscience. Dynamic functional connectivity (dFC) allows the study of short-term temporal changes in functional connectivity (FC) between distributed brain areas. By clustering dFC matrices from resting-state fMRI, we previously described \"brain patterns\" that underlie different functional configurations of the brain at rest. The networks associated with these patterns have been extensively analyzed. However, the overall dynamic organization and how it relates to consciousness remains unclear. We hypothesized that deep learning networks would help to model this relationship. Using low-dimensional variational autoencoders (VAE), recent studies have attempted to learn meaningful representations that can help explain consciousness. Here, we investigated the complexity of\nselecting such a generative model to study brain dynamics, and extended the available methods for latent space characterization and modeling. Therefore, our contributions are threefold. First, in comparison with probabilistic principal component analysis and sparse VAE, we showed that the selected low-dimensional VAE exhibits balanced performance in reconstructing dFCs and classifying brain patterns. The organization of the obtained low-dimensional dFC latent representations was then explored. We showed how these representations stratify the dynamic organization of the brain patterns as well as the experimental conditions. Finally, we proposed to delve into the proposed brain computational model. A receptive field analysis was first applied to identify preferred directions in the latent space to move from one brain pattern to another. Then, an ablation study\nwas achieved where specific brain areas were virtually inactivated. We demonstrated the efficiency of the model in summarizing consciousness-specific information that is encoded in key inter-areal connections, as described in the global neural workspace theory of consciousness. The proposed framework advocates the possibility to develop an interpretable computational brain model of interest for disorders of consciousness, paving the way for a dynamic diagnostic support tool.",
+                "title": "Deep learning models reveal the link between dynamic brain connectivity patterns and states of consciousness",
+                "title_link": "https:\/\/hal.science\/hal-04512801",
+                "service_name": "hal.science"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z14tl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/hal.science\/hal-04512801",
+                                "text": "https:\/\/hal.science\/hal-04512801"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

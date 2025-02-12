@@ -1,0 +1,202 @@
+[
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC5ZAK",
+        "purpose": "Projet de création d'une expérience transmédia en réalité virtuelle sur le sujet de l'autisme <https:\/\/coglab.fr\/autispace>",
+        "text": "a défini la description du canal : Projet de création d'une expérience transmédia en réalité virtuelle sur le sujet de l'autisme <https:\/\/coglab.fr\/autispace>",
+        "type": "message",
+        "ts": "1556482429.000100"
+    },
+    {
+        "subtype": "channel_topic",
+        "user": "U03FC5ZAK",
+        "topic": "Projet Autispace <http:\/\/coglab.fr\/autispace|coglab.fr\/autispace>",
+        "text": "a défini le thème du canal : Projet Autispace <http:\/\/coglab.fr\/autispace|coglab.fr\/autispace>",
+        "type": "message",
+        "ts": "1556482442.000200"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1556485829.000400",
+        "client_msg_id": "d568164a-0bad-4e24-83f2-ebd31b071ac8",
+        "text": "<http:\/\/voicesofvr.com\/751-virtual-skills-training-for-autism-spectrum-disorder-using-applied-behavioral-analysis-with-behaviorme\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556485829.000400",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1556485882.000800",
+        "reply_users": [
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1556485860.000500"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1556485882.000800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "td9K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/voicesofvr.com\/751-virtual-skills-training-for-autism-spectrum-disorder-using-applied-behavioral-analysis-with-behaviorme\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1556485860.000500",
+        "client_msg_id": "0ead608c-d027-4d5d-8e4c-8dcc404952c9",
+        "text": "<https:\/\/behaviorme.co\/autismandvirtualreality\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556485829.000400",
+        "parent_user_id": "U03FC5ZAK",
+        "attachments": [
+            {
+                "service_name": "BehaviorMe",
+                "title": "VR Meets Autism: Real Life Seen Through Virtual Eyes - BehaviorMe",
+                "title_link": "https:\/\/behaviorme.co\/autismandvirtualreality\/",
+                "fallback": "BehaviorMe: VR Meets Autism: Real Life Seen Through Virtual Eyes - BehaviorMe",
+                "image_url": "https:\/\/behaviorme.co\/wp-content\/uploads\/2019\/04\/autism-awareness.png",
+                "image_width": 405,
+                "image_height": 250,
+                "ts": 1554258311,
+                "from_url": "https:\/\/behaviorme.co\/autismandvirtualreality\/",
+                "image_bytes": 357149,
+                "service_icon": "https:\/\/behaviorme.co\/wp-content\/uploads\/2019\/04\/cropped-bmefavicon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/behaviorme.co\/autismandvirtualreality\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Jhvl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/behaviorme.co\/autismandvirtualreality\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U03FC5ZAK",
+        "thread_ts": "1556485829.000400",
+        "root": {
+            "user": "U03FC5ZAK",
+            "type": "message",
+            "ts": "1556485829.000400",
+            "client_msg_id": "d568164a-0bad-4e24-83f2-ebd31b071ac8",
+            "text": "<http:\/\/voicesofvr.com\/751-virtual-skills-training-for-autism-spectrum-disorder-using-applied-behavioral-analysis-with-behaviorme\/>",
+            "team": "T03FC4NDZ",
+            "thread_ts": "1556485829.000400",
+            "reply_count": 2,
+            "reply_users_count": 1,
+            "latest_reply": "1556485882.000800",
+            "reply_users": [
+                "U03FC5ZAK"
+            ],
+            "replies": [
+                {
+                    "user": "U03FC5ZAK",
+                    "ts": "1556485860.000500"
+                },
+                {
+                    "user": "U03FC5ZAK",
+                    "ts": "1556485882.000800"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "66f",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "link",
+                                    "url": "http:\/\/voicesofvr.com\/751-virtual-skills-training-for-autism-spectrum-disorder-using-applied-behavioral-analysis-with-behaviorme\/"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1556485882.000800",
+        "client_msg_id": "9c79b034-7034-4d55-9f2d-3af65a859930",
+        "text": "A creuser, je n'ai pas encore écouté le podcast",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aRb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A creuser, je n'ai pas encore écouté le podcast"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

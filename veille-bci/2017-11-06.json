@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1510007343.000286",
+        "text": "<https:\/\/www.thync.com>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Thync Global Inc. Bioelectronic Devices, Neuromodulation, Bioelectronics",
+                "title_link": "https:\/\/www.thync.com",
+                "text": "The First Consumer Health Solution for Lowering Stress and Anxiety.",
+                "fallback": "Thync Global Inc. Bioelectronic Devices, Neuromodulation, Bioelectronics",
+                "from_url": "https:\/\/www.thync.com",
+                "service_icon": "https:\/\/www.thync.com\/hs-fs\/hub\/432410\/file-1784671474-ico\/favicon.ico?t=1509986915282",
+                "service_name": "thync.com",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=BN8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.thync.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1533627694.000337",
+        "client_msg_id": "b418277f-8517-422b-9262-cdd5e372d411",
+        "text": "J’ai vu la version avec Snips hier\n<https:\/\/www.smb-tec.com\/blog\/is-it-google-aiy-nah-its-snips>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Is it Google AIY? Nah, it's Snips!",
+                "title_link": "https:\/\/www.smb-tec.com\/blog\/is-it-google-aiy-nah-its-snips",
+                "text": "In this blog post I would like to go into more detail about setting up a Snips satellite. A Google AIY Voice Kit supplemented by a Raspberry Pi Zero W is...",
+                "fallback": "Is it Google AIY? Nah, it's Snips!",
+                "image_url": "http:\/\/www.smb-tec.com\/user\/pages\/04.blog\/is-it-google-aiy-nah-its-snips\/snips-aiy.jpg",
+                "from_url": "https:\/\/www.smb-tec.com\/blog\/is-it-google-aiy-nah-its-snips",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 150670,
+                "service_name": "smb-tec.com",
+                "id": 1,
+                "original_url": "https:\/\/www.smb-tec.com\/blog\/is-it-google-aiy-nah-its-snips"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G\/qg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’ai vu la version avec Snips hier\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.smb-tec.com\/blog\/is-it-google-aiy-nah-its-snips"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

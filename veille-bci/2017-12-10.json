@@ -1,0 +1,121 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1512933901.000077",
+        "text": "<https:\/\/medium.com\/mozilla-festival\/mapping-brain-waves-at-mozfest-65ec8142fee9>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "Mapping Brain Waves at MozFest – Mozilla Festival – Medium",
+                "title_link": "https:\/\/medium.com\/mozilla-festival\/mapping-brain-waves-at-mozfest-65ec8142fee9",
+                "text": "“Close your eyes and concentrate on your breaths in and out,” Dano Morrison instructed a participant. The participant wore a sensor…",
+                "fallback": "Medium: Mapping Brain Waves at MozFest – Mozilla Festival – Medium",
+                "image_url": "https:\/\/cdn-images-1.medium.com\/max\/1200\/0*PvOx8bWNMp2OMtdv.",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "3 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1512524890,
+                "from_url": "https:\/\/medium.com\/mozilla-festival\/mapping-brain-waves-at-mozfest-65ec8142fee9",
+                "image_width": 188,
+                "image_height": 250,
+                "image_bytes": 400911,
+                "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/304\/304\/1*yKg5ordDZBcyaysaRWenSQ.png",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sUN2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/medium.com\/mozilla-festival\/mapping-brain-waves-at-mozfest-65ec8142fee9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1512952857.000078",
+        "text": "<https:\/\/www.youtube.com\/watch?v=URv_iz631Y0&amp;t>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "NoorABrainOperaWithSubTitles",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=URv_iz631Y0&amp;t",
+                "author_name": "ellenluminescense",
+                "author_link": "https:\/\/www.youtube.com\/user\/ellenluminescense",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/URv_iz631Y0\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: NoorABrainOperaWithSubTitles",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/URv_iz631Y0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" gesture=\"media\" allow=\"encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=URv_iz631Y0&amp;t",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vndiN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=URv_iz631Y0&amp;t",
+                                "text": "https:\/\/www.youtube.com\/watch?v=URv_iz631Y0&t"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

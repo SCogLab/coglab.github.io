@@ -1,0 +1,181 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1610387090.008700",
+        "client_msg_id": "022ce9e9-1dbd-4345-a4f4-6a6b9ce77743",
+        "text": "Voici un billet pour introduire la nouvelle saison 2021 des soirées HackNight\nAu plaisir de vous accueillir ce soir !\n\nRDV à partir de 21h sur cette chaîne pour la seconde partie de soirée : <#C01JBBNSJ0M|coglab-hacknight-live>\n\n<https:\/\/coglab.fr\/hacknight-saison2021\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "CogLab, NeuroTechX Paris",
+                "title": "Reprise des HackNight, saison 2021",
+                "title_link": "https:\/\/coglab.fr\/hacknight-saison2021\/",
+                "text": "Reprise des soirées HackNight hebdomadaire de l’association CogLab, NeuroTechX dès ce lundi 11 janvier 2021, avec un légère évolution du format. Inscription sur la page Meetup habituelle. &amp;nb…",
+                "fallback": "CogLab, NeuroTechX Paris: Reprise des HackNight, saison 2021",
+                "image_url": "https:\/\/coglab.fr\/wp-content\/uploads\/2021\/01\/HackNight-177.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "ts": 1610375311,
+                "from_url": "https:\/\/coglab.fr\/hacknight-saison2021\/",
+                "image_bytes": 68584,
+                "service_icon": "https:\/\/i1.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=180%2C180&#038;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/coglab.fr\/hacknight-saison2021\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ygbe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Voici un billet pour introduire la nouvelle saison 2021 des soirées HackNight\nAu plaisir de vous accueillir ce soir !\n\nRDV à partir de 21h sur cette chaîne pour la seconde partie de soirée : "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C01JBBNSJ0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.fr\/hacknight-saison2021\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1610387559.009300",
+        "client_msg_id": "b69709ae-cc4d-4c48-8499-cff663158d68",
+        "text": "We are actually online for the first part until 8PM\n<https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Jitsi Meet",
+                "title_link": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "text": "Join a WebRTC video conference powered by the Jitsi Videobridge",
+                "fallback": "Jitsi Meet",
+                "from_url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "service_icon": "https:\/\/meet.jit.si\/images\/apple-touch-icon.png",
+                "service_name": "meet.jit.si",
+                "id": 1,
+                "original_url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "siaIa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We are actually online for the first part until 8PM\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1610396229.010000",
+        "client_msg_id": "403fefbc-df98-46f9-9875-3a472ceba817",
+        "text": ":wave: S'il y a des personnes connectée pour la seconde partie de la soirée, nous sommes en audio sur <#C01JBBNSJ0M|coglab-hacknight-live>  :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/R=o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " S'il y a des personnes connectée pour la seconde partie de la soirée, nous sommes en audio sur "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C01JBBNSJ0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,120 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1540914197.000400",
+        "edited": {
+            "user": "U03FC5ZAK",
+            "ts": "1540914207.000000"
+        },
+        "client_msg_id": "5d84ea9b-e343-44ff-aca2-96a2c5fb3da2",
+        "text": "Tu as acheté ton Muse trop tôt <@U59MQ46DA> ! :stuck_out_tongue:\n<https:\/\/choosemuse.com\/muse-2\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Muse",
+                "title": "Muse™ - Meditation Made Easy",
+                "title_link": "https:\/\/choosemuse.com\/muse-2\/",
+                "text": "Meditation like you’ve never imagined. Muse is your personal meditation assistant.",
+                "fallback": "Muse: Muse™ - Meditation Made Easy",
+                "image_url": "https:\/\/choosemuse.com\/app\/uploads\/2018\/10\/muse-2-facebook-4.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/choosemuse.com\/muse-2\/",
+                "image_bytes": 75484,
+                "service_icon": "https:\/\/choosemuse.com\/app\/uploads\/2018\/10\/cropped-Favicon_Muse_Harley-Oliver-1-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/choosemuse.com\/muse-2\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3WyUv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu as acheté ton Muse trop tôt "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue",
+                                "unicode": "1f61b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/choosemuse.com\/muse-2\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1540927663.003000",
+        "client_msg_id": "FDF25AA7-916D-4714-B0F2-6B736AF82631",
+        "text": "Mince, j’allais envoyer le lien. Un peu déçu qu’ils n’aient rien proposé pour EEG + VR.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cDmEo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mince, j’allais envoyer le lien. Un peu déçu qu’ils n’aient rien proposé pour EEG + VR."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

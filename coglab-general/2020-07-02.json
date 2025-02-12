@@ -1,0 +1,35 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Hans Harisson",
+                "fallback": "Hans Harisson commented on Historical map of Cognitive Science (current v2): \"La version v3 de la map est apparue\"",
+                "text": "La version v3 de la map est apparue",
+                "pretext": "New comment on *<https:\/\/trello.com\/c\/eq3kfGbq|Historical map of Cognitive Science (current v2)>*",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/hansharisson1",
+                "author_icon": "https:\/\/trello-members.s3.amazonaws.com\/5932ca0090ff177f1e3be0a0\/3b24595bfbf9964329e0f68a00393ac7\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1593685115.062600",
+        "bot_id": "B66HQV43C",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6EPG5PTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

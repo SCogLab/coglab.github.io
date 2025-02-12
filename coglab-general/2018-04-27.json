@@ -1,0 +1,181 @@
+[
+    {
+        "user": "U5JBN3M8Q",
+        "type": "message",
+        "ts": "1524823816.000069",
+        "text": "Hello à tous et welcome <@UA95G2SAZ>. J'ai revu les articles pour la newsletter. Sur celui consacré au Forum, <@U03FC5ZAK> tu as des questions mais elles concernent des modifs faites par <@U6N3TJ0QM>. Il a été enrichi et je le trouve très complet. Pour l'article sur l''EDHEC, <@U03FC5ZAK> éventuellement tu peux donner des détails sur ton intervention. Idéalement, il faudrait détailler les autres interventions mais il me faudra revoir la conf. Est-ce nécessaire ? Sinon pour les autres, j'ai proposé qqes modifs mineurs (genre coquilles).",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1b6f1c358f7d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-04\/280876898465_1b6f1c358f7daf194add_72.jpg",
+            "first_name": "Isabelle",
+            "real_name": "Isabelle NICHELLE",
+            "display_name": "isabelle_n",
+            "team": "T03FC4NDZ",
+            "name": "isabelle_n",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1524823816.000069",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1524827615.000009",
+        "reply_users": [
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1524824748.000327"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1524827615.000009"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r+a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous et welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UA95G2SAZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". J'ai revu les articles pour la newsletter. Sur celui consacré au Forum, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tu as des questions mais elles concernent des modifs faites par "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U6N3TJ0QM"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Il a été enrichi et je le trouve très complet. Pour l'article sur l''EDHEC, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " éventuellement tu peux donner des détails sur ton intervention. Idéalement, il faudrait détailler les autres interventions mais il me faudra revoir la conf. Est-ce nécessaire ? Sinon pour les autres, j'ai proposé qqes modifs mineurs (genre coquilles)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "spock-hand",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1524824748.000327",
+        "text": "Merci pour ton retour Isabelle\nMes Slides sont dispo sur le Drive\n<https:\/\/drive.google.com\/drive\/folders\/1W49sMXZETtrD-lH_CDKSFizNenXx-Gbk>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1524823816.000069",
+        "parent_user_id": "U5JBN3M8Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OocFs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci pour ton retour Isabelle\nMes Slides sont dispo sur le Drive\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1W49sMXZETtrD-lH_CDKSFizNenXx-Gbk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1524827615.000009",
+        "text": "tu as vu des coquilles sur ceux déjà en ligne ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1524823816.000069",
+        "parent_user_id": "U5JBN3M8Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fjuT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tu as vu des coquilles sur ceux déjà en ligne ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

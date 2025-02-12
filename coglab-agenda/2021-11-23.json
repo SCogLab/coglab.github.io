@@ -1,0 +1,95 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "[Option] SO Synchro Protocole XP: <!date^1637672400^{date_short_pretty} from {time}|November 23rd, 2021 from 2:00 PM> to <!date^1637676000^{time}|3:00 PM GMT+0100>",
+                "text": "<!date^1637672400^{date_short_pretty} from {time}|November 23rd, 2021 from 2:00 PM> to <!date^1637676000^{time}|3:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Online|Online>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "[Option] SO Synchro Protocole XP",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MGowMTc2YW83MzZ1dmQzMDVvN2NjM3Y5OHAgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1637668803.004100",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: [Option] SO Synchro Protocole XP: <!date^1637672400^{date_short_pretty} from {time}|November 23rd, 2021 from 2:00 PM> to <!date^1637676000^{time}|3:00 PM GMT+0100>",
+                "text": "<!date^1637672400^{date_short_pretty} from {time}|November 23rd, 2021 from 2:00 PM> to <!date^1637676000^{time}|3:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Online|Online>",
+                "pretext": "Calendar event updated",
+                "title": "[Option] SO Synchro Protocole XP",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MGowMTc2YW83MzZ1dmQzMDVvN2NjM3Y5OHAgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1637671996.004200",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: OpenCogLab #5: <!date^1637775000^{date_short_pretty} from {time}|November 24th, 2021 from 6:30 PM> to <!date^1637789400^{time}|10:30 PM GMT+0100>",
+                "text": "<!date^1637775000^{date_short_pretty} from {time}|November 24th, 2021 from 6:30 PM> to <!date^1637789400^{time}|10:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=CRI+Centre+de+recherches+interdisciplinaires%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France|CRI Centre de recherches interdisciplinaires, 8 bis Rue Charles V, 75004 Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "OpenCogLab #5",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Y2dwbWFjcjJjZGltYWI5bWM1aDYyYjlrNzBxamliOXBjNHMzMmI5bTZ0aGpnb3IzNzByMzBjYjE2OCBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1637691324.004300",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: OpenCogLab #5: <!date^1637775000^{date_short_pretty} from {time}|November 24th, 2021 from 6:30 PM> to <!date^1637789400^{time}|10:30 PM GMT+0100>",
+                "text": "<!date^1637775000^{date_short_pretty} from {time}|November 24th, 2021 from 6:30 PM> to <!date^1637789400^{time}|10:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=CRI+Centre+de+recherches+interdisciplinaires%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France|CRI Centre de recherches interdisciplinaires, 8 bis Rue Charles V, 75004 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "OpenCogLab #5",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Y2dwbWFjcjJjZGltYWI5bWM1aDYyYjlrNzBxamliOXBjNHMzMmI5bTZ0aGpnb3IzNzByMzBjYjE2OCBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1637692337.004400",
+        "bot_id": "B4SJBP2L8"
+    }
+]

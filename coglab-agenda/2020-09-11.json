@@ -1,0 +1,48 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: CogLab HackNight #163 [Online]: <!date^1600101000^{date_short_pretty} from {time}|September 14th, 2020 from 6:30 PM> to <!date^1600111800^{time}|9:30 PM GMT+0200>",
+                "text": "<!date^1600101000^{date_short_pretty} from {time}|September 14th, 2020 from 6:30 PM> to <!date^1600111800^{time}|9:30 PM GMT+0200> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "pretext": "New calendar event created",
+                "title": "CogLab HackNight #163 [Online]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MmhvbHEwMGFxN2FrY2FtdnE3dGQ0bG0xNDEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1599827765.001600",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: CA CogLab 2020.3: <!date^1600446600^{date_short_pretty} from {time}|September 18th, 2020 from 6:30 PM> to <!date^1600450200^{time}|7:30 PM GMT+0200>",
+                "text": "<!date^1600446600^{date_short_pretty} from {time}|September 18th, 2020 from 6:30 PM> to <!date^1600450200^{time}|7:30 PM GMT+0200>",
+                "pretext": "New calendar event created",
+                "title": "CA CogLab 2020.3",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MDZmam1pN2o5ZG5xYWMwMnU1ajgwdGw2ZXUgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1599830524.001700",
+        "bot_id": "B4SJBP2L8"
+    }
+]

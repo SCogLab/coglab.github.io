@@ -1,0 +1,155 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1729883536.843889",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1729883622.000000"
+        },
+        "client_msg_id": "7e90c6dd-9f1a-4050-9119-229455687d7f",
+        "text": "Shield EEG pour Jetson Nano : <https:\/\/pieeg.com\/jneeg\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/pieeg.com\/jneeg\/",
+                "ts": 1714998786,
+                "image_url": "https:\/\/pieeg.com\/wp-content\/uploads\/2024\/05\/main-video.png",
+                "image_width": 1932,
+                "image_height": 1087,
+                "image_bytes": 1997387,
+                "service_icon": "https:\/\/sp-ao.shortpixel.ai\/client\/to_auto,q_glossy,ret_img,w_180,h_180\/https:\/\/pieeg.com\/wp-content\/uploads\/2024\/06\/cropped-2ad63469-d041-425c-8af5-41ac362a733d-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/pieeg.com\/jneeg\/",
+                "fallback": "PIEEG: JNEEG - PIEEG",
+                "text": "Now you can buy a brain-computer interface (low-cost EEG device) with shield JNEEG (Shield for...",
+                "title": "JNEEG - PIEEG",
+                "title_link": "https:\/\/pieeg.com\/jneeg\/",
+                "service_name": "PIEEG",
+                "fields": [
+                    {
+                        "value": "PiEEG",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "1 minute",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QSdW7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Shield EEG pour Jetson Nano : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pieeg.com\/jneeg\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01804NJ7AQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1729883554.623399",
+        "client_msg_id": "486c6e24-7963-4d38-b90d-0f27d6432063",
+        "text": "et son github : <https:\/\/github.com\/pieeg-club\/EEG-with-JetsonNano\/tree\/master>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/opengraph.githubassets.com\/94cebb6a7d767ef53ebef7c3f51b0f2e1f3953e89257f1a1b4b7759dc4909053\/pieeg-club\/EEG-with-JetsonNano",
+                "image_width": 1200,
+                "image_height": 600,
+                "image_bytes": 102243,
+                "from_url": "https:\/\/github.com\/pieeg-club\/EEG-with-JetsonNano\/tree\/master",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/pieeg-club\/EEG-with-JetsonNano\/tree\/master",
+                "fallback": "GitHub: GitHub - pieeg-club\/EEG-with-JetsonNano: Open-Source. With deep learning to neuroscience world with shield for jetson nano - JNEEG",
+                "text": "Open-Source. With deep learning to neuroscience world with shield for jetson nano - JNEEG - GitHub - pieeg-club\/EEG-with-JetsonNano: Open-Source. With deep learning to neuroscience world with shie...",
+                "title": "GitHub - pieeg-club\/EEG-with-JetsonNano: Open-Source. With deep learning to neuroscience world with shield for jetson nano - JNEEG",
+                "title_link": "https:\/\/github.com\/pieeg-club\/EEG-with-JetsonNano\/tree\/master",
+                "service_name": "GitHub"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dSFE5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "et son github : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/pieeg-club\/EEG-with-JetsonNano\/tree\/master"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U030N4TDS3G"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

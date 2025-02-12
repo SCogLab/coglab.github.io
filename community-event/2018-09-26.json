@@ -1,0 +1,142 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1537945632.000100",
+        "client_msg_id": "b3506fcc-d479-4d2e-88f2-c18184092f0b",
+        "text": "Tu as pu regarder le Webinar NXT ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1537862729.000200",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tgJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu as pu regarder le Webinar NXT ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1537947380.000100",
+        "client_msg_id": "f8d0db1a-bc86-40fa-8b3f-40fefbb87580",
+        "text": "Je n’ai vu que des bribes dans les transports, mais il m’avait l’air très bon (je le regarde en replay).",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1537862729.000200",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Vh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je n’ai vu que des bribes dans les transports, mais il m’avait l’air très bon (je le regarde en replay)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1537952221.000100",
+        "client_msg_id": "aba7acb0-9752-4d94-93c1-dbea8f00c86f",
+        "text": "Bon, c’était intéressant le setup utilisé pour ses recherches est à base de biopac : <https:\/\/www.biopac.com\/products\/?fwp_product_search=eeg>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1537862729.000200",
+        "parent_user_id": "U03FC5ZAK",
+        "attachments": [
+            {
+                "service_name": "BIOPAC Systems, Inc.",
+                "title": "Products | BIOPAC",
+                "title_link": "https:\/\/www.biopac.com\/products\/?fwp_product_search=eeg",
+                "text": "This Mobita wearable physiological signal amplifier system records 32 channels of high-fidelity wireless EEG data with water electrodes. The system includes: Mobita base unit with onboard 3D accelerometer &amp; trigger channel ConfiCap™ configured for 32-Channel EEG Headcap with 32 grommets for Water Based Electrodes Water Based Electrodes AcqKnowledge software This Mobita® System is uniquely suited to record wireless EEG for a variety of applications, such as …",
+                "fallback": "BIOPAC Systems, Inc.: Products | BIOPAC",
+                "thumb_url": "https:\/\/www.biopac.com\/wp-content\/uploads\/webinar-icon.png",
+                "from_url": "https:\/\/www.biopac.com\/products\/?fwp_product_search=eeg",
+                "thumb_width": 45,
+                "thumb_height": 45,
+                "service_icon": "https:\/\/www.biopac.com\/wp-content\/themes\/biopac\/library\/images\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.biopac.com\/products\/?fwp_product_search=eeg"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Lbf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bon, c’était intéressant le setup utilisé pour ses recherches est à base de biopac : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.biopac.com\/products\/?fwp_product_search=eeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

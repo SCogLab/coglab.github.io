@@ -1,0 +1,69 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: Call NTX BIR 2021: <!date^1609333200^{date_short_pretty} from {time}|December 30th, 2020 from 2:00 PM> to <!date^1609336800^{time}|3:00 PM GMT+0100>",
+                "text": "<!date^1609333200^{date_short_pretty} from {time}|December 30th, 2020 from 2:00 PM> to <!date^1609336800^{time}|3:00 PM GMT+0100>",
+                "pretext": "New calendar event created",
+                "title": "Call NTX BIR 2021",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=YzRxbTJkYjVjY282NGI5cDZrcmowYjlrNnNwNmNiYjI2OWk2OGI5a2NoaGphZTM0NmhqMzJjOWo2NCBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1609321146.000400",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "Call NTX BIR 2021: <!date^1609333200^{date_short_pretty} from {time}|December 30th, 2020 from 2:00 PM> to <!date^1609336800^{time}|3:00 PM GMT+0100>",
+                "text": "<!date^1609333200^{date_short_pretty} from {time}|December 30th, 2020 from 2:00 PM> to <!date^1609336800^{time}|3:00 PM GMT+0100>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "Call NTX BIR 2021",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=YzRxbTJkYjVjY282NGI5cDZrcmowYjlrNnNwNmNiYjI2OWk2OGI5a2NoaGphZTM0NmhqMzJjOWo2NCBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1609329602.000500",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: Call NTX BIR 2021: <!date^1609333200^{date_short_pretty} from {time}|December 30th, 2020 from 2:00 PM> to <!date^1609335000^{time}|2:30 PM GMT+0100>",
+                "text": "<!date^1609333200^{date_short_pretty} from {time}|December 30th, 2020 from 2:00 PM> to <!date^1609335000^{time}|2:30 PM GMT+0100>",
+                "pretext": "Calendar event updated",
+                "title": "Call NTX BIR 2021",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=YzRxbTJkYjVjY282NGI5cDZrcmowYjlrNnNwNmNiYjI2OWk2OGI5a2NoaGphZTM0NmhqMzJjOWo2NCBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1609336326.000100",
+        "bot_id": "B4SJBP2L8"
+    }
+]

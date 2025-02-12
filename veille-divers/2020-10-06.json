@@ -1,0 +1,85 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1601992573.000600",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1601992597.000000"
+        },
+        "client_msg_id": "8b4d6b71-a3c9-4d8c-8cee-4af40564705e",
+        "text": "Une _library_ React pour de la dataviz (by Airbnb) : <https:\/\/airbnb.io\/visx\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "visx | visualization components",
+                "title_link": "https:\/\/airbnb.io\/visx\/",
+                "text": "a collection of expressive, low-level visualization primitives for React",
+                "fallback": "visx | visualization components",
+                "image_url": "https:\/\/raw.githubusercontent.com\/airbnb\/visx\/master\/assets\/x-hero.png",
+                "from_url": "https:\/\/airbnb.io\/visx\/",
+                "image_width": 532,
+                "image_height": 250,
+                "image_bytes": 397710,
+                "service_icon": "https:\/\/airbnb.io\/favicon.ico",
+                "service_name": "airbnb.io",
+                "id": 1,
+                "original_url": "https:\/\/airbnb.io\/visx\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ko11G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Une "
+                            },
+                            {
+                                "type": "text",
+                                "text": "library",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " React pour de la dataviz (by Airbnb) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/airbnb.io\/visx\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

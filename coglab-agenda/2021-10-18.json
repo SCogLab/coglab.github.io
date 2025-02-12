@@ -1,0 +1,95 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight: <!date^1634574600^{date_short_pretty} from {time}|October 18th, 2021 from 6:30 PM> to <!date^1634589000^{time}|10:30 PM GMT+0200>",
+                "text": "<!date^1634574600^{date_short_pretty} from {time}|October 18th, 2021 from 6:30 PM> to <!date^1634589000^{time}|10:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Cri%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France%2C+Charles+V-0-MakerLab+Classroom+%2830%29|Cri, 8 bis Rue Charles V, 75004 Paris, France, Charles V-0-MakerLab Classroom (30)>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NnQ1N2hnNDc5dmRoYWkwdWFpdDR2ZHZjNzFfMjAyMTEwMThUMTYzMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1634571001.000100",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: CogLab Open Project: <!date^1634747400^{date_short_pretty} from {time}|October 20th, 2021 from 6:30 PM> to <!date^1634761800^{time}|10:30 PM GMT+0200>",
+                "text": "<!date^1634747400^{date_short_pretty} from {time}|October 20th, 2021 from 6:30 PM> to <!date^1634761800^{time}|10:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Cri%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France%2C+Charles+V-0-MakerLab+Classroom+%2830%29|Cri, 8 bis Rue Charles V, 75004 Paris, France, Charles V-0-MakerLab Classroom (30)>",
+                "pretext": "New calendar event created",
+                "title": "CogLab Open Project",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NmMzYTM5aG82aTc5OWtjMzBlZjFxOHBxb3Ygc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1634575874.000200",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: [option] CogLab x Cojitergo: <!date^1636477200^{date_short_pretty} from {time}|November 9th, 2021 from 6:00 PM> to <!date^1636484400^{time}|8:00 PM GMT+0100>",
+                "text": "<!date^1636477200^{date_short_pretty} from {time}|November 9th, 2021 from 6:00 PM> to <!date^1636484400^{time}|8:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Cri%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France|Cri, 8 bis Rue Charles V, 75004 Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "[option] CogLab x Cojitergo",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NXN0M2gwdXU2dGprdHJvdmxqaDlnNDBqYnMgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1634584216.000300",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: [option] CogLab x Cojitergo: <!date^1636477200^{date_short_pretty} from {time}|November 9th, 2021 from 6:00 PM> to <!date^1636484400^{time}|8:00 PM GMT+0100>",
+                "text": "<!date^1636477200^{date_short_pretty} from {time}|November 9th, 2021 from 6:00 PM> to <!date^1636484400^{time}|8:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Cri%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France|Cri, 8 bis Rue Charles V, 75004 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "[option] CogLab x Cojitergo",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NXN0M2gwdXU2dGprdHJvdmxqaDlnNDBqYnMgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1634584395.000400",
+        "bot_id": "B4SJBP2L8"
+    }
+]

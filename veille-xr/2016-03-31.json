@@ -1,0 +1,102 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1459427171.000016",
+        "text": "<@U07CFCCBG>: :simple_smile:\n<https:\/\/www.facebook.com\/klyntapp\/photos\/a.10150231088391186.325418.61080701185\/10153470887791186\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Klynt - Vous avez un projet de contenus 360 ou en Réalité... | Facebook",
+                "title_link": "https:\/\/www.facebook.com\/klyntapp\/photos\/a.10150231088391186.325418.61080701185\/10153470887791186\/",
+                "text": "Vous avez un projet de contenus 360 ou en Réalité Virtuelle ? Ne loupez pas les ateliers pratiques Learn Do Share Paris 2016 (3ème édition) du 9 avril...",
+                "fallback": "Klynt - Vous avez un projet de contenus 360 ou en Réalité... | Facebook",
+                "from_url": "https:\/\/www.facebook.com\/klyntapp\/photos\/a.10150231088391186.325418.61080701185\/10153470887791186\/",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mRcW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U07CFCCBG"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.facebook.com\/klyntapp\/photos\/a.10150231088391186.325418.61080701185\/10153470887791186\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07CFCCBG",
+        "type": "message",
+        "ts": "1459428383.000018",
+        "text": "c’est la journée du fsc !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ca0028538aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-04-21\/36646712194_7ca0028538aa7c07b0e3_72.jpg",
+            "first_name": "Mai",
+            "real_name": "Mai",
+            "display_name": "mai",
+            "team": "T03FC4NDZ",
+            "name": "mai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NtH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "c’est la journée du fsc !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

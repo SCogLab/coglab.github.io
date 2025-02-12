@@ -1,0 +1,78 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1588609100.016600",
+        "client_msg_id": "08c91203-f2e4-44a0-8506-71d3db169efa",
+        "text": "Bonsoir \/ Hello\n\nPour des raisons de sécurité, nous avons ajouté un mot de passe “unami” pour se connecter à notre serveur Jisti : <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>\n\nFor security reasons, we have added a password “unami” to connect to our Jisti server: <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>\n\nAu plaisir de se croiser \/ Looking forward to met you\nRomain",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Jitsi Meet",
+                "title_link": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "text": "Join a WebRTC video conference powered by the Jitsi Videobridge",
+                "fallback": "Jitsi Meet",
+                "from_url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "service_icon": "https:\/\/meet.jit.si\/images\/apple-touch-icon.png",
+                "service_name": "meet.jit.si",
+                "id": 1,
+                "original_url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B9oHE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonsoir \/ Hello\n\nPour des raisons de sécurité, nous avons ajouté un mot de passe “unami” pour se connecter à notre serveur Jisti : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nFor security reasons, we have added a password “unami” to connect to our Jisti server: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAu plaisir de se croiser \/ Looking forward to met you\nRomain"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6EPG5PTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

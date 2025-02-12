@@ -1,0 +1,69 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1581971341.000500",
+        "client_msg_id": "b903ab85-df7c-4f8c-a137-7ab3ea418ab6",
+        "text": "Nouveau Meetup XR avec présentation du Lynx <@U59MQ46DA>\n<https:\/\/www.meetup.com\/fr-FR\/parisXR\/events\/268755340\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "XR Showcase #01",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/parisXR\/events\/268755340\/",
+                "text": "mar. 3 mars 2020 à 19:30: Deuxième soirée organisée pour la communauté Paris XR. :tada:Après la réussite de notre première édition axée autour du développement d'expériences de réalité mixte, nous vous pr",
+                "fallback": "Meetup: XR Showcase #01",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/7\/c\/a\/0\/600_488671904.jpeg",
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/parisXR\/events\/268755340\/",
+                "image_width": 445,
+                "image_height": 250,
+                "image_bytes": 193651,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/fr-FR\/m_swarm_120x120.4f86abc9.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/parisXR\/events\/268755340\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JFDCl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nouveau Meetup XR avec présentation du Lynx "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/parisXR\/events\/268755340\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

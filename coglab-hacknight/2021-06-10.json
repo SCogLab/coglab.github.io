@@ -1,0 +1,133 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1623342749.004900",
+        "client_msg_id": "5bd93fd4-e647-4cc7-b30a-9b416dd8ead4",
+        "text": "Salut <!channel>\n\nPour la prochaine soirée HackNight, ce lundi 14, je propose de sortir de nos écrans et de se retrouver dans un parc ou sur les Quai de Seine comme en aout dernier pour une soirée de retrouvailles ‘IRL’ en mode pique nique potluck !\n\nQui serais partant.e.s ?!\n\n(n’hésitez pas à réagir en emoji et formuler des suggestions en thread :slightly_smiling_face: )",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1623342749.004900",
+        "reply_count": 9,
+        "reply_users_count": 4,
+        "latest_reply": "1623589657.007200",
+        "reply_users": [
+            "U01S8PWA7GU",
+            "U03FC5ZAK",
+            "U59MQ46DA",
+            "UMSL037JT"
+        ],
+        "replies": [
+            {
+                "user": "U01S8PWA7GU",
+                "ts": "1623428278.005600"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1623582423.005800"
+            },
+            {
+                "user": "U01S8PWA7GU",
+                "ts": "1623583667.006000"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1623587526.006200"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1623587543.006400"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1623588162.006600"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1623588228.006800"
+            },
+            {
+                "user": "UMSL037JT",
+                "ts": "1623589480.007000"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1623589657.007200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7zqm9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nPour la prochaine soirée HackNight, ce lundi 14, je propose de sortir de nos écrans et de se retrouver dans un parc ou sur les Quai de Seine comme en aout dernier pour une soirée de retrouvailles ‘IRL’ en mode pique nique potluck !\n\nQui serais partant.e.s ?!\n\n(n’hésitez pas à réagir en emoji et formuler des suggestions en thread "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03FC5ZAK",
+                    "U59MQ46DA",
+                    "UMSL037JT",
+                    "U01S8PWA7GU"
+                ],
+                "count": 4
+            },
+            {
+                "name": "x",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

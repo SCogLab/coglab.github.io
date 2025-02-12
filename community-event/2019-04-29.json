@@ -1,0 +1,263 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #108: <!date^1556559000^{date_short_pretty} from {time}|April 29th, 2019 from 7:30 PM> to <!date^1556571600^{time}|11:00 PM GMT+0200>",
+                "text": "<!date^1556559000^{date_short_pretty} from {time}|April 29th, 2019 from 7:30 PM> to <!date^1556571600^{time}|11:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #108",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NWVkZW9mbmx0Z2pmazJxOXF0NDc1azdzbnZfMjAxOTA0MjlUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1556555402.000300",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1556560593.000600",
+        "client_msg_id": "77ddb60a-3322-45e7-bbf7-f34b49d80531",
+        "text": "Repéré par <@U59MQ46DA>\n<https:\/\/www.hplusforgood.org\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iqdw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Repéré par "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.hplusforgood.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1556561011.000900",
+        "client_msg_id": "b514dcae-43d5-44d6-962f-3be3f0b43a22",
+        "text": "(re)construire la confiance dans les technologies ?\nLes interventions sont en français et anglais (casques de traduction à disposition)\n\nUne rencontre avec :\nArnaud de Puyfontaine –  Vivendi, Président du directoire\nMitchell Baker – Présidente Exécutive de la Fondation Mozilla\nJames Manyika – Président du McKinsey Global Institute\nCédric O  - Secrétaire d'État au Numérique\nCédric Villani - Mathématicien, Mission Villani sur l'intelligence artificielle\nEt des experts des technologies de rupture\nAvec la participation de Audrey Azoulay – Directrice Générale de l’UNESCO\n\n<https:\/\/optictalks2019.com\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "https:\/\/optictalks2019.com",
+                "title": "Votre événement",
+                "title_link": "https:\/\/optictalks2019.com\/",
+                "text": "Baseline de l",
+                "fallback": "https:\/\/optictalks2019.com: Votre événement",
+                "from_url": "https:\/\/optictalks2019.com\/",
+                "service_icon": "https:\/\/optictalks2019.com\/themes\/netkin-master\/files\/images_module\/2101.jpg",
+                "id": 1,
+                "original_url": "https:\/\/optictalks2019.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UUd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(re)construire la confiance dans les technologies ?\nLes interventions sont en français et anglais (casques de traduction à disposition)\n\nUne rencontre avec :\nArnaud de Puyfontaine –  Vivendi, Président du directoire\nMitchell Baker – Présidente Exécutive de la Fondation Mozilla\nJames Manyika – Président du McKinsey Global Institute\nCédric O  - Secrétaire d'État au Numérique\nCédric Villani - Mathématicien, Mission Villani sur l'intelligence artificielle\nEt des experts des technologies de rupture\nAvec la participation de Audrey Azoulay – Directrice Générale de l’UNESCO\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/optictalks2019.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CogLab HackNight #109: <!date^1556559000^{date_short_pretty} from {time}|April 29th, 2019 from 7:30 PM> to <!date^1556571600^{time}|11:00 PM GMT+0200>",
+                "text": "<!date^1556559000^{date_short_pretty} from {time}|April 29th, 2019 from 7:30 PM> to <!date^1556571600^{time}|11:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab HackNight #109",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NWVkZW9mbmx0Z2pmazJxOXF0NDc1azdzbnZfMjAxOTA0MjlUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1556563808.001100",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: CogLab HackNight #110: <!date^1558978200^{date_short_pretty} from {time}|May 27th, 2019 from 7:30 PM> to <!date^1558990800^{time}|11:00 PM GMT+0200>\nRecurring every week on Monday until <!date^1566856799^{date_pretty}|August 26th, 2019>",
+                "text": "<!date^1558978200^{date_short_pretty} from {time}|May 27th, 2019 from 7:30 PM> to <!date^1558990800^{time}|11:00 PM GMT+0200>\nRecurring every week on Monday until <!date^1566856799^{date_pretty}|August 26th, 2019> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "CogLab HackNight #110",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Nm5wMzFocGtibG1hcGxkNDRwNGR2dTc2am1fMjAxOTA1MjdUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1556564227.001200",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1556564521.002700",
+        "edited": {
+            "user": "U03FC5ZAK",
+            "ts": "1556564549.000000"
+        },
+        "client_msg_id": "ee8b484a-811e-4914-a5c0-ede9e35fcba0",
+        "text": ":date: :warning: <!here> attention la prochaine <#C0R6W4X2Q|coglab-hacknight> sera le lundi 27 mai, je ne pourrais pas assurer la permanence sur les 3 prochaines semaines :palm_tree:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iqn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "date",
+                                "unicode": "1f4c5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "warning",
+                                "unicode": "26a0-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " attention la prochaine "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0R6W4X2Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sera le lundi 27 mai, je ne pourrais pas assurer la permanence sur les 3 prochaines semaines "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "palm_tree",
+                                "unicode": "1f334"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03FEH3N8"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

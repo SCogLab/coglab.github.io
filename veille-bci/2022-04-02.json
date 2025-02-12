@@ -1,0 +1,50 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1648919846.031789",
+        "client_msg_id": "ff93841d-2a71-4e3f-ad60-28fa335c1d0d",
+        "text": "Yes, <@U59MQ46DA> avait le même problème",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1648495560.430129",
+        "parent_user_id": "U02GLDK69UJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vzDO4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " avait le même problème"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

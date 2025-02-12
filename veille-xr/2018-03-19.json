@@ -1,0 +1,55 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1521480470.000778",
+        "text": "<https:\/\/www.magicleap.com\/creator>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Creator | Magic Leap",
+                "title_link": "https:\/\/www.magicleap.com\/creator",
+                "text": "Magic Leap Creator Portal. Developers can download Lumin SDK, discover tutorials and other learning resources, and join the Magic Leap Community.",
+                "fallback": "Creator | Magic Leap",
+                "image_url": "https:\/\/www.magicleap.com\/static\/icons\/magicleap-og.jpg",
+                "from_url": "https:\/\/www.magicleap.com\/creator",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 73452,
+                "service_icon": "https:\/\/www.magicleap.com\/static\/icons\/apple-touch-icon.png?v=20171020",
+                "service_name": "magicleap.com",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VGz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.magicleap.com\/creator"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

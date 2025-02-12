@@ -1,0 +1,76 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U01U75Y1LL8",
+        "text": "<@U01U75Y1LL8> a rejoint le canal",
+        "type": "message",
+        "ts": "1617787706.001800"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1617787820.002400",
+        "client_msg_id": "bdf8a267-4560-4a39-9651-d7ef823b6dc0",
+        "text": "Une interview du patron de NextMind dans le journal du Net\n<https:\/\/www.journaldunet.com\/solutions\/dsi\/1499709-sid-kouider-nextmind\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Sid Kouider (Nextmind) : \"Après avoir décodé les intentions, la seconde étape de Nextmind consistera à décoder l'imagination\"",
+                "title_link": "https:\/\/www.journaldunet.com\/solutions\/dsi\/1499709-sid-kouider-nextmind\/",
+                "text": "Créateur d'une interface cerveau-ordinateur, Nextmind travaille à industrialiser son invention en préparant une nouvelle levée de fonds. Son fondateur dit tout sur son projet à la Minority Report.",
+                "fallback": "Sid Kouider (Nextmind) : \"Après avoir décodé les intentions, la seconde étape de Nextmind consistera à décoder l'imagination\"",
+                "thumb_url": "https:\/\/img-0.journaldunet.com\/l3JQn4cESwsS5RXNm4VXg7pyxDw=\/540x\/smart\/aa86ccf59fb94c3c95f17058ddff1083\/ccmcms-jdn\/23776650.jpg",
+                "from_url": "https:\/\/www.journaldunet.com\/solutions\/dsi\/1499709-sid-kouider-nextmind\/",
+                "thumb_width": 540,
+                "thumb_height": 360,
+                "service_icon": "https:\/\/astatic.ccmbg.com\/www.journaldunet.com\/img\/icons\/apple-touch-icon.png",
+                "service_name": "journaldunet.com",
+                "id": 1,
+                "original_url": "https:\/\/www.journaldunet.com\/solutions\/dsi\/1499709-sid-kouider-nextmind\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mse",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Une interview du patron de NextMind dans le journal du Net\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.journaldunet.com\/solutions\/dsi\/1499709-sid-kouider-nextmind\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S8PWA7GU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1571043393.000200",
+        "client_msg_id": "8eef92a5-c32a-4253-90b8-d69a5c92cc58",
+        "text": "appelle les sinon",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TeEr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "appelle les sinon"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1571043416.000700",
+        "client_msg_id": "a9fd1b67-fc49-4ccc-ab35-f7192ef1df6f",
+        "text": "c'est quoi le statut de la facture du salon tourisme ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1571043416.000700",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1571410364.000600",
+        "reply_users": [
+            "U03FC5ZAK",
+            "U03FEH3N8"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1571386639.000100"
+            },
+            {
+                "user": "U03FEH3N8",
+                "ts": "1571408693.000400"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1571410364.000600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bkT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "c'est quoi le statut de la facture du salon tourisme ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

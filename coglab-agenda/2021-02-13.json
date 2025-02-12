@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "C.A. Fresco: <!date^1613228400^{date_short_pretty} from {time}|February 13th, 2021 from 4:00 PM> to <!date^1613235600^{time}|6:00 PM GMT+0100>",
+                "text": "<!date^1613228400^{date_short_pretty} from {time}|February 13th, 2021 from 4:00 PM> to <!date^1613235600^{time}|6:00 PM GMT+0100>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "C.A. Fresco",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MW82azEzZWgzaWppamVtcXN2aTZsY3EwMnYgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1613224801.003400",
+        "bot_id": "B4SJBP2L8"
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1599910403.000300",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1599910623.000000"
+        },
+        "client_msg_id": "8d2bb509-c3f1-4f7c-af49-44e4fc80cd9d",
+        "text": "Un générateur ia\/dl d’animation de modèles 3D : <https:\/\/zhan-xu.github.io\/rig-net\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3gW3k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un générateur ia\/dl d’animation de modèles 3D : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zhan-xu.github.io\/rig-net\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1599910580.000500",
+        "client_msg_id": "47744dbc-51c4-4c51-bd9a-157b4ea59496",
+        "text": "<https:\/\/www.youtube.com\/watch?v=bjTIfvW4bnM>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "RigNet: Neural Rigging for Articulated Characters (SIGGRAPH 2020)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=bjTIfvW4bnM",
+                "author_name": "Zhan Xu",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCr_AOBniPOLLZIqBzCfBEyQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/bjTIfvW4bnM\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: RigNet: Neural Rigging for Articulated Characters (SIGGRAPH 2020)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/bjTIfvW4bnM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=bjTIfvW4bnM",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=bjTIfvW4bnM"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zOP6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=bjTIfvW4bnM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

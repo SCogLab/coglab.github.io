@@ -1,0 +1,88 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1587912260.020200",
+        "client_msg_id": "597c5ef7-6494-45ff-b465-66d5d68921a2",
+        "text": "<!here> Pour notre prochaine HackNight (lundi 27 avril), voici 2 mises à jour :\n\nLe lien de l'événement à été mis à jour, on vous donne désormais rendez-vous sur l'instance Jitsi NeuroTechX : <http:\/\/meet.jit.si\/NeuroTechX-Hacknight>\n\nCe lundi, nous accueillerons quelques présentations :\n- AJ Keller, Neurosity, SF, <https:\/\/neurosity.co>\n- Ron Cooper, fNIRS startup UK, <https:\/\/www.gowerlabs.co.uk\/>\n- Présentation de HEGduino <https:\/\/www.crowdsupply.com\/alaskit\/hegduino>\n- Gary Marcus and Ernest Davis, Rebooting AI, <http:\/\/rebooting.ai\/>\n\nLe lien vers l'événement <https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/270160286\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1CY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Pour notre prochaine HackNight (lundi 27 avril), voici 2 mises à jour :\n\nLe lien de l'événement à été mis à jour, on vous donne désormais rendez-vous sur l'instance Jitsi NeuroTechX : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/meet.jit.si\/NeuroTechX-Hacknight"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nCe lundi, nous accueillerons quelques présentations :\n- AJ Keller, Neurosity, SF, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/neurosity.co"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- Ron Cooper, fNIRS startup UK, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.gowerlabs.co.uk\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- Présentation de HEGduino "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.crowdsupply.com\/alaskit\/hegduino"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- Gary Marcus and Ernest Davis, Rebooting AI, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/rebooting.ai\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nLe lien vers l'événement "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/270160286\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

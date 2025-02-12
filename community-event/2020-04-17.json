@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "[Annulé ou reporté] CJC-SC: <!date^1587189600^{date_short_pretty} from {time}|April 17th, 2020 from 8:00 AM> to <!date^1587225600^{time}|6:00 PM GMT+0200>",
+                "text": "<!date^1587189600^{date_short_pretty} from {time}|April 17th, 2020 from 8:00 AM> to <!date^1587225600^{time}|6:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Ens+Ulm%2C+45+Rue+d%27Ulm%2C+75005+Paris%2C+France|Ens Ulm, 45 Rue d'Ulm, 75005 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "[Annulé ou reporté] CJC-SC",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Nmd0Z2dwMnNhaDN0OG83ZXF0OW5ma2F0azEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1587186002.007300",
+        "bot_id": "B4SJBP2L8"
+    }
+]

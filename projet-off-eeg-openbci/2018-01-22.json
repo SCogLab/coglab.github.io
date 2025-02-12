@@ -1,0 +1,72 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1516647078.000427",
+        "text": "<@U03FEH3N8> tu te souviens du projet d’impression d’un cerveau en 3D pour mettre des LED \/ Aduino -&gt; Neurofeedback ?\nVoici un modèle de cerveau 3D,  partagé via NeuroTechX :slightly_smiling_face:\n<https:\/\/www.thingiverse.com\/thing:2765046>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Printable \"Visible Human\" Brain by ThreeForm",
+                "title_link": "https:\/\/www.thingiverse.com\/thing:2765046",
+                "text": "This brain was extracted from the Visible Human data set. The tissue was masked from slice photographs, and the resulting volume was trimmed and sculpted for 3D printing. This is the top portion of the brain, with the bottom flattened so it will print well. Visible Human_Brain Top_Glow - This version is designed to be illuminated internally (a common request). It has a hollow space inside with roughly 45 degree walls, and a channel on the back for a wire. With sparse fill this double-layer model should provide good diffusion for an LED ring or other light. Brain Shell 1.6mm - This is a similar design with a thickness of exactly 1.6mm to match the common 0.4mm extrusion nozzles on many printers. It had originally been hollowed to 1.5mm for nylon printing, and has been scale 6.667 percent. You can add generated support with this one, then remove it for a totally hollow brain. Visible Human Brain_Whole - The brain without the bottom flattened. Needs support for printing.",
+                "fallback": "Printable \"Visible Human\" Brain by ThreeForm",
+                "image_url": "https:\/\/cdn.thingiverse.com\/renders\/1d\/0d\/49\/cf\/91\/7ca7d6b03d4d2ec33ceb436fa682de6a_preview_featured.jpg",
+                "from_url": "https:\/\/www.thingiverse.com\/thing:2765046",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 62977,
+                "service_icon": "https:\/\/www.thingiverse.com\/img\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "thingiverse.com",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0bObu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tu te souviens du projet d’impression d’un cerveau en 3D pour mettre des LED \/ Aduino -> Neurofeedback ?\nVoici un modèle de cerveau 3D,  partagé via NeuroTechX "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.thingiverse.com\/thing:2765046"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

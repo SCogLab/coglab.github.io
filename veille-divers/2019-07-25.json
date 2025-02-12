@@ -1,0 +1,111 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1564061047.000200",
+        "client_msg_id": "3d2b0e3f-5e74-42f6-9bd8-f851e582863b",
+        "text": "<http:\/\/nodes.io\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564061047.000200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1564061976.000400",
+        "reply_users": [
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1564061976.000400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "title": "Nodes",
+                "title_link": "http:\/\/nodes.io\/",
+                "text": "Nodes is a new way to create with code",
+                "fallback": "Nodes",
+                "image_url": "http:\/\/nodes.io\/assets\/video-cover.jpg",
+                "from_url": "http:\/\/nodes.io\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 99944,
+                "service_name": "nodes.io",
+                "id": 1,
+                "original_url": "http:\/\/nodes.io\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mYQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/nodes.io\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1564061976.000400",
+        "client_msg_id": "7abe75c6-6ed6-4e80-8f1b-eb7e859bb8be",
+        "text": "Mince, je croyais que c’était déjà dispo",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564061047.000200",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KIBpB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mince, je croyais que c’était déjà dispo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

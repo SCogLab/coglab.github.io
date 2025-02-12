@@ -1,0 +1,54 @@
+[
+    {
+        "user": "U6EPG5PTQ",
+        "type": "message",
+        "ts": "1581362269.000300",
+        "client_msg_id": "1bf8fd7c-a889-461e-a26f-8dc5f5109e94",
+        "text": "Back! :wink:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g09c260ee4c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/209c260ee4c8c21ab89b376055cd6e8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Karine",
+            "real_name": "Karine Halpern",
+            "display_name": "KarineH",
+            "team": "T03FC4NDZ",
+            "name": "karine.halpern",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tUPI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Back! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

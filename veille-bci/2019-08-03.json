@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1564870821.000300",
+        "client_msg_id": "0527d924-0f56-48c8-9ac1-2792a1c32848",
+        "text": "Casque audio &amp; EEG : <https:\/\/kokoon.io>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Kokoon – The Best Noise Cancelling Headphones for Sleep and Relaxation",
+                "title_link": "https:\/\/kokoon.io\/",
+                "text": "Designed for comfort and using brain activity, Kokoon headphones and mobile app help you sleep better.",
+                "fallback": "Kokoon – The Best Noise Cancelling Headphones for Sleep and Relaxation",
+                "from_url": "https:\/\/kokoon.io\/",
+                "service_icon": "https:\/\/kokoon.io\/wp-content\/themes\/kokoon\/assets\/images\/content\/favicon.png",
+                "service_name": "kokoon.io",
+                "id": 1,
+                "original_url": "https:\/\/kokoon.io"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g8l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Casque audio & EEG : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/kokoon.io"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

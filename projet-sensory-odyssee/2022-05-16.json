@@ -1,0 +1,190 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1652729129.892189",
+        "client_msg_id": "6a6128ca-2a5c-4500-9627-4367f62b901d",
+        "text": "Bonjour :wave:\n\nPetit état des lieux sur les prochains tests :\n• A priori nous avons suffisamment de participant.e.s pour jeudi, il nous reste 2 hommes pour lundi prochain. <@U03ELCLQTKQ> devrait confirmer cela demain à priori.\n• Petit point d’attention du côté de l’équipe, nous sommes seulement 3 à *l’animation* jeudi, avec <@U02GLDKAWQ2> &amp; <@U02MAJBVBEZ>. Dans l’idéal, on vise 4 personnes. N’hésitez pas à confirmer aussi pour lundi prochain, je vois <@U02GLDK69UJ>, Louise et Typhaine sur le <https:\/\/docs.google.com\/spreadsheets\/d\/1bytnQB-bjnxLYcUYiNwXVb0mokZft7xCUsOGTdO03DE\/edit#gid=1863368863|planning de suivi>.\n• Côté <https:\/\/docs.google.com\/spreadsheets\/d\/1bytnQB-bjnxLYcUYiNwXVb0mokZft7xCUsOGTdO03DE\/edit#gid=124276035|planning de la matinée>, j’ai revu légèrement les proportions, avec l’ajout de 15 min dans l’expo + sur le second entretien. En évitant aussi les chevauchements avec les entretiens, suite aux retours de la semaine prochaine. Le tout reste théorique évidemment avec les aléas du direct.\nJe reviens vers vous demain sur les petits ajustements dans la répartition des actions pour gagner en fluidité d’ici demain soir.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1652729129.892189",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1653235157.508589",
+        "reply_users": [
+            "U01S8PWA7GU",
+            "U59MQ46DA",
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U01S8PWA7GU",
+                "ts": "1652988383.340659"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1653125486.452599"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1653235157.508589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ORSOg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nPetit état des lieux sur les prochains tests :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "A priori nous avons suffisamment de participant.e.s pour jeudi, il nous reste 2 hommes pour lundi prochain. "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U03ELCLQTKQ"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " devrait confirmer cela demain à priori."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Petit point d’attention du côté de l’équipe, nous sommes seulement 3 à "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "l’animation",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " jeudi, avec "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U02GLDKAWQ2"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " & "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U02MAJBVBEZ"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". Dans l’idéal, on vise 4 personnes. N’hésitez pas à confirmer aussi pour lundi prochain, je vois "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U02GLDK69UJ"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", Louise et Typhaine sur le "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1bytnQB-bjnxLYcUYiNwXVb0mokZft7xCUsOGTdO03DE\/edit#gid=1863368863",
+                                        "text": "planning de suivi"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Côté "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1bytnQB-bjnxLYcUYiNwXVb0mokZft7xCUsOGTdO03DE\/edit#gid=124276035",
+                                        "text": "planning de la matinée"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", j’ai revu légèrement les proportions, avec l’ajout de 15 min dans l’expo + sur le second entretien. En évitant aussi les chevauchements avec les entretiens, suite aux retours de la semaine prochaine. Le tout reste théorique évidemment avec les aléas du direct."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nJe reviens vers vous demain sur les petits ajustements dans la répartition des actions pour gagner en fluidité d’ici demain soir."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02GLDKAWQ2",
+                    "U02GLDK69UJ",
+                    "U01S8PWA7GU"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

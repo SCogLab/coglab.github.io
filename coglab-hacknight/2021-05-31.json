@@ -1,0 +1,116 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1622478667.000600",
+        "client_msg_id": "86993b01-7c76-497b-9843-3419bae2d67e",
+        "text": "C’est parti pour notre dernière HackNight du mois de mai\n<https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Jitsi Meet",
+                "title_link": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "text": "Join a WebRTC video conference powered by the Jitsi Videobridge",
+                "fallback": "Jitsi Meet",
+                "from_url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "service_icon": "https:\/\/meet.jit.si\/images\/apple-touch-icon.png",
+                "service_name": "meet.jit.si",
+                "id": 1,
+                "original_url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IbV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C’est parti pour notre dernière HackNight du mois de mai\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1622489660.001400",
+        "client_msg_id": "933a5abb-a1d7-4dbf-9e73-fca1fcc4b7a1",
+        "text": "La soirée HackNight continue comme chaque semaine sur GatherTown:\n<https:\/\/gather.town\/i\/PYn7w8L3>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Gather",
+                "title_link": "https:\/\/gather.town\/i\/PYn7w8L3",
+                "text": "Gather is a video-calling space that lets multiple people hold separate conversations in parallel, walking in and out of those conversations just as easily as they would in real life.",
+                "fallback": "Gather",
+                "image_url": "https:\/\/gather.town\/images\/site\/site_preview.png",
+                "from_url": "https:\/\/gather.town\/i\/PYn7w8L3",
+                "image_width": 418,
+                "image_height": 250,
+                "image_bytes": 168628,
+                "service_icon": "https:\/\/gather.town\/favicon.ico",
+                "service_name": "gather.town",
+                "id": 1,
+                "original_url": "https:\/\/gather.town\/i\/PYn7w8L3"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "09F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La soirée HackNight continue comme chaque semaine sur GatherTown:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gather.town\/i\/PYn7w8L3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

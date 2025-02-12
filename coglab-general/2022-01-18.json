@@ -1,0 +1,68 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1642524078.000100",
+        "client_msg_id": "c47ec64d-a74a-4517-8b9c-4b0059774c58",
+        "text": "Bonjour Lisa, si tu est toujours à la recherche de contact, je te suggère également de te rapprocher de l’association <https:\/\/cognijunior.org\/|CogniJunior> (<mailto:contact@cognijunior.org|contact@cognijunior.org>) ou <@U03FEH3N8> sur les sujets éducation \/ école \/ science cognitives.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1638886556.004900",
+        "parent_user_id": "U01J9RAA8H1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I0eFf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour Lisa, si tu est toujours à la recherche de contact, je te suggère également de te rapprocher de l’association "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/cognijunior.org\/",
+                                "text": "CogniJunior"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:contact@cognijunior.org",
+                                "text": "contact@cognijunior.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") ou "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sur les sujets éducation \/ école \/ science cognitives."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

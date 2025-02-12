@@ -1,0 +1,73 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1448845938.000002",
+        "text": "Hello <!channel> , petit up sur la rencontre NeuroTechX\nJ'ai ajouté le mercredi 15 dans les options : <http:\/\/doodle.com\/poll\/wngthb8uucdeyf6u>\n\n* l'AG de La Paillasse est potentiellement décalée au 16 (confirmation aujourd'hui)\n* Le jeudi 17 un gros événement viens d'être annoncé pour l'Open Paillasse\n\nDu coup, nos choix se limites drastiquement :disappointed:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Rencontre #6 - Marion de NeuroTechSF - Doodle: easy scheduling",
+                "title_link": "http:\/\/doodle.com\/poll\/wngthb8uucdeyf6u",
+                "text": "Je vous propose d'accueillir Marion LEBORGNE qui fait partie du chapitre NeuroTechSF et qui sera de passage à Paris mi-décembre. Voici une selection de 3 dates pour permettre une rencontre avec la communauté du CogLab \/ NeuroTech Paris !",
+                "fallback": "Rencontre #6 - Marion de NeuroTechSF - Doodle: easy scheduling",
+                "from_url": "http:\/\/doodle.com\/poll\/wngthb8uucdeyf6u",
+                "thumb_url": "http:\/\/doodle.com\/graphics\/static\/facebookSharingThumbnail.jpg",
+                "thumb_width": 100,
+                "thumb_height": 100,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c7vI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , petit up sur la rencontre NeuroTechX\nJ'ai ajouté le mercredi 15 dans les options : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/doodle.com\/poll\/wngthb8uucdeyf6u"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n* l'AG de La Paillasse est potentiellement décalée au 16 (confirmation aujourd'hui)\n* Le jeudi 17 un gros événement viens d'être annoncé pour l'Open Paillasse\n\nDu coup, nos choix se limites drastiquement "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed",
+                                "unicode": "1f61e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

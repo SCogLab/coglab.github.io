@@ -1,0 +1,176 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CogLab HackNight #142 [Online]: <!date^1586188800^{date_short_pretty} from {time}|April 6th, 2020 from 6:00 PM> to <!date^1586201400^{time}|9:30 PM GMT+0200>",
+                "text": "<!date^1586188800^{date_short_pretty} from {time}|April 6th, 2020 from 6:00 PM> to <!date^1586201400^{time}|9:30 PM GMT+0200> at <https:\/\/join.skype.com\/be7Ty93o77rj>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab HackNight #142 [Online]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NTgwazY5NGkwN2FqcHR0MmY3NnQ0MTdlbnBfMjAyMDA0MDZUMTYwMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1586175244.001900",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1586175414.002100",
+        "client_msg_id": "28a520f9-68af-4d2d-a155-4dadfadd68f2",
+        "text": "<http:\/\/cognivence.scicog.fr\/2020\/04\/04\/que-faire-pendant-le-confinement\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586175414.002100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586275821.002800",
+        "reply_users": [
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1586275821.002800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AMb+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/cognivence.scicog.fr\/2020\/04\/04\/que-faire-pendant-le-confinement\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1586175431.002300",
+        "client_msg_id": "3422fbf6-65c8-421a-bc93-0257dab7ed6c",
+        "text": "<https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/269888596\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Online HackNight CogLab, NeuroTechX Paris N°142",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/269888596\/",
+                "text": "lun. 6 avr. 2020 à 18:00: Les HackNight de l'association CogLab, NeuroTechX Paris sont des soirées hebdomadaires conviviales, dédiées à la réalisation de projets ouverts, en groupe ou en autonomie.Pen",
+                "fallback": "Meetup: Online HackNight CogLab, NeuroTechX Paris N°142",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/3\/b\/4\/a\/600_490035178.jpeg",
+                "fields": [
+                    {
+                        "title": "Où",
+                        "value": "Online event",
+                        "short": true
+                    },
+                    {
+                        "title": "Quand",
+                        "value": "lun. 6 avr. 2020 à 18:00",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/269888596\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 68154,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/fr-FR\/m_swarm_120x120.4f86abc9.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/269888596\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Pm=v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/269888596\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U011698SU58",
+        "text": "<@U011698SU58> a rejoint le canal",
+        "type": "message",
+        "ts": "1586175476.002600"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #142 [Online]: <!date^1586188800^{date_short_pretty} from {time}|April 6th, 2020 from 6:00 PM> to <!date^1586201400^{time}|9:30 PM GMT+0200>",
+                "text": "<!date^1586188800^{date_short_pretty} from {time}|April 6th, 2020 from 6:00 PM> to <!date^1586201400^{time}|9:30 PM GMT+0200> at <https:\/\/join.skype.com\/be7Ty93o77rj>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #142 [Online]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NTgwazY5NGkwN2FqcHR0MmY3NnQ0MTdlbnBfMjAyMDA0MDZUMTYwMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1586185203.002700",
+        "bot_id": "B4SJBP2L8"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U03FEH3N8",
+        "text": "<@U03FEH3N8> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1542654073.000200"
+    },
+    {
+        "text": "Les slides de ma formation Neo4j + GraphQL de mardi dernier",
+        "files": [
+            {
+                "id": "FE7DSR8LA",
+                "created": 1542654180,
+                "timestamp": 1542654180,
+                "name": "Neo4j Fundamentals.pdf",
+                "title": "Neo4j Fundamentals.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U03FC5ZAK",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 18682871,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FE7DSR8LA\/neo4j_fundamentals.pdf?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FE7DSR8LA\/download\/neo4j_fundamentals.pdf?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FE7DSR8LA-85b11a1ebf\/neo4j_fundamentals_thumb_pdf.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_pdf_w": 1100,
+                "thumb_pdf_h": 619,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U03FC5ZAK\/FE7DSR8LA\/neo4j_fundamentals.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-FE7DSR8LA-8f9228c898",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U03FC5ZAK",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zdTCn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Les slides de ma formation Neo4j + GraphQL de mardi dernier"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1542654183.000300"
+    },
+    {
+        "subtype": "channel_name",
+        "user": "U03FC5ZAK",
+        "old_name": "project_ontology",
+        "name": "project_coglabgraph",
+        "text": "a changé le nom du canal de « project_ontology » en « project_coglabgraph »",
+        "type": "message",
+        "ts": "1542654220.000600"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC5ZAK",
+        "purpose": "From idea and curation to Knowledge Graph CogLab (Ontology, Graph Database, Foresight)",
+        "text": "a défini la description du canal : From idea and curation to Knowledge Graph CogLab (Ontology, Graph Database, Foresight)",
+        "type": "message",
+        "ts": "1542654242.000700"
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1502899748.000187",
+        "text": "Encore une startup avec un *casque* EEG\n<https:\/\/getversus.com\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Versus",
+                "title": "Versus | Mobile Brain Sensing Technology for Providers",
+                "title_link": "https:\/\/getversus.com\/",
+                "text": "Versus makes brain sensing technology convenient, mobile, &amp; completely self-service. Expand your practice with Versus today.",
+                "fallback": "Versus: Versus | Mobile Brain Sensing Technology for Providers",
+                "image_url": "https:\/\/speedy-static.getversus.com\/images\/vs-index-headset-6-15-1.png",
+                "from_url": "https:\/\/getversus.com\/",
+                "image_width": 198,
+                "image_height": 250,
+                "image_bytes": 151345,
+                "service_icon": "http:\/\/speedy-static.getversus.com\/images\/vs-favicon-2.ico",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3T0I0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Encore une startup avec un "
+                            },
+                            {
+                                "type": "text",
+                                "text": "casque",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " EEG\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/getversus.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

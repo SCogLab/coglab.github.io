@@ -1,0 +1,94 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U011QR6T7PD",
+        "text": "<@U011QR6T7PD> a rejoint le canal",
+        "type": "message",
+        "ts": "1586789956.005400"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #143 [Online]: <!date^1586793600^{date_short_pretty} from {time}|April 13th, 2020 from 6:00 PM> to <!date^1586806200^{time}|9:30 PM GMT+0200>",
+                "text": "<!date^1586793600^{date_short_pretty} from {time}|April 13th, 2020 from 6:00 PM> to <!date^1586806200^{time}|9:30 PM GMT+0200> at <https:\/\/join.skype.com\/be7Ty93o77rj>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #143 [Online]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NTgwazY5NGkwN2FqcHR0MmY3NnQ0MTdlbnBfMjAyMDA0MTNUMTYwMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1586790004.005500",
+        "bot_id": "B4SJBP2L8",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6EPG5PTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U012CBGBHNC",
+        "text": "<@U012CBGBHNC> a rejoint le canal",
+        "type": "message",
+        "ts": "1586793002.005800"
+    },
+    {
+        "user": "U6EPG5PTQ",
+        "type": "message",
+        "ts": "1586795783.006000",
+        "client_msg_id": "8c6fd552-93c5-47a0-8bf9-fcadec6dd2ba",
+        "text": "salut Adelin",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g09c260ee4c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/209c260ee4c8c21ab89b376055cd6e8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Karine",
+            "real_name": "Karine Halpern",
+            "display_name": "KarineH",
+            "team": "T03FC4NDZ",
+            "name": "karine.halpern",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v2oV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "salut Adelin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U011R7MSU0K",
+        "text": "<@U011R7MSU0K> a rejoint le canal",
+        "type": "message",
+        "ts": "1586800866.006200"
+    }
+]

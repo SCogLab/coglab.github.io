@@ -1,0 +1,56 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #130: <!date^1580143500^{date_short_pretty} from {time}|January 27th, 2020 from 5:45 PM> to <!date^1580158800^{time}|10:00 PM GMT+0100>",
+                "text": "<!date^1580143500^{date_short_pretty} from {time}|January 27th, 2020 from 5:45 PM> to <!date^1580158800^{time}|10:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=CRI%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France%2C+Charles+V-0-MakerLab+Classroom+%2830%29|CRI, 8 bis Rue Charles V, 75004 Paris, France, Charles V-0-MakerLab Classroom (30)>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #130",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=N3R1aTRiamc1N2FpYTFyZmZyYXI5YjBoYmFfMjAyMDAxMjdUMTY0NTAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1580139902.000300",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "UT85URTT8",
+        "text": "<@UT85URTT8> a rejoint le canal",
+        "type": "message",
+        "ts": "1580158286.000500"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: NeuroTech Buzz in Review: <!date^1580319000^{date_short_pretty} from {time}|January 29th, 2020 from 6:30 PM> to <!date^1580331600^{time}|10:00 PM GMT+0100>",
+                "text": "<!date^1580319000^{date_short_pretty} from {time}|January 29th, 2020 from 6:30 PM> to <!date^1580331600^{time}|10:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Cri%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France|Cri, 8 bis Rue Charles V, 75004 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "NeuroTech Buzz in Review",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MzkzcTFuY3ZyaTAxZmJ0YWllcXVyM2hxOG4gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1580164325.000600",
+        "bot_id": "B4SJBP2L8"
+    }
+]

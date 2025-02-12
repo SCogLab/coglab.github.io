@@ -1,0 +1,66 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1653935816.201359",
+        "client_msg_id": "c4ddf7de-f2d7-4526-bdf5-fe459f4dfe13",
+        "text": "Je découvre que nous avons des voisins belges ! <https:\/\/www.ntxl.org\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.ntxl.org\/",
+                "id": 1,
+                "original_url": "https:\/\/www.ntxl.org\/",
+                "fallback": "Home",
+                "text": "To facilitate its local advancement, NeuroTech Leuven wants to bring talented, like-minded students and experts from the KU Leuven together in a fun, interactive and organized environment.",
+                "title": "Home",
+                "title_link": "https:\/\/www.ntxl.org\/",
+                "service_name": "ntxl.org"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "opm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je découvre que nous avons des voisins belges ! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ntxl.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01804NJ7AQ",
+                    "U01S8PWA7GU"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

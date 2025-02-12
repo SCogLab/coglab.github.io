@@ -1,0 +1,52 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1576316824.000200",
+        "client_msg_id": "5676dbe2-fc7c-43a5-8697-e2ae65318420",
+        "text": "<http:\/\/creativecommons.fr\/11-janvier-2020-journee-du-domaine-public\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "11 Janvier 2020: Journée du Domaine Public | Creative Commons France",
+                "title_link": "http:\/\/creativecommons.fr\/11-janvier-2020-journee-du-domaine-public\/",
+                "text": "A l’occasion de la première édition du Paris P2P Festival du 8 au 12 Janvier, Creative Commons France organise la journée internationale du domaine public, qui",
+                "fallback": "11 Janvier 2020: Journée du Domaine Public | Creative Commons France",
+                "from_url": "http:\/\/creativecommons.fr\/11-janvier-2020-journee-du-domaine-public\/",
+                "service_name": "creativecommons.fr",
+                "id": 1,
+                "original_url": "http:\/\/creativecommons.fr\/11-janvier-2020-journee-du-domaine-public\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ni7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/creativecommons.fr\/11-janvier-2020-journee-du-domaine-public\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

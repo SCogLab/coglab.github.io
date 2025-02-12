@@ -1,0 +1,202 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1578408887.000200",
+        "client_msg_id": "0af1eebc-1567-437c-9f93-733423704fc9",
+        "text": "<https:\/\/medialab.sciencespo.fr\/actu\/les-pratiques-des-donnees\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "médialab Sciences Po",
+                "title": "Les pratiques des données | médialab Sciences Po",
+                "title_link": "https:\/\/medialab.sciencespo.fr\/actu\/les-pratiques-des-donnees\/",
+                "text": "\"Un nouvel instrument pour les sciences sociales !\" Telle est l'expression qui accompagne le médialab de Sciences Po depuis sa création. À l'occasion de son dixième anniversaire, le médialab invite ses membres et, plus largement, toute la communauté qui l'anime, à réfléchir sur les effets de cette proposition fondatrice sur les pratiques de recherche du laboratoire.",
+                "fallback": "médialab Sciences Po: Les pratiques des données | médialab Sciences Po",
+                "image_url": "https:\/\/medialab.sciencespo.fr\/static\/d15-focus-test-chart-camera-lens-nikon-back-back-focus-test-chart_456e461a-a706-4093-bcaa-7ab81becc3cd.social.png",
+                "image_width": 417,
+                "image_height": 250,
+                "from_url": "https:\/\/medialab.sciencespo.fr\/actu\/les-pratiques-des-donnees\/",
+                "image_bytes": 50953,
+                "service_icon": "https:\/\/medialab.sciencespo.fr\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/medialab.sciencespo.fr\/actu\/les-pratiques-des-donnees\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "54o1=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/medialab.sciencespo.fr\/actu\/les-pratiques-des-donnees\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1578469749.001000",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1578469764.000000"
+        },
+        "client_msg_id": "d2fe38f8-73a4-41f6-9b39-a67e17efd145",
+        "text": "Projet Open source (basé sur neo4j) initié en 2011 pour la visualisation de textes sous forme de graphe : <https:\/\/infranodus.com>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "InfraNodus: Generate Insight Using Text Network Analsysis",
+                "title_link": "https:\/\/infranodus.com\/",
+                "text": "Convert any text into network to get a better overview and interesting insights.",
+                "fallback": "InfraNodus: Generate Insight Using Text Network Analsysis",
+                "image_url": "https:\/\/infranodus.com\/images\/front\/infranodus-screenshot.jpg",
+                "from_url": "https:\/\/infranodus.com\/",
+                "image_width": 473,
+                "image_height": 250,
+                "image_bytes": 173127,
+                "service_icon": "https:\/\/infranodus.com\/images\/favicon-32x32.png",
+                "service_name": "infranodus.com",
+                "id": 1,
+                "original_url": "https:\/\/infranodus.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZMh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Projet Open source (basé sur neo4j) initié en 2011 pour la visualisation de textes sous forme de graphe : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/infranodus.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1578469812.001500",
+        "client_msg_id": "f2c022a9-6f63-460e-bcb1-aa89fdb505ec",
+        "text": "Page github du projet : <https:\/\/github.com\/noduslabs\/infranodus>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "noduslabs\/infranodus",
+                "text": "A Node.Js \/ Neo4J tool that translates words and relations into network graphs and shows you how it all connects.",
+                "title": "noduslabs\/infranodus",
+                "footer": "<https:\/\/github.com\/noduslabs\/infranodus|noduslabs\/infranodus>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1392298394,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Website",
+                        "value": "<http:\/\/infranodus.com>",
+                        "short": true
+                    },
+                    {
+                        "title": "Stars",
+                        "value": "257",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "BA73T1BTJ",
+                "app_unfurl_url": "https:\/\/github.com\/noduslabs\/infranodus",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sA+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Page github du projet : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/noduslabs\/infranodus"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

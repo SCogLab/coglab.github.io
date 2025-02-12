@@ -1,0 +1,72 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1523985601.000374",
+        "text": "Un nouveau Meetup est planifié en préparation du Fab City Submit\n<https:\/\/www.eventbrite.fr\/e\/billets-meet-up-fab-city-campus-45234035217>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Eventbrite",
+                "title": "Meet Up - Fab City Campus",
+                "title_link": "https:\/\/www.eventbrite.fr\/e\/billets-meet-up-fab-city-campus-45234035217",
+                "text": "Sous la forme de sessions de travail par groupes, ce meet up à pour objectifs faire un point sur : la commission sécurité la programmation la mobilisation des bénévoles",
+                "fallback": "Eventbrite: Meet Up - Fab City Campus",
+                "image_url": "https:\/\/img.evbuc.com\/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F43660851%2F91044703747%2F1%2Foriginal.jpg?w=1000&auto=compress&rect=0%2C637%2C2550%2C1275&s=f5b553268c3cd23aa4bb12e798d0e3a5",
+                "fields": [
+                    {
+                        "title": "Where",
+                        "value": "59A Boulevard Macdonald, 75019 Paris, France",
+                        "short": true
+                    },
+                    {
+                        "title": "When",
+                        "value": "jeu le 26 avr. 2018, 19:00",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.eventbrite.fr\/e\/billets-meet-up-fab-city-campus-45234035217",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 26716,
+                "service_icon": "https:\/\/cdn.evbstatic.com\/s3-build\/perm_001\/1aab42\/django\/images\/touch_icons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.eventbrite.fr\/e\/billets-meet-up-fab-city-campus-45234035217"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BwH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un nouveau Meetup est planifié en préparation du Fab City Submit\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.eventbrite.fr\/e\/billets-meet-up-fab-city-campus-45234035217"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

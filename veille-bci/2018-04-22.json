@@ -1,0 +1,101 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1524437303.000108",
+        "text": "<https:\/\/medium.com\/@castillo.io\/muse-2016-headband-web-bluetooth-11ddcfa74c83>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "Muse 2016 Headband + Web Bluetooth – Alex Castillo – Medium",
+                "title_link": "https:\/\/medium.com\/@castillo.io\/muse-2016-headband-web-bluetooth-11ddcfa74c83",
+                "text": "My friend Teon recently got me a Muse 2016 Headband.",
+                "fallback": "Medium: Muse 2016 Headband + Web Bluetooth – Alex Castillo – Medium",
+                "image_url": "https:\/\/cdn-images-1.medium.com\/max\/1200\/1*PnWBme-FqkefO1IIrqjcDA.png",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "3 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1496593653,
+                "from_url": "https:\/\/medium.com\/@castillo.io\/muse-2016-headband-web-bluetooth-11ddcfa74c83",
+                "image_width": 739,
+                "image_height": 244,
+                "image_bytes": 35374,
+                "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/304\/304\/1*8I-HPL0bfoIzGied-dzOvA.png",
+                "id": 1,
+                "original_url": "https:\/\/medium.com\/@castillo.io\/muse-2016-headband-web-bluetooth-11ddcfa74c83"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eL9q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/medium.com\/@castillo.io\/muse-2016-headband-web-bluetooth-11ddcfa74c83"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U6N3TJ0QM",
+        "type": "message",
+        "ts": "1524465184.000351",
+        "text": "soit c'etait juste un enregistrement de test, soit le muse sature à fond",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gf97b64003f8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1f97b64003f820d41fe93839432d7aac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Maxence",
+            "real_name": "Maxence Dolle",
+            "display_name": "Maxence Dolle",
+            "team": "T03FC4NDZ",
+            "name": "maxenced",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CghSH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "soit c'etait juste un enregistrement de test, soit le muse sature à fond"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

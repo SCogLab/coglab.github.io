@@ -1,0 +1,69 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1576580910.000300",
+        "client_msg_id": "eebd19e9-c5bf-49de-a038-d5ab999ef889",
+        "text": "<https:\/\/www.youtube.com\/watch?v=u5zZKCWbYDA>\n\nSource <https:\/\/web.flow.gl\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Magic Leap - Flow Immersive Announcement v1",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=u5zZKCWbYDA",
+                "author_name": "Flow Immersive",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCXER74RPSIMsaPYdZmvuMUw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/u5zZKCWbYDA\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Magic Leap - Flow Immersive Announcement v1",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/u5zZKCWbYDA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=u5zZKCWbYDA",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=u5zZKCWbYDA"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hNJXR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=u5zZKCWbYDA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nSource "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/web.flow.gl\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

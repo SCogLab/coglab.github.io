@@ -1,0 +1,90 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1576021285.000700",
+        "client_msg_id": "7295669d-8dd4-44d3-a6c4-4c9d219a3113",
+        "text": "Happy WebXR day <!channel> :ok_hand::butterfly::champagne:\n\n<https:\/\/twitter.com\/Tojiro\/status\/1204531336528023553?s=19|https:\/\/twitter.com\/Tojiro\/status\/1204531336528023553?s=19>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/Tojiro|@Tojiro>: In honor of WebXR shipping today, I figured I would post a fun little personal project I've been working on: <http:\/\/xrdinosaurs.com>\n\nThere's still plenty of rough edges, but I plan to keep on improving it and pull in new XR features as we release them. Give it a try!",
+                "ts": 1576017624,
+                "author_name": "Brandon Jones",
+                "author_link": "https:\/\/twitter.com\/Tojiro\/status\/1204531336528023553",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/848935832304009216\/MNbEZyQR_normal.jpg",
+                "author_subname": "@Tojiro",
+                "text": "In honor of WebXR shipping today, I figured I would post a fun little personal project I've been working on: <http:\/\/xrdinosaurs.com>\n\nThere's still plenty of rough edges, but I plan to keep on improving it and pull in new XR features as we release them. Give it a try!",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/Tojiro\/status\/1204531336528023553?s=19",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/Tojiro\/status\/1204531336528023553?s=19",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F=Gjt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy WebXR day "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand",
+                                "unicode": "1f44c"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "butterfly",
+                                "unicode": "1f98b"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "champagne",
+                                "unicode": "1f37e"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/Tojiro\/status\/1204531336528023553?s=19",
+                                "text": "https:\/\/twitter.com\/Tojiro\/status\/1204531336528023553?s=19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

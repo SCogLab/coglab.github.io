@@ -1,0 +1,106 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1545574686.000200",
+        "client_msg_id": "f0ee19d6-7759-4297-939a-b6eebcee427e",
+        "text": "<http:\/\/smc2019.org\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "text": "IEEE International Conference on Systems, Man, and Cybernetics taking place in Bari, from 06th October to 09th October 2019. Main theme: Industry 4.0",
+                "fallback": "IEEE International Conference on Systems, Man, and Cybernetics taking place in Bari, from 06th October to 09th October 2019. Main theme: Industry 4.0",
+                "from_url": "http:\/\/smc2019.org\/",
+                "service_icon": "http:\/\/smc2019.org\/assets\/img\/favicon-apple-smc.png",
+                "service_name": "smc2019.org",
+                "id": 1,
+                "original_url": "http:\/\/smc2019.org\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8akS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/smc2019.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1545574694.000500",
+        "client_msg_id": "40cf359f-42bf-45bc-9265-b73b5e1e2af6",
+        "text": "<https:\/\/www.ulster.ac.uk\/conference\/european-conference-on-cognitive-ergonomics>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "European Conference on Cognitive Ergonomics",
+                "title_link": "https:\/\/www.ulster.ac.uk\/conference\/european-conference-on-cognitive-ergonomics",
+                "text": "This leading conference in human-media interaction and cognitive engineering provides an opportunity for both researchers and practitioners to exchange new ideas and practical experiences.",
+                "fallback": "European Conference on Cognitive Ergonomics",
+                "image_url": "https:\/\/www.ulster.ac.uk\/__data\/assets\/image\/0006\/264093\/varieties\/thumb-larger.jpg",
+                "from_url": "https:\/\/www.ulster.ac.uk\/conference\/european-conference-on-cognitive-ergonomics",
+                "image_width": 330,
+                "image_height": 220,
+                "image_bytes": 19526,
+                "service_icon": "http:\/\/cdn.ulster.ac.uk\/home\/ulster-frontend\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "ulster.ac.uk",
+                "id": 1,
+                "original_url": "https:\/\/www.ulster.ac.uk\/conference\/european-conference-on-cognitive-ergonomics"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Oba",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ulster.ac.uk\/conference\/european-conference-on-cognitive-ergonomics"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

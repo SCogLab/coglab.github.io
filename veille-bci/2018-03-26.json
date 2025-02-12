@@ -1,0 +1,123 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1522048306.000103",
+        "text": "<http:\/\/bcisociety.org\/meetings\/bci-2018-welcome\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "BCI society",
+                "title": "Welcome - BCI society",
+                "title_link": "http:\/\/bcisociety.org\/meetings\/bci-2018-welcome\/",
+                "text": "The Seventh International BCI Meeting: “BCIs: Not Getting Lost in Translation”, is scheduled for May 21 – 25, 2018 at the Asilomar Conference Center in Pacific Grove, California, USA. The 2018 BCI Meeting will retain the unique, highly interactive, student-friendly, retreat-like atmosphere and high-impact activities that are the hallmarks of the BCI Meetings.  At the same time, … Continue reading Welcome →",
+                "fallback": "BCI society: Welcome - BCI society",
+                "thumb_url": "http:\/\/bcisociety.org\/wp-content\/uploads\/2017\/10\/BCISponsorThankYouPanelv3.png",
+                "from_url": "http:\/\/bcisociety.org\/meetings\/bci-2018-welcome\/",
+                "thumb_width": 2000,
+                "thumb_height": 1292,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/6J4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/bcisociety.org\/meetings\/bci-2018-welcome\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1522048376.000149",
+        "text": "<https:\/\/github.com\/NeuroTechX\/dl-eeg-playground>\n\n--&gt; <http:\/\/bnci-horizon-2020.eu\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "NeuroTechX\/dl-eeg-playground",
+                "title_link": "https:\/\/github.com\/NeuroTechX\/dl-eeg-playground",
+                "text": "dl-eeg-playground - Deep Learning EEG Playground",
+                "fallback": "GitHub: NeuroTechX\/dl-eeg-playground",
+                "from_url": "https:\/\/github.com\/NeuroTechX\/dl-eeg-playground",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/13461990?s=400&v=4",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            },
+            {
+                "title": "Home - BNCI Horizon 2020",
+                "title_link": "http:\/\/bnci-horizon-2020.eu\/",
+                "text": "This website contains information about brain-computer interfaces.",
+                "fallback": "Home - BNCI Horizon 2020",
+                "from_url": "http:\/\/bnci-horizon-2020.eu\/",
+                "service_icon": "http:\/\/bnci-horizon-2020.eu\/templates\/yoo_nano3\/apple_touch_icon.png",
+                "service_name": "bnci-horizon-2020.eu",
+                "id": 2
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x69",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/NeuroTechX\/dl-eeg-playground"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n--> "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/bnci-horizon-2020.eu\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

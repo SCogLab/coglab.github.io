@@ -1,0 +1,66 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1567626016.001300",
+        "client_msg_id": "af7a62eb-1b34-47b4-9de0-e01753a15d56",
+        "text": "C'est le Forum des Associations ce weekend.\nJe viens d'en profiter pour faire une demande d'inscription au registre des associations de la ville de domiciliation du CogLab\n<https:\/\/v1.asnieres-sur-seine.fr\/Vie-associative\/Service-de-la-vie-associative>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Service de la vie associative - Vie associative - Site de la ville d'Asnières-Sur-Seine",
+                "title_link": "https:\/\/v1.asnieres-sur-seine.fr\/Vie-associative\/Service-de-la-vie-associative",
+                "text": "Site officiel de la ville d'Asnières-Sur-Seine",
+                "fallback": "Service de la vie associative - Vie associative - Site de la ville d'Asnières-Sur-Seine",
+                "from_url": "https:\/\/v1.asnieres-sur-seine.fr\/Vie-associative\/Service-de-la-vie-associative",
+                "service_name": "v1.asnieres-sur-seine.fr",
+                "id": 1,
+                "original_url": "https:\/\/v1.asnieres-sur-seine.fr\/Vie-associative\/Service-de-la-vie-associative"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k26u9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est le Forum des Associations ce weekend.\nJe viens d'en profiter pour faire une demande d'inscription au registre des associations de la ville de domiciliation du CogLab\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/v1.asnieres-sur-seine.fr\/Vie-associative\/Service-de-la-vie-associative"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA",
+                    "ULABDBC9W"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

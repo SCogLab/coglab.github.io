@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There are no events this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "type": "message",
+        "ts": "1635750008.001500",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tkSnL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are no events this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: [SO] Soirée spéciale CogLab x CojitErgo: <!date^1636481700^{date_short_pretty} from {time}|November 9th, 2021 from 7:15 PM> to <!date^1636488000^{time}|9:00 PM GMT+0100>",
+                "text": "<!date^1636481700^{date_short_pretty} from {time}|November 9th, 2021 from 7:15 PM> to <!date^1636488000^{time}|9:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Cri%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France|Cri, 8 bis Rue Charles V, 75004 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "[SO] Soirée spéciale CogLab x CojitErgo",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NXN0M2gwdXU2dGprdHJvdmxqaDlnNDBqYnMgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1635753978.001600",
+        "bot_id": "B4SJBP2L8"
+    }
+]

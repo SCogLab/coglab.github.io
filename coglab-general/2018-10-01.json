@@ -1,0 +1,101 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1538419573.000100",
+        "client_msg_id": "662a3c8d-f666-4238-a016-f7e248e242fe",
+        "text": "Je relance mon projet de documentation sur ... la documentation :slightly_smiling_face:\n<https:\/\/paper.dropbox.com\/doc\/Challenge-Documentation-SciCog--AOITAtVO6xjyqQYp4E2dDDLoAg-ZIjNNWIAF00I3YC3fQJGL>\n\nJe réalise notamment un benchmark via l’outil AirTable, pour avoir quelque chose de plus visuel, évolutif et collaboratif :\n<https:\/\/airtable.com\/shrSiMcWU0pMTS4Qx>\n\nL’idée est d’aider à prendre une décision sur l’outil le plus adapté en fonction des besoins. Notamment en priorité pour le CogLab et la Fresco, et pour être au maximum sur des solutions Open Source.\n\nJe viens juste de créer le AirTable, donc ça va se compléter au fur et à mesure. L’idée c’est que ce benchmark soit collaboratif",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Airtable",
+                "title": "Grid view - Airtable",
+                "title_link": "https:\/\/airtable.com\/shrSiMcWU0pMTS4Qx",
+                "text": "Explore the \"Grid\" view on Airtable.",
+                "fallback": "Airtable: Grid view - Airtable",
+                "image_url": "https:\/\/static.airtable.com\/images\/oembed\/airtable.png",
+                "from_url": "https:\/\/airtable.com\/shrSiMcWU0pMTS4Qx",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 42745,
+                "service_icon": "https:\/\/airtable.com\/images\/favicon\/baymax\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/airtable.com\/shrSiMcWU0pMTS4Qx"
+            },
+            {
+                "author_name": "Dropbox Paper",
+                "text": " \n*À propos*\n*Objectif du document*\n*L’enjeux de la documentation*\nLa documentation est au centre de toute démarche projet, dans n’importe quel contexte, que ce soit pour communiquer, permettre un travail collaboratif, avoir un historique clair des évolutions et à n’importe qui de comprendre et s’orienter en toute autonomie.",
+                "title": "Challenge Documentation SciCog",
+                "footer": "Last updated by Romain ROUYER",
+                "id": 2,
+                "title_link": "https:\/\/paper.dropbox.com\/doc\/Challenge-Documentation-SciCog--AOITAtVO6xjyqQYp4E2dDDLoAg-ZIjNNWIAF00I3YC3fQJGL?_tk=slack_preview",
+                "author_link": "https:\/\/paper.dropbox.com\/",
+                "author_icon": "https:\/\/paper.dropboxstatic.com\/static\/img\/icon-paper.png",
+                "ts": 1537724008,
+                "color": "3BA0F3",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "fallback": "Challenge Documentation SciCog",
+                "bot_id": "B71EA8YM6",
+                "app_unfurl_url": "https:\/\/paper.dropbox.com\/doc\/Challenge-Documentation-SciCog--AOITAtVO6xjyqQYp4E2dDDLoAg-ZIjNNWIAF00I3YC3fQJGL",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IxO7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je relance mon projet de documentation sur ... la documentation "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/paper.dropbox.com\/doc\/Challenge-Documentation-SciCog--AOITAtVO6xjyqQYp4E2dDDLoAg-ZIjNNWIAF00I3YC3fQJGL"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nJe réalise notamment un benchmark via l’outil AirTable, pour avoir quelque chose de plus visuel, évolutif et collaboratif :\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/airtable.com\/shrSiMcWU0pMTS4Qx"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nL’idée est d’aider à prendre une décision sur l’outil le plus adapté en fonction des besoins. Notamment en priorité pour le CogLab et la Fresco, et pour être au maximum sur des solutions Open Source.\n\nJe viens juste de créer le AirTable, donc ça va se compléter au fur et à mesure. L’idée c’est que ce benchmark soit collaboratif"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1465329573.000002",
+        "text": "Hey <@U07CFCCBG> :slightly_smiling_face:\n<https:\/\/www.facebook.com\/atelierlablab\/posts\/778720995561877>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "LabLab - Experience #VR #VirtualReality au LABLAB !... | Facebook",
+                "title_link": "https:\/\/www.facebook.com\/atelierlablab\/posts\/778720995561877",
+                "text": "Experience #VR #VirtualReality au LABLAB ! Comment filmer un monde de réalité virtuelle par Théoriz Studio",
+                "fallback": "LabLab - Experience #VR #VirtualReality au LABLAB !... | Facebook",
+                "from_url": "https:\/\/www.facebook.com\/atelierlablab\/posts\/778720995561877",
+                "service_icon": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/yV\/r\/hzMapiNYYpW.ico",
+                "service_name": "facebook.com",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "354=+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07CFCCBG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.facebook.com\/atelierlablab\/posts\/778720995561877"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1608488184.000200",
+        "client_msg_id": "cd78055a-4def-40c4-9df0-4d219a75e93c",
+        "text": "<https:\/\/palgal.itch.io\/oceanarium>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "itch.io",
+                "title": "Oceanarium by PALGAL",
+                "title_link": "https:\/\/palgal.itch.io\/oceanarium",
+                "text": "a trippy underwater adventure game",
+                "fallback": "itch.io: Oceanarium by PALGAL",
+                "image_url": "https:\/\/img.itch.zone\/aW1nLzQ3OTIyMzQucG5n\/original\/Ud8lzB.png",
+                "from_url": "https:\/\/palgal.itch.io\/oceanarium",
+                "image_width": 436,
+                "image_height": 250,
+                "image_bytes": 1674899,
+                "service_icon": "https:\/\/img.itch.zone\/aW1nLzQ3OTIyMzQucG5n\/32x32%23\/dND%2BjH.png",
+                "id": 1,
+                "original_url": "https:\/\/palgal.itch.io\/oceanarium"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gpVb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/palgal.itch.io\/oceanarium"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

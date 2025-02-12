@@ -1,0 +1,106 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U0424EP5PB8",
+        "text": "<@U0424EP5PB8> a rejoint le canal",
+        "type": "message",
+        "ts": "1663145110.997069"
+    },
+    {
+        "user": "U0424EP5PB8",
+        "type": "message",
+        "ts": "1663155055.210519",
+        "client_msg_id": "a8478fca-4718-4b8c-9b12-763fbd0c60ae",
+        "text": "Bonjour, j'ai essayé l'experiment N170 et je rencontre un problème. J'ai ouvert un ticket ici: <https:\/\/github.com\/NeuroTechX\/eeg-notebooks\/issues\/205>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "278a48ef9e39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4079005235203_278a48ef9e39d8b1b2eb_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael Thompson",
+            "display_name": "Michael Thompson",
+            "team": "T03FC4NDZ",
+            "name": "blue.jeans.thirty.nin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/github.com\/NeuroTechX\/eeg-notebooks\/issues\/205",
+                "image_url": "https:\/\/opengraph.githubassets.com\/ffd9034c669ddc589ad0b769e0a3542144c92be867bc49d86f93e6cb4177e1d9\/NeuroTechX\/eeg-notebooks\/issues\/205",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 47712,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/NeuroTechX\/eeg-notebooks\/issues\/205",
+                "fallback": "GitHub: N170 Load and Visualize Data · Issue #205 · NeuroTechX\/eeg-notebooks",
+                "text": ":memo: Provide a description of requested docs changes <https:\/\/neurotechx.github.io\/eeg-notebooks\/auto_examples\/visual_n170\/01r__n170_viz.html> Hello, Could you explain how eegnb_data_path and n170_data_...",
+                "title": "N170 Load and Visualize Data · Issue #205 · NeuroTechX\/eeg-notebooks",
+                "title_link": "https:\/\/github.com\/NeuroTechX\/eeg-notebooks\/issues\/205",
+                "service_name": "GitHub"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SEhCg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour, j'ai essayé l'experiment N170 et je rencontre un problème. J'ai ouvert un ticket ici: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/NeuroTechX\/eeg-notebooks\/issues\/205"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0424EP5PB8",
+        "type": "message",
+        "ts": "1663155079.036449",
+        "client_msg_id": "0e1cf7d8-256e-4e79-842f-3e9c53745323",
+        "text": "Si quelqu'un pourrait m'aider ça serait super !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "278a48ef9e39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-14\/4079005235203_278a48ef9e39d8b1b2eb_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael Thompson",
+            "display_name": "Michael Thompson",
+            "team": "T03FC4NDZ",
+            "name": "blue.jeans.thirty.nin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yoo4V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si quelqu'un pourrait m'aider ça serait super !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

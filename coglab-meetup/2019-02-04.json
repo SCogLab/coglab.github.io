@@ -1,0 +1,33 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U03FC5ZAK",
+        "text": "<@U03FC5ZAK> a rejoint le canal",
+        "type": "message",
+        "ts": "1549309477.000200"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U5JBN3M8Q",
+        "text": "<@U5JBN3M8Q> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1549309477.000400"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC5ZAK",
+        "purpose": "Organisation des Meetups CogLab <https:\/\/www.meetup.com\/fr-FR\/CogLab\/>",
+        "text": "a défini la description du canal : Organisation des Meetups CogLab <https:\/\/www.meetup.com\/fr-FR\/CogLab\/>",
+        "type": "message",
+        "ts": "1549309477.000500"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U59MQ46DA",
+        "text": "<@U59MQ46DA> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1549309477.000700"
+    }
+]

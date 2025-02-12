@@ -1,0 +1,71 @@
+[
+    {
+        "user": "U03FC4NE1",
+        "type": "message",
+        "ts": "1465074534.000002",
+        "text": "<!channel>: Le prochain Meetup CogLab c'est mercredi !\nN'hésitez pas à diffuser l'information :slightly_smiling_face:\n\n<http:\/\/www.meetup.com\/fr-FR\/Paris-CogLab-Meetup-Cognitive-Science-Open-Lab\/events\/231606061\/?eventId=231606061>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ce8fbc12b73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-01-27\/3522174799_7ce8fbc12b7351a6a2b3_72.jpg",
+            "first_name": "CogLab",
+            "real_name": "CogLab NeuroTechX Paris",
+            "display_name": "coglab",
+            "team": "T03FC4NDZ",
+            "name": "coglab",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Paris CogLab Meetup - Cognitive Science Open Lab",
+                "title_link": "http:\/\/www.meetup.com\/fr-FR\/Paris-CogLab-Meetup-Cognitive-Science-Open-Lab\/events\/231606061\/?eventId=231606061",
+                "text": "Episode 3, Saison 2.&amp;nbsp; Après les rêves éveillés et l'exploration de nos pensées (Meetup #5 Rêve et de l'éveil) et le sujet complexe et controversé des \"Smart Drugs\" (Meetup #5 Smart Human), nous",
+                "fallback": "Meetup: Paris CogLab Meetup - Cognitive Science Open Lab",
+                "thumb_url": "http:\/\/photos2.meetupstatic.com\/photos\/event\/9\/9\/4\/2\/highres_437319234.jpeg",
+                "from_url": "http:\/\/www.meetup.com\/fr-FR\/Paris-CogLab-Meetup-Cognitive-Science-Open-Lab\/events\/231606061\/?eventId=231606061",
+                "thumb_width": 1824,
+                "thumb_height": 1368,
+                "service_icon": "http:\/\/img2.meetupstatic.com\/img\/44824024200340517185\/m\/ios\/Icon-60pt@2x.png",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WLrQ2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Le prochain Meetup CogLab c'est mercredi !\nN'hésitez pas à diffuser l'information "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.meetup.com\/fr-FR\/Paris-CogLab-Meetup-Cognitive-Science-Open-Lab\/events\/231606061\/?eventId=231606061"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

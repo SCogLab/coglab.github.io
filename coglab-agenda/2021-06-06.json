@@ -1,0 +1,76 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There are *3* events this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #197 [Online]: <!date^1623083400^{date_short_pretty} from {time}|June 7th, 2021 from 6:30 PM> to <!date^1623087000^{time}|7:30 PM GMT+0200>",
+                "text": "<!date^1623083400^{date_short_pretty} from {time}|June 7th, 2021 from 6:30 PM> to <!date^1623087000^{time}|7:30 PM GMT+0200> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "title": "CogLab HackNight #197 [Online]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=N2NuNTIwMTdtZ3MwMGdxM3J1bGVuaGE5cGggc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "CogLab HackNight #197 [Online FR]: <!date^1623092400^{date_short_pretty} from {time}|June 7th, 2021 from 9:00 PM> to <!date^1623097800^{time}|10:30 PM GMT+0200>",
+                "text": "<!date^1623092400^{date_short_pretty} from {time}|June 7th, 2021 from 9:00 PM> to <!date^1623097800^{time}|10:30 PM GMT+0200> at <https:\/\/gather.town\/i\/PYn7w8L3>",
+                "title": "CogLab HackNight #197 [Online FR]",
+                "id": 2,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Mms3Y2xvcDlvNTUxdjJnbXNubGNqNnJkN3Agc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "KickOFF CogLab - Sensory Odyssey: <!date^1623153600^{date_short_pretty} from {time}|June 8th, 2021 from 2:00 PM> to <!date^1623157200^{time}|3:00 PM GMT+0200>",
+                "text": "<!date^1623153600^{date_short_pretty} from {time}|June 8th, 2021 from 2:00 PM> to <!date^1623157200^{time}|3:00 PM GMT+0200>",
+                "title": "KickOFF CogLab - Sensory Odyssey",
+                "id": 3,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NjAyN3F1MjZxcnY2bDFzZjJxa2lkbjA0ajEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1623045605.002400",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ge48S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " events this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

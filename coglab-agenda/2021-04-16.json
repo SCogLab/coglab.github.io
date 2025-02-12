@@ -1,0 +1,48 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: Discussion AFT &lt;&gt; CogLab: <!date^1618907400^{date_short_pretty} from {time}|April 20th, 2021 from 10:30 AM> to <!date^1618911000^{time}|11:30 AM GMT+0200>",
+                "text": "<!date^1618907400^{date_short_pretty} from {time}|April 20th, 2021 from 10:30 AM> to <!date^1618911000^{time}|11:30 AM GMT+0200>",
+                "pretext": "New calendar event created",
+                "title": "Discussion AFT &lt;&gt; CogLab",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MGc5NnVjdW1oMnU0aHBjMzQwYm81OThhaGQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1618569013.003600",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "FSC 2021 - Fresco + Lionel Naccache: <!date^1618586100^{date_short_pretty} from {time}|April 16th, 2021 from 5:15 PM> to <!date^1618592400^{time}|7:00 PM GMT+0200>",
+                "text": "<!date^1618586100^{date_short_pretty} from {time}|April 16th, 2021 from 5:15 PM> to <!date^1618592400^{time}|7:00 PM GMT+0200>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "FSC 2021 - Fresco + Lionel Naccache",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MzEyNGFyaDZvdDZqZXNibzljb2xsYmRnNTIgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1618582501.003700",
+        "bot_id": "B4SJBP2L8"
+    }
+]

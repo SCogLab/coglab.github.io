@@ -1,0 +1,78 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1552061897.002100",
+        "client_msg_id": "5786143f-dd58-4d12-ae5e-6e9ea3e40234",
+        "text": "cc <@U03FC5ZAK> <https:\/\/indico.math.cnrs.fr\/event\/4433\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Service de gestion de conférences de Mathrice (Indico)",
+                "title": "CONFÉRENCE GRAND PUBLIC  (13 mars 2019) · Service de gestion de conférences de Mathrice (Indico)",
+                "title_link": "https:\/\/indico.math.cnrs.fr\/event\/4433\/",
+                "text": "Titre : Création des mondes virtuels : Objets auto-similaires et distributions d'éléments Conférencier : Marie-Paule CANI Résumé : Les objets naturels, d'un arbre isolé à une montagne rocheuse partiellement couverte de végétation, se caractérisent par leur multitude de détails, souvent similaires mais chacun différent. Reproduire cette complexité est un véritable défi pour les créateurs des mondes virtuels - comme par exemple les mondes que vous découvrez dans les jeux vidéo ou les films et...",
+                "fallback": "Service de gestion de conférences de Mathrice (Indico): CONFÉRENCE GRAND PUBLIC  (13 mars 2019) · Service de gestion de conférences de Mathrice (Indico)",
+                "image_url": "https:\/\/indico.math.cnrs.fr\/event\/4433\/logo-3678938515.png",
+                "from_url": "https:\/\/indico.math.cnrs.fr\/event\/4433\/",
+                "image_width": 431,
+                "image_height": 250,
+                "image_bytes": 1091792,
+                "service_icon": "https:\/\/indico.math.cnrs.fr\/images\/indico.ico",
+                "id": 1,
+                "original_url": "https:\/\/indico.math.cnrs.fr\/event\/4433\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a7KiT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/indico.math.cnrs.fr\/event\/4433\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

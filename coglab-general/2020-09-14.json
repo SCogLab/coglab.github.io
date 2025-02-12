@@ -1,0 +1,98 @@
+[
+    {
+        "user": "URS0PAL8Y",
+        "type": "message",
+        "ts": "1600076879.014500",
+        "client_msg_id": "88e73a0b-2913-49d1-beb8-a69b7e0f56ca",
+        "text": "Merci ! Je vais regarder ça !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "94d54365e2ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/866882619345_94d54365e2eeb08c613b_72.jpg",
+            "first_name": "Paul",
+            "real_name": "Paul Barbaste",
+            "display_name": "PaulB",
+            "team": "T03FC4NDZ",
+            "name": "paulbarbaste",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1599994888.011500",
+        "parent_user_id": "URS0PAL8Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0vDB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci ! Je vais regarder ça !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01ANAN8W1Z",
+        "text": "<@U01ANAN8W1Z> a rejoint le canal",
+        "type": "message",
+        "ts": "1600101523.014800"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1600117628.014900",
+        "client_msg_id": "680162a0-bedb-41e4-9535-7acd81d3aabd",
+        "text": "Je n’aurais pas dit mieux, le BabyLab de Neurospin au CEA fait des manip EEG sur des bébés. Je n’ai pas connaissance d’autre recherche.\n\nRegarde aussi les références des publications associées pour trouver d’autres pistes.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1599994888.011500",
+        "parent_user_id": "URS0PAL8Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bc7q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je n’aurais pas dit mieux, le BabyLab de Neurospin au CEA fait des manip EEG sur des bébés. Je n’ai pas connaissance d’autre recherche.\n\nRegarde aussi les références des publications associées pour trouver d’autres pistes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "URS0PAL8Y"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

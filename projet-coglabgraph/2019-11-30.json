@@ -1,0 +1,124 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1575126359.000100",
+        "client_msg_id": "3d5b0915-21a0-41bf-a23a-1dbc9e5ea7da",
+        "text": "Comment ça ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1575040624.004000",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PH2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Comment ça ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1575127791.007700",
+        "client_msg_id": "5A98C308-5FA0-450C-A51E-67C09FC49096",
+        "text": "Il y a 15 ans, je faisais du linked data et du web sem (j’ai dev des modules doap \/ foaf creative commons RDF pour qqs outils open source (blog, navigateur Firefox) et apps biz avec SUN Microsystems, p2p + linked data XML\/RDF jusqu’en 2016 avec une startup. SOLID, ça n’est pas viable pour moi.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1575040624.004000",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xu34",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il y a 15 ans, je faisais du linked data et du web sem (j’ai dev des modules doap \/ foaf creative commons RDF pour qqs outils open source (blog, navigateur Firefox) et apps biz avec SUN Microsystems, p2p + linked data XML\/RDF jusqu’en 2016 avec une startup. SOLID, ça n’est pas viable pour moi."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1575133020.008100",
+        "client_msg_id": "971e62e2-9c05-4ad3-b584-01ec5d078bc7",
+        "text": "Veille <https:\/\/www.logilab.fr>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rISi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Veille "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.logilab.fr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

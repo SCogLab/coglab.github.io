@@ -1,0 +1,150 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1681300811.147819",
+        "client_msg_id": "b4a0d889-64cf-469e-9faa-2f91db4620da",
+        "text": "Bon plutôt vers 14h",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680614512.313579",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "55NQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bon plutôt vers 14h"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1681300849.756119",
+        "client_msg_id": "f77126f5-71ac-4cd4-8536-fad12bd51d49",
+        "text": "Ok merci <@U04793S9VTP>, j'ai rempli le formulaire pour Myriam",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680456299.737329",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k7aKG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04793S9VTP"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", j'ai rempli le formulaire pour Myriam"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1681327125.352129",
+        "client_msg_id": "8be784a9-5ab2-4306-a280-01a9d70ea8ae",
+        "text": "Hello, j’ai actualisé l’article sur le FSC et m’apprête à faire une grosse campagne de partage <https:\/\/coglab.fr\/fsc2023\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/coglab.fr\/fsc2023\/",
+                "ts": 1679772091,
+                "image_url": "https:\/\/coglab.fr\/wp-content\/uploads\/2023\/03\/Banniere-768x288-1.png",
+                "image_width": 768,
+                "image_height": 288,
+                "image_bytes": 291100,
+                "service_icon": "https:\/\/i0.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=180%2C180&amp;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/coglab.fr\/fsc2023\/",
+                "fallback": "CogLab, NeuroTechX Paris: Forum des Sciences Cognitives 2023",
+                "text": "L’association tiendra un stand au Forum des Sciences Cognitives de Paris le 16 avril 2023, consacré cette année à la cognition et aux états altérés de conscience. L’occasion de retrouve…",
+                "title": "Forum des Sciences Cognitives 2023",
+                "title_link": "https:\/\/coglab.fr\/fsc2023\/",
+                "service_name": "CogLab, NeuroTechX Paris"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6bZie",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, j’ai actualisé l’article sur le FSC et m’apprête à faire une grosse campagne de partage "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.fr\/fsc2023\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

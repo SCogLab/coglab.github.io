@@ -1,0 +1,552 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1654521499.692249",
+        "client_msg_id": "54c76956-c500-4347-ad6a-59b3140eb9d1",
+        "text": "du 6 au 7 juin Canadian Computational Neurosciences spotlight v3 : <https:\/\/www.crowdcast.io\/e\/ccnsv3\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1654521499.692249",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1654540245.768869",
+        "reply_users": [
+            "U01804NJ7AQ",
+            "U59MQ46DA",
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U01804NJ7AQ",
+                "ts": "1654531885.596839"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1654532071.494079"
+            },
+            {
+                "user": "U01804NJ7AQ",
+                "ts": "1654532106.957549"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1654532363.838439"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1654534153.367969"
+            },
+            {
+                "user": "U01804NJ7AQ",
+                "ts": "1654538883.888989"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1654540245.768869"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.crowdcast.io\/e\/ccnsv3\/",
+                "image_url": "https:\/\/crowdcast-prod.imgix.net\/-M6p_a63ilfZrNnrEbSJ\/event-cover-1359?w=800",
+                "image_width": 394,
+                "image_height": 250,
+                "image_bytes": 76546,
+                "service_icon": "https:\/\/www.crowdcast.io\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.crowdcast.io\/e\/ccnsv3\/",
+                "fallback": "Crowdcast: Canadian Computational Neuroscience Spotlight v3 - Crowdcast",
+                "text": "The Canadian Computational Neuroscience Spotlight (CCNS) is back for a \"v3\" after two successful iterations during the early stages of the COVID-19 pandemic.",
+                "title": "Canadian Computational Neuroscience Spotlight v3 - Crowdcast",
+                "title_link": "https:\/\/www.crowdcast.io\/e\/ccnsv3\/",
+                "service_name": "Crowdcast",
+                "fields": [
+                    {
+                        "value": "Monday June 06, 2022 8:45 am EDT",
+                        "title": "Date",
+                        "short": true
+                    },
+                    {
+                        "value": "Canadian Computational Neuroscience Spotlight",
+                        "title": "Who",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=RW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "du 6 au 7 juin Canadian Computational Neurosciences spotlight v3 : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.crowdcast.io\/e\/ccnsv3\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01804NJ7AQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01804NJ7AQ",
+        "type": "message",
+        "ts": "1654531885.596839",
+        "client_msg_id": "EE4ED701-2880-4631-9D9A-58BE8A6F7849",
+        "text": "Will there be a Hacknight this evening too? ",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g7080a90c528",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7080a90c528526f8129488e607562782.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Morgan Hough",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "morgan.hough",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1654521499.692249",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fxk1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "there"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "be"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hacknight"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "this"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "evening"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "too?"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1654532071.494079",
+        "client_msg_id": "D1CDEC4E-299E-4A59-84D4-C45248A96ED7",
+        "text": "<@U01804NJ7AQ> I am on my way but I have train problems, I think <@U03FC5ZAK> will be there before me.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1654521499.692249",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "75l1R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01804NJ7AQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I am on my way but I have train problems, I think "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " will be there before me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01804NJ7AQ",
+        "type": "message",
+        "ts": "1654532106.957549",
+        "client_msg_id": "FE039BE6-8375-4771-9046-4A466EFF7233",
+        "text": "That's cool. We can watch the crowdcast together!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g7080a90c528",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7080a90c528526f8129488e607562782.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Morgan Hough",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "morgan.hough",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1654521499.692249",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KYINm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's "
+                            },
+                            {
+                                "type": "text",
+                                "text": "cool."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "We"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "can"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "watch"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "the"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "crowdcast"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "together!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1654532363.838439",
+        "client_msg_id": "0484644D-8137-48D2-A56E-66EE104A5AFA",
+        "text": "I will probably arrive during the Neuro-AI sessions ",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1654521499.692249",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3G6a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will probably arrive during the Neuro-AI sessions "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1654534153.367969",
+        "client_msg_id": "bdc12520-e226-48b5-8215-bfe1f1d038ba",
+        "text": "I’m on site but the MakerLab is closed today (it’s a public Holliday today in France)\n\nIt’s not really convenient to open a visio bridge right know where I am",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1654521499.692249",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JVnt1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m on site but the MakerLab is closed today (it’s a public Holliday today in France)\n\nIt’s not really convenient to open a visio bridge right know where I am"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01804NJ7AQ",
+        "type": "message",
+        "ts": "1654538883.888989",
+        "client_msg_id": "F3209653-9DBF-4C17-BBC6-3258304ACD55",
+        "text": "Pas de problem. Great talks today ",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g7080a90c528",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7080a90c528526f8129488e607562782.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Morgan Hough",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "morgan.hough",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1654521499.692249",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UaEi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pas"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "de"
+                            },
+                            {
+                                "type": "text",
+                                "text": " problem"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Great talks today "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1654540245.768869",
+        "client_msg_id": "6f76a0f8-375e-4d6f-827a-c3f857052413",
+        "text": "Yeah, enjoy the CCNS :wink:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1654521499.692249",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W+5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, enjoy the CCNS "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

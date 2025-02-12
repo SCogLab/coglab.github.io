@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1540556679.002100",
+        "client_msg_id": "6577f565-e9a4-44f8-ba3c-9fcd14fcad72",
+        "text": "<!channel> Hello, j’ai rajouté une Airtable pour lister les évènements à venir, n’hésitez pas à le remplir :wink: <https:\/\/airtable.com\/tblu8cTwZpIVZQZJ3\/viwE9ylKbN8yFF716https:\/\/airtable.com\/tblu8cTwZpIVZQZJ3\/viwE9ylKbN8yFF716>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p94d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hello, j’ai rajouté une Airtable pour lister les évènements à venir, n’hésitez pas à le remplir "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/airtable.com\/tblu8cTwZpIVZQZJ3\/viwE9ylKbN8yFF716https:\/\/airtable.com\/tblu8cTwZpIVZQZJ3\/viwE9ylKbN8yFF716"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

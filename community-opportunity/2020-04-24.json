@@ -1,0 +1,91 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "UQX7ZD4C9",
+        "text": "<@UQX7ZD4C9> a rejoint le canal",
+        "type": "message",
+        "ts": "1587717323.000700"
+    },
+    {
+        "user": "UQX7ZD4C9",
+        "type": "message",
+        "ts": "1587717348.000900",
+        "client_msg_id": "daf28855-23e6-467b-bfbc-d0d6ed022efb",
+        "text": "Hi all!\n<https:\/\/www.wisear.io\/|Wisear> develops the first solution that enables your earphones to record your brain activity and record mental state such as attention \/ relaxation and later detect medical conditions. We are looking for skilled interns willing to stay 3 - 6 months and crack Digital Signal Processing \/ Machine Learning problem related to EEG signal. We're based in Paris.\nMore information <https:\/\/angel.co\/company\/wisear-1\/jobs|here>. If you are interested, feel free to shoot me an e-mail directly: <mailto:yacine@wisear.io|yacine@wisear.io>.\nThanks!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g1df15c093be",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1df15c093be238c6b94e432404d0325a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "Yacine",
+            "display_name": "Yacine",
+            "team": "T03FC4NDZ",
+            "name": "yacine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k6U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all!\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.wisear.io\/",
+                                "text": "Wisear"
+                            },
+                            {
+                                "type": "text",
+                                "text": " develops the first solution that enables your earphones to record your brain activity and record mental state such as attention \/ relaxation and later detect medical conditions. We are looking for skilled interns willing to stay 3 - 6 months and crack Digital Signal Processing \/ Machine Learning problem related to EEG signal. We're based in Paris.\nMore information "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/angel.co\/company\/wisear-1\/jobs",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". If you are interested, feel free to shoot me an e-mail directly: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:yacine@wisear.io",
+                                "text": "yacine@wisear.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\nThanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK",
+                    "U012L8X3UP3"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "subtype": "channel_leave",
+        "user": "ULSDVUUVA",
+        "text": "<@ULSDVUUVA> a quitté le canal",
+        "type": "message",
+        "ts": "1587727911.001100"
+    }
+]

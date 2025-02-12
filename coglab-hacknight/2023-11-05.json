@@ -1,0 +1,163 @@
+[
+    {
+        "subtype": "channel_topic",
+        "user": "U03FC5ZAK",
+        "topic": "Échange autour des permanences HackNight, chaque mercredi à partir de 18h30.\n\nEn ligne sur Jitsi <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>\nEn présentiel dans le MakerLab du LPI (rue Charles 5, Paris)\n\nInfos sur <https:\/\/coglab.fr\/hacknight>",
+        "text": "a défini le thème du canal : Échange autour des permanences HackNight, chaque mercredi à partir de 18h30.\n\nEn ligne sur Jitsi <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>\nEn présentiel dans le MakerLab du LPI (rue Charles 5, Paris)\n\nInfos sur <https:\/\/coglab.fr\/hacknight>",
+        "type": "message",
+        "ts": "1699223565.581459",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1699224168.638699",
+        "client_msg_id": "3c4ea73d-cf58-4fec-9d2d-db042055c28f",
+        "text": "Prochaine permanence ce mercredi 8 novembre à partir de 18h30, format hybride\n• En présentiel : MakerLab du LPI, rue Charles V à Paris, animé par <@U59MQ46DA> \n• En ligne : <https:\/\/meet.jit.si\/NeuroTechX-Hacknight|Salon Jitsi>, animé par <@U03FC5ZAK> \nInformation et inscription sur Meetup :\n<https:\/\/www.meetup.com\/fr-FR\/coglab\/events\/297183120\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "service_icon": "https:\/\/meet.jit.si\/images\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "fallback": "Jitsi Meet",
+                "text": "Join a WebRTC video conference powered by the Jitsi Videobridge",
+                "title": "Jitsi Meet",
+                "title_link": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "service_name": "meet.jit.si"
+            },
+            {
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/5\/8\/8\/e\/600_510442670.jpeg",
+                "image_width": 600,
+                "image_height": 338,
+                "image_bytes": 42700,
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/coglab\/events\/297183120\/",
+                "service_icon": "https:\/\/secure.meetupstatic.com\/next\/images\/general\/m_swarm_120x120.png",
+                "id": 2,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/coglab\/events\/297183120\/",
+                "fallback": "Meetup: HackNight NeuroTechX Paris, mer. 8 nov. 2023, 18:30   | Meetup",
+                "text": "**A Propos**\nLes HackNight de l’association CogLab, NeuroTechX Paris sont des soirées hebdomadaires conviviales, propices aux échanges et à la réalisation d’activités commu",
+                "title": "HackNight NeuroTechX Paris, mer. 8 nov. 2023, 18:30   | Meetup",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/coglab\/events\/297183120\/",
+                "service_name": "Meetup"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V0Laf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Prochaine permanence ce mercredi 8 novembre à partir de 18h30, format hybride\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "En présentiel : MakerLab du LPI, rue Charles V à Paris, animé par "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U59MQ46DA"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "En ligne : "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                                        "text": "Salon Jitsi"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", animé par "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U03FC5ZAK"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nInformation et inscription sur Meetup :\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/coglab\/events\/297183120\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0637AUUYBZ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

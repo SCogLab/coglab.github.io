@@ -1,0 +1,73 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1531130579.000051",
+        "client_msg_id": "72bd2796-a431-476e-8bf9-1cf4eb7db7d2",
+        "text": "Ensemble des publications scientifiques ML\/DL\/IA proposées lors d’événements récurrents (COLT, NIPS, ICML, ACML, ...) : <https:\/\/github.com\/mlresearch>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "Proceedings of Machine Learning Research",
+                "title": "Proceedings of Machine Learning Research",
+                "footer": "<https:\/\/github.com\/mlresearch|@mlresearch>",
+                "id": 1,
+                "thumb_height": 72,
+                "thumb_width": 72,
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/12442776?v=4",
+                "footer_icon": "https:\/\/assets-cdn.github.com\/favicon.ico",
+                "ts": 1431594998,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "URL",
+                        "value": "<http:\/\/mlr.press>",
+                        "short": true
+                    },
+                    {
+                        "title": "Repositories",
+                        "value": "88",
+                        "short": true
+                    }
+                ],
+                "bot_id": "BA73T1BTJ",
+                "app_unfurl_url": "https:\/\/github.com\/mlresearch",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0whwW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ensemble des publications scientifiques ML\/DL\/IA proposées lors d’événements récurrents (COLT, NIPS, ICML, ACML, ...) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/mlresearch"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

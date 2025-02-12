@@ -1,0 +1,109 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1701378609.366959",
+        "client_msg_id": "8f31eda0-e066-4412-b569-6374871a5646",
+        "text": "<@U03FC5ZAK> J'ai crée, avant-hier, une boîte mail spécifique pour le hackathon : <mailto:ntxhack2023@coglab.fr|ntxhack2023@coglab.fr>\nEt il ne faudra pas oublier le lien discord aussi : <https:\/\/discord.com\/invite\/JYNuRrEcuE?mc_cid=377b0d372c&amp;mc_eid=1a1235a1b4>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701378609.366959",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1701985745.232899",
+        "reply_users": [
+            "U03FC5ZAK",
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1701464302.534339"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1701465599.826049"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1701472427.098179"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1701472609.026089"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1701475400.207639"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1701985634.871359"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1701985745.232899"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/discord.com\/invite\/JYNuRrEcuE?mc_cid=377b0d372c&mc_eid=1a1235a1b4",
+                "id": 1,
+                "original_url": "https:\/\/discord.com\/invite\/JYNuRrEcuE?mc_cid=377b0d372c&amp;mc_eid=1a1235a1b4",
+                "fallback": "Discord: Join the NTX Hackathon 23 Discord Server!",
+                "text": "Check out the NTX Hackathon 23 community on Discord - hang out with 734 other members and enjoy free voice and text chat.",
+                "title": "Join the NTX Hackathon 23 Discord Server!",
+                "title_link": "https:\/\/discord.com\/invite\/JYNuRrEcuE?mc_cid=377b0d372c&mc_eid=1a1235a1b4",
+                "service_name": "Discord"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m4G5s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " J'ai crée, avant-hier, une boîte mail spécifique pour le hackathon : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:ntxhack2023@coglab.fr",
+                                "text": "ntxhack2023@coglab.fr"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nEt il ne faudra pas oublier le lien discord aussi : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/discord.com\/invite\/JYNuRrEcuE?mc_cid=377b0d372c&mc_eid=1a1235a1b4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

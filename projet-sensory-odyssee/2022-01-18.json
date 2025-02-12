@@ -1,0 +1,46 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "*Espace de travail de de vatghibaudo@gmail.com* a rejoint ce canal sur une invitation de *CogLab - NeuroTechX Paris*.",
+        "user": "USLACKBOT",
+        "username": "slackbot",
+        "type": "message",
+        "ts": "1642503797.000300",
+        "team": "T03FC4NDZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bzum",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Espace de travail de de vatghibaudo@gmail.com",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " a rejoint ce canal sur une invitation de "
+                            },
+                            {
+                                "type": "text",
+                                "text": "CogLab - NeuroTechX Paris",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

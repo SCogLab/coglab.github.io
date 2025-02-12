@@ -1,0 +1,158 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1452703225.000002",
+        "text": "On se pose la question d'un Slack au bureau\nJ'en profite pour évoquer les alternatives Open Source :\n<https:\/\/opensource.com\/business\/15\/9\/alternatives-slack-team-chat>\n\nEt un nouvel outil original :\n<https:\/\/clubble.io\/fr\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Opensource.com",
+                "title": "4 open source alternatives to Slack for team chat",
+                "title_link": "https:\/\/opensource.com\/business\/15\/9\/alternatives-slack-team-chat",
+                "text": "Need a team chat application as a part of your collaboration tool suite? Here are four open source chat applications that will help your team stay connected.",
+                "fallback": "Opensource.com: 4 open source alternatives to Slack for team chat",
+                "thumb_url": "https:\/\/opensource.com\/sites\/default\/files\/images\/business\/open-source-chat.png",
+                "from_url": "https:\/\/opensource.com\/business\/15\/9\/alternatives-slack-team-chat",
+                "thumb_width": 520,
+                "thumb_height": 292,
+                "id": 1
+            },
+            {
+                "title": "Clubble.io pour Slack",
+                "title_link": "https:\/\/clubble.io\/fr\/",
+                "text": "Le pont entre votre équipe Slack &amp; vos clients attachés à l’e-mail.",
+                "fallback": "Clubble.io pour Slack",
+                "thumb_url": "https:\/\/clubble.io\/static\/img\/clubble.io-logo-square.png",
+                "from_url": "https:\/\/clubble.io\/fr\/",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "id": 2
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aYmr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On se pose la question d'un Slack au bureau\nJ'en profite pour évoquer les alternatives Open Source :\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/opensource.com\/business\/15\/9\/alternatives-slack-team-chat"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nEt un nouvel outil original :\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/clubble.io\/fr\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1452720026.000004",
+        "text": "tu veux changer de messagerie ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3\/Tw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tu veux changer de messagerie ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1452730057.000002",
+        "text": "Je pense que c'est un peu tard maintenant, mais on c'était posé la question avec <@U07CFCCBG> à un moment",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vrJ3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je pense que c'est un peu tard maintenant, mais on c'était posé la question avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07CFCCBG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " à un moment"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1579086371.000300",
+        "client_msg_id": "a6f3a8d9-6a76-4961-b0b0-f63a397151ce",
+        "text": "Neurable est toujours vivant\n<http:\/\/www.neurable.com\/about\/careers>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Neurable INC",
+                "title": "Careers",
+                "title_link": "http:\/\/www.neurable.com\/about\/careers",
+                "text": "We're building a neurotech platform to free the power of the mind. We like hard problems. We hope you do too.",
+                "fallback": "Neurable INC: Careers",
+                "ts": 1496843382,
+                "from_url": "http:\/\/www.neurable.com\/about\/careers",
+                "service_icon": "http:\/\/www.neurable.com\/sites\/default\/files\/neurable-vawe.png",
+                "id": 1,
+                "original_url": "http:\/\/www.neurable.com\/about\/careers"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iq7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Neurable est toujours vivant\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.neurable.com\/about\/careers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

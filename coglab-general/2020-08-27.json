@@ -1,0 +1,51 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Hans Harisson",
+                "fallback": "New card Virtual ERP Boot Camp: Webinar on the ERP CORE added to list BLOG &amp; évènements externes on board Activités CogLab (public).",
+                "text": "In list *BLOG &amp; évènements externes* on *<https:\/\/trello.com\/b\/NFHS3ZPa|Activités CogLab (public)>*.",
+                "pretext": "New card created",
+                "title": "Virtual ERP Boot Camp: Webinar on the ERP CORE",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/Zs2RI26P",
+                "author_link": "https:\/\/trello.com\/hansharisson1",
+                "author_icon": "https:\/\/trello-members.s3.amazonaws.com\/5932ca0090ff177f1e3be0a0\/3b24595bfbf9964329e0f68a00393ac7\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1598542125.000500",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Hans Harisson",
+                "fallback": "Hans Harisson marked Virtual ERP Boot Camp: Webinar on the ERP CORE complete.",
+                "text": "Marked *<https:\/\/trello.com\/c\/Zs2RI26P|Virtual ERP Boot Camp: Webinar on the ERP CORE>* complete.",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/hansharisson1",
+                "author_icon": "https:\/\/trello-members.s3.amazonaws.com\/5932ca0090ff177f1e3be0a0\/3b24595bfbf9964329e0f68a00393ac7\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1598542864.000600",
+        "bot_id": "B66HQV43C"
+    }
+]

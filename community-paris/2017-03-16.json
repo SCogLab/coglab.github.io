@@ -1,0 +1,306 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1489701150.421735",
+        "text": "Hello <!here|@here> \n\nJe vous synthétise quelques news très récentes ce soir\n\n*Autispace*\nNous avons été sélectionné pour cet appel à projet VR postulé avec l'équipe <#C03UHP8UD|projet-autispace> <https:\/\/fr.surveymonkey.com\/r\/7VG3DL5> :white_check_mark: :+1::rocket:\nNotre objectif est aussi de présenter une petite démo pour le Forum des Sciences Cognitives le 29 avril\n\n*Assemblée Générale*\nNous prévoyons la tenue d'une première assemblée générale l'après-midi du samedi 1er avril.\nEst-ce que des personnes sont intéressées pour y assister ? Voir s'impliquer dans l'association ?\nA l'ordre du jour : bilan complet du CogLab Paris, élection du bureau et vote des documents (Manifesto, Statut, Réglement intérieur) pour la création de l'association\nNous allons communiquer dessus ce WE\n\n*Forum des Sciences Cognitives*\nComme chaque année désormais, nous disposerons d'un stand pour le FSC\nCe que je propose en animation  : démo EEG avec OpenBCI (cf soirée ADAMI) + démo VR Autispace (ou autre démo de VR si on es trop juste) + ma barre d'eyetracking Tobii \/ Leap Motion\nIl faut que l'on *indique à l'équipe d'organisation qui sera présent*, pour les badges et le panier repas du midi. A noter que s'il on est plusieurs on peux se relayer sur le stand, notamment pour voir des conférences, et venir sur une demi journée si ça arrange certains.\nQui est partant ? <@U0AR01SPQ> <@U04T6ATLX> <@U07MRF79P> ?\nOn peux s'organiser sur le channel <#C0QMHFEK1|event-fsc> de l'année dernière :wink:\n\n*Maker Faire Paris*\nPour rappel, on à l'occasion de participer à la Maker Faire à la Cité des Sciences les 9, 10 et 11 juin comme signalé sur <#C03UHNB2H|community-event> hier soir.\nToutes les infos sont ici : <http:\/\/paris.makerfaire.com\/appel-aux-makers\/>\n\n*Newsletter*\nJe prépare une petite newsletter pour rassembler toutes les dernières actualités. Si vous avez un petit message ou une info à faire passer, n'hésitez pas !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1489701150.421735",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1489702642.926179",
+        "reply_users": [
+            "U03FEH3N8"
+        ],
+        "replies": [
+            {
+                "user": "U03FEH3N8",
+                "ts": "1489702642.926179"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "title": "Storycode LabVR \/\/ appel à participation Survey",
+                "title_link": "https:\/\/fr.surveymonkey.com\/r\/7VG3DL5",
+                "text": "Web survey powered by <http:\/\/SurveyMonkey.com|SurveyMonkey.com>. Create your own online survey now with SurveyMonkey's expert certified FREE templates.",
+                "fallback": "Storycode LabVR \/\/ appel à participation Survey",
+                "from_url": "https:\/\/fr.surveymonkey.com\/r\/7VG3DL5",
+                "service_icon": "https:\/\/fr.surveymonkey.com\/favicon1.ico",
+                "service_name": "fr.surveymonkey.com",
+                "id": 1
+            },
+            {
+                "service_name": "Maker Faire Paris",
+                "title": "Appel aux Makers !",
+                "title_link": "http:\/\/paris.makerfaire.com\/appel-aux-makers\/",
+                "text": "Participez à Maker Faire Paris 2017 !",
+                "fallback": "Maker Faire Paris: Appel aux Makers !",
+                "thumb_url": "http:\/\/paris.makerfaire.com\/wp-content\/uploads\/sites\/109\/2016\/06\/Makeme_Appelauxmakers_Call4Paris17.png",
+                "from_url": "http:\/\/paris.makerfaire.com\/appel-aux-makers\/",
+                "thumb_width": 2460,
+                "thumb_height": 921,
+                "service_icon": "http:\/\/paris.makerfaire.com\/apple-touch-icon.png",
+                "id": 2
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8mmQf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here|@here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nJe vous synthétise quelques news très récentes ce soir\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Autispace",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nNous avons été sélectionné pour cet appel à projet VR postulé avec l'équipe "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03UHP8UD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fr.surveymonkey.com\/r\/7VG3DL5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark",
+                                "unicode": "2705"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rocket",
+                                "unicode": "1f680"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nNotre objectif est aussi de présenter une petite démo pour le Forum des Sciences Cognitives le 29 avril\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Assemblée Générale",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nNous prévoyons la tenue d'une première assemblée générale l'après-midi du samedi 1er avril.\nEst-ce que des personnes sont intéressées pour y assister ? Voir s'impliquer dans l'association ?\nA l'ordre du jour : bilan complet du CogLab Paris, élection du bureau et vote des documents (Manifesto, Statut, Réglement intérieur) pour la création de l'association\nNous allons communiquer dessus ce WE\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Forum des Sciences Cognitives",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nComme chaque année désormais, nous disposerons d'un stand pour le FSC\nCe que je propose en animation  : démo EEG avec OpenBCI (cf soirée ADAMI) + démo VR Autispace (ou autre démo de VR si on es trop juste) + ma barre d'eyetracking Tobii \/ Leap Motion\nIl faut que l'on "
+                            },
+                            {
+                                "type": "text",
+                                "text": "indique à l'équipe d'organisation qui sera présent",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", pour les badges et le panier repas du midi. A noter que s'il on est plusieurs on peux se relayer sur le stand, notamment pour voir des conférences, et venir sur une demi journée si ça arrange certains.\nQui est partant ? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0AR01SPQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04T6ATLX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07MRF79P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?\nOn peux s'organiser sur le channel "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0QMHFEK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " de l'année dernière "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Maker Faire Paris",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPour rappel, on à l'occasion de participer à la Maker Faire à la Cité des Sciences les 9, 10 et 11 juin comme signalé sur "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03UHNB2H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hier soir.\nToutes les infos sont ici : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/paris.makerfaire.com\/appel-aux-makers\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Newsletter",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nJe prépare une petite newsletter pour rassembler toutes les dernières actualités. Si vous avez un petit message ou une info à faire passer, n'hésitez pas !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1489702642.926179",
+        "text": "bravo pour l'appel à projet\nAG : oui malheureusement je serai en train de faire dodo et je peux pas me mobiliser même si c'est plus tard je serai avec une invitée, mais on peut en discuter avant pour la procuration de vote et candidature\nFSC : sound great, pareil je serai pas là :disappointed: \nMaker Faire Paris : pareil je serai pas là, c'est la loose\nNewsletter : ouverture des inscriptions pour recevoir le kit d'enseignement des neurosciences de cogni'junior pour les partenaires",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1489701150.421735",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ij8LM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bravo pour l'appel à projet\nAG : oui malheureusement je serai en train de faire dodo et je peux pas me mobiliser même si c'est plus tard je serai avec une invitée, mais on peut en discuter avant pour la procuration de vote et candidature\nFSC : sound great, pareil je serai pas là "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed",
+                                "unicode": "1f61e"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nMaker Faire Paris : pareil je serai pas là, c'est la loose\nNewsletter : ouverture des inscriptions pour recevoir le kit d'enseignement des neurosciences de cogni'junior pour les partenaires"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

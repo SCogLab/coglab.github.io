@@ -1,0 +1,195 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1636906351.000600",
+        "client_msg_id": "9c8a60d6-d072-4172-8339-f670e0f621ed",
+        "text": "Des voisins belges NeuroTechX Leuven <https:\/\/www.ntxl.org\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1636906351.000600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1636906419.000800",
+        "reply_users": [
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1636906419.000800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.ntxl.org\/",
+                "title": "NXTL: NeuroTechX Leuven",
+                "title_link": "https:\/\/www.ntxl.org\/",
+                "text": "To facilitate its local advancement, NTXL wants to bring talented, like-minded students and experts from the KU Leuven together in a fun, interactive and organized environment.",
+                "fallback": "NXTL: NeuroTechX Leuven",
+                "service_name": "ntxl.org",
+                "id": 1,
+                "original_url": "https:\/\/www.ntxl.org\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "80Nu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Des voisins belges NeuroTechX Leuven "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ntxl.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1636906419.000800",
+        "client_msg_id": "af593118-1ae6-4626-9b99-da775aac7b9f",
+        "text": "Oui, je suis en contact avec la personne mais il veut faire un club étudiant à KU Leuven",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1636906351.000600",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tQmQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui, je suis en contact avec la personne mais il veut faire un club étudiant à KU Leuven"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1636910373.002600",
+        "client_msg_id": "d380f352-1551-4703-96e4-902db0230001",
+        "text": "Hey <@U59MQ46DA> tu serais partant à l’idée de faire un billet de blog sur le NTX EU Connectome ?\nRevenir sur l’historique, les évolutions \/ émergence des communautés européennes, ton implication et coordination avec l’équipe NTX Connectome, les perspectives d’évolution, etc.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eCF3a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tu serais partant à l’idée de faire un billet de blog sur le NTX EU Connectome ?\nRevenir sur l’historique, les évolutions \/ émergence des communautés européennes, ton implication et coordination avec l’équipe NTX Connectome, les perspectives d’évolution, etc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1636910497.003000",
+        "client_msg_id": "77e2798c-cf66-42cf-95d7-b2d776571b83",
+        "text": "Pourquoi pas, mais pas avant avril",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yri",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pourquoi pas, mais pas avant avril"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,408 @@
+[
+    {
+        "user": "U6N3TJ0QM",
+        "type": "message",
+        "ts": "1562326635.005000",
+        "client_msg_id": "9dd91e47-d451-4824-873c-af9ca953483e",
+        "text": "Ah oui, super intéressant!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gf97b64003f8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1f97b64003f820d41fe93839432d7aac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Maxence",
+            "real_name": "Maxence Dolle",
+            "display_name": "Maxence Dolle",
+            "team": "T03FC4NDZ",
+            "name": "maxenced",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562244016.003700",
+        "parent_user_id": "UL4SA8V7Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tSJ=k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah oui, super intéressant!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U6N3TJ0QM",
+        "type": "message",
+        "ts": "1562326775.005200",
+        "client_msg_id": "5403792f-267f-409e-a8e1-efd83784610d",
+        "text": "Et tu connais des applications de VR\/AR avec EEG?J'attends vraiment le jour où on pourra controler un environnement VR avec de l'EEG :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gf97b64003f8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1f97b64003f820d41fe93839432d7aac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Maxence",
+            "real_name": "Maxence Dolle",
+            "display_name": "Maxence Dolle",
+            "team": "T03FC4NDZ",
+            "name": "maxenced",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562244016.003700",
+        "parent_user_id": "UL4SA8V7Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "==gye",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et tu connais des applications de VR\/AR avec EEG?J'attends vraiment le jour où on pourra controler un environnement VR avec de l'EEG "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U03FC5ZAK",
+        "thread_ts": "1562244016.003700",
+        "root": {
+            "user": "UL4SA8V7Y",
+            "type": "message",
+            "ts": "1562244016.003700",
+            "client_msg_id": "68339407-0b08-440e-bb73-fadd382db429",
+            "text": "Bonjour, je suis étudiant au Joint Master in Neuroscience entre Strasbourg et Freiburg, je suis passionné par la VR\/AR, l’EEG et les applications et produits qui mêlent ces 2 technologies !  Merci pour votre accueil ! :slightly_smiling_face:",
+            "team": "T03FC4NDZ",
+            "thread_ts": "1562244016.003700",
+            "reply_count": 10,
+            "reply_users_count": 3,
+            "latest_reply": "1562333538.006600",
+            "reply_users": [
+                "U6N3TJ0QM",
+                "UL4SA8V7Y",
+                "U03FC5ZAK"
+            ],
+            "replies": [
+                {
+                    "user": "U6N3TJ0QM",
+                    "ts": "1562248297.003800"
+                },
+                {
+                    "user": "U6N3TJ0QM",
+                    "ts": "1562248455.004000"
+                },
+                {
+                    "user": "UL4SA8V7Y",
+                    "ts": "1562270307.004300"
+                },
+                {
+                    "user": "U6N3TJ0QM",
+                    "ts": "1562326635.005000"
+                },
+                {
+                    "user": "U6N3TJ0QM",
+                    "ts": "1562326775.005200"
+                },
+                {
+                    "user": "U03FC5ZAK",
+                    "ts": "1562330750.005400"
+                },
+                {
+                    "user": "UL4SA8V7Y",
+                    "ts": "1562331957.005900"
+                },
+                {
+                    "user": "U03FC5ZAK",
+                    "ts": "1562332461.006100"
+                },
+                {
+                    "user": "UL4SA8V7Y",
+                    "ts": "1562333006.006400"
+                },
+                {
+                    "user": "UL4SA8V7Y",
+                    "ts": "1562333538.006600"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "68dr",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Bonjour, je suis étudiant au Joint Master in Neuroscience entre Strasbourg et Freiburg, je suis passionné par la VR\/AR, l’EEG et les applications et produits qui mêlent ces 2 technologies !  Merci pour votre accueil ! "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "slightly_smiling_face",
+                                    "unicode": "1f642"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1562330750.005400",
+        "client_msg_id": "59d1e3fe-9368-474e-acf4-27b213fc62e3",
+        "text": "Curieux d’avoir un retour également :slightly_smiling_face:\nPour le moment l’EEG est surtout utilisé pour de la mesure et\/ou créer du feedback avec la VR (exemple d’OMind)\nPas encore vu de contrôle, excepté des effets d’annonce comme Neurable <http:\/\/neurable.com\/>",
+        "attachments": [
+            {
+                "service_name": "Neurable INC",
+                "title": "Home 2019",
+                "title_link": "http:\/\/neurable.com\/",
+                "text": "We build full-stack neurotechnology tools that interpret human intent, measure emotion, and provide telekinetic control of the digital world.",
+                "fallback": "Neurable INC: Home 2019",
+                "ts": 1558025412,
+                "from_url": "http:\/\/neurable.com\/",
+                "service_icon": "http:\/\/neurable.com\/sites\/default\/files\/neurable-vawe.png",
+                "id": 1,
+                "original_url": "http:\/\/neurable.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3\/lLc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Curieux d’avoir un retour également "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPour le moment l’EEG est surtout utilisé pour de la mesure et\/ou créer du feedback avec la VR (exemple d’OMind)\nPas encore vu de contrôle, excepté des effets d’annonce comme Neurable "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/neurable.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UL4SA8V7Y"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UL4SA8V7Y",
+        "type": "message",
+        "ts": "1562331957.005900",
+        "client_msg_id": "27be0b9d-9347-46ef-bd8e-82db87ab290a",
+        "text": "j’aurai du dire potentiels applications de la VR\/AR et EEG, car c’est vrai qu’il n’y pas encore de produits fonctionnels dans les mains des utilisateurs.\nmais comme j’ai dit à Maxence, je suis très optimiste pour l’avenir de l’EEG, beaucoup de gens pensent que des fonctions cognitives complexes comme le language ne peuvent pas être décodées par un EEG mais je suis persuadé qu’avec des progrès dans l’EEG (hardware itself) et dans les algorithmes (software) qui interprètent l’EEG (arrivée du Deep Learning qui commence à dépasser les méthodes state of the art en EEG), + des tonnes de data précisément labelisées, on pourra faire des trucs vraiment dingues avec l’EEG dans le futur!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b09b09f913ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-04\/851210530993_b09b09f913ca93abb31c_72.png",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Reeber",
+            "display_name": "Alexandre Reeber",
+            "team": "T03FC4NDZ",
+            "name": "alex.reeber",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562244016.003700",
+        "parent_user_id": "UL4SA8V7Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9CK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "j’aurai du dire potentiels applications de la VR\/AR et EEG, car c’est vrai qu’il n’y pas encore de produits fonctionnels dans les mains des utilisateurs.\nmais comme j’ai dit à Maxence, je suis très optimiste pour l’avenir de l’EEG, beaucoup de gens pensent que des fonctions cognitives complexes comme le language ne peuvent pas être décodées par un EEG mais je suis persuadé qu’avec des progrès dans l’EEG (hardware itself) et dans les algorithmes (software) qui interprètent l’EEG (arrivée du Deep Learning qui commence à dépasser les méthodes state of the art en EEG), + des tonnes de data précisément labelisées, on pourra faire des trucs vraiment dingues avec l’EEG dans le futur!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1562332461.006100",
+        "client_msg_id": "5aba717f-88e0-4184-9165-e0b1c26ff022",
+        "text": "J’ai croisé l’auteur de ce papier à un séminaire il y a 2 jours, ça peut vous intéresser <https:\/\/www.hal.inserm.fr\/INRIA\/hal-00743522>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562244016.003700",
+        "parent_user_id": "UL4SA8V7Y",
+        "attachments": [
+            {
+                "title": "Brain Computer Interface Vs Walking Interface in VR: The Impact of Motor Activity on Spatial Transfer",
+                "title_link": "https:\/\/www.hal.inserm.fr\/INRIA\/hal-00743522",
+                "text": "The goal of this study is to explore new navigation methods in Virtual Reality (VR) and to understand the impact of motor activity on spatial cognition, and more precisely the question of the spatial learning transfer. We present a user study comparing two interfaces with different motor activities: the first one, a walking interface (a treadmill with rotation) gives the user a high level of sensorimotor activity (especially body-based and vestibular information). The second one, a brain computer interface (BCI), enables the user to navigate in a virtual environment (VE) without any motor activity, by using brain activity only. The task consisted in learning a path in a virtual city built from a 3D model of a real city with either one of these two interfaces (named treadmill condition and BCI condition), or in the real city directly (the real condition). Then, participants had to recall spatial knowledge, according to six different tasks assessing spatial memory and transfer. We also evaluated the ergonomics of these two interfaces and the presence felt by participants. Surprisingly, contrary to expectations, our results showed similar performances whatever the spatial restitution tasks or the interfaces used, very close to that of the real condition, which tends to indicate that motor activity is not essential to learn and transfer spatial knowledge. Even if BCI seems to be less natural to use than the treadmill, our study suggests that BCI is a promising interface for studying spatial cognition.",
+                "fallback": "Brain Computer Interface Vs Walking Interface in VR: The Impact of Motor Activity on Spatial Transfer",
+                "from_url": "https:\/\/www.hal.inserm.fr\/INRIA\/hal-00743522",
+                "service_name": "hal.inserm.fr",
+                "id": 1,
+                "original_url": "https:\/\/www.hal.inserm.fr\/INRIA\/hal-00743522"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TserW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’ai croisé l’auteur de ce papier à un séminaire il y a 2 jours, ça peut vous intéresser "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.hal.inserm.fr\/INRIA\/hal-00743522"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UL4SA8V7Y",
+        "type": "message",
+        "ts": "1562333006.006400",
+        "client_msg_id": "39b97f16-4466-415b-a67a-14ff75eed709",
+        "text": "c’est assez incroyable ! merci, je m’y plonge ce soir. Le point principal de l’étude c’est l’adaptabilité du cerveau surtout, je ne sais pas si il y’a vraiment qqch de nouveau par rapport au BCI qu’ils ont utilisé",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b09b09f913ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-04\/851210530993_b09b09f913ca93abb31c_72.png",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Reeber",
+            "display_name": "Alexandre Reeber",
+            "team": "T03FC4NDZ",
+            "name": "alex.reeber",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562244016.003700",
+        "parent_user_id": "UL4SA8V7Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Okx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "c’est assez incroyable ! merci, je m’y plonge ce soir. Le point principal de l’étude c’est l’adaptabilité du cerveau surtout, je ne sais pas si il y’a vraiment qqch de nouveau par rapport au BCI qu’ils ont utilisé"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UL4SA8V7Y",
+        "type": "message",
+        "ts": "1562333538.006600",
+        "client_msg_id": "5f274abd-a521-4f0e-b0d9-95bb1c54afbd",
+        "text": "(oui je viens de lire, le BCI servait juste à deviner si le patient veut aller à droite ou à gauche, donc vraiment rien de neuf niveau BCI et EEG, mais par contre le fait que le cerveau ne fasse pas la différence entre un mouvement réalisé et un mouvement imaginé est impressionnant !!!)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b09b09f913ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-04\/851210530993_b09b09f913ca93abb31c_72.png",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Reeber",
+            "display_name": "Alexandre Reeber",
+            "team": "T03FC4NDZ",
+            "name": "alex.reeber",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562244016.003700",
+        "parent_user_id": "UL4SA8V7Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dinI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(oui je viens de lire, le BCI servait juste à deviner si le patient veut aller à droite ou à gauche, donc vraiment rien de neuf niveau BCI et EEG, mais par contre le fait que le cerveau ne fasse pas la différence entre un mouvement réalisé et un mouvement imaginé est impressionnant !!!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

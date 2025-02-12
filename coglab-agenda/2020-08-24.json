@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #161 [IRL]: <!date^1598281200^{date_short_pretty} from {time}|August 24th, 2020 from 5:00 PM> to <!date^1598295600^{time}|9:00 PM GMT+0200>",
+                "text": "<!date^1598281200^{date_short_pretty} from {time}|August 24th, 2020 from 5:00 PM> to <!date^1598295600^{time}|9:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Quai+de+la+Seine%2C+75019+Paris%2C+France|Quai de la Seine, 75019 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #161 [IRL]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NnJpMnZvZHQ5ZzZya2RrY282ZnZ2NDFnaTMgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1598277603.000900",
+        "bot_id": "B4SJBP2L8"
+    }
+]

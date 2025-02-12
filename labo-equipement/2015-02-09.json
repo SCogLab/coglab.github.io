@@ -1,0 +1,41 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U03FC4NE1",
+        "text": "<@U03FC4NE1> a rejoint le canal",
+        "type": "message",
+        "ts": "1423517678.000002"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC4NE1",
+        "purpose": "Discussion sur le matériel disponible au Lab",
+        "text": "a défini la description du canal : Discussion sur le matériel disponible au Lab",
+        "type": "message",
+        "ts": "1423517678.000003"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FC5ZAK",
+        "text": "<@U03FC5ZAK> a rejoint le canal",
+        "inviter": "U03FC4NE1",
+        "type": "message",
+        "ts": "1423517690.000004"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03HY4P8V",
+        "text": "<@U03HY4P8V> a rejoint le canal",
+        "inviter": "U03FC4NE1",
+        "type": "message",
+        "ts": "1423517690.000005"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FEH3N8",
+        "text": "<@U03FEH3N8> a rejoint le canal",
+        "inviter": "U03FC4NE1",
+        "type": "message",
+        "ts": "1423517690.000006"
+    }
+]

@@ -1,0 +1,144 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U0YV94DPU",
+        "text": "<@U0YV94DPU> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1460910907.000002"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0Z7LQQS2",
+        "text": "<@U0Z7LQQS2> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1460910907.000003"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1460911097.000004",
+        "text": "*[Hackight]* Bonjour à tous,\n\nOn se retrouve demain soir pour notre HackNight hebdomadaire\nLieu : A La Paillasse à partir de 19h30\nSujet : <#C03UHP8UD|projet-autispace> \n\nBonne fin de WE !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CrS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[Hackight]",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Bonjour à tous,\n\nOn se retrouve demain soir pour notre HackNight hebdomadaire\nLieu : A La Paillasse à partir de 19h30\nSujet : "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03UHP8UD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nBonne fin de WE !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0AR01SPQ",
+        "type": "message",
+        "ts": "1460919823.000005",
+        "text": "à demain!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b34e84fd77bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-17\/18704226567_b34e84fd77bcdb81946f_72.jpg",
+            "first_name": "Murielle",
+            "real_name": "Murielle PALISSANDRE",
+            "display_name": "murielle",
+            "team": "T03FC4NDZ",
+            "name": "murielle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wKWO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "à demain!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0Z7LQQS2",
+        "type": "message",
+        "ts": "1460920293.000006",
+        "text": "A demain :)\n",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "45e73ad15aca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-04-17\/35277458659_45e73ad15aca823c3324_72.jpg",
+            "first_name": "KO",
+            "real_name": "KO Yi-Chun",
+            "display_name": "sandra",
+            "team": "T03FC4NDZ",
+            "name": "sandra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uKc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A demain :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

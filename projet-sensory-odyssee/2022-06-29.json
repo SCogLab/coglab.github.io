@@ -1,0 +1,90 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1656537247.077559",
+        "client_msg_id": "4b6b08a6-b1c0-417e-b4c8-e8207fe52599",
+        "text": "Oui merci pour cette suggestion <@U03DEGQ2HT3> c’est vrai que Zenodo pourrait être une bonne approche\nOn l’utilise pour des publications avec des collègues, j’avais zappé qu’il est possible d’héberger des données aussi à priori !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S6sVZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui merci pour cette suggestion "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03DEGQ2HT3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " c’est vrai que Zenodo pourrait être une bonne approche\nOn l’utilise pour des publications avec des collègues, j’avais zappé qu’il est possible d’héberger des données aussi à priori !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1656537283.283929",
+        "client_msg_id": "37f22d66-36ba-4d38-94f6-62b5db2dfa65",
+        "text": "Dans la ‘liste de liste’ d’outil : <https:\/\/fairsharing.org\/search?page=2&amp;recordType=repository&amp;countries=france>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mzkRR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dans la ‘liste de liste’ d’outil : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fairsharing.org\/search?page=2&recordType=repository&countries=france"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,138 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1710323968.757199",
+        "client_msg_id": "f5dd50d6-ff26-4f57-a702-87b6d76e5869",
+        "text": "Bon, j'ai transmis le dossier FDAV2 ce jour, la date limite est le 25 mars 2024 contrairement au lien que j'ai mentionné ci-avant qui était, en fait, pour 2023 :grin: (Bon au moins c'est fait !)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701984795.735169",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bxvL2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bon, j'ai transmis le dossier FDAV2 ce jour, la date limite est le 25 mars 2024 contrairement au lien que j'ai mentionné ci-avant qui était, en fait, pour 2023 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin",
+                                "unicode": "1f601"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (Bon au moins c'est fait !)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1710325735.867039",
+        "client_msg_id": "5b2f6092-0712-41c0-b432-dd78cb86253b",
+        "text": "Brainchip has announced his edge ai box (pre-order) based on a NXP ARM soc, <https:\/\/www.nxp.com\/design\/design-center\/software\/embedded-software\/i-mx-software\/embedded-linux-for-i-mx-applications-processors:IMXLINUX|compatible embedded Linux OS> &amp; 2 Akida neurochips) : <https:\/\/shop.brainchipinc.com\/products\/akida™-edge-ai-box>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.nxp.com\/design\/design-center\/software\/embedded-software\/i-mx-software\/embedded-linux-for-i-mx-applications-processors:IMXLINUX",
+                "service_icon": "https:\/\/www.nxp.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.nxp.com\/design\/design-center\/software\/embedded-software\/i-mx-software\/embedded-linux-for-i-mx-applications-processors:IMXLINUX",
+                "fallback": "Embedded Linux for i.MX Applications Processors",
+                "text": "Linux Board Support Packages (BSPs) for NXP Silicon are tested and certified ensuring a fully operational tool chain, kernel and board specific modules that are ready to use together within a fixed configuration for <http:\/\/i.MX|i.MX> hardware development tools. These BSPs provide the foundation you need to begin your project quickly.",
+                "title": "Embedded Linux for i.MX Applications Processors",
+                "title_link": "https:\/\/www.nxp.com\/design\/design-center\/software\/embedded-software\/i-mx-software\/embedded-linux-for-i-mx-applications-processors:IMXLINUX",
+                "service_name": "nxp.com"
+            },
+            {
+                "from_url": "https:\/\/shop.brainchipinc.com\/products\/akida™-edge-ai-box",
+                "service_icon": "http:\/\/shop.brainchipinc.com\/cdn\/shop\/files\/Logo-Symbol_180x180.png?v=1689087932",
+                "thumb_url": "https:\/\/shop.brainchipinc.com\/cdn\/shop\/files\/VVDNEdgeBox_ProductImage1_1_600x.jpg?v=1706682078",
+                "thumb_width": 600,
+                "thumb_height": 400,
+                "id": 2,
+                "original_url": "https:\/\/shop.brainchipinc.com\/products\/akida™-edge-ai-box",
+                "fallback": "BrainChip Inc: Akida™ Edge AI Box",
+                "text": "Specifications BrainChip’s Edge AI Box is a compact, portable computation device that allows for highly capable AI solutions and services by accelerating AI processing for vision, voice and other sensors. By computing close to the sensor and without needing Cloud connectivity for common applications thereby minimizing",
+                "title": "Akida™ Edge AI Box",
+                "title_link": "https:\/\/shop.brainchipinc.com\/products\/akida™-edge-ai-box",
+                "service_name": "BrainChip Inc"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PcQTf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Brainchip has announced his edge ai box (pre-order) based on a NXP ARM soc, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.nxp.com\/design\/design-center\/software\/embedded-software\/i-mx-software\/embedded-linux-for-i-mx-applications-processors:IMXLINUX",
+                                "text": "compatible embedded Linux OS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " & 2 Akida neurochips) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/shop.brainchipinc.com\/products\/akida™-edge-ai-box"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01804NJ7AQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

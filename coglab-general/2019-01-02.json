@@ -1,0 +1,108 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1546416571.001900",
+        "edited": {
+            "user": "U03FC5ZAK",
+            "ts": "1546416576.000000"
+        },
+        "client_msg_id": "96889342-cf4c-4794-82b0-35f312383dfa",
+        "text": "Coucou,\n\nPetit relais de communication, la dernière newsletter (décembre 2019) de Cogni’Junior est diffusée depuis quelques jours <https:\/\/mailchi.mp\/46edd5d9ec8e\/cognijuniornewsletter-dec-826513?e=193139dd01>\n\nJe planche de mon côté sur celle du CogLab :spock-hand:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2i7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coucou,\n\nPetit relais de communication, la dernière newsletter (décembre 2019) de Cogni’Junior est diffusée depuis quelques jours "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mailchi.mp\/46edd5d9ec8e\/cognijuniornewsletter-dec-826513?e=193139dd01"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nJe planche de mon côté sur celle du CogLab "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "spock-hand",
+                                "unicode": "1f596"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1546418112.002900",
+        "client_msg_id": "2a1e7a70-1709-4782-8681-90bd4ad68d84",
+        "text": "Hello <@U03FC5ZAK>, bonne année &amp; bonne santé ! :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=uh\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", bonne année & bonne santé ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

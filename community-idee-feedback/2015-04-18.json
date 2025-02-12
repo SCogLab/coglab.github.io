@@ -1,0 +1,58 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1429370282.000002",
+        "text": "<https:\/\/www.youtube.com\/watch?v=0UzVBTgHqSQ>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "http:\/\/www.youtube.com\/",
+                "title": "Brains, Minds &amp; Machines Seminar Series: Computer Vision that is changing our lives",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=0UzVBTgHqSQ",
+                "author_name": "Center for Brains, Minds and Machines (CBMM)",
+                "author_link": "http:\/\/www.youtube.com\/channel\/UCGoxKRfTs0jQP52cfHCyyRQ",
+                "thumb_url": "http:\/\/i.ytimg.com\/vi\/0UzVBTgHqSQ\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Brains, Minds & Machines Seminar Series: Computer Vision that is changing our lives",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"http:\/\/www.youtube.com\/embed\/0UzVBTgHqSQ?feature=oembed\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=0UzVBTgHqSQ",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AEZG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=0UzVBTgHqSQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

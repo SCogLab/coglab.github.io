@@ -1,0 +1,72 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1459287241.000002",
+        "text": "Hey <@U0MDFGWEP> \nDésolé on es un peu tous occupé, on essaye de préparer une démo pour le FSC sur le <#C03UHP8UD|projet-autispace> (et le stand aussi!) :confused:\nMais je me disais que cette journée sera une bonne opportunité pour parler de ton projet et interpeller des intéressés :simple_smile:\nTu seras présente le 9 avril ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wuA2u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0MDFGWEP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nDésolé on es un peu tous occupé, on essaye de préparer une démo pour le FSC sur le "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03UHP8UD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (et le stand aussi!) "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused",
+                                "unicode": "1f615"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMais je me disais que cette journée sera une bonne opportunité pour parler de ton projet et interpeller des intéressés "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nTu seras présente le 9 avril ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

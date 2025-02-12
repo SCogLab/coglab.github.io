@@ -1,0 +1,68 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1553961956.000900",
+        "client_msg_id": "8e7f19a1-220a-4033-8ca0-f9279980a960",
+        "text": "Bonjour <!channel>, au plaisir de vous voir demain à la Cité des Sciences pour le Forum des Sciences Cognitives ! Le CogLab sera présent toute la journée sur l'espace Stand (niveau S1)\n\nPour contribuer à l'animation et la logistique --&gt; <#C0QMHFEK1|event-fsc>\n\nRetrouvez tout le programme de cette manifestation gratuite en version PDF\n<http:\/\/cognivence.scicog.fr\/wp-content\/uploads\/2019\/03\/Programme_FSC2019.pdf>\n\nSource  <http:\/\/cognivence.scicog.fr\/forum-des-sciences-cognitives-2019\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bfTV=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", au plaisir de vous voir demain à la Cité des Sciences pour le Forum des Sciences Cognitives ! Le CogLab sera présent toute la journée sur l'espace Stand (niveau S1)\n\nPour contribuer à l'animation et la logistique --> "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0QMHFEK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nRetrouvez tout le programme de cette manifestation gratuite en version PDF\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/cognivence.scicog.fr\/wp-content\/uploads\/2019\/03\/Programme_FSC2019.pdf"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nSource  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/cognivence.scicog.fr\/forum-des-sciences-cognitives-2019\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

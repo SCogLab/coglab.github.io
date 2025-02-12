@@ -1,0 +1,52 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There is *1* event this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "RDV CRIB: <!date^1658997000^{date_short_pretty} from {time}|July 28th, 2022 from 10:30 AM> to <!date^1659000600^{time}|11:30 AM GMT+0200>",
+                "text": "<!date^1658997000^{date_short_pretty} from {time}|July 28th, 2022 from 10:30 AM> to <!date^1659000600^{time}|11:30 AM GMT+0200> at <https:\/\/maps.google.com\/maps?q=14+Rue+Delizy%2C+93500+Pantin%2C+France|14 Rue Delizy, 93500 Pantin, France>",
+                "title": "RDV CRIB",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NnM5ZzdmMjkxYmJtaG9oamFnc3Fhb2l1b2Qgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1658728802.486489",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3SkS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "1",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " event this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

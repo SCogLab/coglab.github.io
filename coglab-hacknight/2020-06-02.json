@@ -1,0 +1,117 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1591098353.038000",
+        "client_msg_id": "ceffbba5-2f23-47de-a398-4e3b55aa1ac7",
+        "text": "Comme indiqué plus haut, il y avait bien un événement informel hier soir\n\nJ’étais indisponible de mon côté\n\nCool que tu ai croisé Morgan <@U014STZS797> :ok_hand:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1591027448.035400",
+        "parent_user_id": "U6EPG5PTQ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vHY6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Comme indiqué plus haut, il y avait bien un événement informel hier soir\n\nJ’étais indisponible de mon côté\n\nCool que tu ai croisé Morgan "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U014STZS797"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand",
+                                "unicode": "1f44c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U014STZS797",
+        "type": "message",
+        "ts": "1591099151.038700",
+        "client_msg_id": "A4D438A9-E23D-4CCB-9187-040D8621AA50",
+        "text": ":+1: aucun soucis! À lundi prochain ! <@U03FC5ZAK> ",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "6ea05047a3d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-28\/1150591839426_6ea05047a3d35fa73d56_72.png",
+            "first_name": "Lirola",
+            "real_name": "Lirola Rose-Marie",
+            "display_name": "Rose-Marie",
+            "team": "T03FC4NDZ",
+            "name": "rose-marie.lirola",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1591027448.035400",
+        "parent_user_id": "U6EPG5PTQ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KEoX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " aucun soucis! À lundi prochain ! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "spock-hand",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

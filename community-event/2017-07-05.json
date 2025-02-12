@@ -1,0 +1,77 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "LabVR StoryCode: <!date^1499275800^{date_short_pretty} from {time}|Jul 5, 2017 from 7:30 PM> to <!date^1499283000^{time}|9:30 PM GMT+0200>",
+                "text": "<!date^1499275800^{date_short_pretty} from {time}|Jul 5, 2017 from 7:30 PM> to <!date^1499283000^{time}|9:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Le+Cargo%2C+157+Boulevard+Macdonald%2C+75019+Paris%2C+France|Le Cargo, 157 Boulevard Macdonald, 75019 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "LabVR StoryCode",
+                "more": "Si vous avez un sujet, une question, une demo, c'est le moment de l'annoncer pour qu'on organise la séance \n\nSéance précédente : \n- LusKa, réalisatrice et artiste VR nous a rejoint (ajout d'un projet à la liste)\n- Mise à jour notre fichier Projets et Contacts <https:\/\/docs.google.com\/spreadsheets\/d\/1dvJkG3_dGFZsKlJIBFPUPeoCBeBms65kldvVAb3w1I4\/edit?usp=sharing>\n\nPROJET\nSam amènera sans doute Valerian de VR Lines avec lui\nBalthazar nous avons une alpha de prête pour le projet 'Rodin', donc pour ceux qui souhaitent tester on démarrera la démo à partir de 18h jusqu'à 19h30 et on peut accueillir environ 2 personnes à la fois par slots de 30mn pendant 1h30, ça fait 6 personnes jusqu'à 19h30 (envoyer un email à <mailto:playtest@innerspacevr.com|playtest@innerspacevr.com> avec votre heure de préférence)\n\nView meeting on Solid : <https:\/\/solid.wisembly.com\/meetings\/U65bfb8?r=meeting.calendar.link&amp;u=m114455>",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=c2NibW90b3BycWEwOGhnZTBibzliOTUxcTQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1499272200.301559",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1499272682.556022",
+        "text": "<http:\/\/artsetsciences.doc-up.info\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Concours Arts et Sciences",
+                "title": "Bienvenue sur le site d'Arts &amp; Sciences",
+                "title_link": "http:\/\/artsetsciences.doc-up.info\/",
+                "text": "Bienvenue sur le site du concours Arts &amp; Sciences, organisé par l'association Doc'Up.",
+                "fallback": "Concours Arts et Sciences: Bienvenue sur le site d'Arts &amp; Sciences",
+                "from_url": "http:\/\/artsetsciences.doc-up.info\/",
+                "service_icon": "http:\/\/artsetsciences.doc-up.info\/wp-content\/uploads\/2016\/05\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BS7l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/artsetsciences.doc-up.info\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

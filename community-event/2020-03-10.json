@@ -1,0 +1,47 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "UV5PASN3Z",
+        "text": "<@UV5PASN3Z> a rejoint le canal",
+        "type": "message",
+        "ts": "1583832455.000300"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1583840952.000500",
+        "client_msg_id": "4baca9c9-e51f-44a4-90dd-6757026e7a97",
+        "text": "<https:\/\/neuroinformatics.icm-institute.org\/conferences\/imagerieia\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jMD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/neuroinformatics.icm-institute.org\/conferences\/imagerieia\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

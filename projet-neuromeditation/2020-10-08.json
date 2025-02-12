@@ -1,0 +1,85 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1602154748.005300",
+        "client_msg_id": "4620b489-d41b-4db9-8bf0-71eecd6b6821",
+        "text": "<@U014UEQBC2K> <@U01A83C40P2> J’ai rajouté tous les éléments pour la VR à la fin du PSC weekly journal ainsi que dans la fiche Trello proto VR (<https:\/\/trello.com\/c\/OIvJhd0o>) en plus détaillés.\nJ’ai regardé vite fait <https:\/\/www.openspace3d.com\/|Openspaces3D>, ça a l’air intéressant mais les versions hors Windows ne sont pas maintenues.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "OpenSpace3D",
+                "title": "OpenSpace3D - Open Source Platform For 3D Environments",
+                "title_link": "https:\/\/www.openspace3d.com\/",
+                "text": "OpenSpace3D is a free and open-source platform, designed to create virtual and augmented-reality applications or games.",
+                "fallback": "OpenSpace3D: OpenSpace3D - Open Source Platform For 3D Environments",
+                "thumb_url": "https:\/\/www.openspace3d.com\/wp-content\/uploads\/2015\/08\/cropped-carshowroom.jpg",
+                "from_url": "https:\/\/www.openspace3d.com\/",
+                "thumb_width": 1074,
+                "thumb_height": 716,
+                "service_icon": "https:\/\/www.openspace3d.com\/wp-content\/uploads\/2015\/12\/icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.openspace3d.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ll1AY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U014UEQBC2K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01A83C40P2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " J’ai rajouté tous les éléments pour la VR à la fin du PSC weekly journal ainsi que dans la fiche Trello proto VR ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/trello.com\/c\/OIvJhd0o"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") en plus détaillés.\nJ’ai regardé vite fait "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.openspace3d.com\/",
+                                "text": "Openspaces3D"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", ça a l’air intéressant mais les versions hors Windows ne sont pas maintenues."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

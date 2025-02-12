@@ -1,0 +1,56 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1574115740.000200",
+        "client_msg_id": "11d3cff0-34be-4744-bfd4-89253da6fc8a",
+        "text": "<https:\/\/get.display.land\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Display.land",
+                "title_link": "https:\/\/get.display.land\/",
+                "text": "Display.land generates 3D captures of physical spaces using the everyday smartphone camera, empowering anyone to create shared digital spaces for self-expression and creativity.",
+                "fallback": "Display.land",
+                "image_url": "https:\/\/get.display.land\/images\/og_image.png",
+                "from_url": "https:\/\/get.display.land\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 841170,
+                "service_name": "get.display.land",
+                "id": 1,
+                "original_url": "https:\/\/get.display.land\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1A=C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/get.display.land\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U6EPG5PTQ",
+        "text": "<@U6EPG5PTQ> a rejoint le canal",
+        "type": "message",
+        "ts": "1501075362.242967"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "LabVR StoryCode: <!date^1501088400^{date_short_pretty} from {time}|Jul 26, 2017 from 7:00 PM> to <!date^1501099200^{time}|10:00 PM GMT+0200>",
+                "text": "<!date^1501088400^{date_short_pretty} from {time}|Jul 26, 2017 from 7:00 PM> to <!date^1501099200^{time}|10:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Le+Cargo%2C+157+Boulevard+Macdonald%2C+75019+Paris%2C+France|Le Cargo, 157 Boulevard Macdonald, 75019 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "LabVR StoryCode",
+                "more": "Nous vous proposons une dernière session un peu en dehors du calendrier habituel avant une grande pause estivale :\n\nRendez-vous mercredi 26 juillet à partir de 19h au Cargo pour:\n\n1. Early-alpha 2 : Balthazar propose une 2e séance de test de son projet Rodin\nPour ceux qui souhaitent tester, démo de *19h jusqu'à 20h30* dans les bureaux d'Innerspace VR - 2 personnes à la fois par slot de 30mn soit 6 personnes max\n&gt;&gt; Envoyez un email à *playtest@innerspacevr.com* avec votre heure de préférence \n\n2. Séance apéro après les tests à 20h30\nOn se retrouve tous pour discuter de vos projets autour d'un verre. \n(Si vous arrivez + tôt, rdv devant les bureaux d'Innerspace)\n\nComme d'habitude, merci de nous confirmer votre présence pour l'accès au Cargo.\n\nA très vite, bon weekend et bonnes vacances à ceux qui sont déjà sur le départ !\nOn vous retrouve le 1er mercredi de septembre...\n\nView meeting on Solid : <https:\/\/solid.wisembly.com\/meetings\/O45840f?r=meeting.calendar.link&amp;u=m114455>",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=ZHJoNm4xdmYzMHY5MDZnNmx0MDI3c3RpaTggc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1501084800.266488",
+        "bot_id": "B4SJBP2L8"
+    }
+]

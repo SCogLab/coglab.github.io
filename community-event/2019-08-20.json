@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "Rencontre CogLab \/  Imprudence: <!date^1566316800^{date_short_pretty} from {time}|August 20th, 2019 from 6:00 PM> to <!date^1566322200^{time}|7:30 PM GMT+0200>",
+                "text": "<!date^1566316800^{date_short_pretty} from {time}|August 20th, 2019 from 6:00 PM> to <!date^1566322200^{time}|7:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "Rencontre CogLab \/  Imprudence",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NDcyc2NwMzFnc3Q2bWZvM3U2bnI1MG43ZjEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1566313203.000500",
+        "bot_id": "B4SJBP2L8"
+    }
+]

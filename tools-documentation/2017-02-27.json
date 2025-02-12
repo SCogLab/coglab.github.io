@@ -1,0 +1,76 @@
+[
+    {
+        "user": "U03JDJWSR",
+        "type": "message",
+        "ts": "1488190485.000002",
+        "text": "<https:\/\/www.fastcompany.com\/3067990\/slack-chats-journalism-privacy> - alternatives (<https:\/\/wickr.com\/>, <https:\/\/spideroak.com\/personal\/semaphor>)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "geb22d6490de",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/beb22d6490deaf2df715016c6c7d1577.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Salman",
+            "real_name": "Salman NADEEM",
+            "display_name": "msn",
+            "team": "T03FC4NDZ",
+            "name": "msn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Fast Company",
+                "title": "Reporters Love Chatrooms But Worry Security Is Slacking",
+                "title_link": "https:\/\/www.fastcompany.com\/3067990\/slack-chats-journalism-privacy",
+                "text": "Slack and other virtual newsrooms have some reporters concerned about privacy in an era of embattled journalism that relies on discretion.",
+                "fallback": "Fast Company: Reporters Love Chatrooms But Worry Security Is Slacking",
+                "image_url": "https:\/\/a.fastcompany.net\/multisite_files\/fastcompany\/imagecache\/620x350\/poster\/2017\/02\/3067990-poster-p-1-slack-the-newsroom.jpg",
+                "ts": 1487768400,
+                "from_url": "https:\/\/www.fastcompany.com\/3067990\/slack-chats-journalism-privacy",
+                "image_width": 443,
+                "image_height": 250,
+                "image_bytes": 46850,
+                "service_icon": "https:\/\/www.fastcompany.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j9kiV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.fastcompany.com\/3067990\/slack-chats-journalism-privacy"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - alternatives ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/wickr.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/spideroak.com\/personal\/semaphor"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

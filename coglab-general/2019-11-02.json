@@ -1,0 +1,134 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1572683750.001800",
+        "client_msg_id": "26e450de-4a23-4da7-8b85-492b32bef1ca",
+        "text": "<https:\/\/twitter.com\/chrisgorgo\/status\/1189945371943813120>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/chrisgorgo|@chrisgorgo>: A new milestone for <http:\/\/OpenNeuro.org> - over 300 neuroimaging datasets with combined data from over 8,000 participants. Congratulations! <https:\/\/pbs.twimg.com\/media\/EIOIxTeWkAATl3-.jpg>",
+                "ts": 1572540059,
+                "author_name": "Chris Gorgolewski",
+                "author_link": "https:\/\/twitter.com\/chrisgorgo\/status\/1189945371943813120",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/428604938995109888\/FDYSkfdz_normal.jpeg",
+                "author_subname": "@chrisgorgo",
+                "text": "A new milestone for <http:\/\/OpenNeuro.org> - over 300 neuroimaging datasets with combined data from over 8,000 participants. Congratulations! <https:\/\/pbs.twimg.com\/media\/EIOIxTeWkAATl3-.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/chrisgorgo\/status\/1189945371943813120",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/EIOIxTeWkAATl3-.jpg",
+                "image_width": 983,
+                "image_height": 802,
+                "image_bytes": 52418,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/chrisgorgo\/status\/1189945371943813120",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wu1aS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/chrisgorgo\/status\/1189945371943813120"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1572684034.005400",
+        "client_msg_id": "bdb880ee-8301-4478-96f4-c959af49ad49",
+        "text": "[:pushpin: Annonce] <!here> \n\nReprise des <#C0R6W4X2Q|coglab-hacknight> lundi soir, rendez vous au centre de recherche interdisciplinaire (CRI) entre 18h et 22h\n\nJ'en profiterai pour vous partager quelques actualités du réseau et un retour d'expérience du Kikk Festival (<http:\/\/kikk.be|kikk.be>)\n\nN'hésite pas à signaler votre présence. Bon weekend à tout.e.s",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AoT+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "["
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pushpin",
+                                "unicode": "1f4cc"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Annonce] "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nReprise des "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0R6W4X2Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " lundi soir, rendez vous au centre de recherche interdisciplinaire (CRI) entre 18h et 22h\n\nJ'en profiterai pour vous partager quelques actualités du réseau et un retour d'expérience du Kikk Festival ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/kikk.be",
+                                "text": "kikk.be"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n\nN'hésite pas à signaler votre présence. Bon weekend à tout.e.s"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1638038733.027300",
+        "client_msg_id": "5352b705-d396-4546-a152-a10c6e51cb3e",
+        "text": ":warning: Note importante pour la semaine prochaine <!here>\n\nHackNight N°217\n• :calendar: Suite à des contraintes d’agenda et logistique, les horaires et le lieu de la prochaine soirée HackNight ont changé : on se retrouvera *en ligne* ce lundi 29 novembre de 20h30 à 22h30.\n• :christmas_tree: Ça sera également la dernière HackNight ouverte avant l’année prochaine, après une pause de l’équipe !\nHackNight Spéciale projet (réservée aux adhérents)\n• A l’attention de nos membres, on vous propose avec <@U59MQ46DA> une session spéciale projet le mercredi 1er décembre au CRI aux horaires de HackNight habituel. En particulier pour les équipes <#C01FM8US683|projet-sensory-odyssee> &amp; <#CL6EXG9EY|projet-bci-voyager>.\nDétail et inscription sur notre page Meetup habituelle : <https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1638038733.027300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1638112942.027700",
+        "reply_users": [
+            "U01S8PWA7GU",
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U01S8PWA7GU",
+                "ts": "1638104857.027500"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1638112942.027700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/",
+                "service_name": "Meetup",
+                "title": "Événements à venir | CogLab, NeuroTechX Paris (Paris, France)",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/",
+                "text": "Evénements à venir pour CogLab, NeuroTechX Paris à Paris, France. Un groupe Meetup de plus de 688 CognitiveMakers.",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/e\/1\/8\/1\/600_460317729.jpeg",
+                "image_width": 600,
+                "image_height": 230,
+                "image_bytes": 218209,
+                "fallback": "Meetup: Événements à venir | CogLab, NeuroTechX Paris (Paris, France)",
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/fr-FR\/m_swarm_120x120.4f86abc9.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eQ\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "warning",
+                                "unicode": "26a0-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Note importante pour la semaine prochaine "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nHackNight N°217\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "calendar",
+                                        "unicode": "1f4c6"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Suite à des contraintes d’agenda et logistique, les horaires et le lieu de la prochaine soirée HackNight ont changé : on se retrouvera "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "en ligne",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " ce lundi 29 novembre de 20h30 à 22h30."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "christmas_tree",
+                                        "unicode": "1f384"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Ça sera également la dernière HackNight ouverte avant l’année prochaine, après une pause de l’équipe !"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nHackNight Spéciale projet (réservée aux adhérents)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "A l’attention de nos membres, on vous propose avec "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U59MQ46DA"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " une session spéciale projet le mercredi 1er décembre au CRI aux horaires de HackNight habituel. En particulier pour les équipes "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C01FM8US683"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " & "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "CL6EXG9EY"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nDétail et inscription sur notre page Meetup habituelle : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

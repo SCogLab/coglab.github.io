@@ -1,0 +1,76 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There are *3* events this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "NTX BCI_101 Week 2 Day 1: <!date^1589302800^{date_short_pretty} from {time}|May 12th, 2020 from 7:00 PM> to <!date^1589306400^{time}|8:00 PM GMT+0200>",
+                "text": "<!date^1589302800^{date_short_pretty} from {time}|May 12th, 2020 from 7:00 PM> to <!date^1589306400^{time}|8:00 PM GMT+0200> at <https:\/\/www.eventbrite.com\/e\/bci-101-tickets-103682840166>, ",
+                "title": "NTX BCI_101 Week 2 Day 1",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NTRpbTY4cnZxYzFiMnJ2aWM4aDRtNW1ic2ogc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "NTX BCI_101 Week 2 Day 2: <!date^1589389200^{date_short_pretty} from {time}|May 13th, 2020 from 7:00 PM> to <!date^1589392800^{time}|8:00 PM GMT+0200>",
+                "text": "<!date^1589389200^{date_short_pretty} from {time}|May 13th, 2020 from 7:00 PM> to <!date^1589392800^{time}|8:00 PM GMT+0200> at <https:\/\/www.eventbrite.com\/e\/bci-101-tickets-103682840166>, ",
+                "title": "NTX BCI_101 Week 2 Day 2",
+                "id": 2,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MTZvMjM2c25ic3IyOTNjMHM1bHZoOWg0cmMgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "NTX BCI_101 Week 2 Day 3: <!date^1589475600^{date_short_pretty} from {time}|May 14th, 2020 from 7:00 PM> to <!date^1589479200^{time}|8:00 PM GMT+0200>",
+                "text": "<!date^1589475600^{date_short_pretty} from {time}|May 14th, 2020 from 7:00 PM> to <!date^1589479200^{time}|8:00 PM GMT+0200> at <https:\/\/www.eventbrite.com\/e\/bci-101-tickets-103682840166>, ",
+                "title": "NTX BCI_101 Week 2 Day 3",
+                "id": 3,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MnQxaGZ2aTNvbDkzaGYyZmQ4aDJnZnNocGMgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1589176808.007400",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "phvgs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " events this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

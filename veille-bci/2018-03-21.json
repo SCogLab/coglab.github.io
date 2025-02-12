@@ -1,0 +1,118 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1521646605.000134",
+        "client_msg_id": "88e1f281-cd7c-4df7-986a-b1e8996b9770",
+        "text": "<https:\/\/twitter.com\/castillo__io\/status\/976252191429152768?s=19>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/castillo__io|@castillo__io>: :tada: New \"Mind-controlling the Web\" talk from <https:\/\/twitter.com\/forwardJS|@forwardJS>. Special thanks to volunteers <https:\/\/twitter.com\/ZackArgyle|@ZackArgyle> and Rich. <https:\/\/youtu.be\/yMQoQxRZx0s> :tada:\n\nLive demos:\n<https:\/\/twitter.com\/OpenBCI|@OpenBCI> Web Bluetooth Time Series\n<https:\/\/twitter.com\/NeuroSky|@NeuroSky> Mind Video Player\n<https:\/\/twitter.com\/ChooseMuse|@ChooseMuse> Panic Glasses App",
+                "ts": 1521591634,
+                "author_name": "Alex Castillo",
+                "author_link": "https:\/\/twitter.com\/castillo__io\/status\/976252191429152768",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/565184498992570368\/8Gqbcjby_normal.png",
+                "author_subname": "@castillo__io",
+                "text": ":tada: New \"Mind-controlling the Web\" talk from <https:\/\/twitter.com\/forwardJS|@forwardJS>. Special thanks to volunteers <https:\/\/twitter.com\/ZackArgyle|@ZackArgyle> and Rich. <https:\/\/youtu.be\/yMQoQxRZx0s> :tada:\n\nLive demos:\n<https:\/\/twitter.com\/OpenBCI|@OpenBCI> Web Bluetooth Time Series\n<https:\/\/twitter.com\/NeuroSky|@NeuroSky> Mind Video Player\n<https:\/\/twitter.com\/ChooseMuse|@ChooseMuse> Panic Glasses App",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/castillo__io\/status\/976252191429152768?s=19",
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TBpOx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/castillo__io\/status\/976252191429152768?s=19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1521660735.000063",
+        "text": "Il présente les lunettes bci de muse  : <https:\/\/youtu.be\/yMQoQxRZx0s?t=2047>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Mind-controlling the Web with Brain-Computer Interfaces",
+                "title_link": "https:\/\/youtu.be\/yMQoQxRZx0s?t=2047",
+                "author_name": "ForwardJS",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCYAA7wi7PkwLgeWjyslUn2A",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/yMQoQxRZx0s\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Mind-controlling the Web with Brain-Computer Interfaces",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/yMQoQxRZx0s?start=2047&feature=oembed&start=2047&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/yMQoQxRZx0s?t=2047",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3afU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il présente les lunettes bci de muse  : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/yMQoQxRZx0s?t=2047"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

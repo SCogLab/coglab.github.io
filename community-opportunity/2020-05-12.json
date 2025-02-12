@@ -1,0 +1,72 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U012L8X3UP3",
+        "text": "<@U012L8X3UP3> a rejoint le canal",
+        "type": "message",
+        "ts": "1589301125.001600"
+    },
+    {
+        "user": "U012L8X3UP3",
+        "type": "message",
+        "ts": "1589301458.005200",
+        "edited": {
+            "user": "U012L8X3UP3",
+            "ts": "1589301594.000000"
+        },
+        "client_msg_id": "e6c29e53-6cac-4ec3-854a-897535576be3",
+        "text": "Hello!\n\nMy name is Bogdan Penkovsky.\n\nI am passionate about two things: intelligence in general and optical computing. Recently I have become available for hire. What would you possibly suggest?\n\nSome of my useful skills including but not limited to are recording and analyzing EEG for brain-computer interfaces, dynamical systems, digital electronics, FPGA, embedded systems; artificial neural networks, reservoir computing, and software (multiple programming languages). I also like autonomous cars and build them in my spare time.\n\nHere is more about me: <https:\/\/penkovsky.com>\n\nCheers",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g7cacb65a075",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3bcebd5613ff2f957777a0778b278d45.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "bogdan",
+            "display_name": "bogdan",
+            "team": "T03FC4NDZ",
+            "name": "bp42",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Bogdan Penkovsky, PhD",
+                "title_link": "https:\/\/penkovsky.com\/",
+                "text": "Researcher in Brain-inspired Computing. Artist. Adventurer",
+                "fallback": "Bogdan Penkovsky, PhD",
+                "from_url": "https:\/\/penkovsky.com\/",
+                "service_icon": "https:\/\/penkovsky.com\/img\/icon-192.png",
+                "service_name": "penkovsky.com",
+                "id": 1,
+                "original_url": "https:\/\/penkovsky.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SQz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello!\n\nMy name is Bogdan Penkovsky.\n\nI am passionate about two things: intelligence in general and optical computing. Recently I have become available for hire. What would you possibly suggest?\n\nSome of my useful skills including but not limited to are recording and analyzing EEG for brain-computer interfaces, dynamical systems, digital electronics, FPGA, embedded systems; artificial neural networks, reservoir computing, and software (multiple programming languages). I also like autonomous cars and build them in my spare time.\n\nHere is more about me: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/penkovsky.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nCheers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

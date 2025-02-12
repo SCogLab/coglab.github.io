@@ -1,0 +1,62 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1575933429.000200",
+        "client_msg_id": "6d9f2fd9-ed01-421d-bb3e-3bd2319e87f9",
+        "text": "<https:\/\/www.mitrealityhack.com\/|https:\/\/www.mitrealityhack.com\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "MIT Reality Hack",
+                "title_link": "https:\/\/www.mitrealityhack.com\/",
+                "text": "MIT AR\/VR Hackathon held every january.",
+                "fallback": "MIT Reality Hack",
+                "from_url": "https:\/\/www.mitrealityhack.com\/",
+                "service_name": "mitrealityhack.com",
+                "id": 1,
+                "original_url": "https:\/\/www.mitrealityhack.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kLQi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.mitrealityhack.com\/",
+                                "text": "https:\/\/www.mitrealityhack.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_name",
+        "user": "U03FC5ZAK",
+        "old_name": "veille-vr-ar-mr",
+        "name": "veille-xr",
+        "text": "a changé le nom du canal de « veille-vr-ar-mr » en « veille-xr »",
+        "type": "message",
+        "ts": "1575933456.000500"
+    }
+]

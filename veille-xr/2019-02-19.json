@@ -1,0 +1,62 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1550590432.000200",
+        "client_msg_id": "c1714238-cf56-41dd-80a9-deb01bb19f7e",
+        "text": "<https:\/\/www.flickr.com\/photos\/armyresearchlab\/33121342138\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Flickr",
+                "service_url": "https:\/\/www.flickr.com\/",
+                "title": "Information for Mixed Squads (INFORMS)",
+                "title_link": "https:\/\/www.flickr.com\/photos\/armyresearchlab\/33121342138\/",
+                "author_name": "Army Research Laboratory",
+                "author_link": "https:\/\/www.flickr.com\/photos\/armyresearchlab\/",
+                "thumb_url": "https:\/\/farm5.staticflickr.com\/4886\/33121342138_5f67741661_q.jpg",
+                "thumb_width": 150,
+                "thumb_height": 150,
+                "fallback": "Flickr Photo: Information for Mixed Squads (INFORMS)",
+                "image_url": "https:\/\/farm5.staticflickr.com\/4886\/33121342138_5f67741661_b.jpg",
+                "image_width": 1024,
+                "image_height": 768,
+                "from_url": "https:\/\/www.flickr.com\/photos\/armyresearchlab\/33121342138\/",
+                "image_bytes": 362689,
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/flickr.png",
+                "id": 1,
+                "original_url": "https:\/\/www.flickr.com\/photos\/armyresearchlab\/33121342138\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qRpA5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.flickr.com\/photos\/armyresearchlab\/33121342138\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

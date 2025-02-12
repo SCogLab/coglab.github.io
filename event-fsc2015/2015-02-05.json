@@ -1,0 +1,42 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U03FC4NE1",
+        "text": "<@U03FC4NE1> a rejoint le canal",
+        "type": "message",
+        "ts": "1423140043.000002"
+    },
+    {
+        "subtype": "channel_name",
+        "user": "U03FC4NE1",
+        "old_name": "fsc",
+        "name": "event-fsc2015",
+        "text": "a changé le nom du canal de « fsc » en « event-fsc2015 »",
+        "type": "message",
+        "ts": "1423140070.000003"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC4NE1",
+        "purpose": "Forum des Sciences Cognitives, samedi 28 mars, Réfectoire des Cordeliers",
+        "text": "a défini la description du canal : Forum des Sciences Cognitives, samedi 28 mars, Réfectoire des Cordeliers",
+        "type": "message",
+        "ts": "1423140113.000004"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FEH3N8",
+        "text": "<@U03FEH3N8> a rejoint le canal",
+        "inviter": "U03FC4NE1",
+        "type": "message",
+        "ts": "1423140128.000005"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03HY4P8V",
+        "text": "<@U03HY4P8V> a rejoint le canal",
+        "inviter": "U03FC4NE1",
+        "type": "message",
+        "ts": "1423140128.000006"
+    }
+]

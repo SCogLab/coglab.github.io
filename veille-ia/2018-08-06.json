@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1533583552.000168",
+        "client_msg_id": "86721da1-8af0-4902-a6c8-387681a7132c",
+        "text": "Un raspberry-like du projet aiy +clé usb TPU : <https:\/\/aiyprojects.withgoogle.com\/edge-tpu\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Edge TPU Devices",
+                "title_link": "https:\/\/aiyprojects.withgoogle.com\/edge-tpu\/",
+                "text": "The Edge TPU is a small ASIC designed by Google that provides high performance ML inferencing for low-power devices. For example, it can concurrently execute multiple state-of-the-art vision models on high-res video at 30+ fps, in a power efficient manner. With one of the following Edge TPU devices, you can build embedded systems with on-device AI features that are fast, secure, and power efficient.",
+                "fallback": "Edge TPU Devices",
+                "image_url": "https:\/\/aiyprojects.withgoogle.com\/static\/images\/voice-v1\/box-and-shadow.png",
+                "from_url": "https:\/\/aiyprojects.withgoogle.com\/edge-tpu\/",
+                "image_width": 373,
+                "image_height": 250,
+                "image_bytes": 36262,
+                "service_icon": "https:\/\/aiyprojects.withgoogle.com\/static\/images\/favicon-32x32.png",
+                "service_name": "aiyprojects.withgoogle.com",
+                "id": 1,
+                "original_url": "https:\/\/aiyprojects.withgoogle.com\/edge-tpu\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C6zz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un raspberry-like du projet aiy +clé usb TPU : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/aiyprojects.withgoogle.com\/edge-tpu\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

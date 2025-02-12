@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #121 - Spéciale BCI Voyager: <!date^1568304000^{date_short_pretty} from {time}|September 12th, 2019 from 6:00 PM> to <!date^1568320200^{time}|10:30 PM GMT+0200>",
+                "text": "<!date^1568304000^{date_short_pretty} from {time}|September 12th, 2019 from 6:00 PM> to <!date^1568320200^{time}|10:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #121 - Spéciale BCI Voyager",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Mm1qYTcydmFtNWhjbDU2b3JqcGh1anFoYmkgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1568300404.000100",
+        "bot_id": "B4SJBP2L8"
+    }
+]

@@ -1,0 +1,115 @@
+[
+    {
+        "user": "U03JDJWSR",
+        "type": "message",
+        "ts": "1447950629.000002",
+        "text": "Hello @all,\nA very 'Happy Belated Birthday' to a very talented, creative and above all 'A lovely Guy' :innocent: - Romain <@U03FC5ZAK> \nMay you have success in everything you take-up in your life :simple_smile:\nKeep on doing the great work !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "geb22d6490de",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/beb22d6490deaf2df715016c6c7d1577.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Salman",
+            "real_name": "Salman NADEEM",
+            "display_name": "msn",
+            "team": "T03FC4NDZ",
+            "name": "msn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E0K7A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello @all,\nA very 'Happy Belated Birthday' to a very talented, creative and above all 'A lovely Guy' "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "innocent",
+                                "unicode": "1f607"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Romain "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nMay you have success in everything you take-up in your life "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nKeep on doing the great work !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U07CFCCBG",
+                    "U03FC5ZAK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U03JDJWSR",
+        "type": "message",
+        "ts": "1447951279.000003",
+        "text": "<!channel>:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "geb22d6490de",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/beb22d6490deaf2df715016c6c7d1577.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Salman",
+            "real_name": "Salman NADEEM",
+            "display_name": "msn",
+            "team": "T03FC4NDZ",
+            "name": "msn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WyWL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ":"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

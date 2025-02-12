@@ -1,0 +1,71 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: CogLab HackNight #130: <!date^1578933900^{date_short_pretty} from {time}|January 13th, 2020 from 5:45 PM> to <!date^1578949200^{time}|10:00 PM GMT+0100>\nRecurring every week on Monday until <!date^1585605599^{date_pretty}|March 30th, 2020>",
+                "text": "<!date^1578933900^{date_short_pretty} from {time}|January 13th, 2020 from 5:45 PM> to <!date^1578949200^{time}|10:00 PM GMT+0100>\nRecurring every week on Monday until <!date^1585605599^{date_pretty}|March 30th, 2020> at <https:\/\/maps.google.com\/maps?q=CRI%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France|CRI, 8 bis Rue Charles V, 75004 Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "CogLab HackNight #130",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=N3R1aTRiamc1N2FpYTFyZmZyYXI5YjBoYmFfMjAyMDAxMTNUMTY0NTAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1578848824.000100",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CogLab HackNight #130: <!date^1578933900^{date_short_pretty} from {time}|January 13th, 2020 from 5:45 PM> to <!date^1578949200^{time}|10:00 PM GMT+0100>\nRecurring every week on Monday until <!date^1585605599^{date_pretty}|March 30th, 2020>",
+                "text": "<!date^1578933900^{date_short_pretty} from {time}|January 13th, 2020 from 5:45 PM> to <!date^1578949200^{time}|10:00 PM GMT+0100>\nRecurring every week on Monday until <!date^1585605599^{date_pretty}|March 30th, 2020> at <https:\/\/maps.google.com\/maps?q=CRI%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France%2C+Charles+V-0-MakerLab+Classroom+%2830%29|CRI, 8 bis Rue Charles V, 75004 Paris, France, Charles V-0-MakerLab Classroom (30)>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab HackNight #130",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=N3R1aTRiamc1N2FpYTFyZmZyYXI5YjBoYmFfMjAyMDAxMTNUMTY0NTAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1578848946.000200",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CogLab HackNight #130: <!date^1579538700^{date_short_pretty} from {time}|January 20th, 2020 from 5:45 PM> to <!date^1579554000^{time}|10:00 PM GMT+0100>",
+                "text": "<!date^1579538700^{date_short_pretty} from {time}|January 20th, 2020 from 5:45 PM> to <!date^1579554000^{time}|10:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=CRI%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France|CRI, 8 bis Rue Charles V, 75004 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab HackNight #130",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=N3R1aTRiamc1N2FpYTFyZmZyYXI5YjBoYmFfMjAyMDAxMjBUMTY0NTAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1578848947.000300",
+        "bot_id": "B4SJBP2L8"
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1597905833.001200",
+        "client_msg_id": "45e8a70c-12f4-47c3-877b-db7d7386d94b",
+        "text": "Un autre acteur (startup chinoise) fabricant de lunettes en AR, Rokid :  <https:\/\/www.rokid.com\/en\/rokid-glass-2\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Rokid",
+                "title": "Rokid Glass 2 - Rokid",
+                "title_link": "https:\/\/www.rokid.com\/en\/rokid-glass-2\/",
+                "text": "We’ve built our AR\/MR glasses to help you connect, interact and solve problems in a variety of mission-critical situations.",
+                "fallback": "Rokid: Rokid Glass 2 - Rokid",
+                "image_url": "https:\/\/www.rokid.com\/wp-content\/uploads\/2019\/12\/favicon-bg-1024x1024.png",
+                "image_width": 250,
+                "image_height": 250,
+                "from_url": "https:\/\/www.rokid.com\/en\/rokid-glass-2\/",
+                "image_bytes": 26659,
+                "service_icon": "https:\/\/www.rokid.com\/wp-content\/uploads\/2019\/12\/cropped-favicon-bg-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.rokid.com\/en\/rokid-glass-2\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wt6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un autre acteur (startup chinoise) fabricant de lunettes en AR, Rokid :  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.rokid.com\/en\/rokid-glass-2\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

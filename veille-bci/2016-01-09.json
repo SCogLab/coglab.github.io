@@ -1,0 +1,147 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1452360521.000002",
+        "text": "A ressource from the NeuroTechX Slack cc <@U03HY4P8V> \nA NPM module for interfacing to the OpenBCI device!\nfor streaming data into any web app with Node.js\n<https:\/\/www.npmjs.com\/package\/openbci-sdk>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "npm: openbci-sdk",
+                "title_link": "https:\/\/www.npmjs.com\/package\/openbci-sdk",
+                "text": "A fully NodeJS based API for the OpenBCI board connecting to the hardware directly over serial",
+                "fallback": "npm: openbci-sdk",
+                "image_url": "https:\/\/www.npmjs.com\/static\/images\/touch-icons\/open-graph.png",
+                "from_url": "https:\/\/www.npmjs.com\/package\/openbci-sdk",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 1759,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tr+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A ressource from the NeuroTechX Slack cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HY4P8V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nA NPM module for interfacing to the OpenBCI device!\nfor streaming data into any web app with Node.js\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.npmjs.com\/package\/openbci-sdk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03HY4P8V",
+        "type": "message",
+        "ts": "1452363027.000004",
+        "text": "Thanks <@U03FC5ZAK> !!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g188c1f43049",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3188c1f43049ebd001b834c2efa1fdf8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Romain",
+            "real_name": "Romain TRACHEL",
+            "display_name": "romaintrach",
+            "team": "T03FC4NDZ",
+            "name": "romaintrach",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l1Eo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03HY4P8V",
+        "type": "message",
+        "ts": "1452363048.000005",
+        "text": "I'm not familiar with Node.js but looks fine to me!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g188c1f43049",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3188c1f43049ebd001b834c2efa1fdf8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Romain",
+            "real_name": "Romain TRACHEL",
+            "display_name": "romaintrach",
+            "team": "T03FC4NDZ",
+            "name": "romaintrach",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1X1M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm not familiar with Node.js but looks fine to me!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

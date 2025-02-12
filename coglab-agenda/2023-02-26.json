@@ -1,0 +1,64 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There are *2* events this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "Hack'1 Cerveau 2023: <!date^1677862800^{date_short_pretty} from {time}|March 3rd, 2023 from 6:00 PM> to <!date^1678028400^{date_short_pretty} at {time}|March 5th, 2023 at 4:00 PM GMT+0100>",
+                "text": "<!date^1677862800^{date_short_pretty} from {time}|March 3rd, 2023 from 6:00 PM> to <!date^1678028400^{date_short_pretty} at {time}|March 5th, 2023 at 4:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Universit%C3%A9+de+Bordeaux+-+Campus+Talence%2C+351+Cr+de+la+Lib%C3%A9ration%2C+33400+Talence%2C+France|Université de Bordeaux - Campus Talence, 351 Cr de la Libération, 33400 Talence, France>",
+                "title": "Hack'1 Cerveau 2023",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NjEycnRqZ250c2J1MWdwdm51bG91cjRtcWUgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            },
+            {
+                "id": 2,
+                "color": "7bd148",
+                "fallback": "HackNight NeuroTechX Paris: <!date^1677519000^{date_short_pretty} from {time}|February 27th, 2023 from 6:30 PM> to <!date^1677529800^{time}|9:30 PM GMT+0100>",
+                "text": "<!date^1677519000^{date_short_pretty} from {time}|February 27th, 2023 from 6:30 PM> to <!date^1677529800^{time}|9:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Makerlab+Paris%2C+8+Bis+Rue+Charles+V%2C+75004+Paris%2C+France|Makerlab Paris, 8 Bis Rue Charles V, 75004 Paris, France>",
+                "title": "HackNight NeuroTechX Paris",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NHFxMWl1bHFxbm9kNjJkZHExcWQ2ZXNwZjRfMjAyMzAyMjdUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1677481203.336549",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z3PG6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "2",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " events this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

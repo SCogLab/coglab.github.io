@@ -1,0 +1,64 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1588244772.020700",
+        "client_msg_id": "7645662b-34c8-43b7-926a-2ae55d4f7b00",
+        "text": "<https:\/\/www.eventbrite.com\/e\/transtech-webinar-2-bci-in-medical-practice-tickets-103482691516>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Eventbrite",
+                "title": "TransTech Webinar #2 - BCI in Medical Practice",
+                "title_link": "https:\/\/www.eventbrite.com\/e\/transtech-webinar-2-bci-in-medical-practice-tickets-103482691516",
+                "text": "Brain-Computer Interfaces in Medical Practice",
+                "fallback": "Eventbrite: TransTech Webinar #2 - BCI in Medical Practice",
+                "image_url": "https:\/\/img.evbuc.com\/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F99390156%2F406410106077%2F1%2Foriginal.20200423-230704?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C33%2C388%2C194&s=f0885dbc8f402ff85f3ac0ccf355d108",
+                "from_url": "https:\/\/www.eventbrite.com\/e\/transtech-webinar-2-bci-in-medical-practice-tickets-103482691516",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 55949,
+                "service_icon": "https:\/\/cdn.evbstatic.com\/s3-build\/perm_001\/eba891\/django\/images\/touch_icons\/apple-touch-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.eventbrite.com\/e\/transtech-webinar-2-bci-in-medical-practice-tickets-103482691516"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wTcaj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.eventbrite.com\/e\/transtech-webinar-2-bci-in-medical-practice-tickets-103482691516"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U012DMQM8CF",
+        "text": "<@U012DMQM8CF> a rejoint le canal",
+        "type": "message",
+        "ts": "1588256774.021000"
+    }
+]

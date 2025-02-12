@@ -1,0 +1,77 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1616437942.000500",
+        "client_msg_id": "3c1caec3-cb90-4864-a09a-18a9c168b5af",
+        "text": "Pour la seconde partie de HackNight, rendez-vous sur Gather Town à 21h <https:\/\/gather.town\/i\/x1QmOJYn>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Gather",
+                "title_link": "https:\/\/gather.town\/i\/x1QmOJYn",
+                "text": "Gather is a video-calling space that lets multiple people hold separate conversations in parallel, walking in and out of those conversations just as easily as they would in real life.",
+                "fallback": "Gather",
+                "image_url": "https:\/\/gather.town\/images\/site\/site_preview.png",
+                "from_url": "https:\/\/gather.town\/i\/x1QmOJYn",
+                "image_width": 418,
+                "image_height": 250,
+                "image_bytes": 168628,
+                "service_icon": "https:\/\/gather.town\/favicon.ico",
+                "service_name": "gather.town",
+                "id": 1,
+                "original_url": "https:\/\/gather.town\/i\/x1QmOJYn"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/T5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour la seconde partie de HackNight, rendez-vous sur Gather Town à 21h "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gather.town\/i\/x1QmOJYn"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01S8PWA7GU",
+        "text": "<@U01S8PWA7GU> a rejoint le canal",
+        "type": "message",
+        "ts": "1616438314.000800",
+        "team": "T03FC4NDZ"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01RMRT7QA3",
+        "text": "<@U01RMRT7QA3> a rejoint le canal",
+        "type": "message",
+        "ts": "1616438343.001000",
+        "team": "T03FC4NDZ"
+    }
+]

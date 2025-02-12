@@ -1,0 +1,164 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1586947892.015300",
+        "client_msg_id": "58fc6a51-970d-4934-90c3-271c7120a3c9",
+        "text": "Bonjour à tous\n\nJe signale la création de 2 nouvelles chaînes cette semaine :\n• <#C011UHT8PT6|projets-off-transmedia> : échanges sur les liens transmédia et sciences cognitives (amorcé par <@U6EPG5PTQ> coach et passionnée par le l'animation d'atelier avec des techniques transmédia), clin d'oeil au <#C03UHP8UD|projet-autispace> \n• <#C011VSBJJNP|projet-neuromythe> : l'idée de créer un abécédaire des neuromythes, un vieux projet que je remets en avant si des personnes sont intéressées\nA partir de dimanche, l'association Cognivence lance l'édition 2020 du *Forum des Sciences Cognitives* entièrement en ligne <https:\/\/www.facebook.com\/events\/710740152997872>\n\nProchaine soirée *HackNight CogLab, NeuroTechX Paris* lundi 20 avril -&gt; <#C0R6W4X2Q|coglab-hacknight>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Forum des Sciences Cognitives 2020",
+                "title_link": "https:\/\/www.facebook.com\/events\/710740152997872",
+                "text": "Other event in Paris, France by Forum Des Sciences Cognitives and Cognivence on Sunday, April 19 2020 with 1.4K people interested and 336 people going.",
+                "fallback": "Forum des Sciences Cognitives 2020",
+                "from_url": "https:\/\/www.facebook.com\/events\/710740152997872",
+                "thumb_url": "https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t1.0-0\/c78.0.200.200a\/p200x200\/92463280_3967355586638438_3283458886694076416_o.jpg?_nc_cat=103&_nc_sid=b386c4&_nc_ohc=Pd8QWC2zjbkAX8aCNw7&_nc_ht=scontent-iad3-1.xx&oh=ccb89f82e8d78e9288ae93f0f5c39c41&oe=5EBBE20B",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/yz\/r\/KFyVIAWzntM.ico",
+                "service_name": "facebook.com",
+                "id": 1,
+                "original_url": "https:\/\/www.facebook.com\/events\/710740152997872"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4zZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour à tous\n\nJe signale la création de 2 nouvelles chaînes cette semaine :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C011UHT8PT6"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : échanges sur les liens transmédia et sciences cognitives (amorcé par "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U6EPG5PTQ"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " coach et passionnée par le l'animation d'atelier avec des techniques transmédia), clin d'oeil au "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C03UHP8UD"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C011VSBJJNP"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : l'idée de créer un abécédaire des neuromythes, un vieux projet que je remets en avant si des personnes sont intéressées"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nA partir de dimanche, l'association Cognivence lance l'édition 2020 du "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Forum des Sciences Cognitives",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " entièrement en ligne "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.facebook.com\/events\/710740152997872"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nProchaine soirée "
+                            },
+                            {
+                                "type": "text",
+                                "text": "HackNight CogLab, NeuroTechX Paris",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " lundi 20 avril -> "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0R6W4X2Q"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "ULSDVUUVA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0129CJ7P9P",
+        "text": "<@U0129CJ7P9P> a rejoint le canal",
+        "type": "message",
+        "ts": "1586973043.015700"
+    }
+]

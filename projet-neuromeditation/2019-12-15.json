@@ -1,0 +1,53 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1576397502.003300",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1576397552.000000"
+        },
+        "client_msg_id": "7f4b96a4-b350-4355-a84f-8f2d859bf62a",
+        "text": "Je te propose dimanche 22\/12 IRL au <http:\/\/104.fr|104.fr> à partir de 12h",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=wx=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je te propose dimanche 22\/12 IRL au "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/104.fr",
+                                "text": "104.fr"
+                            },
+                            {
+                                "type": "text",
+                                "text": " à partir de 12h"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

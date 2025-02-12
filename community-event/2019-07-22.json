@@ -1,0 +1,105 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1563786828.000300",
+        "client_msg_id": "70d5062d-bd13-4b60-bfe6-d5090c3726a7",
+        "text": "Un événement intéressant pour <#C03UHP8UD|projet-autispace>\n<https:\/\/www.eventbrite.fr\/e\/billets-les-technologies-pour-lautisme-quest-ce-qui-fonctionne-65419791357>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Eventbrite",
+                "title": "Les technologies pour l’autisme : Qu’est-ce qui fonctionne ?",
+                "title_link": "https:\/\/www.eventbrite.fr\/e\/billets-les-technologies-pour-lautisme-quest-ce-qui-fonctionne-65419791357",
+                "text": "Journée d'information sur les technologies pour l'autisme à destination du public concerné (parents, professionnels, développeurs)",
+                "fallback": "Eventbrite: Les technologies pour l’autisme : Qu’est-ce qui fonctionne ?",
+                "image_url": "https:\/\/cdn.evbstatic.com\/s3-build\/perm_001\/6ce389\/django\/images\/logos\/eb_orange_on_white_1200x630.png",
+                "image_width": 476,
+                "image_height": 250,
+                "fields": [
+                    {
+                        "title": "Where",
+                        "value": "Amphithéâtre Astier, Bâtiment ESCLANGON Campus Sorbonne Université, 4 place Jussieu, 75005 Paris, France",
+                        "short": false
+                    },
+                    {
+                        "title": "When",
+                        "value": "Le mer  18 sept. 2019 à 09:30",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.eventbrite.fr\/e\/billets-les-technologies-pour-lautisme-quest-ce-qui-fonctionne-65419791357",
+                "image_bytes": 5806,
+                "service_icon": "https:\/\/cdn.evbstatic.com\/s3-build\/perm_001\/eba891\/django\/images\/touch_icons\/apple-touch-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.eventbrite.fr\/e\/billets-les-technologies-pour-lautisme-quest-ce-qui-fonctionne-65419791357"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t2Cj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un événement intéressant pour "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03UHP8UD"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.eventbrite.fr\/e\/billets-les-technologies-pour-lautisme-quest-ce-qui-fonctionne-65419791357"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #114: <!date^1563816600^{date_short_pretty} from {time}|July 22nd, 2019 from 7:30 PM> to <!date^1563829200^{time}|11:00 PM GMT+0200>",
+                "text": "<!date^1563816600^{date_short_pretty} from {time}|July 22nd, 2019 from 7:30 PM> to <!date^1563829200^{time}|11:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #114",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NnBjOWUwNWw2NHJkcDg0N3FlY3FkNDQ2ZmMgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1563813001.000500",
+        "bot_id": "B4SJBP2L8"
+    }
+]

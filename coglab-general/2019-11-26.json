@@ -1,0 +1,85 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1574805422.021200",
+        "client_msg_id": "35bd794e-eebd-481f-bcf5-c5c9b69a0c8a",
+        "text": "[Annonce] Masterclass &amp; Adhésions\n\nPour faire suite à une demande de plus en plus récurrente, une nouvelle chaine <#CR01XS7KN|coglab-masterclass> est disponible.\nIl s’agit d’un espace dédié aux Masterclass, Summer School et autres interventions à titre (semi)-pro ou aboutissant sur un financement pour l’association (un apport de trésorerie complémentaire aux adhésions)\n\nPour rappel, les (renouvellement) d’adhésions se font sur HelloAsso.\nOn vous demande également d’adhérer pour des raisons d’assurances lorsque vous venez régulièrement aux <#C0R6W4X2Q|coglab-hacknight>\n<https:\/\/www.helloasso.com\/associations\/coglab\/>\n\nC’était la minute trésorerie :moneybag:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "HelloAsso",
+                "title": "CogLab | HelloAsso",
+                "title_link": "https:\/\/www.helloasso.com\/associations\/coglab\/",
+                "text": "Le CogLab regroupe hackers, passionnés et experts pour stimuler l’intelligence collective et la mise en œuvre de projets collaboratifs, DIY et open-source autour des Sciences de la Cognition.",
+                "fallback": "HelloAsso: CogLab | HelloAsso",
+                "from_url": "https:\/\/www.helloasso.com\/associations\/coglab\/",
+                "thumb_url": "https:\/\/www.helloasso.com\/assets\/img\/logos\/coglab-61dd7b78bdad463d8eb856e1917cf385.png?bb=0x0x200x200&sb=200x200",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/www.helloasso.com\/Areas\/HelloAsso\/img\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.helloasso.com\/associations\/coglab\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2BpQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[Annonce] Masterclass & Adhésions\n\nPour faire suite à une demande de plus en plus récurrente, une nouvelle chaine "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CR01XS7KN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " est disponible.\nIl s’agit d’un espace dédié aux Masterclass, Summer School et autres interventions à titre (semi)-pro ou aboutissant sur un financement pour l’association (un apport de trésorerie complémentaire aux adhésions)\n\nPour rappel, les (renouvellement) d’adhésions se font sur HelloAsso.\nOn vous demande également d’adhérer pour des raisons d’assurances lorsque vous venez régulièrement aux "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0R6W4X2Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.helloasso.com\/associations\/coglab\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nC’était la minute trésorerie "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "moneybag",
+                                "unicode": "1f4b0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

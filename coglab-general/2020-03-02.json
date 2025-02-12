@@ -1,0 +1,104 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Hans Harisson",
+                "fallback": "New card Adrien M &amp; Claire B added to list BLOG (notes externes) on board Activités CogLab (public).",
+                "text": "In list *BLOG (notes externes)* on *<https:\/\/trello.com\/b\/NFHS3ZPa|Activités CogLab (public)>*.",
+                "pretext": "New card created",
+                "title": "Adrien M &amp; Claire B",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/TzG9YDsN",
+                "author_link": "https:\/\/trello.com\/hansharisson1",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1583139471.000900",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Hans Harisson",
+                "fallback": "Hans Harisson commented on Adrien M &amp; Claire B: \"Compagnie composée des deux directeurs artistiques lyonnais (+ équipe de production pluridisciplinaire) combinant arts du spectacle et technologie (Claire vient du monde des arts graphiques numériques et Adrien est un ancien chercheur INRIA passionné de jonglage depuis 20 ans, il a quitté l'INRIA parce qu'il ne voulait pas développer de système de guidage pour missiles), quelques caractéristiques de la cie :\n\n- Démarrage en mode minimaliste (grosses réflexions pour supporter des coûts minimaux),\n- Gros travail de veille pour donner corps à chacun de leur projet (philo, techniques VR\/AR, storyboard,...),\n- Ils se sont concentrés sur le Noir et Blanc (points lumineux blancs + tulles pour la partie scénographique),\n- Les couleurs sont gérés par les costumes portés par les danseu·r·es,\n- Ils ne vendent pas leurs oeuvres artistiques (ils l'ont fait une fois pour le spectacle faire corps à la Gaité Lyrique),\n- il monte les installations technologiques de manières DIY à base de fermes de PC Hackhintosh,\n- ils achètent des projecteurs grand public de marque Optoma (~700 €\/pièce) qu'ils bidouillent pour répondre à leur besoins techniques (filtres pour le rendu scénique),\n- ils développent tous leurs outils software sur mesure dont eMotion depuis 2006 de manière \"artisanale\",\n- les inspirations sont multiples :\n    - soit venant d'une réflexion,\n    - soit venant d'une techno (exemple AR),\n    - soit venant d'une émotion,\n    - soit venant d'une découverte (ex du champignon Torula se nourrissant de vapeurs d'alcool : création 2018 _*L’ombre de la vapeur*_ cf PDF),\n- pour les grosses installations avec des contraintes de lieu (ex création ci-dessus), ils développent des simulations VR,\n- ...\"",
+                "text": "Compagnie composée des deux directeurs artistiques lyonnais (+ équipe de production pluridisciplinaire) combinant arts du spectacle et technologie (Claire vient du monde des arts graphiques numériques et Adrien est un ancien chercheur INRIA passionné de jonglage depuis 20 ans, il a quitté l'INRIA parce qu'il ne voulait pas développer de système de guidage pour missiles), quelques caractéristiques de la cie :\n\n- Démarrage en mode minimaliste (grosses réflexions pour supporter des coûts minimaux),\n- Gros travail de veille pour donner corps à chacun de leur projet (philo, techniques VR\/AR, storyboard,...),\n- Ils se sont concentrés sur le Noir et Blanc (points lumineux blancs + tulles pour la partie scénographique),\n- Les couleurs sont gérés par les costumes portés par les danseu·r·es,\n- Ils ne vendent pas leurs oeuvres artistiques (ils l'ont fait une fois pour le spectacle faire corps à la Gaité Lyrique),\n- il monte les installations technologiques de manières DIY à base de fermes de PC Hackhintosh,\n- ils achètent des projecteurs grand public de marque Optoma (~700 €\/pièce) qu'ils bidouillent pour répondre à leur besoins techniques (filtres pour le rendu scénique),\n- ils développent tous leurs outils software sur mesure dont eMotion depuis 2006 de manière \"artisanale\",\n- les inspirations sont multiples :\n    - soit venant d'une réflexion,\n    - soit venant d'une techno (exemple AR),\n    - soit venant d'une émotion,\n    - soit venant d'une découverte (ex du champignon Torula se nourrissant de vapeurs d'alcool : création 2018 _*L’ombre de la vapeur*_ cf PDF),\n- pour les grosses installations avec des contraintes de lieu (ex création ci-dessus), ils développent des simulations VR,\n- ...",
+                "pretext": "New comment on *<https:\/\/trello.com\/c\/TzG9YDsN|Adrien M &amp; Claire B>*",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/hansharisson1",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1583141948.001000",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1583153400.003600",
+        "client_msg_id": "50134f3b-a5f6-4c67-bfd5-2cf3da338024",
+        "text": "Bonjour à tous\n\nComme indiqué sur la chaîne <#C0R6W4X2Q|coglab-hacknight>, ce soir c'est <@U59MQ46DA> qui assurera la permanence de notre rendez-vous hebdomadaire au CRI\n\nJe resterais disponible partiellement sur Slack si besoin\nBonne HackNight !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/AFY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour à tous\n\nComme indiqué sur la chaîne "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0R6W4X2Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", ce soir c'est "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " qui assurera la permanence de notre rendez-vous hebdomadaire au CRI\n\nJe resterais disponible partiellement sur Slack si besoin\nBonne HackNight !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

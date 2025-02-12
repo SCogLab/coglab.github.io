@@ -1,0 +1,69 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1620752770.000300",
+        "client_msg_id": "1da51915-0baa-4dcb-a2dd-4268c393461b",
+        "text": "Via slack NTX : <https:\/\/medium.com\/geekculture\/predicting-emotions-using-eeg-data-with-recurrent-neural-networks-8acf384896f5>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "Predicting Emotions Using EEG Data with Recurrent Neural Networks",
+                "title_link": "https:\/\/medium.com\/geekculture\/predicting-emotions-using-eeg-data-with-recurrent-neural-networks-8acf384896f5",
+                "text": "An explanation of how RNNs work and how I coded a program that can predict emotional states using EEG data",
+                "fallback": "Medium: Predicting Emotions Using EEG Data with Recurrent Neural Networks",
+                "image_url": "https:\/\/miro.medium.com\/max\/1200\/0*9eqyojyp66obCfl0",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "11 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1620331355,
+                "from_url": "https:\/\/medium.com\/geekculture\/predicting-emotions-using-eeg-data-with-recurrent-neural-networks-8acf384896f5",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 486694,
+                "service_icon": "https:\/\/miro.medium.com\/fit\/c\/152\/152\/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+                "id": 1,
+                "original_url": "https:\/\/medium.com\/geekculture\/predicting-emotions-using-eeg-data-with-recurrent-neural-networks-8acf384896f5"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UnJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Via slack NTX : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/medium.com\/geekculture\/predicting-emotions-using-eeg-data-with-recurrent-neural-networks-8acf384896f5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

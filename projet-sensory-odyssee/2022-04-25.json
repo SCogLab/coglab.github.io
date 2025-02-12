@@ -1,0 +1,126 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1650885640.937739",
+        "edited": {
+            "user": "U03FC5ZAK",
+            "ts": "1650885653.000000"
+        },
+        "client_msg_id": "c65085c4-8e02-4313-bcb2-56b04894bdb2",
+        "text": "C'est une échelle très classique en psycho ergo\nMa référence principale est l'échelle de likert\n<https:\/\/fr.m.wikipedia.org\/wiki\/%C3%89chelle_de_Likert|https:\/\/fr.m.wikipedia.org\/wiki\/%C3%89chelle_de_Likert>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1650315383.119379",
+        "parent_user_id": "U03FC5ZAK",
+        "attachments": [
+            {
+                "from_url": "https:\/\/fr.m.wikipedia.org\/wiki\/%C3%89chelle_de_Likert",
+                "image_url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/89\/Likert_scale.png",
+                "image_width": 1148,
+                "image_height": 268,
+                "image_bytes": 24013,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1,
+                "original_url": "https:\/\/fr.m.wikipedia.org\/wiki\/%C3%89chelle_de_Likert",
+                "fallback": "wikipedia: Échelle de Likert",
+                "text": "Une échelle de Likert est un outil psychométrique permettant de mesurer une attitude chez des individus. Elle tire son nom du psychologue américain Rensis Likert qui l'a développée. Elle consiste en une ou plusieurs affirmations (énoncés ou items) pour lesquelles la personne interrogée exprime son degré d'accord ou de désaccord.",
+                "title": "Échelle de Likert",
+                "title_link": "https:\/\/fr.m.wikipedia.org\/wiki\/%C3%89chelle_de_Likert",
+                "author_name": "Wikipedia",
+                "author_link": "https:\/\/fr.wikipedia.org\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XCkHQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est une échelle très classique en psycho ergo\nMa référence principale est l'échelle de likert\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fr.m.wikipedia.org\/wiki\/%C3%89chelle_de_Likert",
+                                "text": "https:\/\/fr.m.wikipedia.org\/wiki\/%C3%89chelle_de_Likert"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1650917330.740339",
+        "client_msg_id": "31952c4f-dfa4-421c-8c83-d2e17d2604aa",
+        "text": "Hello\n\nJ’ai fais un peu de tri dans les données recueillies et amorcé la complétion du formulaire de soumission au CER (_Comité d’Ethique pour la Recherche_) de Paris Saclay avec une deadline ce jeudi <https:\/\/docs.google.com\/document\/d\/1kAFrgPG9L74BfbZLFTAi-LFvhdOATFlq\/edit>\n\nJe vous notifierai d’un besoin de relecture pour celles et ceux d’entre vous qui aurait la possibilité de le faire dès qu’une v1 est prête, probablement demain soir.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tW\/z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello\n\nJ’ai fais un peu de tri dans les données recueillies et amorcé la complétion du formulaire de soumission au CER ("
+                            },
+                            {
+                                "type": "text",
+                                "text": "Comité d’Ethique pour la Recherche",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ") de Paris Saclay avec une deadline ce jeudi "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1kAFrgPG9L74BfbZLFTAi-LFvhdOATFlq\/edit"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nJe vous notifierai d’un besoin de relecture pour celles et ceux d’entre vous qui aurait la possibilité de le faire dès qu’une v1 est prête, probablement demain soir."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

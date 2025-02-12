@@ -1,0 +1,313 @@
+[
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1460623725.000002",
+        "text": "<@U0MDFGWEP>: oui on a fiat une maquette en carton, mais peut être la prochaine étape c'est la version 3D avec ton logiciel, qu'on pourra toujours intégrer dans le jeu car il nous faut pendant la navigation, une sorte de plan interactif (genre en bas à droite) <@U03FC5ZAK> tu en penses quoi ? <@U07CFCCBG> tu peux que ça pourrait s'intégrer ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Atv0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0MDFGWEP"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": oui on a fiat une maquette en carton, mais peut être la prochaine étape c'est la version 3D avec ton logiciel, qu'on pourra toujours intégrer dans le jeu car il nous faut pendant la navigation, une sorte de plan interactif (genre en bas à droite) "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tu en penses quoi ? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07CFCCBG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tu peux que ça pourrait s'intégrer ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1460668597.000002",
+        "text": "Coucou !\n\nAh oui, en fait notre objectif est de réaliser l'expérience en plusieurs étapes <@U0MDFGWEP> \n1. Version papier (carton) avec un effet 3D en modélisant un _plateau de jeux_ en relief\n2. Version numérique web, on as pas encore trop développé le sujet, mais effectivement, à voir pour modéliser la chose en 3D. Contrainte : il faut que cela soit _accessible_ avec un simple navigateur\n3. Version Réalité Virtuelle (VR) ou l'on souhaite _filmer_ des personnes avec des caméras 360 et essayer de reproduire des sortes _d'effet spéciaux_ pour que les personnes soit vraiment immergées à la 1ère personne (pas de VR générée dans un environnements 3D, trop onéreux et réservé aux casques haut de gamme de type Occulus ou HTC Vive)\n\nConcernant la journée du 18 mai, merci beaucoup pour l'opportunité et la mise en contact !\nOn peux en discuter lundi soir lors de notre hacknight, et voir si des personnes seraient disponibles et partant :simple_smile: cc <@U07CFCCBG> <@U0AR01SPQ>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uHYaT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coucou !\n\nAh oui, en fait notre objectif est de réaliser l'expérience en plusieurs étapes "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0MDFGWEP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n1. Version papier (carton) avec un effet 3D en modélisant un "
+                            },
+                            {
+                                "type": "text",
+                                "text": "plateau de jeux",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " en relief\n2. Version numérique web, on as pas encore trop développé le sujet, mais effectivement, à voir pour modéliser la chose en 3D. Contrainte : il faut que cela soit "
+                            },
+                            {
+                                "type": "text",
+                                "text": "accessible",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " avec un simple navigateur\n3. Version Réalité Virtuelle (VR) ou l'on souhaite "
+                            },
+                            {
+                                "type": "text",
+                                "text": "filmer",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " des personnes avec des caméras 360 et essayer de reproduire des sortes "
+                            },
+                            {
+                                "type": "text",
+                                "text": "d'effet spéciaux",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour que les personnes soit vraiment immergées à la 1ère personne (pas de VR générée dans un environnements 3D, trop onéreux et réservé aux casques haut de gamme de type Occulus ou HTC Vive)\n\nConcernant la journée du 18 mai, merci beaucoup pour l'opportunité et la mise en contact !\nOn peux en discuter lundi soir lors de notre hacknight, et voir si des personnes seraient disponibles et partant "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": " cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07CFCCBG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0AR01SPQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07CFCCBG",
+        "type": "message",
+        "ts": "1460669644.000003",
+        "text": "Bonjour hacknight lundi prochain comme d'habitude. L'autre soir était très intéressant pour affiner les éléments de scénario. <@U03FC5ZAK> il faut que tu envoies les hackpad à Barbara si ce n'est pas déjà fait stp",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ca0028538aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-04-21\/36646712194_7ca0028538aa7c07b0e3_72.jpg",
+            "first_name": "Mai",
+            "real_name": "Mai",
+            "display_name": "mai",
+            "team": "T03FC4NDZ",
+            "name": "mai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DDETX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour hacknight lundi prochain comme d'habitude. L'autre soir était très intéressant pour affiner les éléments de scénario. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " il faut que tu envoies les hackpad à Barbara si ce n'est pas déjà fait stp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1460669909.000004",
+        "text": "J'ajoute la possibilité dans notre Trello pour garder un suivi :wink:\n\nAutre chose à vous partager, hier j'étais au WINE organisé par le CRI (Centre de Recherche Interdisciplinaire)\nUne journée autour de l’innovation en neuroscience et dans l’éducation, constituée à la fois de keynotes, de démonstrations, de présentation de poster sur la thématique de l’éducation, des neurosciences et des innovations au croisement.\n\nDescription du Workshop\n<http:\/\/cri-paris.org\/2016-fdvaiv-thematic-workshops-cri-april-11-15\/>\n\nInscription \n<https:\/\/docs.google.com\/forms\/d\/1NILbUq06D0XFS0IIpGw8492PSJUujMMcrmsmblnjFmo\/viewform?c=0&amp;w=1>\n\nProgramme\n<http:\/\/cri-paris.org\/wp-content\/uploads\/WINE-program_v2.pdf>\n\nBref, j'y ai rencontré un doctorant indien qui travail sur le sujet de l'autisme, extrêmement passionné et il liste tous les projets intéressant qu'il découvre sur le sujet\n\nIl m'a donné sont papier (présentation de son sujet) et un email de contact.\n--&gt; Il faut vraiment qu'on écrive un résumé de présentation du projet, en FR &amp; EN, je peux commencer ce WE et on en reparle lundi à la hacknight ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Centre de Recherches Interdisciplinaires",
+                "title": "2016 FdV\/AIV Thematic Workshops at the CRI: April 11-15 • Centre de Recherches Interdisciplinaires",
+                "title_link": "http:\/\/cri-paris.org\/2016-fdvaiv-thematic-workshops-cri-april-11-15\/",
+                "text": "During each day, students will give research presentations for an audience of scientists and other students connected to the theme.",
+                "fallback": "Centre de Recherches Interdisciplinaires: 2016 FdV\/AIV Thematic Workshops at the CRI: April 11-15 • Centre de Recherches Interdisciplinaires",
+                "image_url": "http:\/\/cri-paris.org\/wp-content\/uploads\/thematic_workshops_feature.png",
+                "image_width": 335,
+                "image_height": 250,
+                "ts": 1458128040,
+                "from_url": "http:\/\/cri-paris.org\/2016-fdvaiv-thematic-workshops-cri-april-11-15\/",
+                "image_bytes": 1969697,
+                "id": 1
+            },
+            {
+                "service_name": "Google Docs",
+                "title": "Workshop for Innovative Neuroscience and Education - 13th April 2016  (registration)",
+                "title_link": "https:\/\/docs.google.com\/forms\/d\/1NILbUq06D0XFS0IIpGw8492PSJUujMMcrmsmblnjFmo\/viewform?c=0&w=1",
+                "text": "Workshop for Innovative Neuroscience and Education at the CRI - 13th April 2016 This workshop is organised as part of the 2016 FDV\/AIV Thematic Workshops at the CRI and coordinated by 2nd year PhD and M2 AIV students. <http:\/\/cri-paris.org\/2016-fdvaiv-thematic-workshops-cri-april-11-15\/> The workshop is free and open to the public. Location : CRI, 10 rue Charles V, 75004 PARIS- 5th floor seminar room – A.51",
+                "fallback": "Google Docs: Workshop for Innovative Neuroscience and Education - 13th April 2016  (registration)",
+                "image_url": "https:\/\/lh4.googleusercontent.com\/LEs2UQACcvHh7YlIqS25NKCnso5jBXFA2Hua928sqYjP8i1kamYODBe79XmZedYJfjc",
+                "image_width": 333,
+                "image_height": 250,
+                "from_url": "https:\/\/docs.google.com\/forms\/d\/1NILbUq06D0XFS0IIpGw8492PSJUujMMcrmsmblnjFmo\/viewform?c=0&w=1",
+                "image_bytes": 433079,
+                "id": 2
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OM6+6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ajoute la possibilité dans notre Trello pour garder un suivi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAutre chose à vous partager, hier j'étais au WINE organisé par le CRI (Centre de Recherche Interdisciplinaire)\nUne journée autour de l’innovation en neuroscience et dans l’éducation, constituée à la fois de keynotes, de démonstrations, de présentation de poster sur la thématique de l’éducation, des neurosciences et des innovations au croisement.\n\nDescription du Workshop\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/cri-paris.org\/2016-fdvaiv-thematic-workshops-cri-april-11-15\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nInscription \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/1NILbUq06D0XFS0IIpGw8492PSJUujMMcrmsmblnjFmo\/viewform?c=0&amp;w=1",
+                                "text": "https:\/\/docs.google.com\/forms\/d\/1NILbUq06D0XFS0IIpGw8492PSJUujMMcrmsmblnjFmo\/viewform?c=0&w=1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nProgramme\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/cri-paris.org\/wp-content\/uploads\/WINE-program_v2.pdf"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nBref, j'y ai rencontré un doctorant indien qui travail sur le sujet de l'autisme, extrêmement passionné et il liste tous les projets intéressant qu'il découvre sur le sujet\n\nIl m'a donné sont papier (présentation de son sujet) et un email de contact.\n--> Il faut vraiment qu'on écrive un résumé de présentation du projet, en FR & EN, je peux commencer ce WE et on en reparle lundi à la hacknight ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

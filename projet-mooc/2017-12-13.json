@@ -1,0 +1,60 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1513199705.000337",
+        "text": "Bonjour <!channel>, le tournage du MOOC est prévu mardi, la semaine prochaine\n\nJe vous invite à (re)lire les différents scripts et mettre en commentaire et\/ou suggestions vos remarques :slightly_smiling_face:\n\nLes parties signalées en rouge, sont à valider ou préciser\n\n<https:\/\/docs.google.com\/document\/d\/1pDVRQd40nEmbTHxy1DwP-uEBASQ_MwyxEa3L_COtKEI\/edit#>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3NXu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", le tournage du MOOC est prévu mardi, la semaine prochaine\n\nJe vous invite à (re)lire les différents scripts et mettre en commentaire et\/ou suggestions vos remarques "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nLes parties signalées en rouge, sont à valider ou préciser\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1pDVRQd40nEmbTHxy1DwP-uEBASQ_MwyxEa3L_COtKEI\/edit#"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

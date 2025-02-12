@@ -1,0 +1,75 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: CogLab @ Tomorrow for Good: <!date^1591444800^{date_short_pretty} from {time}|June 6th, 2020 from 2:00 PM> to <!date^1591448400^{time}|3:00 PM GMT+0200>",
+                "text": "<!date^1591444800^{date_short_pretty} from {time}|June 6th, 2020 from 2:00 PM> to <!date^1591448400^{time}|3:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=28B+Rue+Gallieni%2C+92600+Asni%C3%A8res-sur-Seine%2C+France|28B Rue Gallieni, 92600 Asnières-sur-Seine, France>",
+                "pretext": "New calendar event created",
+                "title": "CogLab @ Tomorrow for Good",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NXVzMDN2Nmc2dXQ3NWkzam4wazBpZGQyYmEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1590937925.000100",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "There is *1* event this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab @ Tomorrow for Good: <!date^1591444800^{date_short_pretty} from {time}|June 6th, 2020 from 2:00 PM> to <!date^1591448400^{time}|3:00 PM GMT+0200>",
+                "text": "<!date^1591444800^{date_short_pretty} from {time}|June 6th, 2020 from 2:00 PM> to <!date^1591448400^{time}|3:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=28B+Rue+Gallieni%2C+92600+Asni%C3%A8res-sur-Seine%2C+France|28B Rue Gallieni, 92600 Asnières-sur-Seine, France>",
+                "title": "CogLab @ Tomorrow for Good",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NXVzMDN2Nmc2dXQ3NWkzam4wazBpZGQyYmEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1590991203.000200",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yXIP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "1",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " event this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

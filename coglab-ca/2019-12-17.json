@@ -1,0 +1,92 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card Captain of my soul added to list EN COURS (CogLab) on board Gestion CogLab (administrateur).",
+                "text": "In list *EN COURS (CogLab)* on *<https:\/\/trello.com\/b\/jSnI3dXM|Gestion CogLab (administrateur)>*.",
+                "pretext": "New card created",
+                "title": "Captain of my soul",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/D6PP0mwo",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1576597984.000200",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card Démo BCI Voyager \/ Havas added to list A FAIRE (CogLab) on board Gestion CogLab (administrateur).",
+                "text": "In list *A FAIRE (CogLab)* on *<https:\/\/trello.com\/b\/jSnI3dXM|Gestion CogLab (administrateur)>*.",
+                "pretext": "New card created",
+                "title": "Démo BCI Voyager \/ Havas",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/VObzX5Vu",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1576615601.000300",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1576655124.000400",
+        "client_msg_id": "0295cbd0-3ffa-4a92-9713-3c1dda301b87",
+        "text": "tu veux faire en général ou sur un projet particulier ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1576189242.001200",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zGFt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tu veux faire en général ou sur un projet particulier ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: CJC-SC 2019: <!date^1553936400^{date_short_pretty} from {time}|March 30th, 2019 from 10:00 AM> to <!date^1553967000^{time}|6:30 PM GMT+0100>",
+                "text": "<!date^1553936400^{date_short_pretty} from {time}|March 30th, 2019 from 10:00 AM> to <!date^1553967000^{time}|6:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=%C3%89cole+Normale+Sup%C3%A9rieure%2C+45+Rue+d%27Ulm%2C+75005+Paris%2C+France|École Normale Supérieure, 45 Rue d'Ulm, 75005 Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "CJC-SC 2019",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MTFiMDB1MDJsYnJsaWJuZWZsbmN0ZzE5dHEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1551100265.000100",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CJC-SC 2019: <!date^1553932800^{date_short_pretty} from {time}|March 30th, 2019 from 9:00 AM> to <!date^1553968800^{time}|7:00 PM GMT+0100>",
+                "text": "<!date^1553932800^{date_short_pretty} from {time}|March 30th, 2019 from 9:00 AM> to <!date^1553968800^{time}|7:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=%C3%89cole+Normale+Sup%C3%A9rieure%2C+45+Rue+d%27Ulm%2C+75005+Paris%2C+France|École Normale Supérieure, 45 Rue d'Ulm, 75005 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "CJC-SC 2019",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MTFiMDB1MDJsYnJsaWJuZWZsbmN0ZzE5dHEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1551100446.000200",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "Meetup CogLab N°10: <!date^1551117600^{date_short_pretty} from {time}|February 25th, 2019 from 7:00 PM> to <!date^1551126600^{time}|9:30 PM GMT+0100>",
+                "text": "<!date^1551117600^{date_short_pretty} from {time}|February 25th, 2019 from 7:00 PM> to <!date^1551126600^{time}|9:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=NUMA%2C+39+Rue+du+Caire%2C+75002+Paris%2C+France|NUMA, 39 Rue du Caire, 75002 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "Meetup CogLab N°10",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MjAzaDAydnRtbDZhNzBuNmppNWFuOGc3ZGggc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1551114001.000300",
+        "bot_id": "B4SJBP2L8"
+    }
+]

@@ -1,0 +1,124 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1617971192.003000",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1617971203.000000"
+        },
+        "client_msg_id": "64715f7d-a79d-44cf-971e-680e8bf5ef44",
+        "text": "Expérimentation de Neuralink sur un singe jouant au pong : <https:\/\/www.engadget.com\/monkey-mindpong-link-003709524.html>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Engadget",
+                "title": "Neuralink's brain-computer interface demo shows a monkey playing Pong | Engadget",
+                "title_link": "https:\/\/www.engadget.com\/monkey-mindpong-link-003709524.html",
+                "text": "Elon Musk's Neuralink is building brain-computer interfaces, like the one that allows this monkey to control a game of Pong with its thoughts.",
+                "fallback": "Engadget: Neuralink's brain-computer interface demo shows a monkey playing Pong | Engadget",
+                "image_url": "https:\/\/s.yimg.com\/os\/creatr-uploaded-images\/2021-04\/92c5c630-98cb-11eb-aaad-dd91b5d26aff",
+                "from_url": "https:\/\/www.engadget.com\/monkey-mindpong-link-003709524.html",
+                "image_width": 452,
+                "image_height": 250,
+                "image_bytes": 88506,
+                "service_icon": "https:\/\/s.yimg.com\/kw\/assets\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.engadget.com\/monkey-mindpong-link-003709524.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7ol",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Expérimentation de Neuralink sur un singe jouant au pong : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.engadget.com\/monkey-mindpong-link-003709524.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1617980700.003500",
+        "client_msg_id": "4ac75501-85cd-41f1-b785-9c9496843138",
+        "text": "Billet du blog avec la vidéo : <https:\/\/neuralink.com\/blog\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Neuralink",
+                "title_link": "https:\/\/neuralink.com\/blog\/",
+                "text": "Developing ultra high bandwidth brain-machine interfaces to connect humans and computers.",
+                "fallback": "Neuralink",
+                "image_url": "https:\/\/neuralink.com\/images\/social\/twitter\/default.jpg",
+                "image_width": 478,
+                "image_height": 250,
+                "from_url": "https:\/\/neuralink.com\/blog\/",
+                "image_bytes": 28442,
+                "service_icon": "https:\/\/neuralink.com\/images\/touch-icon.png",
+                "service_name": "neuralink.com",
+                "id": 1,
+                "original_url": "https:\/\/neuralink.com\/blog\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o\/9+A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Billet du blog avec la vidéo : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/neuralink.com\/blog\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

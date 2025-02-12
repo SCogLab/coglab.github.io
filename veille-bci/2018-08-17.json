@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1534506653.000100",
+        "client_msg_id": "8e2b6fbd-ad12-403a-9c37-9a9fe2b648e9",
+        "text": "Start-up développant des magasins sans caisses : <https:\/\/www.standardcognition.com>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "STANDARD COGNITION",
+                "title": "AI-powered checkout",
+                "title_link": "https:\/\/www.standardcognition.com\/",
+                "text": "Machine learning meets retail. Shop without waiting in line.",
+                "fallback": "STANDARD COGNITION: AI-powered checkout",
+                "from_url": "https:\/\/www.standardcognition.com\/",
+                "service_icon": "https:\/\/www.standardcognition.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.standardcognition.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qw3I0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Start-up développant des magasins sans caisses : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.standardcognition.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

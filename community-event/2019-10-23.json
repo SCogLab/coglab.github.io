@@ -1,0 +1,211 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CogLab HackNight #124: <!date^1572886800^{date_short_pretty} from {time}|November 4th, 2019 from 6:00 PM> to <!date^1572901200^{time}|10:00 PM GMT+0100>",
+                "text": "<!date^1572886800^{date_short_pretty} from {time}|November 4th, 2019 from 6:00 PM> to <!date^1572901200^{time}|10:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Centre+de+Recherche+Interdisciplinaire+%28CRI%29%2C+8bis+Rue+Charles+V%2C+75004+Paris%2C+France|Centre de Recherche Interdisciplinaire (CRI), 8bis Rue Charles V, 75004 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab HackNight #124",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NGZwcWdsNDJuYWI4dTJsc3QwMnNxaXZsczQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1571828471.004200",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1571828530.004900",
+        "client_msg_id": "c6d814be-563f-4827-914c-acc2b2b84770",
+        "text": "Hello, je ne pourrais pas assurer la HackNight lundi prochain, je serais chez Facebook <https:\/\/www.meetup.com\/fr-FR\/React-VR-Paris\/events\/265880870\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1571828530.004900",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1572263795.006500",
+        "reply_users": [
+            "U59MQ46DA",
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1571833028.005100"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1572263795.006500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Découvrez le Réalité Virtuelle avec Oculus VR @ Facebook France",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/React-VR-Paris\/events\/265880870\/",
+                "text": "lun. 28 oct. 2019 à 17:45: The Oculus RoadshowVenez assister à une présentation exclusive des ingénieurs Oculus dans les locaux de Facebook Paris !Au programme :17:45 - Accueil:rotating_light: Inscription obligatoi",
+                "fallback": "Meetup: Découvrez le Réalité Virtuelle avec Oculus VR @ Facebook France",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/d\/a\/6\/2\/600_485995906.jpeg",
+                "fields": [
+                    {
+                        "title": "Où",
+                        "value": "Facebook France 6 rue Ménars Paris",
+                        "short": true
+                    },
+                    {
+                        "title": "Quand",
+                        "value": "lun. 28 oct. 2019 à 17:45",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/React-VR-Paris\/events\/265880870\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 149703,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/fr-FR\/m_swarm_120x120.4f86abc9.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/React-VR-Paris\/events\/265880870\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nI2m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, je ne pourrais pas assurer la HackNight lundi prochain, je serais chez Facebook "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/React-VR-Paris\/events\/265880870\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1571833028.005100",
+        "client_msg_id": "6059aab8-ca6e-48e5-b904-6fc7e0499448",
+        "text": "Ok, c’est noté du coup, je m’y suis inscrit aussi à l’event",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1571828530.004900",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ciFa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok, c’est noté du coup, je m’y suis inscrit aussi à l’event"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1571845927.005600",
+        "client_msg_id": "62d357fd-c63b-46fd-b2d3-304bdbb0301a",
+        "text": "Colloque international \"Robots et réalité virtuelle en santé mentale\" à Caen le vendredi 8 juin  <https:\/\/smentale-2019.sciencesconf.org\/>\n\n___\nObjectif : Doter les intervenants et les usagers de connaissances et compétences adaptées et évolutives.\nLa robotique et la Réalité Virtuelle (RV) contiennent de formidables opportunités, en termes de santé notamment, et de santé mentale en particulier. Mais en même temps, ces technologies entraînent leurs utilisateurs dans des interactions de plus en plus riches et complexes à travers lesquelles les uns et les autres ne cesseront de se transformer mutuellement. Il est urgent de réfléchir aux bouleversements qui en résultent, notamment dans la prise en charge des enfants et des seniors, mais plus globalement des populations vulnérables. Cette réflexion doit non seulement prendre en compte ce que ces technologies sont, mais également les expériences qui en résultent pour les utilisateurs. L’objectif de ce colloque est de doter les intervenants en santé mentale et les usagers de connaissances et compétences adaptées et évolutives.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U8BG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Colloque international \"Robots et réalité virtuelle en santé mentale\" à Caen le vendredi 8 juin  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/smentale-2019.sciencesconf.org\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n___\nObjectif : Doter les intervenants et les usagers de connaissances et compétences adaptées et évolutives.\nLa robotique et la Réalité Virtuelle (RV) contiennent de formidables opportunités, en termes de santé notamment, et de santé mentale en particulier. Mais en même temps, ces technologies entraînent leurs utilisateurs dans des interactions de plus en plus riches et complexes à travers lesquelles les uns et les autres ne cesseront de se transformer mutuellement. Il est urgent de réfléchir aux bouleversements qui en résultent, notamment dans la prise en charge des enfants et des seniors, mais plus globalement des populations vulnérables. Cette réflexion doit non seulement prendre en compte ce que ces technologies sont, mais également les expériences qui en résultent pour les utilisateurs. L’objectif de ce colloque est de doter les intervenants en santé mentale et les usagers de connaissances et compétences adaptées et évolutives."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

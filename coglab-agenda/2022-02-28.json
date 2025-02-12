@@ -1,0 +1,25 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "[Option] XR Biosense - Workshop: <!date^1646067600^{date_short_pretty} from {time}|February 28th, 2022 from 6:00 PM> to <!date^1646082000^{time}|10:00 PM GMT+0100>",
+                "text": "<!date^1646067600^{date_short_pretty} from {time}|February 28th, 2022 from 6:00 PM> to <!date^1646082000^{time}|10:00 PM GMT+0100>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "[Option] XR Biosense - Workshop",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NG9kcWhoMnMzYXNvNm5ycmYyb3E0ZHJzN3Agc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1646064004.475699",
+        "bot_id": "B4SJBP2L8"
+    }
+]

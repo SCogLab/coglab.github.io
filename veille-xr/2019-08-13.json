@@ -1,0 +1,85 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1565710295.000500",
+        "client_msg_id": "62308d08-7960-4034-855f-23b3e56cfe38",
+        "text": "Un visuel estivale :swimmer::dolphin:🥽\n<https:\/\/twitter.com\/BallastVR\/status\/1161157370052894720>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/BallastVR|@BallastVR>: It’s time for a new type of immersion <https:\/\/pbs.twimg.com\/media\/EB1CeQDUEAAz59R.jpg>",
+                "ts": 1565676464,
+                "author_name": "Ballast",
+                "author_link": "https:\/\/twitter.com\/BallastVR\/status\/1161157370052894720",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1100883797682184192\/BoP1gsR2_normal.jpg",
+                "author_subname": "@BallastVR",
+                "text": "It’s time for a new type of immersion <https:\/\/pbs.twimg.com\/media\/EB1CeQDUEAAz59R.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/BallastVR\/status\/1161157370052894720",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/EB1CeQDUEAAz59R.jpg",
+                "image_width": 690,
+                "image_height": 1200,
+                "image_bytes": 196119,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/BallastVR\/status\/1161157370052894720",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZxW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un visuel estivale "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "swimmer",
+                                "unicode": "1f3ca"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dolphin",
+                                "unicode": "1f42c"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "goggles",
+                                "unicode": "1f97d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/BallastVR\/status\/1161157370052894720"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

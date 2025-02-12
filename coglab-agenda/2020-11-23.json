@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #173 [Online]: <!date^1606152600^{date_short_pretty} from {time}|November 23rd, 2020 from 6:30 PM> to <!date^1606161600^{time}|9:00 PM GMT+0100>",
+                "text": "<!date^1606152600^{date_short_pretty} from {time}|November 23rd, 2020 from 6:30 PM> to <!date^1606161600^{time}|9:00 PM GMT+0100> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #173 [Online]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NzExaGRhM3QwbjcydjY1cm9wampxNjM4ZHQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1606149001.000200",
+        "bot_id": "B4SJBP2L8"
+    }
+]

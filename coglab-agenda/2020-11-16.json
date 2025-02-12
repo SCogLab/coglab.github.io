@@ -1,0 +1,161 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #172 [Online]: <!date^1605547800^{date_short_pretty} from {time}|November 16th, 2020 from 6:30 PM> to <!date^1605556800^{time}|9:00 PM GMT+0100>",
+                "text": "<!date^1605547800^{date_short_pretty} from {time}|November 16th, 2020 from 6:30 PM> to <!date^1605556800^{time}|9:00 PM GMT+0100> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #172 [Online]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Mm8yOHFzcW84bzg5NTRpZ2o5cjhxbG91Z2cgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1605544201.001400",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1605545023.002200",
+        "client_msg_id": "cb01131e-3391-4a7a-90ab-b3e63d77febb",
+        "text": "Today’s Paris HackNight 172 guest :\n- Erik Bjäreholt will hopefully be coming back to talk about poetry for Python development and a PR he made to eeg-notebooks <https:\/\/github.com\/ErikBjare\/eeg-notebooks>\n- Igor Dejanović will talk about pyFiles <https:\/\/pyflies.github.io\/pyflies\/latest\/>\n\n:point_right: <https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/274486079\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "ErikBjare\/eeg-notebooks",
+                "text": "A collection of classic EEG experiments implemented with Python and Jupyter notebooks",
+                "title": "ErikBjare\/eeg-notebooks",
+                "footer": "<https:\/\/github.com\/ErikBjare\/eeg-notebooks|ErikBjare\/eeg-notebooks>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1604841420,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Website",
+                        "value": "<https:\/\/neurotechx.github.io\/eeg-notebooks>",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "Python",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "BA73T1BTJ",
+                "app_unfurl_url": "https:\/\/github.com\/ErikBjare\/eeg-notebooks",
+                "is_app_unfurl": true
+            },
+            {
+                "title": "pyFlies",
+                "title_link": "https:\/\/pyflies.github.io\/pyflies\/latest\/",
+                "text": "A Domain-Specific Language (DSL) for experiments specification in psychology and neuroscience",
+                "fallback": "pyFlies",
+                "from_url": "https:\/\/pyflies.github.io\/pyflies\/latest\/",
+                "service_name": "pyflies.github.io",
+                "id": 2,
+                "original_url": "https:\/\/pyflies.github.io\/pyflies\/latest\/"
+            },
+            {
+                "service_name": "Meetup",
+                "title": "HackNight #172 (online)",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/274486079\/",
+                "text": "lun. 16 nov. 2020 à 18:30: (English version available below)#Présentation des HackNightsLes HackNight de l'association CogLab, NeuroTechX Paris sont des soirées hebdomadaires conviviales, dédiées aux",
+                "fallback": "Meetup: HackNight #172 (online)",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/9\/0\/1\/4\/600_492456884.jpeg",
+                "fields": [
+                    {
+                        "title": "Où",
+                        "value": "Événement en ligne",
+                        "short": true
+                    },
+                    {
+                        "title": "Quand",
+                        "value": "lun. 16 nov. 2020 à 18:30",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/274486079\/",
+                "image_width": 445,
+                "image_height": 250,
+                "image_bytes": 113464,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/fr-FR\/m_swarm_120x120.4f86abc9.png",
+                "id": 3,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/274486079\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s+kD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Today’s Paris HackNight 172 guest :\n- Erik Bjäreholt will hopefully be coming back to talk about poetry for Python development and a PR he made to eeg-notebooks "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/ErikBjare\/eeg-notebooks"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- Igor Dejanović will talk about pyFiles "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pyflies.github.io\/pyflies\/latest\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/274486079\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

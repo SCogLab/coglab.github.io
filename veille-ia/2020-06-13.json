@@ -1,0 +1,72 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1592045826.002000",
+        "client_msg_id": "c19eea9c-d0f3-40a6-8b19-8e2505275ab5",
+        "text": "Des chercheurs du MIT (Yeon, H., Lin, P., Choi, C. _et al.)_ ont développé un “cerveau-sur-puce” composé de 10 000 synapses artificielles (publication dans la news) : <https:\/\/www.engadget.com\/mit-brain-on-a-chip-silver-copper-memristors-183405642.html>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Engadget",
+                "title": "MIT fit tens of thousands of artificial brain synapses on a single chip",
+                "title_link": "https:\/\/www.engadget.com\/mit-brain-on-a-chip-silver-copper-memristors-183405642.html",
+                "text": "MIT engineers put tens of thousands of artificial brain synapses on a single chip that's smaller than a piece of confetti.",
+                "fallback": "Engadget: MIT fit tens of thousands of artificial brain synapses on a single chip",
+                "image_url": "https:\/\/o.aolcdn.com\/images\/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-12%2F37a07350-25b2-11ea-bfe1-e6a8b8b0b4ac&client=amp-blogside-v2&signature=f3ee9624117f53d732e9dbc5d0e827c865c9047e",
+                "image_width": 444,
+                "image_height": 250,
+                "from_url": "https:\/\/www.engadget.com\/mit-brain-on-a-chip-silver-copper-memristors-183405642.html",
+                "image_bytes": 352873,
+                "service_icon": "https:\/\/s.blogsmithmedia.com\/www.engadget.com\/assets-h590be6028d418671f177d6352214ab1e\/images\/apple-touch-icon-57x57.png?h=b07835531d7826b72615c77771a72171",
+                "id": 1,
+                "original_url": "https:\/\/www.engadget.com\/mit-brain-on-a-chip-silver-copper-memristors-183405642.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J\/KMu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Des chercheurs du MIT (Yeon, H., Lin, P., Choi, C. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "et al.) ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "ont développé un “cerveau-sur-puce” composé de 10 000 synapses artificielles (publication dans la news) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.engadget.com\/mit-brain-on-a-chip-silver-copper-memristors-183405642.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

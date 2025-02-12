@@ -1,0 +1,64 @@
+[
+    {
+        "user": "ULABDBC9W",
+        "type": "message",
+        "ts": "1602369946.007300",
+        "client_msg_id": "1d8a6283-0b7b-4428-a90f-d6f18e470044",
+        "text": "<@U03FC5ZAK> oups, effectivement. Tu serais dispo jeudi ? J'ai créé une table (gsheet) pour ces contenus. Je peux te l'envoyer pour remplissage si ça te paraît ok. On peut quand-même s'appeller pour en discuter et échanger des nouvelles si tu es dispo :relaxed:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "8001f2d63c3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-10\/690479305888_8001f2d63c3cc42e6e2e_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu",
+            "display_name": "Matthieu",
+            "team": "T03FC4NDZ",
+            "name": "matthieu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1602369946.007300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1602522392.007400",
+        "reply_users": [
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1602522392.007400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sdIb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " oups, effectivement. Tu serais dispo jeudi ? J'ai créé une table (gsheet) pour ces contenus. Je peux te l'envoyer pour remplissage si ça te paraît ok. On peut quand-même s'appeller pour en discuter et échanger des nouvelles si tu es dispo "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "relaxed",
+                                "unicode": "263a-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

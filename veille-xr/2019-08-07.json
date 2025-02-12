@@ -1,0 +1,56 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1565179134.000200",
+        "client_msg_id": "5764cfe0-116e-4817-b597-9768b953da89",
+        "text": "<https:\/\/ptsource.github.io\/VRGrid\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "PTSource VRGrid",
+                "title_link": "https:\/\/ptsource.github.io\/VRGrid\/",
+                "text": "PTSource VRGrid is an XML standard based markup language for representing interactive 3D and 2D with VR support. It includes its own scripting language for software design, and a format support for 3D models.",
+                "fallback": "PTSource VRGrid",
+                "image_url": "https:\/\/raw.githubusercontent.com\/ptsource\/VRGrid\/master\/images\/FACE.PNG?ver=7",
+                "from_url": "https:\/\/ptsource.github.io\/VRGrid\/",
+                "image_width": 479,
+                "image_height": 250,
+                "image_bytes": 54806,
+                "service_name": "ptsource.github.io",
+                "id": 1,
+                "original_url": "https:\/\/ptsource.github.io\/VRGrid\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IOyy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ptsource.github.io\/VRGrid\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

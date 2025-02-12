@@ -1,0 +1,152 @@
+[
+    {
+        "user": "U6EPG5PTQ",
+        "type": "message",
+        "ts": "1591633176.039600",
+        "client_msg_id": "d0e7ca6c-5c0f-49d3-95e4-470ebfe1d63b",
+        "text": "Happy HackNight, I prepare a drink! :dizzy::tropical_drink:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g09c260ee4c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/209c260ee4c8c21ab89b376055cd6e8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Karine",
+            "real_name": "Karine Halpern",
+            "display_name": "KarineH",
+            "team": "T03FC4NDZ",
+            "name": "karine.halpern",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nwy\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy HackNight, I prepare a drink! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dizzy",
+                                "unicode": "1f4ab"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tropical_drink",
+                                "unicode": "1f379"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "cocktail",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U014STZS797",
+        "type": "message",
+        "ts": "1591685975.047300",
+        "client_msg_id": "4EDDDADE-3A10-4FD6-A601-6B24ED5E4F08",
+        "text": "<@U03FC5ZAK> Bonjour Rouffi, merci pour la préparation de cette HackNight et merci aux différents intervenants. Cela semblait être très intéressant mais malheureusement mon niveau d’anglais ne m’a pas permis de comprendre la technicité du thème. Néanmoins, vous m’avez fait découvrir hier un « monde » que je ne connaissais pas, et des personnes avec des connaissances de folie! en tant qu’orthophoniste, j’ai eu l’impression d’être une australopithèque et d’être propulsée dans le futur ! Waouh! Je suis admirative :slightly_smiling_face: ... j’espère juste qu’il y aura des thèmes en français :crossed_fingers:bonnne journée à tous!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "6ea05047a3d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-28\/1150591839426_6ea05047a3d35fa73d56_72.png",
+            "first_name": "Lirola",
+            "real_name": "Lirola Rose-Marie",
+            "display_name": "Rose-Marie",
+            "team": "T03FC4NDZ",
+            "name": "rose-marie.lirola",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1591685975.047300",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1591994765.055100",
+        "reply_users": [
+            "U03FC5ZAK",
+            "U014STZS797"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1591913342.048200"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1591916107.048400"
+            },
+            {
+                "user": "U014STZS797",
+                "ts": "1591994765.055100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pwo7t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Bonjour Rouffi, merci pour la préparation de cette HackNight et merci aux différents intervenants. Cela semblait être très intéressant mais malheureusement mon niveau d’anglais ne m’a pas permis de comprendre la technicité du thème. Néanmoins, vous m’avez fait découvrir hier un « monde » que je ne connaissais pas, et des personnes avec des connaissances de folie! en tant qu’orthophoniste, j’ai eu l’impression d’être une australopithèque et d’être propulsée dans le futur ! Waouh! Je suis admirative "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ... j’espère juste qu’il y aura des thèmes en français "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "crossed_fingers",
+                                "unicode": "1f91e"
+                            },
+                            {
+                                "type": "text",
+                                "text": "bonnne journée à tous!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U6EPG5PTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

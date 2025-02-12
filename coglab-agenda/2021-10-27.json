@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "[SO] Objectifs de recherche: <!date^1635350400^{date_short_pretty} from {time}|October 27th, 2021 from 6:00 PM> to <!date^1635354000^{time}|7:00 PM GMT+0200>",
+                "text": "<!date^1635350400^{date_short_pretty} from {time}|October 27th, 2021 from 6:00 PM> to <!date^1635354000^{time}|7:00 PM GMT+0200>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "[SO] Objectifs de recherche",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NDltMG1mdThmN2M5bWQ1NTYwYTdlY2xodmsgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1635346808.001000",
+        "bot_id": "B4SJBP2L8"
+    }
+]

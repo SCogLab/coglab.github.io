@@ -1,0 +1,58 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1502457097.736924",
+        "text": "Je vais essayer de tester cela ce weekend\n<https:\/\/hologram.cool\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Hologram",
+                "title_link": "https:\/\/hologram.cool\/",
+                "text": "All-in-one WebVR creation. The future is now with Hologram - become the creator of your own WebVR environement. Your scene, your rules, it is that simple. Time to enter the metaverse.",
+                "fallback": "Hologram",
+                "thumb_url": "https:\/\/cdn.hologram.cool\/web\/assets\/images\/FacebookOGImage.png",
+                "from_url": "https:\/\/hologram.cool\/",
+                "thumb_width": 2400,
+                "thumb_height": 1260,
+                "service_icon": "https:\/\/cdn.hologram.cool\/web\/assets\/images\/favicon\/favicon.png",
+                "service_name": "hologram.cool",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cvj7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je vais essayer de tester cela ce weekend\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/hologram.cool\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

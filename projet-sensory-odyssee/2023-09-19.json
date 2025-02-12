@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "retention_threshold",
+        "user": "USLACKBOT",
+        "type": "message",
+        "ts": "1695182400.000000",
+        "text": "Some older messages are unavailable. Due to the retention policies of an organization in this channel, all their messages and files from before this date have been deleted.",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "asw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Some older messages are unavailable. Due to the retention policies of an organization in this channel, all their messages and files from before this date have been deleted."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

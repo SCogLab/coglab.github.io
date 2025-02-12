@@ -1,0 +1,348 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1698931082.090909",
+        "client_msg_id": "76ddd4f0-99c3-41c2-bdb8-fec55e000971",
+        "text": ":calendar: NeuroTechX organise la seconde édition de son hackathon international le premier week-end de décembre (dans un mois).\n\nVoici quelques liens utiles pour les intéressé•e•s :\n• Page de présentation du Hackathon local à Paris <https:\/\/coglab.fr\/activites\/ntxhack2023\/> (il s’agit d’une première version qui sera actualisée progressivement)\n• Formulaire d’inscription <https:\/\/forms.gle\/qWHRPEcEQCYYK1GEA> (pour l’édition locale à Paris, école 42)\n• Page de présentation sur NeuroTechX <https:\/\/neurotechx.com\/hackathon2023\/>\nN’hésitez pas à diffuser l’information",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/coglab.fr\/wp-content\/uploads\/2023\/10\/NTXHackathon23-Logo.png",
+                "image_width": 2048,
+                "image_height": 988,
+                "image_bytes": 105231,
+                "from_url": "https:\/\/coglab.fr\/activites\/ntxhack2023\/",
+                "service_icon": "https:\/\/i0.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=180%2C180&amp;ssl=1",
+                "ts": 1698268802,
+                "id": 1,
+                "original_url": "https:\/\/coglab.fr\/activites\/ntxhack2023\/",
+                "fallback": "CogLab, NeuroTechX Paris: Hackathon NeuroTechX 2023",
+                "text": "Édition #NTXhack2023 locale à Paris Cette page est dédiée à l’évènement local et en présentiel du Hackathon NeuroTechX qui se tiendra à Paris dans l’École 42.   Rejoignez-nous en tant qu…",
+                "title": "Hackathon NeuroTechX 2023",
+                "title_link": "https:\/\/coglab.fr\/activites\/ntxhack2023\/",
+                "service_name": "CogLab, NeuroTechX Paris"
+            },
+            {
+                "image_url": "https:\/\/lh3.googleusercontent.com\/giNf6ZZs43IE0sFOScYAL9Jf08lE__k3B91uv_OxvAm1NSx-DqvN9TvYQFFI3ezAH5ZVojEiq7A",
+                "image_width": 800,
+                "image_height": 600,
+                "image_bytes": 58067,
+                "from_url": "https:\/\/forms.gle\/qWHRPEcEQCYYK1GEA",
+                "service_icon": "http:\/\/ssl.gstatic.com\/docs\/forms\/device_home\/ios_120.png",
+                "id": 2,
+                "original_url": "https:\/\/forms.gle\/qWHRPEcEQCYYK1GEA",
+                "fallback": "Google Docs: NeuroTechX Hackathon 2023 \/ Paris chapter",
+                "title": "NeuroTechX Hackathon 2023 \/ Paris chapter",
+                "title_link": "https:\/\/forms.gle\/qWHRPEcEQCYYK1GEA",
+                "service_name": "Google Docs"
+            },
+            {
+                "image_url": "https:\/\/neurotechx.com\/wp-content\/uploads\/2018\/03\/NTX_Logo-1.png",
+                "image_width": 400,
+                "image_height": 400,
+                "image_bytes": 6566,
+                "from_url": "https:\/\/neurotechx.com\/hackathon2023\/",
+                "service_icon": "https:\/\/neurotechx.com\/wp-content\/uploads\/2020\/08\/cropped-ntx-180x180.png",
+                "id": 3,
+                "original_url": "https:\/\/neurotechx.com\/hackathon2023\/",
+                "fallback": "NeuroTechX: NeuroTechX Global Hackathon 2023 - NeuroTechX",
+                "title": "NeuroTechX Global Hackathon 2023 - NeuroTechX",
+                "title_link": "https:\/\/neurotechx.com\/hackathon2023\/",
+                "service_name": "NeuroTechX",
+                "fields": [
+                    {
+                        "value": "5 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0gLpl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "calendar",
+                                "unicode": "1f4c6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " NeuroTechX organise la seconde édition de son hackathon international le premier week-end de décembre (dans un mois).\n\nVoici quelques liens utiles pour les intéressé•e•s :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Page de présentation du Hackathon local à Paris "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/coglab.fr\/activites\/ntxhack2023\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " (il s’agit d’une première version qui sera actualisée progressivement)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Formulaire d’inscription "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/forms.gle\/qWHRPEcEQCYYK1GEA"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " (pour l’édition locale à Paris, école 42)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Page de présentation sur NeuroTechX "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/neurotechx.com\/hackathon2023\/"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nN’hésitez pas à diffuser l’information"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1698931162.431919",
+        "client_msg_id": "7e575948-79bc-4fe4-ab57-71247650c94e",
+        "text": "<@U59MQ46DA> tu as des nouvelles sur la date de la Masterclass ?\nJ’ai également avancé la date du lancement local le vendredi soir comme l’année dernière, tu confirmes que c’est le cas ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698931162.431919",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1698948733.300379",
+        "reply_users": [
+            "U59MQ46DA",
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1698932860.542339"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1698939976.397469"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1698948733.300379"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bq9GS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tu as des nouvelles sur la date de la Masterclass ?\nJ’ai également avancé la date du lancement local le vendredi soir comme l’année dernière, tu confirmes que c’est le cas ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1698932860.542339",
+        "client_msg_id": "9bc9ebd5-e58a-4df7-8fd7-061212756614",
+        "text": "Pas de date pour le moment pour la MasterClass.\nIl n'y aura pas de lancement vendredi pour des raisons financière et logistique",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698931162.431919",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VL3eJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pas de date pour le moment pour la MasterClass.\nIl n'y aura pas de lancement vendredi pour des raisons financière et logistique"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1698939976.397469",
+        "client_msg_id": "f7a0052a-d71f-42cb-904a-c4681d5fc27b",
+        "text": "Ok, j’ai fait des mises à jour pour prendre en compte cette info.\nC’est irrévocablement mis à l’écart, ou bien conditionné à un financement ?\nSi besoin de financement, y a-t-il une estimation ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698931162.431919",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W+laf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok, j’ai fait des mises à jour pour prendre en compte cette info.\nC’est irrévocablement mis à l’écart, ou bien conditionné à un financement ?\nSi besoin de financement, y a-t-il une estimation ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1698948733.300379",
+        "client_msg_id": "189d3dcd-fb68-461f-927b-6d227865b416",
+        "text": "Dans le répertoire du hackathon, il y a un répertoire Admin où il y a le sheet de l'an dernier que Charly nous a fourni",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698931162.431919",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YmnNV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dans le répertoire du hackathon, il y a un répertoire Admin où il y a le sheet de l'an dernier que Charly nous a fourni"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1596456559.036200",
+        "client_msg_id": "3acf80d0-2175-4373-8de3-a19ca19a73f4",
+        "text": "<https:\/\/www.bitbrain.com\/call-for-projects-2020>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Bitbrain",
+                "title": "Call for Research Projects",
+                "title_link": "https:\/\/www.bitbrain.com\/call-for-projects-2020",
+                "text": "Bitbrain grants up to 150K€ of Bitbrain equipment for research projects in the areas of human behavior research and brain-computer interfaces. Submit before September 21st.",
+                "fallback": "Bitbrain: Call for Research Projects",
+                "ts": 1594306188,
+                "from_url": "https:\/\/www.bitbrain.com\/call-for-projects-2020",
+                "service_icon": "https:\/\/www.bitbrain.com\/sites\/default\/files\/favicon_0.png",
+                "id": 1,
+                "original_url": "https:\/\/www.bitbrain.com\/call-for-projects-2020"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MJqNu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.bitbrain.com\/call-for-projects-2020"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U017ZV5CSB0",
+        "text": "<@U017ZV5CSB0> a rejoint le canal",
+        "type": "message",
+        "ts": "1596475379.036500"
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "user": "ULABDBC9W",
+        "type": "message",
+        "ts": "1599725143.002400",
+        "edited": {
+            "user": "ULABDBC9W",
+            "ts": "1599725161.000000"
+        },
+        "client_msg_id": "3b21d6a5-ba0f-4c6f-8603-45c09327636d",
+        "text": "Hey coucou par ici, on a enfin sorti ceci en V1 <https:\/\/federationfresco.fr\/|https:\/\/federationfresco.fr\/> j'envoie un formulaire tout à l'heure pour remplir la page coglab et demander des infos pour l'année. Bonne rentrée ! :upside_down_face::the_horns:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "8001f2d63c3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-10\/690479305888_8001f2d63c3cc42e6e2e_72.jpg",
+            "first_name": "Matthieu",
+            "real_name": "Matthieu",
+            "display_name": "Matthieu",
+            "team": "T03FC4NDZ",
+            "name": "matthieu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XiIk4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey coucou par ici, on a enfin sorti ceci en V1 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/federationfresco.fr\/",
+                                "text": "https:\/\/federationfresco.fr\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " j'envoie un formulaire tout à l'heure pour remplir la page coglab et demander des infos pour l'année. Bonne rentrée ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "upside_down_face",
+                                "unicode": "1f643"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "the_horns",
+                                "unicode": "1f918"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

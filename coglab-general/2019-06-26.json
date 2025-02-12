@@ -1,0 +1,27 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card BCI Voyager added to list PROJETS on board Activités CogLab (public).",
+                "text": "In list *PROJETS* on *<https:\/\/trello.com\/b\/NFHS3ZPa|Activités CogLab (public)>*.",
+                "pretext": "New card created",
+                "title": "BCI Voyager",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/FEOszHFg",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1561577621.000200",
+        "bot_id": "B66HQV43C"
+    }
+]

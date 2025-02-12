@@ -1,0 +1,70 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1426459294.000002",
+        "text": "<!channel>: Meetup on the Launchpad. Je n'avais pas appuyé sur le bouton  ! :confused:\n<http:\/\/www.meetup.com\/Paris-CogLab-Meetup-Cognitive-Science-Open-Lab\/events\/220828145\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Paris CogLab Meetup - Cognitive Science Open Lab",
+                "title_link": "http:\/\/www.meetup.com\/Paris-CogLab-Meetup-Cognitive-Science-Open-Lab\/events\/220828145\/",
+                "text": "Nous reprenons doucement la saison des&amp;nbsp;Meetup CogLab&amp;nbsp;après un long moment de silence car nous préparons la V2 du laboratoire communautaire. Nous reviendrons vers vous durant ce mois de mars",
+                "fallback": "Meetup: Paris CogLab Meetup - Cognitive Science Open Lab",
+                "thumb_url": "http:\/\/img1.meetupstatic.com\/img\/004881038276245959070\/new_logo_big.png",
+                "from_url": "http:\/\/www.meetup.com\/Paris-CogLab-Meetup-Cognitive-Science-Open-Lab\/events\/220828145\/",
+                "thumb_width": 567,
+                "thumb_height": 392,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "foBLL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Meetup on the Launchpad. Je n'avais pas appuyé sur le bouton  ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused",
+                                "unicode": "1f615"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.meetup.com\/Paris-CogLab-Meetup-Cognitive-Science-Open-Lab\/events\/220828145\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

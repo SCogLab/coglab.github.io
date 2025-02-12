@@ -1,0 +1,159 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1583154426.000200",
+        "client_msg_id": "1d6a890b-ebe6-4941-a138-485c861a13ce",
+        "text": "C'est assez proche de ce que j'aimerais ultimement faire :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1582270533.000600",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fi2+P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est assez proche de ce que j'aimerais ultimement faire "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1583184884.000200",
+        "client_msg_id": "f2ca1bc6-56c0-4cbd-96af-a90a8613b525",
+        "text": "<https:\/\/neo4j.com\/blog\/ontologies-in-neo4j-semantics-and-knowledge-graphs\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Neo4j Graph Database Platform",
+                "title": "Ontologies in Neo4j: Semantics and Knowledge Graphs",
+                "title_link": "https:\/\/neo4j.com\/blog\/ontologies-in-neo4j-semantics-and-knowledge-graphs\/",
+                "text": "Jesús Barrasa presents the two biggest uses of ontologies in graphs using Neo4j and NeoSemantics; inferences and interoperability.",
+                "fallback": "Neo4j Graph Database Platform: Ontologies in Neo4j: Semantics and Knowledge Graphs",
+                "image_url": "https:\/\/s3.amazonaws.com\/dev.assets.neo4j.com\/wp-content\/uploads\/20200218123539\/ontologies-neo4j-semantics-knowledgegraphs.jpg",
+                "image_width": 478,
+                "image_height": 250,
+                "ts": 1582099248,
+                "from_url": "https:\/\/neo4j.com\/blog\/ontologies-in-neo4j-semantics-and-knowledge-graphs\/",
+                "image_bytes": 628505,
+                "service_icon": "https:\/\/neo4j.com\/wp-content\/themes\/neo4jweb\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/neo4j.com\/blog\/ontologies-in-neo4j-semantics-and-knowledge-graphs\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aio1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/neo4j.com\/blog\/ontologies-in-neo4j-semantics-and-knowledge-graphs\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1583184911.000500",
+        "client_msg_id": "6cfa0fe3-2c01-477b-95e2-2c0c8c3785c8",
+        "text": "<https:\/\/neo4j.com\/blog\/importing-data-from-the-web-norconex-neo4j\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Neo4j Graph Database Platform",
+                "title": "Importing Data from the Web with Norconex &amp; Neo4j",
+                "title_link": "https:\/\/neo4j.com\/blog\/importing-data-from-the-web-norconex-neo4j\/",
+                "text": "Dig down into the details on how to import data from the web with Norconex and Neo4j via the example of wine varietals.",
+                "fallback": "Neo4j Graph Database Platform: Importing Data from the Web with Norconex &amp; Neo4j",
+                "image_url": "https:\/\/s3.amazonaws.com\/dev.assets.neo4j.com\/wp-content\/uploads\/20200207100525\/image22.jpg",
+                "image_width": 478,
+                "image_height": 250,
+                "ts": 1581321629,
+                "from_url": "https:\/\/neo4j.com\/blog\/importing-data-from-the-web-norconex-neo4j\/",
+                "image_bytes": 352699,
+                "service_icon": "https:\/\/neo4j.com\/wp-content\/themes\/neo4jweb\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/neo4j.com\/blog\/importing-data-from-the-web-norconex-neo4j\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ngT+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/neo4j.com\/blog\/importing-data-from-the-web-norconex-neo4j\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

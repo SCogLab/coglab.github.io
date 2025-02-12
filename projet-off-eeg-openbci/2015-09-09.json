@@ -1,0 +1,572 @@
+[
+    {
+        "user": "U04T6ATLX",
+        "type": "message",
+        "ts": "1441790364.000002",
+        "text": "Good job Salman for finding a lab interested in printing the spider. I would say it's definitely worth looking into that option further and potentially give it a try.\n\nHowever, it would be good to know more about the kind of collaboration they expect, and have Romain R look into that (what's the lab, what's the team, who's your contact, what do they expect, what's their 3D printing expertise)?\nAlso, as Thi-Mai already experienced, you might want to check their printer(s) have a large enough printing area.\n\nBy the way, what's the status of the La Paillasse 3D printer (Fly lab) ? I suspect we might have to test and try a little, and I anticipate using an onsite printer allowing us to do multiple tests quickly a real plus.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g29d4ed3a01a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/429d4ed3a01ac5b7ab4b4b036c869619.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Julien",
+            "real_name": "Julien DAUGUET",
+            "display_name": "jdauguet",
+            "team": "T03FC4NDZ",
+            "name": "jdauguet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E+wq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good job Salman for finding a lab interested in printing the spider. I would say it's definitely worth looking into that option further and potentially give it a try.\n\nHowever, it would be good to know more about the kind of collaboration they expect, and have Romain R look into that (what's the lab, what's the team, who's your contact, what do they expect, what's their 3D printing expertise)?\nAlso, as Thi-Mai already experienced, you might want to check their printer(s) have a large enough printing area.\n\nBy the way, what's the status of the La Paillasse 3D printer (Fly lab) ? I suspect we might have to test and try a little, and I anticipate using an onsite printer allowing us to do multiple tests quickly a real plus."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1441792227.000003",
+        "text": "Yes, good points <@U04T6ATLX> :simple_smile: \n\nI think that's the purpose of the meeting suggested by Salman.\nBut perhaps we can actually discuss quickly by email with them before all meet out there on Monday evening <@U03JDJWSR> ?\nWith the availability of <@U03HY4P8V>, and <@U07CFCCBG> ?\n\nRegarding La Paillasse, I was on the Conseil d'Administration (Board of Directors?) last evening.\nThe printer will be available again at the end of the building work, ie not before the end of September at best :disappointed:\n\nBTW, the Mark 3 Ultracortex is still in developement <https:\/\/github.com\/OpenBCI\/Ultracortex>\nAnd Spiderclaw is depreciated <https:\/\/github.com\/OpenBCI\/Spiderclaw>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "OpenBCI\/Ultracortex",
+                "title_link": "https:\/\/github.com\/OpenBCI\/Ultracortex",
+                "text": "Ultracortex - Files related to the ultracortex, the OpenBCI 3D-printable EEG headset currently under development",
+                "fallback": "GitHub: OpenBCI\/Ultracortex",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/6003329?v=3&s=400",
+                "from_url": "https:\/\/github.com\/OpenBCI\/Ultracortex",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "id": 1
+            },
+            {
+                "service_name": "GitHub",
+                "title": "OpenBCI\/Spiderclaw",
+                "title_link": "https:\/\/github.com\/OpenBCI\/Spiderclaw",
+                "text": "Spiderclaw - OpenBCI 3D-printable EEG headset files",
+                "fallback": "GitHub: OpenBCI\/Spiderclaw",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/6003329?v=3&s=400",
+                "from_url": "https:\/\/github.com\/OpenBCI\/Spiderclaw",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "id": 2
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Koc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, good points "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04T6ATLX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nI think that's the purpose of the meeting suggested by Salman.\nBut perhaps we can actually discuss quickly by email with them before all meet out there on Monday evening "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03JDJWSR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?\nWith the availability of "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HY4P8V"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07CFCCBG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?\n\nRegarding La Paillasse, I was on the Conseil d'Administration (Board of Directors?) last evening.\nThe printer will be available again at the end of the building work, ie not before the end of September at best "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed",
+                                "unicode": "1f61e"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nBTW, the Mark 3 Ultracortex is still in developement "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/OpenBCI\/Ultracortex"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nAnd Spiderclaw is depreciated "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/OpenBCI\/Spiderclaw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1441792368.000005",
+        "text": "ONE MORE THING : The LED Brain to print ! :heart_eyes:\n<http:\/\/www.thingiverse.com\/thing:620846>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "LED-Lit Brain by Djholt",
+                "title_link": "http:\/\/www.thingiverse.com\/thing:620846",
+                "text": "A full-scale replica of a human brain (modeled from an anatomical MRI scan) mounted on a printable stand, featuring LED lights installed within each of the three supports. We want to see one printed using glow-in-the-dark filament. If you print one, send pictures. If you happen to have an MRI scanner handy, or want to participate in a study at your local university, then it might be easier than you think to print a replica of your own brain instead.",
+                "fallback": "LED-Lit Brain by Djholt",
+                "image_url": "https:\/\/thingiverse-production-new.s3.amazonaws.com\/renders\/5c\/13\/b1\/b8\/37\/IMG_9068-3_preview_featured.jpg",
+                "from_url": "http:\/\/www.thingiverse.com\/thing:620846",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 327744,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u=r0W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ONE MORE THING : The LED Brain to print ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes",
+                                "unicode": "1f60d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.thingiverse.com\/thing:620846"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U07CFCCBG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03JDJWSR",
+        "type": "message",
+        "ts": "1441794576.000007",
+        "text": "Thanks for your timely response <@U04T6ATLX> :simple_smile:\n\n     Concerning your queries..\n- At this point, I don't know about what kind of collaboration can happen - as it'll depend on where our discussion will lead to us. Now, the lab is 'EPITECH Innovation HUB' which is a joint venture being operated by 'IONIS Education Group'. The students can work here on their start-ups, academic projects, state-funded projects etc and can also have the access of different sophisticated tools (hologram devices, robotics, 3D printers, etc - to name a few). Also, the Lab is being managed by a group of 'Alumni Students' who are always here to supervise\/guide you under crucial circumstances.\n- They have two 3D printers and also a dedicated guy who looks after them. I don't have any idea about the capacity\/ or specs, but I have sent them the link of the 3D file, upon which they didn't raise any questions and were ready to print it out.\n     Now, concerning the meeting - I've just talked with the guy (who is my contact person) and confirmed the meeting on 14th (Monday) at 6pm\/7pm (they will be here on both of these slots).",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "geb22d6490de",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/beb22d6490deaf2df715016c6c7d1577.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Salman",
+            "real_name": "Salman NADEEM",
+            "display_name": "msn",
+            "team": "T03FC4NDZ",
+            "name": "msn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IN41O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for your timely response "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04T6ATLX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n     Concerning your queries..\n- At this point, I don't know about what kind of collaboration can happen - as it'll depend on where our discussion will lead to us. Now, the lab is 'EPITECH Innovation HUB' which is a joint venture being operated by 'IONIS Education Group'. The students can work here on their start-ups, academic projects, state-funded projects etc and can also have the access of different sophisticated tools (hologram devices, robotics, 3D printers, etc - to name a few). Also, the Lab is being managed by a group of 'Alumni Students' who are always here to supervise\/guide you under crucial circumstances.\n- They have two 3D printers and also a dedicated guy who looks after them. I don't have any idea about the capacity\/ or specs, but I have sent them the link of the 3D file, upon which they didn't raise any questions and were ready to print it out.\n     Now, concerning the meeting - I've just talked with the guy (who is my contact person) and confirmed the meeting on 14th (Monday) at 6pm\/7pm (they will be here on both of these slots)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03JDJWSR",
+        "type": "message",
+        "ts": "1441794733.000008",
+        "text": "I suppose all of our team (@romain, <@U03HY4P8V> <@U04T6ATLX> <@U07CFCCBG> etc) will be here by then (as you've proposed that date to meet). However, I'll also appreciate a final confirmation (of your availability) on this channel.\nHave a nice day :simple_smile:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "geb22d6490de",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/beb22d6490deaf2df715016c6c7d1577.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Salman",
+            "real_name": "Salman NADEEM",
+            "display_name": "msn",
+            "team": "T03FC4NDZ",
+            "name": "msn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bi+pg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I suppose all of our team (@romain, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HY4P8V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04T6ATLX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07CFCCBG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " etc) will be here by then (as you've proposed that date to meet). However, I'll also appreciate a final confirmation (of your availability) on this channel.\nHave a nice day "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03JDJWSR",
+        "type": "message",
+        "ts": "1441797263.000009",
+        "text": "Quote - <@U04T6ATLX>: \na few precisions please Salman:\n- is it \"6pm to 7pm\" or \"6pm or 7pm as starting hour\" ?\n- at La Paillasse ?\n- we're meeting with your contact at the Epiteh innovation Hub ? Is JF Bonnet involved ?\n\nQuote @myself:\n- Well, its at 6pm (but if someone has any issue, we can start at 7pm too)\n- No, its at my school (where the LAB is).\n- No, Mr. JF Bonnet is not involved - I've arranged all of this on my own.\n\nLast conversation via email.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "geb22d6490de",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/beb22d6490deaf2df715016c6c7d1577.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Salman",
+            "real_name": "Salman NADEEM",
+            "display_name": "msn",
+            "team": "T03FC4NDZ",
+            "name": "msn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "woDAp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Quote - "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04T6ATLX"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": \na few precisions please Salman:\n- is it \"6pm to 7pm\" or \"6pm or 7pm as starting hour\" ?\n- at La Paillasse ?\n- we're meeting with your contact at the Epiteh innovation Hub ? Is JF Bonnet involved ?\n\nQuote @myself:\n- Well, its at 6pm (but if someone has any issue, we can start at 7pm too)\n- No, its at my school (where the LAB is).\n- No, Mr. JF Bonnet is not involved - I've arranged all of this on my own.\n\nLast conversation via email."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1441797842.000010",
+        "text": "Ok for me, but at 7pm, not earlier.\n\nMore info about Epitech Innovation Hub :\n- <http:\/\/www.epitech.eu\/laboratoires-informatiques.aspx>\n- <http:\/\/epitech.github.io\/hub\/#\/>\n\nThe main contact is Romain Lods\n- <https:\/\/www.linkedin.com\/in\/rlods>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "text": "L'Epitech Innovation Hub rassemble une communauté de passionnés qui partagent et appliquent leurs compétences dans la fabrication de solutions technologiques novatrices.",
+                "fallback": "L'Epitech Innovation Hub rassemble une communauté de passionnés qui partagent et appliquent leurs compétences dans la fabrication de solutions technologiques novatrices.",
+                "from_url": "http:\/\/www.epitech.eu\/laboratoires-informatiques.aspx",
+                "id": 1
+            },
+            {
+                "text": "Epitech Innovation Hub : Foster Epitech Students Creativity and Career Development",
+                "fallback": "Epitech Innovation Hub : Foster Epitech Students Creativity and Career Development",
+                "from_url": "http:\/\/epitech.github.io\/hub\/#\/",
+                "id": 2
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ex2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok for me, but at 7pm, not earlier.\n\nMore info about Epitech Innovation Hub :\n- "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.epitech.eu\/laboratoires-informatiques.aspx"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/epitech.github.io\/hub\/#\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThe main contact is Romain Lods\n- "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/rlods"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07CFCCBG",
+        "type": "message",
+        "ts": "1441801714.000012",
+        "text": "Ok for me for monday at 7pm too",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ca0028538aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-04-21\/36646712194_7ca0028538aa7c07b0e3_72.jpg",
+            "first_name": "Mai",
+            "real_name": "Mai",
+            "display_name": "mai",
+            "team": "T03FC4NDZ",
+            "name": "mai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vqs=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok for me for monday at 7pm too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03JDJWSR",
+        "type": "message",
+        "ts": "1441817049.000013",
+        "text": "Thanks for the direct links and also for sharing the details of Mr. Romain Lods <@U03FC5ZAK> \n\nThanks for confirming your presence as well <@U07CFCCBG> <@U03FC5ZAK>.\n\nThe address is of my School is 14\/16 Rue Voltaire, 94276 Kremlin Bicêtre Cedex (for everyone) - <http:\/\/www.epita.fr\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "geb22d6490de",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/beb22d6490deaf2df715016c6c7d1577.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Salman",
+            "real_name": "Salman NADEEM",
+            "display_name": "msn",
+            "team": "T03FC4NDZ",
+            "name": "msn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B6x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the direct links and also for sharing the details of Mr. Romain Lods "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nThanks for confirming your presence as well "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07CFCCBG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\nThe address is of my School is 14\/16 Rue Voltaire, 94276 Kremlin Bicêtre Cedex (for everyone) - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.epita.fr\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "user": "UPUDWG6J1",
+        "type": "message",
+        "ts": "1582645562.002300",
+        "client_msg_id": "7f831ebe-b7b9-42a9-bc7c-fef29eede255",
+        "text": "<https:\/\/www.youtube.com\/watch?v=8S0FDjFBj8o>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g803d5a932e9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/803d5a932e92f6a5acc331411d8e39b3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "david trocellier",
+            "display_name": "david trocellier",
+            "team": "T03FC4NDZ",
+            "name": "david.trocellier33",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1582565877.001300",
+        "parent_user_id": "U6EPG5PTQ",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "How to sound smart in your TEDx Talk | Will Stephen | TEDxNewYork",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=8S0FDjFBj8o",
+                "author_name": "TEDx Talks",
+                "author_link": "https:\/\/www.youtube.com\/user\/TEDxTalks",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/8S0FDjFBj8o\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: How to sound smart in your TEDx Talk | Will Stephen | TEDxNewYork",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/8S0FDjFBj8o?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=8S0FDjFBj8o",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=8S0FDjFBj8o"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+NC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=8S0FDjFBj8o"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

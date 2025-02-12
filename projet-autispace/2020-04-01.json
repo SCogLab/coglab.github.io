@@ -1,0 +1,65 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1585771193.000300",
+        "client_msg_id": "7a48c221-690f-4eb4-bab9-c0e5fa56a7bf",
+        "text": "Hyper interessant !\n\n<https:\/\/www.youtube.com\/watch?v=sJ1mLkgvWw4&amp;>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Mandala Ball VR - Pediatric ADHD Therapy",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=sJ1mLkgvWw4&amp;",
+                "author_name": "Eric Tao",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCIHaUMbBJksnJcjoieYaoTg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/sJ1mLkgvWw4\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Mandala Ball VR - Pediatric ADHD Therapy",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/sJ1mLkgvWw4?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=sJ1mLkgvWw4&amp;",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=sJ1mLkgvWw4&amp;"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s+X2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hyper interessant !\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=sJ1mLkgvWw4&"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

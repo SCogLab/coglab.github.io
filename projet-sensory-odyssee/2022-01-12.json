@@ -1,0 +1,226 @@
+[
+    {
+        "user": "UAMPR1P5L",
+        "type": "message",
+        "ts": "1642003314.000100",
+        "client_msg_id": "8ed8b95c-8064-49c0-8b91-4ce3377d0683",
+        "text": "Hello! Désolé, j’ai un imprévu et je ne pourrai finalement pas venir ce soir. Je peux cependant me connecter de 19h00 à 19h30 pour faire le point si c’est possible pour vous.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g73db985d858",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273db985d858035ed23c0594718e0eac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "mesca",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "coglab644",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1641306028.000300",
+        "parent_user_id": "UAMPR1P5L",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t65oS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello! Désolé, j’ai un imprévu et je ne pourrai finalement pas venir ce soir. Je peux cependant me connecter de 19h00 à 19h30 pour faire le point si c’est possible pour vous."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02GLDK69UJ",
+        "type": "message",
+        "ts": "1642003518.000300",
+        "client_msg_id": "bd039a27-3561-4b30-97b7-e880e8f3b94b",
+        "text": "Bonjour, suite au mail de Romain, notamment concernant les mesures sanitaires, la réunion devrait se tenir en ligne, peux-tu confirmer <@U59MQ46DA>? Dans ce cas nous serions connecté à ce moment là.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "ea8311753d0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-28\/2671649382305_ea8311753d0c43d01df7_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "lesur.benjamin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1641306028.000300",
+        "parent_user_id": "UAMPR1P5L",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M8d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour, suite au mail de Romain, notamment concernant les mesures sanitaires, la réunion devrait se tenir en ligne, peux-tu confirmer "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? Dans ce cas nous serions connecté à ce moment là."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1642006289.002300",
+        "client_msg_id": "F6678955-007B-4C08-903E-8327CCC12847",
+        "text": "Hello <@U02GLDK69UJ> , je suis actuellement au CRI a priori, c’est en hybride, mais je dois mettre en place le Google Meet.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1641306028.000300",
+        "parent_user_id": "UAMPR1P5L",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oIih",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02GLDK69UJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , je suis actuellement au CRI a priori, c’est en hybride, mais je dois mettre en place le Google Meet."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02GLDK69UJ",
+        "type": "message",
+        "ts": "1642008541.002500",
+        "client_msg_id": "689363c3-538a-430c-8495-bf59b60dc79c",
+        "text": "<@U59MQ46DA> est-ce que tu crées un nouveau lien pour la visio où on utilise le lien de l'invitation par mail?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "ea8311753d0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-28\/2671649382305_ea8311753d0c43d01df7_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "lesur.benjamin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1641306028.000300",
+        "parent_user_id": "UAMPR1P5L",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LD9cm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " est-ce que tu crées un nouveau lien pour la visio où on utilise le lien de l'invitation par mail?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UAMPR1P5L",
+        "type": "message",
+        "ts": "1642009961.002700",
+        "client_msg_id": "bd5cdb30-28ca-4f81-8f13-6032fd72b1f2",
+        "text": "<@U01RUJ02ECS> c’est bon pour toi ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g73db985d858",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273db985d858035ed23c0594718e0eac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "mesca",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "coglab644",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1641489884.000800",
+        "parent_user_id": "UAMPR1P5L",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9n+F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RUJ02ECS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " c’est bon pour toi ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

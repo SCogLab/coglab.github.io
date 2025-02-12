@@ -1,0 +1,135 @@
+[
+    {
+        "user": "U01804NJ7AQ",
+        "type": "message",
+        "ts": "1715573663.762709",
+        "client_msg_id": "6BD4A40F-B8EB-4558-A041-34EB8DE83BCC",
+        "text": "I don’t know anything about Zephyr. The closet I get to this kind of dev work is with something like OpenWRT",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g7080a90c528",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7080a90c528526f8129488e607562782.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Morgan Hough",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "morgan.hough",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715573663.762709",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1715608493.335209",
+        "reply_users": [
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1715608493.335209"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ud6ii",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don’t know anything about Zephyr. The closet I get to this kind of dev work is with something like OpenWRT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01804NJ7AQ",
+        "type": "message",
+        "ts": "1715573792.108319",
+        "client_msg_id": "BF0299FA-C842-46FC-96A8-FAC5B8C18240",
+        "text": "BTW <@U065TGVPMQA>, I will be a volunteer at the Foresight Institute WBE meeting May 21&amp;22 in Berkeley <https:\/\/foresight.org\/2024-foresight-neurotech-bci-and-wbe-for-safe-ai-workshop\/|https:\/\/foresight.org\/2024-foresight-neurotech-bci-and-wbe-for-safe-ai-workshop\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g7080a90c528",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7080a90c528526f8129488e607562782.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Morgan Hough",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "morgan.hough",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715573792.108319",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1715611392.918549",
+        "reply_users": [
+            "U065TGVPMQA",
+            "U01804NJ7AQ"
+        ],
+        "replies": [
+            {
+                "user": "U065TGVPMQA",
+                "ts": "1715584332.561489"
+            },
+            {
+                "user": "U01804NJ7AQ",
+                "ts": "1715611392.918549"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KRAZb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "BTW "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U065TGVPMQA"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I will be a volunteer at the Foresight Institute WBE meeting May 21&22 in Berkeley "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/foresight.org\/2024-foresight-neurotech-bci-and-wbe-for-safe-ai-workshop\/",
+                                "text": "https:\/\/foresight.org\/2024-foresight-neurotech-bci-and-wbe-for-safe-ai-workshop\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U59MQ46DA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card Opscidia added to list Partenaires on board Gestion CogLab (administrateur).",
+                "text": "In list *Partenaires* on *<https:\/\/trello.com\/b\/jSnI3dXM|Gestion CogLab (administrateur)>*.",
+                "pretext": "New card created",
+                "title": "Opscidia",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/TKJyHV7w",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1562921886.000100",
+        "bot_id": "B66HQV43C"
+    }
+]

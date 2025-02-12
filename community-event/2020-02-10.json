@@ -1,0 +1,95 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #134: <!date^1581353100^{date_short_pretty} from {time}|February 10th, 2020 from 5:45 PM> to <!date^1581368400^{time}|10:00 PM GMT+0100>",
+                "text": "<!date^1581353100^{date_short_pretty} from {time}|February 10th, 2020 from 5:45 PM> to <!date^1581368400^{time}|10:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=CRI%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France%2C+Charles+V-0-MakerLab+Classroom+%2830%29|CRI, 8 bis Rue Charles V, 75004 Paris, France, Charles V-0-MakerLab Classroom (30)>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #134",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=N3R1aTRiamc1N2FpYTFyZmZyYXI5YjBoYmFfMjAyMDAyMTBUMTY0NTAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1581349502.000100",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: CJC-SC: <!date^1587189600^{date_short_pretty} from {time}|April 17th, 2020 from 8:00 AM> to <!date^1587225600^{time}|6:00 PM GMT+0200>",
+                "text": "<!date^1587189600^{date_short_pretty} from {time}|April 17th, 2020 from 8:00 AM> to <!date^1587225600^{time}|6:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Ens+Ulm%2C+45+Rue+d%27Ulm%2C+75005+Paris%2C+France|Ens Ulm, 45 Rue d'Ulm, 75005 Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "CJC-SC",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Nmd0Z2dwMnNhaDN0OG83ZXF0OW5ma2F0azEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1581359466.000200",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1581362763.001000",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1581363804.000000"
+        },
+        "client_msg_id": "e7ec969a-e50f-47e2-b283-fafae00a5c0a",
+        "text": "w\/ Alex Castillo (Neurosity) et Pierre Clisson (Timeflux) : <https:\/\/www.devbreak.io>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "odV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "w\/ Alex Castillo (Neurosity) et Pierre Clisson (Timeflux) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.devbreak.io"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

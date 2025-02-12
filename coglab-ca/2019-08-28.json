@@ -1,0 +1,104 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1566986800.003800",
+        "client_msg_id": "ca680a8e-dd44-483f-93a8-90df8cf92d82",
+        "text": "[Message de service]\nLe 10 septembre, l’hébergement OVH associé au site web de l’association va — enfin — être automatiquement migré sur une nouvelle infrastructure plus moderne.\nPar conséquent, il est possible qu’il y ai quelques perturbations (indisponibilité) des services web associé à cette date (site, email, ...).\nJ’en ai noté quelque unes également ces derniers jours.\nCette migration va nous permettre un gain de performance important en principe.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566986800.003800",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1568752471.001700",
+        "reply_users": [
+            "U03FEH3N8",
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FEH3N8",
+                "ts": "1567060871.000600"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1567153097.000100"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1568752471.001700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HPL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[Message de service]\nLe 10 septembre, l’hébergement OVH associé au site web de l’association va — enfin — être automatiquement migré sur une nouvelle infrastructure plus moderne.\nPar conséquent, il est possible qu’il y ai quelques perturbations (indisponibilité) des services web associé à cette date (site, email, ...).\nJ’en ai noté quelque unes également ces derniers jours.\nCette migration va nous permettre un gain de performance important en principe."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1567060871.000600",
+        "client_msg_id": "c0d22d58-29f1-4d8d-93f2-6aef2c78c5e4",
+        "text": "Ah cool, c'est un changement chez OVH ou c'est toi qui a pris une option différente? je ne me rappelle plus",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566986800.003800",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i22M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah cool, c'est un changement chez OVH ou c'est toi qui a pris une option différente? je ne me rappelle plus"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

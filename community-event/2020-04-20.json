@@ -1,0 +1,122 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "FSC 2020: <!date^1587394800^{date_short_pretty} from {time}|April 20th, 2020 from 5:00 PM> to <!date^1587398400^{time}|6:00 PM GMT+0200>",
+                "text": "<!date^1587394800^{date_short_pretty} from {time}|April 20th, 2020 from 5:00 PM> to <!date^1587398400^{time}|6:00 PM GMT+0200>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "FSC 2020",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NDdsZmxzNnR2c2hkaWZucjYzZ21za3NjanZfMjAyMDA0MjBUMTUwMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1587391203.007500",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #143 [Online]: <!date^1587398400^{date_short_pretty} from {time}|April 20th, 2020 from 6:00 PM> to <!date^1587411000^{time}|9:30 PM GMT+0200>",
+                "text": "<!date^1587398400^{date_short_pretty} from {time}|April 20th, 2020 from 6:00 PM> to <!date^1587411000^{time}|9:30 PM GMT+0200> at <https:\/\/join.skype.com\/be7Ty93o77rj>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #143 [Online]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NTgwazY5NGkwN2FqcHR0MmY3NnQ0MTdlbnBfMjAyMDA0MjBUMTYwMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1587394802.007600",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1587395070.008000",
+        "client_msg_id": "3c53d35f-c56d-452e-bc7a-049e7aa7bdad",
+        "text": "Conférence du jour du Forum des Sciences Cognitive\n<https:\/\/www.youtube.com\/watch?v=R_pa7jDlyAQ>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "FSC 2020 - Steven Laureys : “ La Méditation, c'est bon pour le cerveau ”",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=R_pa7jDlyAQ",
+                "author_name": "Cognivence Paris",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCzEr8mBYevhkIifOeO6YEgg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/R_pa7jDlyAQ\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: FSC 2020 - Steven Laureys : “ La Méditation, c'est bon pour le cerveau ”",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/R_pa7jDlyAQ?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=R_pa7jDlyAQ",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=R_pa7jDlyAQ"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bnjnD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Conférence du jour du Forum des Sciences Cognitive\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=R_pa7jDlyAQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U6EPG5PTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

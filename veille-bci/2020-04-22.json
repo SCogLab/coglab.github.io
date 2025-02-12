@@ -1,0 +1,53 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1587547796.007700",
+        "client_msg_id": "eeb8b5b4-5256-45e4-b7da-240b27f891cf",
+        "text": "<https:\/\/www.neuromore.com\/open-source>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "neuromore",
+                "title": "Open Source — neuromore",
+                "title_link": "https:\/\/www.neuromore.com\/open-source",
+                "text": "We believe in the potential of creativity.",
+                "fallback": "neuromore: Open Source — neuromore",
+                "from_url": "https:\/\/www.neuromore.com\/open-source",
+                "service_icon": "https:\/\/assets.squarespace.com\/universal\/default-favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.neuromore.com\/open-source"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qLC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.neuromore.com\/open-source"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

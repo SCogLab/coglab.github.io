@@ -1,0 +1,296 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1581970612.004800",
+        "edited": {
+            "user": "U03FC5ZAK",
+            "ts": "1581971386.000000"
+        },
+        "client_msg_id": "671e0fc3-c4e7-4fa6-84dc-4b2336a3890a",
+        "text": "Bonsoir à tous <!channel> :spock-hand:\n\n:date: Pour notre prochaine HackNight, la *semaine prochaine* (lundi 24 février), nous ferons une répétition de notre *MasterClass* sur les neurotechnologies avec <@U59MQ46DA>\n\n:school_satchel: Nous interviendrons à l'École 42 mercredi prochain, puis se tiendra un Hackathon du 13 au 15 mars. Plus d'information à venir dans la semaine.\n\n:brain: Pour les <http:\/\/intéressé.es|intéressé.e.s>, joignez nous à nos échanges sur <#CR01XS7KN|coglab-masterclass>\n\n:warning: A noter que le lundi *2 mars*, il n'y aura exceptionnellement *PAS* de HackNight au CRI",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ri5t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonsoir à tous "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "spock-hand",
+                                "unicode": "1f596"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "date",
+                                "unicode": "1f4c5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Pour notre prochaine HackNight, la "
+                            },
+                            {
+                                "type": "text",
+                                "text": "semaine prochaine",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (lundi 24 février), nous ferons une répétition de notre "
+                            },
+                            {
+                                "type": "text",
+                                "text": "MasterClass",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " sur les neurotechnologies avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "school_satchel",
+                                "unicode": "1f392"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Nous interviendrons à l'École 42 mercredi prochain, puis se tiendra un Hackathon du 13 au 15 mars. Plus d'information à venir dans la semaine.\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "brain",
+                                "unicode": "1f9e0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Pour les "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/intéressé.es",
+                                "text": "intéressé.e.s"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", joignez nous à nos échanges sur "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CR01XS7KN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "warning",
+                                "unicode": "26a0-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " A noter que le lundi "
+                            },
+                            {
+                                "type": "text",
+                                "text": "2 mars",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", il n'y aura exceptionnellement "
+                            },
+                            {
+                                "type": "text",
+                                "text": "PAS",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " de HackNight au CRI"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "ULSDVUUVA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1581971430.005600",
+        "client_msg_id": "d1854197-3e78-44b6-a890-ec10e14deccb",
+        "text": "Erratum: <@U59MQ46DA> assurera la permanence au CRI le 2 mars :rocket:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1581971430.005600",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1582014501.006400",
+        "reply_users": [
+            "ULSDVUUVA",
+            "U59MQ46DA",
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "ULSDVUUVA",
+                "ts": "1582003562.005800"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1582013932.006000"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1582014501.006400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YFx8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Erratum: "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " assurera la permanence au CRI le 2 mars "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rocket",
+                                "unicode": "1f680"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "ULSDVUUVA",
+        "type": "message",
+        "ts": "1582003562.005800",
+        "client_msg_id": "e702d744-7e98-40d1-a5d3-4a7b24986d56",
+        "text": "#hans4vicepresident :champagne:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "d6568f25a9a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-08\/3075305835828_d6568f25a9a41b2be2ef_72.jpg",
+            "first_name": "Maike",
+            "real_name": "Maike",
+            "display_name": "Maike",
+            "team": "T03FC4NDZ",
+            "name": "maikeherbort",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1581971430.005600",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bf6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#hans4vicepresident "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "champagne",
+                                "unicode": "1f37e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

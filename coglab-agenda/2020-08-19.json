@@ -1,0 +1,47 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "[Option] Apéro CogLab IRL: <!date^1597852800^{date_short_pretty} from {time}|August 19th, 2020 from 6:00 PM> to <!date^1597860000^{time}|8:00 PM GMT+0200>",
+                "text": "<!date^1597852800^{date_short_pretty} from {time}|August 19th, 2020 from 6:00 PM> to <!date^1597860000^{time}|8:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Quai+de+la+Seine%2C+75019+Paris%2C+France|Quai de la Seine, 75019 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "[Option] Apéro CogLab IRL",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MzY0bzZkbGYxanNvZjE5cTg5YTl2NG5naHIgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1597849225.000800",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CogLab - Apéro IRL: <!date^1598281200^{date_short_pretty} from {time}|August 24th, 2020 from 5:00 PM> to <!date^1598295600^{time}|9:00 PM GMT+0200>",
+                "text": "<!date^1598281200^{date_short_pretty} from {time}|August 24th, 2020 from 5:00 PM> to <!date^1598295600^{time}|9:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Quai+de+la+Seine%2C+75019+Paris%2C+France|Quai de la Seine, 75019 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab - Apéro IRL",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MzY0bzZkbGYxanNvZjE5cTg5YTl2NG5naHIgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1597849386.000900",
+        "bot_id": "B4SJBP2L8"
+    }
+]

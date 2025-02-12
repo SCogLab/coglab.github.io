@@ -1,0 +1,94 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1666028306.098919",
+        "client_msg_id": "d5531474-d3ad-41e6-aee2-b562068894b2",
+        "text": "<!channel> N’hésitez pas à diffuser l’invitation à participer au *Hackathon NeuroTechX 2022* :jack_o_lantern:\n\nAvec toutes les informations sur notre édition locale à l’école 42, Paris,\nAinsi que la Masterclass de préchauffe ce jeudi après-midi ! :technologist:\n\nCette page dédiée contient toutes les infos utile et sera mise à jour régulièrement <https:\/\/coglab.fr\/ntxhack2022\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/coglab.fr\/ntxhack2022\/",
+                "ts": 1665962208,
+                "thumb_url": "http:\/\/img.youtube.com\/vi\/_NGEr8yuonc\/0.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "service_icon": "https:\/\/i0.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=180%2C180&amp;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/coglab.fr\/ntxhack2022\/",
+                "fallback": "CogLab, NeuroTechX Paris: Hackathon NeuroTechX 2022",
+                "text": "Édition #NTXhack2022 locale à Paris Cette page est dédiée à l’évènement local et en présentiel du Hackathon NeuroTechX qui se tiendra à l’École 42.   Rejoignez-nous en tant que participa…",
+                "title": "Hackathon NeuroTechX 2022",
+                "title_link": "https:\/\/coglab.fr\/ntxhack2022\/",
+                "service_name": "CogLab, NeuroTechX Paris"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yOo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " N’hésitez pas à diffuser l’invitation à participer au "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hackathon NeuroTechX 2022",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "jack_o_lantern",
+                                "unicode": "1f383"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAvec toutes les informations sur notre édition locale à l’école 42, Paris,\nAinsi que la Masterclass de préchauffe ce jeudi après-midi ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "technologist",
+                                "unicode": "1f9d1-200d-1f4bb"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nCette page dédiée contient toutes les infos utile et sera mise à jour régulièrement "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.fr\/ntxhack2022\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

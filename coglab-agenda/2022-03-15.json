@@ -1,0 +1,25 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "Event updated: [tentative][CogLab] C.A. 2022.1: <!date^1647622800^{date_short_pretty} from {time}|March 18th, 2022 from 6:00 PM> to <!date^1647628200^{time}|7:30 PM GMT+0100>",
+                "text": "<!date^1647622800^{date_short_pretty} from {time}|March 18th, 2022 from 6:00 PM> to <!date^1647628200^{time}|7:30 PM GMT+0100> at <https:\/\/meet.jit.si\/CogLabCA2022>",
+                "pretext": "Calendar event updated",
+                "title": "[tentative][CogLab] C.A. 2022.1",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MGJldWdlMGczaDkwM2oxa25mYmhrYWh2aWIgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "more",
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1647353889.921889",
+        "bot_id": "B4SJBP2L8"
+    }
+]

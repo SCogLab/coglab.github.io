@@ -1,0 +1,68 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "Event updated: XR Biosense - Day 2: <!date^1645548300^{date_short_pretty} from {time}|February 22nd, 2022 from 5:45 PM> to <!date^1645571700^{time}|12:15 AM GMT+0100>",
+                "text": "<!date^1645548300^{date_short_pretty} from {time}|February 22nd, 2022 from 5:45 PM> to <!date^1645571700^{time}|12:15 AM GMT+0100>",
+                "pretext": "Calendar event updated",
+                "title": "XR Biosense - Day 2",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NzI4NDU1YmRjYjIyY2s1aW05cDl1NWQ3anUgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1644269228.624729",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "Event updated: XR Biosense - Day 1: <!date^1645461900^{date_short_pretty} from {time}|February 21st, 2022 from 5:45 PM> to <!date^1645476300^{time}|9:45 PM GMT+0100>",
+                "text": "<!date^1645461900^{date_short_pretty} from {time}|February 21st, 2022 from 5:45 PM> to <!date^1645476300^{time}|9:45 PM GMT+0100>",
+                "pretext": "Calendar event updated",
+                "title": "XR Biosense - Day 1",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NnRwZ21rYzByb2hhdmZmamVqc2cwNGVoNjAgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1644269228.668939",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "Event updated: [Option] XR Biosense - Workshop: <!date^1646067600^{date_short_pretty} from {time}|February 28th, 2022 from 6:00 PM> to <!date^1646082000^{time}|10:00 PM GMT+0100>",
+                "text": "<!date^1646067600^{date_short_pretty} from {time}|February 28th, 2022 from 6:00 PM> to <!date^1646082000^{time}|10:00 PM GMT+0100>",
+                "pretext": "Calendar event updated",
+                "title": "[Option] XR Biosense - Workshop",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NG9kcWhoMnMzYXNvNm5ycmYyb3E0ZHJzN3Agc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1644269228.701979",
+        "bot_id": "B4SJBP2L8"
+    }
+]

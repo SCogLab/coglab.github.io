@@ -1,0 +1,62 @@
+[
+    {
+        "user": "U01804NJ7AQ",
+        "type": "message",
+        "ts": "1710525181.652199",
+        "client_msg_id": "A646AA96-74F1-44D0-B7A3-D66D099D7AAF",
+        "text": "Revision of DyNeMo paper <https:\/\/www.biorxiv.org\/content\/10.1101\/2024.01.12.567026v2|https:\/\/www.biorxiv.org\/content\/10.1101\/2024.01.12.567026v2>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g7080a90c528",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7080a90c528526f8129488e607562782.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Morgan Hough",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "morgan.hough",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.biorxiv.org\/content\/10.1101\/2024.01.12.567026v2",
+                "service_icon": "https:\/\/www.biorxiv.org\/sites\/default\/files\/images\/favicon.ico",
+                "thumb_url": "https:\/\/www.biorxiv.org\/sites\/default\/files\/images\/biorxiv_logo_homepage7-5-small.png",
+                "thumb_width": 252,
+                "thumb_height": 252,
+                "ts": 1710486000,
+                "id": 1,
+                "original_url": "https:\/\/www.biorxiv.org\/content\/10.1101\/2024.01.12.567026v2",
+                "fallback": "bioRxiv: Dynamic Network Analysis of Electrophysiological Task Data",
+                "text": "An important approach for studying the human brain is to use functional neuroimaging combined with a task. In electrophysiological data this often involves a time-frequency analysis, in which recorded brain activity is time-frequency transformed and epoched around task events of interest, followed by trial-averaging of the power. Whilst this simple approach can reveal fast oscillatory dynamics, the brain regions are analysed one at a time. This causes difficulties for interpretation and a debilitating number of multiple comparisons. In addition, it is now recognised that the brain responds to tasks through the coordinated activity of networks of brain areas. As such, techniques that take a whole-brain network perspective are needed. Here, we show how the oscillatory task responses from conventional time-frequency approaches, can be represented more parsimoniously at the network level using two state-of-the-art methods: the HMM (Hidden Markov Model) and DyNeMo (Dynamic Network Modes). Both methods reveal frequency-resolved networks of oscillatory activity with millisecond resolution. Comparing DyNeMo, HMM and traditional oscillatory response analysis, we show DyNeMo can identify task activations\/deactivations that the other approaches fail to detect. DyNeMo offers a powerful new method for analysing task data from the perspective of dynamic brain networks.\n\n### Competing Interest Statement\n\nThe authors have declared no competing interest.",
+                "title": "Dynamic Network Analysis of Electrophysiological Task Data",
+                "title_link": "https:\/\/www.biorxiv.org\/content\/10.1101\/2024.01.12.567026v2",
+                "service_name": "bioRxiv"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oXKaE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Revision of DyNeMo paper "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.biorxiv.org\/content\/10.1101\/2024.01.12.567026v2",
+                                "text": "https:\/\/www.biorxiv.org\/content\/10.1101\/2024.01.12.567026v2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

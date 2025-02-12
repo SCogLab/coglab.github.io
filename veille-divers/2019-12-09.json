@@ -1,0 +1,108 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1575905795.001000",
+        "client_msg_id": "fae9b3dc-85fe-4d97-92f8-2bbbae34da13",
+        "text": "Une étude montre que la musique est ‘universelle’ :notes:\n<https:\/\/science.sciencemag.org\/content\/366\/6468\/eaax0868>\n\n_Source_\n_<https:\/\/www.numerama.com\/sciences\/574267-toute-la-musique-du-monde-obeit-a-la-meme-grammaire-universelle.html>_",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Science",
+                "title": "Universality and diversity in human song",
+                "title_link": "https:\/\/science.sciencemag.org\/content\/366\/6468\/eaax0868",
+                "fallback": "Science: Universality and diversity in human song",
+                "image_url": "https:\/\/science.sciencemag.org\/sites\/default\/files\/highwire\/sci\/366\/6468.cover-source.gif",
+                "ts": 1574409600,
+                "from_url": "https:\/\/science.sciencemag.org\/content\/366\/6468\/eaax0868",
+                "image_width": 197,
+                "image_height": 250,
+                "image_bytes": 53913,
+                "service_icon": "https:\/\/science.sciencemag.org\/sites\/default\/files\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/science.sciencemag.org\/content\/366\/6468\/eaax0868"
+            },
+            {
+                "service_name": "Numerama",
+                "title": "Toute la musique du monde obéit à la même grammaire universelle",
+                "title_link": "https:\/\/www.numerama.com\/sciences\/574267-toute-la-musique-du-monde-obeit-a-la-meme-grammaire-universelle.html",
+                "text": "Vous avez la sensation que la musique a ce « petit quelque chose » d'universel ? Une équipe de chercheurs apporte des données scientifiques pour appuyer cette idée.",
+                "fallback": "Numerama: Toute la musique du monde obéit à la même grammaire universelle",
+                "image_url": "https:\/\/www.numerama.com\/content\/uploads\/2019\/11\/sheet-music-1229481_1920.jpg",
+                "image_width": 378,
+                "image_height": 250,
+                "ts": 1574417419,
+                "from_url": "https:\/\/www.numerama.com\/sciences\/574267-toute-la-musique-du-monde-obeit-a-la-meme-grammaire-universelle.html",
+                "image_bytes": 318021,
+                "service_icon": "https:\/\/www.numerama.com\/content\/uploads\/2015\/12\/w-logo-blue.png",
+                "id": 2,
+                "original_url": "https:\/\/www.numerama.com\/sciences\/574267-toute-la-musique-du-monde-obeit-a-la-meme-grammaire-universelle.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5qJ4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Une étude montre que la musique est ‘universelle’ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "notes",
+                                "unicode": "1f3b6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/science.sciencemag.org\/content\/366\/6468\/eaax0868"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Source",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.numerama.com\/sciences\/574267-toute-la-musique-du-monde-obeit-a-la-meme-grammaire-universelle.html",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

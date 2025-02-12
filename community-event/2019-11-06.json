@@ -1,0 +1,86 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1573042444.013900",
+        "client_msg_id": "0fab3476-b2bd-42bc-9a54-7c11a67fa05f",
+        "text": "<https:\/\/www.neuroergonomicsconference.um.ifi.lmu.de\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vHZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.neuroergonomicsconference.um.ifi.lmu.de\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: CogLab HackNight #125: <!date^1574096400^{date_short_pretty} from {time}|November 18th, 2019 from 6:00 PM> to <!date^1574110800^{time}|10:00 PM GMT+0100>",
+                "text": "<!date^1574096400^{date_short_pretty} from {time}|November 18th, 2019 from 6:00 PM> to <!date^1574110800^{time}|10:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Centre+de+Recherche+Interdisciplinaire+%28CRI%29%2C+8bis+Rue+Charles+V%2C+75004+Paris%2C+France|Centre de Recherche Interdisciplinaire (CRI), 8bis Rue Charles V, 75004 Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "CogLab HackNight #125",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Mjl2dTdrZmN2NmdmczA0dHNmajg0MThmdTcgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1573043832.014000",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CogLab HackNight #125: <!date^1574096400^{date_short_pretty} from {time}|November 18th, 2019 from 6:00 PM> to <!date^1574110800^{time}|10:00 PM GMT+0100>",
+                "text": "<!date^1574096400^{date_short_pretty} from {time}|November 18th, 2019 from 6:00 PM> to <!date^1574110800^{time}|10:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Centre+de+Recherche+Interdisciplinaire+%28CRI%29%2C+8bis+Rue+Charles+V%2C+75004+Paris%2C+France%2C+Charles+V-0-MakerLab+Classroom+%2830%29|Centre de Recherche Interdisciplinaire (CRI), 8bis Rue Charles V, 75004 Paris, France, Charles V-0-MakerLab Classroom (30)>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab HackNight #125",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Mjl2dTdrZmN2NmdmczA0dHNmajg0MThmdTcgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1573044552.014100",
+        "bot_id": "B4SJBP2L8"
+    }
+]

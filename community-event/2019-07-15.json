@@ -1,0 +1,108 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CogLab @ Epita Summer School: <!date^1563350400^{date_short_pretty} from {time}|July 17th, 2019 from 10:00 AM> to <!date^1563377400^{time}|5:30 PM GMT+0200>",
+                "text": "<!date^1563350400^{date_short_pretty} from {time}|July 17th, 2019 from 10:00 AM> to <!date^1563377400^{time}|5:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=EPITA%2C+66+Rue+Guy+M%C3%B4quet%2C+94800+Villejuif%2C+France|EPITA, 66 Rue Guy Môquet, 94800 Villejuif, France>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab @ Epita Summer School",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Nmdvcjhpc250NHZxYnV1amxwbnVwcjh1c3Agc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1563204794.000100",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1563204906.000900",
+        "client_msg_id": "c16fdc8b-ada3-4fcc-aff9-979d9ebd8131",
+        "text": "Info : <@U59MQ46DA> et moi-même interviendrons à une Summer School dans le cadre d’une collaboration sur le <#CL6EXG9EY|projet-bci-voyager>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l41ow",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Info : "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et moi-même interviendrons à une Summer School dans le cadre d’une collaboration sur le "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CL6EXG9EY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "Apéro Sciences ouvertes HackYourPhD: <!date^1563213600^{date_short_pretty} from {time}|July 15th, 2019 from 8:00 PM> to <!date^1563224400^{time}|11:00 PM GMT+0200>",
+                "text": "<!date^1563213600^{date_short_pretty} from {time}|July 15th, 2019 from 8:00 PM> to <!date^1563224400^{time}|11:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Centre+de+Recherche+Interdisciplinaire+%28CRI%29%2C+8%2C+8bis+Rue+Charles+V%2C+75004+Paris%2C+France|Centre de Recherche Interdisciplinaire (CRI), 8, 8bis Rue Charles V, 75004 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "Apéro Sciences ouvertes HackYourPhD",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Nm5wMzFocGtibG1hcGxkNDRwNGR2dTc2am1fMjAxOTA3MTVUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1563210001.001100",
+        "bot_id": "B4SJBP2L8"
+    }
+]

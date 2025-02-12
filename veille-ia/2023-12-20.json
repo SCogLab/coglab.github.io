@@ -1,0 +1,53 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1703062074.456359",
+        "client_msg_id": "8311c11a-b501-4c85-ac8b-7311ff4d8f01",
+        "text": "<https:\/\/mcml.ai\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/mcml.ai\/",
+                "service_icon": "https:\/\/mcml.ai\/favicon\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/mcml.ai\/",
+                "fallback": "MCML - Munich Center for Machine Learning",
+                "text": "The MCML is a top place for AI and ML research in Europe. We attract the most promising researchers and transfer AI potential to industry and society.",
+                "title": "MCML - Munich Center for Machine Learning",
+                "title_link": "https:\/\/mcml.ai\/",
+                "service_name": "mcml.ai"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EOgN4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mcml.ai\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

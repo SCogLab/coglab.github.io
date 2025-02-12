@@ -1,0 +1,72 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: OpenCogLab #5: <!date^1637775000^{date_short_pretty} from {time}|November 24th, 2021 from 6:30 PM> to <!date^1637789400^{time}|10:30 PM GMT+0100>",
+                "text": "<!date^1637775000^{date_short_pretty} from {time}|November 24th, 2021 from 6:30 PM> to <!date^1637789400^{time}|10:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=CRI+Centre+de+recherches+interdisciplinaires%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France|CRI Centre de recherches interdisciplinaires, 8 bis Rue Charles V, 75004 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "OpenCogLab #5",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Y2dwbWFjcjJjZGltYWI5bWM1aDYyYjlrNzBxamliOXBjNHMzMmI5bTZ0aGpnb3IzNzByMzBjYjE2OCBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1637742496.004500",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "OpenCogLab #5: <!date^1637775000^{date_short_pretty} from {time}|November 24th, 2021 from 6:30 PM> to <!date^1637789400^{time}|10:30 PM GMT+0100>",
+                "text": "<!date^1637775000^{date_short_pretty} from {time}|November 24th, 2021 from 6:30 PM> to <!date^1637789400^{time}|10:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=CRI+Centre+de+recherches+interdisciplinaires%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France|CRI Centre de recherches interdisciplinaires, 8 bis Rue Charles V, 75004 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "OpenCogLab #5",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Y2dwbWFjcjJjZGltYWI5bWM1aDYyYjlrNzBxamliOXBjNHMzMmI5bTZ0aGpnb3IzNzByMzBjYjE2OCBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1637771401.004600",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event cancelled: Maker Faire Paris 2021 - Éducation: <!date^1637931600^{date_short_pretty} from {time}|November 26th, 2021 from 2:00 PM> to <!date^1637938800^{time}|4:00 PM GMT+0100>",
+                "text": "<!date^1637931600^{date_short_pretty} from {time}|November 26th, 2021 from 2:00 PM> to <!date^1637938800^{time}|4:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=EN+LIGNE|EN LIGNE>",
+                "pretext": "Calendar event was cancelled",
+                "title": "Maker Faire Paris 2021 - Éducation",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NGgwbTBkMXVkbHBlbHFidHJlNG9lMXQxb2ogc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1637786298.004700",
+        "bot_id": "B4SJBP2L8"
+    }
+]

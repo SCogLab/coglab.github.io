@@ -1,0 +1,115 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1551007733.000500",
+        "client_msg_id": "58a5141b-dc61-4a0a-b9f5-f201f0720888",
+        "text": "Il faut attendre que le kit soit dispo",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rew",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il faut attendre que le kit soit dispo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1551007829.001900",
+        "client_msg_id": "f15666ed-d334-4382-b98a-d19923b12aca",
+        "text": "Le replay de la conférence _piloter un objet par l’activité cérébrale_ de la cité des sciences est dispo (ajoutée dans le CKG) : <http:\/\/www.cite-sciences.fr\/fr\/ressources\/conferences-en-ligne\/saison-2018-2019\/piloter-un-objet-par-lactivite-cerebrale\/#item-grid-75826>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Piloter un objet par l'activité cérébrale - SAISON 2018 - 2019 - Conférences en ligne - Ressources - Cité des sciences et de l'industrie",
+                "title_link": "http:\/\/www.cite-sciences.fr\/fr\/ressources\/conferences-en-ligne\/saison-2018-2019\/piloter-un-objet-par-lactivite-cerebrale\/#item-grid-75826",
+                "text": "La cité des sciences et de l'industrie est un établissement public de diffusion de la culture scientifique, technique et industrielle située à Paris, La Villette. La Cité propose expositions, films, conférences et animations pour les enfants et leurs familles.",
+                "fallback": "Piloter un objet par l'activité cérébrale - SAISON 2018 - 2019 - Conférences en ligne - Ressources - Cité des sciences et de l'industrie",
+                "from_url": "http:\/\/www.cite-sciences.fr\/fr\/ressources\/conferences-en-ligne\/saison-2018-2019\/piloter-un-objet-par-lactivite-cerebrale\/#item-grid-75826",
+                "service_icon": "http:\/\/www.cite-sciences.fr\/fileadmin\/_processed_\/csm_logo-csi_f57dcb8e3e.png",
+                "service_name": "cite-sciences.fr",
+                "id": 1,
+                "original_url": "http:\/\/www.cite-sciences.fr\/fr\/ressources\/conferences-en-ligne\/saison-2018-2019\/piloter-un-objet-par-lactivite-cerebrale\/#item-grid-75826"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WQH++",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le replay de la conférence "
+                            },
+                            {
+                                "type": "text",
+                                "text": "piloter un objet par l’activité cérébrale",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " de la cité des sciences est dispo (ajoutée dans le CKG) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.cite-sciences.fr\/fr\/ressources\/conferences-en-ligne\/saison-2018-2019\/piloter-un-objet-par-lactivite-cerebrale\/#item-grid-75826"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

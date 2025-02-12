@@ -1,0 +1,71 @@
+[
+    {
+        "subtype": "sh_room_created",
+        "text": "A démarré un <https:\/\/scoglab.slack.com\/call\/R01PNQRKHJR|appel>.",
+        "user": "U03FC5ZAK",
+        "channel": "C01JBBNSJ0M",
+        "room": {
+            "id": "R01PNQRKHJR",
+            "name": "HackNight 183",
+            "media_server": "",
+            "created_by": "U03FC5ZAK",
+            "date_start": 1614628890,
+            "date_end": 1614637841,
+            "participants": [],
+            "participant_history": [
+                "U03FC5ZAK",
+                "U59MQ46DA",
+                "UMSL037JT"
+            ],
+            "participants_events": {
+                "U03FC5ZAK": {
+                    "user_team": {},
+                    "joined": true,
+                    "camera_on": false,
+                    "camera_off": false,
+                    "screenshare_on": false,
+                    "screenshare_off": false
+                },
+                "U59MQ46DA": {
+                    "user_team": {},
+                    "joined": true,
+                    "camera_on": false,
+                    "camera_off": false,
+                    "screenshare_on": false,
+                    "screenshare_off": false
+                },
+                "UMSL037JT": {
+                    "user_team": {},
+                    "joined": true,
+                    "camera_on": false,
+                    "camera_off": false,
+                    "screenshare_on": false,
+                    "screenshare_off": false
+                }
+            },
+            "participants_camera_on": [],
+            "participants_camera_off": [],
+            "participants_screenshare_on": [],
+            "participants_screenshare_off": [],
+            "canvas_thread_ts": "0000000000.000000",
+            "thread_root_ts": "0000000000.000000",
+            "channels": [
+                "C01JBBNSJ0M"
+            ],
+            "is_dm_call": false,
+            "was_rejected": false,
+            "was_missed": false,
+            "was_accepted": false,
+            "has_ended": true,
+            "media_backend_type": "free_willy",
+            "external_unique_id": "3b7414be-1142-4bee-844e-1629aa801f51",
+            "app_id": "A00",
+            "call_family": "native_call"
+        },
+        "no_notifications": false,
+        "permalink": "https:\/\/scoglab.slack.com\/call\/R01PNQRKHJR",
+        "team": "T03FC4NDZ",
+        "type": "message",
+        "ts": "1614628892.003000"
+    }
+]

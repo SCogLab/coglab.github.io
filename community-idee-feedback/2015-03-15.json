@@ -1,0 +1,72 @@
+[
+    {
+        "subtype": "channel_name",
+        "user": "U03FC4NE1",
+        "old_name": "random",
+        "name": "meet-random",
+        "text": "a changé le nom du canal de « random » en « meet-random »",
+        "type": "message",
+        "ts": "1426424086.000002"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1426459223.000002",
+        "edited": {
+            "user": "U03FC5ZAK",
+            "ts": "1426459237.000000"
+        },
+        "text": "Un article partagé par l'ami Marc de la Paillasse :simple_smile:\n<http:\/\/www.kurzweilai.net\/out-of-their-minds-a-thrilling-ride-that-adapts-to-riders-brain-activity>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "text": "(credit: Horizon Digital Economy Research) A new ride called Neurosis, based on research from The University of Nottingham, adapts the experience to the",
+                "fallback": "(credit: Horizon Digital Economy Research) A new ride called Neurosis, based on research from The University of Nottingham, adapts the experience to the",
+                "from_url": "http:\/\/www.kurzweilai.net\/out-of-their-minds-a-thrilling-ride-that-adapts-to-riders-brain-activity",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qVQRJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un article partagé par l'ami Marc de la Paillasse "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.kurzweilai.net\/out-of-their-minds-a-thrilling-ride-that-adapts-to-riders-brain-activity"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

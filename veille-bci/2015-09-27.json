@@ -1,0 +1,129 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U04T6ATLX",
+        "text": "<@U04T6ATLX> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1443355388.000002"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1443355407.000003",
+        "text": "<@U03HY4P8V> <@U04T6ATLX> a good opportunity ? :simple_smile:\n<https:\/\/twitter.com\/OpenBCI\/status\/647420032683757568\/photo\/1>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/OpenBCI|@OpenBCI>: 10% discount on all OpenBCI products through Oct. 1! Use the code \"LearnOpenBCI\" at checkout: <http:\/\/openbci.myshopify.com\/> <https:\/\/pbs.twimg.com\/media\/CPwZFrTUEAAD01w.jpg>",
+                "ts": 1443191938,
+                "author_name": "OpenBCI",
+                "author_link": "https:\/\/twitter.com\/OpenBCI\/status\/647420032683757568",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/479369174595026945\/8NdeE5nA_normal.png",
+                "author_subname": "@OpenBCI",
+                "text": "10% discount on all OpenBCI products through Oct. 1! Use the code \"LearnOpenBCI\" at checkout: <http:\/\/openbci.myshopify.com\/> <https:\/\/pbs.twimg.com\/media\/CPwZFrTUEAAD01w.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CPwZFrTUEAAD01w.jpg",
+                "image_width": 600,
+                "image_height": 232,
+                "image_bytes": 23015,
+                "from_url": "https:\/\/twitter.com\/OpenBCI\/status\/647420032683757568\/photo\/1",
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VEbY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03HY4P8V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04T6ATLX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a good opportunity ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/OpenBCI\/status\/647420032683757568\/photo\/1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03HY4P8V",
+        "type": "message",
+        "ts": "1443363829.000005",
+        "text": "Yesss go for it!!! ",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g188c1f43049",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3188c1f43049ebd001b834c2efa1fdf8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Romain",
+            "real_name": "Romain TRACHEL",
+            "display_name": "romaintrach",
+            "team": "T03FC4NDZ",
+            "name": "romaintrach",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z+W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yesss go for it!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

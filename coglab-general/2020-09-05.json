@@ -1,0 +1,94 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1599291496.006800",
+        "client_msg_id": "25ed0a0f-23db-4657-bbc9-7a208efe4b9e",
+        "text": "Salut <@UQX7ZD4C9>, apparemment, il y a des problèmes de bande passante et de pertes de paquets lors du stream en BLE sur plus de 2 canaux. Il y a eu des tests de la part de AJ Keller en 2017 : <https:\/\/openbci.com\/community\/cyton-ble-code-now-in-alpha\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1599119975.005000",
+        "parent_user_id": "UQX7ZD4C9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ttKp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UQX7ZD4C9"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", apparemment, il y a des problèmes de bande passante et de pertes de paquets lors du stream en BLE sur plus de 2 canaux. Il y a eu des tests de la part de AJ Keller en 2017 : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/openbci.com\/community\/cyton-ble-code-now-in-alpha\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UQX7ZD4C9",
+        "type": "message",
+        "ts": "1599319686.007000",
+        "client_msg_id": "4689deeb-2ce1-418c-9183-0967ab4f18c1",
+        "text": "Ca marche. Merci pour l'explication!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g1df15c093be",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1df15c093be238c6b94e432404d0325a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "Yacine",
+            "display_name": "Yacine",
+            "team": "T03FC4NDZ",
+            "name": "yacine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1599119975.005000",
+        "parent_user_id": "UQX7ZD4C9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rSd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ca marche. Merci pour l'explication!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

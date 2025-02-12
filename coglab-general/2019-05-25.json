@@ -1,0 +1,205 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1558768431.000800",
+        "client_msg_id": "56eb76a0-64e4-4a93-938a-9828a9811059",
+        "text": "[Rappel] <!here> on vous donne cet après-midi RDV de 14h00 à 16h00 à Paris dans les locaux d’af83 pour l'Assemblée Générale de l'association <https:\/\/coglab.fr\/ag3\/>\n\n\n*Comment s'y rendre* :\n\n15 rue Poissonnière, 75002 Paris proche des arrêts de métro Bonne-nouvelle et Sentier.\nPas de code en journée, il faut simplement appuyer sur le bouton du bas, ouvrir la porte, traverser le couloir puis sonner au bout.\n\nUn système de visioconférence est mis en place pour les personnes n’étant pas disponible en présentiel : <https:\/\/join.skype.com\/sGI9da1oYmYw>.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "CogLab, NeuroTechX Paris",
+                "title": "Assemblée Générale N°3",
+                "title_link": "https:\/\/coglab.fr\/ag3\/",
+                "text": "L’association Coglab, Neurotechx Paris prépare le bilan de sa seconde année en tant qu’association. Nous avons le plaisir de vous convier à la 3ème assemblée générale, le samedi 25 mai …",
+                "fallback": "CogLab, NeuroTechX Paris: Assemblée Générale N°3",
+                "image_url": "https:\/\/coglab.fr\/wp-content\/uploads\/2019\/04\/AG-CogLab-3.png",
+                "image_width": 444,
+                "image_height": 250,
+                "ts": 1555949162,
+                "from_url": "https:\/\/coglab.fr\/ag3\/",
+                "image_bytes": 806329,
+                "service_icon": "https:\/\/i2.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=180%2C180&#038;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/coglab.fr\/ag3\/"
+            },
+            {
+                "title": "Skype",
+                "title_link": "https:\/\/join.skype.com\/sGI9da1oYmYw",
+                "fallback": "Skype",
+                "image_url": "https:\/\/join.secure.skypeassets.com\/static\/14.168\/images\/icons\/opengraph_image.png",
+                "image_width": 250,
+                "image_height": 250,
+                "from_url": "https:\/\/join.skype.com\/sGI9da1oYmYw",
+                "image_bytes": 28276,
+                "service_icon": "https:\/\/join.secure.skypeassets.com\/static\/14.168\/images\/icons\/apple-touch-icon.png",
+                "service_name": "join.skype.com",
+                "id": 2,
+                "original_url": "https:\/\/join.skype.com\/sGI9da1oYmYw"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sU57",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[Rappel] "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on vous donne cet après-midi RDV de 14h00 à 16h00 à Paris dans les locaux d’af83 pour l'Assemblée Générale de l'association "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.fr\/ag3\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Comment s'y rendre",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " :\n\n15 rue Poissonnière, 75002 Paris proche des arrêts de métro Bonne-nouvelle et Sentier.\nPas de code en journée, il faut simplement appuyer sur le bouton du bas, ouvrir la porte, traverser le couloir puis sonner au bout.\n\nUn système de visioconférence est mis en place pour les personnes n’étant pas disponible en présentiel : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/join.skype.com\/sGI9da1oYmYw"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1558801471.002100",
+        "client_msg_id": "84bdefaa-39af-43f6-b61e-4fe0a4e15543",
+        "text": "Notre 3eme assemblée générale est clôturée. On diffusera un PV dans les prochains jours.\n\nLe nouveau bureau de l'association est composé - avec la parité - de :\n- <@U03FC5ZAK> président\n- <@U03FEH3N8> trésorière\n- <@U59MQ46DA> vice-président\n- <@U6EPG5PTQ> vice-trésorière\n+ <@U0FB4KME0> au Conseil d'administration\n\nEt pensez à soutenir nos actions sur HelloAsso pour la pérennité de l'association ! <https:\/\/www.helloasso.com\/associations\/coglab>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "HelloAsso",
+                "title": "CogLab | HelloAsso",
+                "title_link": "https:\/\/www.helloasso.com\/associations\/coglab",
+                "text": "Le CogLab regroupe hackers, passionnés et experts pour stimuler l’intelligence collective et la mise en œuvre de projets collaboratifs, DIY et open-source autour des Sciences de la Cognition.",
+                "fallback": "HelloAsso: CogLab | HelloAsso",
+                "from_url": "https:\/\/www.helloasso.com\/associations\/coglab",
+                "thumb_url": "https:\/\/www.helloasso.com\/assets\/img\/logos\/coglab-61dd7b78bdad463d8eb856e1917cf385.png?bb=0x0x200x200&sb=200x200",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/www.helloasso.com\/Areas\/HelloAsso\/img\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.helloasso.com\/associations\/coglab"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "42=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Notre 3eme assemblée générale est clôturée. On diffusera un PV dans les prochains jours.\n\nLe nouveau bureau de l'association est composé - avec la parité - de :\n- "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " président\n- "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " trésorière\n- "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " vice-président\n- "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U6EPG5PTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " vice-trésorière\n+ "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0FB4KME0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " au Conseil d'administration\n\nEt pensez à soutenir nos actions sur HelloAsso pour la pérennité de l'association ! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.helloasso.com\/associations\/coglab"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

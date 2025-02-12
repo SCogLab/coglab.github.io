@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "Sprint BCI Voyager: <!date^1569495600^{date_short_pretty} from {time}|September 26th, 2019 from 1:00 PM> to <!date^1569513600^{time}|6:00 PM GMT+0200>",
+                "text": "<!date^1569495600^{date_short_pretty} from {time}|September 26th, 2019 from 1:00 PM> to <!date^1569513600^{time}|6:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Centre+de+Recherche+Interdisciplinaire+%28CRI%29%2C+8bis+Rue+Charles+V%2C+75004+Paris%2C+France|Centre de Recherche Interdisciplinaire (CRI), 8bis Rue Charles V, 75004 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "Sprint BCI Voyager",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NTNwa25uM2VoOHQ2bm9vc3NsaTVzcWllcW0gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1569492002.000100",
+        "bot_id": "B4SJBP2L8"
+    }
+]

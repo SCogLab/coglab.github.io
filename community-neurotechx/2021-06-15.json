@@ -1,0 +1,56 @@
+[
+    {
+        "subtype": "channel_topic",
+        "user": "U03FC5ZAK",
+        "topic": "La communauté internationale NeuroTechX, relais d’information.",
+        "text": "a défini le thème du canal : La communauté internationale NeuroTechX, relais d’information.",
+        "type": "message",
+        "ts": "1623766222.000400"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1623768775.000900",
+        "edited": {
+            "user": "U03FC5ZAK",
+            "ts": "1623768784.000000"
+        },
+        "client_msg_id": "bad34769-b37b-4da7-9ab3-f17c844e65a5",
+        "text": "NeuroTechX vient de diffuser sa newsletter de juin\n<https:\/\/mailchi.mp\/neurotechx\/start-your-summer-with-neurotechx>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mz4A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "NeuroTechX vient de diffuser sa newsletter de juin\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mailchi.mp\/neurotechx\/start-your-summer-with-neurotechx"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

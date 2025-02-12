@@ -1,0 +1,60 @@
+[
+    {
+        "subtype": "channel_topic",
+        "user": "U03FC5ZAK",
+        "topic": "La communauté internationale NeuroTechX",
+        "text": "a défini le thème du canal : La communauté internationale NeuroTechX",
+        "type": "message",
+        "ts": "1556481859.000300"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC5ZAK",
+        "purpose": "Actualités, projets et événements de la communauté internationale NeuroTechX <https:\/\/neurotechx.com\/>",
+        "text": "a défini la description du canal : Actualités, projets et événements de la communauté internationale NeuroTechX <https:\/\/neurotechx.com\/>",
+        "type": "message",
+        "ts": "1556481889.000400"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1556482061.000800",
+        "client_msg_id": "a5e826a7-b1b6-4085-8a90-78060d6d33ef",
+        "text": "La newsletter d'avril 2019 de la communauté NeurotechX\n<https:\/\/mailchi.mp\/cee7250d4985\/ntx-newsletter-april-19>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F7eON",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La newsletter d'avril 2019 de la communauté NeurotechX\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mailchi.mp\/cee7250d4985\/ntx-newsletter-april-19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,436 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1529323255.000342",
+        "client_msg_id": "de5a5ad2-34fa-404b-9d70-b81a75d999f6",
+        "text": "Hello les bidouilleurs de la nuit !\nQui sera présent à la HackNight ce soir ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=w2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello les bidouilleurs de la nuit !\nQui sera présent à la HackNight ce soir ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U6N3TJ0QM",
+        "type": "message",
+        "ts": "1529328001.000598",
+        "client_msg_id": "dc5e1c70-667b-49b1-b143-14a0602ca639",
+        "text": "moi a priori, mais j'ai un petit probleme aux yeux, je resterai surement pas longtemps",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gf97b64003f8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1f97b64003f820d41fe93839432d7aac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Maxence",
+            "real_name": "Maxence Dolle",
+            "display_name": "Maxence Dolle",
+            "team": "T03FC4NDZ",
+            "name": "maxenced",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1529328001.000598",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1529336781.000144",
+        "reply_users": [
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1529336781.000144"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MsNLd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "moi a priori, mais j'ai un petit probleme aux yeux, je resterai surement pas longtemps"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1529336781.000144",
+        "client_msg_id": "61e25586-fde5-4d6e-9586-21b05248a673",
+        "text": "reçu !\nJ’espère que ce n’est pas grave :confused:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1529328001.000598",
+        "parent_user_id": "U6N3TJ0QM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eUGL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "reçu !\nJ’espère que ce n’est pas grave "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused",
+                                "unicode": "1f615"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "CogLab HackNight #80: <!date^1529343000^{date_short_pretty} from {time}|June 18th, 2018 from 7:30 PM> to <!date^1529357400^{time}|11:30 PM GMT+0200>",
+                "text": "<!date^1529343000^{date_short_pretty} from {time}|June 18th, 2018 from 7:30 PM> to <!date^1529357400^{time}|11:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #80",
+                "more": "HackNight hebdomadaire l'association 'CogLab, NeuroTechX Paris'&lt;br&gt;&lt;br&gt;&lt;br&gt;Ordre du jour :&lt;br&gt;- Team OpenBC[IA] : experimentation et prototypage (Hans &amp;amp; Maxence)&lt;br&gt;-&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=https%3A%2F%2Fpaper.dropbox.com%2Fdoc%2FyAWwKWaFkXa9w42sA0Sdj&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNH9q3hhrWopVThNTnogVHtK-DNRoQ>\" target=\"_blank\"&gt;&lt;span&gt;Projet Autispace&lt;\/span&gt;&lt;\/a&gt; : prototypage WebVR \/ Unity (Romain)&lt;br&gt;&lt;br&gt;&lt;br&gt;Lieu :&amp;nbsp;&lt;br&gt;- Groupe Skype HackNight&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=https%3A%2F%2Fjoin.skype.com%2Fbe7Ty93o77rj&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNHJrhgRqqQ8EaGHaW7wb_qkHNA24g>\" target=\"_blank\"&gt;https:\/\/join.skype.com\/be7Ty93o77rj&lt;\/a&gt;&lt;br&gt;- Locaux af83, accueil par Romain (merci de signaler votre présence)&lt;br&gt;&lt;br&gt;&lt;br&gt;Documentation&lt;br&gt;- Projet BC[IA]&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=http%3A%2F%2Fwww.coglab.fr%2Fportfolio%2Fopenbcia&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNHq_Dw940zmTMJ8-4uxs8WlhifyhQ>\" target=\"_blank\"&gt;http:\/\/www.coglab.fr\/portfolio\/openbcia&lt;\/a&gt;&lt;br&gt;- Projet Autispace&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=http%3A%2F%2Fwww.coglab.fr%2Fportfolio%2Fautispace%2F&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNEZZ1afsh0HORrngY_VaIeyH3L9RQ>\" target=\"_blank\"&gt;http:\/\/www.coglab.fr\/portfolio\/autispace\/&lt;\/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Interactions :&lt;br&gt;- Agenda CogLab sur Paper&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=https%3A%2F%2Fpaper.dropbox.com%2Fdoc%2FAgenda-CogLab-NeuroTechX-Paris-a6pJbEvbJvWdJ3fHeF9JJ&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNFBc-8osEJvu5Mz0V36r0P7w0jAyw>\" target=\"_blank\"&gt;paper\/Agenda-CogLab-NeuroTechX-Paris&lt;\/a&gt;&lt;br&gt;- Agenda CogLab flux ics&amp;nbsp;&lt;a href=\"<https:\/\/calendar.google.com\/calendar\/embed?src=sb3pmu9to1dck7jhanprvcdqso%40group.calendar.google.com&amp;amp;ctz=Europe%2FParis>\" target=\"_blank\"&gt;calendar.google.com\/calendar\/embed?src=sb3pmu9to1dck7jhanprvcdqso&lt;\/a&gt;&lt;br&gt;- Slack :&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=https%3A%2F%2Fscoglab.slack.com&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNEmew6sS3UPIAQ9uXEmCZP8cWjxkA>\" target=\"_blank\"&gt;scoglab.slack.com&lt;\/a&gt;&amp;nbsp;(inscription via&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=https%3A%2F%2Fslackcoglab.herokuapp.com%2F&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNGPk47pHF2WkJGMXHnIJi2CDWsEbg>\" target=\"_blank\"&gt;slackcoglab.herokuapp.com&lt;\/a&gt;)&lt;br&gt;- Communauté Facebook :&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fcoglab%2F&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNEKnLrcV7nr0R_rZDL28UkG88paIg>\" target=\"_blank\"&gt;facebook.com\/groups\/coglab\/&lt;\/a&gt;&lt;br&gt;- Twitter :&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=https%3A%2F%2Ftwitter.com%2FSCogLab&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNFKUXQibxXmRZkN9sBo7sE-mdNXqg>\" target=\"_blank\"&gt;twitter.com\/SCogLab&lt;\/a&gt;&lt;br&gt;- Site web :&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=http%3A%2F%2Fcoglab.fr%2F&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNGwQRwlOugqHlYgvz51thYw0I_2mQ>\" target=\"_blank\"&gt;http:\/\/coglab.fr\/&lt;\/a&gt;",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=N2ZzdTVrMWN2aDl2b3J1NjFiYWgydTFmdDBfMjAxODA2MThUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1529339401.000008",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U6N3TJ0QM",
+        "type": "message",
+        "ts": "1529345797.000479",
+        "client_msg_id": "6a514fdc-842c-4d5d-81b0-fb0b80692c3d",
+        "text": "programme de futures festival: <https:\/\/blog.futuresfestivals.com\/programmation-futures-conferences-masterclasses-2018\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gf97b64003f8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1f97b64003f820d41fe93839432d7aac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Maxence",
+            "real_name": "Maxence Dolle",
+            "display_name": "Maxence Dolle",
+            "team": "T03FC4NDZ",
+            "name": "maxenced",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Futur.e.s",
+                "title": "Futur.e.s arrive : découvrez le programme des conférences et masterclasses - Futur.e.s",
+                "title_link": "https:\/\/blog.futuresfestivals.com\/programmation-futures-conferences-masterclasses-2018\/",
+                "text": "TO READ AN ENGLISH VERSION OF THIS PROGRAM, CLICK HERE. Accès rapide: Programme du jeudi 21 juin Programme du vendredi 22 juin Programme du samedi 23 juin Téléchargez le programme complet. Les conférences en anglais seront sous-titrées en anglais dans l’application Ava. Pensez à la télécharger ! Programme sous réserve de modifications.  Les conférences et …",
+                "fallback": "Futur.e.s: Futur.e.s arrive : découvrez le programme des conférences et masterclasses - Futur.e.s",
+                "image_url": "https:\/\/blog.futuresfestivals.com\/wp-content\/uploads\/2018\/06\/téléchargement.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "ts": 1527846211,
+                "from_url": "https:\/\/blog.futuresfestivals.com\/programmation-futures-conferences-masterclasses-2018\/",
+                "image_bytes": 339569,
+                "service_icon": "https:\/\/blog.futuresfestivals.com\/wp-content\/uploads\/2017\/11\/cropped-blog-main-logo-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/blog.futuresfestivals.com\/programmation-futures-conferences-masterclasses-2018\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C1Zd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "programme de futures festival: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/blog.futuresfestivals.com\/programmation-futures-conferences-masterclasses-2018\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1529349147.000125",
+        "client_msg_id": "9be9c0a8-9a75-4889-91cc-d82f1a0b7f30",
+        "text": "<https:\/\/blog.mozilla.org\/opendesign\/paris-munich-dresden-help-us-give-the-web-a-voice\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Mozilla Open Design",
+                "title": "Paris, Munich, &amp; Dresden: Help Us Give the Web a Voice! – Mozilla Open Design",
+                "title_link": "https:\/\/blog.mozilla.org\/opendesign\/paris-munich-dresden-help-us-give-the-web-a-voice\/",
+                "text": "Text available in: English | Français | Deutsche   In July, our Voice Assistant Team will be in France and Germany to explore trust and technology adoption. We’re particularly interested ...",
+                "fallback": "Mozilla Open Design: Paris, Munich, &amp; Dresden: Help Us Give the Web a Voice! – Mozilla Open Design",
+                "image_url": "https:\/\/blog.mozilla.org\/opendesign\/files\/2018\/06\/Inverse_Paris_Munich_Dresden-1400x770.png",
+                "from_url": "https:\/\/blog.mozilla.org\/opendesign\/paris-munich-dresden-help-us-give-the-web-a-voice\/",
+                "image_width": 455,
+                "image_height": 250,
+                "image_bytes": 108738,
+                "service_icon": "https:\/\/ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com\/opendesign\/wp-content\/themes\/frontierline\/img\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/blog.mozilla.org\/opendesign\/paris-munich-dresden-help-us-give-the-web-a-voice\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Atyvg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/blog.mozilla.org\/opendesign\/paris-munich-dresden-help-us-give-the-web-a-voice\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: Open CogLab @La Paillasse: <!date^1532019600^{date_short_pretty} from {time}|July 19th, 2018 from 7:00 PM> to <!date^1532026800^{time}|9:00 PM GMT+0200>",
+                "text": "<!date^1532019600^{date_short_pretty} from {time}|July 19th, 2018 from 7:00 PM> to <!date^1532026800^{time}|9:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=La+Paillasse%2C+226+Rue+Saint-Denis%2C+75002+Paris%2C+France|La Paillasse, 226 Rue Saint-Denis, 75002 Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "Open CogLab @La Paillasse",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NnVsMzkyaW4yanQ3MGJnbWVpbXNqOGhwZzQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1529349727.000391",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Event updated: CogLab HackNight #82: <!date^1529343000^{date_short_pretty} from {time}|June 18th, 2018 from 7:30 PM> to <!date^1529357400^{time}|11:30 PM GMT+0200>",
+                "text": "<!date^1529343000^{date_short_pretty} from {time}|June 18th, 2018 from 7:30 PM> to <!date^1529357400^{time}|11:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab HackNight #82",
+                "more": "HackNight hebdomadaire l'association 'CogLab, NeuroTechX Paris'&lt;br&gt;&lt;br&gt;&lt;br&gt;Ordre du jour :&lt;br&gt;- Team OpenBC[IA] : experimentation et prototypage (Hans &amp;amp; Maxence)&lt;br&gt;-&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=https%3A%2F%2Fpaper.dropbox.com%2Fdoc%2FyAWwKWaFkXa9w42sA0Sdj&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNH9q3hhrWopVThNTnogVHtK-DNRoQ>\" target=\"_blank\"&gt;&lt;span&gt;Projet Autispace&lt;\/span&gt;&lt;\/a&gt; : prototypage WebVR \/ Unity (Romain)&lt;br&gt;&lt;br&gt;&lt;br&gt;Lieu :&amp;nbsp;&lt;br&gt;- Groupe Skype HackNight&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=https%3A%2F%2Fjoin.skype.com%2Fbe7Ty93o77rj&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNHJrhgRqqQ8EaGHaW7wb_qkHNA24g>\" target=\"_blank\"&gt;https:\/\/join.skype.com\/be7Ty93o77rj&lt;\/a&gt;&lt;br&gt;- Locaux af83, accueil par Romain (merci de signaler votre présence)&lt;br&gt;&lt;br&gt;&lt;br&gt;Documentation&lt;br&gt;- Projet BC[IA]&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=http%3A%2F%2Fwww.coglab.fr%2Fportfolio%2Fopenbcia&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNHq_Dw940zmTMJ8-4uxs8WlhifyhQ>\" target=\"_blank\"&gt;http:\/\/www.coglab.fr\/portfolio\/openbcia&lt;\/a&gt;&lt;br&gt;- Projet Autispace&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=http%3A%2F%2Fwww.coglab.fr%2Fportfolio%2Fautispace%2F&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNEZZ1afsh0HORrngY_VaIeyH3L9RQ>\" target=\"_blank\"&gt;http:\/\/www.coglab.fr\/portfolio\/autispace\/&lt;\/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Interactions :&lt;br&gt;- Agenda CogLab sur Paper&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=https%3A%2F%2Fpaper.dropbox.com%2Fdoc%2FAgenda-CogLab-NeuroTechX-Paris-a6pJbEvbJvWdJ3fHeF9JJ&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNFBc-8osEJvu5Mz0V36r0P7w0jAyw>\" target=\"_blank\"&gt;paper\/Agenda-CogLab-NeuroTechX-Paris&lt;\/a&gt;&lt;br&gt;- Agenda CogLab flux ics&amp;nbsp;&lt;a href=\"<https:\/\/calendar.google.com\/calendar\/embed?src=sb3pmu9to1dck7jhanprvcdqso%40group.calendar.google.com&amp;amp;ctz=Europe%2FParis>\" target=\"_blank\"&gt;calendar.google.com\/calendar\/embed?src=sb3pmu9to1dck7jhanprvcdqso&lt;\/a&gt;&lt;br&gt;- Slack :&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=https%3A%2F%2Fscoglab.slack.com&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNEmew6sS3UPIAQ9uXEmCZP8cWjxkA>\" target=\"_blank\"&gt;scoglab.slack.com&lt;\/a&gt;&amp;nbsp;(inscription via&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=https%3A%2F%2Fslackcoglab.herokuapp.com%2F&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNGPk47pHF2WkJGMXHnIJi2CDWsEbg>\" target=\"_blank\"&gt;slackcoglab.herokuapp.com&lt;\/a&gt;)&lt;br&gt;- Communauté Facebook :&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fcoglab%2F&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNEKnLrcV7nr0R_rZDL28UkG88paIg>\" target=\"_blank\"&gt;facebook.com\/groups\/coglab\/&lt;\/a&gt;&lt;br&gt;- Twitter :&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=https%3A%2F%2Ftwitter.com%2FSCogLab&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNFKUXQibxXmRZkN9sBo7sE-mdNXqg>\" target=\"_blank\"&gt;twitter.com\/SCogLab&lt;\/a&gt;&lt;br&gt;- Site web :&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=http%3A%2F%2Fcoglab.fr%2F&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNGwQRwlOugqHlYgvz51thYw0I_2mQ>\" target=\"_blank\"&gt;http:\/\/coglab.fr\/&lt;\/a&gt;",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=N2ZzdTVrMWN2aDl2b3J1NjFiYWgydTFmdDBfMjAxODA2MThUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1529350628.000353",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Event created: CA FRESCO: <!date^1531416600^{date_short_pretty} from {time}|July 12th, 2018 from 7:30 PM> to <!date^1531423800^{time}|9:30 PM GMT+0200>",
+                "text": "<!date^1531416600^{date_short_pretty} from {time}|July 12th, 2018 from 7:30 PM> to <!date^1531423800^{time}|9:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Skype|Skype>",
+                "pretext": "New calendar event created",
+                "title": "CA FRESCO",
+                "more": "&lt;b&gt;Convocation au prochain Conseil d’Administration de la Fresco&lt;\/b&gt;&lt;br&gt;&lt;b&gt;Email reçu mar. 12 juin&lt;\/b&gt;&lt;br&gt;&lt;br&gt;Bonjour à toutes et à tous !&lt;br&gt;&lt;br&gt;Vous recevez ce mail car votre association est membre de la FRESCO depuis l’A.G. du 7 Avril, a adhéré\/renouvellé son adhésion depuis cette date, ou parce que vous êtes membre du Conseil d’Administration de la FRESCO&lt;br&gt;&lt;br&gt;Conformément à ce que nous avions annoncé lors de l’Assemblée Générale, une réunion du Conseil d’Administration aura lieu avant la période du 15 Juillet au 15 Aout. Aussi, nous vous informons que cette réunion se tiendra le&lt;br&gt;&lt;br&gt;JEUDI 12 JUILLET, à 19H30&lt;br&gt;&lt;br&gt;Aussi, information importante, cette réunion se déroulera en visioconférence. Pas de trajet à prévoir donc, juste un petit créneau :slightly_smiling_face:&lt;br&gt;&lt;br&gt;En voici l’ordre du jour prévisionnel :&lt;br&gt;&lt;br&gt;- Actualisation de la liste des personnes siégeant au Conseil d’Administration, pour y inclure les représentants des associations et collectifs nous ayant rejoints après l’A.G.&lt;br&gt;- Point sur les événements inter-associations prévus à partir de la rentrée et sur leur organisation.&lt;br&gt;&lt;br&gt;Cette réunion devrait donc être assez rapide, mais nécessaire. Nous vous rappelons que nous souhaitons la présence d’au moins un membre de l’association\/du collectif pour la représenter lors de cette réunion.&lt;br&gt;&lt;br&gt;Merci à tous de nous confirmer votre participation et le nom de la\/les personne(s) qui représentera(ont) votre association\/votre collectif, nous vous donnerons plus de détails sur l’organisation de cette réunion dans les prochains jours !&lt;br&gt;&lt;br&gt;A très bientôt !&lt;br&gt;&lt;br&gt;Cognitivement vôtre,&lt;br&gt;&lt;br&gt;La FRESCO&lt;br&gt;&lt;br&gt;&lt;br&gt;PS : Pour les associations et collectifs qui ne l’auraient pas fait, merci",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MjlhdG0zbmc3YWY4ZDlsNDMxNm5jZDdqb2Igc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1529350628.000416",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Event created: CogLab HackNight #83: <!date^1531762200^{date_short_pretty} from {time}|July 16th, 2018 from 7:30 PM> to <!date^1531776600^{time}|11:30 PM GMT+0200>\nRecurring every week on Monday until <!date^1535407199^{date_pretty}|August 27th, 2018>",
+                "text": "<!date^1531762200^{date_short_pretty} from {time}|July 16th, 2018 from 7:30 PM> to <!date^1531776600^{time}|11:30 PM GMT+0200>\nRecurring every week on Monday until <!date^1535407199^{date_pretty}|August 27th, 2018> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "CogLab HackNight #83",
+                "more": "HackNight hebdomadaire l'association 'CogLab, NeuroTechX Paris'&lt;br&gt;&lt;br&gt;&lt;br&gt;Ordre du jour :&lt;br&gt;- Team OpenBC[IA] : experimentation et prototypage (Hans &amp;amp; Maxence)&lt;br&gt;-&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=https%3A%2F%2Fpaper.dropbox.com%2Fdoc%2FyAWwKWaFkXa9w42sA0Sdj&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNH9q3hhrWopVThNTnogVHtK-DNRoQ>\" target=\"_blank\"&gt;&lt;span&gt;Projet Autispace&lt;\/span&gt;&lt;\/a&gt; : prototypage WebVR \/ Unity (Romain)&lt;br&gt;&lt;br&gt;&lt;br&gt;Lieu :&amp;nbsp;&lt;br&gt;- Groupe Skype HackNight&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=https%3A%2F%2Fjoin.skype.com%2Fbe7Ty93o77rj&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNHJrhgRqqQ8EaGHaW7wb_qkHNA24g>\" target=\"_blank\"&gt;https:\/\/join.skype.com\/be7Ty93o77rj&lt;\/a&gt;&lt;br&gt;- Locaux af83, accueil par Romain (merci de signaler votre présence)&lt;br&gt;&lt;br&gt;&lt;br&gt;Documentation&lt;br&gt;- Projet BC[IA]&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=http%3A%2F%2Fwww.coglab.fr%2Fportfolio%2Fopenbcia&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNHq_Dw940zmTMJ8-4uxs8WlhifyhQ>\" target=\"_blank\"&gt;http:\/\/www.coglab.fr\/portfolio\/openbcia&lt;\/a&gt;&lt;br&gt;- Projet Autispace&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=http%3A%2F%2Fwww.coglab.fr%2Fportfolio%2Fautispace%2F&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNEZZ1afsh0HORrngY_VaIeyH3L9RQ>\" target=\"_blank\"&gt;http:\/\/www.coglab.fr\/portfolio\/autispace\/&lt;\/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Interactions :&lt;br&gt;- Agenda CogLab sur Paper&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=https%3A%2F%2Fpaper.dropbox.com%2Fdoc%2FAgenda-CogLab-NeuroTechX-Paris-a6pJbEvbJvWdJ3fHeF9JJ&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNFBc-8osEJvu5Mz0V36r0P7w0jAyw>\" target=\"_blank\"&gt;paper\/Agenda-CogLab-NeuroTechX-Paris&lt;\/a&gt;&lt;br&gt;- Agenda CogLab flux ics&amp;nbsp;&lt;a href=\"<https:\/\/calendar.google.com\/calendar\/embed?src=sb3pmu9to1dck7jhanprvcdqso%40group.calendar.google.com&amp;amp;ctz=Europe%2FParis>\" target=\"_blank\"&gt;calendar.google.com\/calendar\/embed?src=sb3pmu9to1dck7jhanprvcdqso&lt;\/a&gt;&lt;br&gt;- Slack :&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=https%3A%2F%2Fscoglab.slack.com&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNEmew6sS3UPIAQ9uXEmCZP8cWjxkA>\" target=\"_blank\"&gt;scoglab.slack.com&lt;\/a&gt;&amp;nbsp;(inscription via&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=https%3A%2F%2Fslackcoglab.herokuapp.com%2F&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNGPk47pHF2WkJGMXHnIJi2CDWsEbg>\" target=\"_blank\"&gt;slackcoglab.herokuapp.com&lt;\/a&gt;)&lt;br&gt;- Communauté Facebook :&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fcoglab%2F&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNEKnLrcV7nr0R_rZDL28UkG88paIg>\" target=\"_blank\"&gt;facebook.com\/groups\/coglab\/&lt;\/a&gt;&lt;br&gt;- Twitter :&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=https%3A%2F%2Ftwitter.com%2FSCogLab&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNFKUXQibxXmRZkN9sBo7sE-mdNXqg>\" target=\"_blank\"&gt;twitter.com\/SCogLab&lt;\/a&gt;&lt;br&gt;- Site web :&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=http%3A%2F%2Fcoglab.fr%2F&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNGwQRwlOugqHlYgvz51thYw0I_2mQ>\" target=\"_blank\"&gt;http:\/\/coglab.fr\/&lt;\/a&gt;",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NWg5M3UwODEwcmY4bmZ0azZnbzJtMHJvZXRfMjAxODA3MTZUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1529350807.000353",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event cancelled: LabVR StoryCode: <!date^1529602200^{date_short_pretty} from {time}|June 21st, 2018 from 7:30 PM> to <!date^1529609400^{time}|9:30 PM GMT+0200>",
+                "text": "<!date^1529602200^{date_short_pretty} from {time}|June 21st, 2018 from 7:30 PM> to <!date^1529609400^{time}|9:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Le+Cargo%2C+157+Boulevard+Macdonald%2C+75019+Paris%2C+France|Le Cargo, 157 Boulevard Macdonald, 75019 Paris, France>",
+                "pretext": "Calendar event was cancelled",
+                "title": "LabVR StoryCode",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NjJoMjQzcjRuNzd0MGE2NW40cHJnMHRsdjhfMjAxODA2MjFUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1529351658.000389",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Event created: Masterclass @ Futur.e.s: <!date^1529758800^{date_short_pretty} from {time}|June 23rd, 2018 from 3:00 PM> to <!date^1529762400^{time}|4:00 PM GMT+0200>",
+                "text": "<!date^1529758800^{date_short_pretty} from {time}|June 23rd, 2018 from 3:00 PM> to <!date^1529762400^{time}|4:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=La+Grande+Halle%2C+211+Avenue+Jean+Jaur%C3%A8s%2C+75019+Paris%2C+France|La Grande Halle, 211 Avenue Jean Jaurès, 75019 Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "Masterclass @ Futur.e.s",
+                "more": "&lt;br&gt;Dans le cadre du festival Futur.e.s, Héloïse représentera le CogLab lors d'une masterclasse.&lt;br&gt;&lt;br&gt;&lt;br&gt;MASTERCLASSES – SALLE 5A15:00 Les interfaces cerveau-machine : faut-il abandonner le corps pour rester humain ? (FR)&lt;br&gt;Avec Gille de Bast, Héloïse Théro&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;Ressources :&lt;br&gt;&lt;ul&gt;&lt;li&gt;Programme officiel <https:\/\/blog.futuresfestivals.com\/programmation-futures-conferences-masterclasses-2018\/&lt;br&gt;&lt;\/li&gt;&lt;li&gt;Fiche> événement : <https:\/\/docs.google.com\/document\/d\/1qXcKZBR2LKLQr8A4xelYBYG7irwtRNbHEg2Ph31Ca9I\/edit&lt;\/li&gt;&lt;\/ul&gt;>",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NGdzaTZuODRqaGhjZzlucm10cTN2MDVpNTYgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1529352023.000557",
+        "bot_id": "B4SJBP2L8"
+    }
+]

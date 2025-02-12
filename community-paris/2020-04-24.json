@@ -1,0 +1,47 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U012L8X3UP3",
+        "text": "<@U012L8X3UP3> a rejoint le canal",
+        "type": "message",
+        "ts": "1587726150.000400"
+    },
+    {
+        "user": "U012L8X3UP3",
+        "type": "message",
+        "ts": "1587726160.000600",
+        "client_msg_id": "0b44634b-fda2-4db9-aefa-7bd25dc22fe6",
+        "text": "Bonjour !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g7cacb65a075",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3bcebd5613ff2f957777a0778b278d45.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "bogdan",
+            "display_name": "bogdan",
+            "team": "T03FC4NDZ",
+            "name": "bp42",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=YHRm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

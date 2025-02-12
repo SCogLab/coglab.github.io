@@ -1,0 +1,106 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1566232964.000600",
+        "edited": {
+            "user": "U03FC5ZAK",
+            "ts": "1566233069.000000"
+        },
+        "client_msg_id": "ff97383e-d24b-4fb1-a094-efc23236e1d5",
+        "text": "Voici le support de prise de note pour le CA, j’ai également invité <@ULSDVUUVA>\n<https:\/\/docs.google.com\/document\/d\/11NTv7ZCZmGKlTgwzRTpib6FqA2TrMJoxzEt-aRRc1PM\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kxnek",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Voici le support de prise de note pour le CA, j’ai également invité "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "ULSDVUUVA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/11NTv7ZCZmGKlTgwzRTpib6FqA2TrMJoxzEt-aRRc1PM\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "ULSDVUUVA",
+        "text": "<@ULSDVUUVA> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1566232990.000900"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1566247484.001900",
+        "client_msg_id": "968f57a9-bfd4-4dac-89a2-d67deefdecd9",
+        "text": "Petit rappel, pour celles et ceux qui souhaitent participer au C.A. de la Fresco mi-septembre, je vous invite à compléter ce sondage <https:\/\/framadate.org\/fHXu6aBIJzthcLB9>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n18Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Petit rappel, pour celles et ceux qui souhaitent participer au C.A. de la Fresco mi-septembre, je vous invite à compléter ce sondage "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/framadate.org\/fHXu6aBIJzthcLB9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

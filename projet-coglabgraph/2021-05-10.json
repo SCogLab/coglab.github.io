@@ -1,0 +1,70 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1620665498.000900",
+        "client_msg_id": "831f3f59-9fd8-4187-9a49-097ee85076bb",
+        "text": "<https:\/\/www.dbpedia.org\/blog\/contextminds\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "DBpedia Association",
+                "title": "ContextMinds: Concept mapping supported by DBpedia",
+                "title_link": "https:\/\/www.dbpedia.org\/blog\/contextminds\/",
+                "text": "In this blogpost Marek Dudáš presents ContextMinds - a tool that combines concept mapping and knowledge graphs and is supported by DBpedia.",
+                "fallback": "DBpedia Association: ContextMinds: Concept mapping supported by DBpedia",
+                "image_url": "https:\/\/www.dbpedia.org\/wp-content\/uploads\/2021\/04\/ContextMinds_Marek-Dudas-1.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Emma Starke",
+                        "short": true
+                    },
+                    {
+                        "title": "Estimated reading time",
+                        "value": "4 minutes",
+                        "short": true
+                    }
+                ],
+                "ts": 1618563071,
+                "from_url": "https:\/\/www.dbpedia.org\/blog\/contextminds\/",
+                "image_bytes": 44044,
+                "service_icon": "https:\/\/www.dbpedia.org\/wp-content\/uploads\/2020\/09\/cropped-dbpedia-webicon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.dbpedia.org\/blog\/contextminds\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yhYg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dbpedia.org\/blog\/contextminds\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

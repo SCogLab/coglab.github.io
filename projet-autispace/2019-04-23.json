@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1556019488.000300",
+        "client_msg_id": "ba130ca7-6efb-426c-86c9-af7e5850978a",
+        "text": "<http:\/\/www.asm13.org\/14eme-Journee-d-etude-sur-l-autisme>?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "14ème Journée d'étude sur l'Autisme infantile",
+                "title_link": "http:\/\/www.asm13.org\/14eme-Journee-d-etude-sur-l-autisme",
+                "text": "14eme-journee-detude-sur-lautisme-infantile",
+                "fallback": "14ème Journée d'étude sur l'Autisme infantile",
+                "from_url": "http:\/\/www.asm13.org\/14eme-Journee-d-etude-sur-l-autisme",
+                "service_icon": "http:\/\/www.asm13.org\/favicon.ico",
+                "service_name": "asm13.org",
+                "id": 1,
+                "original_url": "http:\/\/www.asm13.org\/14eme-Journee-d-etude-sur-l-autisme"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pAL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.asm13.org\/14eme-Journee-d-etude-sur-l-autisme"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1503302603.000283",
+        "text": "<http:\/\/brainduino.com\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "brainduino",
+                "title_link": "http:\/\/brainduino.com\/",
+                "text": "Brain-Computer Interface - Open-Source BCI Neurotech",
+                "fallback": "brainduino",
+                "thumb_url": "https:\/\/s0.wp.com\/i\/blank.jpg",
+                "from_url": "http:\/\/brainduino.com\/",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_name": "brainduino.com",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TiI8r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/brainduino.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

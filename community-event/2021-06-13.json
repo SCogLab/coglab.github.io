@@ -1,0 +1,103 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1623599613.001200",
+        "client_msg_id": "244c7f09-98f9-4575-9b00-ce3a0dfb8057",
+        "text": "Le 15 juin webinaire IEEE Brain avec Julie Grollier (Thales\/CNRS) sur le neurmorphic computing : <https:\/\/zoom.us\/webinar\/register\/WN_MIskqK__QQOXBRnlHGrm7Q>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oE+uM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le 15 juin webinaire IEEE Brain avec Julie Grollier (Thales\/CNRS) sur le neurmorphic computing : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zoom.us\/webinar\/register\/WN_MIskqK__QQOXBRnlHGrm7Q"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1623599646.001500",
+        "client_msg_id": "e1b35d54-b99c-4dc5-8919-d0a331a95867",
+        "text": "<https:\/\/brain.ieee.org\/wp-content\/uploads\/sites\/52\/2021\/05\/brain-webinar-june2021_v2.jpg>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "1800x1200px image",
+                "image_url": "https:\/\/brain.ieee.org\/wp-content\/uploads\/sites\/52\/2021\/05\/brain-webinar-june2021_v2.jpg",
+                "image_width": 1800,
+                "image_height": 1200,
+                "image_bytes": 266817,
+                "from_url": "https:\/\/brain.ieee.org\/wp-content\/uploads\/sites\/52\/2021\/05\/brain-webinar-june2021_v2.jpg",
+                "id": 1,
+                "original_url": "https:\/\/brain.ieee.org\/wp-content\/uploads\/sites\/52\/2021\/05\/brain-webinar-june2021_v2.jpg"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NHH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/brain.ieee.org\/wp-content\/uploads\/sites\/52\/2021\/05\/brain-webinar-june2021_v2.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S8PWA7GU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

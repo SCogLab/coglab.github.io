@@ -1,0 +1,169 @@
+[
+    {
+        "user": "U0K8Z7286",
+        "type": "message",
+        "ts": "1507212481.000346",
+        "edited": {
+            "user": "U0K8Z7286",
+            "ts": "1507212599.000000"
+        },
+        "text": "~~",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g4da453c07aa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/44da453c07aa481bb642769e3f96b132.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "philippe",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "philippe",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gEW9C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "~~"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0K8Z7286",
+        "type": "message",
+        "ts": "1507212616.000629",
+        "text": "Ok, on peut pas supprimer un message ici ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g4da453c07aa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/44da453c07aa481bb642769e3f96b132.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "philippe",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "philippe",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1507212616.000629",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1508782035.000516",
+        "reply_users": [
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1508782035.000516"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dl+v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok, on peut pas supprimer un message ici ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0K8Z7286",
+        "type": "message",
+        "ts": "1507222168.000077",
+        "text": "Bon openvibe fonctionne sur mac",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g4da453c07aa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/44da453c07aa481bb642769e3f96b132.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "philippe",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "philippe",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1507222168.000077",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1508788724.000386",
+        "reply_users": [
+            "U03FC5ZAK",
+            "U0K8Z7286"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1508782054.000110"
+            },
+            {
+                "user": "U0K8Z7286",
+                "ts": "1508788653.000630"
+            },
+            {
+                "user": "U0K8Z7286",
+                "ts": "1508788700.000218"
+            },
+            {
+                "user": "U0K8Z7286",
+                "ts": "1508788724.000386"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2ozG5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bon openvibe fonctionne sur mac"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

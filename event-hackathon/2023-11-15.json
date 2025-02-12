@@ -1,0 +1,371 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1700081042.275289",
+        "client_msg_id": "bed68532-939b-47d4-b0e6-c07c0b8bcb0d",
+        "text": "Ok merci pour toutes ces précisions :+1:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9wamp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok merci pour toutes ces précisions "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1700082505.068509",
+        "client_msg_id": "3ef26f4d-b813-4df6-a2f0-6c86b7af00ff",
+        "text": "Pour la Masterclass, à la place d’une longue présentation de 4h qui risque de faire peur à tous, et te mettre à plat, il est possible de réfléchir à un découpage plus léger et dynamique.\n\nVoici une suggestion :\n• Accueil\n• Mot de bienvenue (5-10‘) : peut-être un mot de 42, un coucou en vidéo préenregistré d’une personnalité internationale de NTX (Firas par exemple ?) et le contexte du Hackathon\n• Qui sommes-nous ? (5‘) : Pas besoin de revenir sur toute l’histoire de l’asso et du réseau, une présentation très sommaire serait suffisante en 3\/4 slides pour CogLab et NTX. Pour celles et ceux qui voudront en savoir plus, on peut flécher vers les HackNight et ressources en ligne.\n• Intro aux sciences cognitives et neurotech (20-25’) : pareil, on a notre deck habituel, en parcourant rapidement, sans s’attarder sur les détails\n• À quoi cela sert ? (30') : zoom sur des exemples, approche multimodale, projets art-science, un aperçu des tendances du marché, etc. pour inspirer et montrer aussi les limites \n• Comment fait-on ? (30-45) : présentation des outils (hardware, soft, librairies), zoom sur ceux mis à disposition (Bitalino, Timeflux, etc)\nÇa fait à peu près 1h30, ce qui est bien pour avoir l’attention. Après, les personnes décrochent.\nAprès ça, une petite pause, et une session interactive avec des Q\/A, démo, et peut-être les laisser manipuler en tenant de faire un setup simple, avec un tuto de Timeflux de l’année dernière par exemple.\n\nOn peut voir ensemble pour affiner cela ensemble.\nAu besoin, j’ai un créneau de 15h30 à 16h30 pour intervenir à distance le vendredi 24.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CDCUw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour la Masterclass, à la place d’une longue présentation de 4h qui risque de faire peur à tous, et te mettre à plat, il est possible de réfléchir à un découpage plus léger et dynamique.\n\nVoici une suggestion :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Accueil"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Mot de bienvenue (5-10‘) : peut-être un mot de 42, un coucou en vidéo préenregistré d’une personnalité internationale de NTX (Firas par exemple ?) et le contexte du Hackathon"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Qui sommes-nous ? (5‘) : Pas besoin de revenir sur toute l’histoire de l’asso et du réseau, une présentation très sommaire serait suffisante en 3\/4 slides pour CogLab et NTX. Pour celles et ceux qui voudront en savoir plus, on peut flécher vers les HackNight et ressources en ligne."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Intro aux sciences cognitives et neurotech (20-25’) : pareil, on a notre deck habituel, en parcourant rapidement, sans s’attarder sur les détails"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "À quoi cela sert ? (30') : zoom sur des exemples, approche multimodale, projets art-science, un aperçu des tendances du marché, etc. pour inspirer et montrer aussi les limites "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Comment fait-on ? (30-45) : présentation des outils (hardware, soft, librairies), zoom sur ceux mis à disposition (Bitalino, Timeflux, etc)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nÇa fait à peu près 1h30, ce qui est bien pour avoir l’attention. Après, les personnes décrochent.\nAprès ça, une petite pause, et une session interactive avec des Q\/A, démo, et peut-être les laisser manipuler en tenant de faire un setup simple, avec un tuto de Timeflux de l’année dernière par exemple.\n\nOn peut voir ensemble pour affiner cela ensemble.\nAu besoin, j’ai un créneau de 15h30 à 16h30 pour intervenir à distance le vendredi 24."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1700082706.769049",
+        "client_msg_id": "8d103711-a587-4a11-b35d-e4b316870241",
+        "text": "Pour les mentors, si je résume :\n• Confirmé : <@U59MQ46DA>, <@U061Y5EHXBL> \n• À confirmer : <@U05BPDHKU5V>, <@U064XBSC10Q> \n• En soutient sur des créneaux à identifier : <@U058UQCU7R9> <@U0637AUUYBZ> \n• De mon côté, je vais malheureusement être OFF tout le weekend, j’héberge de la famille :confused: ",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r5Woi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour les mentors, si je résume :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Confirmé : "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U59MQ46DA"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U061Y5EHXBL"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "À confirmer : "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U05BPDHKU5V"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U064XBSC10Q"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "En soutient sur des créneaux à identifier : "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U058UQCU7R9"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U0637AUUYBZ"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "De mon côté, je vais malheureusement être OFF tout le weekend, j’héberge de la famille "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "confused",
+                                        "unicode": "1f615"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05BPDHKU5V",
+        "text": "<@U05BPDHKU5V> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1700082710.709279"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U064XBSC10Q",
+        "text": "<@U064XBSC10Q> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1700082710.806909"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U058UQCU7R9",
+        "text": "<@U058UQCU7R9> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1700082710.901019"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0637AUUYBZ",
+        "text": "<@U0637AUUYBZ> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1700082711.055439"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1700082996.564979",
+        "client_msg_id": "233d7a1b-0d8e-4b36-964f-68598ca33a9b",
+        "text": "Pour le jury local, tu as des infos <@U59MQ46DA>?\nA minima, une partie des Mentors. Et pour être impartial, il faudrait des personnes extérieures, qui viendrait uniquement pour la présentation des projets le dimanche après-midi.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f\/YK\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour le jury local, tu as des infos "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?\nA minima, une partie des Mentors. Et pour être impartial, il faudrait des personnes extérieures, qui viendrait uniquement pour la présentation des projets le dimanche après-midi."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

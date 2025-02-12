@@ -1,0 +1,95 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "Event updated: [SO] Acquisition Session 5: <!date^1654756200^{date_short_pretty} from {time}|June 8th, 2022 from 8:30 AM> to <!date^1654774200^{time}|1:30 PM GMT+0200>",
+                "text": "<!date^1654756200^{date_short_pretty} from {time}|June 8th, 2022 from 8:30 AM> to <!date^1654774200^{time}|1:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=National+Museum+of+Natural+History%2C+57+Rue+Cuvier%2C+75005+Paris%2C+France|National Museum of Natural History, 57 Rue Cuvier, 75005 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "[SO] Acquisition Session 5",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=N2RzNG1icGJmaGw5ODhzYWluYzVsZHVvamEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "more",
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1650352750.614499",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "Event updated: [SO] Test Pilote : <!date^1650367800^{date_short_pretty} from {time}|April 19th, 2022 from 1:30 PM> to <!date^1650384000^{time}|6:00 PM GMT+0200>",
+                "text": "<!date^1650367800^{date_short_pretty} from {time}|April 19th, 2022 from 1:30 PM> to <!date^1650384000^{time}|6:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=36+Rue+Geoffroy-Saint-Hilaire%2C+75005+Paris%2C+France|36 Rue Geoffroy-Saint-Hilaire, 75005 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "[SO] Test Pilote",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MTBkZHRtNHZ0Zmp2ZmRwMW9xNDBlZzNnNTQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "more",
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1650360969.588649",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "[SO] Test Pilote : <!date^1650367800^{date_short_pretty} from {time}|April 19th, 2022 from 1:30 PM> to <!date^1650384000^{time}|6:00 PM GMT+0200>",
+                "text": "<!date^1650367800^{date_short_pretty} from {time}|April 19th, 2022 from 1:30 PM> to <!date^1650384000^{time}|6:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=36+Rue+Geoffroy-Saint-Hilaire%2C+75005+Paris%2C+France|36 Rue Geoffroy-Saint-Hilaire, 75005 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "[SO] Test Pilote",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MTBkZHRtNHZ0Zmp2ZmRwMW9xNDBlZzNnNTQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "more",
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1650364201.613049",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "Event updated: [SO] Test Pilote : <!date^1650367800^{date_short_pretty} from {time}|April 19th, 2022 from 1:30 PM> to <!date^1650384000^{time}|6:00 PM GMT+0200>",
+                "text": "<!date^1650367800^{date_short_pretty} from {time}|April 19th, 2022 from 1:30 PM> to <!date^1650384000^{time}|6:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=36+Rue+Geoffroy-Saint-Hilaire%2C+75005+Paris%2C+France|36 Rue Geoffroy-Saint-Hilaire, 75005 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "[SO] Test Pilote",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MTBkZHRtNHZ0Zmp2ZmRwMW9xNDBlZzNnNTQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "more",
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1650364269.510729",
+        "bot_id": "B4SJBP2L8"
+    }
+]

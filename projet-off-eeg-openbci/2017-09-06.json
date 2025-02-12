@@ -1,0 +1,79 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1504734039.000269",
+        "text": "OpenBCI Wifi shield available :slightly_smiling_face:\n<https:\/\/shop.openbci.com\/collections\/frontpage\/products\/wifi-shield?variant=44534009550>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "OpenBCI Online Store",
+                "title": "WiFi Shield",
+                "title_link": "https:\/\/shop.openbci.com\/collections\/frontpage\/products\/wifi-shield?variant=44534009550",
+                "text": "Important Notes Does not include a Ganglion, Cyton or electrodes.  Compatible with the existing Cyton (32bit) (8-16 channel) and Ganglion (4 channel) biosensing",
+                "fallback": "OpenBCI Online Store: WiFi Shield",
+                "thumb_url": "http:\/\/cdn.shopify.com\/s\/files\/1\/0613\/9353\/products\/WiFi_front_product_grande.jpg?v=1504714483",
+                "fields": [
+                    {
+                        "title": "PRICE",
+                        "value": "$ 149.99 USD",
+                        "short": true
+                    },
+                    {
+                        "title": "VENDOR",
+                        "value": "OpenBCI",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/shop.openbci.com\/collections\/frontpage\/products\/wifi-shield?variant=44534009550",
+                "thumb_width": 600,
+                "thumb_height": 600,
+                "service_icon": "http:\/\/cdn.shopify.com\/s\/files\/1\/0613\/9353\/t\/2\/assets\/favicon.png?3858202588808695981",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sNkqg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OpenBCI Wifi shield available "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/shop.openbci.com\/collections\/frontpage\/products\/wifi-shield?variant=44534009550"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

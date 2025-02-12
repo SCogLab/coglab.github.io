@@ -1,0 +1,52 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There is *1* event this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "BCI &amp; Neurotech Masterclass France: <!date^1695106800^{date_short_pretty} from {time}|September 19th, 2023 from 9:00 AM> to <!date^1695132000^{time}|4:00 PM GMT+0200>",
+                "text": "<!date^1695106800^{date_short_pretty} from {time}|September 19th, 2023 from 9:00 AM> to <!date^1695132000^{time}|4:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=En+ligne+sur+Zoom|En ligne sur Zoom>",
+                "title": "BCI &amp; Neurotech Masterclass France",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MHBwNWs2YmViOW8xajlvNzFlNjJscDFjOWUgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1695016803.114069",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zYIc8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "1",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " event this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

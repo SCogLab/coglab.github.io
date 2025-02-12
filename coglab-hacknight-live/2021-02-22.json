@@ -1,0 +1,283 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "ULSDVUUVA",
+        "text": "<@ULSDVUUVA> a rejoint le canal",
+        "inviter": "U59MQ46DA",
+        "type": "message",
+        "ts": "1614023414.000200",
+        "team": "T03FC4NDZ"
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1614024182.001200",
+        "client_msg_id": "291d0707-81ef-44a4-849e-945400330d5a",
+        "text": ":wave: Bonsoir, comme la dernière fois, je serai présent dans quelques minutes",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g=p1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Bonsoir, comme la dernière fois, je serai présent dans quelques minutes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0FB4KME0",
+        "type": "message",
+        "ts": "1614024639.001600",
+        "client_msg_id": "33a0cc82-d30f-4aff-a6c1-bcb84eeb2dd8",
+        "text": "comment se connecte t'on à la conférence audio",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g1199c476c54",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/11199c476c54600d8571a80f70737cbd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "",
+            "real_name": "paul",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "paul",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rbB\/0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "comment se connecte t'on à la conférence audio"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1614024660.001800",
+        "client_msg_id": "c6456087-31a4-4c81-828a-8be5e9571421",
+        "text": "Je vais en lancer une",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wnje",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je vais en lancer une"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "sh_room_created",
+        "text": "A démarré un <https:\/\/scoglab.slack.com\/call\/R01PNALKXHN|appel>.",
+        "user": "U59MQ46DA",
+        "channel": "C01JBBNSJ0M",
+        "room": {
+            "id": "R01PNALKXHN",
+            "name": null,
+            "media_server": "",
+            "created_by": "U59MQ46DA",
+            "date_start": 1614024681,
+            "date_end": 1614030460,
+            "participants": [],
+            "participant_history": [
+                "U59MQ46DA",
+                "U0FB4KME0"
+            ],
+            "participants_events": {
+                "U59MQ46DA": {
+                    "user_team": {},
+                    "joined": true,
+                    "camera_on": false,
+                    "camera_off": false,
+                    "screenshare_on": true,
+                    "screenshare_off": true
+                },
+                "U0FB4KME0": {
+                    "user_team": {},
+                    "joined": true,
+                    "camera_on": false,
+                    "camera_off": false,
+                    "screenshare_on": false,
+                    "screenshare_off": false
+                }
+            },
+            "participants_camera_on": [],
+            "participants_camera_off": [],
+            "participants_screenshare_on": [],
+            "participants_screenshare_off": [],
+            "canvas_thread_ts": "0000000000.000000",
+            "thread_root_ts": "0000000000.000000",
+            "channels": [
+                "C01JBBNSJ0M"
+            ],
+            "is_dm_call": false,
+            "was_rejected": false,
+            "was_missed": false,
+            "was_accepted": false,
+            "has_ended": true,
+            "media_backend_type": "free_willy",
+            "external_unique_id": "ed8c3cc7-2b7f-4692-8a5e-49b719526674",
+            "app_id": "A00",
+            "call_family": "native_call"
+        },
+        "no_notifications": false,
+        "permalink": "https:\/\/scoglab.slack.com\/call\/R01PNALKXHN",
+        "team": "T03FC4NDZ",
+        "type": "message",
+        "ts": "1614024687.001900"
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1614026998.002400",
+        "client_msg_id": "7125984b-ac34-4e69-9bf4-59583dc21978",
+        "text": "<https:\/\/mailchi.mp\/4e630ad434ca\/la-lettre-dinformations-mensuelle-de-la-maic-fvrier-2021?e=f16f984173>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cRHJU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mailchi.mp\/4e630ad434ca\/la-lettre-dinformations-mensuelle-de-la-maic-fvrier-2021?e=f16f984173"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1614027768.002600",
+        "client_msg_id": "f2e1ee21-5729-49b7-8ea6-f637fcc04d06",
+        "text": "<https:\/\/opencollective.com\/coglab\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "CogLab, NeuroTechX Paris - Open Collective",
+                "title_link": "https:\/\/opencollective.com\/coglab\/",
+                "text": "Cognitive Science Open Lab &amp; NeuroTechX Paris Chapter #DIY #OpenScience #Community #Maker",
+                "fallback": "CogLab, NeuroTechX Paris - Open Collective",
+                "image_url": "https:\/\/images.opencollective.com\/coglab\/871f988\/background.png",
+                "from_url": "https:\/\/opencollective.com\/coglab\/",
+                "image_width": 588,
+                "image_height": 250,
+                "image_bytes": 1774295,
+                "service_icon": "https:\/\/opencollective.com\/favicon.ico",
+                "service_name": "opencollective.com",
+                "id": 1,
+                "original_url": "https:\/\/opencollective.com\/coglab\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wL0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/opencollective.com\/coglab\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

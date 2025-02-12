@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card Changement Banque added to list Trésorerie \/ AAP on board Gestion CogLab (administrateur).",
+                "text": "In list *Trésorerie \/ AAP* on *<https:\/\/trello.com\/b\/jSnI3dXM|Gestion CogLab (administrateur)>*.",
+                "pretext": "New card created",
+                "title": "Changement Banque",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/MWlAUumX",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1582929747.000100",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "Romain ROUYER commented on Changement Banque: \"Parce que j'en ai marre de recevoir des 10aines de courrier de prélèvements de frais de banque qui me paraissent anormalement élevé du Crédit Mutuel sans rien pouvoir faire ! (on arrive pas à faire un simple virement depuis 2 ans)\n\nJ'ai découvert 3 nouvelles options (détaillée dans la description de la carte Trello), qu'en pensez-vous @hansharisson1 @roselynechauvin @karinehalpern ?!\"",
+                "text": "Parce que j'en ai marre de recevoir des 10aines de courrier de prélèvements de frais de banque qui me paraissent anormalement élevé du Crédit Mutuel sans rien pouvoir faire ! (on arrive pas à faire un simple virement depuis 2 ans)\n\nJ'ai découvert 3 nouvelles options (détaillée dans la description de la carte Trello), qu'en pensez-vous @hansharisson1 @roselynechauvin @karinehalpern ?!",
+                "pretext": "New comment on *<https:\/\/trello.com\/c\/MWlAUumX|Changement Banque>*",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1582930129.000200",
+        "bot_id": "B66HQV43C"
+    }
+]

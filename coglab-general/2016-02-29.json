@@ -1,0 +1,121 @@
+[
+    {
+        "user": "U0KKC7AQ6",
+        "type": "message",
+        "ts": "1456751407.000030",
+        "text": "Bonjour, dsl si j ai raté. Quel est le thème du meeting de ce soir? ++",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "13dc7d5c9299",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-05-24\/45385520722_13dc7d5c9299d594204d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume VICTOR-THOMAS",
+            "display_name": "guillaumevt",
+            "team": "T03FC4NDZ",
+            "name": "guillaumevt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jXd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour, dsl si j ai raté. Quel est le thème du meeting de ce soir? ++"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1456758958.000031",
+        "text": "Hello <@U0KKC7AQ6> pas de soucis !\nComme signalé sur <#C03UHNB2H|community-event> on va brainstormer \/ tester sur la partie technique du <#C03UHP8UD|projet-autispace> avec <@U07CFCCBG> à priori\nTout le monde est naturellement le\/la bienvenu(e) :simple_smile:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WwB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0KKC7AQ6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pas de soucis !\nComme signalé sur "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03UHNB2H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on va brainstormer \/ tester sur la partie technique du "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03UHP8UD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07CFCCBG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " à priori\nTout le monde est naturellement le\/la bienvenu(e) "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_name",
+        "user": "U03FC5ZAK",
+        "old_name": "meet-general",
+        "name": "coglab-general",
+        "text": "a changé le nom du canal de « meet-general » en « coglab-general »",
+        "type": "message",
+        "ts": "1456794396.000032"
+    }
+]

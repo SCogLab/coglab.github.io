@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1560773127.000400",
+        "client_msg_id": "f2377c9f-4337-49fd-b684-5f87b16b6603",
+        "text": "A toolkit for creating data-driven stories and explorable explanations.\n<https:\/\/idyll-lang.org\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Idyll",
+                "title_link": "https:\/\/idyll-lang.org\/",
+                "text": "Create data-driven stories, explorable explanations, and interactive blog posts.",
+                "fallback": "Idyll",
+                "image_url": "https:\/\/idyll-lang.org\/static\/images\/twitter-share.png",
+                "from_url": "https:\/\/idyll-lang.org\/",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 13234,
+                "service_icon": "https:\/\/idyll-lang.org\/static\/images\/favicon.ico",
+                "service_name": "idyll-lang.org",
+                "id": 1,
+                "original_url": "https:\/\/idyll-lang.org\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4X9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A toolkit for creating data-driven stories and explorable explanations.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/idyll-lang.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

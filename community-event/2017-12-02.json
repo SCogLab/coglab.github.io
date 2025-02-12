@@ -1,0 +1,24 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event cancelled: LabVR StoryCode: <!date^1513881000^{date_short_pretty} from {time}|December 21st, 2017 from 7:30 PM> to <!date^1513888200^{time}|9:30 PM GMT+0100>",
+                "text": "<!date^1513881000^{date_short_pretty} from {time}|December 21st, 2017 from 7:30 PM> to <!date^1513888200^{time}|9:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Le+Cargo%2C+157+Boulevard+Macdonald%2C+75019+Paris%2C+France|Le Cargo, 157 Boulevard Macdonald, 75019 Paris, France>",
+                "pretext": "Calendar event was cancelled",
+                "title": "LabVR StoryCode",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NjJoMjQzcjRuNzd0MGE2NW40cHJnMHRsdjhfMjAxNzEyMjFUMTgzMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1512251412.000022",
+        "bot_id": "B4SJBP2L8"
+    }
+]

@@ -1,0 +1,232 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "[Cité des Sciences] Conférence BCI: <!date^1550077200^{date_short_pretty} from {time}|February 13th, 2019 from 6:00 PM> to <!date^1550086200^{time}|8:30 PM GMT+0100>",
+                "text": "<!date^1550077200^{date_short_pretty} from {time}|February 13th, 2019 from 6:00 PM> to <!date^1550086200^{time}|8:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Cit%C3%A9+des+sciences+et+de+l%27industrie%2C+30+Avenue+Corentin+Cariou%2C+75019+Paris%2C+France|Cité des sciences et de l'industrie, 30 Avenue Corentin Cariou, 75019 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "[Cité des Sciences] Conférence BCI",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NW5mNWRtYTl0MjNydnZzNmwyYWoxdDNsbW0gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1550073601.000100",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "text": "Je reviens d’un meetup que j’ai trouvé intéressant consacré au ML\/IA\/Neurones :\n1) La revanche des neurones ? de Dominique Chardon (historique IA symbolique vs connexionisme, hybridation des concepts ML\/DL\/RL) : <https:\/\/medialab.sciencespo.fr\/>\n2) Reduce the energy consumption of artificial intelligence through nanotechnology (lien dans le drive de la présentation) : memristors, neurons hardware simulator (avec un modèle de base à 4 neurones) : <https:\/\/drive.google.com\/open?id=1pbCWBJMEjOX9RrO3_0I4pBWM-uZaK6p6MA4s-p5RNeI>\n3) Deep Learning on health records par la startup Sancare <http:\/\/www.sancare.fr|www.sancare.fr> (lien dans le drive de la présentation) :\n4) Search-Oriented Conversational AI (Reinforcement learning pour la création de chatbot) par Wafa Aissa, Adrien Pouyet : <https:\/\/drive.google.com\/open?id=1u8znD35quEv46tpSgqyjQYWaFOuXu7oG>\n5) HS : Bruno Lajoie (<http:\/\/tmrow.com|tmrow.com>)<http:\/\/www.tmrow.com|www.tmrow.com> : application exploitant les OpenData pour définir la consommation en CO2 en temps réel par pays\n<https:\/\/www.meetup.com\/fr-FR\/Paris-Machine-learning-applications-group\/events\/254137616\/>",
+        "files": [
+            {
+                "id": "FG7H8LPN3",
+                "created": 1550097051,
+                "timestamp": 1550097051,
+                "name": "MLParis_ConversationnalAI.pdf",
+                "title": "MLParis_ConversationnalAI.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U59MQ46DA",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 1254389,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/drive.google.com\/open?id=1u8znD35quEv46tpSgqyjQYWaFOuXu7oG",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FG7H8LPN3-8743302b41\/mlparis_conversationnalai_64.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FG7H8LPN3-8743302b41\/mlparis_conversationnalai_80.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FG7H8LPN3-8743302b41\/mlparis_conversationnalai_360.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FG7H8LPN3-8743302b41\/mlparis_conversationnalai_480.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FG7H8LPN3-8743302b41\/mlparis_conversationnalai_160.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FG7H8LPN3-8743302b41\/mlparis_conversationnalai_720.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720_w": 720,
+                "thumb_720_h": 539,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FG7H8LPN3-8743302b41\/mlparis_conversationnalai_800.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_800_w": 800,
+                "thumb_800_h": 599,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FG7H8LPN3-8743302b41\/mlparis_conversationnalai_960.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_960_w": 960,
+                "thumb_960_h": 719,
+                "image_exif_rotation": 1,
+                "original_w": 1024,
+                "original_h": 767,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U59MQ46DA\/FG7H8LPN3\/mlparis_conversationnalai.pdf",
+                "is_starred": false,
+                "external_id": "1u8znD35quEv46tpSgqyjQYWaFOuXu7oG",
+                "external_url": "https:\/\/drive.google.com\/open?id=1u8znD35quEv46tpSgqyjQYWaFOuXu7oG",
+                "has_rich_preview": true,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U59MQ46DA",
+        "display_as_bot": false,
+        "x_files": [
+            "FG7H8LPN3"
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eh+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je reviens d’un meetup que j’ai trouvé intéressant consacré au ML\/IA\/Neurones :\n1) La revanche des neurones ? de Dominique Chardon (historique IA symbolique vs connexionisme, hybridation des concepts ML\/DL\/RL) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/medialab.sciencespo.fr\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n2) Reduce the energy consumption of artificial intelligence through nanotechnology (lien dans le drive de la présentation) : memristors, neurons hardware simulator (avec un modèle de base à 4 neurones) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=1pbCWBJMEjOX9RrO3_0I4pBWM-uZaK6p6MA4s-p5RNeI"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n3) Deep Learning on health records par la startup Sancare "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.sancare.fr",
+                                "text": "www.sancare.fr"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (lien dans le drive de la présentation) :\n4) Search-Oriented Conversational AI (Reinforcement learning pour la création de chatbot) par Wafa Aissa, Adrien Pouyet : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=1u8znD35quEv46tpSgqyjQYWaFOuXu7oG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n5) HS : Bruno Lajoie ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/tmrow.com",
+                                "text": "tmrow.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.tmrow.com",
+                                "text": "www.tmrow.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : application exploitant les OpenData pour définir la consommation en CO2 en temps réel par pays\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/Paris-Machine-learning-applications-group\/events\/254137616\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1550097026.006900",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1550097252.000000"
+        },
+        "client_msg_id": "bfcf9aa2-f50d-4e92-a1e5-31acedbd58a5",
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "PML E6-S6, Nano, Conversational AI, Deep Learning on Health Records, Symbolic AI",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/Paris-Machine-learning-applications-group\/events\/254137616\/",
+                "text": "mer. 13 févr. 2019 à 18:45: La description de l'événement PML E6-S6, Nano, Conversational AI, Deep Learning on Health Records, Symbolic AI n'est disponible que pour les membres.",
+                "fallback": "Meetup: PML E6-S6, Nano, Conversational AI, Deep Learning on Health Records, Symbolic AI",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/8\/a\/b\/e\/600_467435518.jpeg",
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/Paris-Machine-learning-applications-group\/events\/254137616\/",
+                "image_width": 189,
+                "image_height": 250,
+                "image_bytes": 194030,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/fr-FR\/m_swarm_120x120.4f86abc9.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/Paris-Machine-learning-applications-group\/events\/254137616\/"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U5JBN3M8Q",
+        "type": "message",
+        "ts": "1550130112.008100",
+        "client_msg_id": "e84f224c-a160-40bc-8b8a-0dc7d7261a79",
+        "text": "Hello, merci !!!!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1b6f1c358f7d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-04\/280876898465_1b6f1c358f7daf194add_72.jpg",
+            "first_name": "Isabelle",
+            "real_name": "Isabelle NICHELLE",
+            "display_name": "isabelle_n",
+            "team": "T03FC4NDZ",
+            "name": "isabelle_n",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1548776492.000400",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qkDRG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, merci !!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

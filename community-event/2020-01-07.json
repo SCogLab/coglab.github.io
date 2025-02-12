@@ -1,0 +1,134 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1578399542.000500",
+        "client_msg_id": "ff1c24b4-0ffc-4a03-bb30-2ae8ff8fbd68",
+        "text": "<https:\/\/www.eventbrite.fr\/e\/billets-raison-detre-bluff-ou-essentiel-pour-les-entreprises-du-21eme-siecle-86666829821>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Eventbrite",
+                "title": "Raison d’être, bluff ou essentiel pour les entreprises du 21ème siècle ?",
+                "title_link": "https:\/\/www.eventbrite.fr\/e\/billets-raison-detre-bluff-ou-essentiel-pour-les-entreprises-du-21eme-siecle-86666829821",
+                "text": "Co-construire sa Raison d'être, bluff ou étape incontournable pour les entreprises du 21ème siècle ?",
+                "fallback": "Eventbrite: Raison d’être, bluff ou essentiel pour les entreprises du 21ème siècle ?",
+                "image_url": "https:\/\/img.evbuc.com\/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F84974477%2F387661177891%2F1%2Foriginal.20191218-150714?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C60%2C1920%2C960&s=ca7bdfdf3b5957efaba0d5dfc8f9c607",
+                "fields": [
+                    {
+                        "title": "Where",
+                        "value": "3 Avenue du Général Eisenhower, 75008 Paris, France",
+                        "short": true
+                    },
+                    {
+                        "title": "When",
+                        "value": "Le ven  24 janv. 2020 à 18:30",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.eventbrite.fr\/e\/billets-raison-detre-bluff-ou-essentiel-pour-les-entreprises-du-21eme-siecle-86666829821",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 129827,
+                "service_icon": "https:\/\/cdn.evbstatic.com\/s3-build\/perm_001\/eba891\/django\/images\/touch_icons\/apple-touch-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.eventbrite.fr\/e\/billets-raison-detre-bluff-ou-essentiel-pour-les-entreprises-du-21eme-siecle-86666829821"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W1jY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.eventbrite.fr\/e\/billets-raison-detre-bluff-ou-essentiel-pour-les-entreprises-du-21eme-siecle-86666829821"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1578469329.000500",
+        "client_msg_id": "e47fe45f-c505-4b8d-9b7d-de0be82b7173",
+        "text": "Via fb <@U0FB4KME0>: <http:\/\/www.nanterredigital.fr\/blog\/festival-nanterre-digital-ledition-2020-cest-parti\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": " » Festival Nanterre Digital, l’édition 2020, c’est parti !",
+                "title_link": "http:\/\/www.nanterredigital.fr\/blog\/festival-nanterre-digital-ledition-2020-cest-parti\/",
+                "fallback": " » Festival Nanterre Digital, l’édition 2020, c’est parti !",
+                "image_url": "http:\/\/www.nanterredigital.fr\/wp-content\/uploads\/2019\/12\/Festival-Nanterre-Digital-2020-e1577366043489.png",
+                "from_url": "http:\/\/www.nanterredigital.fr\/blog\/festival-nanterre-digital-ledition-2020-cest-parti\/",
+                "image_width": 401,
+                "image_height": 199,
+                "image_bytes": 30701,
+                "service_name": "nanterredigital.fr",
+                "id": 1,
+                "original_url": "http:\/\/www.nanterredigital.fr\/blog\/festival-nanterre-digital-ledition-2020-cest-parti\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NMdQu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Via fb "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0FB4KME0"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.nanterredigital.fr\/blog\/festival-nanterre-digital-ledition-2020-cest-parti\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

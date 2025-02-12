@@ -1,0 +1,52 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There is *1* event this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "RdV Martin Machin: <!date^1683286200^{date_short_pretty} from {time}|May 5th, 2023 from 1:30 PM> to <!date^1683288000^{time}|2:00 PM GMT+0200>",
+                "text": "<!date^1683286200^{date_short_pretty} from {time}|May 5th, 2023 from 1:30 PM> to <!date^1683288000^{time}|2:00 PM GMT+0200>",
+                "title": "RdV Martin Machin",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=XzcwcWs0ZGk2NzBvajZiOWg3MTM0Y2I5azZncDQyYjlwODRzazhiOWo2NTIzNmMxaThjb2ppZDlsNzQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1682920801.308329",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uhxS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "1",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " event this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

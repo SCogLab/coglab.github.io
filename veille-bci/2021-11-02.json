@@ -1,0 +1,119 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1635886346.004300",
+        "edited": {
+            "user": "U03FC5ZAK",
+            "ts": "1635886358.000000"
+        },
+        "client_msg_id": "1ce66ac5-0bc9-4e5c-b8f2-733ae8ace25c",
+        "text": "As tu testé cet outil <@U59MQ46DA> ? <https:\/\/petal.tech\/downloads>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "PETAL",
+                "title": "Downloads — PETAL",
+                "title_link": "https:\/\/petal.tech\/downloads",
+                "text": "Downloadable resources for interacting with Petal Metrics and the Petal API.",
+                "fallback": "PETAL: Downloads — PETAL",
+                "thumb_url": "http:\/\/static1.squarespace.com\/static\/546b8d72e4b09703ef855584\/t\/5f550c99fab9b365a23eae63\/1599409307812\/Logo-Symbol-And-Text-Vertical.png?format=1500w",
+                "from_url": "https:\/\/petal.tech\/downloads",
+                "thumb_width": 1472,
+                "thumb_height": 1163,
+                "service_icon": "https:\/\/images.squarespace-cdn.com\/content\/v1\/546b8d72e4b09703ef855584\/1599409289645-UBV9GOHJDU0R1AJROR00\/favicon.ico?format=100w",
+                "id": 1,
+                "original_url": "https:\/\/petal.tech\/downloads"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OYmg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As tu testé cet outil "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/petal.tech\/downloads"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1635886502.006900",
+        "client_msg_id": "88400CB0-D7F1-43D7-9C8E-C5B010D52779",
+        "text": "Oui la version stable cet été, j’ai downloadé la version de dev mais pas encore lancé ",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gw1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui la version stable cet été, j’ai downloadé la version de dev mais pas encore lancé "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

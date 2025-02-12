@@ -1,0 +1,125 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1501533108.157669",
+        "text": "Notre premier travail de ce soir sur la création d’un protocole de test UX\nPing <@U07CPSBGX> ça peux t’intéresser de faire des test Ut. sur un support VR :wink:\n\n<https:\/\/paper.dropbox.com\/doc\/Protocole-de-test-UX-pk5SjDPWrWHQGdgsFIAmA>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Dropbox Paper",
+                "title": "Protocole de test UX",
+                "title_link": "https:\/\/paper.dropbox.com\/doc\/Protocole-de-test-UX-pk5SjDPWrWHQGdgsFIAmA",
+                "text": "Idées \/ Elements à tester Lancement \/ Mise en scène (prologue) Objectif : trouver UN objet perdu Lancement de la cinématique : fichier son de Roselyne Interface VR",
+                "fallback": "Dropbox Paper: Protocole de test UX",
+                "from_url": "https:\/\/paper.dropbox.com\/doc\/Protocole-de-test-UX-pk5SjDPWrWHQGdgsFIAmA",
+                "service_icon": "https:\/\/paper.dropboxstatic.com\/static\/img\/apple-touch-icons\/apple-touch-icon-60.png",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W\/K\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Notre premier travail de ce soir sur la création d’un protocole de test UX\nPing "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07CPSBGX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ça peux t’intéresser de faire des test Ut. sur un support VR "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/paper.dropbox.com\/doc\/Protocole-de-test-UX-pk5SjDPWrWHQGdgsFIAmA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1501533196.202694",
+        "text": "Suggestion d’ <@U5JBN3M8Q> : on peux proposer une expérience en réalité augmentée, c’est à dire un plateau de jeux, avec des cartes et le déclenchement d’une vidéo Youtube avec un tag (QR Code) --&gt; Beaucoup plus simple techniquement",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vUm8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Suggestion d’ "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U5JBN3M8Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : on peux proposer une expérience en réalité augmentée, c’est à dire un plateau de jeux, avec des cartes et le déclenchement d’une vidéo Youtube avec un tag (QR Code) --> Beaucoup plus simple techniquement"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U5JBN3M8Q",
+        "text": "<@U5JBN3M8Q> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1501533201.205073"
+    }
+]

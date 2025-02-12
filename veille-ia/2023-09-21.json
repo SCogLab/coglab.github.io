@@ -1,0 +1,60 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1695282374.016579",
+        "client_msg_id": "4d485d23-df2e-475d-815f-3ba21a534547",
+        "text": "Une nouvelle plateforme LLM ciblant la recherche en neurosciences est en cours de développement : <https:\/\/braingpt.org>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/braingpt.org\/images\/purpleLogo.jpg",
+                "image_width": 1095,
+                "image_height": 274,
+                "image_bytes": 24793,
+                "from_url": "https:\/\/braingpt.org\/",
+                "id": 1,
+                "original_url": "https:\/\/braingpt.org",
+                "fallback": "BrainGPT",
+                "text": "This is the homepage for BrainGPT, a Large Language Model tool to assist neuroscientific research.",
+                "title": "BrainGPT",
+                "title_link": "https:\/\/braingpt.org\/",
+                "service_name": "braingpt.org"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0YAUU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Une nouvelle plateforme LLM ciblant la recherche en neurosciences est en cours de développement : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/braingpt.org"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

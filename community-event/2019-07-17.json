@@ -1,0 +1,49 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab @ Epita Summer School: <!date^1563350400^{date_short_pretty} from {time}|July 17th, 2019 from 10:00 AM> to <!date^1563377400^{time}|5:30 PM GMT+0200>",
+                "text": "<!date^1563350400^{date_short_pretty} from {time}|July 17th, 2019 from 10:00 AM> to <!date^1563377400^{time}|5:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=EPITA%2C+66+Rue+Guy+M%C3%B4quet%2C+94800+Villejuif%2C+France|EPITA, 66 Rue Guy Môquet, 94800 Villejuif, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab @ Epita Summer School",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Nmdvcjhpc250NHZxYnV1amxwbnVwcjh1c3Agc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1563346803.001200",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event location updated: CogLab @ Epita Summer School: <!date^1563350400^{date_short_pretty} from {time}|July 17th, 2019 from 10:00 AM> to <!date^1563377400^{time}|5:30 PM GMT+0200>",
+                "text": "<!date^1563350400^{date_short_pretty} from {time}|July 17th, 2019 from 10:00 AM> to <!date^1563377400^{time}|5:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=14+Rue+Voltaire%2C+94270+Le+Kremlin-Bic%C3%AAtre%2C+France|14 Rue Voltaire, 94270 Le Kremlin-Bicêtre, France>",
+                "pretext": "Calendar event location updated",
+                "title": "CogLab @ Epita Summer School",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Nmdvcjhpc250NHZxYnV1amxwbnVwcjh1c3Agc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1563352868.001300",
+        "bot_id": "B4SJBP2L8"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1549638955.000500",
+        "client_msg_id": "f559626b-545f-452d-b8d7-3c06b43bdf00",
+        "text": "Annoncé sur le slack de NeuroTechX : <https:\/\/www.blino.io\/blog\/announcing-pi-naps>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Blino",
+                "title_link": "https:\/\/www.blino.io\/blog\/announcing-pi-naps",
+                "text": "Blino creates technology for enhancing and interacting with sleep in ways you had only dreamt of previously.",
+                "fallback": "Blino",
+                "from_url": "https:\/\/www.blino.io\/blog\/announcing-pi-naps",
+                "service_icon": "https:\/\/static.parastorage.com\/client\/pfavico.ico",
+                "service_name": "blino.io",
+                "id": 1,
+                "original_url": "https:\/\/www.blino.io\/blog\/announcing-pi-naps"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YgNHv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Annoncé sur le slack de NeuroTechX : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.blino.io\/blog\/announcing-pi-naps"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

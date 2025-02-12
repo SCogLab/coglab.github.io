@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U03FC5ZAK",
+        "text": "<@U03FC5ZAK> a rejoint le canal",
+        "type": "message",
+        "ts": "1588411968.000200"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC5ZAK",
+        "purpose": "Agenda de l’association",
+        "text": "a défini la description du canal : Agenda de l’association",
+        "type": "message",
+        "ts": "1588411968.000300"
+    },
+    {
+        "subtype": "bot_add",
+        "text": "a ajouté une intégration à ce canal : <https:\/\/scoglab.slack.com\/services\/B4SJBP2L8|Agenda CogLab \/ NeuroTechX Paris>",
+        "user": "U03FC5ZAK",
+        "bot_link": "<https:\/\/scoglab.slack.com\/services\/B4SJBP2L8|Agenda CogLab \/ NeuroTechX Paris>",
+        "bot_id": "B4SJBP2L8",
+        "type": "message",
+        "ts": "1588412025.000400"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "C.A. FRESCO: <!date^1588428000^{date_short_pretty} from {time}|May 2nd, 2020 from 4:00 PM> to <!date^1588435200^{time}|6:00 PM GMT+0200>",
+                "text": "<!date^1588428000^{date_short_pretty} from {time}|May 2nd, 2020 from 4:00 PM> to <!date^1588435200^{time}|6:00 PM GMT+0200>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "C.A. FRESCO",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NmQwMDEwMThpYnBkM3BuOWpxcm5tdm9xZXUgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1588424402.000100",
+        "bot_id": "B4SJBP2L8"
+    }
+]

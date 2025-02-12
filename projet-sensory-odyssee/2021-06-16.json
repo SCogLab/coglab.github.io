@@ -1,0 +1,65 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1623862277.008700",
+        "client_msg_id": "d7cdf580-e3f8-43f9-aa39-264b3f5fc867",
+        "text": "Je l’évoquais rapidement lundi soir, le Muséum lance d’une expérience en réalité augmentée avec des Hololens <https:\/\/www.youtube.com\/watch?v=So_4UzvyPO4>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Revivre, les animaux disparus en réalité augmentée",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=So_4UzvyPO4",
+                "author_name": "Muséum national d'Histoire naturelle",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCyQuKkNt-Jiqw45eNfXWBXw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/So_4UzvyPO4\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Revivre, les animaux disparus en réalité augmentée",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/So_4UzvyPO4?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=So_4UzvyPO4",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=So_4UzvyPO4"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dunJ2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je l’évoquais rapidement lundi soir, le Muséum lance d’une expérience en réalité augmentée avec des Hololens "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=So_4UzvyPO4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

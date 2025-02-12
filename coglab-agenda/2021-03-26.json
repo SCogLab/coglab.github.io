@@ -1,0 +1,25 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "Fresco - WEPASCO: <!date^1616785200^{date_short_pretty} from {time}|March 26th, 2021 from 8:00 PM> to <!date^1616792400^{time}|10:00 PM GMT+0100>",
+                "text": "<!date^1616785200^{date_short_pretty} from {time}|March 26th, 2021 from 8:00 PM> to <!date^1616792400^{time}|10:00 PM GMT+0100>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "Fresco - WEPASCO",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Nmtoc2dsOWpxZzJvYW81bzJzNWVzZWhocjIgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1616781602.000800",
+        "bot_id": "B4SJBP2L8"
+    }
+]

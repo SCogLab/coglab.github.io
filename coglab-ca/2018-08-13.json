@@ -1,0 +1,28 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Rouffi",
+                "fallback": "New card Add CogLab to the FabLab list ? added to list IDÉES A QUALIFIER on board GESTION.",
+                "text": "In list *IDÉES A QUALIFIER* on *<https:\/\/trello.com\/b\/jSnI3dXM|GESTION>*.",
+                "pretext": "New card created",
+                "title": "Add CogLab to the FabLab list ?",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/VB1KGd0S",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/3d3e4fd69be807e8d0a24825f25004d3\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1534154483.000160",
+        "bot_id": "B66HQV43C"
+    }
+]

@@ -1,0 +1,198 @@
+[
+    {
+        "user": "UAMPR1P5L",
+        "type": "message",
+        "ts": "1615892319.001200",
+        "client_msg_id": "dfe1349d-6689-4ccd-99a8-0b37c6522e6b",
+        "text": "Ah, désolé, suis passé à côté du message... N’hésite pas à me tagger si tu as besoin d’une réponse rapide à l’avenir :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g73db985d858",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273db985d858035ed23c0594718e0eac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "mesca",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "coglab644",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ILQz\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, désolé, suis passé à côté du message... N’hésite pas à me tagger si tu as besoin d’une réponse rapide à l’avenir "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UAMPR1P5L",
+        "type": "message",
+        "ts": "1615892329.001500",
+        "client_msg_id": "4c00e2cd-07e2-46c4-9729-2e4c041bdd9d",
+        "text": "Mais ça roule pour vendredi matin.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g73db985d858",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273db985d858035ed23c0594718e0eac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "mesca",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "coglab644",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LipPd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mais ça roule pour vendredi matin."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1615907166.002200",
+        "client_msg_id": "e4b56a2b-8d68-44e8-9f2b-fa00eab6cccd",
+        "text": "Neurosity viens d’annoncer “The Crown”\n<https:\/\/neurosity.co\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Introducing the Crown",
+                "title_link": "https:\/\/neurosity.co\/",
+                "text": "Shift into focus. The Crown guides you into a focused state and helps you stay there. Hack your flow and free your code.",
+                "fallback": "Introducing the Crown",
+                "image_url": "https:\/\/images.ctfassets.net\/uwziq2n2fyp8\/5yshOr0TIinMnsxEZI3ws6\/3fc601bf1a61b998f26e3154f2def95c\/crown.jpg?w=1200&h=630&fl=progressive&q=100&fit=fill",
+                "from_url": "https:\/\/neurosity.co\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 299247,
+                "service_icon": "https:\/\/neurosity.co\/icons\/icon-48x48.png?v=d1329b8e650446a98db57d5e443ec8c8",
+                "service_name": "neurosity.co",
+                "id": 1,
+                "original_url": "https:\/\/neurosity.co\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+PUUt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Neurosity viens d’annoncer “The Crown”\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/neurosity.co\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1615907201.002600",
+        "client_msg_id": "2bd87baf-6a92-46f4-99e5-de8eed9f4f81",
+        "text": "Ils ont manifestement ‘rebrandé’ le Notion 2",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/AXL2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ils ont manifestement ‘rebrandé’ le Notion 2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

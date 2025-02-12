@@ -1,0 +1,170 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1442437415.000002",
+        "text": "Personne intéressante qui suis <@U03FC4NE1> :simple_smile:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ctBco",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Personne intéressante qui suis "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC4NE1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1442437416.000003",
+        "text": "<https:\/\/twitter.com\/angelikcoubard>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "text": "The latest Tweets from Angelique Coubard (@AngelikCoubard). CEO Neuro Alternative. #Autism #SocialSkills #Neurofeedback #BCI #brain #DIY #sharing #learning #mooc #IoT #fablab #quantified_self #community_manager #sport. Landes",
+                "fallback": "The latest Tweets from Angelique Coubard (@AngelikCoubard). CEO Neuro Alternative. #Autism #SocialSkills #Neurofeedback #BCI #brain #DIY #sharing #learning #mooc #IoT #fablab #quantified_self #community_manager #sport. Landes",
+                "from_url": "https:\/\/twitter.com\/angelikcoubard",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q3z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/angelikcoubard"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1442437538.000005",
+        "text": "Si ça intéresse des gens, je vais essayer de passer à \"I love transmedia\" le 1er WE d'octobre :simple_smile:\n<http:\/\/www.ilovetransmedia.fr\/> organisé par <http:\/\/www.transmediaimmersiveuniversity.com\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "I LOVE transmedia",
+                "title_link": "http:\/\/www.ilovetransmedia.fr\/",
+                "text": "I LOVE TRANSMEDIA, le meilleur de la culture numérique @gaitelyrique du 1er au 4 octobre 2015 #nuitblanche #expos #conférences #projection",
+                "fallback": "I LOVE transmedia",
+                "from_url": "http:\/\/www.ilovetransmedia.fr\/",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1i7pV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si ça intéresse des gens, je vais essayer de passer à \"I love transmedia\" le 1er WE d'octobre "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.ilovetransmedia.fr\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " organisé par "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.transmediaimmersiveuniversity.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0AQUUUKH",
+        "text": "<@U0AQUUUKH> a rejoint le canal",
+        "type": "message",
+        "ts": "1442438498.000007"
+    }
+]

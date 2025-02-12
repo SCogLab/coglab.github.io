@@ -1,0 +1,53 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1564388256.001100",
+        "client_msg_id": "775fe4ef-ceca-426a-bfe9-16792051014d",
+        "text": "Petit rappel : pas de <#C0R6W4X2Q|coglab-hacknight> ce soir, rendez-vous lundi prochain, le 5 aout pour notre prochaine soirée :spock-hand:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GEp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Petit rappel : pas de "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0R6W4X2Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ce soir, rendez-vous lundi prochain, le 5 aout pour notre prochaine soirée "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "spock-hand",
+                                "unicode": "1f596"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

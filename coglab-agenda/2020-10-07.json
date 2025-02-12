@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab Summit 2020: <!date^1602086400^{date_short_pretty} from {time}|October 7th, 2020 from 6:00 PM> to <!date^1602089100^{time}|6:45 PM GMT+0200>",
+                "text": "<!date^1602086400^{date_short_pretty} from {time}|October 7th, 2020 from 6:00 PM> to <!date^1602089100^{time}|6:45 PM GMT+0200>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab Summit 2020",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NmI5Nzk1dGprMWRwZjN0YXJ1dW5nZHJ2c3Igc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1602082863.000500",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "Assemblée Générale CogLab #4: <!date^1602089100^{date_short_pretty} from {time}|October 7th, 2020 from 6:45 PM> to <!date^1602092700^{time}|7:45 PM GMT+0200>",
+                "text": "<!date^1602089100^{date_short_pretty} from {time}|October 7th, 2020 from 6:45 PM> to <!date^1602092700^{time}|7:45 PM GMT+0200>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "Assemblée Générale CogLab #4",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NXNqbHM2aTFmMG81MWhib3VjbGk4YmYwaGwgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1602085501.000600",
+        "bot_id": "B4SJBP2L8"
+    }
+]

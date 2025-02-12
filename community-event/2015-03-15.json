@@ -1,0 +1,86 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "New list \"L'Échappée Volée\" added to board \"<https:\/\/trello.com\/b\/1S93w57R|EVENTS>\"",
+                "text": "New list \"L'Échappée Volée\" added to board \"<https:\/\/trello.com\/b\/1S93w57R|EVENTS>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "ts": "1426461071.000002",
+        "bot_id": "B03UHP1LD"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "New card \"<https:\/\/trello.com\/c\/g5MmViDI|Appel à participation>\" added to list \"<https:\/\/trello.com\/b\/1S93w57R|L'Échappée Volée>\"",
+                "text": "New card \"<https:\/\/trello.com\/c\/g5MmViDI|Appel à participation>\" added to list \"<https:\/\/trello.com\/b\/1S93w57R|L'Échappée Volée>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "ts": "1426461102.000003",
+        "bot_id": "B03UHP1LD"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1426461771.000004",
+        "text": "<@U03HY4P8V>: pour avoir plus de visibilité sur la timeline du CogLab en version brute (avant un truc plus jolis sur le site :wink: )\n<https:\/\/coglab.hackpad.com\/Millsime-2015-lY8BzN71wMy>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QdgV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03HY4P8V"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": pour avoir plus de visibilité sur la timeline du CogLab en version brute (avant un truc plus jolis sur le site "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": " )\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.hackpad.com\/Millsime-2015-lY8BzN71wMy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

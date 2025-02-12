@@ -1,0 +1,25 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: CogLab HackNight #151 [Online]: <!date^1592238600^{date_short_pretty} from {time}|June 15th, 2020 from 6:30 PM> to <!date^1592249400^{time}|9:30 PM GMT+0200>",
+                "text": "<!date^1592238600^{date_short_pretty} from {time}|June 15th, 2020 from 6:30 PM> to <!date^1592249400^{time}|9:30 PM GMT+0200> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>, ",
+                "pretext": "New calendar event created",
+                "title": "CogLab HackNight #151 [Online]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NnM2NWlqMDRsZjlqODdtcjhjb3A4MGtkNHEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1591999085.001100",
+        "bot_id": "B4SJBP2L8"
+    }
+]

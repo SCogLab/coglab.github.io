@@ -1,0 +1,336 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1680614512.313579",
+        "client_msg_id": "52f2c11b-4dd8-43d1-adfb-4fd8381f7a5a",
+        "text": "Hello, Myriam voudrait aussi faire son animation Singing  (on a un micro, un pc)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680614512.313579",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1681300811.147819",
+        "reply_users": [
+            "U03FC5ZAK",
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1680647865.927769"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1680681090.098239"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1680890980.794189"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1681127664.942279"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1681300811.147819"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KELto",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, Myriam voudrait aussi faire son animation Singing  (on a un micro, un pc)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1680616018.277549",
+        "client_msg_id": "db881282-7517-4a46-bc7e-252cb1956ac5",
+        "text": "<@U04793S9VTP> N'oubliez pas de relancer la campagne de financement pour les derniers jours ! :wink:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680456299.737329",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E+F6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04793S9VTP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " N'oubliez pas de relancer la campagne de financement pour les derniers jours ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1680647865.927769",
+        "client_msg_id": "84775886-20c0-478d-8167-b75fcd83b332",
+        "text": "Merci du signalement Hans,\n\nPour organiser cela en bonne et due forme, il serait bien de préciser :\n• Une description du projet, avec un visuel, une petite bio de Myriam et une mise en contexte avec l’asso\n• Côté logistique, elle souhaiterais passer à quel moment sur la journée ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680614512.313579",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Slk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci du signalement Hans,\n\nPour organiser cela en bonne et due forme, il serait bien de préciser :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Une description du projet, avec un visuel, une petite bio de Myriam et une mise en contexte avec l’asso"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Côté logistique, elle souhaiterais passer à quel moment sur la journée ?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1680647919.659949",
+        "client_msg_id": "9cfc0b65-5e5e-4630-b50d-d444bd3217c8",
+        "text": "Pour info, je peaufine les éléments de communication cette fin de semaine de mon côté et partage ici dès que j’ai quelque chose de stabilisé pour une petite relecture avant diffusion.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F=E7l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour info, je peaufine les éléments de communication cette fin de semaine de mon côté et partage ici dès que j’ai quelque chose de stabilisé pour une petite relecture avant diffusion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1680648254.316619",
+        "client_msg_id": "2de5be8f-5235-48e0-9f09-108d08da1aea",
+        "text": "Côté Cognivence, y a-t-il un formulaire, des éléments à fournir de notre côté (petit texte, logo par exemple) ?\n\nInversement, avez-vous un petit pack de communication que nous pouvons utiliser pour diffuser ? J’ai noté les liens du site web, le <https:\/\/my.weezevent.com\/22e-forum-des-sciences-cognitives|Weezevent> et les réseaux sociaux habituel.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680456299.737329",
+        "parent_user_id": "U03FC5ZAK",
+        "attachments": [
+            {
+                "image_url": "https:\/\/wzeweb-p-visuelorga-evn-affiche.s3.eu-west-1.amazonaws.com\/affiche_955887.png",
+                "image_width": 5400,
+                "image_height": 7200,
+                "image_bytes": 492066,
+                "from_url": "https:\/\/my.weezevent.com\/22e-forum-des-sciences-cognitives",
+                "service_icon": "https:\/\/weezevent.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/my.weezevent.com\/22e-forum-des-sciences-cognitives",
+                "fallback": "22e Forum des Sciences Cognitives",
+                "text": "L’association Cognivence organise la 22ème édition du Forum des Sciences Cognitives à Paris, qui aura lieu le 16 avril 2023 à la Cité des sciences et de l'industrie ! Le thème cette année est : \"Cognition et états modifiés de conscience : les induire, les influencer, les soigner\". Ce Forum est destiné au grand public et aux plus aguerris : venez découvrir les sciences cognitives sous toutes leurs facettes, en rencontrant des chercheurs, entrepreneurs, étudiants et associations du domaine ! Retrouvez toutes les informations (prochainement) sur notre site internet (<https:\/\/cognivence.scicog.fr\/forum-des-sciences-cognitives-2023\/>) et nos réseaux sociaux (<https:\/\/linktr.ee\/cognivence>)",
+                "title": "22e Forum des Sciences Cognitives",
+                "title_link": "https:\/\/my.weezevent.com\/22e-forum-des-sciences-cognitives",
+                "service_name": "my.weezevent.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EUy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Côté Cognivence, y a-t-il un formulaire, des éléments à fournir de notre côté (petit texte, logo par exemple) ?\n\nInversement, avez-vous un petit pack de communication que nous pouvons utiliser pour diffuser ? J’ai noté les liens du site web, le "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/my.weezevent.com\/22e-forum-des-sciences-cognitives",
+                                "text": "Weezevent"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et les réseaux sociaux habituel."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1680648288.523269",
+        "client_msg_id": "6e6989f8-4452-4c1a-a6c6-bea2c674d41d",
+        "text": "Le programme déjà en ligne est très prometteur en tout cas !\nHâte d’y être :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680456299.737329",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xM0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le programme déjà en ligne est très prometteur en tout cas !\nHâte d’y être "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

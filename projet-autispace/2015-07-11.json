@@ -1,0 +1,76 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U07CPSBGX",
+        "text": "<@U07CPSBGX> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1436612423.000002"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U07CFCCBG",
+        "text": "<@U07CFCCBG> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1436612423.000003"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U076AKAFQ",
+        "text": "<@U076AKAFQ> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1436612423.000004"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1436613217.000005",
+        "text": "Les prémisses du projet Transmédia sont ici :\n<https:\/\/coglab.hackpad.com\/Projet-WebDoc-Transmdia-ft-CogniJunior-66ICIjl5dGI>\nJe vais ajouter quelques petites choses dans l'après-midi :wink:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/p48L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Les prémisses du projet Transmédia sont ici :\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.hackpad.com\/Projet-WebDoc-Transmdia-ft-CogniJunior-66ICIjl5dGI"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nJe vais ajouter quelques petites choses dans l'après-midi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U073L4NF1SL",
+        "text": "<@U073L4NF1SL> a rejoint le canal",
+        "type": "message",
+        "ts": "1715354034.533209"
+    },
+    {
+        "user": "U073L4NF1SL",
+        "type": "message",
+        "ts": "1715356165.381109",
+        "client_msg_id": "bc58cb02-4335-4add-aed5-ce7410e12c42",
+        "text": ":wave: Bonjour tout le monde !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g2609dd59e2a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2609dd59e2ab5ced271ed40f8f54087c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "Adrien",
+            "real_name": "Adrien",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "akjtohaveakj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0QqX0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Bonjour tout le monde !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1715356308.250459",
+        "client_msg_id": "7186842A-A83B-483D-99D7-9EDE14940852",
+        "text": "Bonjour <@U073L4NF1SL> , bienvenue sur notre Slack !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qcEEN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U073L4NF1SL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , bienvenue sur notre Slack !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

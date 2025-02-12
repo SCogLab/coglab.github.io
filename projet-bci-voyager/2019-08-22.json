@@ -1,0 +1,2118 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1566463547.009100",
+        "client_msg_id": "e9f71d79-8d79-42d3-9eb4-0af046c4c9da",
+        "text": "<@ULSDVUUVA> C’est un casque audio et EEG qui mesure l’activité cérébrale au niveau de P3 et P4. Il interagit avec l’ordinateur via bluetooth audio, pour la partie audio et bluetooth low energy pour la partie appairage et transmission des données eeg du casque vers le smartphone ou le PC. Le casque a un firmware propriétaire qui est accessible via un Software Development Kit Open Source qui permet d’accéder au fonctionnalités du casque : mesure du P300, application de filtres notch 50\/60 Hz et filtre bandpass, modification du gain x4,x6,x8,x12), définir des biomarkers, envoi de triggers externes via usb (si j’ai bien compris), conversion des données brutes en données lisibles, etc",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566370855.001400",
+        "parent_user_id": "ULSDVUUVA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cIjY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "ULSDVUUVA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " C’est un casque audio et EEG qui mesure l’activité cérébrale au niveau de P3 et P4. Il interagit avec l’ordinateur via bluetooth audio, pour la partie audio et bluetooth low energy pour la partie appairage et transmission des données eeg du casque vers le smartphone ou le PC. Le casque a un firmware propriétaire qui est accessible via un Software Development Kit Open Source qui permet d’accéder au fonctionnalités du casque : mesure du P300, application de filtres notch 50\/60 Hz et filtre bandpass, modification du gain x4,x6,x8,x12), définir des biomarkers, envoi de triggers externes via usb (si j’ai bien compris), conversion des données brutes en données lisibles, etc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK",
+                    "ULSDVUUVA"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1566463706.011100",
+        "client_msg_id": "2347096c-c9ea-4d79-b916-54d541214a71",
+        "text": "[:pushpin: Project update] *Focus on exhibition scenography* <!here>\n\n- The exhibition team will provide us a *second tablet*, so to anticipate in the architecture of the app with an *ID* <@UM9FGHCQ5>\n\n- We will get the *destination pictures* (and list) only in september.\n-&gt; So I propose to use only example picture before to get the good one + it’s independant of the tablet who show only neutral pictures associated to our *categories* (<@ULSDVUUVA> just add picture in the Drive here <https:\/\/drive.google.com\/drive\/folders\/1XmVjsz2nRHfkuLdGB95hrlzTlELvTv62> - Thx :ok_hand:)\n\n- We need a *support for the tablet*, having a double function of an isolator and a tripod, here an exemple of stuff we can find <https:\/\/www.sudouest.fr\/2012\/09\/13\/la-tablette-touristique-819222-2780.php>\n\n- Not more giant LED Wall, 4D Motion will provide us 1 or 3 iMira ! <https:\/\/drive.google.com\/open?id=0B6ZY2dOXgJcMQWFFZ2h2RmwxQ0lOU2hkQWdBbDN5Z0Y2RmdV>\n-&gt; I think that the best approach to create content, is to use *Unity* and get dynamics data via the OSC protocol (<@UM9FGHCQ5> normally I allready added some library to implement OSC in the demo app that I send you)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "SudOuest.fr",
+                "title": "Tourisme : une tablette pour revivre l’histoire de Bordeaux en réalité augmentée",
+                "title_link": "https:\/\/www.sudouest.fr\/2012\/09\/13\/la-tablette-touristique-819222-2780.php",
+                "text": "[VIDÉO] Présentée hier, Imayana est un outil innovant de réalité augmentée au service des visites de la ville La société Héritage Prod (1) a présenté hier Imayana, qui se veut une",
+                "fallback": "SudOuest.fr: Tourisme : une tablette pour revivre l’histoire de Bordeaux en réalité augmentée",
+                "thumb_url": "https:\/\/images.sudouest.fr\/2012\/09\/13\/57ecc66566a4bdfb7ce27f74\/golden\/la-tablette-d-imayana-est-un-outil-innovant-de-realite-augmentee-au-service-des-visites-de-la-ville-de-bordeaux-elle-permet-de-se-plonger-dans-le-bordeaux-du-xviiie-siecle-en-se-promenant-dans-les-rues-photo-et-video-laurent-theillet.jpg",
+                "from_url": "https:\/\/www.sudouest.fr\/2012\/09\/13\/la-tablette-touristique-819222-2780.php",
+                "thumb_width": 963,
+                "thumb_height": 602,
+                "service_icon": "https:\/\/assets.sudouest.fr\/so\/apple-icon-57x57.png?6bb31fe1b308d6159f87a41e252cb8849857081a",
+                "id": 1,
+                "original_url": "https:\/\/www.sudouest.fr\/2012\/09\/13\/la-tablette-touristique-819222-2780.php"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E6Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "["
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pushpin",
+                                "unicode": "1f4cc"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Project update] "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Focus on exhibition scenography",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n- The exhibition team will provide us a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "second tablet",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", so to anticipate in the architecture of the app with an "
+                            },
+                            {
+                                "type": "text",
+                                "text": "ID",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UM9FGHCQ5"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n- We will get the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "destination pictures",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (and list) only in september.\n-> So I propose to use only example picture before to get the good one + it’s independant of the tablet who show only neutral pictures associated to our "
+                            },
+                            {
+                                "type": "text",
+                                "text": "categories",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ("
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "ULSDVUUVA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just add picture in the Drive here "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1XmVjsz2nRHfkuLdGB95hrlzTlELvTv62"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Thx "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand",
+                                "unicode": "1f44c"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n\n- We need a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "support for the tablet",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", having a double function of an isolator and a tripod, here an exemple of stuff we can find "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sudouest.fr\/2012\/09\/13\/la-tablette-touristique-819222-2780.php"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n- Not more giant LED Wall, 4D Motion will provide us 1 or 3 iMira ! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=0B6ZY2dOXgJcMQWFFZ2h2RmwxQ0lOU2hkQWdBbDN5Z0Y2RmdV"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n-> I think that the best approach to create content, is to use "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Unity",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and get dynamics data via the OSC protocol ("
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UM9FGHCQ5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " normally I allready added some library to implement OSC in the demo app that I send you)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Here a diagram update",
+        "files": [
+            {
+                "id": "FMLJG7C3S",
+                "created": 1566463731,
+                "timestamp": 1566463731,
+                "name": "Deck BCI Voyager.jpg",
+                "title": "Deck BCI Voyager.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03FC5ZAK",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 65124,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FMLJG7C3S\/deck_bci_voyager.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FMLJG7C3S\/download\/deck_bci_voyager.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FMLJG7C3S-59ec9ab059\/deck_bci_voyager_64.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FMLJG7C3S-59ec9ab059\/deck_bci_voyager_80.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FMLJG7C3S-59ec9ab059\/deck_bci_voyager_360.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FMLJG7C3S-59ec9ab059\/deck_bci_voyager_480.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FMLJG7C3S-59ec9ab059\/deck_bci_voyager_160.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FMLJG7C3S-59ec9ab059\/deck_bci_voyager_720.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FMLJG7C3S-59ec9ab059\/deck_bci_voyager_800.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "image_exif_rotation": 1,
+                "original_w": 960,
+                "original_h": 540,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U03FC5ZAK\/FMLJG7C3S\/deck_bci_voyager.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-FMLJG7C3S-9de629e1ff",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U03FC5ZAK",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y3h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here a diagram update"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1566463733.011500",
+        "client_msg_id": "81dbd2be-04d7-4756-86ee-6a541107ef15"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1566463902.013000",
+        "client_msg_id": "a1c1443c-0851-4d2f-aeb9-b0d4042fe715",
+        "text": "I will finish my email about the machine learning part this morning only, to ask some advice and validate the approach.\nIt’s an emergency now !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8V0E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will finish my email about the machine learning part this morning only, to ask some advice and validate the approach.\nIt’s an emergency now !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UM9FGHCQ5",
+        "type": "message",
+        "ts": "1566471824.013200",
+        "client_msg_id": "d9f3c28c-c865-4034-a95c-ce0530979875",
+        "text": "Second with the photos of the cities to validate.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gdc55c403bfb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5dc55c403bfb3989d8f7e7056a1858cb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Sitharth",
+            "display_name": "Sitharth",
+            "team": "T03FC4NDZ",
+            "name": "esitharth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KaF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Second with the photos of the cities to validate."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UM9FGHCQ5",
+        "type": "message",
+        "ts": "1566471825.013300",
+        "client_msg_id": "bd10675a-7390-444d-bad6-ed306502f245",
+        "text": "<@U03FC5ZAK>: We need to devise an experiment with enough number of people (positively with people from the af83 office) to collect data.\nI suggest two categories : One with showing people stimulating different emotional states: excited, happy, sad, amusing, aweful.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gdc55c403bfb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5dc55c403bfb3989d8f7e7056a1858cb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Sitharth",
+            "display_name": "Sitharth",
+            "team": "T03FC4NDZ",
+            "name": "esitharth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566471825.013300",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1566818522.002800",
+        "reply_users": [
+            "U03FC5ZAK",
+            "U03FEH3N8",
+            "UM9FGHCQ5"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1566482126.022700"
+            },
+            {
+                "user": "U03FEH3N8",
+                "ts": "1566815529.000100"
+            },
+            {
+                "user": "UM9FGHCQ5",
+                "ts": "1566818522.002800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4nO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": We need to devise an experiment with enough number of people (positively with people from the af83 office) to collect data.\nI suggest two categories : One with showing people stimulating different emotional states: excited, happy, sad, amusing, aweful."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UM9FGHCQ5",
+        "type": "message",
+        "ts": "1566472038.013800",
+        "client_msg_id": "292da1f0-f504-414b-854a-fbd6a55e0bc1",
+        "text": "The demo app doesn't have an OSC Implementation with it as far as I have gone through it.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gdc55c403bfb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5dc55c403bfb3989d8f7e7056a1858cb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Sitharth",
+            "display_name": "Sitharth",
+            "team": "T03FC4NDZ",
+            "name": "esitharth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566472038.013800",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1566485013.025100",
+        "reply_users": [
+            "U03FC5ZAK",
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1566482305.022900"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1566484287.024700"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1566484478.024900"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1566485013.025100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O4OW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The demo app doesn't have an OSC Implementation with it as far as I have gone through it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UM9FGHCQ5",
+        "type": "message",
+        "ts": "1566472054.014400",
+        "client_msg_id": "8186efe9-3459-4525-8599-2cd75a0166e6",
+        "text": "I wanted to know how would you utilize Unity to map with the OSC output ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gdc55c403bfb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5dc55c403bfb3989d8f7e7056a1858cb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Sitharth",
+            "display_name": "Sitharth",
+            "team": "T03FC4NDZ",
+            "name": "esitharth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566472054.014400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1566482655.023100",
+        "reply_users": [
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1566482655.023100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Y5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I wanted to know how would you utilize Unity to map with the OSC output ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UM9FGHCQ5",
+        "type": "message",
+        "ts": "1566472431.015600",
+        "client_msg_id": "27f4c072-761e-425e-919d-403fc9ed0215",
+        "text": "<@U03FC5ZAK> What I would suggest is, there is this graph implementation already done in the app. So if we can make use of the same implementation to map it onto the screen, this problem is already taken care of.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gdc55c403bfb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5dc55c403bfb3989d8f7e7056a1858cb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Sitharth",
+            "display_name": "Sitharth",
+            "team": "T03FC4NDZ",
+            "name": "esitharth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566472431.015600",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1566485501.025400",
+        "reply_users": [
+            "U03FC5ZAK",
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1566482749.023400"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1566485501.025400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SEl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " What I would suggest is, there is this graph implementation already done in the app. So if we can make use of the same implementation to map it onto the screen, this problem is already taken care of."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FEH3N8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UM9FGHCQ5",
+        "type": "message",
+        "ts": "1566472531.016900",
+        "client_msg_id": "8b99a526-069c-4b8f-97b5-6133a34e6420",
+        "text": "And with the data that we have at the end of the session, we can feed it into the model and get the classification, mapping it with the city pictures and project a preferred city list for visiting.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gdc55c403bfb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5dc55c403bfb3989d8f7e7056a1858cb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Sitharth",
+            "display_name": "Sitharth",
+            "team": "T03FC4NDZ",
+            "name": "esitharth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566472531.016900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1566482856.023700",
+        "reply_users": [
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1566482856.023700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nAm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And with the data that we have at the end of the session, we can feed it into the model and get the classification, mapping it with the city pictures and project a preferred city list for visiting."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "ULSDVUUVA",
+        "type": "message",
+        "ts": "1566477131.017100",
+        "client_msg_id": "e5dfaec6-15e3-40a5-a621-647efde28e0d",
+        "text": "<@U59MQ46DA> Merci, top :ok_hand: 🥳 :relaxed::pray:! Alors, les problématique utilisant les P1 \/ N1 et P2 \/ N2 sans hors discussion par default, c’est ca?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "d6568f25a9a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-08\/3075305835828_d6568f25a9a41b2be2ef_72.jpg",
+            "first_name": "Maike",
+            "real_name": "Maike",
+            "display_name": "Maike",
+            "team": "T03FC4NDZ",
+            "name": "maikeherbort",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566370855.001400",
+        "parent_user_id": "ULSDVUUVA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MIp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Merci, top "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand",
+                                "unicode": "1f44c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "partying_face",
+                                "unicode": "1f973"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "relaxed",
+                                "unicode": "263a-fe0f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Alors, les problématique utilisant les P1 \/ N1 et P2 \/ N2 sans hors discussion par default, c’est ca?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "<@UM9FGHCQ5> <@U03FC5ZAK> Why not using the final picture set when it’s only a pilot-group of af83 guys? Furthermore: <@U03FEH3N8> <@U59MQ46DA> I strongly suggest to do a *pilot study* using a bigger set of pics (30\/cat --&gt; 300 pics) being rated by 30 participants remote with the *SAM* (Self Assessment Manikin by MARGARET M. BRADLEY and PETER J. LANG  1994), a pictorial questionnaire which measures three dimensions (Arousal, Valence and Dominance). PLUS I’d love to add a consent, demographic and mood questionnaire (e.g. PANAS",
+        "files": [
+            {
+                "id": "FMEDSK8C9",
+                "created": 1566477868,
+                "timestamp": 1566477868,
+                "name": "Self-Assessment-Manikin-SAM-for-valence-arousal-and-dominance-The-five_W640.jpg",
+                "title": "Self-Assessment-Manikin-SAM-for-valence-arousal-and-dominance-The-five_W640.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "ULSDVUUVA",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 46802,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FMEDSK8C9\/self-assessment-manikin-sam-for-valence-arousal-and-dominance-the-five_w640.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FMEDSK8C9\/download\/self-assessment-manikin-sam-for-valence-arousal-and-dominance-the-five_w640.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FMEDSK8C9-9d50a44c31\/self-assessment-manikin-sam-for-valence-arousal-and-dominance-the-five_w640_64.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FMEDSK8C9-9d50a44c31\/self-assessment-manikin-sam-for-valence-arousal-and-dominance-the-five_w640_80.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FMEDSK8C9-9d50a44c31\/self-assessment-manikin-sam-for-valence-arousal-and-dominance-the-five_w640_360.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360_w": 360,
+                "thumb_360_h": 278,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FMEDSK8C9-9d50a44c31\/self-assessment-manikin-sam-for-valence-arousal-and-dominance-the-five_w640_480.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_480_w": 480,
+                "thumb_480_h": 371,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FMEDSK8C9-9d50a44c31\/self-assessment-manikin-sam-for-valence-arousal-and-dominance-the-five_w640_160.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "image_exif_rotation": 1,
+                "original_w": 640,
+                "original_h": 495,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/ULSDVUUVA\/FMEDSK8C9\/self-assessment-manikin-sam-for-valence-arousal-and-dominance-the-five_w640.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-FMEDSK8C9-310552e061",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "ULSDVUUVA",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k4d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UM9FGHCQ5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Why not using the final picture set when it’s only a pilot-group of af83 guys? Furthermore: "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I strongly suggest to do a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "pilot study",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " using a bigger set of pics (30\/cat --> 300 pics) being rated by 30 participants remote with the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "SAM",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (Self Assessment Manikin by MARGARET M. BRADLEY and PETER J. LANG  1994), a pictorial questionnaire which measures three dimensions (Arousal, Valence and Dominance). PLUS I’d love to add a consent, demographic and mood questionnaire (e.g. PANAS"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1566477869.021400",
+        "client_msg_id": "b4e00826-4501-4014-b564-b8b4b68d6cf1",
+        "thread_ts": "1566477869.021400",
+        "reply_count": 8,
+        "reply_users_count": 3,
+        "latest_reply": "1567083600.011000",
+        "reply_users": [
+            "U03FC5ZAK",
+            "ULSDVUUVA",
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1566482970.023900"
+            },
+            {
+                "user": "ULSDVUUVA",
+                "ts": "1566490716.025600"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1566492684.026200"
+            },
+            {
+                "user": "ULSDVUUVA",
+                "ts": "1566493026.026400"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1566493733.026600"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1566567297.027100"
+            },
+            {
+                "user": "ULSDVUUVA",
+                "ts": "1567083572.010800"
+            },
+            {
+                "user": "ULSDVUUVA",
+                "ts": "1567083600.011000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "text": "Positive and Negative Affect Schedule",
+        "files": [
+            {
+                "id": "FM9BZU4R1",
+                "created": 1566478063,
+                "timestamp": 1566478063,
+                "name": "PANAS.png",
+                "title": "PANAS.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "ULSDVUUVA",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 70001,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FM9BZU4R1\/panas.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FM9BZU4R1\/download\/panas.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FM9BZU4R1-3731fc1a75\/panas_64.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FM9BZU4R1-3731fc1a75\/panas_80.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FM9BZU4R1-3731fc1a75\/panas_360.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360_w": 360,
+                "thumb_360_h": 271,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FM9BZU4R1-3731fc1a75\/panas_480.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_480_w": 480,
+                "thumb_480_h": 362,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FM9BZU4R1-3731fc1a75\/panas_160.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "image_exif_rotation": 1,
+                "original_w": 617,
+                "original_h": 465,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/ULSDVUUVA\/FM9BZU4R1\/panas.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-FM9BZU4R1-14d45fd53d",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "ULSDVUUVA",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C0v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Positive and Negative Affect Schedule"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1566478065.021700",
+        "client_msg_id": "52f53058-16dc-4fe1-83b8-9000bea29af1"
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1566479937.022200",
+        "client_msg_id": "7f7599ff-b151-4c95-a1da-515e6f255ea2",
+        "text": "Avec seulement ces 2 électrodes, j’imagine que oui",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566370855.001400",
+        "parent_user_id": "ULSDVUUVA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Sdb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Avec seulement ces 2 électrodes, j’imagine que oui"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "FM9DFJG6N",
+                "created": 1566480623,
+                "timestamp": 1566480623,
+                "name": "démographie.pdf",
+                "title": "démographie.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "ULSDVUUVA",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 71263,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FM9DFJG6N\/de__mographie.pdf?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FM9DFJG6N\/download\/de__mographie.pdf?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FM9DFJG6N-acf211d3dc\/de__mographie_thumb_pdf.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_pdf_w": 1286,
+                "thumb_pdf_h": 909,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/ULSDVUUVA\/FM9DFJG6N\/de__mographie.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-FM9DFJG6N-b911784388",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "ULSDVUUVA",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1566480623.022400",
+        "client_msg_id": "173724fd-de86-4624-96c7-ca1f1dcdff2f",
+        "thread_ts": "1566480623.022400",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1566816157.000600",
+        "reply_users": [
+            "ULSDVUUVA",
+            "U03FEH3N8"
+        ],
+        "replies": [
+            {
+                "user": "ULSDVUUVA",
+                "ts": "1566490788.025800"
+            },
+            {
+                "user": "U03FEH3N8",
+                "ts": "1566816046.000400"
+            },
+            {
+                "user": "U03FEH3N8",
+                "ts": "1566816157.000600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1566482126.022700",
+        "client_msg_id": "4b3df76d-6f23-484f-8679-713654424d26",
+        "text": "what do you mean by people stimulating different emotional states ? Like acting ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566471825.013300",
+        "parent_user_id": "UM9FGHCQ5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OjN1U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what do you mean by people stimulating different emotional states ? Like acting ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1566482305.022900",
+        "client_msg_id": "6daa670d-883e-43e0-aa19-fdb1962b18dd",
+        "text": "We add a library and a dedicated function to transmit OSC data in the file : .\/app\/src\/main\/java\/sdkdemo...\/BCI_Voyageur",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566472038.013800",
+        "parent_user_id": "UM9FGHCQ5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5iS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We add a library and a dedicated function to transmit OSC data in the file : .\/app\/src\/main\/java\/sdkdemo...\/BCI_Voyageur"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U03FC5ZAK",
+        "thread_ts": "1566472054.014400",
+        "root": {
+            "user": "UM9FGHCQ5",
+            "type": "message",
+            "ts": "1566472054.014400",
+            "client_msg_id": "8186efe9-3459-4525-8599-2cd75a0166e6",
+            "text": "I wanted to know how would you utilize Unity to map with the OSC output ?",
+            "team": "T03FC4NDZ",
+            "thread_ts": "1566472054.014400",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1566482655.023100",
+            "reply_users": [
+                "U03FC5ZAK"
+            ],
+            "replies": [
+                {
+                    "user": "U03FC5ZAK",
+                    "ts": "1566482655.023100"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "0s2",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "I wanted to know how would you utilize Unity to map with the OSC output ?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1566482655.023100",
+        "edited": {
+            "user": "U03FC5ZAK",
+            "ts": "1566483067.000000"
+        },
+        "client_msg_id": "54586c81-4745-458b-8e6d-c6d4c22982a3",
+        "text": "The *Android app*, on the *Tablet* send OSC Data with, for example, each second and for each person :\n- Person ID\n- weighting of each category (1 code by categories)\n- timestamp\n- value of electrode 1\n- value of electrode 2\n- boolean P300\n\nMeanwhile, the *Windows Laptop* receive this data and modulate the interface rendered on the screen via a *Unity* app (I try to manage this part, be focus on the Android app)\n\nWhat do you think of it all?",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QzK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Android app",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", on the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Tablet",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " send OSC Data with, for example, each second and for each person :\n- Person ID\n- weighting of each category (1 code by categories)\n- timestamp\n- value of electrode 1\n- value of electrode 2\n- boolean P300\n\nMeanwhile, the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Windows Laptop",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " receive this data and modulate the interface rendered on the screen via a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Unity",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " app (I try to manage this part, be focus on the Android app)\n\nWhat do you think of it all?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U03FC5ZAK",
+        "thread_ts": "1566472431.015600",
+        "root": {
+            "user": "UM9FGHCQ5",
+            "type": "message",
+            "ts": "1566472431.015600",
+            "client_msg_id": "27f4c072-761e-425e-919d-403fc9ed0215",
+            "text": "<@U03FC5ZAK> What I would suggest is, there is this graph implementation already done in the app. So if we can make use of the same implementation to map it onto the screen, this problem is already taken care of.",
+            "team": "T03FC4NDZ",
+            "thread_ts": "1566472431.015600",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1566485501.025400",
+            "reply_users": [
+                "U03FC5ZAK",
+                "U59MQ46DA"
+            ],
+            "replies": [
+                {
+                    "user": "U03FC5ZAK",
+                    "ts": "1566482749.023400"
+                },
+                {
+                    "user": "U59MQ46DA",
+                    "ts": "1566485501.025400"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Q0fm+",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03FC5ZAK"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " What I would suggest is, there is this graph implementation already done in the app. So if we can make use of the same implementation to map it onto the screen, this problem is already taken care of."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1566482749.023400",
+        "client_msg_id": "0db1be59-ed3b-4d7c-9184-4f249624e0b0",
+        "text": "Can you specify which graph you are referring to?",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O=iiK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can you specify which graph you are referring to?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1566482856.023700",
+        "client_msg_id": "cc248222-bb4c-49bf-98b2-814ece57c472",
+        "text": "If we can provide a dynamical classification during the experimentation, It can be more impressive to showcase",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566472531.016900",
+        "parent_user_id": "UM9FGHCQ5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sfb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If we can provide a dynamical classification during the experimentation, It can be more impressive to showcase"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1566482970.023900",
+        "client_msg_id": "dee28df0-46c0-4d9c-b5de-e5633ade1ca2",
+        "text": "I’m not sure we have time and ressource to provide this type of study :confused:\n\nwe need to be as quick and dirty as we can to be fully ready in *4 weeks*",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566477869.021400",
+        "parent_user_id": "ULSDVUUVA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6U4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m not sure we have time and ressource to provide this type of study "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused",
+                                "unicode": "1f615"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nwe need to be as quick and dirty as we can to be fully ready in "
+                            },
+                            {
+                                "type": "text",
+                                "text": "4 weeks",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Here an update of my model",
+        "files": [
+            {
+                "id": "FMLUUG4JH",
+                "created": 1566483482,
+                "timestamp": 1566483482,
+                "name": "BCI Voyager - Diagram v4.jpg",
+                "title": "BCI Voyager - Diagram v4.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03FC5ZAK",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 86476,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FMLUUG4JH\/bci_voyager_-_diagram_v4.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FMLUUG4JH\/download\/bci_voyager_-_diagram_v4.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FMLUUG4JH-fe2c581e70\/bci_voyager_-_diagram_v4_64.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FMLUUG4JH-fe2c581e70\/bci_voyager_-_diagram_v4_80.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FMLUUG4JH-fe2c581e70\/bci_voyager_-_diagram_v4_360.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FMLUUG4JH-fe2c581e70\/bci_voyager_-_diagram_v4_480.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FMLUUG4JH-fe2c581e70\/bci_voyager_-_diagram_v4_160.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FMLUUG4JH-fe2c581e70\/bci_voyager_-_diagram_v4_720.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FMLUUG4JH-fe2c581e70\/bci_voyager_-_diagram_v4_800.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "image_exif_rotation": 1,
+                "original_w": 960,
+                "original_h": 540,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U03FC5ZAK\/FMLUUG4JH\/bci_voyager_-_diagram_v4.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-FMLUUG4JH-dc0a72a11d",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U03FC5ZAK",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oBwF=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here an update of my model"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1566483484.024400",
+        "client_msg_id": "a2af3926-b982-48b5-aa96-b93137b5ae34"
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1566484287.024700",
+        "client_msg_id": "23ef63c7-59b4-422b-8a00-0a7d7d078be8",
+        "text": "On the mbt github documentation, they specified that some features (marked with an *) are only available with the premium sdk :\n”\n*Bluetooth*\n  - Bluetooth command &amp; data    transfer from the SDK to the headset*\n\n*EEG*\n  - Signal quality computation*\n  - Muscular artefacts detection*\n  - DC Offset &amp; Saturation measurement*\n  - Relaxation index computation*\n\n*Device*\n\nConfiguration of the following customizable parameters for the Melomind headset :\n\n    - Notch filter*\n    - Gain*\n    - DC offset*\n    - Saturation*\n\n*Synchronisation*\n\n   - External triggers synchronisation*\n   - OSC data streaming to a PC or Mac*\n\n*Features only available on the Premium SDK version.”",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566472038.013800",
+        "parent_user_id": "UM9FGHCQ5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o\/xPw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On the mbt github documentation, they specified that some features (marked with an *) are only available with the premium sdk :\n”\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Bluetooth",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n  - Bluetooth command & data    transfer from the SDK to the headset*\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "EEG",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n  - Signal quality computation*\n  - Muscular artefacts detection*\n  - DC Offset & Saturation measurement*\n  - Relaxation index computation*\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Device",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nConfiguration of the following customizable parameters for the Melomind headset :\n\n    - Notch filter*\n    - Gain*\n    - DC offset*\n    - Saturation*\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Synchronisation",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n   - External triggers synchronisation*\n   - OSC data streaming to a PC or Mac*\n\n*Features only available on the Premium SDK version.”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1566484478.024900",
+        "client_msg_id": "8ff2b2f6-b494-4d1f-9faa-e36220d41b15",
+        "text": "Maybe that’s why, the OSC features didn’t work the first time with <@U03FC5ZAK>. I downloaded there full sdk from there dev server but i can’t find any trace of OSC interface in the javadoc (or i didn’t find it).",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566472038.013800",
+        "parent_user_id": "UM9FGHCQ5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8RMW9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe that’s why, the OSC features didn’t work the first time with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I downloaded there full sdk from there dev server but i can’t find any trace of OSC interface in the javadoc (or i didn’t find it)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1566485013.025100",
+        "client_msg_id": "18b277cb-6bc9-4cd9-ba39-781722bdf172",
+        "text": "<@U03FC5ZAK>  I put the sdks full in the drive with restricted access, <@UM9FGHCQ5>if you can check something for integrating the osc jar library with these, let me know : <https:\/\/drive.google.com\/drive\/folders\/1WsTNsi-oplM3bMo3zi_IgUKanlqaFPmq?usp=sharing>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566472038.013800",
+        "parent_user_id": "UM9FGHCQ5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z4J=a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  I put the sdks full in the drive with restricted access, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UM9FGHCQ5"
+                            },
+                            {
+                                "type": "text",
+                                "text": "if you can check something for integrating the osc jar library with these, let me know : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1WsTNsi-oplM3bMo3zi_IgUKanlqaFPmq?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1566485501.025400",
+        "client_msg_id": "a9bc3afb-aa34-4cde-9fd4-708cc67c07e2",
+        "text": "He probably meant the displayed graph from the demo app",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566472431.015600",
+        "parent_user_id": "UM9FGHCQ5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CCkS8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "He probably meant the displayed graph from the demo app"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "ULSDVUUVA",
+        "type": "message",
+        "ts": "1566490716.025600",
+        "client_msg_id": "4cc9bae0-61e5-4dbb-aeef-5a2cc235ee42",
+        "text": "<@U03FC5ZAK> the consent may be a bit difficult. Even thought I then can not tell about legal issues in case of [placeholder]. The 2-pager of pre-questionnaire is rapidly done, just need printer. The pre-validation can be done if we set a proper timeframe. The pics are ready in raw format. <@UM9FGHCQ5> <@U59MQ46DA> Do you have time tomorrow (friday) morning (skype) so I can explain what we need and you check the possibilities? 300 photos need to be rated remote on 3 dimensions, each a 5-point likert skale with radio buttons. (see above). The pics are there, but maybe need to be re-sized etc. <@U03FEH3N8> What do you think?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "d6568f25a9a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-08\/3075305835828_d6568f25a9a41b2be2ef_72.jpg",
+            "first_name": "Maike",
+            "real_name": "Maike",
+            "display_name": "Maike",
+            "team": "T03FC4NDZ",
+            "name": "maikeherbort",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566477869.021400",
+        "parent_user_id": "ULSDVUUVA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RsZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the consent may be a bit difficult. Even thought I then can not tell about legal issues in case of [placeholder]. The 2-pager of pre-questionnaire is rapidly done, just need printer. The pre-validation can be done if we set a proper timeframe. The pics are ready in raw format. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UM9FGHCQ5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Do you have time tomorrow (friday) morning (skype) so I can explain what we need and you check the possibilities? 300 photos need to be rated remote on 3 dimensions, each a 5-point likert skale with radio buttons. (see above). The pics are there, but maybe need to be re-sized etc. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " What do you think?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "ULSDVUUVA",
+        "type": "message",
+        "ts": "1566490788.025800",
+        "client_msg_id": "0798c6ca-b177-4977-871d-36acec320899",
+        "text": "<@U03FEH3N8> This was done quick and deepl-dirty by me. Appreciate your comments :pray:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "d6568f25a9a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-08\/3075305835828_d6568f25a9a41b2be2ef_72.jpg",
+            "first_name": "Maike",
+            "real_name": "Maike",
+            "display_name": "Maike",
+            "team": "T03FC4NDZ",
+            "name": "maikeherbort",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566480623.022400",
+        "parent_user_id": "ULSDVUUVA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mz9PD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " This was done quick and deepl-dirty by me. Appreciate your comments "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1566492684.026200",
+        "client_msg_id": "afc4e654-66ef-4bf5-93e3-3007ff3cd333",
+        "text": "<@ULSDVUUVA> I’m not available tomorrow, i’ll see that monday at the hacknight",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566477869.021400",
+        "parent_user_id": "ULSDVUUVA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WHN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "ULSDVUUVA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I’m not available tomorrow, i’ll see that monday at the hacknight"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "ULSDVUUVA",
+        "type": "message",
+        "ts": "1566493026.026400",
+        "client_msg_id": "87e934f9-81e8-4f3e-9684-3bd2537ff981",
+        "text": "<@U59MQ46DA> Ok. I’m on a UX workshop mon and tue and would like to leave Hacknight at 8pm to be quick and fit the next day. When will you be there on mon? Would 6:30pm work for you? <@UM9FGHCQ5> Will you be available mon in person or via skype for a discussion?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "d6568f25a9a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-08\/3075305835828_d6568f25a9a41b2be2ef_72.jpg",
+            "first_name": "Maike",
+            "real_name": "Maike",
+            "display_name": "Maike",
+            "team": "T03FC4NDZ",
+            "name": "maikeherbort",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566477869.021400",
+        "parent_user_id": "ULSDVUUVA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y\/Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Ok. I’m on a UX workshop mon and tue and would like to leave Hacknight at 8pm to be quick and fit the next day. When will you be there on mon? Would 6:30pm work for you? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UM9FGHCQ5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Will you be available mon in person or via skype for a discussion?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1566493733.026600",
+        "client_msg_id": "f271bfd5-54c0-4604-9229-fbdf63b6316c",
+        "text": "It’s ok monday at 6h30pm",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566477869.021400",
+        "parent_user_id": "ULSDVUUVA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7yAl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It’s ok monday at 6h30pm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1566513507.026900",
+        "client_msg_id": "3d0652ab-470c-48fd-bd60-c859939ff9d6",
+        "text": "<https:\/\/www.youtube.com\/watch?v=wyX0YHSFAkE>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "De l'émotion dans la décision",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=wyX0YHSFAkE",
+                "author_name": "Cité des sciences et de l'industrie",
+                "author_link": "https:\/\/www.youtube.com\/user\/citedessciences",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/wyX0YHSFAkE\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: De l'émotion dans la décision",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/wyX0YHSFAkE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=wyX0YHSFAkE",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=wyX0YHSFAkE"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v7Uj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=wyX0YHSFAkE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

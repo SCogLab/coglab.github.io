@@ -1,0 +1,104 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1548263443.000100",
+        "client_msg_id": "4b2d0bd8-ce14-4f19-bbae-2dc2972f122f",
+        "text": "C’est possible oui. Dommage qu’il n’y ai pas la référence vers l’étude",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1548191364.000300",
+        "parent_user_id": "U0FB4KME0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c0o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C’est possible oui. Dommage qu’il n’y ai pas la référence vers l’étude"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0FB4KME0",
+        "type": "message",
+        "ts": "1548275247.000300",
+        "client_msg_id": "e0387d57-24c7-4617-830a-e56216093e03",
+        "text": "J'ai çà, ref en bas, mais c'est vieux:\n<https:\/\/www.fondation-maif.fr\/pageArticle.php?rub=1&amp;id=618>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g1199c476c54",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/11199c476c54600d8571a80f70737cbd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "",
+            "real_name": "paul",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "paul",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1548191364.000300",
+        "parent_user_id": "U0FB4KME0",
+        "attachments": [
+            {
+                "service_name": "Fondation MAIF",
+                "title": "Objets connectés et sommeil, usages et risques",
+                "title_link": "https:\/\/www.fondation-maif.fr\/pageArticle.php?rub=1&id=618",
+                "text": "Les dispositifs de gestion individuelle du sommeil sont en plein essor. Quelles sont leurs fonctions ? Que font réellement les personnes avec ces systèmes ?",
+                "fallback": "Fondation MAIF: Objets connectés et sommeil, usages et risques",
+                "image_url": "https:\/\/www.fondation-maif.fr\/up\/projets\/618\/sommeil-connecte-22.jpg",
+                "image_width": 478,
+                "image_height": 250,
+                "from_url": "https:\/\/www.fondation-maif.fr\/pageArticle.php?rub=1&id=618",
+                "image_bytes": 159797,
+                "service_icon": "https:\/\/www.fondation-maif.fr\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.fondation-maif.fr\/pageArticle.php?rub=1&amp;id=618"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IFW7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai çà, ref en bas, mais c'est vieux:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.fondation-maif.fr\/pageArticle.php?rub=1&amp;id=618",
+                                "text": "https:\/\/www.fondation-maif.fr\/pageArticle.php?rub=1&id=618"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

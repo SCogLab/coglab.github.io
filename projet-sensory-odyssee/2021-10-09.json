@@ -1,0 +1,308 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U02GLDK69UJ",
+        "text": "<@U02GLDK69UJ> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1633799648.000200"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U02GLDKAWQ2",
+        "text": "<@U02GLDKAWQ2> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1633799658.000400"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1633800265.009400",
+        "client_msg_id": "1efabf8e-ae1e-4eaa-aea9-ed01409ce2d0",
+        "text": "Hello\n\nJe viens de mettre la partie *documentation* (technique et scientifique) dans un document à part <https:\/\/docs.google.com\/document\/d\/1N6AAsOfdtdpp4EicCAi4pNaHJVRXzrle4OvvCk88GmE\/>\n\nJ'en profite pour ajouter <@U02GLDK69UJ> et <@U02GLDKAWQ2>, étudiants à l'Institut de Psychologie et motivé pour contribuer au projet\n\nDu côté de l'organisation, je me dit qu'il est venu le moment de renforcer notre *outillage* pour *améliorer la synchronisation et la documentation entre nous tous*.\nPour cela <!channel>, avez vous une préférence entre :\n• :one: le Google Drive \/ Docs existant (documentation) + un tableau Trello pour les tâches + une forge (code)\n• :two: Utiliser directement le Wiki (documentation) + Kanban (tâches) + forge (code) en natif de GitHub ou GitLab\n• :three: Utiliser un service comme Notion (documentation + tâches) + une forge (code)\n• :four: Pas de préférence, je m'adapte\n(merci de réagir avec l'Emoji correspondant sur votre préférence)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sijt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello\n\nJe viens de mettre la partie "
+                            },
+                            {
+                                "type": "text",
+                                "text": "documentation",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (technique et scientifique) dans un document à part "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1N6AAsOfdtdpp4EicCAi4pNaHJVRXzrle4OvvCk88GmE\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nJ'en profite pour ajouter "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02GLDK69UJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02GLDKAWQ2"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", étudiants à l'Institut de Psychologie et motivé pour contribuer au projet\n\nDu côté de l'organisation, je me dit qu'il est venu le moment de renforcer notre "
+                            },
+                            {
+                                "type": "text",
+                                "text": "outillage",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour "
+                            },
+                            {
+                                "type": "text",
+                                "text": "améliorer la synchronisation et la documentation entre nous tous",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\nPour cela "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", avez vous une préférence entre :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "one",
+                                        "unicode": "0031-fe0f-20e3"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " le Google Drive \/ Docs existant (documentation) + un tableau Trello pour les tâches + une forge (code)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "two",
+                                        "unicode": "0032-fe0f-20e3"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Utiliser directement le Wiki (documentation) + Kanban (tâches) + forge (code) en natif de GitHub ou GitLab"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "three",
+                                        "unicode": "0033-fe0f-20e3"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Utiliser un service comme Notion (documentation + tâches) + une forge (code)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "four",
+                                        "unicode": "0034-fe0f-20e3"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Pas de préférence, je m'adapte"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(merci de réagir avec l'Emoji correspondant sur votre préférence)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "one",
+                "users": [
+                    "U03FC5ZAK",
+                    "U59MQ46DA",
+                    "U01J9RAA8H1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U03FC5ZAK",
+                    "UAMPR1P5L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "three",
+                "users": [
+                    "U03FC5ZAK",
+                    "UAMPR1P5L",
+                    "U01J9RAA8H1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "four",
+                "users": [
+                    "U03FC5ZAK",
+                    "U01S8PWA7GU",
+                    "U02GLDK69UJ",
+                    "U02GLDKAWQ2"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1633800288.010100",
+        "client_msg_id": "aafb1bb1-052b-4217-b2b6-47edff2dec43",
+        "text": "Côté forge, plutôt GitHub :cat: ou GitLab :fox_face:  ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yka",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Côté forge, plutôt GitHub "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cat",
+                                "unicode": "1f431"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ou GitLab "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fox_face",
+                                "unicode": "1f98a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "cat",
+                "users": [
+                    "U03FC5ZAK",
+                    "U01S8PWA7GU",
+                    "U59MQ46DA",
+                    "UAMPR1P5L",
+                    "U01J9RAA8H1"
+                ],
+                "count": 5
+            },
+            {
+                "name": "fox_face",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

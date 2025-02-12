@@ -1,0 +1,109 @@
+[
+    {
+        "user": "UAMPR1P5L",
+        "type": "message",
+        "ts": "1606816332.000800",
+        "client_msg_id": "438d21a1-1cc0-4bdb-a589-54d846cc9afe",
+        "text": "Et elle rejoint ça : <https:\/\/fabacademy.org\/>\nDonc elle pourra peut-être nous aider pour le design 3D.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g73db985d858",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273db985d858035ed23c0594718e0eac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "mesca",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "coglab644",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Fab Academy",
+                "title_link": "https:\/\/fabacademy.org\/",
+                "text": "How to make almost anything",
+                "fallback": "Fab Academy",
+                "from_url": "https:\/\/fabacademy.org\/",
+                "service_icon": "https:\/\/fabacademy.org\/favicon-16x16.png",
+                "service_name": "fabacademy.org",
+                "id": 1,
+                "original_url": "https:\/\/fabacademy.org\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cMPYf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et elle rejoint ça : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fabacademy.org\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDonc elle pourra peut-être nous aider pour le design 3D."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA",
+                    "U03FC5ZAK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1606819148.003800",
+        "client_msg_id": "DF946486-E819-4B44-B608-F3AD5DD35C75",
+        "text": "Petite remarque, nous n’avons pas déterminé la licence soft pour les devs, vous êtes plutôt favorable à quelle type de licence pour ce projet ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OQdEk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Petite remarque, nous n’avons pas déterminé la licence soft pour les devs, vous êtes plutôt favorable à quelle type de licence pour ce projet ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

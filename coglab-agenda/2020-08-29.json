@@ -1,0 +1,48 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: NeuroTechX India - The Magical World of Neurotechnology: <!date^1598785200^{date_short_pretty} from {time}|August 30th, 2020 from 1:00 PM> to <!date^1598788800^{time}|2:00 PM GMT+0200>",
+                "text": "<!date^1598785200^{date_short_pretty} from {time}|August 30th, 2020 from 1:00 PM> to <!date^1598788800^{time}|2:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Online+event|Online event>",
+                "pretext": "New calendar event created",
+                "title": "NeuroTechX India - The Magical World of Neurotechnology",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NDZ2Y3N1dWY5OHVwZDc0NzhrYXNwdW01dm4gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1598731025.001000",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event cancelled: 42ème Forum des Associations: <!date^1599289200^{date_short_pretty} from {time}|September 5th, 2020 from 9:00 AM> to <!date^1599321600^{time}|6:00 PM GMT+0200>",
+                "text": "<!date^1599289200^{date_short_pretty} from {time}|September 5th, 2020 from 9:00 AM> to <!date^1599321600^{time}|6:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Espace+Concorde-Francis+Delage%2C+27+Rue+de+la+Concorde%2C+92600+Asni%C3%A8res-sur-Seine%2C+France|Espace Concorde-Francis Delage, 27 Rue de la Concorde, 92600 Asnières-sur-Seine, France>",
+                "pretext": "Calendar event was cancelled",
+                "title": "42ème Forum des Associations",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MWdqbnFsYzdrMHBodHNxMWhnNWpzNmpsN20gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1598732225.001100",
+        "bot_id": "B4SJBP2L8"
+    }
+]

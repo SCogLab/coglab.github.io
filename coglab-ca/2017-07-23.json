@@ -1,0 +1,76 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1500837152.328146",
+        "text": "Hello <!channel> \nPour rappel, un petit doodle est en cours pour la prochaine réunion du C.A.\n<https:\/\/beta.doodle.com\/poll\/bm26maq8h97m2fbf>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Doodle: Conseil d'Administration N°1",
+                "title_link": "https:\/\/beta.doodle.com\/poll\/bm26maq8h97m2fbf",
+                "text": "Doodle radically simplifies the process of scheduling events, meetings, appointments, etc. Herding cats gets 2x faster with Doodle. For free!",
+                "fallback": "Doodle: Conseil d'Administration N°1",
+                "image_url": "https:\/\/beta.doodle.com\/graphics\/static\/facebookSharingThumbnail.png",
+                "from_url": "https:\/\/beta.doodle.com\/poll\/bm26maq8h97m2fbf",
+                "image_width": 300,
+                "image_height": 200,
+                "image_bytes": 6864,
+                "service_icon": "https:\/\/beta.doodle.com\/dist\/i\/650dd6854eeca2499449e1a762978fc2.png",
+                "service_name": "beta.doodle.com",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GGpy9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nPour rappel, un petit doodle est en cours pour la prochaine réunion du C.A.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/beta.doodle.com\/poll\/bm26maq8h97m2fbf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0AR01SPQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: WEPASCO Fresco 2019: <!date^1556902800^{date_short_pretty} from {time}|May 3rd, 2019 from 7:00 PM> to <!date^1557061200^{date_short_pretty} at {time}|May 5th, 2019 at 3:00 PM GMT+0200>",
+                "text": "<!date^1556902800^{date_short_pretty} from {time}|May 3rd, 2019 from 7:00 PM> to <!date^1557061200^{date_short_pretty} at {time}|May 5th, 2019 at 3:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=La+Bourboule%2C+63150+La+Bourboule%2C+France|La Bourboule, 63150 La Bourboule, France>",
+                "pretext": "New calendar event created",
+                "title": "WEPASCO Fresco 2019",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MHFsYWRyODM0NWw5dTc4MGViYTY4cDF1YXIgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1550662328.000100",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event cancelled: [Fresco] WEPASCO: <!date^1556910000^{date_short_pretty} from {time}|May 3rd, 2019 from 9:00 PM> to <!date^1557061200^{date_short_pretty} at {time}|May 5th, 2019 at 3:00 PM GMT+0200>",
+                "text": "<!date^1556910000^{date_short_pretty} from {time}|May 3rd, 2019 from 9:00 PM> to <!date^1557061200^{date_short_pretty} at {time}|May 5th, 2019 at 3:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=France|France>",
+                "pretext": "Calendar event was cancelled",
+                "title": "[Fresco] WEPASCO",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NnU1aWU3MGNvOGl1b2lxZnNrMWdqdTZzZTcgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1550662328.000200",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "UGBFU7HGQ",
+        "text": "<@UGBFU7HGQ> a rejoint le canal",
+        "type": "message",
+        "ts": "1550689586.000200"
+    }
+]

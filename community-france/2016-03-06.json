@@ -1,0 +1,130 @@
+[
+    {
+        "user": "U07CLARN1",
+        "type": "message",
+        "ts": "1457267177.000002",
+        "text": "<@U03FC5ZAK>: j'ai bien reçu ton invitation pour le pad du manifeste, cependant je n'ai pas les droits pour y accéder....",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gddf4d6126fe",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7ddf4d6126fe8dc2957569141ccb2567.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Jérémy",
+            "real_name": "Jérémy VIRGO",
+            "display_name": "jeremy",
+            "team": "T03FC4NDZ",
+            "name": "jeremy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+BQoe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": j'ai bien reçu ton invitation pour le pad du manifeste, cependant je n'ai pas les droits pour y accéder...."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1457280752.000002",
+        "text": "Yes désolé, fausse manip hier soir ! :confused:\nC'est corrigé !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rfvKk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes désolé, fausse manip hier soir ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused",
+                                "unicode": "1f615"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nC'est corrigé !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07CLARN1",
+        "type": "message",
+        "ts": "1457297646.000003",
+        "edited": {
+            "user": "U07CLARN1",
+            "ts": "1457297660.000000"
+        },
+        "text": "niquel",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gddf4d6126fe",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7ddf4d6126fe8dc2957569141ccb2567.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Jérémy",
+            "real_name": "Jérémy VIRGO",
+            "display_name": "jeremy",
+            "team": "T03FC4NDZ",
+            "name": "jeremy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wd5Vs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "niquel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

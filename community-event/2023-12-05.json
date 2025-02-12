@@ -1,0 +1,65 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1701778668.498949",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1701778748.000000"
+        },
+        "client_msg_id": "ab30c43d-d5d9-43bd-9287-30ac45566f21",
+        "text": "Bon... à nouveau pleins d'évènements qui se passent en même temps :grin: (<@U01804NJ7AQ> ) comme cet évènement en ligne PyData Global (du 6 au 8 décembre) : <https:\/\/pydata.org\/global2023\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dFY\/Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bon... à nouveau pleins d'évènements qui se passent en même temps "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin",
+                                "unicode": "1f601"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ("
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01804NJ7AQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ) comme cet évènement en ligne PyData Global (du 6 au 8 décembre) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pydata.org\/global2023\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

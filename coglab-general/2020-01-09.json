@@ -1,0 +1,90 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1578564942.003000",
+        "client_msg_id": "4acafb41-c817-4cb6-91b0-b8dce2f765b5",
+        "text": "Bonjour <!channel>\n\nUne nouvelle chaine est disponible sur notre Slack : <#CSH6U17LP|community-opportunity>\n\nVous avez une annonce, offre d’emploi et autres opportunités en lien avec les neurotechnologies et sciences cognitives à partager ? N’hésitez pas à diffuser ici.\n\n___\nPour en savoir plus, rendez-vous également sur NeuroTechX Services <https:\/\/neurotechservices.com\/>\n\n:bulb:Pour les pro, nous pouvons également vous fournir un service personnalisé avec l’équipe locale, en collaboration avec NeuroTechX Global.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "NeuroTechX Services",
+                "title": "Home page - NeuroTechX Services",
+                "title_link": "https:\/\/neurotechservices.com\/",
+                "text": "WHY NEUROTECHX? NTX Services is the services branch of NeuroTechX (aka NTX) which brings neuroscience, technology, and strategy experts together with a variety of academic and professional backgrounds! Being the biggest international Neurotechnology community with over 12 000 members across online channels, 17 City Chapters, and 15 Student Clubs, we’ve gathered a vast realm of",
+                "fallback": "NeuroTechX Services: Home page - NeuroTechX Services",
+                "image_url": "https:\/\/neurotechservices.com\/wp-content\/uploads\/2018\/02\/image_one.jpg",
+                "from_url": "https:\/\/neurotechservices.com\/",
+                "image_width": 382,
+                "image_height": 250,
+                "image_bytes": 151209,
+                "service_icon": "https:\/\/neurotechservices.com\/wp-content\/uploads\/2018\/02\/cropped-ntx_black_square-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/neurotechservices.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NxKO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nUne nouvelle chaine est disponible sur notre Slack : "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CSH6U17LP"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nVous avez une annonce, offre d’emploi et autres opportunités en lien avec les neurotechnologies et sciences cognitives à partager ? N’hésitez pas à diffuser ici.\n\n___\nPour en savoir plus, rendez-vous également sur NeuroTechX Services "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/neurotechservices.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bulb",
+                                "unicode": "1f4a1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Pour les pro, nous pouvons également vous fournir un service personnalisé avec l’équipe locale, en collaboration avec NeuroTechX Global."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

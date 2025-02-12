@@ -1,0 +1,57 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U03CMPK03K8",
+        "text": "<@U03CMPK03K8> a rejoint le canal",
+        "type": "message",
+        "ts": "1650905879.861199",
+        "team": "T03FC4NDZ"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1650906305.377879",
+        "client_msg_id": "e4533277-9e9b-44d0-98a1-6a040bc4eb1f",
+        "text": ":wave: Dispo au LPI (ex CRI) pour la session HackNight avec <@U59MQ46DA>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qPn\/x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Dispo au LPI (ex CRI) pour la session HackNight avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

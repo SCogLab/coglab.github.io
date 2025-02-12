@@ -1,0 +1,54 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: C.A. CogLab: <!date^1566230400^{date_short_pretty} from {time}|August 19th, 2019 from 6:00 PM> to <!date^1566234000^{time}|7:00 PM GMT+0200>",
+                "text": "<!date^1566230400^{date_short_pretty} from {time}|August 19th, 2019 from 6:00 PM> to <!date^1566234000^{time}|7:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "C.A. CogLab",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MjBiaGw0MnRoaGxsNDc5bXE3YzE1M2NvNjEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1565685073.000400",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: C.A. CogLab: <!date^1566230400^{date_short_pretty} from {time}|August 19th, 2019 from 6:00 PM> to <!date^1566234000^{time}|7:00 PM GMT+0200>",
+                "text": "<!date^1566230400^{date_short_pretty} from {time}|August 19th, 2019 from 6:00 PM> to <!date^1566234000^{time}|7:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "C.A. CogLab",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MjBiaGw0MnRoaGxsNDc5bXE3YzE1M2NvNjEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1565685431.000500",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "UMAC8FF0C",
+        "text": "<@UMAC8FF0C> a rejoint le canal",
+        "type": "message",
+        "ts": "1565701796.000700"
+    }
+]

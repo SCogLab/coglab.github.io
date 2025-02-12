@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1499775925.964273",
+        "text": "<!here|@here> une grosse annonce d’OpenVibe pour les projets EEG\nPar contre, toujours pas de compatibilité avec MacOS à priori\n<http:\/\/openvibe.inria.fr\/openvibe-2-0-soon-to-appear\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "OpenViBE",
+                "title": "OpenViBE 2.0 : Soon to appear",
+                "title_link": "http:\/\/openvibe.inria.fr\/openvibe-2-0-soon-to-appear\/",
+                "text": "NB: this document is work in progress. details may change (doc updated 10.Jul.2017). Expected OpenViBE 2.0 release date: 31.07.2017 Scope OpenViBE 2.0 is a major new release of one of the world's leading BCI software systems. OpenViBE 2.0 is the first OpenViBE to be based on the 'OpenViBE SDK', a result of 7+7 man years of expert software development and quality assurance work from Inria...",
+                "fallback": "OpenViBE: OpenViBE 2.0 : Soon to appear",
+                "ts": 1499694219,
+                "from_url": "http:\/\/openvibe.inria.fr\/openvibe-2-0-soon-to-appear\/",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vTJo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here|@here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " une grosse annonce d’OpenVibe pour les projets EEG\nPar contre, toujours pas de compatibilité avec MacOS à priori\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/openvibe.inria.fr\/openvibe-2-0-soon-to-appear\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1568046561.000200",
+        "client_msg_id": "97712b6e-870c-4a38-9a32-d03888c8f915",
+        "text": "<https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/30371470?dopt=Abstract>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568046561.000200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1568051419.000400",
+        "reply_users": [
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1568051419.000400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "title": "Using Design Thinking to Develop New Methods of Inclusive Exhibition Making.  - PubMed - NCBI ",
+                "title_link": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/30371470?dopt=Abstract",
+                "text": "Stud Health Technol Inform. 2018;256:151-160.",
+                "fallback": "Using Design Thinking to Develop New Methods of Inclusive Exhibition Making.  - PubMed - NCBI ",
+                "image_url": "http:\/\/www.ncbi.nlm.nih.gov\/coreutils\/img\/pubmed256blue.png",
+                "from_url": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/30371470?dopt=Abstract",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 13298,
+                "service_icon": "http:\/\/www.ncbi.nlm.nih.gov\/favicon.ico",
+                "service_name": "ncbi.nlm.nih.gov",
+                "id": 1,
+                "original_url": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/30371470?dopt=Abstract"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PHJo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/30371470?dopt=Abstract"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U07CPSBGX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568051419.000400",
+        "client_msg_id": "2cc46f3a-76aa-44eb-ae47-a8ca3510b82b",
+        "text": "intrigé par l’approche méthodologique   :face_with_monocle:\n\nje regarderais plus en détail quand j’aurais un petit moment",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568046561.000200",
+        "parent_user_id": "U03FEH3N8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nEKN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "intrigé par l’approche méthodologique   "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_monocle",
+                                "unicode": "1f9d0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nje regarderais plus en détail quand j’aurais un petit moment"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

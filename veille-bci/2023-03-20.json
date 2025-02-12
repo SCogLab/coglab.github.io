@@ -1,0 +1,83 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1679342534.200899",
+        "client_msg_id": "508f6bce-21d5-4268-94ec-d4a07aa765ff",
+        "text": "PiEEG <https:\/\/www.crowdsupply.com\/hackerbci\/pieeg>\n\nCampagne de financement en cours d’une carte permettant la mesure de signaux physiologique via la plateforme Raspberry Pi, par l’équipe hackerBCI <https:\/\/hackerbci.webflow.io\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.crowdsupply.com\/img\/6464\/pieeg-1_jpg_open-graph.jpg",
+                "image_width": 1500,
+                "image_height": 847,
+                "image_bytes": 109088,
+                "from_url": "https:\/\/www.crowdsupply.com\/hackerbci\/pieeg",
+                "service_icon": "https:\/\/www.crowdsupply.com\/_marvin\/images\/crowd-supply-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.crowdsupply.com\/hackerbci\/pieeg",
+                "fallback": "Crowd Supply: PiEEG",
+                "text": "Open source Raspberry Pi shield that measures EEG, EMG, and ECG bio-signals",
+                "title": "PiEEG",
+                "title_link": "https:\/\/www.crowdsupply.com\/hackerbci\/pieeg",
+                "service_name": "Crowd Supply"
+            },
+            {
+                "image_url": "https:\/\/uploads-ssl.webflow.com\/6179633b232a7a44820029c3\/61bb5e4b4052c79150805b56_hackerBCI_social.jpeg",
+                "image_width": 1200,
+                "image_height": 627,
+                "image_bytes": 168487,
+                "from_url": "https:\/\/hackerbci.webflow.io\/",
+                "id": 2,
+                "original_url": "https:\/\/hackerbci.webflow.io\/",
+                "fallback": "hackerBCI - Brain-Computer-Interface Electronics",
+                "text": "The easiest way to enter the world of Brain-Computer-Interfaces and start your own neuroscience projects.",
+                "title": "hackerBCI - Brain-Computer-Interface Electronics",
+                "title_link": "https:\/\/hackerbci.webflow.io\/",
+                "service_name": "hackerbci.webflow.io"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ey9mD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "PiEEG "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.crowdsupply.com\/hackerbci\/pieeg"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nCampagne de financement en cours d’une carte permettant la mesure de signaux physiologique via la plateforme Raspberry Pi, par l’équipe hackerBCI "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/hackerbci.webflow.io\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

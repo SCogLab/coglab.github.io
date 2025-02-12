@@ -1,0 +1,55 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "ULSDVUUVA",
+        "text": "<@ULSDVUUVA> a rejoint le canal",
+        "type": "message",
+        "ts": "1564134786.000900"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1564146526.001200",
+        "edited": {
+            "user": "U03FC5ZAK",
+            "ts": "1564146582.000000"
+        },
+        "client_msg_id": "53cae91a-0f23-408f-b7e3-3e287f650c61",
+        "text": "Journées Internationales de Psychologie à Amiens, 14-15 nov :  « Sciences humaines et #IntelligenceArtificielle #IA: une diversité de recherches et d’applications »\n<https:\/\/jipa2019.sciencesconf.org\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KbvR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Journées Internationales de Psychologie à Amiens, 14-15 nov :  « Sciences humaines et #IntelligenceArtificielle #IA: une diversité de recherches et d’applications »\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/jipa2019.sciencesconf.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

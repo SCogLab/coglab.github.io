@@ -1,0 +1,87 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1570458191.001300",
+        "client_msg_id": "17652455-a6e4-4fce-a923-28d35fb9062d",
+        "text": "Je parles bien de médiation",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570427043.001100",
+        "parent_user_id": "ULSDVUUVA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RWsij",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je parles bien de médiation"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "ULSDVUUVA",
+        "type": "message",
+        "ts": "1570459144.001500",
+        "client_msg_id": "dea1d66f-d8c9-48f0-97ee-a66c55ae0e35",
+        "text": "Je trouve que tu doived parler plus de la méditation que la médiation :kissing_heart:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "d6568f25a9a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-08\/3075305835828_d6568f25a9a41b2be2ef_72.jpg",
+            "first_name": "Maike",
+            "real_name": "Maike",
+            "display_name": "Maike",
+            "team": "T03FC4NDZ",
+            "name": "maikeherbort",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570427043.001100",
+        "parent_user_id": "ULSDVUUVA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "neSnc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je trouve que tu doived parler plus de la méditation que la médiation "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "kissing_heart",
+                                "unicode": "1f618"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

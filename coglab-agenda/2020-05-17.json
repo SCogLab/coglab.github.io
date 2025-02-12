@@ -1,0 +1,88 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There are *4* events this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #148 [Online]: <!date^1589817600^{date_short_pretty} from {time}|May 18th, 2020 from 6:00 PM> to <!date^1589828400^{time}|9:00 PM GMT+0200>",
+                "text": "<!date^1589817600^{date_short_pretty} from {time}|May 18th, 2020 from 6:00 PM> to <!date^1589828400^{time}|9:00 PM GMT+0200> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>, ",
+                "title": "CogLab HackNight #148 [Online]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Mm45a25zNmYwcWtvYTVtbDRwcnAwZjNxamIgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "NTX BCI_101 Week 3 Day 1: <!date^1589907600^{date_short_pretty} from {time}|May 19th, 2020 from 7:00 PM> to <!date^1589911200^{time}|8:00 PM GMT+0200>",
+                "text": "<!date^1589907600^{date_short_pretty} from {time}|May 19th, 2020 from 7:00 PM> to <!date^1589911200^{time}|8:00 PM GMT+0200> at <https:\/\/www.eventbrite.com\/e\/bci-101-tickets-103682840166>, ",
+                "title": "NTX BCI_101 Week 3 Day 1",
+                "id": 2,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NGJ0MnUzOGZkc2JwbmIzYmVnYzJwbXI4bzUgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "NTX BCI_101 Week 3 Day 2: <!date^1589994000^{date_short_pretty} from {time}|May 20th, 2020 from 7:00 PM> to <!date^1589997600^{time}|8:00 PM GMT+0200>",
+                "text": "<!date^1589994000^{date_short_pretty} from {time}|May 20th, 2020 from 7:00 PM> to <!date^1589997600^{time}|8:00 PM GMT+0200> at <https:\/\/www.eventbrite.com\/e\/bci-101-tickets-103682840166>, ",
+                "title": "NTX BCI_101 Week 3 Day 2",
+                "id": 3,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MmRwamplYjJ0ZWdhOXB0dTRxMXA1dmoyM2sgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "NTX BCI_101 Week 3 Day 2: <!date^1590080400^{date_short_pretty} from {time}|May 21st, 2020 from 7:00 PM> to <!date^1590084000^{time}|8:00 PM GMT+0200>",
+                "text": "<!date^1590080400^{date_short_pretty} from {time}|May 21st, 2020 from 7:00 PM> to <!date^1590084000^{time}|8:00 PM GMT+0200> at <https:\/\/www.eventbrite.com\/e\/bci-101-tickets-103682840166>, ",
+                "title": "NTX BCI_101 Week 3 Day 2",
+                "id": 4,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NGNzOGFmaXVnMDFwMnVoMm5oNTU2aGVuZGcgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1589781606.008400",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Un4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "4",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " events this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

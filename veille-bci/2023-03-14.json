@@ -1,0 +1,116 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1678825695.365139",
+        "client_msg_id": "187f9580-9894-41d3-8b17-5af383a2a00e",
+        "text": "<https:\/\/www.presse-citron.net\/les-neurosciences-ont-fait-une-grande-avancee-grace-a-une-mouche\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.presse-citron.net\/app\/uploads\/2023\/03\/cerveau-mouche.jpg",
+                "image_width": 1400,
+                "image_height": 932,
+                "image_bytes": 189804,
+                "from_url": "https:\/\/www.presse-citron.net\/les-neurosciences-ont-fait-une-grande-avancee-grace-a-une-mouche\/",
+                "service_icon": "https:\/\/www.presse-citron.net\/apple-touch-icon.png",
+                "ts": 1678805105,
+                "id": 1,
+                "original_url": "https:\/\/www.presse-citron.net\/les-neurosciences-ont-fait-une-grande-avancee-grace-a-une-mouche\/",
+                "fallback": "Presse-citron: Les neurosciences ont fait une grande avancée grâce à une mouche",
+                "text": "Voici la première carte du cerveau d'une mouche. Avec 3000 neurones et 548 000 synapses, c'est le plus \"simple des cerveaux complexes\".",
+                "title": "Les neurosciences ont fait une grande avancée grâce à une mouche",
+                "title_link": "https:\/\/www.presse-citron.net\/les-neurosciences-ont-fait-une-grande-avancee-grace-a-une-mouche\/",
+                "service_name": "Presse-citron",
+                "fields": [
+                    {
+                        "value": "Tristan Carballeda",
+                        "title": "Écrit par",
+                        "short": true
+                    },
+                    {
+                        "value": "2 minutes",
+                        "title": "Durée de lecture est.",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YVY1q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.presse-citron.net\/les-neurosciences-ont-fait-une-grande-avancee-grace-a-une-mouche\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1678825747.555079",
+        "client_msg_id": "0494b09c-44d7-4ccc-93b6-8392cce9f062",
+        "text": "Lien vers la publication originale : <https:\/\/www.science.org\/doi\/10.1126\/science.add9330>?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HFj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lien vers la publication originale : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.science.org\/doi\/10.1126\/science.add9330"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

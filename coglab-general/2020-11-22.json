@@ -1,0 +1,28 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card FSC 2020 added to list ÉVÉNEMENTS à venir on board Activités CogLab (public).",
+                "text": "In list *ÉVÉNEMENTS à venir* on *<https:\/\/trello.com\/b\/NFHS3ZPa|Activités CogLab (public)>*.",
+                "pretext": "New card created",
+                "title": "FSC 2020",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/xzrZw82Z",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "https:\/\/trello-members.s3.amazonaws.com\/50080b67614e7d5e0528a0d3\/8702436e6aff83ed056cbc687384d49f\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1606042451.015300",
+        "bot_id": "B66HQV43C"
+    }
+]

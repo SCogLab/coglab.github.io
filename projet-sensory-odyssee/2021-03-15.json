@@ -1,0 +1,186 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1615803120.001800",
+        "client_msg_id": "bc1163fa-a33d-4380-bafe-d6b297ce0cc9",
+        "text": "Léonie propose un appel :phone:  dans la semaine, quelles sont vos dispo ?\nDe mon côté, une préférence pour :\n• Mardi :one: \/ mercredi :two: après-midi\n• Jeudi :three: \/ vendredi :four: matin",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QSD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Léonie propose un appel "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "phone",
+                                "unicode": "260e-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  dans la semaine, quelles sont vos dispo ?\nDe mon côté, une préférence pour :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Mardi "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "one",
+                                        "unicode": "0031-fe0f-20e3"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " \/ mercredi "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "two",
+                                        "unicode": "0032-fe0f-20e3"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " après-midi"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Jeudi "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "three",
+                                        "unicode": "0033-fe0f-20e3"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " \/ vendredi "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "four",
+                                        "unicode": "0034-fe0f-20e3"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " matin"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "one",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "three",
+                "users": [
+                    "U03FC5ZAK",
+                    "U59MQ46DA",
+                    "U01J9RAA8H1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "four",
+                "users": [
+                    "U03FC5ZAK",
+                    "U59MQ46DA"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1615803148.002600",
+        "client_msg_id": "40151755-b045-44c2-94e9-03750a6bde9f",
+        "text": "Je vous invite à cliquer sur le numéro qui vous arrange :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k11",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je vous invite à cliquer sur le numéro qui vous arrange "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

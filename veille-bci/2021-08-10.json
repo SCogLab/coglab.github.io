@@ -1,0 +1,60 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1628603341.000900",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1628603488.000000"
+        },
+        "client_msg_id": "7badde8e-db79-4a6d-9edc-63a2d1af4f17",
+        "text": "Via la mailing list de NTX, un nouvel acteur Indien entre dans la danse avec un casque EEG 16 électrodes : <https:\/\/nexstem.ai>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Nexstem | Brain Computer Interface Software and Hardware Solutions",
+                "title_link": "https:\/\/nexstem.ai\/",
+                "text": "Gather, analyze, and experiment with brain data through Nexstem's brainwave measuring hardware and software solutions.",
+                "fallback": "Nexstem | Brain Computer Interface Software and Hardware Solutions",
+                "from_url": "https:\/\/nexstem.ai\/",
+                "service_name": "nexstem.ai",
+                "id": 1,
+                "original_url": "https:\/\/nexstem.ai"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JGEPJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Via la mailing list de NTX, un nouvel acteur Indien entre dans la danse avec un casque EEG 16 électrodes : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/nexstem.ai"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

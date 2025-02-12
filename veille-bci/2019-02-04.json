@@ -1,0 +1,76 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1549306181.001300",
+        "edited": {
+            "user": "U03FC5ZAK",
+            "ts": "1549306193.000000"
+        },
+        "client_msg_id": "952d9ece-3f77-41e7-a08c-a7bd536c3edd",
+        "text": "J’ai vu passé un podcast France Culture aujourd’hui d’octobre 2018, avec :\n- François Vialatte, maître de conférence à l’école supérieure de physique et de chimie industrielle de la ville de Paris, responsable de l’équipe interface cerveau machine au laboratoire Plasticité du cerveau\n- François Cabestaing, Professeur à l’Université de Lille, chef de l’équipe “Interfaces  Cerveau-Ordinateur” au laboratoire CRIStAL (UMR 9189)\n\n*Je n’ai pas encore écouté, je ne sais pas ce que ça vaut*.\n\n<https:\/\/www.franceculture.fr\/emissions\/la-methode-scientifique\/mind-reading-lordinateur-telepathe>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "France Culture",
+                "title": "Mind Reading, l’ordinateur télépathe",
+                "title_link": "https:\/\/www.franceculture.fr\/emissions\/la-methode-scientifique\/mind-reading-lordinateur-telepathe",
+                "text": "Quelles sont les difficultés rencontrées pour lire et interpréter une activité cérébrale ? Qu’appelle-t-on lire dans les pensées ? Quel est le langage de la pensée ? Que peut-on attendre des ICM dans le futur ? Peut-on penser à la télépathie via la machine ?",
+                "fallback": "France Culture: Mind Reading, l’ordinateur télépathe",
+                "image_url": "https:\/\/cdn.radiofrance.fr\/s3\/cruiser-production\/2018\/10\/3aee7c36-5246-4c6d-84d9-e70c933a776b\/838_capture.jpg",
+                "image_width": 185,
+                "image_height": 250,
+                "from_url": "https:\/\/www.franceculture.fr\/emissions\/la-methode-scientifique\/mind-reading-lordinateur-telepathe",
+                "image_bytes": 36834,
+                "service_icon": "https:\/\/www.franceculture.fr\/favicons\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.franceculture.fr\/emissions\/la-methode-scientifique\/mind-reading-lordinateur-telepathe"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1XLNk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’ai vu passé un podcast France Culture aujourd’hui d’octobre 2018, avec :\n- François Vialatte, maître de conférence à l’école supérieure de physique et de chimie industrielle de la ville de Paris, responsable de l’équipe interface cerveau machine au laboratoire Plasticité du cerveau\n- François Cabestaing, Professeur à l’Université de Lille, chef de l’équipe “Interfaces  Cerveau-Ordinateur” au laboratoire CRIStAL (UMR 9189)\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Je n’ai pas encore écouté, je ne sais pas ce que ça vaut",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.franceculture.fr\/emissions\/la-methode-scientifique\/mind-reading-lordinateur-telepathe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

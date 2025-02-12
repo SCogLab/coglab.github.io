@@ -1,0 +1,130 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1576580924.000800",
+        "client_msg_id": "513d4064-285e-411d-a519-44674f1ae375",
+        "text": "<https:\/\/www.maccreteil.com\/evenement\/692\/nemobiennale-internationale-des-arts-numeriques>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nd2n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.maccreteil.com\/evenement\/692\/nemobiennale-internationale-des-arts-numeriques"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CogLab HackNight #129 - New Year: <!date^1578328200^{date_short_pretty} from {time}|January 6th, 2020 from 5:30 PM> to <!date^1578344400^{time}|10:00 PM GMT+0100>",
+                "text": "<!date^1578328200^{date_short_pretty} from {time}|January 6th, 2020 from 5:30 PM> to <!date^1578344400^{time}|10:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=CRI%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France%2C+Charles+V-0-MakerLab+Classroom+%2830%29|CRI, 8 bis Rue Charles V, 75004 Paris, France, Charles V-0-MakerLab Classroom (30)>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab HackNight #129 - New Year",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NnZmODZ1amhlNGljcDJmdWZrb21tNHRlcjAgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1576586955.000900",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1576617422.001100",
+        "client_msg_id": "344eb2e2-d217-4db9-b733-22883f6336a2",
+        "text": "<https:\/\/www.eventbrite.fr\/e\/billets-laval-virtual-days-medias-un-evenement-france-bleu-82965019607>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Eventbrite",
+                "title": "Laval Virtual Days Médias - Un événement France Bleu",
+                "title_link": "https:\/\/www.eventbrite.fr\/e\/billets-laval-virtual-days-medias-un-evenement-france-bleu-82965019607",
+                "text": "Laval Virtual Days Médias - Un événement France Bleu dédié aux médias et aux techniques immersives",
+                "fallback": "Eventbrite: Laval Virtual Days Médias - Un événement France Bleu",
+                "image_url": "https:\/\/img.evbuc.com\/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F84091891%2F337295923855%2F1%2Foriginal.20191210-104519?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=3c3bb69f1ba5a69ae33b6e651c1822b1",
+                "fields": [
+                    {
+                        "title": "Where",
+                        "value": "116 Avenue du Président Kennedy, 75016 Paris, France",
+                        "short": true
+                    },
+                    {
+                        "title": "When",
+                        "value": "Le jeu  30 janv. 2020 à 09:30",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.eventbrite.fr\/e\/billets-laval-virtual-days-medias-un-evenement-france-bleu-82965019607",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 50879,
+                "service_icon": "https:\/\/cdn.evbstatic.com\/s3-build\/perm_001\/eba891\/django\/images\/touch_icons\/apple-touch-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.eventbrite.fr\/e\/billets-laval-virtual-days-medias-un-evenement-france-bleu-82965019607"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g4ObA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.eventbrite.fr\/e\/billets-laval-virtual-days-medias-un-evenement-france-bleu-82965019607"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

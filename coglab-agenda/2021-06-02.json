@@ -1,0 +1,161 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "[Option] Réunion SO: <!date^1622624400^{date_short_pretty} from {time}|June 2nd, 2021 from 11:00 AM> to <!date^1622628000^{time}|12:00 PM GMT+0200>",
+                "text": "<!date^1622624400^{date_short_pretty} from {time}|June 2nd, 2021 from 11:00 AM> to <!date^1622628000^{time}|12:00 PM GMT+0200>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "[Option] Réunion SO",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MXJibGJmb3NoZTBtZmc5ZmJsdmd2cXFtN2Ygc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1622620808.001500",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CogLab Projet - Réunion SO: <!date^1622624400^{date_short_pretty} from {time}|June 2nd, 2021 from 11:00 AM> to <!date^1622626200^{time}|11:30 AM GMT+0200>",
+                "text": "<!date^1622624400^{date_short_pretty} from {time}|June 2nd, 2021 from 11:00 AM> to <!date^1622626200^{time}|11:30 AM GMT+0200>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab Projet - Réunion SO",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MXJibGJmb3NoZTBtZmc5ZmJsdmd2cXFtN2Ygc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1622623275.001600",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: Workshop - SO: <!date^1624975200^{date_short_pretty} from {time}|June 29th, 2021 from 4:00 PM> to <!date^1624982400^{time}|6:00 PM GMT+0200>",
+                "text": "<!date^1624975200^{date_short_pretty} from {time}|June 29th, 2021 from 4:00 PM> to <!date^1624982400^{time}|6:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Pixelis%2C+Le+centvingtsept+by+Pixelis%2C+127+Avenue+Ledru+Rollin%2C+75011+Paris%2C+France|Pixelis, Le centvingtsept by Pixelis, 127 Avenue Ledru Rollin, 75011 Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "Workshop - SO",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=N2hyZjg1bzRmczJnZWE4NmRsY2UxM2RkMnQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1622627117.001700",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: CogLab HackNight #197 [Online]: <!date^1623083400^{date_short_pretty} from {time}|June 7th, 2021 from 6:30 PM> to <!date^1623087000^{time}|7:30 PM GMT+0200>",
+                "text": "<!date^1623083400^{date_short_pretty} from {time}|June 7th, 2021 from 6:30 PM> to <!date^1623087000^{time}|7:30 PM GMT+0200> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "pretext": "New calendar event created",
+                "title": "CogLab HackNight #197 [Online]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=N2NuNTIwMTdtZ3MwMGdxM3J1bGVuaGE5cGggc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1622628371.001800",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: CogLab HackNight #197 [Online FR]: <!date^1623092400^{date_short_pretty} from {time}|June 7th, 2021 from 9:00 PM> to <!date^1623097800^{time}|10:30 PM GMT+0200>",
+                "text": "<!date^1623092400^{date_short_pretty} from {time}|June 7th, 2021 from 9:00 PM> to <!date^1623097800^{time}|10:30 PM GMT+0200> at <https:\/\/gather.town\/i\/PYn7w8L3>",
+                "pretext": "New calendar event created",
+                "title": "CogLab HackNight #197 [Online FR]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Mms3Y2xvcDlvNTUxdjJnbXNubGNqNnJkN3Agc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1622628371.001900",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: [Option] Debrief - SO: <!date^1623142800^{date_short_pretty} from {time}|June 8th, 2021 from 11:00 AM> to <!date^1623146400^{time}|12:00 PM GMT+0200>",
+                "text": "<!date^1623142800^{date_short_pretty} from {time}|June 8th, 2021 from 11:00 AM> to <!date^1623146400^{time}|12:00 PM GMT+0200>",
+                "pretext": "New calendar event created",
+                "title": "[Option] Debrief - SO",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NjAyN3F1MjZxcnY2bDFzZjJxa2lkbjA0ajEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1622628551.002000",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CA Fresco: <!date^1622651400^{date_short_pretty} from {time}|June 2nd, 2021 from 6:30 PM> to <!date^1622656800^{time}|8:00 PM GMT+0200>",
+                "text": "<!date^1622651400^{date_short_pretty} from {time}|June 2nd, 2021 from 6:30 PM> to <!date^1622656800^{time}|8:00 PM GMT+0200> at <https:\/\/us02web.zoom.us\/j\/83072192419?pwd=TWlqay9qUzJhSHZkUjdsb2NkMG1ZZz09>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CA Fresco",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=M2c0OTVtdnY3ZXFiaWhqc2luaDI3NW9xNW8gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1622647801.002100",
+        "bot_id": "B4SJBP2L8"
+    }
+]

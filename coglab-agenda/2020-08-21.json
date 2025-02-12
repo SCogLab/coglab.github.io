@@ -1,0 +1,101 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event cancelled: [Option] Apéro CogLab IRL: <!date^1598457600^{date_short_pretty} from {time}|August 26th, 2020 from 6:00 PM> to <!date^1598464800^{time}|8:00 PM GMT+0200>",
+                "text": "<!date^1598457600^{date_short_pretty} from {time}|August 26th, 2020 from 6:00 PM> to <!date^1598464800^{time}|8:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Quai+de+la+Seine%2C+75019+Paris%2C+France|Quai de la Seine, 75019 Paris, France>",
+                "pretext": "Calendar event was cancelled",
+                "title": "[Option] Apéro CogLab IRL",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NjVpNjZkMzM3NWkzY2I5ajYwcGoyYjlrY2hoamNiOXBjb3EzZ2I5cGNncmppZTltY3BpM2VlMzY2MCBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1598039585.000100",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "text": "<https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/lztftrybclbgc\/>",
+        "files": [
+            {
+                "id": "F019NRUHUFK",
+                "created": 1598040914,
+                "timestamp": 1598040914,
+                "name": "HackNight NeuroTechX Paris.jpg",
+                "title": "HackNight NeuroTechX Paris.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03FC5ZAK",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 89096,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F019NRUHUFK\/hacknight_neurotechx_paris.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F019NRUHUFK\/download\/hacknight_neurotechx_paris.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F019NRUHUFK-468fddc9ef\/hacknight_neurotechx_paris_64.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F019NRUHUFK-468fddc9ef\/hacknight_neurotechx_paris_80.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F019NRUHUFK-468fddc9ef\/hacknight_neurotechx_paris_360.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F019NRUHUFK-468fddc9ef\/hacknight_neurotechx_paris_480.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F019NRUHUFK-468fddc9ef\/hacknight_neurotechx_paris_160.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F019NRUHUFK-468fddc9ef\/hacknight_neurotechx_paris_720.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F019NRUHUFK-468fddc9ef\/hacknight_neurotechx_paris_800.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F019NRUHUFK-468fddc9ef\/hacknight_neurotechx_paris_960.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "original_w": 960,
+                "original_h": 540,
+                "thumb_tiny": "AwAbADB9pE8y75SAD0AHWrP2SP3\/ADrNid1w6Mc+hqf7bP8A3R+VFxcqLf2SP\/a\/Oq11B5KhkyRnvUi3p43Rnn0oknWZChUj364pOQ+QqQbpHOcYFMMj7TjGRweKcgIBAPJz\/KolOUb607sOVFmCAtbhzIFPYYqJZcDkc\/QVGkrrGQG4FR5PrXWqSu7kXZaN3Jn5duPdRTWupipGVA9hVfJ9TSVfs49h3LMYLqGLYPsKRowiswYk9aiR2UYBwKVnYqcmsXSfN0Hc\/9k=",
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U03FC5ZAK\/F019NRUHUFK\/hacknight_neurotechx_paris.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-F019NRUHUFK-add95e6eb7",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03FC5ZAK",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WvV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/lztftrybclbgc\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1598040922.000300"
+    }
+]

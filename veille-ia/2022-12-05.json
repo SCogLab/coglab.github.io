@@ -1,0 +1,118 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1670268087.640899",
+        "client_msg_id": "81d214c7-5a48-480a-9815-013dbcc05eec",
+        "text": "Apparemment, Galactica, l'outil de Meta\/Facebook pour la génération de publications de papiers scientifiques a été désactivé :  <https:\/\/www.lemondeinformatique.fr\/actualites\/lire-generant-trop-d-inepties-meta-debranche-son-ia-galactica-88660.html>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.lemondeinformatique.fr\/actualites\/lire-generant-trop-d-inepties-meta-debranche-son-ia-galactica-88660.html",
+                "thumb_url": "https:\/\/images.itnewsinfo.com\/lmi\/articles\/grande\/000000088985.png",
+                "thumb_width": 650,
+                "thumb_height": 433,
+                "service_icon": "https:\/\/www.lemondeinformatique.fr\/apple-60.png",
+                "id": 1,
+                "original_url": "https:\/\/www.lemondeinformatique.fr\/actualites\/lire-generant-trop-d-inepties-meta-debranche-son-ia-galactica-88660.html",
+                "fallback": "LeMondeInformatique: Générant trop d'inepties, Meta débranche son IA Galactica - Le Monde Informatique",
+                "text": "Censé gérer la pléthore d'informations scientifiques, le modèle de langage Galactica créé par Meta est renvoyé au placard trois jours après son...",
+                "title": "Générant trop d'inepties, Meta débranche son IA Galactica - Le Monde Informatique",
+                "title_link": "https:\/\/www.lemondeinformatique.fr\/actualites\/lire-generant-trop-d-inepties-meta-debranche-son-ia-galactica-88660.html",
+                "service_name": "LeMondeInformatique"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RrcWq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Apparemment, Galactica, l'outil de Meta\/Facebook pour la génération de publications de papiers scientifiques a été désactivé :  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.lemondeinformatique.fr\/actualites\/lire-generant-trop-d-inepties-meta-debranche-son-ia-galactica-88660.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1670268123.200469",
+        "client_msg_id": "89cf6bb9-f9b1-4f10-805b-3f39e5611b58",
+        "text": "Le lien vers le site : <https:\/\/galactica.org\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/galactica.org\/",
+                "image_url": "https:\/\/galactica.org\/static\/img\/screenshot.png",
+                "image_width": 506,
+                "image_height": 250,
+                "image_bytes": 47404,
+                "service_icon": "https:\/\/galactica.org\/static\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/galactica.org\/",
+                "fallback": "Galactica Demo",
+                "title": "Galactica Demo",
+                "title_link": "https:\/\/galactica.org\/",
+                "service_name": "galactica.org"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Zr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le lien vers le site : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/galactica.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

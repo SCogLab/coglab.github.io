@@ -1,0 +1,96 @@
+[
+    {
+        "subtype": "bot_remove",
+        "text": "removed an integration from this channel: <https:\/\/scoglab.slack.com\/services\/B03UHP1LD|trello_event>",
+        "user": "U03FC5ZAK",
+        "bot_id": "3969783693",
+        "type": "message",
+        "ts": "1457433896.000057"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1457463148.000058",
+        "text": "Encore un peu de VR, au Dernier Bar Avant la Fin du Monde cc <@U07MRF79P> \n<https:\/\/www.facebook.com\/events\/345852872205608\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HFWWh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Encore un peu de VR, au Dernier Bar Avant la Fin du Monde cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07MRF79P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.facebook.com\/events\/345852872205608\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07MRF79P",
+        "type": "message",
+        "ts": "1457463993.000059",
+        "text": "Sympa !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g0be6b183ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e0be6b183ebf309bdef031dddf3fd298.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Vincent",
+            "real_name": "Vincent Corlay",
+            "display_name": "vincent",
+            "team": "T03FC4NDZ",
+            "name": "vincent",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "beQq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sympa !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

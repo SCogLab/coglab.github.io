@@ -1,0 +1,103 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1585584333.000400",
+        "client_msg_id": "d26b83be-1ac6-4467-bda5-b9aea5934b27",
+        "text": "Coucou\nAh dispo, sur Skype ou ce que vous voulez\n<https:\/\/join.skype.com\/be7Ty93o77rj>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Skype",
+                "title_link": "https:\/\/join.skype.com\/be7Ty93o77rj",
+                "fallback": "Skype",
+                "image_url": "https:\/\/join.secure.skypeassets.com\/static\/14.213\/images\/icons\/opengraph_image.png",
+                "image_width": 250,
+                "image_height": 250,
+                "from_url": "https:\/\/join.skype.com\/be7Ty93o77rj",
+                "image_bytes": 28276,
+                "service_icon": "https:\/\/join.secure.skypeassets.com\/static\/14.213\/images\/icons\/apple-touch-icon.png",
+                "service_name": "join.skype.com",
+                "id": 1,
+                "original_url": "https:\/\/join.skype.com\/be7Ty93o77rj"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GLw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coucou\nAh dispo, sur Skype ou ce que vous voulez\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/join.skype.com\/be7Ty93o77rj"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U6EPG5PTQ",
+        "type": "message",
+        "ts": "1585586878.001100",
+        "client_msg_id": "2e9a4ad9-e19d-4a2c-9f0c-6a0eb7fa40e6",
+        "text": "Voir idées pour prochain hacknight dans channel veille-transmedia (merci :wink:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g09c260ee4c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/209c260ee4c8c21ab89b376055cd6e8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Karine",
+            "real_name": "Karine Halpern",
+            "display_name": "KarineH",
+            "team": "T03FC4NDZ",
+            "name": "karine.halpern",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hx=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Voir idées pour prochain hacknight dans channel veille-transmedia (merci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

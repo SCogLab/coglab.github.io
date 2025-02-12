@@ -1,0 +1,25 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "Workshop - SO: <!date^1624975200^{date_short_pretty} from {time}|June 29th, 2021 from 4:00 PM> to <!date^1624982400^{time}|6:00 PM GMT+0200>",
+                "text": "<!date^1624975200^{date_short_pretty} from {time}|June 29th, 2021 from 4:00 PM> to <!date^1624982400^{time}|6:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Pixelis%2C+Le+centvingtsept+by+Pixelis%2C+127+Avenue+Ledru+Rollin%2C+75011+Paris%2C+France|Pixelis, Le centvingtsept by Pixelis, 127 Avenue Ledru Rollin, 75011 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "Workshop - SO",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=N2hyZjg1bzRmczJnZWE4NmRsY2UxM2RkMnQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1624971604.002900",
+        "bot_id": "B4SJBP2L8"
+    }
+]

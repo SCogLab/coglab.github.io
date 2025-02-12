@@ -1,0 +1,87 @@
+[
+    {
+        "user": "U01S8PWA7GU",
+        "type": "message",
+        "ts": "1638104857.027500",
+        "client_msg_id": "54b798cf-b9bd-4780-b048-781acfc4f2f1",
+        "text": "On a le odyssée nocturne ce mercredi",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "c0ad61371238",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1886649922098_c0ad61371238e9b3ed71_72.png",
+            "first_name": "Eduardo",
+            "real_name": "Eduardo de Conto",
+            "display_name": "Eduardo de Conto",
+            "team": "T03FC4NDZ",
+            "name": "eduardoconto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1638038733.027300",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HXwp9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On a le odyssée nocturne ce mercredi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1638112942.027700",
+        "client_msg_id": "a56e3f03-e187-4ee1-b542-14513a0179ad",
+        "text": "Ah oui c'est vrai, bad timing :confused:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1638038733.027300",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "19L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah oui c'est vrai, bad timing "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused",
+                                "unicode": "1f615"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

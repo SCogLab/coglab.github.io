@@ -1,0 +1,865 @@
+[
+    {
+        "text": "Quelques tests pour voir comment on pourrait optimiser la gestion des câbles :",
+        "files": [
+            {
+                "id": "F03DNU1CFQE",
+                "created": 1651576338,
+                "timestamp": 1651576338,
+                "name": "IMG_3651.jpg",
+                "title": "File from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U59MQ46DA",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 4019174,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F03DNU1CFQE\/img_3651.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F03DNU1CFQE\/download\/img_3651.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DNU1CFQE-93273442f1\/img_3651_64.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DNU1CFQE-93273442f1\/img_3651_80.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DNU1CFQE-93273442f1\/img_3651_360.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DNU1CFQE-93273442f1\/img_3651_480.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DNU1CFQE-93273442f1\/img_3651_160.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DNU1CFQE-93273442f1\/img_3651_720.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DNU1CFQE-93273442f1\/img_3651_800.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DNU1CFQE-93273442f1\/img_3651_960.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DNU1CFQE-93273442f1\/img_3651_1024.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACS2xwgHHJH86J+IW4phJ4+ool5Q\/WkAsXEKjHapI40ZASoyearSSGPaoOMD0qzGf3Y9MUXAasKMW6gBsDmnfZ09\/wA6IjiMep5p+6gCo8mNgJwSfSmTz+WgBAJJ4xSZk8xdygLVa9cPcfLwqjj3pDHNcGRtzfoKsx3aNEQx2tjFUd\/y8DtUluiElWIyw4yelMDSBwAKXJqEOFyCuOf71L5i+n\/j1AWFlX+WTxVG5QFC3IYVpMOtQOmI2OKT0GjKU9qlVWEqYGSVBx61YWOM87BUsUI87cy9goouKxOUzj6UmypGPNJRcZ\/\/2Q==",
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U59MQ46DA\/F03DNU1CFQE\/img_3651.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-F03DNU1CFQE-97a52e63dc",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U59MQ46DA",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SIDuZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Quelques tests pour voir comment on pourrait optimiser la gestion des câbles :"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1651576441.046749",
+        "team": "T03FC4NDZ",
+        "thread_ts": "1651576441.046749",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1651695084.584879",
+        "reply_users": [
+            "U03CMPK03K8",
+            "U59MQ46DA",
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03CMPK03K8",
+                "ts": "1651576717.464109"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1651576873.778889"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1651577334.814429"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1651618811.059889"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1651660063.510979"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1651695084.584879"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S8PWA7GU",
+                    "U03FC5ZAK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F03DEV9EHM5",
+                "created": 1651576371,
+                "timestamp": 1651576371,
+                "name": "IMG_3653.jpg",
+                "title": "File from iOS (2)",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U59MQ46DA",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 3234178,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F03DEV9EHM5\/img_3653.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F03DEV9EHM5\/download\/img_3653.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DEV9EHM5-2f9e9d188f\/img_3653_64.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DEV9EHM5-2f9e9d188f\/img_3653_80.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DEV9EHM5-2f9e9d188f\/img_3653_360.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DEV9EHM5-2f9e9d188f\/img_3653_480.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DEV9EHM5-2f9e9d188f\/img_3653_160.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DEV9EHM5-2f9e9d188f\/img_3653_720.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DEV9EHM5-2f9e9d188f\/img_3653_800.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DEV9EHM5-2f9e9d188f\/img_3653_960.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DEV9EHM5-2f9e9d188f\/img_3653_1024.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACS6p+UfSiP\/AFYpqD5RQmMdaAGwELHgkZJ4qRD+8Jqk5zLgEGrikdeuaEDGTsfM49Kj3NU4AYsSO9LtX0oAqrInLZwx65qtcyEQomQWbnIHarZgj5JUdKpXCAEyDpgbRSGN2lYw+8fQHmnQNNIGVHYbRnrVfd8p7ZqeINCS67gMAcHvigDQSXCD5kH+8cGneb\/tx\/8AfVNEYkUMcnI70vkL6UASEHbn1qtcxqyHI4qwW5xnOKinP7pqGwKK2yscBjiryIM4I46UyJf32MdFH8qsDApAPoqN5kQ4ZwD7mk+0Rf8APRfzpgf\/2Q==",
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U59MQ46DA\/F03DEV9EHM5\/img_3653.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-F03DEV9EHM5-79d86ec5b5",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U59MQ46DA",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1651576441.464059",
+        "team": "T03FC4NDZ",
+        "thread_ts": "1651576441.464059",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1651658968.623749",
+        "reply_users": [
+            "U03FC5ZAK",
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1651618851.568809"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1651658968.623749"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "text": "Et l’application OpenSignals marche très bien sur la tablette Android :slightly_smiling_face:",
+        "files": [
+            {
+                "id": "F03EKACMXLG",
+                "created": 1651576498,
+                "timestamp": 1651576498,
+                "name": "IMG_3649.jpg",
+                "title": "File from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U59MQ46DA",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 2843105,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F03EKACMXLG\/img_3649.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F03EKACMXLG\/download\/img_3649.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03EKACMXLG-2e1d79fc4a\/img_3649_64.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03EKACMXLG-2e1d79fc4a\/img_3649_80.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03EKACMXLG-2e1d79fc4a\/img_3649_360.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03EKACMXLG-2e1d79fc4a\/img_3649_480.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03EKACMXLG-2e1d79fc4a\/img_3649_160.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03EKACMXLG-2e1d79fc4a\/img_3649_720.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03EKACMXLG-2e1d79fc4a\/img_3649_800.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03EKACMXLG-2e1d79fc4a\/img_3649_960.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03EKACMXLG-2e1d79fc4a\/img_3649_1024.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 4032,
+                "original_h": 3024,
+                "thumb_tiny": "AwAkADCc24K8ZU+nWs9EmlUMOavxRlIgH5b3Oajsv+PYfU0ojZWEEwOdtDRynkx\/kK0KGFVYm5meU\/dGphXBwc8VonioYrcTySksRhu30pPQaLbkgVXsj\/o4+pqdZY3XPao1gtsYViB6byKlOxTVyXPsfypGJ9DSC2hPYn\/gRpfssP8AcH5mq5ieUjP0plsH3zbH2\/MO2e1T\/Zof+ea1IiJGMIoUH0qXK40rGRkilBI7mkpRTAeHYd6kWaTsxqGnL1pDLH2iQd8\/UVLHMzdQKqmpoKQz\/9k=",
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U59MQ46DA\/F03EKACMXLG\/img_3649.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-F03EKACMXLG-a0e8a18ebd",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U59MQ46DA",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1rf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et l’application OpenSignals marche très bien sur la tablette Android "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1651576655.316499",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "user": "U03CMPK03K8",
+        "type": "message",
+        "ts": "1651576717.464109",
+        "client_msg_id": "43c50a2b-e5e1-43c0-9509-1f1722258be6",
+        "text": "Ah oui pas mal sur le bras, peut être que c'est plus stable ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gf3d80ee195b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f3d80ee195b6a4739fa89cc738c89dc9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Olivier",
+            "real_name": "Olivier Mével",
+            "display_name": "Olivier Mével",
+            "team": "T03FC4NDZ",
+            "name": "olivier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1651576441.046749",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uj4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah oui pas mal sur le bras, peut être que c'est plus stable ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1651576873.778889",
+        "client_msg_id": "81929B30-2E8E-48B6-A2AA-2490F575C60E",
+        "text": "Oui, j’ai trouvé que sur le bras, c'était vraiment pas mal",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1651576441.046749",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QKR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui, j’ai trouvé que sur le bras, c'était vraiment pas mal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1651577334.814429",
+        "client_msg_id": "CCEA1F2C-DFEE-47FF-9BF7-EC686DA31D6B",
+        "text": "Et, je pense que ça tire moins sur les câbles EEG",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1651576441.046749",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SF8L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et, je pense que ça tire moins sur les câbles EEG"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U03FC5ZAK",
+        "thread_ts": "1651576441.046749",
+        "root": {
+            "text": "Quelques tests pour voir comment on pourrait optimiser la gestion des câbles :",
+            "files": [
+                {
+                    "id": "F03DNU1CFQE",
+                    "created": 1651576338,
+                    "timestamp": 1651576338,
+                    "name": "IMG_3651.jpg",
+                    "title": "File from iOS",
+                    "mimetype": "image\/jpeg",
+                    "filetype": "jpg",
+                    "pretty_type": "JPEG",
+                    "user": "U59MQ46DA",
+                    "user_team": "T03FC4NDZ",
+                    "editable": false,
+                    "size": 4019174,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F03DNU1CFQE\/img_3651.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F03DNU1CFQE\/download\/img_3651.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                    "media_display_type": "unknown",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DNU1CFQE-93273442f1\/img_3651_64.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DNU1CFQE-93273442f1\/img_3651_80.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DNU1CFQE-93273442f1\/img_3651_360.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                    "thumb_360_w": 270,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DNU1CFQE-93273442f1\/img_3651_480.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                    "thumb_480_w": 360,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DNU1CFQE-93273442f1\/img_3651_160.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DNU1CFQE-93273442f1\/img_3651_720.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                    "thumb_720_w": 540,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DNU1CFQE-93273442f1\/img_3651_800.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 1067,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DNU1CFQE-93273442f1\/img_3651_960.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                    "thumb_960_w": 720,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DNU1CFQE-93273442f1\/img_3651_1024.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                    "thumb_1024_w": 768,
+                    "thumb_1024_h": 1024,
+                    "original_w": 3024,
+                    "original_h": 4032,
+                    "thumb_tiny": "AwAwACS2xwgHHJH86J+IW4phJ4+ool5Q\/WkAsXEKjHapI40ZASoyearSSGPaoOMD0qzGf3Y9MUXAasKMW6gBsDmnfZ09\/wA6IjiMep5p+6gCo8mNgJwSfSmTz+WgBAJJ4xSZk8xdygLVa9cPcfLwqjj3pDHNcGRtzfoKsx3aNEQx2tjFUd\/y8DtUluiElWIyw4yelMDSBwAKXJqEOFyCuOf71L5i+n\/j1AWFlX+WTxVG5QFC3IYVpMOtQOmI2OKT0GjKU9qlVWEqYGSVBx61YWOM87BUsUI87cy9goouKxOUzj6UmypGPNJRcZ\/\/2Q==",
+                    "permalink": "https:\/\/scoglab.slack.com\/files\/U59MQ46DA\/F03DNU1CFQE\/img_3651.jpg",
+                    "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-F03DNU1CFQE-97a52e63dc",
+                    "is_starred": false,
+                    "has_rich_preview": false,
+                    "file_access": "visible"
+                }
+            ],
+            "upload": true,
+            "user": "U59MQ46DA",
+            "display_as_bot": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "JQ0",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Quelques tests pour voir comment on pourrait optimiser la gestion des câbles :"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "type": "message",
+            "ts": "1651576441.046749",
+            "team": "T03FC4NDZ",
+            "thread_ts": "1651576441.046749",
+            "reply_count": 6,
+            "reply_users_count": 3,
+            "latest_reply": "1651695084.584879",
+            "reply_users": [
+                "U03CMPK03K8",
+                "U59MQ46DA",
+                "U03FC5ZAK"
+            ],
+            "replies": [
+                {
+                    "user": "U03CMPK03K8",
+                    "ts": "1651576717.464109"
+                },
+                {
+                    "user": "U59MQ46DA",
+                    "ts": "1651576873.778889"
+                },
+                {
+                    "user": "U59MQ46DA",
+                    "ts": "1651577334.814429"
+                },
+                {
+                    "user": "U03FC5ZAK",
+                    "ts": "1651618811.059889"
+                },
+                {
+                    "user": "U59MQ46DA",
+                    "ts": "1651660063.510979"
+                },
+                {
+                    "user": "U03FC5ZAK",
+                    "ts": "1651695084.584879"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "type": "message",
+        "ts": "1651618811.059889",
+        "client_msg_id": "c0663966-dcd4-4589-8aa9-bb10f55d453c",
+        "text": "Merci pour ces essais et retours Hans :ok_hand:\n\nDans la même idée, est-ce que l'on ne pourrait pas avoir les câbles situé au niveau de la tête à l'arrière ?\n\nOu les positionner dans un petit guide de câble pour limité l'effet \"expérimentale\" pour nos participant.e.s qui seront exposé aux regards des autres visiteurs",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3quJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci pour ces essais et retours Hans "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand",
+                                "unicode": "1f44c"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nDans la même idée, est-ce que l'on ne pourrait pas avoir les câbles situé au niveau de la tête à l'arrière ?\n\nOu les positionner dans un petit guide de câble pour limité l'effet \"expérimentale\" pour nos participant.e.s qui seront exposé aux regards des autres visiteurs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1651618851.568809",
+        "client_msg_id": "c746878f-031e-41df-9b94-5d1fc048e596",
+        "text": "Tu as un style Tony Stark avec ton réacteur dans la poitrine sur ce montage ! :face_with_cowboy_hat:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1651576441.464059",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+fbv8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu as un style Tony Stark avec ton réacteur dans la poitrine sur ce montage ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_cowboy_hat",
+                                "unicode": "1f920"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1651619376.755809",
+        "client_msg_id": "3275d66e-c5a9-437d-a172-99d5be3df59d",
+        "text": "<!channel> en ce May 4th, pour que la force soit avec nous et mettre toutes les chances de notre côté pour le bon déroulement des sessions d’acquisitions, il est désormais essentiel de bien se *coordonner sur les présence sur site*.\n\n:calendar: La première session démarre *jeudi prochain* et il faut, pour chaque session, fournir la liste des personnes mobilisées auprès de la sécurité du Muséum en avance.\n\n:dart: Je vous invite donc à signaler ou actualiser vos présences sur le <https:\/\/docs.google.com\/spreadsheets\/d\/1bytnQB-bjnxLYcUYiNwXVb0mokZft7xCUsOGTdO03DE\/edit#gid=1863368863|tableau de coordination> prévu à cet effet. N'hésitez pas à diffuser à la team COGitERGO <@U02GLDKAWQ2> &amp; <@U02GLDK69UJ>;)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NitC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " en ce May 4th, pour que la force soit avec nous et mettre toutes les chances de notre côté pour le bon déroulement des sessions d’acquisitions, il est désormais essentiel de bien se "
+                            },
+                            {
+                                "type": "text",
+                                "text": "coordonner sur les présence sur site",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "calendar",
+                                "unicode": "1f4c6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " La première session démarre "
+                            },
+                            {
+                                "type": "text",
+                                "text": "jeudi prochain",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " et il faut, pour chaque session, fournir la liste des personnes mobilisées auprès de la sécurité du Muséum en avance.\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dart",
+                                "unicode": "1f3af"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Je vous invite donc à signaler ou actualiser vos présences sur le "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1bytnQB-bjnxLYcUYiNwXVb0mokZft7xCUsOGTdO03DE\/edit#gid=1863368863",
+                                "text": "tableau de coordination"
+                            },
+                            {
+                                "type": "text",
+                                "text": " prévu à cet effet. N'hésitez pas à diffuser à la team COGitERGO "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02GLDKAWQ2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " & "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02GLDK69UJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": ";)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02GLDKAWQ2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "Autre information :\n\nL'équipe Sensory Odyssey prépare une campagne de communication pour recruter des participant.e.s.\n\nVoici un aperçu de la campagne qui devrait démarrer dans la journée (je viens de remonter quelques coquilles :snail: )\n\nN'hésitez pas à faire tourner <https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSc0MynhX0VRXiTCE80SSym9xk1sxC57ZplI0xjNNJut6wQxSg\/viewform?usp=sf_link|ce formulaire de participation>, coordonné avec Anastasia. Il reste une place pour jeudi prochain qui devrait rapidement être comblée.",
+        "files": [
+            {
+                "id": "F03DJJT6DJB",
+                "created": 1651619393,
+                "timestamp": 1651619393,
+                "name": "campagne neurosciences.pdf",
+                "title": "campagne neurosciences.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U03FC5ZAK",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 72268103,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F03DJJT6DJB\/campagne_neurosciences.pdf?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F03DJJT6DJB\/download\/campagne_neurosciences.pdf?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F03DJJT6DJB-9fb10e1104\/campagne_neurosciences_thumb_pdf.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_pdf_w": 2933,
+                "thumb_pdf_h": 1650,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U03FC5ZAK\/F03DJJT6DJB\/campagne_neurosciences.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-F03DJJT6DJB-3762d18fb2",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03FC5ZAK",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WFZh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Autre information :\n\nL'équipe Sensory Odyssey prépare une campagne de communication pour recruter des participant.e.s.\n\nVoici un aperçu de la campagne qui devrait démarrer dans la journée (je viens de remonter quelques coquilles "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "snail",
+                                "unicode": "1f40c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " )\n\nN'hésitez pas à faire tourner "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSc0MynhX0VRXiTCE80SSym9xk1sxC57ZplI0xjNNJut6wQxSg\/viewform?usp=sf_link",
+                                "text": "ce formulaire de participation"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", coordonné avec Anastasia. Il reste une place pour jeudi prochain qui devrait rapidement être comblée."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1651619699.109669",
+        "client_msg_id": "d91eaf04-024b-4744-8f05-3702b3b7d97a",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

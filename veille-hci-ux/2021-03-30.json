@@ -1,0 +1,90 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1617117703.001700",
+        "client_msg_id": "8f49fc32-87b5-48b1-a2c4-8275ab47d73f",
+        "text": "(Repéré via clubhouse) une startup qui pourrait proposer un _haptic_ _wristband_ qui cible les autistes _:_ <https:\/\/www.valencevibrations.com>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Valence",
+                "title": "Home | Valence",
+                "title_link": "https:\/\/www.valencevibrations.com\/",
+                "text": "Valence is a sensory substitution app that translates the emotional sentiment of speech into unique vibrations on a haptic wristband. This tool helps neurodiverse people better interpret others' emotions during conversations and improve their interpersonal relationships.",
+                "fallback": "Valence: Home | Valence",
+                "image_url": "https:\/\/static.wixstatic.com\/media\/4b19b3_9484ddc0abff482eb22498208d888c76~mv2.jpg\/v1\/fill\/w_4288,h_2848,al_c\/4b19b3_9484ddc0abff482eb22498208d888c76~mv2.jpg",
+                "image_width": 376,
+                "image_height": 250,
+                "from_url": "https:\/\/www.valencevibrations.com\/",
+                "image_bytes": 1132548,
+                "service_icon": "https:\/\/static.parastorage.com\/client\/pfavico.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.valencevibrations.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1wnqc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(Repéré via clubhouse) une startup qui pourrait proposer un "
+                            },
+                            {
+                                "type": "text",
+                                "text": "haptic",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "wristband ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "qui cible les autistes"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.valencevibrations.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

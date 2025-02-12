@@ -1,0 +1,77 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1587927045.015400",
+        "client_msg_id": "8278c073-7341-4d21-a447-9b24dc7f8937",
+        "text": "<https:\/\/coglab.fr\/hacknight-virtuel\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1587927045.015400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1587980239.015800",
+        "reply_users": [
+            "U03FC5ZAK",
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1587979315.015600"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1587980239.015800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "service_name": "CogLab, NeuroTechX Paris",
+                "title": "HackNight ViRtuelles #Covid19",
+                "title_link": "https:\/\/coglab.fr\/hacknight-virtuel\/",
+                "text": "Depuis 2016, le CogLab (NeuroTechX Paris) organise des soirées « HackNight » presque chaque lundi. A l’approche de la 150ème soirée et pendant la période de confinement #Covid19, nous faisons…",
+                "fallback": "CogLab, NeuroTechX Paris: HackNight ViRtuelles #Covid19",
+                "thumb_url": "https:\/\/i0.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=512%2C512&ssl=1",
+                "ts": 1587926965,
+                "from_url": "https:\/\/coglab.fr\/hacknight-virtuel\/",
+                "thumb_width": 512,
+                "thumb_height": 512,
+                "service_icon": "https:\/\/i0.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=180%2C180&#038;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/coglab.fr\/hacknight-virtuel\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AVOtY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.fr\/hacknight-virtuel\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

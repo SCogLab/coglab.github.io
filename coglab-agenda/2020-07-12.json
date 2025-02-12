@@ -1,0 +1,64 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There are *2* events this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #155 [Online]: <!date^1594657800^{date_short_pretty} from {time}|July 13th, 2020 from 6:30 PM> to <!date^1594666800^{time}|9:00 PM GMT+0200>",
+                "text": "<!date^1594657800^{date_short_pretty} from {time}|July 13th, 2020 from 6:30 PM> to <!date^1594666800^{time}|9:00 PM GMT+0200> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "title": "CogLab HackNight #155 [Online]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MmJmNnVwdmJobnJpMTNkaDcxdTk5NW82bmcgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "[NTX] NeurotechGaming 2020 conference: <!date^1595091600^{date_short_pretty} from {time}|July 18th, 2020 from 7:00 PM> to <!date^1595187000^{date_short_pretty} at {time}|July 19th, 2020 at 9:30 PM GMT+0200>",
+                "text": "<!date^1595091600^{date_short_pretty} from {time}|July 18th, 2020 from 7:00 PM> to <!date^1595187000^{date_short_pretty} at {time}|July 19th, 2020 at 9:30 PM GMT+0200>",
+                "title": "[NTX] NeurotechGaming 2020 conference",
+                "id": 2,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MjRwbGtqZWdocnBybzFmMzRvcGNjb3I3OW4gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1594620001.003800",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HjaZO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "2",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " events this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

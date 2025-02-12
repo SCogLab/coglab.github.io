@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "[Journée d'étude] Arts Numériques et Neurosciences - : <!date^1665732600^{date_short_pretty} from {time}|October 14th, 2022 from 9:30 AM> to <!date^1665761400^{time}|5:30 PM GMT+0200>",
+                "text": "<!date^1665732600^{date_short_pretty} from {time}|October 14th, 2022 from 9:30 AM> to <!date^1665761400^{time}|5:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Universit%C3%A9+Polytechnique+Hauts-De-France+-+Campus+Les+Tertiales%2C+Rue+des+Cent-T%C3%AAtes%2C+59300+Valenciennes%2C+France|Université Polytechnique Hauts-De-France - Campus Les Tertiales, Rue des Cent-Têtes, 59300 Valenciennes, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "[Journée d'étude] Arts Numériques et Neurosciences -",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MW4yZjhwajhtMWduY2pucDk0cHMyNnRpNGogc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "more",
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1665729001.611459",
+        "bot_id": "B4SJBP2L8"
+    }
+]

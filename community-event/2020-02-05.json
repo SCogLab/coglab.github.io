@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1580916263.000200",
+        "client_msg_id": "73350698-159c-4666-9d35-a9d6ca82f11a",
+        "text": "<http:\/\/www.apogeeedu.com\/#>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Apogee Education",
+                "title_link": "http:\/\/www.apogeeedu.com\/",
+                "text": "Neuroscience Summer Camp at the Stanford University campus",
+                "fallback": "Apogee Education",
+                "image_url": "http:\/\/www.apogeeedu.com\/uploads\/1\/0\/3\/2\/103209938\/published\/neurons-1773922-1920_10.jpg",
+                "from_url": "http:\/\/www.apogeeedu.com\/",
+                "image_width": 241,
+                "image_height": 180,
+                "image_bytes": 14541,
+                "service_icon": "http:\/\/www.apogeeedu.com\/favicon.ico",
+                "service_name": "apogeeedu.com",
+                "id": 1,
+                "original_url": "http:\/\/www.apogeeedu.com\/#"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+t9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.apogeeedu.com\/#"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

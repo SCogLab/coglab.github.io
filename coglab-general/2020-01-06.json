@@ -1,0 +1,394 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "USAE4L2AC",
+        "text": "<@USAE4L2AC> a rejoint le canal",
+        "type": "message",
+        "ts": "1578308331.000200"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1578341802.014800",
+        "client_msg_id": "cd6fa46b-99cc-4682-a0d5-af50aa32516e",
+        "text": "Bonsoir à tous\n\n:champagne: Comme le veut la tradition, je vous souhaite une *belle et heureuse année 2020*, nous voici tous ensemble dans une nouvelle décennie qui nous apportera son lot d'émerveillements et de découvertes !\n\n:wave: En ce jour d'épiphanie, et pour la reprise des <#C0R6W4X2Q|coglab-hacknight> du lundi soir, nous avons partagé la *galette* et accueilli 2 nouvelles personnes.\nNous prévoyons une *Masterclass \"Brain Computer Interface\"* lors d'une prochaine HackNight dans le courant du mois pour les intéressés.\n\n:spiral_calendar_pad: Le mercredi 29 janvier, nous organisons un événement intitulé \"*Buzz in Review*\" nous l'impulsion de NeuroTechX. Toutes les villes du réseau organiserons cet événement de manière coordonnée.\nL'occasion de dresser un bilan de actualités 2019 dans le domaine des neurotechnologies.\nN'hésitez pas à apporter votre aide à l'équipe d'organisation :point_right: <#CSB68Q13J|event-bir>\n\n:rocket: Un autre challenge pour le 21 janvier est de participer à *l'appel à compétition RéVolution du Laval Virtual 2020* avec le <#C03UHP8UD|projet-autispace> en proposant un premier prototype <https:\/\/www.laval-virtual.com\/fr\/revolution-call\/>\n\n:brain: Nos autres projets continuent également, notamment : <#CL6EXG9EY|projet-bci-voyager> <#CDH3LMXFX|projet-coglabgraph> <#CQPLK1RRD|projet-neuromeditation>. N'hésitez pas à contribuer ou proposer le vôtre.\n\n:bulb:Enfin, n'hésitez pas à parcourir nos différentes chaines sur Slack, on y diffuse régulièrement de la veille comme sur <#C03KMPLR6|veille-bci> ou <#C0K1416SG|veille-xr> et beaucoup d'autre !\n\nAu plaisir de vous croiser <!channel> et en vous adressant encore mes meilleurs voeux :rainbow:\n\nRomain, président de l'association CogLab, NeuroTechX Paris\n<mailto:romain@coglab.fr|romain@coglab.fr>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1578341802.014800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1578390104.015600",
+        "reply_users": [
+            "UMQA8DN92"
+        ],
+        "replies": [
+            {
+                "user": "UMQA8DN92",
+                "ts": "1578390104.015600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "service_name": "Laval Virtual",
+                "title": "ReVolution - Call - VR\/AR - Laval Virtual 2020",
+                "title_link": "https:\/\/www.laval-virtual.com\/fr\/revolution-call\/",
+                "text": "ReVolution permet aux usages pionniers de la VR\/AR de bénéficier d'un véritable tremplin d'exposition pendant Laval Virtual. Candidatez !",
+                "fallback": "Laval Virtual: ReVolution - Call - VR\/AR - Laval Virtual 2020",
+                "from_url": "https:\/\/www.laval-virtual.com\/fr\/revolution-call\/",
+                "service_icon": "https:\/\/www.laval-virtual.com\/favicon-32x32.png",
+                "id": 1,
+                "original_url": "https:\/\/www.laval-virtual.com\/fr\/revolution-call\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vxqf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonsoir à tous\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "champagne",
+                                "unicode": "1f37e"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Comme le veut la tradition, je vous souhaite une "
+                            },
+                            {
+                                "type": "text",
+                                "text": "belle et heureuse année 2020",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", nous voici tous ensemble dans une nouvelle décennie qui nous apportera son lot d'émerveillements et de découvertes !\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " En ce jour d'épiphanie, et pour la reprise des "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0R6W4X2Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " du lundi soir, nous avons partagé la "
+                            },
+                            {
+                                "type": "text",
+                                "text": "galette",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " et accueilli 2 nouvelles personnes.\nNous prévoyons une "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Masterclass \"Brain Computer Interface\"",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " lors d'une prochaine HackNight dans le courant du mois pour les intéressés.\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "spiral_calendar_pad",
+                                "unicode": "1f5d3-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Le mercredi 29 janvier, nous organisons un événement intitulé \""
+                            },
+                            {
+                                "type": "text",
+                                "text": "Buzz in Review",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\" nous l'impulsion de NeuroTechX. Toutes les villes du réseau organiserons cet événement de manière coordonnée.\nL'occasion de dresser un bilan de actualités 2019 dans le domaine des neurotechnologies.\nN'hésitez pas à apporter votre aide à l'équipe d'organisation "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CSB68Q13J"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rocket",
+                                "unicode": "1f680"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Un autre challenge pour le 21 janvier est de participer à "
+                            },
+                            {
+                                "type": "text",
+                                "text": "l'appel à compétition RéVolution du Laval Virtual 2020",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " avec le "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03UHP8UD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " en proposant un premier prototype "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.laval-virtual.com\/fr\/revolution-call\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "brain",
+                                "unicode": "1f9e0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Nos autres projets continuent également, notamment : "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CL6EXG9EY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CDH3LMXFX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CQPLK1RRD"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". N'hésitez pas à contribuer ou proposer le vôtre.\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bulb",
+                                "unicode": "1f4a1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Enfin, n'hésitez pas à parcourir nos différentes chaines sur Slack, on y diffuse régulièrement de la veille comme sur "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03KMPLR6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ou "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0K1416SG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et beaucoup d'autre !\n\nAu plaisir de vous croiser "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et en vous adressant encore mes meilleurs voeux "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rainbow",
+                                "unicode": "1f308"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nRomain, président de l'association CogLab, NeuroTechX Paris\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:romain@coglab.fr",
+                                "text": "romain@coglab.fr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UR4MX2AJ0",
+                    "UQX7ZD4C9"
+                ],
+                "count": 2
+            },
+            {
+                "name": "champagne",
+                "users": [
+                    "U03FEH3N8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Hans Harisson",
+                "fallback": "Hans Harisson marked Event Yoga Experiences by Lenovo &amp; Intel à l'Hotel Fauchon (EEG Experiences) complete.",
+                "text": "Marked *<https:\/\/trello.com\/c\/amkRxGbq|Event Yoga Experiences by Lenovo &amp; Intel à l'Hotel Fauchon (EEG Experiences)>* complete.",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/hansharisson1",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1578355133.015100",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Hans Harisson",
+                "fallback": "Hans Harisson marked Le Laboratoire des Émotions, au cinéma et en sciences cognitives complete.",
+                "text": "Marked *<https:\/\/trello.com\/c\/iQZfvfAX|Le Laboratoire des Émotions, au cinéma et en sciences cognitives>* complete.",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/hansharisson1",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1578355180.015200",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Maike",
+                "fallback": "Maike commented on EEG &amp; Méditation: \"[free_the_mind.jpg](<https:\/\/trello-attachments.s3.amazonaws.com\/56dc663c26b5d2e75c3d7023\/5dc3fac20bcb85229bf3e722\/0b9cc4572b4809252a6f58d718b15682\/free_the_mind.jpg>) \n\nÉmission qui s'occupe de la plasticité de cerveaux, les développement de certaines sentiment comme la peur, l'agressivité ou la colère en donnant les exemples d'un enfant avec une évènement traumatique dans une ascenseur et des vétérans.\"",
+                "text": "[free_the_mind.jpg](<https:\/\/trello-attachments.s3.amazonaws.com\/56dc663c26b5d2e75c3d7023\/5dc3fac20bcb85229bf3e722\/0b9cc4572b4809252a6f58d718b15682\/free_the_mind.jpg>) \n\nÉmission qui s'occupe de la plasticité de cerveaux, les développement de certaines sentiment comme la peur, l'agressivité ou la colère en donnant les exemples d'un enfant avec une évènement traumatique dans une ascenseur et des vétérans.",
+                "pretext": "New comment on *<https:\/\/trello.com\/c\/MATrfgPe|EEG &amp; Méditation>*",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/emmacinnamon",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1578373309.015300",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Maike",
+                "fallback": "Maike commented on EEG &amp; Méditation: \"[mediter_jour_après_jour.jpeg](<https:\/\/trello-attachments.s3.amazonaws.com\/56dc663c26b5d2e75c3d7023\/5dc3fac20bcb85229bf3e722\/4db8588779d8bb03be7586e93ee33919\/mediter_jour_apr%C3%A8s_jour.jpeg>) \n\n\nChristoph André est un des premier ambassadeur en France, le \"pape\" de la pleine conscience. \n<https:\/\/fr.wikipedia.org\/wiki\/Christophe_Andr%C3%A9>\n<http:\/\/christopheandre.com\/WP\/>\"",
+                "text": "[mediter_jour_après_jour.jpeg](<https:\/\/trello-attachments.s3.amazonaws.com\/56dc663c26b5d2e75c3d7023\/5dc3fac20bcb85229bf3e722\/4db8588779d8bb03be7586e93ee33919\/mediter_jour_apr%C3%A8s_jour.jpeg>) \n\n\nChristoph André est un des premier ambassadeur en France, le \"pape\" de la pleine conscience. \n<https:\/\/fr.wikipedia.org\/wiki\/Christophe_Andr%C3%A9>\n<http:\/\/christopheandre.com\/WP\/>",
+                "pretext": "New comment on *<https:\/\/trello.com\/c\/MATrfgPe|EEG &amp; Méditation>*",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/emmacinnamon",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1578373467.015400",
+        "bot_id": "B66HQV43C"
+    }
+]

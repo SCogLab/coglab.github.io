@@ -1,0 +1,107 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1560353801.000200",
+        "client_msg_id": "f549e58b-191f-4422-ad8b-e9de87c249fb",
+        "text": "<https:\/\/www.meetup.com\/fr-FR\/Write-the-Docs-Paris\/events\/260964602\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Première rencontre WriteTheDocs Paris le 13 juin après-midi chez Mozilla",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/Write-the-Docs-Paris\/events\/260964602\/",
+                "text": "jeu. 13 juin 2019 à 14:00: WriteTheDocs est une communauté mondiale de personnes attentives à la documentation. Si vous êtes programmeur ou rédacteur technique, dans une équipe de support utilisateurs",
+                "fallback": "Meetup: Première rencontre WriteTheDocs Paris le 13 juin après-midi chez Mozilla",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/5\/2\/1\/4\/600_480561012.jpeg",
+                "fields": [
+                    {
+                        "title": "Où",
+                        "value": "Mozilla 16bis Boulevard Montmartre Paris",
+                        "short": true
+                    },
+                    {
+                        "title": "Quand",
+                        "value": "jeu. 13 juin 2019 à 14:00",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/Write-the-Docs-Paris\/events\/260964602\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 59042,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/fr-FR\/m_swarm_120x120.4f86abc9.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/Write-the-Docs-Paris\/events\/260964602\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yyvuq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/Write-the-Docs-Paris\/events\/260964602\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1560353809.000500",
+        "client_msg_id": "78488bfe-8128-42cf-af6f-e20940625dfb",
+        "text": "<https:\/\/www.pagedmedia.org\/paged-js\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4nL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.pagedmedia.org\/paged-js\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

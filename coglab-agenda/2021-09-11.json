@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CA CogLab 2021.3: <!date^1631374200^{date_short_pretty} from {time}|September 11th, 2021 from 5:30 PM> to <!date^1631379600^{time}|7:00 PM GMT+0200>",
+                "text": "<!date^1631374200^{date_short_pretty} from {time}|September 11th, 2021 from 5:30 PM> to <!date^1631379600^{time}|7:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Online|Online>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CA CogLab 2021.3",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MjNpa2txajd2YmpwamFudG8yOTFxaGk1a2kgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1631370601.002600",
+        "bot_id": "B4SJBP2L8"
+    }
+]

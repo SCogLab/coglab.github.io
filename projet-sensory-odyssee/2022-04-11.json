@@ -1,0 +1,699 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1649698900.011039",
+        "client_msg_id": "73af7485-a340-48f6-9335-ad71d5410673",
+        "text": "Bonjour à tout•e•s,\n\nNous sommes actuellement en HackNight au LPI (ex-CRI) en mode sprint sur le projet avec <@U02GLDK69UJ> <@U59MQ46DA> <@U01S8PWA7GU>\nJe vous ferais un petit retour en fin de soirée, en revenant sur les éléments restants et autres contributions bienvenues.\n\nEn attendant, nous avons jusqu’à *demain soir* pour confirmer qui sera présent pour le *pré-test planifié mardi prochain, le 19 avril,* de 14h à 18h.\n\n:warning: Merci d’indiquez vos éventuelles disponibilités sur :point_right: <https:\/\/docs.google.com\/spreadsheets\/d\/1bytnQB-bjnxLYcUYiNwXVb0mokZft7xCUsOGTdO03DE\/edit#gid=1863368863|ce document> <!channel>.\nN’hésitez pas à partager également aux éventuelles personnes concernées en dehors de cet espace.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QWyx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour à tout•e•s,\n\nNous sommes actuellement en HackNight au LPI (ex-CRI) en mode sprint sur le projet avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02GLDK69UJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01S8PWA7GU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nJe vous ferais un petit retour en fin de soirée, en revenant sur les éléments restants et autres contributions bienvenues.\n\nEn attendant, nous avons jusqu’à "
+                            },
+                            {
+                                "type": "text",
+                                "text": "demain soir",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour confirmer qui sera présent pour le "
+                            },
+                            {
+                                "type": "text",
+                                "text": "pré-test planifié mardi prochain, le 19 avril,",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " de 14h à 18h.\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "warning",
+                                "unicode": "26a0-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Merci d’indiquez vos éventuelles disponibilités sur "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1bytnQB-bjnxLYcUYiNwXVb0mokZft7xCUsOGTdO03DE\/edit#gid=1863368863",
+                                "text": "ce document"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\nN’hésitez pas à partager également aux éventuelles personnes concernées en dehors de cet espace."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01S8PWA7GU",
+        "type": "message",
+        "ts": "1649712164.481179",
+        "client_msg_id": "246e7d1b-3535-4c86-840e-4b27feef5d6d",
+        "text": "Salut <@UAMPR1P5L>: on remarque avec <@U02GLDK69UJ> qu’avoir “entering” et “leaving” ne peut être pas nécessaire. On se dit que seulement “entering” doit suffire, car la personne au sortir d’un pièce rentrera à la prochaine (ou alors va re-rentrer dans ma même salle).\n\n_Il y avait un raison en particulier pour laquelle t’as voulu séparer “entering” et “leaving” en tant qu’événement dans l’app de Tracking? Sinon, je compte garder que “entering” pour simplifier l’utilisation du app de Tracking._ ",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "c0ad61371238",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1886649922098_c0ad61371238e9b3ed71_72.png",
+            "first_name": "Eduardo",
+            "real_name": "Eduardo de Conto",
+            "display_name": "Eduardo de Conto",
+            "team": "T03FC4NDZ",
+            "name": "eduardoconto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X4G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UAMPR1P5L"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": on remarque avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02GLDK69UJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " qu’avoir “entering” et “leaving” ne peut être pas nécessaire. On se dit que seulement “entering” doit suffire, car la personne au sortir d’un pièce rentrera à la prochaine (ou alors va re-rentrer dans ma même salle).\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Il y avait un raison en particulier pour laquelle t’as voulu séparer “entering” et “leaving” en tant qu’événement dans l’app de Tracking? Sinon, je compte garder que “entering” pour simplifier l’utilisation du app de Tracking. ",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UAMPR1P5L",
+        "type": "message",
+        "ts": "1649715889.782859",
+        "client_msg_id": "2f90a5d6-e615-4e71-9454-21d6b472acbe",
+        "text": "<@U01S8PWA7GU>: c’est vrai pour la plupart des pièces mais pas toutes. On a notamment besoin de savoir quand le sujet entre dans la première et sort de la dernière. Je crois aussi me souvenir qu’il y a deux pièces qui sont séparées par un couloir (je ne me souviens plus desquelles). Enfin, selon le nombre de visiteurs et\/ou le nombre d’opérateurs “tracker”, il sera dans certains cas plus facile de capturer l’évènement “entrée” ou “sortie”. Je te conseille donc de garder les deux et de choisir l’action la plus appropriée en fonction des circonstances.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g73db985d858",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273db985d858035ed23c0594718e0eac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "mesca",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "coglab644",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1649715889.782859",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1649839883.595149",
+        "reply_users": [
+            "UAMPR1P5L",
+            "U01S8PWA7GU"
+        ],
+        "replies": [
+            {
+                "user": "UAMPR1P5L",
+                "ts": "1649717728.822989"
+            },
+            {
+                "user": "UAMPR1P5L",
+                "ts": "1649717823.075689"
+            },
+            {
+                "user": "U01S8PWA7GU",
+                "ts": "1649839883.595149"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mDP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01S8PWA7GU"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": c’est vrai pour la plupart des pièces mais pas toutes. On a notamment besoin de savoir quand le sujet entre dans la première et sort de la dernière. Je crois aussi me souvenir qu’il y a deux pièces qui sont séparées par un couloir (je ne me souviens plus desquelles). Enfin, selon le nombre de visiteurs et\/ou le nombre d’opérateurs “tracker”, il sera dans certains cas plus facile de capturer l’évènement “entrée” ou “sortie”. Je te conseille donc de garder les deux et de choisir l’action la plus appropriée en fonction des circonstances."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1649716477.369049",
+        "client_msg_id": "061b9cbc-24c5-48d0-9550-31055f2993b0",
+        "text": "Petit checkpoint de la soirée :\n• *Côté technique :* <@U59MQ46DA> &amp; <@U01S8PWA7GU> ont réalisé des tests d'acquisition avec des électrodes moyennes. Le signal n'as pas semblé qualitatif en situation de mobilité. Olivier dépose les électrodes de qualité mercredi. Une grosse session de tests techniques est prévu mercredi au LPI. Les guidelines techniques sont sur <https:\/\/github.com\/SCogLab\/SensoryOdysseyXP\/tree\/main\/acquisition|ce GitLab>. Hans je te laisse préciser les modalités et le planning.\n• *Pré-test des questionnaires :* petit loupé sur les tests initialement prévus ce weekend au Muséum, la coordination à été un peu trop tardive pour prévenir le Muséum. En contrepartie je propose que l'on pré-test en mode F&amp;F (friends &amp; family). L'occasion de s’entraîner à notre rythme, s'approprier les questionnaires et donner une meilleure estimation du temps requis pour les compléter. *Bonus*, un exercice intéressant à faire : tester les questionnaires sur des personnes ayant vu l'expo avec une petite mise en situation et un chronomètre. Pour cela, <@U02GLDK69UJ> à préparé ce <https:\/\/docs.google.com\/forms\/d\/1RU85ebJjx6O6dcSAnLbM0WRGl_LEjT74aSVFu7to45g\/edit?usp=drive_web|Google Form>, à affiner et tester.\n• *Recrutement :* à la demande d'Olivier, j'ai repris sa base et itéré sur un modèle d'email de recrutement qui sera validé et envoyé par le service communication du Muséum. Le modèle est <https:\/\/docs.google.com\/document\/d\/1s_uuXReqtGReICNQKPjLf6-hWJ-HLoiB81GYS8KT7qI\/edit#heading=h.q2zkr2nmhy1g|accessible ici>, commentaires bienvenus.\n• *Agenda et planification :* comme indiqué ci-dessus, vous êtes toutes et tous invité.e.s à signaler vos disponibilités, même incertaines, pour anticiper au mieux chacune des sessions d'acquisition qui se déroulerons les 5 matinées de mai et début juin jusqu'à 13h30. Afin que chacun puisse repartir à ses occupations respectives l'après-midi en étant opérationnel, j'ai légèrement revu le planning de test pour que nous ayons le temps de manger et débriefer ensemble. L'association prendra en charge les repas et collation.\n• *Comité éthique* : la date de soumission pour la prochaine session du Comité d'Éthique pour la Recherche (<https:\/\/www.universite-paris-saclay.fr\/recherche\/polethis-ethique-et-integrite\/comite-dethique-de-la-recherche|CER Paris Saclay>) est fixée au 28 avril. D'ici là, il faudra préparer le dossier. Je n'ai pas encore pris le temps de me pencher sur le sujet et ne sais pas trop à quoi m'attendre pour le moment. La modalité de stockage et hébergement des données sera à préciser et j’imagine que le protocole sera à fournir. A voir si <@U01RUJ02ECS> pourra apporter quelques conseils.\n• *Protocole expérimentale* : j'avais initialement prévu de faire un gros travail d'actualisation ce weekend, malheureusement j'ai eu d'autres contraintes. J'ai commencé à rependre quelques éléments de surface ce soir, et vais essayer de procéder par itérations dès que je pourrais sur la semaine. L'objectif est qui soit stabilisé dans une première version pour le pré-test de mardi prochain. Pour rappel, <https:\/\/docs.google.com\/document\/d\/1n8O6Is90CoKDCndWZwxAV1-5Z5y6yxRXXcNr5StfUWs\/edit#|ce document est ici>.\n:bulb: Et pour rappel, je vous invite à\n• signaler toute activité ou informations en lien avec le projet ici, afin de faciliter la transmission d'information et la coordination\n• c'est également important de bien tout documenter, sur des supports accessibles à toute l’équipe\n• n'hésitez pas à interagir si vous avez des questions ou suggestions\nEt bonne session mercredi. De mon côté je serais en déplacement jusqu'à vendredi. Je checkerais mes messages tous les soirs. :spock-hand:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1649716477.369049",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1649749496.137719",
+        "reply_users": [
+            "UAMPR1P5L",
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "UAMPR1P5L",
+                "ts": "1649717611.317179"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1649749496.137719"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.universite-paris-saclay.fr\/recherche\/polethis-ethique-et-integrite\/comite-dethique-de-la-recherche",
+                "ts": 1578351600,
+                "service_icon": "https:\/\/www.universite-paris-saclay.fr\/themes\/custom\/boots\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.universite-paris-saclay.fr\/recherche\/polethis-ethique-et-integrite\/comite-dethique-de-la-recherche",
+                "fallback": "Université Paris-Saclay: Comité d'éthique de la recherche",
+                "text": "Le CER  Paris-Saclay  ne se prononce pas sur le respect des mesures barrières contre le Covid-19. Afin de protéger les participants et les personnes impliquées dans la recherche, les responsables de la recherche doivent se mettre en conformité avec les mesures préconisées pour les recherches  sur site et hors site par les tutelles hébergeant les unités de recherche concernée. Cependant si vous avez des documents relatifs au protocole sanitaire mis en place pour le COVID 19 (e.g. fiche à remettre aux participants, questionnaires), vous pouvez les joindre au dossier. Nous reverrons uniquement les aspects éthiques. Le CER ne peut évaluer que 8 dossiers par séance. Par conséquent, certains dossiers pourront être mis sur liste d'attente. ATTENTION : Toute demande d'évaluation, amendement ou réponse au CER doit être faite par la plateforme de dépôt de dossiers (voir Démarche de soumission, point 3) et non par mail.",
+                "title": "Comité d'éthique de la recherche",
+                "title_link": "https:\/\/www.universite-paris-saclay.fr\/recherche\/polethis-ethique-et-integrite\/comite-dethique-de-la-recherche",
+                "service_name": "Université Paris-Saclay"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xqx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Petit checkpoint de la soirée :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Côté technique :",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U59MQ46DA"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " & "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01S8PWA7GU"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " ont réalisé des tests d'acquisition avec des électrodes moyennes. Le signal n'as pas semblé qualitatif en situation de mobilité. Olivier dépose les électrodes de qualité mercredi. Une grosse session de tests techniques est prévu mercredi au LPI. Les guidelines techniques sont sur "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/SCogLab\/SensoryOdysseyXP\/tree\/main\/acquisition",
+                                        "text": "ce GitLab"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". Hans je te laisse préciser les modalités et le planning."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Pré-test des questionnaires :",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " petit loupé sur les tests initialement prévus ce weekend au Muséum, la coordination à été un peu trop tardive pour prévenir le Muséum. En contrepartie je propose que l'on pré-test en mode F&F (friends & family). L'occasion de s’entraîner à notre rythme, s'approprier les questionnaires et donner une meilleure estimation du temps requis pour les compléter. "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Bonus",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", un exercice intéressant à faire : tester les questionnaires sur des personnes ayant vu l'expo avec une petite mise en situation et un chronomètre. Pour cela, "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U02GLDK69UJ"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " à préparé ce "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/forms\/d\/1RU85ebJjx6O6dcSAnLbM0WRGl_LEjT74aSVFu7to45g\/edit?usp=drive_web",
+                                        "text": "Google Form"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", à affiner et tester."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Recrutement :",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " à la demande d'Olivier, j'ai repris sa base et itéré sur un modèle d'email de recrutement qui sera validé et envoyé par le service communication du Muséum. Le modèle est "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/document\/d\/1s_uuXReqtGReICNQKPjLf6-hWJ-HLoiB81GYS8KT7qI\/edit#heading=h.q2zkr2nmhy1g",
+                                        "text": "accessible ici"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", commentaires bienvenus."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Agenda et planification :",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " comme indiqué ci-dessus, vous êtes toutes et tous invité.e.s à signaler vos disponibilités, même incertaines, pour anticiper au mieux chacune des sessions d'acquisition qui se déroulerons les 5 matinées de mai et début juin jusqu'à 13h30. Afin que chacun puisse repartir à ses occupations respectives l'après-midi en étant opérationnel, j'ai légèrement revu le planning de test pour que nous ayons le temps de manger et débriefer ensemble. L'association prendra en charge les repas et collation."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Comité éthique",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : la date de soumission pour la prochaine session du Comité d'Éthique pour la Recherche ("
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.universite-paris-saclay.fr\/recherche\/polethis-ethique-et-integrite\/comite-dethique-de-la-recherche",
+                                        "text": "CER Paris Saclay"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ") est fixée au 28 avril. D'ici là, il faudra préparer le dossier. Je n'ai pas encore pris le temps de me pencher sur le sujet et ne sais pas trop à quoi m'attendre pour le moment. La modalité de stockage et hébergement des données sera à préciser et j’imagine que le protocole sera à fournir. A voir si "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01RUJ02ECS"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " pourra apporter quelques conseils."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Protocole expérimentale",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : j'avais initialement prévu de faire un gros travail d'actualisation ce weekend, malheureusement j'ai eu d'autres contraintes. J'ai commencé à rependre quelques éléments de surface ce soir, et vais essayer de procéder par itérations dès que je pourrais sur la semaine. L'objectif est qui soit stabilisé dans une première version pour le pré-test de mardi prochain. Pour rappel, "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/document\/d\/1n8O6Is90CoKDCndWZwxAV1-5Z5y6yxRXXcNr5StfUWs\/edit#",
+                                        "text": "ce document est ici"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bulb",
+                                "unicode": "1f4a1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Et pour rappel, je vous invite à\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "signaler toute activité ou informations en lien avec le projet ici, afin de faciliter la transmission d'information et la coordination"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "c'est également important de bien tout documenter, sur des supports accessibles à toute l’équipe"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "n'hésitez pas à interagir si vous avez des questions ou suggestions"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nEt bonne session mercredi. De mon côté je serais en déplacement jusqu'à vendredi. Je checkerais mes messages tous les soirs. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "spock-hand",
+                                "unicode": "1f596"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UAMPR1P5L",
+        "type": "message",
+        "ts": "1649717611.317179",
+        "client_msg_id": "32153456-a6d5-4113-a147-35dd9d4dafa3",
+        "text": "Sur la qualité du signal en mobilité : oui, il faut s’attendre à ce que le signal soit nettement moins bon que complètement immobile. Avez-vous comparé ce que vous avez recueilli avec le notebook qui présente des extraits du signal assis, debout, en marchant ? Si visuellement vous arrivez à compter les battements cardiaques (ECG\/PPG) par exemple, ça devrait être bon. N’oubliez pas de donner aux sujets les instructions telles que décrites dans la doc (ne pas toucher les fils, ne pas mâcher, etc.), vérifiez bien que les électrodes du front ne sont pas en contact (il faut les découper si elles sont trop grandes), et que les électrodes ECG et la ref sont bien positionnées sur des points où les artefacts de mouvement sont réduits (clavicules et cervicale C6\/C7). Pour l’EDA, si vous n’obtenez rien, essayez de changer de main et\/ou de déplacer une des électrodes sur l’éminence thénar. Dans tous les cas, si vous faites des changements par rapport au protocole, notez-le sur la fiche du sujet. Pour certains sujets, vous n’aurez pas d’EDA, c’est possible dans certain cas (médicaments...)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g73db985d858",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273db985d858035ed23c0594718e0eac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "mesca",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "coglab644",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1649716477.369049",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NVc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sur la qualité du signal en mobilité : oui, il faut s’attendre à ce que le signal soit nettement moins bon que complètement immobile. Avez-vous comparé ce que vous avez recueilli avec le notebook qui présente des extraits du signal assis, debout, en marchant ? Si visuellement vous arrivez à compter les battements cardiaques (ECG\/PPG) par exemple, ça devrait être bon. N’oubliez pas de donner aux sujets les instructions telles que décrites dans la doc (ne pas toucher les fils, ne pas mâcher, etc.), vérifiez bien que les électrodes du front ne sont pas en contact (il faut les découper si elles sont trop grandes), et que les électrodes ECG et la ref sont bien positionnées sur des points où les artefacts de mouvement sont réduits (clavicules et cervicale C6\/C7). Pour l’EDA, si vous n’obtenez rien, essayez de changer de main et\/ou de déplacer une des électrodes sur l’éminence thénar. Dans tous les cas, si vous faites des changements par rapport au protocole, notez-le sur la fiche du sujet. Pour certains sujets, vous n’aurez pas d’EDA, c’est possible dans certain cas (médicaments...)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UAMPR1P5L",
+        "type": "message",
+        "ts": "1649717728.822989",
+        "client_msg_id": "67ead29a-2873-45a4-946f-404aa211c4f6",
+        "text": "(tu as aussi besoin des deux évènements pour la calibration)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g73db985d858",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273db985d858035ed23c0594718e0eac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "mesca",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "coglab644",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1649715889.782859",
+        "parent_user_id": "UAMPR1P5L",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xme3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(tu as aussi besoin des deux évènements pour la calibration)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UAMPR1P5L",
+        "type": "message",
+        "ts": "1649717823.075689",
+        "client_msg_id": "a1ec0047-cff0-4b21-ba7f-4e8d08082e28",
+        "text": "Je ne sais pas si tu as vu, mais j’avais mis le repo à jour après la hacknight il y a une dizaine de jours.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g73db985d858",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273db985d858035ed23c0594718e0eac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "mesca",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "coglab644",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1649715889.782859",
+        "parent_user_id": "UAMPR1P5L",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w0q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je ne sais pas si tu as vu, mais j’avais mis le repo à jour après la hacknight il y a une dizaine de jours."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

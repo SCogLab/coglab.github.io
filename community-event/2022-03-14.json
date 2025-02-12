@@ -1,0 +1,68 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1647268014.279219",
+        "client_msg_id": "fc6ec987-20b1-4d5a-bffb-944530bb377a",
+        "text": "Cette semaine, c’est la semaine du cerveau avec beaucoup d’évènements en présentiel sur Paris \\o\/ : <https:\/\/www.semaineducerveau.fr>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.semaineducerveau.fr\/",
+                "image_url": "https:\/\/www.semaineducerveau.fr\/wp-content\/uploads\/2018\/04\/logo.png",
+                "image_width": 277,
+                "image_height": 250,
+                "image_bytes": 130721,
+                "service_icon": "https:\/\/www.semaineducerveau.fr\/wp-content\/uploads\/2018\/04\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.semaineducerveau.fr",
+                "fallback": "Semaine du Cerveau: Semaine du Cerveau - 24ème édition du 14 au 20 mars 2022",
+                "text": "La Semaine du Cerveau est un ensemble de manifestations scientifiques ayant pour but de sensibiliser à l’importance de la recherche sur le cerveau. %",
+                "title": "Semaine du Cerveau - 24ème édition du 14 au 20 mars 2022",
+                "title_link": "https:\/\/www.semaineducerveau.fr\/",
+                "service_name": "Semaine du Cerveau",
+                "fields": [
+                    {
+                        "value": "1 minute",
+                        "title": "Durée de lecture est.",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1AwL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cette semaine, c’est la semaine du cerveau avec beaucoup d’évènements en présentiel sur Paris \\o\/ : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.semaineducerveau.fr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

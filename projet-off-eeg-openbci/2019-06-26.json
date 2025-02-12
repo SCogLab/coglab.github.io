@@ -1,0 +1,469 @@
+[
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1561557112.008100",
+        "client_msg_id": "e1c2e720-70a0-408e-94ab-8453c77b2785",
+        "text": "on en parle ici du projet POC EEG - tourisme ? <@U03FC5ZAK> <@U59MQ46DA>\npas envie de mettre mes commentaires\/questions sur le doc qui est ouvert à l'équipe du salon\n- le globe qui est derrière le participant, c'est juste une boule ? qu'est ce qui doit être représenté dessus ? les électrodes EEG direct ou alors une information prétraité ?\n- la phase de calibration : est ce que vous voulez montrer des images et les gens doivent répondre si ils aiment ou pas et ensuite on fait des calculs de similarité avec les images présenté pendant l'expérience ? pour construire un graph de préférence?\n- si oui il faudra caractériser les images présenter (série de mots par exemple) et faire une petite analyse lineaire ou extraire le mode principale de variation entre le graph de similarité des données EEG et les descriptions des images\n- si vous voulez faire avec deux personnes, vous ne pourrez pas trouver de comonalités (destination de vacances commune) au niveau des données EEG (problème de correspondance entre les expressions cérébrales), il faudra le faire à partir des graphs de similairtés entre les images, donc il n'y a pas du tout besoin de le faire en simultannées, les gens peuvent passer les uns après les autres",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561557112.008100",
+        "reply_count": 11,
+        "reply_users_count": 3,
+        "latest_reply": "1561707172.000100",
+        "reply_users": [
+            "U03FC5ZAK",
+            "U03FEH3N8",
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1561578644.000100"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1561582875.000400"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1561583234.000800"
+            },
+            {
+                "user": "U03FEH3N8",
+                "ts": "1561613960.001100"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1561635775.000100"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1561635834.000300"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1561636838.000500"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1561637701.000700"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1561638379.000900"
+            },
+            {
+                "user": "U03FEH3N8",
+                "ts": "1561642586.001100"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1561707172.000100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wd+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "on en parle ici du projet POC EEG - tourisme ? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\npas envie de mettre mes commentaires\/questions sur le doc qui est ouvert à l'équipe du salon\n- le globe qui est derrière le participant, c'est juste une boule ? qu'est ce qui doit être représenté dessus ? les électrodes EEG direct ou alors une information prétraité ?\n- la phase de calibration : est ce que vous voulez montrer des images et les gens doivent répondre si ils aiment ou pas et ensuite on fait des calculs de similarité avec les images présenté pendant l'expérience ? pour construire un graph de préférence?\n- si oui il faudra caractériser les images présenter (série de mots par exemple) et faire une petite analyse lineaire ou extraire le mode principale de variation entre le graph de similarité des données EEG et les descriptions des images\n- si vous voulez faire avec deux personnes, vous ne pourrez pas trouver de comonalités (destination de vacances commune) au niveau des données EEG (problème de correspondance entre les expressions cérébrales), il faudra le faire à partir des graphs de similairtés entre les images, donc il n'y a pas du tout besoin de le faire en simultannées, les gens peuvent passer les uns après les autres"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U03FC5ZAK",
+        "thread_ts": "1561557112.008100",
+        "root": {
+            "user": "U03FEH3N8",
+            "type": "message",
+            "ts": "1561557112.008100",
+            "client_msg_id": "e1c2e720-70a0-408e-94ab-8453c77b2785",
+            "text": "on en parle ici du projet POC EEG - tourisme ? <@U03FC5ZAK> <@U59MQ46DA>\npas envie de mettre mes commentaires\/questions sur le doc qui est ouvert à l'équipe du salon\n- le globe qui est derrière le participant, c'est juste une boule ? qu'est ce qui doit être représenté dessus ? les électrodes EEG direct ou alors une information prétraité ?\n- la phase de calibration : est ce que vous voulez montrer des images et les gens doivent répondre si ils aiment ou pas et ensuite on fait des calculs de similarité avec les images présenté pendant l'expérience ? pour construire un graph de préférence?\n- si oui il faudra caractériser les images présenter (série de mots par exemple) et faire une petite analyse lineaire ou extraire le mode principale de variation entre le graph de similarité des données EEG et les descriptions des images\n- si vous voulez faire avec deux personnes, vous ne pourrez pas trouver de comonalités (destination de vacances commune) au niveau des données EEG (problème de correspondance entre les expressions cérébrales), il faudra le faire à partir des graphs de similairtés entre les images, donc il n'y a pas du tout besoin de le faire en simultannées, les gens peuvent passer les uns après les autres",
+            "team": "T03FC4NDZ",
+            "thread_ts": "1561557112.008100",
+            "reply_count": 11,
+            "reply_users_count": 3,
+            "latest_reply": "1561707172.000100",
+            "reply_users": [
+                "U03FC5ZAK",
+                "U03FEH3N8",
+                "U59MQ46DA"
+            ],
+            "replies": [
+                {
+                    "user": "U03FC5ZAK",
+                    "ts": "1561578644.000100"
+                },
+                {
+                    "user": "U03FC5ZAK",
+                    "ts": "1561582875.000400"
+                },
+                {
+                    "user": "U03FC5ZAK",
+                    "ts": "1561583234.000800"
+                },
+                {
+                    "user": "U03FEH3N8",
+                    "ts": "1561613960.001100"
+                },
+                {
+                    "user": "U03FC5ZAK",
+                    "ts": "1561635775.000100"
+                },
+                {
+                    "user": "U03FC5ZAK",
+                    "ts": "1561635834.000300"
+                },
+                {
+                    "user": "U59MQ46DA",
+                    "ts": "1561636838.000500"
+                },
+                {
+                    "user": "U03FC5ZAK",
+                    "ts": "1561637701.000700"
+                },
+                {
+                    "user": "U59MQ46DA",
+                    "ts": "1561638379.000900"
+                },
+                {
+                    "user": "U03FEH3N8",
+                    "ts": "1561642586.001100"
+                },
+                {
+                    "user": "U03FC5ZAK",
+                    "ts": "1561707172.000100"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "RrpdH",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "on en parle ici du projet POC EEG - tourisme ? "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03FC5ZAK"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U59MQ46DA"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\npas envie de mettre mes commentaires\/questions sur le doc qui est ouvert à l'équipe du salon\n- le globe qui est derrière le participant, c'est juste une boule ? qu'est ce qui doit être représenté dessus ? les électrodes EEG direct ou alors une information prétraité ?\n- la phase de calibration : est ce que vous voulez montrer des images et les gens doivent répondre si ils aiment ou pas et ensuite on fait des calculs de similarité avec les images présenté pendant l'expérience ? pour construire un graph de préférence?\n- si oui il faudra caractériser les images présenter (série de mots par exemple) et faire une petite analyse lineaire ou extraire le mode principale de variation entre le graph de similarité des données EEG et les descriptions des images\n- si vous voulez faire avec deux personnes, vous ne pourrez pas trouver de comonalités (destination de vacances commune) au niveau des données EEG (problème de correspondance entre les expressions cérébrales), il faudra le faire à partir des graphs de similairtés entre les images, donc il n'y a pas du tout besoin de le faire en simultannées, les gens peuvent passer les uns après les autres"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1561578644.000100",
+        "client_msg_id": "bded757e-3486-4c25-bb52-9419f76d7159",
+        "text": "Yes, on peux en parler ici\nMerci pour tout tes commentaires et feedback !\n\nOn pourra documenter le fruit de ces réflexions sur le document, ça sera un support pour les étudiants, il est peux probable que l'équipe du salon viendra dessus (ou au pire, seulement Sophie juste 1 ou 2 fois)\n+ ça permet de contextualiser les questions en mode commentaire\n\n*Phase de calibration*\nÇa peut être une bonne approche en effet, je n'ai pas poussé cette partie et sèche un peu sur ce qui est le plus efficace\n\n*Nombre de personnes*\nYes, je ne pensais pas faire d'analyse comparative en EEG, simplement réaliser un traitement des courbes individuel, avec chacun sa couleur représentée sur le planisphère (ou boule, d'un rayon à définir)",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HAOf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, on peux en parler ici\nMerci pour tout tes commentaires et feedback !\n\nOn pourra documenter le fruit de ces réflexions sur le document, ça sera un support pour les étudiants, il est peux probable que l'équipe du salon viendra dessus (ou au pire, seulement Sophie juste 1 ou 2 fois)\n+ ça permet de contextualiser les questions en mode commentaire\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Phase de calibration",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nÇa peut être une bonne approche en effet, je n'ai pas poussé cette partie et sèche un peu sur ce qui est le plus efficace\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Nombre de personnes",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nYes, je ne pensais pas faire d'analyse comparative en EEG, simplement réaliser un traitement des courbes individuel, avec chacun sa couleur représentée sur le planisphère (ou boule, d'un rayon à définir)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "<@U03FEH3N8> tu serais partante pour faire une petite illustration plus esthétique que mon croquis fait a l\"arrache :wink:",
+        "files": [
+            {
+                "id": "FKXGS4N1E",
+                "created": 1561582871,
+                "timestamp": 1561582871,
+                "name": "BCI Voyager.jpg",
+                "title": "BCI Voyager.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03FC5ZAK",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 310983,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FKXGS4N1E\/bci_voyager.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FKXGS4N1E\/download\/bci_voyager.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FKXGS4N1E-4c5181dce7\/bci_voyager_64.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FKXGS4N1E-4c5181dce7\/bci_voyager_80.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FKXGS4N1E-4c5181dce7\/bci_voyager_360.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360_w": 249,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FKXGS4N1E-4c5181dce7\/bci_voyager_480.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_480_w": 332,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FKXGS4N1E-4c5181dce7\/bci_voyager_160.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FKXGS4N1E-4c5181dce7\/bci_voyager_720.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720_w": 497,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FKXGS4N1E-4c5181dce7\/bci_voyager_800.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1158,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FKXGS4N1E-4c5181dce7\/bci_voyager_960.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_960_w": 663,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FKXGS4N1E-4c5181dce7\/bci_voyager_1024.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_1024_w": 707,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1595,
+                "original_h": 2309,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U03FC5ZAK\/FKXGS4N1E\/bci_voyager.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-FKXGS4N1E-4e84a64dec",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U03FC5ZAK",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W07r5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tu serais partante pour faire une petite illustration plus esthétique que mon croquis fait a l\"arrache "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1561582875.000400",
+        "client_msg_id": "8f9db629-f08a-4b5c-8bf1-22f997b56a94",
+        "thread_ts": "1561557112.008100",
+        "parent_user_id": "U03FEH3N8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1561583234.000800",
+        "client_msg_id": "1ce99e8d-6666-4e6a-b170-40d0dfb3876c",
+        "text": "Je viens de faire une page web pour répondre a une demande de Sophie sur la communication <https:\/\/coglab.fr\/portfolio\/bci-voyager\/>\n\nN’hésitez pas si vous avez des feedbacks <@U59MQ46DA> <@U03FEH3N8>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561557112.008100",
+        "parent_user_id": "U03FEH3N8",
+        "attachments": [
+            {
+                "service_name": "CogLab, NeuroTechX Paris",
+                "title": "BCI Voyager",
+                "title_link": "https:\/\/coglab.fr\/portfolio\/bci-voyager\/",
+                "text": "Quelles vacances souhaite mon subconscient ? Dans le cadre du salon IFTM dédié aux professionnels du tourisme qui se déroulera du 1 au 4 octobre 2019, nous concevons un démonstrateur EEG avec des é…",
+                "fallback": "CogLab, NeuroTechX Paris: BCI Voyager",
+                "image_url": "https:\/\/coglab.fr\/wp-content\/uploads\/2019\/06\/BCI-Voyager.jpg",
+                "image_width": 173,
+                "image_height": 250,
+                "ts": 1561583028,
+                "from_url": "https:\/\/coglab.fr\/portfolio\/bci-voyager\/",
+                "image_bytes": 310983,
+                "service_icon": "https:\/\/i2.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=180%2C180&#038;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/coglab.fr\/portfolio\/bci-voyager\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zek",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je viens de faire une page web pour répondre a une demande de Sophie sur la communication "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.fr\/portfolio\/bci-voyager\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nN’hésitez pas si vous avez des feedbacks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1561613960.001100",
+        "client_msg_id": "fce7adc7-a438-49f7-8c40-3dc2291405ec",
+        "text": "tu peux metre une boule qui represente le cerveau avec les niveaux d'activation des electrodes endirect et eventuellement changer de rouge à bleu en fonction de la préférence en temps réelement, mais pas faire un globe terrestre car tu nepourras pas définir si oui ou non les gens veulent aller à un endroit particulier, simplement tu pourras dire si ils veulent aller en foret ou en iles ou un truc dans le genre\nj'écrirai dans la jounrée ce que j'imagine qui est faisable niveau analyse (la partie technique, les étudiants devront se débrouiller)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561557112.008100",
+        "parent_user_id": "U03FEH3N8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L0g5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tu peux metre une boule qui represente le cerveau avec les niveaux d'activation des electrodes endirect et eventuellement changer de rouge à bleu en fonction de la préférence en temps réelement, mais pas faire un globe terrestre car tu nepourras pas définir si oui ou non les gens veulent aller à un endroit particulier, simplement tu pourras dire si ils veulent aller en foret ou en iles ou un truc dans le genre\nj'écrirai dans la jounrée ce que j'imagine qui est faisable niveau analyse (la partie technique, les étudiants devront se débrouiller)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

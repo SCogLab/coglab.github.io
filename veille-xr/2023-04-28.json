@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1682711530.204309",
+        "client_msg_id": "6a8bf595-55ef-4088-9198-f65badf1b316",
+        "text": "Hello, oui j’ai vu passer.\nIl s’agit d’un formulaire plus ou moins simple selon le profil.\nJ’ai répondu au profil « citoyen », celui en tant qu’association implique une plus grande réflexion.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1681739565.126959",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mfg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, oui j’ai vu passer.\nIl s’agit d’un formulaire plus ou moins simple selon le profil.\nJ’ai répondu au profil « citoyen », celui en tant qu’association implique une plus grande réflexion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568668216.000400",
+        "client_msg_id": "87e62da8-cca3-443d-8c9a-ebfc1549e334",
+        "text": "Le réseaux européen de la XR\n<http:\/\/xr4all.eu\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "XR4ALL",
+                "title_link": "http:\/\/xr4all.eu\/",
+                "text": "Moving the European XR tech industry forward",
+                "fallback": "XR4ALL",
+                "image_url": "http:\/\/xr4all.eu\/xr4all-ogimage.png",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "http:\/\/xr4all.eu\/",
+                "image_bytes": 107796,
+                "service_icon": "http:\/\/xr4all.eu\/apple-touch-icon.png",
+                "service_name": "xr4all.eu",
+                "id": 1,
+                "original_url": "http:\/\/xr4all.eu\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3VQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le réseaux européen de la XR\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/xr4all.eu\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1533541892.000260",
+        "client_msg_id": "e74248a9-eaf4-4aea-8c8c-8bb3b3d1d8bf",
+        "text": "<https:\/\/github.com\/NeuroTechX\/bci-workshop\/blob\/master\/INSTRUCTIONS.md>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[NeuroTechX\/bci-workshop] INSTRUCTIONS.md",
+                "text": "```\n# BCI workshop - NeuroTechTO\n\nThis document will lead users through NeuroTechX's introductory BCI Workshop.\n\nThis workshop is intended for people with no or limited experience with Brain-Computer Interfaces (BCIs). The workshop will teach them the basic principles that are necessary to \"hack\" and develop new applications with BCIs: background on brain activity and brain activity measurement with EEG, structure of a BCI, feature extraction and machine learning. Two hands-on exercises will allow the participants to 1) visualize their EEG signals and some relevant features, and 2) experiment with a very simple BCI design. This should give the participants sufficient knowledge to understand the advantages and limitations of current BCIs, and to devise their own applications.\n\n## Programming languages for the workshop exercises\n\nThis version of the workshop currently only supports **Python** 3. (The [original version](<https:\/\/github.com\/NeuroTechX\/bci-workshop>) also supports MATLAB and GNU Octave, but only works on Windows).\nPython is a very popular, multi-purpose powerful, free, open and simple to read scripting language.\n\n## Supported operating systems\n\nThe workshop has been tested and works on Ubuntu 17.10, Windows 10, and macOS.\n\n## Required hardware for the workshop\n\nThe [Muse 2016](<http:\/\/www.choosemuse.com\/research\/>) model is the best option for this version of the workshop. However, if you are working with a older device you can use the muse-io command line tool to get the data.\n\n![muse_diagram](fig\/muse.png?raw=true \"The Muse EEG headband.\")\n\nIf you are working on macOS or Windows, you will also need a BLED112 Bluetooth dongle.\n\n## A. Installation of software for the workshop\n\nThere are many other programming languages ( C, C++, Java, Processing, etc.); a diversity of **BCI toolboxes** ([OpenVIBE](<http:\/\/openvibe.inria.fr\/>), [BCI2000](<http:\/\/www.bci2000.org\/wiki\/index.php\/Main_Page>), [BCILAB](<http:\/\/sccn.ucsd.edu\/wiki\/BCILAB>), etc.); and of course **other EEG devices** (OpenBCI, Emotiv EPOC, Neurosky Mindwave, etc.).\n\nAmong those, we chose the **Python-`muse-lsl`-Muse** combination as it provides a lot of flexibility to hackers, but at the same time is simple enough that novice users can understand what they are doing. Keep in mind though that the goal of this workshop is to teach you about BCIs in general, so that you are able to apply this knowledge to the environment and tools of your choice. We won't focus much on tools here.\n\nThese are the steps to setup your computer\n\n**A.1.** Installing Python and required packages\n\n**A.2.** Download the code for the workshop\n\n**A.3.** Pairing the Muse EEG headset with `muse-lsl`\n\n### A.1 Installing Python and required packages\n\nPython is a high-level scripting language that has been widely adopted in a many fields. It is open, free, simple to read, and has an extensive standard library. Many packages can also be downloaded online to complement its features.\n\nTwo packages are especially useful when dealing with scientific computing (as for BCIs): [`numpy`](<http:\/\/www.numpy.org\/>) and [`matplotlib`](<http:\/\/matplotlib.org\/>). `numpy` allows easy manipulation of arrays and matrices (very similar to [MATLAB](<http:\/\/mathesaurus.sourceforge.net\/matlab-numpy.html>)), which is necessary when dealing with data such as neurophysiological signals. `matplotlib` is similar to MATLAB's plotting functionalities, and can be used to visualize the signals and features we will be working with.\n\nOther packages we will use in this workshop are:\n\n* [`pylsl`](<https:\/\/pypi.python.org\/pypi\/pylsl>): the Python interface to the [Lab Streaming Layer](<https:\/\/github.com\/sccn\/labstreaminglayer>) (LSL), a protocol for real-time streaming of time series data over a network.\n* [`muse-lsl`](<https:\/\/github.com\/alexandrebarachant\/muse-lsl>): a pure-Python library to connect to a Muse headband and stream data using `pylsl`,\n* [`scikit-learn`](<http:\/\/scikit-learn.org\/stable\/>): a machine learning library.\n\nTo install Python 3 and some of these required packages, we suggest you download and install the [Anaconda distribution](<http:\/\/continuum.io\/downloads>). Anaconda is a Python distribution that includes Python 3.6 (in the case of Anaconda 3), most of the packages we will need for the workshop (as well as plenty other useful packages), and [Spyder](<https:\/\/pythonhosted.org\/spyder\/>), a great IDE for scientific computing in Python.\n\n#### Installation of Python with Anaconda (recommended)\n\n1. Download the [Anaconda graphical installer](<http:\/\/continuum.io\/downloads>) (if your OS version is 32-bit, make sure to download the 32-bit installer).\n2. Follow the instructions to install.\n\nThis installs Python, Spyder and some of the packages we will need for the workshop (`numpy`, `matplotlib` and `scikit-learn`).\n\n#### Individual installation of Python and packages (optional)\n\nAlternatively, you can [download Python 3.6 independently](<https:\/\/www.python.org\/downloads\/>). Make sure to install `pip` and then grab `numpy`, `matplotlib`, `scipy`, `seaborn` and ``scikit-learn`` by calling ```pip install &lt;package_name&gt;``` in the command line (or any other way you prefer). Make sure you have a text editor or IDE you can work with as well.\n\n#### Installation of additional Python packages\n\nRun the following command in a terminal __*__ to install the remaining packages:\n\n```\npip install git+<https:\/\/github.com\/peplin\/pygatt> pylsl bitstring pexpect\n```\n\nIf you do not have pip installed on your machine, you can do so via the Anaconda prompt. Here are the instructions\n\n  1. Search on your machine for Open Anaconda prompt and open it\n  2. Put in the following command: `conda install pip`\n\nIf you don't have git installed on your machine, you can download it [here](<https:\/\/git-scm.com\/downloads>)\n\n**Fixing connection bug in `pygatt`!**: The latest version of `pygatt` can throw an error on Windows and macOS when trying to connect to a device (see [here](<https:\/\/github.com\/peplin\/pygatt\/issues\/118>)). To avoid it, we need to add a simple line of code to the file `bgapi.py`. First, find the folder where that file is by running the following in a terminal:\n\n```\npython\nimport os\nimport pygatt\nprint(os.path.join(os.path.dirname(pygatt.__file__), 'backends', 'bgapi', 'bgapi.py'))\n```\n\nThen, add the following to line 191 of `bgapi.py` and save:\n```\ntime.sleep(.25)\n```\n\nThis should fix it!\n\n__*__ The way to open a terminal depends on your OS. On Windows, press &lt;kbd&gt;Windows&lt;\/kbd&gt; + &lt;kbd&gt;R&lt;\/kbd&gt;, type `cmd`, and then press &lt;kbd&gt;Enter&lt;\/kbd&gt;. On macOS, press &lt;kbd&gt;Apple&lt;\/kbd&gt;+&lt;kbd&gt;spacebar&lt;\/kbd&gt;, type `terminal`, and press &lt;kbd&gt;Enter&lt;\/kbd&gt;. On Ubuntu, &lt;kbd&gt;Ctrl&lt;\/kbd&gt;+&lt;kbd&gt;alt&lt;\/kbd&gt;+&lt;kbd&gt;T&lt;\/kbd&gt; will open a terminal.\n\n### A.2. Download the code for the workshop\n\nThe code for the workshop consists of Python scripts that you can find [here](<https:\/\/github.com\/jdpigeon\/bci-workshop>).\nYou can download everything as a ```.zip``` file using the button ![downloadzip](fig\/download_zip.jpg?raw=true \"Download zip button\") on the right. You then need to unzip the folder on your computer.\n\nAlternatively, if you have ```git``` installed on your computer, you can clone the repository by calling ```git clone <https:\/\/github.com\/jdpigeon\/bci-workshop.git>``` in a terminal.\n\n### A.3. Connecting the Muse to `muse-lsl`\n\nTo figure out the name of your Muse, look for the last 4 digits on the inner left part of the headband. The headband name will then just be `Muse-&lt;LAST 4 DIGITS&gt;`, e.g., `Muse-0A14`. Alternatively, if you are on Linux, you can use `hcitool` to find your devices's MAC address: ```sudo hcitool lescan```.\n\nWith your Muse turned on, you should now be able to connect to it with your computer. Use the `cd` command to navigate to where you downloaded the code for the workshop (e.g., `cd C:\\Users\\Hubert\\Documents\\bci-workshop\\python`). Then, ru…",
+                "title": "INSTRUCTIONS.md",
+                "footer": "<https:\/\/github.com\/NeuroTechX\/bci-workshop|NeuroTechX\/bci-workshop>",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/NeuroTechX\/bci-workshop\/blob\/master\/INSTRUCTIONS.md",
+                "footer_icon": "https:\/\/assets-cdn.github.com\/favicon.ico",
+                "color": "24292f",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "bot_id": "BA73T1BTJ",
+                "app_unfurl_url": "https:\/\/github.com\/NeuroTechX\/bci-workshop\/blob\/master\/INSTRUCTIONS.md",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3U1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/NeuroTechX\/bci-workshop\/blob\/master\/INSTRUCTIONS.md"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

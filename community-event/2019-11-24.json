@@ -1,0 +1,33 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab @ Maker Faire Paris 2019: <!date^1574586000^{date_short_pretty} from {time}|November 24th, 2019 from 10:00 AM> to <!date^1574618400^{time}|7:00 PM GMT+0100>",
+                "text": "<!date^1574586000^{date_short_pretty} from {time}|November 24th, 2019 from 10:00 AM> to <!date^1574618400^{time}|7:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Cit%C3%A9+des+sciences+et+de+l%27industrie%2C+30+Avenue+Corentin+Cariou%2C+75019+Paris%2C+France|Cité des sciences et de l'industrie, 30 Avenue Corentin Cariou, 75019 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab @ Maker Faire Paris 2019",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MGZqMnBqaDJxaDByaTBnamNsaGpmMWhrdnRfMjAxOTExMjRUMDkwMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1574582402.000100",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "UQX4727NZ",
+        "text": "<@UQX4727NZ> a rejoint le canal",
+        "type": "message",
+        "ts": "1574597707.000300"
+    }
+]

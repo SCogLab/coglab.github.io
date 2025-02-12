@@ -1,0 +1,25 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "Event created: RDV CDOS93 Association montreuilloise: <!date^1658997000^{date_short_pretty} from {time}|July 28th, 2022 from 10:30 AM> to <!date^1659000600^{time}|11:30 AM GMT+0200>",
+                "text": "<!date^1658997000^{date_short_pretty} from {time}|July 28th, 2022 from 10:30 AM> to <!date^1659000600^{time}|11:30 AM GMT+0200> at <https:\/\/maps.google.com\/maps?q=14+Rue+Delizy%2C+93500+Pantin%2C+France|14 Rue Delizy, 93500 Pantin, France>",
+                "pretext": "New calendar event created",
+                "title": "RDV CDOS93 Association montreuilloise",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NnM5ZzdmMjkxYmJtaG9oamFnc3Fhb2l1b2Qgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "more",
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1658334793.095809",
+        "bot_id": "B4SJBP2L8"
+    }
+]

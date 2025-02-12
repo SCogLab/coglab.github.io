@@ -1,0 +1,305 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1496089751.978588",
+        "text": "Hello <@U0DK05RS5> \n\nJ’ai une question technique à t’adresser.\n\nAvec nos changements d’organisation, on se pose la question du choix des outils collaboratifs. Aujourd’hui on utilise des solutions propriétaires \/ fermées (Slack, Google, Trello, ...)\n\nOn aimerais passer sur des solutions Ouvertes \/ Open Sources.\nHors, on ne dispose pas de serveur dédié, et la maintenance serait compliquée pour nous.\n\nEst-ce que tu aurais des feedbacks de ton expérience sur NTX ou d’autres Chapitres ? Et pour NTX, quels solutions vous utilisez, à part Slack et Gmail ?\n\nCf <https:\/\/coglab.hackpad.com\/Migration-des-Outils-Y9CdSkvJo6u>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Migration des Outils",
+                "title_link": "https:\/\/coglab.hackpad.com\/Migration-des-Outils-Y9CdSkvJo6u",
+                "text": "A PROPOS Passage en revue des outils utilisés aujourd'hui (la plupart sur des solutions propriétaire et\/ou fermée).",
+                "fallback": "Migration des Outils",
+                "from_url": "https:\/\/coglab.hackpad.com\/Migration-des-Outils-Y9CdSkvJo6u",
+                "thumb_url": "https:\/\/hackpad.com\/static\/img\/hackpad-logo-112.png",
+                "thumb_width": 112,
+                "thumb_height": 112,
+                "service_icon": "https:\/\/coglab.hackpad.com\/favicon.ico",
+                "service_name": "coglab.hackpad.com",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0IRY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0DK05RS5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nJ’ai une question technique à t’adresser.\n\nAvec nos changements d’organisation, on se pose la question du choix des outils collaboratifs. Aujourd’hui on utilise des solutions propriétaires \/ fermées (Slack, Google, Trello, ...)\n\nOn aimerais passer sur des solutions Ouvertes \/ Open Sources.\nHors, on ne dispose pas de serveur dédié, et la maintenance serait compliquée pour nous.\n\nEst-ce que tu aurais des feedbacks de ton expérience sur NTX ou d’autres Chapitres ? Et pour NTX, quels solutions vous utilisez, à part Slack et Gmail ?\n\nCf "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.hackpad.com\/Migration-des-Outils-Y9CdSkvJo6u"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0DK05RS5",
+        "type": "message",
+        "ts": "1496097630.685112",
+        "text": "Bonjour! Notre expérience est de préférer les solutions faciles et sans frictions à l’inverse. Il n’y a beaucoup de choses à faire et les gens sont bénévoles et tout ce qui cause de la friction va éventuellement te revenir en plein visage.\nSlack est encore un gros “Point d’Interrogation” pour nous, et nous allons nous y repencher, mais ça a jusqu’ici apporté une très grande valeur.\nGoogle pour Organization (pas simplement GMail, mais un environement Google, avec le Drive et les accounts Google est vraiment formidable)\nTrello a été la solution la plus utile pour le project management sous forme de “ToDo” jusqu’ici. Tout autre solution plus complexe nous est revenue en plein visage à cause du “overhead”.\nAirTable devient un outil très utile. Et une solution préféré à nos spreadsheet pour la gestion d’information, style CRM.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g616e130a10d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a616e130a10ddef82e2a3661ef764856.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Yannick",
+            "real_name": "Yannick ROY",
+            "display_name": "yannick.roy",
+            "team": "T03FC4NDZ",
+            "name": "yannick.roy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Tvpj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour! Notre expérience est de préférer les solutions faciles et sans frictions à l’inverse. Il n’y a beaucoup de choses à faire et les gens sont bénévoles et tout ce qui cause de la friction va éventuellement te revenir en plein visage.\nSlack est encore un gros “Point d’Interrogation” pour nous, et nous allons nous y repencher, mais ça a jusqu’ici apporté une très grande valeur.\nGoogle pour Organization (pas simplement GMail, mais un environement Google, avec le Drive et les accounts Google est vraiment formidable)\nTrello a été la solution la plus utile pour le project management sous forme de “ToDo” jusqu’ici. Tout autre solution plus complexe nous est revenue en plein visage à cause du “overhead”.\nAirTable devient un outil très utile. Et une solution préféré à nos spreadsheet pour la gestion d’information, style CRM."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0DK05RS5",
+        "type": "message",
+        "ts": "1496097703.690519",
+        "text": "On essaye également de diminuer beaucoup le nombre d’outil. G-Drive est utilisé pour tout ce qui est Spreadsheets, Document Texte et Présentations.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g616e130a10d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a616e130a10ddef82e2a3661ef764856.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Yannick",
+            "real_name": "Yannick ROY",
+            "display_name": "yannick.roy",
+            "team": "T03FC4NDZ",
+            "name": "yannick.roy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xhRj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On essaye également de diminuer beaucoup le nombre d’outil. G-Drive est utilisé pour tout ce qui est Spreadsheets, Document Texte et Présentations."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0DK05RS5",
+        "type": "message",
+        "ts": "1496097731.692567",
+        "text": "Adobe Illustrator pour les Media Kit &amp; Sponsorship Kit.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g616e130a10d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a616e130a10ddef82e2a3661ef764856.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Yannick",
+            "real_name": "Yannick ROY",
+            "display_name": "yannick.roy",
+            "team": "T03FC4NDZ",
+            "name": "yannick.roy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bjl6g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Adobe Illustrator pour les Media Kit & Sponsorship Kit."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0DK05RS5",
+        "type": "message",
+        "ts": "1496097738.693084",
+        "text": "(Et Logo \/ Banding)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g616e130a10d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a616e130a10ddef82e2a3661ef764856.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Yannick",
+            "real_name": "Yannick ROY",
+            "display_name": "yannick.roy",
+            "team": "T03FC4NDZ",
+            "name": "yannick.roy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TjL=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(Et Logo \/ Banding)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0DK05RS5",
+        "type": "message",
+        "ts": "1496097778.696007",
+        "text": "Github pour tout ce qui est code.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g616e130a10d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a616e130a10ddef82e2a3661ef764856.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Yannick",
+            "real_name": "Yannick ROY",
+            "display_name": "yannick.roy",
+            "team": "T03FC4NDZ",
+            "name": "yannick.roy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hyK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Github pour tout ce qui est code."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0DK05RS5",
+        "type": "message",
+        "ts": "1496097827.699584",
+        "text": "Meme notre DocKit: <http:\/\/ntx-dockit.readthedocs.io\/en\/latest\/> et sur Github et la rendu final généré avec Sphinx.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g616e130a10d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a616e130a10ddef82e2a3661ef764856.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Yannick",
+            "real_name": "Yannick ROY",
+            "display_name": "yannick.roy",
+            "team": "T03FC4NDZ",
+            "name": "yannick.roy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "taa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Meme notre DocKit: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/ntx-dockit.readthedocs.io\/en\/latest\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et sur Github et la rendu final généré avec Sphinx."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

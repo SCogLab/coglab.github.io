@@ -1,0 +1,89 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1584346891.000400",
+        "client_msg_id": "8855c597-4939-49d9-9f2a-4ada80bef028",
+        "text": "<https:\/\/bcisamara.com\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "BCI:SCIENCE AND PRACTICE.SAMARA 2017",
+                "title_link": "https:\/\/bcisamara.com\/",
+                "text": "Samara State Medical University gives tribune to leading BCI scientists from US, Europe and Russia. Annual international conference BCI:SCIENCE AND PRACTICE.SAMARA 2017 is held on12-13 October 2017.",
+                "fallback": "BCI:SCIENCE AND PRACTICE.SAMARA 2017",
+                "thumb_url": "https:\/\/bcisamara.com\/wp-content\/uploads\/2019\/10\/banner-en.png",
+                "from_url": "https:\/\/bcisamara.com\/",
+                "thumb_width": 1920,
+                "thumb_height": 788,
+                "service_icon": "https:\/\/bcisamara.com\/wp-content\/uploads\/2018\/05\/cropped-BCI2017logo_lamp_only-1-232x300-1-180x180.png",
+                "service_name": "bcisamara.com",
+                "id": 1,
+                "original_url": "https:\/\/bcisamara.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/H9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bcisamara.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #139 [Online due to Covid-19]: <!date^1584377100^{date_short_pretty} from {time}|March 16th, 2020 from 5:45 PM> to <!date^1584392400^{time}|10:00 PM GMT+0100>",
+                "text": "<!date^1584377100^{date_short_pretty} from {time}|March 16th, 2020 from 5:45 PM> to <!date^1584392400^{time}|10:00 PM GMT+0100> at <https:\/\/join.skype.com\/be7Ty93o77rj>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #139 [Online due to Covid-19]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=N3R1aTRiamc1N2FpYTFyZmZyYXI5YjBoYmFfMjAyMDAzMTZUMTY0NTAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1584373502.000600",
+        "bot_id": "B4SJBP2L8",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6EPG5PTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

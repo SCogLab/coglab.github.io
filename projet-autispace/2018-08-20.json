@@ -1,0 +1,224 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1534798841.000100",
+        "client_msg_id": "3b6709a2-960f-46e9-bb74-3df14aaf4d58",
+        "text": "Coucou <@U03FEH3N8> <@U0AR01SPQ>\n\nOn itère le Framework Autispace ce soir à la HackNight avec <@U5JBN3M8Q>\n\nEt on se demandait s’il y avait une raison - dans les cartes de la première partie (point de vue de Gabriel) - pour que l’on ai choisi le vouvoiement à la place de la première personne dans le contenu de ces cartes ?\nJe ne vois pas \/ ne me rappelle plus d’éventuel argument justifiant ce choix.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s2e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coucou "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0AR01SPQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nOn itère le Framework Autispace ce soir à la HackNight avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U5JBN3M8Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nEt on se demandait s’il y avait une raison - dans les cartes de la première partie (point de vue de Gabriel) - pour que l’on ai choisi le vouvoiement à la place de la première personne dans le contenu de ces cartes ?\nJe ne vois pas \/ ne me rappelle plus d’éventuel argument justifiant ce choix."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1534799005.000100",
+        "edited": {
+            "user": "U03FC5ZAK",
+            "ts": "1534799080.000000"
+        },
+        "client_msg_id": "6fcd806d-215d-44ef-8fe5-a07ac892e1d8",
+        "text": "Et pour info, afin de donner quelques nouvelles sur le projet, on effectue une mise à jour du matériel, avec :\n- Itération basé sur les retours des premiers tests utilisateurs\n- Simplification de l’ergonomie et contenu\n- J’ai proposé d’ajouter des QRCode sur les cartes, liés aux éléments multimédia\n\nOn fera d’autres tests utilisateurs ensuite, en procédant par itérations successive, en ajoutant des éléments.\nJe continue à travailler sur la modélisation du projet en WebXR",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PyX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et pour info, afin de donner quelques nouvelles sur le projet, on effectue une mise à jour du matériel, avec :\n- Itération basé sur les retours des premiers tests utilisateurs\n- Simplification de l’ergonomie et contenu\n- J’ai proposé d’ajouter des QRCode sur les cartes, liés aux éléments multimédia\n\nOn fera d’autres tests utilisateurs ensuite, en procédant par itérations successive, en ajoutant des éléments.\nJe continue à travailler sur la modélisation du projet en WebXR"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1534799189.000100",
+        "edited": {
+            "user": "U03FC5ZAK",
+            "ts": "1534799193.000000"
+        },
+        "client_msg_id": "d797e522-ec19-4ebd-8bd6-af8bd0fe7c2d",
+        "text": "J’ai également un bon contact pour intégrer Autispace dans un projet étudiant, donc on nettoie \/ améliore nos supports pour permettre de faciliter une éventuelle collaboration :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MHgr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’ai également un bon contact pour intégrer Autispace dans un projet étudiant, donc on nettoie \/ améliore nos supports pour permettre de faciliter une éventuelle collaboration "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1534799250.000100",
+        "client_msg_id": "315fed89-85ec-40a0-ae83-331a7efdc3bf",
+        "text": "Pour rappel, le Framework est ici\n<https:\/\/docs.google.com\/presentation\/d\/1Xh5wA1r-ojRp7QpDAwugFY0x2gwR2StvyU6TDdlZ-uI\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1534799250.000100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1542317212.000900",
+        "reply_users": [
+            "U07CPSBGX",
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U07CPSBGX",
+                "ts": "1542277425.000400"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1542317212.000900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7bcuw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour rappel, le Framework est ici\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/presentation\/d\/1Xh5wA1r-ojRp7QpDAwugFY0x2gwR2StvyU6TDdlZ-uI\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U07CPSBGX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

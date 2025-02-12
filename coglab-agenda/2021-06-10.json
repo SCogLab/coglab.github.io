@@ -1,0 +1,25 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: CogLab HackNight #198 - Special été [IRL]: <!date^1623688200^{date_short_pretty} from {time}|June 14th, 2021 from 6:30 PM> to <!date^1623697200^{time}|9:00 PM GMT+0200>",
+                "text": "<!date^1623688200^{date_short_pretty} from {time}|June 14th, 2021 from 6:30 PM> to <!date^1623697200^{time}|9:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Quai+de+la+Seine%2C+75019+Paris%2C+France|Quai de la Seine, 75019 Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "CogLab HackNight #198 - Special été [IRL]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NXVnM3JmOG1ob3JvMDUwZzM2cnFtcmc2MDggc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1623313272.002800",
+        "bot_id": "B4SJBP2L8"
+    }
+]

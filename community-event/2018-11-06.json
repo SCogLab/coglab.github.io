@@ -1,0 +1,28 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Event updated: [Option] Open CogLab @ Paillasse: <!date^1543514400^{date_short_pretty} from {time}|November 29th, 2018 from 7:00 PM> to <!date^1543521600^{time}|9:00 PM GMT+0100>",
+                "text": "<!date^1543514400^{date_short_pretty} from {time}|November 29th, 2018 from 7:00 PM> to <!date^1543521600^{time}|9:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=La+Paillasse%2C+226+Rue+Saint-Denis%2C+75002+Paris%2C+France|La Paillasse, 226 Rue Saint-Denis, 75002 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "[Option] Open CogLab @ Paillasse",
+                "more": "Les soirées Open CogLab sont un rendez-vous mensuel, un jeudi soir par mois.\nNous vous proposons de se retrouver à partir de 19h00 dans les locaux de La Paillasse \/ Maison du Libre et des Communs dans le sentier.\n\nCes rencontres se veulent un moment de partage convivial, de veille et de prospective autour d'un thème d'actualité sélectionné quelques jours auparavant ou sollicité par la communauté. \nNous pouvons également prévoir des moments pour des démos ou tests avec des volontaires parmi les personnes présentent.\nN'hésitez pas à consulter notre agenda (lien ci-dessous) et proposer des sujets dans la discussion associée à l'événement, sur les réseaux sociaux ou par email.\n\nAstuces pour les personnes souhaitant monter ou participer à un projet : nous disposons d’un format hebdomadaire — les soirées HackNight — le lundi soir (dédiées exclusivement aux projets et membres de l’association).\n\nQuelques ressources :\n- Echanger avec la communauté sur Slack ou Facebook <https:\/\/coglab.fr\/community\/> \n- Devenir membre de l'association via HelloAsso <https:\/\/www.helloasso.com\/associations\/coglab\/> \n- Les projets en cours sont référencé sur Trello <https:\/\/trello.com\/b\/NFHS3ZPa\/activit%C3%A9s> \n- L'agenda de l'association <https:\/\/coglab.fr\/actu\/agenda\/> \n- Le site de La Paillasse : <http:\/\/lapaillasse.org\/>",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NzRkcm45N3UxN2ZwZGhpZmNnNm8zM3VxaHYgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1541501534.000200",
+        "bot_id": "B4SJBP2L8"
+    }
+]

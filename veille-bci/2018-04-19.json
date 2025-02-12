@@ -1,0 +1,56 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1524140818.000085",
+        "text": "<http:\/\/www.bci-award.com\/Home#Nominees>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "BCI Award",
+                "title": "BCI Award 2018: Submit now!",
+                "title_link": "http:\/\/www.bci-award.com\/Home#Nominees",
+                "text": "The Annual BCI Award, endowed with 3,000 USD, is one of the top accolades in BCI research.",
+                "fallback": "BCI Award: BCI Award 2018: Submit now!",
+                "image_url": "http:\/\/www.bci-award.com\/data\/_uploaded\/image\/OpenGraph\/BCI-Award-OpenGraph_600x315px-min.png",
+                "from_url": "http:\/\/www.bci-award.com\/Home#Nominees",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 10251,
+                "service_icon": "http:\/\/www.bci-award.com\/data\/_uploaded\/fav\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "http:\/\/www.bci-award.com\/Home#Nominees"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qiK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.bci-award.com\/Home#Nominees"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

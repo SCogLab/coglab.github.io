@@ -1,0 +1,284 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1540298274.000100",
+        "client_msg_id": "40a59abd-8b34-411b-b800-9c2537ad82aa",
+        "text": "<@U03FC5ZAK> Est-ce que tu sais si il y a des limites max de stockage et de taille des Attachements dans Airtable ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GL0=A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Est-ce que tu sais si il y a des limites max de stockage et de taille des Attachements dans Airtable ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1540299021.000100",
+        "client_msg_id": "b004332d-d52a-4f78-b8b5-f695b54a1004",
+        "text": "La limite c’est 2Go \/ Table\nJe n’ai pas trouvé d’info sur la taille max d’un fichier\n<https:\/\/support.airtable.com\/hc\/en-us\/articles\/203229705-Guide-to-the-basic-field-types#attachment>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Airtable - Support",
+                "title": "Guide to the basic field types",
+                "title_link": "https:\/\/support.airtable.com\/hc\/en-us\/articles\/203229705-Guide-to-the-basic-field-types#attachment",
+                "text": "Unlike a spreadsheet, Airtable fields (columns) have specific \"types\" that allow you to store rich content in each record. For example, a table can contain records (rows) with attachments...",
+                "fallback": "Airtable - Support: Guide to the basic field types",
+                "image_url": "https:\/\/theme.zdassets.com\/theme_assets\/617537\/bad51fb9fb6d6ff60e18024ddbfc0bcba39405cd.png",
+                "from_url": "https:\/\/support.airtable.com\/hc\/en-us\/articles\/203229705-Guide-to-the-basic-field-types#attachment",
+                "image_width": 300,
+                "image_height": 65,
+                "image_bytes": 8029,
+                "service_icon": "http:\/\/theme.zdassets.com\/theme_assets\/617537\/e9d3763a5a5adcea2a8d03d5857c1a6a2d42f08b.png",
+                "id": 1,
+                "original_url": "https:\/\/support.airtable.com\/hc\/en-us\/articles\/203229705-Guide-to-the-basic-field-types#attachment"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6pt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La limite c’est 2Go \/ Table\nJe n’ai pas trouvé d’info sur la taille max d’un fichier\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/support.airtable.com\/hc\/en-us\/articles\/203229705-Guide-to-the-basic-field-types#attachment"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "FDMMLBXBQ",
+                "created": 1540299027,
+                "timestamp": 1540299027,
+                "name": "Screenshot 2018-10-23 at 14.42.53.png",
+                "title": "Screenshot 2018-10-23 at 14.42.53.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03FC5ZAK",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 101783,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FDMMLBXBQ\/screenshot_2018-10-23_at_14.42.53.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FDMMLBXBQ\/download\/screenshot_2018-10-23_at_14.42.53.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FDMMLBXBQ-309cee7ae7\/screenshot_2018-10-23_at_14.42.53_64.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FDMMLBXBQ-309cee7ae7\/screenshot_2018-10-23_at_14.42.53_80.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FDMMLBXBQ-309cee7ae7\/screenshot_2018-10-23_at_14.42.53_360.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360_w": 360,
+                "thumb_360_h": 192,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FDMMLBXBQ-309cee7ae7\/screenshot_2018-10-23_at_14.42.53_480.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_480_w": 480,
+                "thumb_480_h": 256,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FDMMLBXBQ-309cee7ae7\/screenshot_2018-10-23_at_14.42.53_160.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FDMMLBXBQ-309cee7ae7\/screenshot_2018-10-23_at_14.42.53_720.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720_w": 720,
+                "thumb_720_h": 384,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FDMMLBXBQ-309cee7ae7\/screenshot_2018-10-23_at_14.42.53_800.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_800_w": 800,
+                "thumb_800_h": 427,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FDMMLBXBQ-309cee7ae7\/screenshot_2018-10-23_at_14.42.53_960.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_960_w": 960,
+                "thumb_960_h": 513,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FDMMLBXBQ-309cee7ae7\/screenshot_2018-10-23_at_14.42.53_1024.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 547,
+                "image_exif_rotation": 1,
+                "original_w": 1180,
+                "original_h": 630,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U03FC5ZAK\/FDMMLBXBQ\/screenshot_2018-10-23_at_14.42.53.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-FDMMLBXBQ-f534dc0e74",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U03FC5ZAK",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1540299030.000100"
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1540299308.000100",
+        "client_msg_id": "fe8d6906-fcc7-43cb-a011-c1313acce37e",
+        "text": "Ok, merci, il faudra que je fasse attention pour les pdf",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "unSqe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok, merci, il faudra que je fasse attention pour les pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1540300406.000100",
+        "client_msg_id": "ff6c35dc-edd3-4c0d-bd36-27b654a9e190",
+        "text": "Tu peux connecter avec un Google Drive pour augmenter la capacité de stockage",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kh3e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu peux connecter avec un Google Drive pour augmenter la capacité de stockage"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1540300450.000100",
+        "client_msg_id": "debaa67f-67c8-4321-a3e0-d58a5606dc62",
+        "text": "Je me penche aussi sur le scrapping pour automatiser le travail de documentation\n\n<http:\/\/www.cis-openscraper.com\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zjHmR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je me penche aussi sur le scrapping pour automatiser le travail de documentation\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.cis-openscraper.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

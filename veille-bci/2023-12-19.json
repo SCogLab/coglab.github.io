@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U01804NJ7AQ",
+        "type": "message",
+        "ts": "1703053059.613569",
+        "client_msg_id": "B2AF65D5-E8F1-4846-891C-5FDC464919D7",
+        "text": "<https:\/\/arxiv.org\/abs\/2310.02948|https:\/\/arxiv.org\/abs\/2310.02948>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g7080a90c528",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7080a90c528526f8129488e607562782.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Morgan Hough",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "morgan.hough",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/arxiv.org\/abs\/2310.02948",
+                "service_icon": "https:\/\/arxiv.org\/static\/browse\/0.3.4\/images\/icons\/apple-touch-icon.png",
+                "thumb_url": "https:\/\/arxiv.org\/static\/browse\/0.3.4\/images\/arxiv-logo-fb.png",
+                "thumb_width": 1200,
+                "thumb_height": 700,
+                "id": 1,
+                "original_url": "https:\/\/arxiv.org\/abs\/2310.02948",
+                "fallback": "arXiv.org: HappyFeat -- An interactive and efficient BCI framework for clinical applications",
+                "text": "Brain-Computer Interface (BCI) systems allow users to perform actions by translating their brain activity into commands. Such systems usually need a training phase, consisting in training a classification algorithm to discriminate between mental states using specific features from the recorded signals. This phase of feature selection and training is crucial for BCI performance and presents specific constraints to be met in a clinical context, such as post-stroke rehabilitation.\n In this paper, we present HappyFeat, a software making Motor Imagery (MI) based BCI experiments easier, by gathering all necessary manipulations and analysis in a single convenient GUI and via automation of experiment or analysis parameters. The resulting workflow allows for effortlessly selecting the best features, helping to achieve good BCI performance in time-constrained environments. Alternative features based on Functional Connectivity can be used and compared or combined with Power Spectral Density, allowing a network-oriented approach.\n We then give details of HappyFeat's main mechanisms, and a review of its performances in typical use cases. We also show that it can be used as an efficient tool for comparing different metrics extracted from the signals, to train the classification algorithm. To this end, we show a comparison between the commonly-used Power Spectral Density and network metrics based on Functional Connectivity.\n HappyFeat is available as an open-source project which can be freely downloaded on GitHub.",
+                "title": "HappyFeat -- An interactive and efficient BCI framework for clinical applications",
+                "title_link": "https:\/\/arxiv.org\/abs\/2310.02948",
+                "service_name": "arXiv.org"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "phvTN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/arxiv.org\/abs\/2310.02948",
+                                "text": "https:\/\/arxiv.org\/abs\/2310.02948"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

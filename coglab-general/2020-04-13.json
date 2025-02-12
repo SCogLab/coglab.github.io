@@ -1,0 +1,154 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U011QR6T7PD",
+        "text": "<@U011QR6T7PD> a rejoint le canal",
+        "type": "message",
+        "ts": "1586789956.008800"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U012CBGBHNC",
+        "text": "<@U012CBGBHNC> a rejoint le canal",
+        "type": "message",
+        "ts": "1586793002.009000"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1586800070.009200",
+        "client_msg_id": "4ee3e543-3905-4959-89c8-8ab0861cb39f",
+        "text": "Il y a une chaîne dédiée sur le Slack NeurotechX Global #*neurekaepilepsy2020*",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586424599.008300",
+        "parent_user_id": "UPUDWG6J1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "flbm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il y a une chaîne dédiée sur le Slack NeurotechX Global #"
+                            },
+                            {
+                                "type": "text",
+                                "text": "neurekaepilepsy2020",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U011R7MSU0K",
+        "text": "<@U011R7MSU0K> a rejoint le canal",
+        "type": "message",
+        "ts": "1586800866.009400"
+    },
+    {
+        "user": "UPUDWG6J1",
+        "type": "message",
+        "ts": "1586805630.009500",
+        "client_msg_id": "4a05ab86-64b1-40dd-b1ee-25735d668f0a",
+        "text": "Je sais je m'y suis inscrite c'était histoire de s'engager dans ce challenge avec des membres de l'association.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g803d5a932e9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/803d5a932e92f6a5acc331411d8e39b3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "david trocellier",
+            "display_name": "david trocellier",
+            "team": "T03FC4NDZ",
+            "name": "david.trocellier33",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586424599.008300",
+        "parent_user_id": "UPUDWG6J1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gJ6d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je sais je m'y suis inscrite c'était histoire de s'engager dans ce challenge avec des membres de l'association."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1586805818.009700",
+        "client_msg_id": "33675088-7917-4d8e-b77f-4218696f9849",
+        "text": "Yes, je ferais un appel à intérêt \/ relais via Newsletter et sur les réseaux sociaux\nLe sujet était évoqué tout à l’heure en <#C0R6W4X2Q|coglab-hacknight>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586424599.008300",
+        "parent_user_id": "UPUDWG6J1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xxiH4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, je ferais un appel à intérêt \/ relais via Newsletter et sur les réseaux sociaux\nLe sujet était évoqué tout à l’heure en "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0R6W4X2Q"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

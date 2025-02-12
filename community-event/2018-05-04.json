@@ -1,0 +1,54 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1525421092.000319",
+        "client_msg_id": "4dde654c-a7bc-49d6-8cb3-f552da3a26ad",
+        "text": "Il faudrait que je le mette à l'ordre du jour la prochaine fois pour ne pas l'oublier :alarm_clock:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1525388972.000178",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i3oF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il faudrait que je le mette à l'ordre du jour la prochaine fois pour ne pas l'oublier "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "alarm_clock",
+                                "unicode": "23f0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "UAKBG3BEK",
+        "text": "<@UAKBG3BEK> a rejoint le canal",
+        "type": "message",
+        "ts": "1525426435.000016"
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1615294950.000100",
+        "client_msg_id": "85e7a9f6-96dd-4413-bcfc-e93ea006a068",
+        "text": "ça t'intéresse d'aller à Marseille <@UAMPR1P5L>?\n\nHans est hyper chaud, de mon côté c'est la veille d'une grosse deadline\n\nJe m'apprête à répondre à l'équipe pour leur faire part de notre intérêt, et voir s'il est possible de profiter de l'occasion pour discuter avec l'équipe technique !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1614955342.003500",
+        "parent_user_id": "UAMPR1P5L",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fHfN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ça t'intéresse d'aller à Marseille "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UAMPR1P5L"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?\n\nHans est hyper chaud, de mon côté c'est la veille d'une grosse deadline\n\nJe m'apprête à répondre à l'équipe pour leur faire part de notre intérêt, et voir s'il est possible de profiter de l'occasion pour discuter avec l'équipe technique !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UAMPR1P5L",
+        "type": "message",
+        "ts": "1615298211.000500",
+        "client_msg_id": "2ad38cdb-4d5b-4152-9a4c-c126f75f3334",
+        "text": "Si c’est presque la même chose, je ne vois pas trop l’intérêt... Et pareil, quelques deadlines en avril.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g73db985d858",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273db985d858035ed23c0594718e0eac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "mesca",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "coglab644",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1614955342.003500",
+        "parent_user_id": "UAMPR1P5L",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FCyD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si c’est presque la même chose, je ne vois pas trop l’intérêt... Et pareil, quelques deadlines en avril."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1615298437.000700",
+        "client_msg_id": "21f02773-7c87-42f1-b619-3c10e72810e2",
+        "text": "Bien reçu :ok_hand:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1614955342.003500",
+        "parent_user_id": "UAMPR1P5L",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C6M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bien reçu "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand",
+                                "unicode": "1f44c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

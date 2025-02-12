@@ -1,0 +1,52 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There is *1* event this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "[NTXhack2022] Workskhop pre-Hackathon: <!date^1666267200^{date_short_pretty} from {time}|October 20th, 2022 from 2:00 PM> to <!date^1666281600^{time}|6:00 PM GMT+0200>",
+                "text": "<!date^1666267200^{date_short_pretty} from {time}|October 20th, 2022 from 2:00 PM> to <!date^1666281600^{time}|6:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=42%2C+96+Bd+Bessi%C3%A8res%2C+75017+Paris%2C+France|42, 96 Bd Bessières, 75017 Paris, France>",
+                "title": "[NTXhack2022] Workskhop pre-Hackathon",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MHVnbTF2NHVvNTBtZHJlMmo4Z3M4aW5hYTQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1665986403.112239",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M=5T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "1",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " event this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

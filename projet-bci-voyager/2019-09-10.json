@@ -1,0 +1,666 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1568143063.031500",
+        "client_msg_id": "f39f85b1-89fa-471e-8a28-ab11164ec64d",
+        "text": "<@UN5THSRG8> J’ai rajouté deux nouveaux fichiers csv avec des données un peu mieux formatées : j’ai mis les mesures du timestamp en nanosecondes, j’ai rajouté un champ supplémentaire “Status” qui sera censé correspondre aux mesures du casque avec un trigger externe : <https:\/\/drive.google.com\/drive\/folders\/1ukfDs0trd3Iyk_qrXR2gce8z9TVYGigd>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568143063.031500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1568297383.000100",
+        "reply_users": [
+            "UN5THSRG8"
+        ],
+        "replies": [
+            {
+                "user": "UN5THSRG8",
+                "ts": "1568297383.000100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AgS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UN5THSRG8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " J’ai rajouté deux nouveaux fichiers csv avec des données un peu mieux formatées : j’ai mis les mesures du timestamp en nanosecondes, j’ai rajouté un champ supplémentaire “Status” qui sera censé correspondre aux mesures du casque avec un trigger externe : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1ukfDs0trd3Iyk_qrXR2gce8z9TVYGigd"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1568143382.034200",
+        "client_msg_id": "d5876176-6bdf-4e42-83d0-0027745f2ba7",
+        "text": "<@U03FC5ZAK> Il faudra qu’on voit jeudi les possibilités du sdk, j’ai rechecké le code et avec la version du sdk-lite que nous avons sur nos Android Studio, nous ne pouvons effectivement pas envoyer de triggers vers le casque comme indiqué dans la doc du github de melomind.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568143382.034200",
+        "reply_count": 15,
+        "reply_users_count": 3,
+        "latest_reply": "1568197240.048600",
+        "reply_users": [
+            "U03FC5ZAK",
+            "U59MQ46DA",
+            "U03FEH3N8"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1568143517.034300"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1568143816.034500"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1568144186.034700"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1568144336.034900"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1568144437.035100"
+            },
+            {
+                "user": "U03FEH3N8",
+                "ts": "1568183379.044000"
+            },
+            {
+                "user": "U03FEH3N8",
+                "ts": "1568186102.044200"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1568186414.044400"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1568192373.044700"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1568192633.044900"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1568194396.045100"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1568194470.045300"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1568194919.045500"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1568195946.045700"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1568197240.048600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p8k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Il faudra qu’on voit jeudi les possibilités du sdk, j’ai rechecké le code et avec la version du sdk-lite que nous avons sur nos Android Studio, nous ne pouvons effectivement pas envoyer de triggers vers le casque comme indiqué dans la doc du github de melomind."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568143517.034300",
+        "client_msg_id": "0f66493f-b3d2-44fb-bda9-2e29dc533638",
+        "text": "ça veux dire qu'on ne peux pas tester le P300 non plus ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568143382.034200",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OeZt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ça veux dire qu'on ne peux pas tester le P300 non plus ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1568143816.034500",
+        "client_msg_id": "2ae5739c-29f6-4f5e-9480-885e2cc94bd7",
+        "text": "On pourra l’implémenter\/tester mais on devra prendre d’autres versions du sdk (j’en ai récupéré quelques uns en loucedé).",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568143382.034200",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P1B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On pourra l’implémenter\/tester mais on devra prendre d’autres versions du sdk (j’en ai récupéré quelques uns en loucedé)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568144186.034700",
+        "client_msg_id": "7ee1d2a1-729a-4008-9aa9-0a8cdbfcad88",
+        "text": "Non, il faut régler ce problème *avant* jeudi.\n\nEncore une fois, est-ce que *oui ou non* le *P300* est accessible aujourd'hui avec le SDK fournis ?\nSi oui peux tu tester ce qu'il nous renvoi stp.\n\nSi on ne peut pas exploiter le P300 en l'état, comme discuté avec <@U03FEH3N8> &amp; <@UN5THSRG8> hier soir, soit :\n- on écrit à Sophie pour voir s'il est possible d'avoir accès à cette capacité avec triggers\n- on utilise une alternative au P300 qui implique plus de développement",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568143382.034200",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XGePp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Non, il faut régler ce problème "
+                            },
+                            {
+                                "type": "text",
+                                "text": "avant",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " jeudi.\n\nEncore une fois, est-ce que "
+                            },
+                            {
+                                "type": "text",
+                                "text": "oui ou non",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " le "
+                            },
+                            {
+                                "type": "text",
+                                "text": "P300",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " est accessible aujourd'hui avec le SDK fournis ?\nSi oui peux tu tester ce qu'il nous renvoi stp.\n\nSi on ne peut pas exploiter le P300 en l'état, comme discuté avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " & "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UN5THSRG8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hier soir, soit :\n- on écrit à Sophie pour voir s'il est possible d'avoir accès à cette capacité avec triggers\n- on utilise une alternative au P300 qui implique plus de développement"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1568144336.034900",
+        "client_msg_id": "3fe5156f-23f9-4548-8a61-243b1d6ce408",
+        "text": "C’est non, on ne peut faire aucune opération avec le sdk fourni.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568143382.034200",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FLZJq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C’est non, on ne peut faire aucune opération avec le sdk fourni."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568144437.035100",
+        "edited": {
+            "user": "U03FC5ZAK",
+            "ts": "1568144447.000000"
+        },
+        "client_msg_id": "2930db03-0cab-4c99-8c0c-817d2d9c9132",
+        "text": "Ok, dans ce cas, <@U03FEH3N8> aurais-tu quelques minutes pour écrire à Sophie, en nous mettant en copie, conformément à la discussion que l'on as eu hier soir stp ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568143382.034200",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cxV37",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok, dans ce cas, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " aurais-tu quelques minutes pour écrire à Sophie, en nous mettant en copie, conformément à la discussion que l'on as eu hier soir stp ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Okay, it's time for me to go home !!! :exploding_head::scream::sweat_smile:",
+        "files": [
+            {
+                "id": "FN9TQEWH4",
+                "created": 1568151926,
+                "timestamp": 1568151926,
+                "name": "Screenshot_20190910-234440_One UI Home.jpg",
+                "title": "Screenshot_20190910-234440_One UI Home.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03FC5ZAK",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 80939,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FN9TQEWH4\/screenshot_20190910-234440_one_ui_home.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FN9TQEWH4\/download\/screenshot_20190910-234440_one_ui_home.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN9TQEWH4-f35cfdc19a\/screenshot_20190910-234440_one_ui_home_64.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN9TQEWH4-f35cfdc19a\/screenshot_20190910-234440_one_ui_home_80.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN9TQEWH4-f35cfdc19a\/screenshot_20190910-234440_one_ui_home_360.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360_w": 329,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN9TQEWH4-f35cfdc19a\/screenshot_20190910-234440_one_ui_home_480.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_480_w": 439,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN9TQEWH4-f35cfdc19a\/screenshot_20190910-234440_one_ui_home_160.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN9TQEWH4-f35cfdc19a\/screenshot_20190910-234440_one_ui_home_720.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720_w": 658,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN9TQEWH4-f35cfdc19a\/screenshot_20190910-234440_one_ui_home_800.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_800_w": 800,
+                "thumb_800_h": 876,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN9TQEWH4-f35cfdc19a\/screenshot_20190910-234440_one_ui_home_960.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_960_w": 877,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FN9TQEWH4-f35cfdc19a\/screenshot_20190910-234440_one_ui_home_1024.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_1024_w": 936,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1439,
+                "original_h": 1575,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U03FC5ZAK\/FN9TQEWH4\/screenshot_20190910-234440_one_ui_home.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-FN9TQEWH4-ff32dd8d79",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U03FC5ZAK",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=IoO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay, it's time for me to go home !!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "exploding_head",
+                                "unicode": "1f92f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "scream",
+                                "unicode": "1f631"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1568151926.036000",
+        "client_msg_id": "728d116b-a450-42f3-95a6-b565816becfa"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568152929.043000",
+        "client_msg_id": "072f019e-a529-44a1-9e28-7405c9f08f3b",
+        "text": "My activity log :\n- grosse mise à jour de la documentation (Google Doc + Google Slide)\n- synchronisation avec Maike pour la gestion de projet (planning, liste des tâches sur Trello, deadlines, synchro partenaires, ...)\n- synchro avec Tanguy sur l'App + ajout des 150 images de catégorie + test UX + prise en main d'Android studio\n- et check de la faisabilité du P300 via Hans (cf échanges ci-dessus)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568152929.043000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1568196815.045900",
+        "reply_users": [
+            "ULSDVUUVA"
+        ],
+        "replies": [
+            {
+                "user": "ULSDVUUVA",
+                "ts": "1568196815.045900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+QO\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My activity log :\n- grosse mise à jour de la documentation (Google Doc + Google Slide)\n- synchronisation avec Maike pour la gestion de projet (planning, liste des tâches sur Trello, deadlines, synchro partenaires, ...)\n- synchro avec Tanguy sur l'App + ajout des 150 images de catégorie + test UX + prise en main d'Android studio\n- et check de la faisabilité du P300 via Hans (cf échanges ci-dessus)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568153359.043900",
+        "client_msg_id": "31881b03-d2eb-4012-96f6-f55679d073bf",
+        "text": "Demain je shoote un gros email d'avancement à tout les partenaires.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kTv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Demain je shoote un gros email d'avancement à tout les partenaires."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1568183379.044000",
+        "client_msg_id": "7070ca22-bb3d-4e89-99b7-52c7784d50a3",
+        "text": "doing that now",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568143382.034200",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lL\/I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "doing that now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

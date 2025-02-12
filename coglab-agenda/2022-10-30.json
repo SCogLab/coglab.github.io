@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "[NTXhack2022] Hackathon Day 2: <!date^1667119500^{date_short_pretty} from {time}|October 30th, 2022 from 9:45 AM> to <!date^1667160900^{time}|9:15 PM GMT+0100>",
+                "text": "<!date^1667119500^{date_short_pretty} from {time}|October 30th, 2022 from 9:45 AM> to <!date^1667160900^{time}|9:15 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=42%2C+96+Bd+Bessi%C3%A8res%2C+75017+Paris%2C+France|42, 96 Bd Bessières, 75017 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "[NTXhack2022] Hackathon Day 2",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Mmgwa2ZmOHNuMmVzN2tlYzljcXExOGU2dTkgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "more",
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1667115901.224499",
+        "bot_id": "B4SJBP2L8"
+    }
+]

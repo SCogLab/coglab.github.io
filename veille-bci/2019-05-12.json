@@ -1,0 +1,72 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1557652418.000800",
+        "client_msg_id": "4a2e0809-0553-45c3-9a86-191d6a946c78",
+        "text": "Article sur le film (_I am Human_) qui a été présenté au festival Tribeca : <https:\/\/www.wired.com\/story\/i-am-human-brain-implants\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "WIRED",
+                "title": "Brain-Machine Interfaces Could Give Us All Superpowers",
+                "title_link": "https:\/\/www.wired.com\/story\/i-am-human-brain-implants\/",
+                "text": "'I Am Human' chronicles how neurotechnology could make us all more than what we are.",
+                "fallback": "WIRED: Brain-Machine Interfaces Could Give Us All Superpowers",
+                "image_url": "https:\/\/media.wired.com\/photos\/5cca004f2516b6639d687bd4\/2:1\/w_2500,c_limit\/Culture_IAmHuman2.jpg",
+                "image_width": 500,
+                "image_height": 250,
+                "from_url": "https:\/\/www.wired.com\/story\/i-am-human-brain-implants\/",
+                "image_bytes": 104880,
+                "service_icon": "https:\/\/www.wired.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.wired.com\/story\/i-am-human-brain-implants\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WlB4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Article sur le film ("
+                            },
+                            {
+                                "type": "text",
+                                "text": "I am Human",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ") qui a été présenté au festival Tribeca : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.wired.com\/story\/i-am-human-brain-implants\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

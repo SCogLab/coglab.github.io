@@ -1,0 +1,76 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There are *3* events this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #166 [Online]: <!date^1601915400^{date_short_pretty} from {time}|October 5th, 2020 from 6:30 PM> to <!date^1601928000^{time}|10:00 PM GMT+0200>",
+                "text": "<!date^1601915400^{date_short_pretty} from {time}|October 5th, 2020 from 6:30 PM> to <!date^1601928000^{time}|10:00 PM GMT+0200> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "title": "CogLab HackNight #166 [Online]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MnR0aXRwbTNkMjBkY3FraXZzMDRzb21nZGkgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "CogLab Summit 2020: <!date^1602086400^{date_short_pretty} from {time}|October 7th, 2020 from 6:00 PM> to <!date^1602089100^{time}|6:45 PM GMT+0200>",
+                "text": "<!date^1602086400^{date_short_pretty} from {time}|October 7th, 2020 from 6:00 PM> to <!date^1602089100^{time}|6:45 PM GMT+0200>",
+                "title": "CogLab Summit 2020",
+                "id": 2,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NmI5Nzk1dGprMWRwZjN0YXJ1dW5nZHJ2c3Igc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "Assemblée Générale CogLab #4: <!date^1602089100^{date_short_pretty} from {time}|October 7th, 2020 from 6:45 PM> to <!date^1602092700^{time}|7:45 PM GMT+0200>",
+                "text": "<!date^1602089100^{date_short_pretty} from {time}|October 7th, 2020 from 6:45 PM> to <!date^1602092700^{time}|7:45 PM GMT+0200>",
+                "title": "Assemblée Générale CogLab #4",
+                "id": 3,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NXNqbHM2aTFmMG81MWhib3VjbGk4YmYwaGwgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1601877608.000100",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rBIOB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " events this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

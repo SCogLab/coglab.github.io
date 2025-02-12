@@ -1,0 +1,27 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card Conscious Lab added to list Prospect on board Gestion CogLab (administrateur).",
+                "text": "In list *Prospect* on *<https:\/\/trello.com\/b\/jSnI3dXM|Gestion CogLab (administrateur)>*.",
+                "pretext": "New card created",
+                "title": "Conscious Lab",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/VzZ2ipTE",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1576524609.000100",
+        "bot_id": "B66HQV43C"
+    }
+]

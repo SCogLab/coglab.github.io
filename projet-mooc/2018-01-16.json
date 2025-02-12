@@ -1,0 +1,134 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1516102687.000094",
+        "text": "<https:\/\/www.youtube.com\/watch?v=YHBDli883Q8>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "MOOC Éducation par la recherche : neurosciences à l'École Extension - trailer",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=YHBDli883Q8",
+                "author_name": "Les Savanturiers - L'école de la recherche",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCoUDPtTse5SKQQ9Cc14-3pQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/YHBDli883Q8\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: MOOC Éducation par la recherche : neurosciences à l'École Extension - trailer",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/YHBDli883Q8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=YHBDli883Q8",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r5JX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=YHBDli883Q8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U5JBN3M8Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1516102748.000332",
+        "text": "Le MOOC est disponible ici et démarre le 25 janvier !\n<https:\/\/www.fun-mooc.fr\/courses\/course-v1:USPC+37004+session02\/about>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "FUN-MOOC",
+                "title": "Éducation par la recherche : neurosciences à l'École Extension",
+                "title_link": "https:\/\/www.fun-mooc.fr\/courses\/course-v1:USPC+37004+session02\/about",
+                "text": "Le MOOC Éducation par la recherche : neurosciences en classe a pour objectif de vous accompagner dans la conception et la mise en oeuvre d’un projet pédagogique reposant sur les méthodes et enjeux de la recherche en neurosciences.",
+                "fallback": "FUN-MOOC: Éducation par la recherche : neurosciences à l'École Extension",
+                "image_url": "https:\/\/www.fun-mooc.fr\/media\/courses-thumbnails\/course-v1uspc37004session02.600x315_q85_crop-smart.jpg",
+                "from_url": "https:\/\/www.fun-mooc.fr\/courses\/course-v1:USPC+37004+session02\/about",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 21709,
+                "service_icon": "https:\/\/www.fun-mooc.fr\/static\/lms\/fun\/images\/favicon.70034e408662.ico",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DxiiA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le MOOC est disponible ici et démarre le 25 janvier !\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.fun-mooc.fr\/courses\/course-v1:USPC+37004+session02\/about"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FEH3N8"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

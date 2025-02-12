@@ -1,0 +1,161 @@
+[
+    {
+        "user": "U6EPG5PTQ",
+        "type": "message",
+        "ts": "1587725591.010500",
+        "client_msg_id": "2e260835-af90-4c17-b49f-ce19fa037eb1",
+        "text": "Pour moi c'est donc ce soir à 18h",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g09c260ee4c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/209c260ee4c8c21ab89b376055cd6e8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Karine",
+            "real_name": "Karine Halpern",
+            "display_name": "KarineH",
+            "team": "T03FC4NDZ",
+            "name": "karine.halpern",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YeVp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour moi c'est donc ce soir à 18h"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U6EPG5PTQ",
+        "type": "message",
+        "ts": "1587742324.011400",
+        "client_msg_id": "7b194631-4e90-4737-9f25-a9d69347e9f2",
+        "text": "<@U03FC5ZAK> on fait un ordre du jour? Je pense qu'on peut improviser sur la base de tes doc. Skype? ou autre? on peut reprendre dans le skype de la dernière AG...",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g09c260ee4c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/209c260ee4c8c21ab89b376055cd6e8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Karine",
+            "real_name": "Karine Halpern",
+            "display_name": "KarineH",
+            "team": "T03FC4NDZ",
+            "name": "karine.halpern",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1587742324.011400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1587744285.011500",
+        "reply_users": [
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1587744285.011500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/mzA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on fait un ordre du jour? Je pense qu'on peut improviser sur la base de tes doc. Skype? ou autre? on peut reprendre dans le skype de la dernière AG..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1587744285.011500",
+        "client_msg_id": "7ebf26dd-14a1-47d1-ac1e-b5e681b3844c",
+        "text": "yes, tout est dans le mail que tu as reçu",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1587742324.011400",
+        "parent_user_id": "U6EPG5PTQ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0CRXg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, tout est dans le mail que tu as reçu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "Romain ROUYER commented on Changement Banque: \"Paul est au Crédit Coopératif pour un tarif négocié à 7.5€ \"",
+                "text": "Paul est au Crédit Coopératif pour un tarif négocié à 7.5€ ",
+                "pretext": "New comment on *<https:\/\/trello.com\/c\/MWlAUumX|Changement Banque>*",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "https:\/\/trello-members.s3.amazonaws.com\/50080b67614e7d5e0528a0d3\/2fa24ca179db27c01d7fe8be31c79914\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1587746183.011700",
+        "bot_id": "B66HQV43C"
+    }
+]

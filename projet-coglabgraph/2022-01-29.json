@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1643448475.936459",
+        "client_msg_id": "b15b4c78-e21a-436e-af1a-41e11c83a9b8",
+        "text": "Obsidian, outil de type Roam pour la prise de notes et gestion de connaissances en graph (que je vais tester ce we) : <https:\/\/obsidian.md>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/obsidian.md\/",
+                "image_url": "https:\/\/obsidian.md\/images\/banner.png",
+                "image_width": 750,
+                "image_height": 250,
+                "image_bytes": 164625,
+                "service_icon": "https:\/\/obsidian.md\/.\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/obsidian.md",
+                "fallback": "Obsidian: A knowledge base that works on local Markdown files.",
+                "text": "Obsidian – A knowledge base that works on local Markdown files.",
+                "title": "Obsidian: A knowledge base that works on local Markdown files.",
+                "title_link": "https:\/\/obsidian.md\/",
+                "service_name": "obsidian.md"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3fC3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Obsidian, outil de type Roam pour la prise de notes et gestion de connaissances en graph (que je vais tester ce we) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/obsidian.md"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

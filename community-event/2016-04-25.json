@@ -1,0 +1,154 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1461584687.000002",
+        "text": "Hello, qui pense venir pour la HackNight ce soir ?\nSi on est pas bcp, on peux peut-être faire une session skype ?\n\n<@U03FEH3N8> &amp; <@U07CFCCBG> seront présentent online uniquement à priori\nQu'en pensez vous ? <@U0AR01SPQ> <@U0Z7LQQS2> <@U07MRF79P> et les autres ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PYPO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, qui pense venir pour la HackNight ce soir ?\nSi on est pas bcp, on peux peut-être faire une session skype ?\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " & "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07CFCCBG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " seront présentent online uniquement à priori\nQu'en pensez vous ? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0AR01SPQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0Z7LQQS2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07MRF79P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et les autres ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1461586091.000003",
+        "edited": {
+            "user": "U03FC5ZAK",
+            "ts": "1461586142.000000"
+        },
+        "text": "[HackNight] Ce soir, lundi 25 avril\n\nLa plupart d'entre nous sont plutôt partant pour un échange en visio-conférence ce soir, exceptionnellement.\n\nPour ceux qui souhaite participer, je vous propose donc de se retrouver ce soir sur Skype à 19h30.\n\n*Pour participer : *\n- Voici le lien : <https:\/\/join.skype.com\/nrIpxjte1VUB>\n\n*Ordre du jour : *\n- Point sur la nouvelle organisation du HackPad\n- Projet Transmédia Autisme, scénarisation détaillée d'un objet\n\nSupport de documentation :\n- <https:\/\/coglab.hackpad.com\/TB-T1-Autisme-Scnario-Draft-NMw421F4LZC>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JnI8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[HackNight] Ce soir, lundi 25 avril\n\nLa plupart d'entre nous sont plutôt partant pour un échange en visio-conférence ce soir, exceptionnellement.\n\nPour ceux qui souhaite participer, je vous propose donc de se retrouver ce soir sur Skype à 19h30.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Pour participer : ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- Voici le lien : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/join.skype.com\/nrIpxjte1VUB"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Ordre du jour : ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- Point sur la nouvelle organisation du HackPad\n- Projet Transmédia Autisme, scénarisation détaillée d'un objet\n\nSupport de documentation :\n- "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.hackpad.com\/TB-T1-Autisme-Scnario-Draft-NMw421F4LZC"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

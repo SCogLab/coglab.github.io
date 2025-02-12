@@ -1,0 +1,48 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CogLab HackNight #139 [Online due to Covid-19]: <!date^1584377100^{date_short_pretty} from {time}|March 16th, 2020 from 5:45 PM> to <!date^1584392400^{time}|10:00 PM GMT+0100>",
+                "text": "<!date^1584377100^{date_short_pretty} from {time}|March 16th, 2020 from 5:45 PM> to <!date^1584392400^{time}|10:00 PM GMT+0100> at <https:\/\/join.skype.com\/be7Ty93o77rj>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab HackNight #139 [Online due to Covid-19]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=N3R1aTRiamc1N2FpYTFyZmZyYXI5YjBoYmFfMjAyMDAzMTZUMTY0NTAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1584293825.000100",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CogLab HackNight #140: <!date^1584982800^{date_short_pretty} from {time}|March 23rd, 2020 from 6:00 PM> to <!date^1584993600^{time}|9:00 PM GMT+0100>",
+                "text": "<!date^1584982800^{date_short_pretty} from {time}|March 23rd, 2020 from 6:00 PM> to <!date^1584993600^{time}|9:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=HackNight+uniquement+en+ligne+compte+tenu+des+directives+gouvernementales|HackNight uniquement en ligne compte tenu des directives gouvernementales>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab HackNight #140",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=N3R1aTRiamc1N2FpYTFyZmZyYXI5YjBoYmFfMjAyMDAzMjNUMTY0NTAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1584293825.000200",
+        "bot_id": "B4SJBP2L8"
+    }
+]

@@ -1,0 +1,133 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Event updated: LabVR StoryCode #3: <!date^1496856600^{date_short_pretty} from {time}|Jun 7, 2017 from 7:30 PM> to <!date^1496865600^{time}|10:00 PM GMT+0200>",
+                "text": "<!date^1496856600^{date_short_pretty} from {time}|Jun 7, 2017 from 7:30 PM> to <!date^1496865600^{time}|10:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=157+Boulevard+Macdonald%2C+75019+Paris-19E-Arrondissement%2C+France|157 Boulevard Macdonald, 75019 Paris-19E-Arrondissement, France>",
+                "pretext": "Calendar event updated",
+                "title": "LabVR StoryCode #3",
+                "more": "Le 7 juin (dépoté du 3 mai) aura lieu de 19h30 à 22h, la prochaine Réunion VR.\n\nDocumentation\n<https:\/\/docs.google.com\/document\/d\/1iLsggp8BrZRA69Tar1JqhddhNcFTaB-0g7TZPgJ7fCI\/edit#>\n\nView meeting on Solid : <https:\/\/solid.wisembly.com\/meetings\/Pc0ab0d?r=meeting.calendar.link&amp;u=m114455>",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=dGRpa2JuaXZucDdwYWNhMTVtcmdjOHNuMzAgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1495216686.693155",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1495228615.100113",
+        "text": "<https:\/\/events.cri-paris.org\/e\/52\/vrholojam-workshop-with-ken-perlin>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Attendize.com",
+                "title": "Virtual Reality workshop with Ken Perlin : design a new museum experience",
+                "title_link": "https:\/\/events.cri-paris.org\/e\/52\/vrholojam-workshop-with-ken-perlin",
+                "text": "We invite you for a VR\/Holojam workshop with Ken Perlin, professor at New York University and compputer graphics guru, where you can explore different possibilities in VR. We will prototype VR \/ AR content for augmented reality conferences that will be shown at the holomath museum, directed by Cédric Villani, Director of the Poincaré Institute and Fields medalist. The idea is to create next gen augmented reality museum, where you can learn science by manipulating parameters, equations and graphs in augmented reality. This workshop is for you : if you are interested in the potential of VR for education if...",
+                "fallback": "Attendize.com: Virtual Reality workshop with Ken Perlin : design a new museum experience",
+                "image_url": "https:\/\/events.cri-paris.org\/user_content\/event_images\/event_image-d76569af3cf53ec1335c8350685807da.jpg",
+                "from_url": "https:\/\/events.cri-paris.org\/e\/52\/vrholojam-workshop-with-ken-perlin",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 86438,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dbISI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/events.cri-paris.org\/e\/52\/vrholojam-workshop-with-ken-perlin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1495228929.189532",
+        "text": "Une prestation EEG est prévue demain au Palais de la Découverte dans le cadre de la Nuit Européenne des Musées\n<http:\/\/www.palais-decouverte.fr\/fr\/au-programme\/evenements-palais\/week-end-special-80-ans-nuit-europeenne-des-musees\/#item-grid-53184>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Palais de la découverte",
+                "title_link": "http:\/\/www.palais-decouverte.fr\/fr\/au-programme\/evenements-palais\/week-end-special-80-ans-nuit-europeenne-des-musees\/#item-grid-53184",
+                "text": "Venez partager le plaisir des sciences grâce aux expériences extraordinaires présentées par des médiateurs scientifiques passionnés et passionnants.",
+                "fallback": "Palais de la découverte",
+                "from_url": "http:\/\/www.palais-decouverte.fr\/fr\/au-programme\/evenements-palais\/week-end-special-80-ans-nuit-europeenne-des-musees\/#item-grid-53184",
+                "service_icon": "http:\/\/www.palais-decouverte.fr\/fileadmin\/fileadmin_CSI\/templates_CSI\/images\/favicon-palais.ico",
+                "service_name": "palais-decouverte.fr",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4hJv1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Une prestation EEG est prévue demain au Palais de la Découverte dans le cadre de la Nuit Européenne des Musées\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.palais-decouverte.fr\/fr\/au-programme\/evenements-palais\/week-end-special-80-ans-nuit-europeenne-des-musees\/#item-grid-53184"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

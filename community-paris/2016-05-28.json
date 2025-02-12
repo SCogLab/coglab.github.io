@@ -1,0 +1,101 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1464444792.000002",
+        "text": "Merci pour l'info <@U0KKC7AQ6> :slightly_smiling_face:\nPourrais intéresser <@U03HY4P8V> aussi",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LaBZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci pour l'info "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0KKC7AQ6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPourrais intéresser "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HY4P8V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " aussi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0KKC7AQ6",
+        "type": "message",
+        "ts": "1464449241.000003",
+        "text": "Oui, tu as raison, romain pourrait pitcher son nouveau projet si ça l’intéresse!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "13dc7d5c9299",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-05-24\/45385520722_13dc7d5c9299d594204d_72.jpg",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume VICTOR-THOMAS",
+            "display_name": "guillaumevt",
+            "team": "T03FC4NDZ",
+            "name": "guillaumevt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NhqRX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui, tu as raison, romain pourrait pitcher son nouveau projet si ça l’intéresse!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

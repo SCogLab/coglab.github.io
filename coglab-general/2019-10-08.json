@@ -1,0 +1,62 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1570528165.001900",
+        "client_msg_id": "3617060d-ee74-435d-bde8-ad53ce40994a",
+        "text": "<https:\/\/www.labatailledulibre.org\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "La bataille du Libre",
+                "title": "Accueil - La bataille du Libre",
+                "title_link": "https:\/\/www.labatailledulibre.org\/",
+                "text": "La bataille du Libre c'est un documentaire de Phillipe Borrel qui traite des enjeux liés aux logiciels libres ; et est produit par temps noir., la bataille du libre, documentaire de Philippe Borrel, Logiciels Libres, Crowdfunding, Temps noir, <http:\/\/labatailledulibre.org|labatailledulibre.org>,",
+                "fallback": "La bataille du Libre: Accueil - La bataille du Libre",
+                "from_url": "https:\/\/www.labatailledulibre.org\/",
+                "service_icon": "https:\/\/www.labatailledulibre.org\/wp-content\/uploads\/2019\/06\/cropped-iconlabatailledulibre-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.labatailledulibre.org\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sWn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.labatailledulibre.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "ULABDBC9W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

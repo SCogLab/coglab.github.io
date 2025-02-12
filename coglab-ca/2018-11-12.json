@@ -1,0 +1,200 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1542054966.000600",
+        "client_msg_id": "59ecde60-4c1c-494b-9ca0-bc0fed204ce8",
+        "text": "Hello, j'ai démarré un bout d'article pour que le Meetup soit visible sur le site\n<https:\/\/coglab.fr\/meetup-coglab-n8\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "CogLab, NeuroTechX Paris",
+                "title": "Meetup CogLab N°8",
+                "title_link": "https:\/\/coglab.fr\/meetup-coglab-n8\/",
+                "text": "Présentation Meetup Coglab, Saison 3, Épisode 1 Nous étions assez discrets depuis notre présence au Forum des Sciences Cognitives à la Cité des Sciences et poursuivons nos soirées HackNight hebdoma…",
+                "fallback": "CogLab, NeuroTechX Paris: Meetup CogLab N°8",
+                "image_url": "https:\/\/coglab.fr\/wp-content\/uploads\/2018\/11\/highres_475684038.jpeg",
+                "image_width": 444,
+                "image_height": 250,
+                "ts": 1540837816,
+                "from_url": "https:\/\/coglab.fr\/meetup-coglab-n8\/",
+                "image_bytes": 146177,
+                "service_icon": "https:\/\/i2.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=180%2C180&#038;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/coglab.fr\/meetup-coglab-n8\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F5ieK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, j'ai démarré un bout d'article pour que le Meetup soit visible sur le site\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.fr\/meetup-coglab-n8\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1542056581.001200",
+        "client_msg_id": "4cfcff4c-15f8-4e0c-9348-b9015ca0e8b1",
+        "text": "Et pour les suivant, voici ou j'en suis dans mes réflexions :\n<https:\/\/docs.google.com\/document\/d\/19gb5SLkdD0-1k7cVBNOZfUK6crAXV2Ef0GJMOr-8FrE\/edit#>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1542056581.001200",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1542621145.000500",
+        "reply_users": [
+            "U03FEH3N8",
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FEH3N8",
+                "ts": "1542612172.000100"
+            },
+            {
+                "user": "U03FEH3N8",
+                "ts": "1542612349.000300"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1542621145.000500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZoP1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et pour les suivant, voici ou j'en suis dans mes réflexions :\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/19gb5SLkdD0-1k7cVBNOZfUK6crAXV2Ef0GJMOr-8FrE\/edit#"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "Romain ROUYER Completed \"Préparation du Meetup\" in checklist \"Checklist\" on Meetup #8 VR.",
+                "text": "Completed *Préparation du Meetup* in checklist *Checklist* on *<https:\/\/trello.com\/c\/QCPEkvgy|Meetup #8 VR>*.",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/862fb75f8484e0f5c02f7d7006c4b228\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1542057291.001400",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "Romain ROUYER Completed \"Animation\" in checklist \"Checklist\" on Meetup #8 VR.",
+                "text": "Completed *Animation* in checklist *Checklist* on *<https:\/\/trello.com\/c\/QCPEkvgy|Meetup #8 VR>*.",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/862fb75f8484e0f5c02f7d7006c4b228\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1542057292.001500",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card Organisation Meetups added to list EN COURS on board GESTION.",
+                "text": "In list *EN COURS* on *<https:\/\/trello.com\/b\/jSnI3dXM|GESTION>*.",
+                "pretext": "New card created",
+                "title": "Organisation Meetups",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/9QTahAbu",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/862fb75f8484e0f5c02f7d7006c4b228\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1542057460.001600",
+        "bot_id": "B66HQV43C"
+    }
+]

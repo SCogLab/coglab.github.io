@@ -1,0 +1,55 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "New card \"<https:\/\/trello.com\/c\/9a94vy3N|Espace CogLab Lyon>\" added to list \"<https:\/\/trello.com\/b\/IVhZoxPn|A faire>\"",
+                "text": "New card \"<https:\/\/trello.com\/c\/9a94vy3N|Espace CogLab Lyon>\" added to list \"<https:\/\/trello.com\/b\/IVhZoxPn|A faire>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "ts": "1436884769.435121",
+        "bot_id": "B03UL6VJ6"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "*Due Date:* Due <!date^1436918400^{date_pretty} at {time}|Jul 15, 2015 at 12:00am UTC>",
+                "text": "*Due Date:* Due <!date^1436918400^{date_pretty} at {time}|Jul 15, 2015 at 12:00am UTC>",
+                "pretext": "Card updated \"<https:\/\/trello.com\/c\/Qzv01e1h|[Article] CR Échappée Volée>\"",
+                "id": 1,
+                "color": "8daec2",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1436896838.000002",
+        "bot_id": "B03UL6VJ6"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "*Due Date:* Due <!date^1437350400^{date_pretty} at {time}|Jul 20, 2015 at 12:00am UTC>",
+                "text": "*Due Date:* Due <!date^1437350400^{date_pretty} at {time}|Jul 20, 2015 at 12:00am UTC>",
+                "pretext": "Card updated \"<https:\/\/trello.com\/c\/Svv9FPy1|[Article] CR Meetup #5>\"",
+                "id": 1,
+                "color": "8daec2",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1436896871.000003",
+        "bot_id": "B03UL6VJ6"
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U03FC5ZAK",
+        "text": "<@U03FC5ZAK> a rejoint le canal",
+        "type": "message",
+        "ts": "1449699621.000002"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FC4NE1",
+        "text": "<@U03FC4NE1> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1449699649.000003"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FEH3N8",
+        "text": "<@U03FEH3N8> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1449699649.000004"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U07CFCCBG",
+        "text": "<@U07CFCCBG> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1449699649.000005"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1449699900.000006",
+        "text": "Un Channel éphémère pour l'organisation du CogLab Summit\nJ'ai mis à jour (un peu) le hackpad il y a quelques jours \n<https:\/\/coglab.hackpad.com\/CogLab-Summit-v3-uKWtCuwRdhU>\n\n<@U07CFCCBG> a fait un joli formulaire pour signaler sa participation !\n<https:\/\/docs.google.com\/forms\/d\/1YdjMTTSwWGhLgiEwvVVTerXnx5ntFP5d_7Um3kTagQM\/viewform>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6sa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un Channel éphémère pour l'organisation du CogLab Summit\nJ'ai mis à jour (un peu) le hackpad il y a quelques jours \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.hackpad.com\/CogLab-Summit-v3-uKWtCuwRdhU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07CFCCBG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a fait un joli formulaire pour signaler sa participation !\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/1YdjMTTSwWGhLgiEwvVVTerXnx5ntFP5d_7Um3kTagQM\/viewform"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FEH3N8",
+                    "U07CFCCBG",
+                    "U0AR01SPQ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "subtype": "channel_topic",
+        "user": "U03FC5ZAK",
+        "topic": "Organisation du CogLab Summit le 22 janvier 2016 https:\/\/coglab.hackpad.com\/CogLab-Summit-v3-uKWtCuwRdhU",
+        "text": "a défini le thème du canal : Organisation du CogLab Summit le 22 janvier 2016 https:\/\/coglab.hackpad.com\/CogLab-Summit-v3-uKWtCuwRdhU",
+        "type": "message",
+        "ts": "1449699988.000007"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0AR01SPQ",
+        "text": "<@U0AR01SPQ> a rejoint le canal",
+        "type": "message",
+        "ts": "1449700517.000002"
+    }
+]

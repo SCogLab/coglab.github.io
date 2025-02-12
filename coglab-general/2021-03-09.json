@@ -1,0 +1,199 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1615294497.003300",
+        "client_msg_id": "fe59d770-5fed-42cc-8ab0-7c8808b314cc",
+        "text": "A priori rien d’extraordinaire à venir pour le moment de notre côté.\n\nNos *soirées HackNight continuent chaque lundi*, cela peut être mentionné, avec le lien vers la page de <https:\/\/coglab.fr\/hacknight\/|notre site web> et la <https:\/\/www.meetup.com\/fr-FR\/CogLab\/|page Meetup> correspondante.\n\nLes dernières actualités de l'association sont sur <https:\/\/coglab.fr\/actu\/|notre blog> et les réseaux sociaux.\n\nNous allons suivre les événements Fresco et la semaine du cerveau du mois de mars qui vont bien nous occuper :)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1615240796.003200",
+        "parent_user_id": "ULABDBC9W",
+        "attachments": [
+            {
+                "service_name": "CogLab, NeuroTechX Paris",
+                "title": "HackNight CogLab, NeuroTechX Paris",
+                "title_link": "https:\/\/coglab.fr\/hacknight\/",
+                "text": "Les HackNight de l’association CogLab, NeuroTechX Paris sont des rendez-vous hebdomadaires (lundi soir) entre membres de l’association — et plus largement du réseau NeuroTechX depuis la…",
+                "fallback": "CogLab, NeuroTechX Paris: HackNight CogLab, NeuroTechX Paris",
+                "image_url": "https:\/\/coglab.fr\/wp-content\/uploads\/2019\/11\/74959941_2594539713969597_7250146907249442816_o.jpg",
+                "image_width": 500,
+                "image_height": 250,
+                "ts": 1465743156,
+                "from_url": "https:\/\/coglab.fr\/hacknight\/",
+                "image_bytes": 56442,
+                "service_icon": "https:\/\/i1.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=180%2C180&#038;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/coglab.fr\/hacknight\/"
+            },
+            {
+                "service_name": "Meetup",
+                "title": "CogLab, NeuroTechX Paris (Paris, France)",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/",
+                "text": "L'association CogLab, NeuroTechX Paris (<http:\/\/www.coglab.fr\/>) est un programme d’exploration des Sciences Cognitives au croisement de la Philosophie DIY, l’Open Science et l'Art Numérique.Un projet d",
+                "fallback": "Meetup: CogLab, NeuroTechX Paris (Paris, France)",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/e\/1\/8\/1\/600_460317729.jpeg",
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/",
+                "image_width": 600,
+                "image_height": 230,
+                "image_bytes": 218209,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/fr-FR\/m_swarm_120x120.4f86abc9.png",
+                "id": 2,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/"
+            },
+            {
+                "service_name": "CogLab, NeuroTechX Paris",
+                "title": "Actualités",
+                "title_link": "https:\/\/coglab.fr\/actu\/",
+                "text": "Voir l’article pour en savoir plus.",
+                "fallback": "CogLab, NeuroTechX Paris: Actualités",
+                "thumb_url": "https:\/\/i1.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=512%2C512&ssl=1",
+                "ts": 1397662826,
+                "from_url": "https:\/\/coglab.fr\/actu\/",
+                "thumb_width": 512,
+                "thumb_height": 512,
+                "service_icon": "https:\/\/i1.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=180%2C180&#038;ssl=1",
+                "id": 3,
+                "original_url": "https:\/\/coglab.fr\/actu\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ttj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A priori rien d’extraordinaire à venir pour le moment de notre côté.\n\nNos "
+                            },
+                            {
+                                "type": "text",
+                                "text": "soirées HackNight continuent chaque lundi",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", cela peut être mentionné, avec le lien vers la page de "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.fr\/hacknight\/",
+                                "text": "notre site web"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et la "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/",
+                                "text": "page Meetup"
+                            },
+                            {
+                                "type": "text",
+                                "text": " correspondante.\n\nLes dernières actualités de l'association sont sur "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.fr\/actu\/",
+                                "text": "notre blog"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et les réseaux sociaux.\n\nNous allons suivre les événements Fresco et la semaine du cerveau du mois de mars qui vont bien nous occuper :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1615323402.003600",
+        "client_msg_id": "1975ce52-24b8-48f3-a577-7b3c0744b8c4",
+        "text": "Tiens, tu peux d'ailleurs mentionné le précédant post, une nouvelle initiative NeuroTechX, découvrez le Content Lab !\n<https:\/\/neurotechx.medium.com\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1615240796.003200",
+        "parent_user_id": "ULABDBC9W",
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "NeuroTechX Content Lab – Medium",
+                "title_link": "https:\/\/neurotechx.medium.com\/",
+                "text": "Read writing from NeuroTechX Content Lab on Medium. NeuroTechX is a non-profit whose mission is to build a strong global neurotechnology community by providing key ressouices and learning opportunities.",
+                "fallback": "Medium: NeuroTechX Content Lab – Medium",
+                "thumb_url": "https:\/\/miro.medium.com\/max\/2400\/1*wX-FX3pPkCeocMeeppE4HA.jpeg",
+                "from_url": "https:\/\/neurotechx.medium.com\/",
+                "thumb_width": 2046,
+                "thumb_height": 2013,
+                "service_icon": "https:\/\/miro.medium.com\/fit\/c\/152\/152\/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+                "id": 1,
+                "original_url": "https:\/\/neurotechx.medium.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iwlr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tiens, tu peux d'ailleurs mentionné le précédant post, une nouvelle initiative "
+                            },
+                            {
+                                "type": "text",
+                                "text": "NeuroTechX",
+                                "style": {
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", découvrez le Content Lab !\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/neurotechx.medium.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

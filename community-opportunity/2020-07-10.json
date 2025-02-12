@@ -1,0 +1,105 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U017L7FBHDE",
+        "text": "<@U017L7FBHDE> a rejoint le canal",
+        "type": "message",
+        "ts": "1594390833.007400"
+    },
+    {
+        "user": "U017L7FBHDE",
+        "type": "message",
+        "ts": "1594393936.010300",
+        "client_msg_id": "4de07a15-817d-4df2-97c9-859323f44aba",
+        "text": "Hi all !\n<http:\/\/www.getmoona.com|Moona> leverages temperature and machine learning to improve sleep. Ever wondered why you flip the pillow to the cool side when you can't sleep?\nWe are looking for a great Data Scientist, passionate about neuroscience to help us take the product to the next level.\nMore information <https:\/\/bit.ly\/3fvR8NT|here>.\nLet me know if you want to chat !\nColine",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g62dbc71e251",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/62dbc71e2517de9ffc7f0d3ed9b0d0f8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "Coline",
+            "display_name": "Coline",
+            "team": "T03FC4NDZ",
+            "name": "coline",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "MOONA",
+                "title": "MOONA | The World's First Active Cooling Pillow pad",
+                "title_link": "http:\/\/www.getmoona.com\/",
+                "text": "MOONA is the best cooling Pillow Pad due to its unique active thermo-regulation system that keeps your pillow constantly cool. MOONA helps you get rid of night sweats and hot flushed, fall asleep faster and get more deep sleep.",
+                "fallback": "MOONA: MOONA | The World's First Active Cooling Pillow pad",
+                "thumb_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/2792\/0714\/files\/Add_a_subheading.png",
+                "from_url": "http:\/\/www.getmoona.com\/",
+                "thumb_width": 1200,
+                "thumb_height": 627,
+                "service_icon": "http:\/\/cdn.shopify.com\/s\/files\/1\/2792\/0714\/files\/Moona_Circle_Logo_180x180.png?v=1580825102",
+                "id": 1,
+                "original_url": "http:\/\/www.getmoona.com"
+            },
+            {
+                "service_name": "Google Docs",
+                "title": "Data Scientist - Moona - 2020",
+                "title_link": "https:\/\/bit.ly\/3fvR8NT",
+                "text": "Ingénieur.e Data Scientist - Moona Moona développe un produit innovant qui révolutionne le sommeil... par la température ! Le sommeil est une science jeune, avec encore beaucoup à découvrir et un sujet passionnant, qui affecte la vie de chacun. Basé sur des études médicales, en suivant le som...",
+                "fallback": "Google Docs: Data Scientist - Moona - 2020",
+                "image_url": "https:\/\/lh6.googleusercontent.com\/mav_FeLg0nj3LTVNMY5MxHG-N3WC8e-779qFv0wwXiKCfCTskTORN1gVBKYBLc6oyjpeJ4qeWQ",
+                "image_width": 193,
+                "image_height": 250,
+                "from_url": "https:\/\/bit.ly\/3fvR8NT",
+                "image_bytes": 410567,
+                "service_icon": "https:\/\/ssl.gstatic.com\/docs\/documents\/images\/kix-favicon7.ico",
+                "id": 2,
+                "original_url": "https:\/\/bit.ly\/3fvR8NT"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7avy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all !\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.getmoona.com",
+                                "text": "Moona"
+                            },
+                            {
+                                "type": "text",
+                                "text": " leverages temperature and machine learning to improve sleep. Ever wondered why you flip the pillow to the cool side when you can't sleep?\nWe are looking for a great Data Scientist, passionate about neuroscience to help us take the product to the next level.\nMore information "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bit.ly\/3fvR8NT",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\nLet me know if you want to chat !\nColine"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,381 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U069C1FJYP8",
+        "text": "<@U069C1FJYP8> a rejoint le canal",
+        "type": "message",
+        "ts": "1702290981.762099"
+    },
+    {
+        "user": "U069C1FJYP8",
+        "type": "message",
+        "ts": "1702291099.036009",
+        "client_msg_id": "794ec7f3-4d68-48a6-ae89-ce0e9f36d86f",
+        "text": ":wave: Bonjour tout le monde ! Je suis un nouveau. Est ce qu'il y a une hacknight ce mercredi ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g73d8ecfac27",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/73d8ecfac27ba7d19c7b316571e97c2d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Roland",
+            "real_name": "Roland Andrews",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "roland.andrews",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xSsi\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Bonjour tout le monde ! Je suis un nouveau. Est ce qu'il y a une hacknight ce mercredi ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U59MQ46DA",
+                    "U03FC5ZAK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1702291255.360939",
+        "client_msg_id": "5df9e966-de52-4c66-bcd8-3ba961ba7e78",
+        "text": "Bonjour <@U069C1FJYP8> , oui je viens de la diffuser pour ce mercredi : <https:\/\/www.meetup.com\/fr-FR\/coglab\/events\/297879949\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/coglab\/events\/297879949\/",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/5\/8\/8\/e\/600_510442670.jpeg",
+                "image_width": 600,
+                "image_height": 338,
+                "image_bytes": 42700,
+                "service_icon": "https:\/\/secure.meetupstatic.com\/next\/images\/general\/m_swarm_120x120.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/coglab\/events\/297879949\/",
+                "fallback": "Meetup: HackNight NeuroTechX Paris (hybride), mer. 13 déc. 2023, 18:30   | Meetup",
+                "text": "**A Propos**\nLes HackNight de l’association CogLab, NeuroTechX Paris sont des soirées hebdomadaires conviviales, propices aux échanges et à la réalisation d’activités commu",
+                "title": "HackNight NeuroTechX Paris (hybride), mer. 13 déc. 2023, 18:30   | Meetup",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/coglab\/events\/297879949\/",
+                "service_name": "Meetup"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IQLZU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U069C1FJYP8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , oui je viens de la diffuser pour ce mercredi : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/coglab\/events\/297879949\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U069C1FJYP8",
+                    "U065TGVPMQA"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1702291303.001429",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1702291343.000000"
+        },
+        "client_msg_id": "d95124f9-fbca-4a40-b3cb-8b90ec84ff9a",
+        "text": "Et globalement, tous les mercredis soirs, il y aura des hacknights",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A\/qkk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et globalement, tous les mercredis soirs, il y aura des hacknights"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065ZDYP5BR",
+        "type": "message",
+        "ts": "1702309364.981349",
+        "client_msg_id": "7125e377-2420-487c-9a1c-317f53139017",
+        "text": "<https:\/\/news.ycombinator.com\/item?id=38596075>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g036cf7a4fb9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/036cf7a4fb980f2bcc2fbc5e79fb0dad.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "mabynogy",
+            "real_name": "mabynogy",
+            "display_name": "mabynogy",
+            "team": "T03FC4NDZ",
+            "name": "mabynogy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PYSQV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/news.ycombinator.com\/item?id=38596075"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065ZDYP5BR",
+        "type": "message",
+        "ts": "1702309437.515409",
+        "client_msg_id": "1b6f9f58-e3e3-403c-9669-358f8ff9b0cd",
+        "text": "&gt; <https:\/\/news.ycombinator.com\/item?id=38596075|Ask HN: Are you comfortable with a brain interface?>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g036cf7a4fb9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/036cf7a4fb980f2bcc2fbc5e79fb0dad.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "mabynogy",
+            "real_name": "mabynogy",
+            "display_name": "mabynogy",
+            "team": "T03FC4NDZ",
+            "name": "mabynogy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zJZm3",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/news.ycombinator.com\/item?id=38596075",
+                                "text": "Ask HN: Are you comfortable with a brain interface?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01804NJ7AQ",
+        "type": "message",
+        "ts": "1702361044.916929",
+        "client_msg_id": "96014F7C-6E53-42BD-A170-8BCBE7E88E90",
+        "text": "<https:\/\/www.lecerebrum.ca\/en\/home\/|https:\/\/www.lecerebrum.ca\/en\/home\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g7080a90c528",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7080a90c528526f8129488e607562782.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Morgan Hough",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "morgan.hough",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.lecerebrum.ca\/wp-content\/uploads\/2021\/04\/Logo.png",
+                "image_width": 238,
+                "image_height": 191,
+                "image_bytes": 9092,
+                "from_url": "https:\/\/www.lecerebrum.ca\/en\/home\/",
+                "service_icon": "https:\/\/www.lecerebrum.ca\/wp-content\/uploads\/2021\/02\/cropped-Cerebrum_Logo-1-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.lecerebrum.ca\/en\/home\/",
+                "fallback": "cerebrum: Home - cerebrum",
+                "text": "Cerebrum brings together a group of researchers interested in neuropsychology as well as cognitive and computational neuroscience at the Université de Montréal. Our offices are located in the Department of Psychology and the majority of our members are professors or students in this department. Cerebrum aims to facilitate collaborations between researchers in the Department of […]",
+                "title": "Home - cerebrum",
+                "title_link": "https:\/\/www.lecerebrum.ca\/en\/home\/",
+                "service_name": "cerebrum",
+                "fields": [
+                    {
+                        "value": "22 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IlSjs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.lecerebrum.ca\/en\/home\/",
+                                "text": "https:\/\/www.lecerebrum.ca\/en\/home\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01804NJ7AQ",
+        "type": "message",
+        "ts": "1702361063.290009",
+        "client_msg_id": "C69F6E4F-094A-4775-B2F2-9F4D65261FDE",
+        "text": "<https:\/\/youtu.be\/1108RXlGcrU?si=iZaivSGkNXpdsv52|https:\/\/youtu.be\/1108RXlGcrU?si=iZaivSGkNXpdsv52>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g7080a90c528",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7080a90c528526f8129488e607562782.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Morgan Hough",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "morgan.hough",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/1108RXlGcrU?si=iZaivSGkNXpdsv52",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/1108RXlGcrU\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/1108RXlGcrU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"L&#39;âge cérébro-cognitif pour explorer la diversité neurocognitive -  Elise Roger (UdeM)\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/1108RXlGcrU?si=iZaivSGkNXpdsv52",
+                "fallback": "YouTube Video: L'âge cérébro-cognitif pour explorer la diversité neurocognitive -  Elise Roger (UdeM)",
+                "title": "L'âge cérébro-cognitif pour explorer la diversité neurocognitive -  Elise Roger (UdeM)",
+                "title_link": "https:\/\/youtu.be\/1108RXlGcrU?si=iZaivSGkNXpdsv52",
+                "author_name": "Cerebrum",
+                "author_link": "https:\/\/www.youtube.com\/@cerebrum7588",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EnljD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/1108RXlGcrU?si=iZaivSGkNXpdsv52",
+                                "text": "https:\/\/youtu.be\/1108RXlGcrU?si=iZaivSGkNXpdsv52"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

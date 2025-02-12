@@ -1,0 +1,106 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1607955939.002700",
+        "client_msg_id": "1db7fb16-69d2-4e52-8864-99e3f43c4a8c",
+        "text": "Bonjour <!here> :wave:\n\n:date: Ce soir nous accueillons le CEO de mBrainTrain qui nous parlera de solution EEG mobile pour la recherche\n\nPlus d’infos sur <https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/275077009\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "HackNight #176 with mBrainTrain (online)",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/275077009\/",
+                "text": "lun. 14 déc. 2020 à 18:30: (English version available below)#Présentation des HackNightsLes HackNight de l'association CogLab, NeuroTechX Paris sont des soirées hebdomadaires conviviales, dédiées aux",
+                "fallback": "Meetup: HackNight #176 with mBrainTrain (online)",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/8\/2\/c\/2\/600_493953474.jpeg",
+                "fields": [
+                    {
+                        "title": "Où",
+                        "value": "Événement en ligne",
+                        "short": true
+                    },
+                    {
+                        "title": "Quand",
+                        "value": "lun. 14 déc. 2020 à 18:30",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/275077009\/",
+                "image_width": 445,
+                "image_height": 250,
+                "image_bytes": 36943,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/fr-FR\/m_swarm_120x120.4f86abc9.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/275077009\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YJp2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "date",
+                                "unicode": "1f4c5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Ce soir nous accueillons le CEO de mBrainTrain qui nous parlera de solution EEG mobile pour la recherche\n\nPlus d’infos sur "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/275077009\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01H1C8B1V2",
+        "text": "<@U01H1C8B1V2> a rejoint le canal",
+        "type": "message",
+        "ts": "1607960204.003000"
+    }
+]

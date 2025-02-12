@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1552574547.000300",
+        "client_msg_id": "ec621e73-b590-47f5-b194-660559804d1d",
+        "text": "Codec avatar by facebook : <https:\/\/tech.fb.com\/codec-avatars-facebook-reality-labs\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Facebook Tech Hub",
+                "title": "Facebook is building the future of connection with lifelike avatars",
+                "title_link": "https:\/\/tech.fb.com\/codec-avatars-facebook-reality-labs\/",
+                "fallback": "Facebook Tech Hub: Facebook is building the future of connection with lifelike avatars",
+                "image_url": "https:\/\/tech.fb.com\/wp-content\/uploads\/2019\/03\/tech@-avatar-hero_2.png?w=1024",
+                "image_width": 375,
+                "image_height": 250,
+                "ts": 1552440321,
+                "from_url": "https:\/\/tech.fb.com\/codec-avatars-facebook-reality-labs\/",
+                "image_bytes": 815865,
+                "service_icon": "https:\/\/tech.fb.com\/wp-content\/themes\/fbtech\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/tech.fb.com\/codec-avatars-facebook-reality-labs\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9XuL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Codec avatar by facebook : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/tech.fb.com\/codec-avatars-facebook-reality-labs\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

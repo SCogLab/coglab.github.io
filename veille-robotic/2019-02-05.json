@@ -1,0 +1,202 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U59MQ46DA",
+        "text": "<@U59MQ46DA> a rejoint le canal",
+        "type": "message",
+        "ts": "1549399231.000200"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U59MQ46DA",
+        "purpose": "réunir toutes les infos concernant la robotique (robots, prothèses, jouets, etc)",
+        "text": "a défini la description du canal : réunir toutes les infos concernant la robotique (robots, prothèses, jouets, etc)",
+        "type": "message",
+        "ts": "1549399231.000300",
+        "reactions": [
+            {
+                "name": "robot_face",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FC5ZAK",
+        "text": "<@U03FC5ZAK> a rejoint le canal",
+        "inviter": "U59MQ46DA",
+        "type": "message",
+        "ts": "1549399231.000500"
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1549399352.001100",
+        "client_msg_id": "18351605-d9aa-48dd-be0f-795fb213cfa4",
+        "text": "Je commence par le Yale Openhand project : <https:\/\/www.eng.yale.edu\/grablab\/openhand\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Yale OpenHand Project",
+                "title_link": "https:\/\/www.eng.yale.edu\/grablab\/openhand\/",
+                "text": "The Yale OpenHand Project is a movement to advance the design and use of robotic hands designed and built through rapid-prototyping techniques in order to encourage more variation and innovation in mechanical hardware.",
+                "fallback": "Yale OpenHand Project",
+                "from_url": "https:\/\/www.eng.yale.edu\/grablab\/openhand\/",
+                "service_name": "eng.yale.edu",
+                "id": 1,
+                "original_url": "https:\/\/www.eng.yale.edu\/grablab\/openhand\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hiB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je commence par le Yale Openhand project : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.eng.yale.edu\/grablab\/openhand\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1549399475.002400",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1549399742.000000"
+        },
+        "client_msg_id": "3637ddd6-51e4-4d26-8c97-ee2dffef1fb8",
+        "text": "Le projet démarré en 2014 en Grande Bretagne dont les prothèses commerciales sont dispos aussi en France (principalement de l’EMG) : <https:\/\/openbionics.org>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "OPENBIONICS: Robotic and Bionic Hands",
+                "title_link": "https:\/\/openbionics.org\/",
+                "text": "OpenBionics: Robotic &amp; Bionic Hands",
+                "fallback": "OPENBIONICS: Robotic and Bionic Hands",
+                "from_url": "https:\/\/openbionics.org\/",
+                "service_icon": "https:\/\/openbionics.org\/favicon.ico",
+                "service_name": "openbionics.org",
+                "id": 1,
+                "original_url": "https:\/\/openbionics.org"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yJT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le projet démarré en 2014 en Grande Bretagne dont les prothèses commerciales sont dispos aussi en France (principalement de l’EMG) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/openbionics.org"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1549399612.003000",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1549399678.000000"
+        },
+        "client_msg_id": "98e9e39f-655f-434f-be9d-ae5211873964",
+        "text": "Le projet Poppy Station crée fin 2018 début 2019 : <https:\/\/www.poppystation.org>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qhQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le projet Poppy Station crée fin 2018 début 2019 : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.poppystation.org"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

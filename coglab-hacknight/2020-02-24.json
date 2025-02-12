@@ -1,0 +1,315 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U6EPG5PTQ",
+        "text": "<@U6EPG5PTQ> a rejoint le canal",
+        "type": "message",
+        "ts": "1582565732.000200"
+    },
+    {
+        "user": "U6EPG5PTQ",
+        "type": "message",
+        "ts": "1582565877.001300",
+        "edited": {
+            "user": "U6EPG5PTQ",
+            "ts": "1582566156.000000"
+        },
+        "client_msg_id": "11ea9c54-c0b6-4eb4-89e0-c916ce2add9d",
+        "text": "Programme amusant de prise de parole par KH : \n3mn intro attirer vers un personnage (le speaker) : exemplarité (humour)\n2 invités (David et Nicolas)\n1 maître du temps : se passer le relais \ninterpeller l'audience : attirer, séduire, captiver, GARDER \nmémoriser le contenu : mots clés\n• approche physique + ANCRAGE\n• approche intellectuelle\n• approche cognitive : visualisation =&gt; images \n• répétition =&gt; redondance (Prof. Michel Cotsaftis)\n3mn exercices physiques (Pranayama)\n3mn la voix : &gt; invités (éloquence, art oratoire, ...)\n• David et Nicolas Rauber : projection de la voix\nRécré : &gt; exercices oraux  (( un chasseur sachant chasser sans son chien est un bon chasseur - bonjour Mr Sanssoucis, combien ces six cent saucissons ci ? - si ceci se sait, ces soins sont sans succès - je te lele, l'avait lailai, ...))\n• phrases pitch (pitch elevator)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g09c260ee4c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/209c260ee4c8c21ab89b376055cd6e8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Karine",
+            "real_name": "Karine Halpern",
+            "display_name": "KarineH",
+            "team": "T03FC4NDZ",
+            "name": "karine.halpern",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1582565877.001300",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1583142082.000400",
+        "reply_users": [
+            "ULSDVUUVA",
+            "UPUDWG6J1",
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "ULSDVUUVA",
+                "ts": "1582566314.001500"
+            },
+            {
+                "user": "UPUDWG6J1",
+                "ts": "1582568247.001700"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1582571403.001900"
+            },
+            {
+                "user": "UPUDWG6J1",
+                "ts": "1582645562.002300"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1583142082.000400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wlu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Programme amusant de prise de parole par KH : \n3mn intro attirer vers un personnage (le speaker) : exemplarité (humour)\n2 invités (David et Nicolas)\n1 maître du temps : se passer le relais \ninterpeller l'audience : attirer, séduire, captiver, GARDER \nmémoriser le contenu : mots clés\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "approche physique + ANCRAGE"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "approche intellectuelle"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "approche cognitive : visualisation => images "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "répétition => redondance (Prof. Michel Cotsaftis)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "3mn exercices physiques (Pranayama)\n3mn la voix : > invités (éloquence, art oratoire, ...)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "David et Nicolas Rauber : projection de la voix"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Récré : > exercices oraux  (( un chasseur sachant chasser sans son chien est un bon chasseur - bonjour Mr Sanssoucis, combien ces six cent saucissons ci ? - si ceci se sait, ces soins sont sans succès - je te lele, l'avait lailai, ...))\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "phrases pitch (pitch elevator)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "ULSDVUUVA",
+        "type": "message",
+        "ts": "1582566314.001500",
+        "client_msg_id": "7a239be2-993b-4940-98b2-40b4b3a5cb31",
+        "text": "Il me manque le contexte. Tu pourrais t'expliquer ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "d6568f25a9a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-08\/3075305835828_d6568f25a9a41b2be2ef_72.jpg",
+            "first_name": "Maike",
+            "real_name": "Maike",
+            "display_name": "Maike",
+            "team": "T03FC4NDZ",
+            "name": "maikeherbort",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1582565877.001300",
+        "parent_user_id": "U6EPG5PTQ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BuTf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il me manque le contexte. Tu pourrais t'expliquer ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UPUDWG6J1",
+        "type": "message",
+        "ts": "1582568247.001700",
+        "client_msg_id": "28d7fb88-f283-467e-8c98-374534e63760",
+        "text": "c'est l'exercice de prise de parole en publique que l'on fait aujourd'hui",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g803d5a932e9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/803d5a932e92f6a5acc331411d8e39b3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "david trocellier",
+            "display_name": "david trocellier",
+            "team": "T03FC4NDZ",
+            "name": "david.trocellier33",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1582565877.001300",
+        "parent_user_id": "U6EPG5PTQ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z20",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "c'est l'exercice de prise de parole en publique que l'on fait aujourd'hui"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1582571403.001900",
+        "client_msg_id": "abfdae3d-4b6c-40fc-b0e5-48f1f99b1d2f",
+        "text": "<https:\/\/fr.wikipedia.org\/wiki\/Virelangue>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1582565877.001300",
+        "parent_user_id": "U6EPG5PTQ",
+        "attachments": [
+            {
+                "image_url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/77\/Nuvola_apps_atlantik.png",
+                "image_width": 128,
+                "image_height": 128,
+                "image_bytes": 13839,
+                "title": "Virelangue",
+                "title_link": "https:\/\/fr.wikipedia.org\/wiki\/Virelangue",
+                "from_url": "https:\/\/fr.wikipedia.org\/wiki\/Virelangue",
+                "author_name": "Wikipedia",
+                "author_link": "https:\/\/fr.wikipedia.org\/",
+                "text": "Un virelangue (ou casse-langue ou fourchelangue) est une locution (ou une phrase ou un petit groupe de phrases) à caractère ludique, caractérisée par sa difficulté de prononciation ou de compréhension orale, voire les deux à la fois. On parle aussi de trompe-oreilles lorsqu’une phrase est difficile à comprendre et donne l’impression d’être en langue étrangère.\nLes virelangues peuvent servir d’exercices de prononciation dans l’apprentissage du français langue étrangère, sachant par exemple qu’une phrase contenant beaucoup de j ou mêlant des l et des r sera particulièrement difficile à articuler pour des personnes d’origine asiatique. Ils sont utilisés également comme exercices de diction par les personnes ayant des difficultés à parler à voix haute en public (présentateurs, comédiens…). Certains virelangues sont construits pour amener une personne à dire une obscénité lorsqu’ils sont prononcés plusieurs fois de suite.\nLe mot virelangue est un néologisme et un calque du mot anglais tongue-twister (« qui fait tordre la langue »). Mais il désigne un type de jeu de mots lui-même très ancien. Selon Claude Gagnière, mot virelangue serait une création de 1911 d'Antonin Perbosc qui francisa une expression languedocienne (\"la lengo t'a virat\" ou \"as virolengat\", la langue t'a fourché).",
+                "fallback": "wikipedia: Virelangue",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1,
+                "original_url": "https:\/\/fr.wikipedia.org\/wiki\/Virelangue"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aWL\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fr.wikipedia.org\/wiki\/Virelangue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

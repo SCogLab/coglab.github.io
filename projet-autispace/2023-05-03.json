@@ -1,0 +1,117 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1683155439.682039",
+        "client_msg_id": "ed1e1199-cc35-4b69-8684-696eda95d488",
+        "text": "Coucou <!here>,\n\nPour faire suite à l’annonce sur <#C0QMXAWMB|coglab-blog>, et le billet consacré au *Forum BrainPlay* (n’hésitez pas à relayer <https:\/\/coglab.fr\/brainplay\/>),\n\nJe suis en train d’amorcer un support de documentation pour l’*atelier Autispace* qui se tiendra dans un mois :\n<https:\/\/docs.google.com\/document\/d\/1cVm-LpEzp59FiILjsFdWBi6gLgeRS7Icz4fzhokAYTE\/edit?usp=sharing>\n\nJ’essaye de faire un premier défrichage ce weekend.\nEn attendant, n’hésitez pas à manifester votre intérêt ici, voir apporter vos contributions directement dans le document :rocket:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/coglab.fr\/brainplay\/",
+                "ts": 1683068801,
+                "image_url": "https:\/\/coglab.fr\/wp-content\/uploads\/2023\/05\/ForumBrainPlay.png",
+                "image_width": 1340,
+                "image_height": 834,
+                "image_bytes": 853092,
+                "service_icon": "https:\/\/i0.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=180%2C180&amp;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/coglab.fr\/brainplay\/",
+                "fallback": "CogLab, NeuroTechX Paris: Forum « BrainPlay » : sciences cognitives et jeux",
+                "text": "Quel dialogue entre jeu et sciences cognitives ? Cela vous intrigue ? Rendez-vous le 3 juin 2023 à Paris au forum « BrainPlay » organisé par l’association CogitErgo. Nous sommes partenaire de…",
+                "title": "Forum « BrainPlay » : sciences cognitives et jeux",
+                "title_link": "https:\/\/coglab.fr\/brainplay\/",
+                "service_name": "CogLab, NeuroTechX Paris"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jQWQH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coucou "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\n\nPour faire suite à l’annonce sur "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0QMXAWMB"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", et le billet consacré au "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Forum BrainPlay",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (n’hésitez pas à relayer "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.fr\/brainplay\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "),\n\nJe suis en train d’amorcer un support de documentation pour l’"
+                            },
+                            {
+                                "type": "text",
+                                "text": "atelier Autispace",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " qui se tiendra dans un mois :\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1cVm-LpEzp59FiILjsFdWBi6gLgeRS7Icz4fzhokAYTE\/edit?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nJ’essaye de faire un premier défrichage ce weekend.\nEn attendant, n’hésitez pas à manifester votre intérêt ici, voir apporter vos contributions directement dans le document "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rocket",
+                                "unicode": "1f680"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

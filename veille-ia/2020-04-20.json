@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1587379069.001100",
+        "client_msg_id": "53ad4455-a7c8-40f0-bcd6-faf12d282d75",
+        "text": "A partir d’aujourd’hui, diffusion de iHuman (documentaire norvégien 2019) sur ArteTV : <https:\/\/www.arte.tv\/fr\/videos\/081590-000-A\/ihuman-l-intelligence-artificielle-et-nous\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ARTE",
+                "title": "iHuman - L'intelligence artificielle et nous | ARTE",
+                "title_link": "https:\/\/www.arte.tv\/fr\/videos\/081590-000-A\/ihuman-l-intelligence-artificielle-et-nous\/",
+                "text": "L'intelligence artificielle va-t-elle remplacer l'humanité ? Ce documentaire prend la mesure de l'emprise des algorithmes sur nos vies. Il donne la parole à ceux qui débattent de l'IA (sociologues, avocats des droits de l'homme, scientifiques ou journalistes d'investigation) et à ceux qui l'inventent, comme Jürgen Schmidhuber et Ilya Sutskever, à la posture ambivalente.",
+                "fallback": "ARTE: iHuman - L'intelligence artificielle et nous | ARTE",
+                "image_url": "https:\/\/api-cdn.arte.tv\/api\/mami\/v1\/program\/fr\/081590-000-A\/940x530?text=true",
+                "image_width": 443,
+                "image_height": 250,
+                "from_url": "https:\/\/www.arte.tv\/fr\/videos\/081590-000-A\/ihuman-l-intelligence-artificielle-et-nous\/",
+                "image_bytes": 123807,
+                "service_icon": "https:\/\/static-cdn.arte.tv\/guide\/favicons\/apple-touch-icon-114x114.png",
+                "id": 1,
+                "original_url": "https:\/\/www.arte.tv\/fr\/videos\/081590-000-A\/ihuman-l-intelligence-artificielle-et-nous\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GMUom",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A partir d’aujourd’hui, diffusion de iHuman (documentaire norvégien 2019) sur ArteTV : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.arte.tv\/fr\/videos\/081590-000-A\/ihuman-l-intelligence-artificielle-et-nous\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

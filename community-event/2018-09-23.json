@@ -1,0 +1,168 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1537710067.000100",
+        "client_msg_id": "5edd6703-1f06-4225-9147-d6a6f93912ea",
+        "text": "Bonjours à tous, en ce début d’automne, je confirme que je serais à nouveau disponible dès demain soir pour la HackNight !\n\nD’ailleurs, serait-il possible de ramener l’OpenBCI ? Je ne sais plus qui l’a a disposition en ce moment ? <@U59MQ46DA> <@U6N3TJ0QM>?\n\nJe prévois de faire une petite présentation à mes collègues vendredi, l’occasion de faire la promo de l’association :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1537710067.000100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1537769227.000100",
+        "reply_users": [
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1537769227.000100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CJ+QN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjours à tous, en ce début d’automne, je confirme que je serais à nouveau disponible dès demain soir pour la HackNight !\n\nD’ailleurs, serait-il possible de ramener l’OpenBCI ? Je ne sais plus qui l’a a disposition en ce moment ? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U6N3TJ0QM"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?\n\nJe prévois de faire une petite présentation à mes collègues vendredi, l’occasion de faire la promo de l’association "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U6N3TJ0QM",
+        "type": "message",
+        "ts": "1537767338.000100",
+        "client_msg_id": "26dfb32e-6c77-44ad-b5a5-57916d8fa913",
+        "text": "Hans",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gf97b64003f8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1f97b64003f820d41fe93839432d7aac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Maxence",
+            "real_name": "Maxence Dolle",
+            "display_name": "Maxence Dolle",
+            "team": "T03FC4NDZ",
+            "name": "maxenced",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wlY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hans"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1537769227.000100",
+        "client_msg_id": "03284a12-bd0d-4e40-8eea-bc17ce5b6061",
+        "text": "Je te ramène l’OpenBCI ce soir :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1537710067.000100",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UaV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je te ramène l’OpenBCI ce soir "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

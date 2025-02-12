@@ -1,0 +1,48 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: CogLab HackNight #126: <!date^1574697600^{date_short_pretty} from {time}|November 25th, 2019 from 5:00 PM> to <!date^1574717400^{time}|10:30 PM GMT+0100>",
+                "text": "<!date^1574697600^{date_short_pretty} from {time}|November 25th, 2019 from 5:00 PM> to <!date^1574717400^{time}|10:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Centre+de+Recherche+Interdisciplinaire+%28CRI%29%2C+8bis+Rue+Charles+V%2C+75004+Paris%2C+France|Centre de Recherche Interdisciplinaire (CRI), 8bis Rue Charles V, 75004 Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "CogLab HackNight #126",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MTYzMGg5aTVpOGV0cW83MmdlbnV2dTBlMW8gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1574287035.000400",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CogLab HackNight #126: <!date^1574697600^{date_short_pretty} from {time}|November 25th, 2019 from 5:00 PM> to <!date^1574717400^{time}|10:30 PM GMT+0100>",
+                "text": "<!date^1574697600^{date_short_pretty} from {time}|November 25th, 2019 from 5:00 PM> to <!date^1574717400^{time}|10:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Centre+de+Recherche+Interdisciplinaire+%28CRI%29%2C+8bis+Rue+Charles+V%2C+75004+Paris%2C+France%2C+Charles+V-0-MakerLab+Classroom+%2830%29|Centre de Recherche Interdisciplinaire (CRI), 8bis Rue Charles V, 75004 Paris, France, Charles V-0-MakerLab Classroom (30)>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab HackNight #126",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MTYzMGg5aTVpOGV0cW83MmdlbnV2dTBlMW8gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1574287396.000500",
+        "bot_id": "B4SJBP2L8"
+    }
+]

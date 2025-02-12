@@ -1,0 +1,237 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "RDV Banque: <!date^1525359600^{date_short_pretty} from {time}|May 3rd, 2018 from 5:00 PM> to <!date^1525363200^{time}|6:00 PM GMT+0200>",
+                "text": "<!date^1525359600^{date_short_pretty} from {time}|May 3rd, 2018 from 5:00 PM> to <!date^1525363200^{time}|6:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Cr%C3%A9dit+Mutuel%2C+28+Rue+%C3%89tienne+Marcel%2C+75002+Paris%2C+France|Crédit Mutuel, 28 Rue Étienne Marcel, 75002 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "RDV Banque",
+                "more": "RDV avec notre conseiller Alain MICHEL au Crédit Mutuel Etienne Marcel pour procéder à l'ouverture des comptes bancaire et assurance des associations CogLab et Cogni'Junior #Finally !",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NzV2YXI3b3RnOGk1NnJqNGtycXIwcWRrdm8gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1525356000.001037",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Assemblée Générale CogLab #2: <!date^1525368600^{date_short_pretty} from {time}|May 3rd, 2018 from 7:30 PM> to <!date^1525375800^{time}|9:30 PM GMT+0200>",
+                "text": "<!date^1525368600^{date_short_pretty} from {time}|May 3rd, 2018 from 7:30 PM> to <!date^1525375800^{time}|9:30 PM GMT+0200>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "Assemblée Générale CogLab #2",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Mzg5ODVkYmpxbjR1OHBtYWcwbGM3c3F2b2Igc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1525365000.000973",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1525365907.000686",
+        "edited": {
+            "user": "U03FC5ZAK",
+            "ts": "1525365914.000000"
+        },
+        "text": "<!channel> L’assemblée Générale commence dans 45 min\n\nPour les personnes se rendant sur place, on vous donne RDV à La Paillasse, située au 226 rue Saint-Denis.\nLe code de la grille extérieure est 1944 si elle est fermée, puis se rendre dans la 2ème cours intérieure, l’entrée se trouveras sur votre droite.\nNous serons dans la cuisine du bas, directement accessible via l’escalier à gauche dans l’entrée ! \n\nPour ceux qui souhaiterais nous suivre à distance, voici le lien vers la visioconférence (pas de compte requis) : \n<https:\/\/join.skype.com\/sGI9da1oYmYw>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RnHAT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " L’assemblée Générale commence dans 45 min\n\nPour les personnes se rendant sur place, on vous donne RDV à La Paillasse, située au 226 rue Saint-Denis.\nLe code de la grille extérieure est 1944 si elle est fermée, puis se rendre dans la 2ème cours intérieure, l’entrée se trouveras sur votre droite.\nNous serons dans la cuisine du bas, directement accessible via l’escalier à gauche dans l’entrée ! \n\nPour ceux qui souhaiterais nous suivre à distance, voici le lien vers la visioconférence (pas de compte requis) : \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/join.skype.com\/sGI9da1oYmYw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1525369013.000238",
+        "text": "Le lien vers le compte-rendu\n<https:\/\/docs.google.com\/document\/d\/1ynYHNkHb5UbUNWyYprgLxHy4ujwfRtgOEQHL1N7crdU\/edit#>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "du+yK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le lien vers le compte-rendu\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1ynYHNkHb5UbUNWyYprgLxHy4ujwfRtgOEQHL1N7crdU\/edit#"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1525388972.000178",
+        "client_msg_id": "ee0efd20-efc4-4ad1-b273-92b2847a65ce",
+        "text": "Et zut, j'ai complétement oublié de faire une petite photo de l'AG ! :\/\nEst ce que quelqu'un en aurais fait par hasard ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1525388972.000178",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1525421092.000319",
+        "reply_users": [
+            "U59MQ46DA",
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1525389138.000351"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1525421092.000319"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0lgtN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et zut, j'ai complétement oublié de faire une petite photo de l'AG ! :\/\nEst ce que quelqu'un en aurais fait par hasard ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1525389138.000351",
+        "text": "Je crois que personne n’en a fait \/o\\",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1525388972.000178",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fbnd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je crois que personne n’en a fait \/o\\"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,201 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1634509841.013400",
+        "client_msg_id": "591b0160-03ef-43e3-b26e-56a7f06d8ea3",
+        "text": "Bonsoir à tous :wave:\n\nMerci pour vos réactions au petit sondage :pray:\n\nVu que les avis sont assez homogène, dans un premier temps je vous propose donc d'utiliser :\n• la *documentation* déjà en place sur le *Drive* (j'ai ajouté le lien en bookmark de la chaîne) et en ai profiter pour ajouter quelques éléments, je consoliderai demain soir en HackNight. L'idée est que cela nous permettre d'exporter directement des livrables pour l'équipe de l'expo et le muséum\n• Côté *gestion et répartition des tâches*, je suggère que l'on teste les fonctionnalités natives de check-listes \/ mention \/ commentaires directement dans le document. Cela incitera d'autant plus chacun à bien documenter et évitera l'emploi d'un autre outil :sunglasses:\n• un projet *GitHub* fraîchement créé qui servira de *Forge* + pour y figer la *documentation technique* après chacune des 3 grandes étapes du projet + utiliser le système de projet\/backlog pour les contributions communautaires <https:\/\/github.com\/SCogLab\/SensoryOdysseyXP\/>. Il me reste quelques réglages à faire, et nous devons spécifier une licence, avant de le passé en public si cela convient à tous. \nAvis plutôt aux développeurs : avez-vous des suggestions sur le choix de la licence ?\n\nEt à ce soir pour ceux qui passent au CRI :v:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1634509841.013400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1634577520.000600",
+        "reply_users": [
+            "U01S8PWA7GU"
+        ],
+        "replies": [
+            {
+                "user": "U01S8PWA7GU",
+                "ts": "1634577520.000600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JtoR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonsoir à tous "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nMerci pour vos réactions au petit sondage "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nVu que les avis sont assez homogène, dans un premier temps je vous propose donc d'utiliser :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "la "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "documentation",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " déjà en place sur le "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Drive",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " (j'ai ajouté le lien en bookmark de la chaîne) et en ai profiter pour ajouter quelques éléments, je consoliderai demain soir en HackNight. L'idée est que cela nous permettre d'exporter directement des livrables pour l'équipe de l'expo et le muséum"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Côté "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "gestion et répartition des tâches",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", je suggère que l'on teste les fonctionnalités natives de check-listes \/ mention \/ commentaires directement dans le document. Cela incitera d'autant plus chacun à bien documenter et évitera l'emploi d'un autre outil "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "sunglasses",
+                                        "unicode": "1f60e"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "un projet "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "GitHub",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " fraîchement créé qui servira de "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Forge",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " + pour y figer la "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "documentation technique",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " après chacune des 3 grandes étapes du projet + utiliser le système de projet\/backlog pour les contributions communautaires "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/SCogLab\/SensoryOdysseyXP\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". Il me reste quelques réglages à faire, et nous devons spécifier une licence, avant de le passé en public si cela convient à tous. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nAvis plutôt aux développeurs : avez-vous des suggestions sur le choix de la licence ?\n\nEt à ce soir pour ceux qui passent au CRI "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "v",
+                                "unicode": "270c-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

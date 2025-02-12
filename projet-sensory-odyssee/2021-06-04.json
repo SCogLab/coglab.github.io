@@ -1,0 +1,124 @@
+[
+    {
+        "user": "UAMPR1P5L",
+        "type": "message",
+        "ts": "1622809120.002000",
+        "client_msg_id": "8f0c95db-967e-4138-80e1-ce3144de2487",
+        "text": "Ah, désolé, pas vu ton message plus tôt. OK pour moi mardi, si possible en début d’après-midi. Sinon, je peux essayer 11h mais j’ai une autre réunion dans la matinée qui risque de déborder.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g73db985d858",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273db985d858035ed23c0594718e0eac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "mesca",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "coglab644",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C3D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, désolé, pas vu ton message plus tôt. OK pour moi mardi, si possible en début d’après-midi. Sinon, je peux essayer 11h mais j’ai une autre réunion dans la matinée qui risque de déborder."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UAMPR1P5L",
+        "type": "message",
+        "ts": "1622809165.002600",
+        "client_msg_id": "94bcbfab-1902-4461-a4ff-c947a573e2d2",
+        "text": "Ce serait peut-être bien que <@U01RUJ02ECS> se joigne à nous s’il est disponible pour discuter des aspects recherche ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g73db985d858",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273db985d858035ed23c0594718e0eac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "mesca",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "coglab644",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6tBi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ce serait peut-être bien que "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RUJ02ECS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " se joigne à nous s’il est disponible pour discuter des aspects recherche ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01RUJ02ECS",
+        "type": "message",
+        "ts": "1622813375.003300",
+        "client_msg_id": "600fc8fd-d09e-41d7-81f4-4449610a5316",
+        "text": "Yes, comme Pierre, je suis plutôt dispo en début d’après-midi car j’ai une grosse réunion le mardi matin, mais je serais ravi de discuter de SO avec vous.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "ge601b6ea457",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e601b6ea457e8ceb66ce7291094a5e1a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Sylvain Chevallier",
+            "display_name": "Sylvain Chevallier",
+            "team": "T03FC4NDZ",
+            "name": "sylvain.chevallier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qIC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, comme Pierre, je suis plutôt dispo en début d’après-midi car j’ai une grosse réunion le mardi matin, mais je serais ravi de discuter de SO avec vous."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "RDV Projet InnerCosmos: <!date^1623682800^{date_short_pretty} from {time}|June 14th, 2021 from 5:00 PM> to <!date^1623688200^{time}|6:30 PM GMT+0200>",
+                "text": "<!date^1623682800^{date_short_pretty} from {time}|June 14th, 2021 from 5:00 PM> to <!date^1623688200^{time}|6:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=8+Rue+Godillot%2C+93400+Saint-Ouen%2C+France|8 Rue Godillot, 93400 Saint-Ouen, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "RDV Projet InnerCosmos",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MjNwcWloZXNxanVoa2xxZHVjOWlrcjJsZWkgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1623679223.000600",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #198 - Special été [IRL]: <!date^1623690000^{date_short_pretty} from {time}|June 14th, 2021 from 7:00 PM> to <!date^1623699000^{time}|9:30 PM GMT+0200>",
+                "text": "<!date^1623690000^{date_short_pretty} from {time}|June 14th, 2021 from 7:00 PM> to <!date^1623699000^{time}|9:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Cin%C3%A9math%C3%A8que+Fran%C3%A7aise%2C+51+Rue+de+Bercy%2C+75012+Paris%2C+France|Cinémathèque Française, 51 Rue de Bercy, 75012 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #198 - Special été [IRL]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NXVnM3JmOG1ob3JvMDUwZzM2cnFtcmc2MDggc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1623686405.000700",
+        "bot_id": "B4SJBP2L8"
+    }
+]

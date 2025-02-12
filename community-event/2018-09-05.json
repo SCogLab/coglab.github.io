@@ -1,0 +1,220 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Event updated: [Option] Open CogLab @ Paillasse: <!date^1536858000^{date_short_pretty} from {time}|September 13th, 2018 from 7:00 PM> to <!date^1536865200^{time}|9:00 PM GMT+0200>",
+                "text": "<!date^1536858000^{date_short_pretty} from {time}|September 13th, 2018 from 7:00 PM> to <!date^1536865200^{time}|9:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=La+Paillasse%2C+226+Rue+Saint-Denis%2C+75002+Paris%2C+France|La Paillasse, 226 Rue Saint-Denis, 75002 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "[Option] Open CogLab @ Paillasse",
+                "more": "Les soirées Open CogLab sont un rendez-vous mensuel, un jeudi soir par mois.\nNous vous proposons de se retrouver à partir de 19h00 dans les locaux de La Paillasse \/ Maison du Libre et des Communs dans le sentier.\n\nCes rencontres se veulent un moment de partage convivial, de veille et de prospective autour d'un thème d'actualité sélectionné quelques jours auparavant ou sollicité par la communauté. \nNous pouvons également prévoir des moments pour des démos ou tests avec des volontaires parmi les personnes présentent.\nN'hésitez pas à consulter notre agenda (lien ci-dessous) et proposer des sujets dans la discussion associée à l'événement, sur les réseaux sociaux ou par email.\n\nAstuces pour les personnes souhaitant monter ou participer à un projet : nous disposons d’un format hebdomadaire — les soirées HackNight — le lundi soir (dédiées exclusivement aux projets et membres de l’association).\n\nQuelques ressources :\n- Echanger avec la communauté sur Slack ou Facebook <https:\/\/coglab.fr\/community\/> \n- Devenir membre de l'association via HelloAsso <https:\/\/www.helloasso.com\/associations\/coglab\/> \n- Les projets en cours sont référencé sur Trello <https:\/\/trello.com\/b\/NFHS3ZPa\/activit%C3%A9s> \n- L'agenda de l'association <https:\/\/coglab.fr\/actu\/agenda\/> \n- Le site de La Paillasse : <http:\/\/lapaillasse.org\/>",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NzRkcm45N3UxN2ZwZGhpZmNnNm8zM3VxaHYgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1536147787.000100",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1536148451.000100",
+        "client_msg_id": "b40ac416-1d5a-41da-acfd-6898fb790e3e",
+        "text": "Faute de réponse, j’ai remis une option “Open CogLab” à jeudi prochain, je ne serais pas disponible demain soir.\nEt en théorie, je ferais un passage à La Paillasse ce soir pour la soirée Open Résidence",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U3VI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Faute de réponse, j’ai remis une option “Open CogLab” à jeudi prochain, je ne serais pas disponible demain soir.\nEt en théorie, je ferais un passage à La Paillasse ce soir pour la soirée Open Résidence"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1536150977.000100",
+        "client_msg_id": "c7543df1-b2dd-4bf9-a0e8-c8ed1d24903c",
+        "text": "Tu n’es dispo le lundi 10 ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jucCG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu n’es dispo le lundi 10 ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1536151071.000100",
+        "client_msg_id": "63d7dfa5-f5f0-46ed-b27a-218008ab1dd4",
+        "text": "J’attends confirmation de mon planning des 2 prochaines semaines (aujourd’hui ou demain). J’ai une très lourde session de tests utilisateurs du côté de Versailles :confused:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UMb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’attends confirmation de mon planning des 2 prochaines semaines (aujourd’hui ou demain). J’ai une très lourde session de tests utilisateurs du côté de Versailles "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused",
+                                "unicode": "1f615"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1536151155.000100",
+        "client_msg_id": "6afcf8ce-fcad-4d9c-950b-e1e283a3d1b8",
+        "text": "Ok tiens nous au courant dès que tu as ton planning",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ytz1X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok tiens nous au courant dès que tu as ton planning"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "La Paillasse - Soirée Open Résidence: <!date^1536166800^{date_short_pretty} from {time}|September 5th, 2018 from 7:00 PM> to <!date^1536177600^{time}|10:00 PM GMT+0200>",
+                "text": "<!date^1536166800^{date_short_pretty} from {time}|September 5th, 2018 from 7:00 PM> to <!date^1536177600^{time}|10:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=La+Paillasse%2C+226+Rue+Saint-Denis%2C+75002+Paris%2C+France|La Paillasse, 226 Rue Saint-Denis, 75002 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "La Paillasse - Soirée Open Résidence",
+                "more": "[Open Résidence - Soirée de présentation]\n\nAprès deux premières années riches de projets, de rencontres et de succès, :tada::tada::tada: La Paillasse est fière de vous annoncer le lancement officiel de la troisième saison de l’#OpenResidence !\n\nPour l'occasion venez poser vos questions et nous rencontrer lors de la soirée de présentation du programme.\n\nL’événement aura lieu le mardi 5 septembre à 19h à La Paillasse.\n\nUn cocktail sera prévu, n'hésitez pas néanmoins à apporter boissons et nourriture.\n\nL’entrée est gratuite, il suffit de s’inscrire sur l’événement Facebook.\n\nNous vous attendons nombreux !\n\n--------------\nVous trouverez tous les détails concernant l'Open Résidence sur le site : <http:\/\/bit.ly\/openR_S3_LP>\nEnfin si cela n’est pas encore fait, vous pouvez rejoindre le groupe Facebook de l'#Openresidence pour poser toutes vos questions à l'équipe de La Paillasse et discuter entre vous : <https:\/\/www.facebook.com\/groups\/1775881929355151\/>\n\n<https:\/\/www.facebook.com\/events\/636420803410742\/>",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=M2Jzc2phY2xiNWFxbHI2cjdhaXFmcnFudmggc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1536163201.000100",
+        "bot_id": "B4SJBP2L8"
+    }
+]

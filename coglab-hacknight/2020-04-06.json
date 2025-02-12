@@ -1,0 +1,93 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U011698SU58",
+        "text": "<@U011698SU58> a rejoint le canal",
+        "type": "message",
+        "ts": "1586175476.001500"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1586189437.002500",
+        "client_msg_id": "ceb4c5ca-f832-4ada-8a73-92eeafb264b8",
+        "text": "Bonsoir à tous\n<@U59MQ46DA> et moi-même sommes à votre dispo ici et sur Skype",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0fngQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonsoir à tous\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et moi-même sommes à votre dispo ici et sur Skype"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1586194342.003500",
+        "client_msg_id": "2c4c4137-38f8-47fc-aea2-b56f2517c9ce",
+        "text": "Nous sommes actuellement 7 en ligne, avec des amis de San Francisco et Moscow. Si besoin de créer des petits groupes de discussion sur des projets \/ discussions spécifiques, n’hésitez pas !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WkE=s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nous sommes actuellement 7 en ligne, avec des amis de San Francisco et Moscow. Si besoin de créer des petits groupes de discussion sur des projets \/ discussions spécifiques, n’hésitez pas !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

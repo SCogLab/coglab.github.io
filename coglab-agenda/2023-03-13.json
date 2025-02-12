@@ -1,0 +1,88 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There are *2* events this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "HackNight NeuroTechX Paris: <!date^1678728600^{date_short_pretty} from {time}|March 13th, 2023 from 6:30 PM> to <!date^1678739400^{time}|9:30 PM GMT+0100>",
+                "text": "<!date^1678728600^{date_short_pretty} from {time}|March 13th, 2023 from 6:30 PM> to <!date^1678739400^{time}|9:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Makerlab+Paris%2C+8+Bis+Rue+Charles+V%2C+75004+Paris%2C+France|Makerlab Paris, 8 Bis Rue Charles V, 75004 Paris, France>",
+                "title": "HackNight NeuroTechX Paris",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NHFxMWl1bHFxbm9kNjJkZHExcWQ2ZXNwZjRfMjAyMzAzMTNUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            },
+            {
+                "id": 2,
+                "color": "7bd148",
+                "fallback": "Stereolux: <!date^1678780800^{date_short_pretty} from {time}|March 14th, 2023 from 9:00 AM> to <!date^1678784400^{time}|10:00 AM GMT+0100>",
+                "text": "<!date^1678780800^{date_short_pretty} from {time}|March 14th, 2023 from 9:00 AM> to <!date^1678784400^{time}|10:00 AM GMT+0100>",
+                "title": "Stereolux",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=XzZrcjQ0ZGhsNzBvNGFiOW44OHBqNmI5azcwb2oyYjlvNmNyamNiOWo4cDEzMGgxaTg0c2plaGhpNnMgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1678690804.129859",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rw8t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "2",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " events this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "HackNight NeuroTechX Paris: <!date^1678728600^{date_short_pretty} from {time}|March 13th, 2023 from 6:30 PM> to <!date^1678739400^{time}|9:30 PM GMT+0100>",
+                "text": "<!date^1678728600^{date_short_pretty} from {time}|March 13th, 2023 from 6:30 PM> to <!date^1678739400^{time}|9:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Makerlab+Paris%2C+8+Bis+Rue+Charles+V%2C+75004+Paris%2C+France|Makerlab Paris, 8 Bis Rue Charles V, 75004 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "HackNight NeuroTechX Paris",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NHFxMWl1bHFxbm9kNjJkZHExcWQ2ZXNwZjRfMjAyMzAzMTNUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "mrkdwn_in": [
+                    "more",
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1678725001.147629",
+        "bot_id": "B4SJBP2L8"
+    }
+]

@@ -1,0 +1,109 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1523178450.000008",
+        "client_msg_id": "02d98a60-ce26-4013-bee5-cbc95b6b8f3c",
+        "text": "Au plaisir de te croiser Murielle :)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1522951731.000783",
+        "parent_user_id": "U0AR01SPQ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2qoWA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Au plaisir de te croiser Murielle :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1523179150.000047",
+        "client_msg_id": "5bc41c31-8f69-4609-9447-d9aae6419947",
+        "text": "Tout se passe bien à la Villette <@U59MQ46DA> &amp; <@U5JBN3M8Q> \n\nJ'arrive bientôt chez moi pour deposer \/ récupérer mes affaires avant de venir au FSC, dites moi avant 12h si vous avez besoins de choses spécifiques <!channel> \n\nN'hésitez pas à prendre des photos aussi :smiley:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "REuz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tout se passe bien à la Villette "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " & "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U5JBN3M8Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nJ'arrive bientôt chez moi pour deposer \/ récupérer mes affaires avant de venir au FSC, dites moi avant 12h si vous avez besoins de choses spécifiques "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nN'hésitez pas à prendre des photos aussi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiley",
+                                "unicode": "1f603"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

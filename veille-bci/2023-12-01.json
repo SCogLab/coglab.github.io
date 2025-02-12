@@ -1,0 +1,81 @@
+[
+    {
+        "user": "U065TGVPMQA",
+        "type": "message",
+        "ts": "1701419628.592609",
+        "client_msg_id": "e9761328-033b-43f7-8a70-f871be44d53b",
+        "text": "not closely related, but you've probably seen this interview : <https:\/\/www.youtube.com\/watch?v=MVYrJJNdrEg>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "d1c45b06a897",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6190932855014_d1c45b06a89739c22a4f_72.png",
+            "first_name": "Emmanuel",
+            "real_name": "Emmanuel Gauvain",
+            "display_name": "Emmanuel Gauvain",
+            "team": "T03FC4NDZ",
+            "name": "emmanuel.gauvain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701383749.905159",
+        "parent_user_id": "U59MQ46DA",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=MVYrJJNdrEg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/MVYrJJNdrEg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/MVYrJJNdrEg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"Mark Zuckerberg: First Interview in the Metaverse | Lex Fridman Podcast #398\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=MVYrJJNdrEg",
+                "fallback": "YouTube Video: Mark Zuckerberg: First Interview in the Metaverse | Lex Fridman Podcast #398",
+                "title": "Mark Zuckerberg: First Interview in the Metaverse | Lex Fridman Podcast #398",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=MVYrJJNdrEg",
+                "author_name": "Lex Fridman",
+                "author_link": "https:\/\/www.youtube.com\/@lexfridman",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wxZaj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "not closely related, but you've probably seen this interview : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=MVYrJJNdrEg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U067T2UHA6B",
+        "text": "<@U067T2UHA6B> a rejoint le canal",
+        "type": "message",
+        "ts": "1701436013.131929"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0688L050F7",
+        "text": "<@U0688L050F7> a rejoint le canal",
+        "type": "message",
+        "ts": "1701501652.421889"
+    }
+]

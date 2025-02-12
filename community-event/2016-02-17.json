@@ -1,0 +1,180 @@
+[
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC5ZAK",
+        "purpose": "Tous les événements du CogLab (organisé et que vous souhaitez organiser) et d'ailleurs pouvant intéresser la communauté.",
+        "text": "a défini la description du canal : Tous les événements du CogLab (organisé et que vous souhaitez organiser) et d'ailleurs pouvant intéresser la communauté.",
+        "type": "message",
+        "ts": "1455745947.000020"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC5ZAK",
+        "purpose": "Tous les événements du CogLab (organisé et que vous souhaitez organiser) et d'ailleurs pouvant intéresser la communauté. Agenda collaboratif sur https:\/\/coglab.hackpad.com\/CogLab-Agenda-lY8BzN71wMy",
+        "text": "a défini la description du canal : Tous les événements du CogLab (organisé et que vous souhaitez organiser) et d'ailleurs pouvant intéresser la communauté. Agenda collaboratif sur https:\/\/coglab.hackpad.com\/CogLab-Agenda-lY8BzN71wMy",
+        "type": "message",
+        "ts": "1455745974.000021"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "New card \"<https:\/\/trello.com\/c\/XIzCGNyI|Forum des Sciences Cognitives>\" added to list \"<https:\/\/trello.com\/b\/1S93w57R|En préparation>\"",
+                "text": "New card \"<https:\/\/trello.com\/c\/XIzCGNyI|Forum des Sciences Cognitives>\" added to list \"<https:\/\/trello.com\/b\/1S93w57R|En préparation>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "ts": "1455750251.000022",
+        "bot_id": "B03UHP1LD"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "New attachment added to card <https:\/\/trello.com\/c\/XIzCGNyI|Forum des Sciences Cognitives>",
+                "text": "<https:\/\/docs.google.com\/forms\/d\/1vVy3vpOI3h5gnfUjSyqLblEdiM5l5xtqXq8HttUQJLQ\/viewform?c=0&amp;w=1|Download file>",
+                "pretext": "New attachment added to card <https:\/\/trello.com\/c\/XIzCGNyI|Forum des Sciences Cognitives>",
+                "title": "<https:\/\/docs.google.com\/forms\/d\/1vVy3vpOI3h5gnfUjSyqLblEdiM5l5xtqXq8HttUQJLQ\/viewform?c=0&amp;w=1>",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "ts": "1455750291.000023",
+        "bot_id": "B03UHP1LD"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "@thimaivy @muriellepalissandre pour participer au FSC et régler les questions de logistique, il faut compléter ce formulaire.\n\nÇa vous va si on en parle demain soir à La Paillasse ?\n<https:\/\/docs.google.com\/forms\/d\/1vVy3vpOI3h5gnfUjSyqLblEdiM5l5xtqXq8HttUQJLQ\/viewform?c=0&amp;w=1>",
+                "text": "@thimaivy @muriellepalissandre pour participer au FSC et régler les questions de logistique, il faut compléter ce formulaire.\n\nÇa vous va si on en parle demain soir à La Paillasse ?\n<https:\/\/docs.google.com\/forms\/d\/1vVy3vpOI3h5gnfUjSyqLblEdiM5l5xtqXq8HttUQJLQ\/viewform?c=0&amp;w=1>",
+                "pretext": "New comment on card \"<https:\/\/trello.com\/c\/XIzCGNyI|Forum des Sciences Cognitives>\" by Rouffi",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "ts": "1455750371.000024",
+        "bot_id": "B03UHP1LD"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1455751359.000025",
+        "text": "<!channel>: qui serait intéressé pour tenir et animer le stand du CogLab au Forum des Sciences Cognitives le samedi 9 avril  ?\nC'est toute la journée, mais on peux se relayer pour permettre à tous de voir des conférences et faire le tour des stands :simple_smile:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pOqi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": qui serait intéressé pour tenir et animer le stand du CogLab au Forum des Sciences Cognitives le samedi 9 avril  ?\nC'est toute la journée, mais on peux se relayer pour permettre à tous de voir des conférences et faire le tour des stands "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "@rouffi ok pour en parler demain (j'attends pour remplir le formulaire, je ne sais pas répondre aux questions de détails sur ce qu'on fait comme animation).",
+                "text": "@rouffi ok pour en parler demain (j'attends pour remplir le formulaire, je ne sais pas répondre aux questions de détails sur ce qu'on fait comme animation).",
+                "pretext": "New comment on card \"<https:\/\/trello.com\/c\/XIzCGNyI|Forum des Sciences Cognitives>\" by Murielle Palissandre",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "ts": "1455751481.000026",
+        "bot_id": "B03UHP1LD"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "@muriellepalissandre Oui, l'idée est de ce concerter ensemble pour que l'on puisse compléter le formulaire. Il n'y a pas d'urgence pour le moment, je lance le débat :)",
+                "text": "@muriellepalissandre Oui, l'idée est de ce concerter ensemble pour que l'on puisse compléter le formulaire. Il n'y a pas d'urgence pour le moment, je lance le débat :)",
+                "pretext": "New comment on card \"<https:\/\/trello.com\/c\/XIzCGNyI|Forum des Sciences Cognitives>\" by Rouffi",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "ts": "1455752144.000027",
+        "bot_id": "B03UHP1LD"
+    },
+    {
+        "user": "U0AR01SPQ",
+        "type": "message",
+        "ts": "1455754161.000028",
+        "text": "[Stand FSC] je suis partante pour être sur le stand en relais. Sinon, le programme des confs est génial, suis à fond intéressée par \"l'humour et la cognition\"",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b34e84fd77bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-17\/18704226567_b34e84fd77bcdb81946f_72.jpg",
+            "first_name": "Murielle",
+            "real_name": "Murielle PALISSANDRE",
+            "display_name": "murielle",
+            "team": "T03FC4NDZ",
+            "name": "murielle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mpbAS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[Stand FSC] je suis partante pour être sur le stand en relais. Sinon, le programme des confs est génial, suis à fond intéressée par \"l'humour et la cognition\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

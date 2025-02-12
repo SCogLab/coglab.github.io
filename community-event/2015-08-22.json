@@ -1,0 +1,108 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "New card \"<https:\/\/trello.com\/c\/tGLX0E3D|Apéro #12 - Œnologie &amp; Sciences Cognitives>\" added to list \"<https:\/\/trello.com\/b\/1S93w57R|A traiter>\"",
+                "text": "New card \"<https:\/\/trello.com\/c\/tGLX0E3D|Apéro #12 - Œnologie &amp; Sciences Cognitives>\" added to list \"<https:\/\/trello.com\/b\/1S93w57R|A traiter>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "ts": "1440254603.000002",
+        "bot_id": "B03UHP1LD"
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1440277156.000002",
+        "text": "... Tu veux monitorer les gens avec ton open bci pendant qu'ils boivent ? :wink:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yeb2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "... Tu veux monitorer les gens avec ton open bci pendant qu'ils boivent ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1440277685.000003",
+        "text": "C'est un apéro Sciences Co de nos amis Lyonnais qui date de mars et que j'ai référencé sur le Trello.\nCoucou <@U07CLARN1>, Estigma et La Paillasse Saône :simple_smile:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HM8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est un apéro Sciences Co de nos amis Lyonnais qui date de mars et que j'ai référencé sur le Trello.\nCoucou "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07CLARN1"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Estigma et La Paillasse Saône "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

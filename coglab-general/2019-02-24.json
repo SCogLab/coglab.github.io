@@ -1,0 +1,71 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1551050155.000400",
+        "client_msg_id": "382e4aa2-671a-44d5-8d7e-f8a8c7a7d578",
+        "text": "RDV ce soir au Pavillon, NUMA Paris\n<https:\/\/coglab.fr\/meetup-coglab-n9\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "CogLab, NeuroTechX Paris",
+                "title": "Meetup CogLab S3E2 : Ergonomie, culture et usages",
+                "title_link": "https:\/\/coglab.fr\/meetup-coglab-n9\/",
+                "text": "Présentation Meetup Coglab, Saison 3, Épisode 2   Après un premier épisode introductif en octobre, nous continuons notre exploration du domaine des interfaces en réalités virtuelles, augmentée…",
+                "fallback": "CogLab, NeuroTechX Paris: Meetup CogLab S3E2 : Ergonomie, culture et usages",
+                "image_url": "https:\/\/coglab.fr\/wp-content\/uploads\/2019\/02\/Meetup-9-S3E2-Ergonomie-et-Usages.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "ts": 1551049408,
+                "from_url": "https:\/\/coglab.fr\/meetup-coglab-n9\/",
+                "image_bytes": 67290,
+                "service_icon": "https:\/\/i2.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=180%2C180&#038;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/coglab.fr\/meetup-coglab-n9\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XTq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "RDV ce soir au Pavillon, NUMA Paris\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.fr\/meetup-coglab-n9\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,111 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1564993443.000200",
+        "client_msg_id": "9dbe007b-a35b-4651-b939-c8c4b7456a47",
+        "text": "Bootcamp *Tiers-Lieux et éducation* (co-animé par l’association Tiers-Lieux Edu &amp; le 110 bis), pendant Ludovia (du 21 au 23\/08), c’est un peu un Bootcamp Cogni’Junior+CogLab :slightly_smiling_face: <https:\/\/www.ludovia.fr\/bootcamp-tiers-lieu-education\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dYMd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bootcamp "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Tiers-Lieux et éducation",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (co-animé par l’association Tiers-Lieux Edu & le 110 bis), pendant Ludovia (du 21 au 23\/08), c’est un peu un Bootcamp Cogni’Junior+CogLab "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ludovia.fr\/bootcamp-tiers-lieu-education\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #115: <!date^1565026200^{date_short_pretty} from {time}|August 5th, 2019 from 7:30 PM> to <!date^1565040600^{time}|11:30 PM GMT+0200>",
+                "text": "<!date^1565026200^{date_short_pretty} from {time}|August 5th, 2019 from 7:30 PM> to <!date^1565040600^{time}|11:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #115",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MWwyNDY2azk3cGVoMHY4NTVlb2RnOGhlOG5fMjAxOTA4MDVUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1565022601.000300",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CogLab HackNight #115: <!date^1565024400^{date_short_pretty} from {time}|August 5th, 2019 from 7:00 PM> to <!date^1565040600^{time}|11:30 PM GMT+0200>",
+                "text": "<!date^1565024400^{date_short_pretty} from {time}|August 5th, 2019 from 7:00 PM> to <!date^1565040600^{time}|11:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab HackNight #115",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MWwyNDY2azk3cGVoMHY4NTVlb2RnOGhlOG5fMjAxOTA4MDVUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1565023090.000400",
+        "bot_id": "B4SJBP2L8"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "The Brainstorms Festival: <!date^1616079600^{date_short_pretty} from {time}|March 18th, 2021 from 4:00 PM> to <!date^1616094000^{time}|8:00 PM GMT+0100>",
+                "text": "<!date^1616079600^{date_short_pretty} from {time}|March 18th, 2021 from 4:00 PM> to <!date^1616094000^{time}|8:00 PM GMT+0100>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "The Brainstorms Festival",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NDlwZTVrM3JzYnNudDJvdWNzNHJkNjk5ZDRfMjAyMTAzMThUMTUwMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1616076035.000100",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: CogLab HackNight #186 [Online EN]: <!date^1616434200^{date_short_pretty} from {time}|March 22nd, 2021 from 6:30 PM> to <!date^1616437800^{time}|7:30 PM GMT+0100>",
+                "text": "<!date^1616434200^{date_short_pretty} from {time}|March 22nd, 2021 from 6:30 PM> to <!date^1616437800^{time}|7:30 PM GMT+0100> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "pretext": "New calendar event created",
+                "title": "CogLab HackNight #186 [Online EN]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MzRmZXFjaXR0M2NhZTg3ajdkZmlhdm4xaWIgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1616079907.000200",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: CogLab HackNight #186 [Online FR]: <!date^1616443200^{date_short_pretty} from {time}|March 22nd, 2021 from 9:00 PM> to <!date^1616448600^{time}|10:30 PM GMT+0100>",
+                "text": "<!date^1616443200^{date_short_pretty} from {time}|March 22nd, 2021 from 9:00 PM> to <!date^1616448600^{time}|10:30 PM GMT+0100> at <https:\/\/app.slack.com\/client\/T03FC4NDZ\/C01JBBNSJ0M>",
+                "pretext": "New calendar event created",
+                "title": "CogLab HackNight #186 [Online FR]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MWJiMDVrbG9xazBpMWpmZTJpdm40N2U3ZnEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1616080026.000300",
+        "bot_id": "B4SJBP2L8"
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1513157215.000123",
+        "text": "<http:\/\/ieeexplore.ieee.org\/document\/7851005\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Performance Assessment of a Custom, Portable, and Low-Cost Brain–Computer Interface Platform - IEEE Journals &amp; Magazine",
+                "title_link": "http:\/\/ieeexplore.ieee.org\/document\/7851005\/",
+                "text": "Objective: Conventional brain-computer interfaces (BCIs) are often expensive, complex to operate, and lack portability, which confines their use to laborat",
+                "fallback": "Performance Assessment of a Custom, Portable, and Low-Cost Brain–Computer Interface Platform - IEEE Journals &amp; Magazine",
+                "from_url": "http:\/\/ieeexplore.ieee.org\/document\/7851005\/",
+                "service_name": "ieeexplore.ieee.org",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pB\/CA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/ieeexplore.ieee.org\/document\/7851005\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1513179997.000063",
+        "text": "<https:\/\/pypi.python.org\/pypi\/Braindecode\/0.2.1>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Braindecode 0.2.1 : Python Package Index",
+                "title_link": "https:\/\/pypi.python.org\/pypi\/Braindecode\/0.2.1",
+                "text": "A deep learning toolbox to decode raw time-domain EEG.",
+                "fallback": "Braindecode 0.2.1 : Python Package Index",
+                "from_url": "https:\/\/pypi.python.org\/pypi\/Braindecode\/0.2.1",
+                "service_icon": "https:\/\/pypi.python.org\/favicon.ico",
+                "service_name": "pypi.python.org",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TiImw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pypi.python.org\/pypi\/Braindecode\/0.2.1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

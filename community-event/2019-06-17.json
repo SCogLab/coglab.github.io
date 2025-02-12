@@ -1,0 +1,80 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1560773938.000500",
+        "client_msg_id": "4aa29290-e3d3-4263-9f84-bd0bfa268a14",
+        "text": "<https:\/\/events.cri-paris.org\/e\/552>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Attendize.com",
+                "title": "Jeux éducatifs : sur quelles sciences s'appuyer pour les créer ?",
+                "title_link": "https:\/\/events.cri-paris.org\/e\/552",
+                "text": "L'association ÉPhiScience, en partenariat avec le Centre de Recherches Interdisciplinaires et son GameLab, est fière de vous inviter à une soirée incontournable autour des jeux, de l'éducation et des sciences ! Que vous soyez joueur ou game designer, dans le milieu de l'éducation ou intéressés par les sciences, cet événement est fait pour vous. Et en plus il y aura de quoi manger et boire ! Programme 17h30-19h : Table ronde animée par Mourdjen Bari avec Mélissa Canseliet (Neurosciences et UX Design, ex. Ubisoft), Vanessa Kaplan (Co-fondatrice Kiupe, startup jeux vidéos éducatifs) et David Louapre (vulgarisateur et directeur scientifique Ubisoft)....",
+                "fallback": "Attendize.com: Jeux éducatifs : sur quelles sciences s'appuyer pour les créer ?",
+                "image_url": "https:\/\/events.cri-paris.org\/user_content\/event_images\/event_image-4b2d2cabadcc4b79f18e86b61c8acb1b.jpg",
+                "from_url": "https:\/\/events.cri-paris.org\/e\/552",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 107759,
+                "id": 1,
+                "original_url": "https:\/\/events.cri-paris.org\/e\/552"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "orn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/events.cri-paris.org\/e\/552"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #111: <!date^1560792600^{date_short_pretty} from {time}|June 17th, 2019 from 7:30 PM> to <!date^1560805200^{time}|11:00 PM GMT+0200>",
+                "text": "<!date^1560792600^{date_short_pretty} from {time}|June 17th, 2019 from 7:30 PM> to <!date^1560805200^{time}|11:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #111",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Nm5wMzFocGtibG1hcGxkNDRwNGR2dTc2am1fMjAxOTA2MTdUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1560789002.000700",
+        "bot_id": "B4SJBP2L8"
+    }
+]

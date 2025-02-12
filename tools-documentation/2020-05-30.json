@@ -1,0 +1,132 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1590856517.001000",
+        "client_msg_id": "97d1c4cc-3e03-462b-992b-8cce1fa48856",
+        "text": "[Self-reminder] Sketch Engine : <https:\/\/www.sketchengine.eu>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1590856517.001000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1590856549.001200",
+        "reply_users": [
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1590856549.001200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "service_name": "Sketch Engine",
+                "title": "language corpus management and query system",
+                "title_link": "https:\/\/www.sketchengine.eu\/",
+                "text": "Sketch Engine is the ultimate corpus tool to create and search text corpora in 95+ languages. Try 30-day free trial.",
+                "fallback": "Sketch Engine: language corpus management and query system",
+                "thumb_url": "https:\/\/www.sketchengine.eu\/wp-content\/uploads\/fb-open-graph-min.jpg",
+                "from_url": "https:\/\/www.sketchengine.eu\/",
+                "thumb_width": 1500,
+                "thumb_height": 1012,
+                "service_icon": "https:\/\/www.sketchengine.eu\/wp-content\/uploads\/cropped-only-symbol-blue-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.sketchengine.eu"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dt5s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[Self-reminder] Sketch Engine : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sketchengine.eu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1590856549.001200",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1590856560.000000"
+        },
+        "client_msg_id": "03052222-189b-43da-8547-674bd62ef17f",
+        "text": "<https:\/\/www.coventry.ac.uk\/research\/research-directories\/current-projects\/2015\/british-academic-written-english-corpus-bawe\/search-the-bawe-corpus\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1590856517.001000",
+        "parent_user_id": "U59MQ46DA",
+        "attachments": [
+            {
+                "title": "Access to the BAWE Corpus",
+                "title_link": "https:\/\/www.coventry.ac.uk\/research\/research-directories\/current-projects\/2015\/british-academic-written-english-corpus-bawe\/search-the-bawe-corpus\/?fbclid=IwAR3WHuuSvlJ_bWn5YRCE_Xxn1CLQ-Ym4QwqeWQQIL-ADBdEVV2QbGVLQM5s",
+                "text": "bawe",
+                "fallback": "Access to the BAWE Corpus",
+                "from_url": "https:\/\/www.coventry.ac.uk\/research\/research-directories\/current-projects\/2015\/british-academic-written-english-corpus-bawe\/search-the-bawe-corpus\/?fbclid=IwAR3WHuuSvlJ_bWn5YRCE_Xxn1CLQ-Ym4QwqeWQQIL-ADBdEVV2QbGVLQM5s",
+                "service_icon": "https:\/\/www.coventry.ac.uk\/apple-touch-icon.png",
+                "service_name": "coventry.ac.uk",
+                "id": 1,
+                "original_url": "https:\/\/www.coventry.ac.uk\/research\/research-directories\/current-projects\/2015\/british-academic-written-english-corpus-bawe\/search-the-bawe-corpus\/?fbclid=IwAR3WHuuSvlJ_bWn5YRCE_Xxn1CLQ-Ym4QwqeWQQIL-ADBdEVV2QbGVLQM5s"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wKP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.coventry.ac.uk\/research\/research-directories\/current-projects\/2015\/british-academic-written-english-corpus-bawe\/search-the-bawe-corpus\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Isabelle",
+                "fallback": "Isabelle Completed \"Préparer l'ordre du jour\" in checklist \"Checklist\" on Conseil d'Administration.",
+                "text": "Completed *Préparer l'ordre du jour* in checklist *Checklist* on *<https:\/\/trello.com\/c\/X7oElDRQ|Conseil d'Administration>*.",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/zakaboum",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1537814782.000100",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "Romain ROUYER commented on Conseil d'Administration: \"Sondage pour la date du prochain CA <https:\/\/framadate.org\/wbLei9kQWEGExhIX>\"",
+                "text": "Sondage pour la date du prochain CA <https:\/\/framadate.org\/wbLei9kQWEGExhIX>",
+                "pretext": "New comment on *<https:\/\/trello.com\/c\/X7oElDRQ|Conseil d'Administration>*",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/fbade7eb745f836dfdf0ef726a7350c0\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1537815594.000100",
+        "bot_id": "B66HQV43C"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1598092556.000200",
+        "client_msg_id": "e46937cf-95c9-41e3-a1aa-3b7333ffda2f",
+        "text": "<https:\/\/www.meetup.com\/fr-FR\/NeuroTechBER\/events\/272223511\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Insights into the German NeuroTech Ecosystem and the future of BCIs",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/NeuroTechBER\/events\/272223511\/",
+                "text": "mar. 18 août 2020 à 17:00: The Berlin chapter of NeurotechX is finally meeting up for the first time!Our aim is to bring together all neurotech enthusiasts and to foster the creation of a local commun",
+                "fallback": "Meetup: Insights into the German NeuroTech Ecosystem and the future of BCIs",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/8\/e\/2\/c\/600_491556396.jpeg",
+                "fields": [
+                    {
+                        "title": "Où",
+                        "value": "Événement en ligne",
+                        "short": true
+                    },
+                    {
+                        "title": "Quand",
+                        "value": "mar. 18 août 2020 à 17:00",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/NeuroTechBER\/events\/272223511\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 57120,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/fr-FR\/m_swarm_120x120.4f86abc9.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/NeuroTechBER\/events\/272223511\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "esnSF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/NeuroTechBER\/events\/272223511\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1598093162.000500",
+        "client_msg_id": "143481b3-e030-4ff3-bcf8-3dbd787950b5",
+        "text": "<https:\/\/www.youtube.com\/watch?v=kyCDbKx5Yrg>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Neuro Nexus 2019 Recap",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=kyCDbKx5Yrg",
+                "author_name": "Innovation4Health",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCo-ZJPQJNQ-ATQpdtdV7YBA",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/kyCDbKx5Yrg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Neuro Nexus 2019 Recap",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/kyCDbKx5Yrg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=kyCDbKx5Yrg",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=kyCDbKx5Yrg"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D\/4g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=kyCDbKx5Yrg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

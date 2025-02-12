@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "CogLab HackNight #236: <!date^1663000200^{date_short_pretty} from {time}|September 12th, 2022 from 6:30 PM> to <!date^1663014600^{time}|10:30 PM GMT+0200>",
+                "text": "<!date^1663000200^{date_short_pretty} from {time}|September 12th, 2022 from 6:30 PM> to <!date^1663014600^{time}|10:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Learning+Planet+Institut%29+-+Inserm+University+Paris+City%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France%2C+Charles+V-0-MakerLab+Classroom+%2830%29|Learning Planet Institut) - Inserm University Paris City, 8 bis Rue Charles V, 75004 Paris, France, Charles V-0-MakerLab Classroom (30)>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #236",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NTluaWQ2YTIyOGU4cWhwNzRqcnVkanRzOWpfMjAyMjA5MTJUMTYzMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "mrkdwn_in": [
+                    "more",
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1662996601.657919",
+        "bot_id": "B4SJBP2L8"
+    }
+]

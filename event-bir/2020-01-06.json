@@ -1,0 +1,333 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U03FC5ZAK",
+        "text": "<@U03FC5ZAK> a rejoint le canal",
+        "type": "message",
+        "ts": "1578339839.000200"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC5ZAK",
+        "purpose": "Coordination pour l'événement Buzz In Review du 29 janvier. Préparation d'une carte des controverses sur les neurotech.",
+        "text": "a défini la description du canal : Coordination pour l'événement Buzz In Review du 29 janvier. Préparation d'une carte des controverses sur les neurotech.",
+        "type": "message",
+        "ts": "1578339839.000300"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "UL4SA8V7Y",
+        "text": "<@UL4SA8V7Y> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1578339839.000500"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U59MQ46DA",
+        "text": "<@U59MQ46DA> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1578339840.000700"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1578339909.001700",
+        "client_msg_id": "e523563a-8ca0-4d5f-9a80-b5e570e25c4f",
+        "text": "Pour notre carte des controverses \nRobert Scoble mentionne Nextmind\n<https:\/\/twitter.com\/Scobleizer\/status\/1214251620352942082|https:\/\/twitter.com\/Scobleizer\/status\/1214251620352942082>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1578339909.001700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1578424199.000500",
+        "reply_users": [
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1578424199.000500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/Scobleizer|@Scobleizer>: I'm watching all the news from CES and <https:\/\/twitter.com\/nextmindlab|@nextmindlab> has the most innovative new product I've seen. Gives you Yoda-like \"use the force\" superpowers. <https:\/\/twitter.com\/CathyHackl\/status\/1214078835618004992>",
+                "ts": 1578335120,
+                "author_name": "Robert Scoble",
+                "author_link": "https:\/\/twitter.com\/Scobleizer\/status\/1214251620352942082",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1203073314953891840\/mjkIwz8S_normal.jpg",
+                "author_subname": "@Scobleizer",
+                "text": "I'm watching all the news from CES and <https:\/\/twitter.com\/nextmindlab|@nextmindlab> has the most innovative new product I've seen. Gives you Yoda-like \"use the force\" superpowers. <https:\/\/twitter.com\/CathyHackl\/status\/1214078835618004992>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/Scobleizer\/status\/1214251620352942082",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/Scobleizer\/status\/1214251620352942082",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            },
+            {
+                "fallback": "<https:\/\/twitter.com\/CathyHackl|@CathyHackl>: Changing #TV channels with just my mind? Yes, please. Thanks <https:\/\/twitter.com\/nextmindlab|@nextmindlab> for the demo. I love moving items with just my thoughts. Check out this video from #cesunveiled at #CES2020.  #bci #brainmachine <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1214078593631801344\/pu\/img\/RpUeHJsULl2nht5m.jpg>",
+                "ts": 1578293925,
+                "author_name": "Cathy Hackl #CES2020 #AR #VR #SpatialComputing #AI",
+                "author_link": "https:\/\/twitter.com\/CathyHackl\/status\/1214078835618004992",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1204130806417035264\/TCWrgbHa_normal.jpg",
+                "author_subname": "@CathyHackl",
+                "text": "Changing #TV channels with just my mind? Yes, please. Thanks <https:\/\/twitter.com\/nextmindlab|@nextmindlab> for the demo. I love moving items with just my thoughts. Check out this video from #cesunveiled at #CES2020.  #bci #brainmachine",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/CathyHackl\/status\/1214078835618004992",
+                "thumb_url": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1214078593631801344\/pu\/img\/RpUeHJsULl2nht5m.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 675,
+                "video_html_width": 1200,
+                "video_html_height": 675,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1214078593631801344\/pu\/img\/RpUeHJsULl2nht5m.jpg\" width=\"1200\" height=\"675\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/ext_tw_video\/1214078593631801344\/pu\/vid\/1280x720\/mAbVNbJnhs3Gl9fM.mp4?tag=10\"><\/video>",
+                "indent": true,
+                "color": "32BBF3",
+                "id": 2,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SJQq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour notre carte des controverses \nRobert Scoble mentionne Nextmind\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/Scobleizer\/status\/1214251620352942082",
+                                "text": "https:\/\/twitter.com\/Scobleizer\/status\/1214251620352942082"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1578339972.002500",
+        "client_msg_id": "5bd4391f-29ad-4106-bad8-bf963eba9286",
+        "text": "<@UL4SA8V7Y> tu pourras fournir la ressource pour ajouter un visuel",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Y1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UL4SA8V7Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tu pourras fournir la ressource pour ajouter un visuel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1578340090.004000",
+        "client_msg_id": "d64bd4fa-22f9-4f98-bf79-ce8d1d6e8465",
+        "text": "<!here> toutes les idées et suggestions sont les bienvenues pour trouver un lieu d'accueil pour le 29 :v:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O\/1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " toutes les idées et suggestions sont les bienvenues pour trouver un lieu d'accueil pour le 29 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "v",
+                                "unicode": "270c-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UL4SA8V7Y",
+        "type": "message",
+        "ts": "1578341350.004400",
+        "client_msg_id": "1578a4d6-efd9-4ed1-9329-010eab0a66d0",
+        "text": "Lien vers les visuels pour l’evenement Buzz In Review: <https:\/\/drive.google.com\/open?id=17ojuj17Kn0IYZnuObbbKSIsK6MFrQu5L>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b09b09f913ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-04\/851210530993_b09b09f913ca93abb31c_72.png",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Reeber",
+            "display_name": "Alexandre Reeber",
+            "team": "T03FC4NDZ",
+            "name": "alex.reeber",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OxhB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lien vers les visuels pour l’evenement Buzz In Review: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=17ojuj17Kn0IYZnuObbbKSIsK6MFrQu5L"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_topic",
+        "user": "U03FC5ZAK",
+        "topic": "Buzz in Review 2020. Fiche <https:\/\/trello.com\/c\/TPpfwoVC\/174-neurotechx-2020-buzz-in-review>",
+        "text": "a défini le thème du canal : Buzz in Review 2020. Fiche <https:\/\/trello.com\/c\/TPpfwoVC\/174-neurotechx-2020-buzz-in-review>",
+        "type": "message",
+        "ts": "1578342080.004600"
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1578344536.002500",
+        "client_msg_id": "19213F73-A376-4F25-83A9-C82D094A5268",
+        "text": "Je viens de penser qu’on peut aussi demander à OpenMind : Jonas nous avait dit qu’on pouvait éventuellement leur demander ",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1578344536.002500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1578399531.000100",
+        "reply_users": [
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1578399531.000100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BzwE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je viens de penser qu’on peut aussi demander à OpenMind : Jonas nous avait dit qu’on pouvait éventuellement leur demander"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UL4SA8V7Y"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

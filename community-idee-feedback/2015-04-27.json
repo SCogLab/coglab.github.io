@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1430170756.000002",
+        "text": "Hello\nI'm still alive, and I just saw this... Emotiv still alive too ? \nWhat do you think <@U03KXTN2D> ?\n<https:\/\/www.facebook.com\/events\/392800237572329\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sonn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello\nI'm still alive, and I just saw this... Emotiv still alive too ? \nWhat do you think "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03KXTN2D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.facebook.com\/events\/392800237572329\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

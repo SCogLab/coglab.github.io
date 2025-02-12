@@ -1,0 +1,68 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #146 [Online]: <!date^1588608000^{date_short_pretty} from {time}|May 4th, 2020 from 6:00 PM> to <!date^1588622400^{time}|10:00 PM GMT+0200>",
+                "text": "<!date^1588608000^{date_short_pretty} from {time}|May 4th, 2020 from 6:00 PM> to <!date^1588622400^{time}|10:00 PM GMT+0200> at <https:\/\/join.skype.com\/be7Ty93o77rj>, ",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #146 [Online]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=M2s0NGtlaTJwMW52Nmw0ZWVsdXI2N25wcTAgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1588604404.000100",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1588609185.000900",
+        "client_msg_id": "53489966-382a-4e3c-812a-61cb96c261ab",
+        "text": "A noter que pour notre HackNight ce soir, le mot de passe est disponible sur <#C0R6W4X2Q|coglab-hacknight>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "APS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A noter que pour notre HackNight ce soir, le mot de passe est disponible sur "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0R6W4X2Q"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

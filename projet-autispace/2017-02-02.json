@@ -1,0 +1,55 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1486076955.000002",
+        "text": "La sortie d'un ouvrage reçu par email\n<https:\/\/www.amazon.fr\/v%C3%A9rit%C3%A9-sur-lautisme-Jean-Luc-Robert\/dp\/1537376071\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Amazon.fr - Ma vérité sur l'autisme - Jean-Luc Robert - Livres",
+                "title_link": "https:\/\/www.amazon.fr\/v%C3%A9rit%C3%A9-sur-lautisme-Jean-Luc-Robert\/dp\/1537376071\/",
+                "text": "Noté 4.5\/5. Retrouvez Ma vérité sur l'autisme et des millions de livres en stock sur <http:\/\/Amazon.fr|Amazon.fr>. Achetez neuf ou d'occasion",
+                "fallback": "Amazon.fr - Ma vérité sur l'autisme - Jean-Luc Robert - Livres",
+                "from_url": "https:\/\/www.amazon.fr\/v%C3%A9rit%C3%A9-sur-lautisme-Jean-Luc-Robert\/dp\/1537376071\/",
+                "service_icon": "https:\/\/www.amazon.fr\/favicon.ico",
+                "service_name": "amazon.fr",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bAYij",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La sortie d'un ouvrage reçu par email\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.fr\/v%C3%A9rit%C3%A9-sur-lautisme-Jean-Luc-Robert\/dp\/1537376071\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

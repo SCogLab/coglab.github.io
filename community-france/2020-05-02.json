@@ -1,0 +1,103 @@
+[
+    {
+        "subtype": "channel_topic",
+        "user": "U03FC5ZAK",
+        "topic": "Communauté à Lyon (salon inactif)",
+        "text": "a défini le thème du canal : Communauté à Lyon (salon inactif)",
+        "type": "message",
+        "ts": "1588411498.000100"
+    },
+    {
+        "subtype": "channel_name",
+        "user": "U03FC5ZAK",
+        "old_name": "community-lyon",
+        "name": "community-france",
+        "text": "a changé le nom du canal de « community-lyon » en « community-france »",
+        "type": "message",
+        "ts": "1588413892.000200"
+    },
+    {
+        "subtype": "channel_topic",
+        "user": "U03FC5ZAK",
+        "topic": "Annonces et discussion en lien avec la communauté française sur les sciences cognitive (Fresco, Labo, Associations, entreprises, ...)",
+        "text": "a défini le thème du canal : Annonces et discussion en lien avec la communauté française sur les sciences cognitive (Fresco, Labo, Associations, entreprises, ...)",
+        "type": "message",
+        "ts": "1588413970.000300"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC5ZAK",
+        "purpose": "Annonces et discussion en lien avec la communauté française sur les sciences cognitive (Fresco, Labo, Associations, entreprises, ...)",
+        "text": "a défini la description du canal : Annonces et discussion en lien avec la communauté française sur les sciences cognitive (Fresco, Labo, Associations, entreprises, ...)",
+        "type": "message",
+        "ts": "1588413983.000400"
+    },
+    {
+        "text": "Présentation de la Fresco pendant le Forum des Sciences Cognitives 2020",
+        "files": [
+            {
+                "id": "F012Y2VRSRG",
+                "created": 1588415279,
+                "timestamp": 1588415279,
+                "name": "Fresco_FSC_pres.pdf",
+                "title": "Fresco_FSC_pres.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U03FC5ZAK",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 2351877,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F012Y2VRSRG\/fresco_fsc_pres.pdf?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F012Y2VRSRG\/download\/fresco_fsc_pres.pdf?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F012Y2VRSRG-812830cd0a\/fresco_fsc_pres_thumb_pdf.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_pdf_w": 1100,
+                "thumb_pdf_h": 619,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U03FC5ZAK\/F012Y2VRSRG\/fresco_fsc_pres.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-F012Y2VRSRG-866b1d6050",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U03FC5ZAK",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+FMu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Présentation de la Fresco pendant le Forum des Sciences Cognitives 2020"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1588415281.000500",
+        "client_msg_id": "851b23fe-c183-44e4-bd60-93341d5f98d3"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U59MQ46DA",
+        "text": "<@U59MQ46DA> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1588415288.000900"
+    }
+]

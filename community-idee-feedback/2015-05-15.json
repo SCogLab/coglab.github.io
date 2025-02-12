@@ -1,0 +1,46 @@
+[
+    {
+        "user": "U04NM0590",
+        "type": "message",
+        "ts": "1431675332.000002",
+        "text": "Bonjour, aujourd'hui c'est celui  du Flylabs.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b561558c5ef2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-05-11\/4849334179_b561558c5ef2fad582fc_72.jpg",
+            "first_name": "Medhi",
+            "real_name": "Medhi Famibelle",
+            "display_name": "medhi",
+            "team": "T03FC4NDZ",
+            "name": "medhi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Xw+p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour, aujourd'hui c'est celui  du Flylabs."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U04T6ATLX",
+        "text": "<@U04T6ATLX> a rejoint le canal",
+        "type": "message",
+        "ts": "1431705755.000000"
+    }
+]

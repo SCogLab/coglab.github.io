@@ -1,0 +1,91 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1501407076.150040",
+        "text": "<http:\/\/mk2films.com\/film\/miyubi\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "54Xd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/mk2films.com\/film\/miyubi\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1501407083.150377",
+        "text": "<https:\/\/www.vrarlesfestival.com\/selection\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "VR Arles festival",
+                "title": "La sélection | VR Arles festival",
+                "title_link": "https:\/\/www.vrarlesfestival.com\/selection\/",
+                "fallback": "VR Arles festival: La sélection | VR Arles festival",
+                "image_url": "https:\/\/www.vrarlesfestival.com\/wp-content\/uploads\/2017\/07\/facebook_vraf-2.jpg",
+                "from_url": "https:\/\/www.vrarlesfestival.com\/selection\/",
+                "image_width": 409,
+                "image_height": 250,
+                "image_bytes": 229997,
+                "service_icon": "https:\/\/www.vrarlesfestival.com\/wp-content\/uploads\/2017\/06\/cropped-favicon-180x180.jpg",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nCq\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.vrarlesfestival.com\/selection\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

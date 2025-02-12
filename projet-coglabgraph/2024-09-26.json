@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1727346929.056279",
+        "client_msg_id": "6c66260b-1747-4809-9263-8ba767ef43bb",
+        "text": "Graphiti (Graph+LLM) : <https:\/\/github.com\/getzep\/graphiti>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/github.com\/getzep\/graphiti",
+                "image_url": "https:\/\/opengraph.githubassets.com\/49e7d4a8cb20fcbbe92739afd40ce57db453c75c4c3c9d6040069d549f289e89\/getzep\/graphiti",
+                "image_width": 1200,
+                "image_height": 600,
+                "image_bytes": 61826,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/getzep\/graphiti",
+                "fallback": "GitHub: GitHub - getzep\/graphiti: Build and query dynamic, temporally-aware Knowledge Graphs",
+                "text": "Build and query dynamic, temporally-aware Knowledge Graphs - getzep\/graphiti",
+                "title": "GitHub - getzep\/graphiti: Build and query dynamic, temporally-aware Knowledge Graphs",
+                "title_link": "https:\/\/github.com\/getzep\/graphiti",
+                "service_name": "GitHub"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sjbZH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Graphiti (Graph+LLM) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/getzep\/graphiti"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

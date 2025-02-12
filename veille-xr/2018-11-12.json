@@ -1,0 +1,60 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1542057875.000800",
+        "client_msg_id": "32d5b61c-2396-42bc-89bf-1fbae9c0caa7",
+        "text": "Une collection de liens en anglais sur l’UX VR : <https:\/\/www.uxofvr.com>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "The User Experience of Virtual Reality",
+                "title_link": "https:\/\/www.uxofvr.com\/",
+                "text": "A curated list of resources to help you on your journey into the User Experience of Virtual Reality",
+                "fallback": "The User Experience of Virtual Reality",
+                "thumb_url": "https:\/\/www.uxofvr.com\/themes\/uxofvr\/assets\/uxvrlogo.png",
+                "from_url": "https:\/\/www.uxofvr.com\/",
+                "thumb_width": 512,
+                "thumb_height": 512,
+                "service_icon": "https:\/\/www.uxofvr.com\/themes\/uxofvr\/assets\/apple-touch-icon-57x57.png",
+                "service_name": "uxofvr.com",
+                "id": 1,
+                "original_url": "https:\/\/www.uxofvr.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eEhs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Une collection de liens en anglais sur l’UX VR : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.uxofvr.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

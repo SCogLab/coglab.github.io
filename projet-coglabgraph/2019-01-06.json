@@ -1,0 +1,94 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1546795270.001400",
+        "client_msg_id": "ff0e8df2-85e3-458e-9c68-f5cf39eee35d",
+        "text": "Ajout : Multimedia, Podcasts : Cerveau connecté (France Culture - la méthode scientifique episode 26\/12\/2018) : <https:\/\/www.franceculture.fr\/emissions\/la-methode-scientifique\/cerveau-connecte-bienvenue-dans-la-matrice>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546795270.001400",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1546891762.005400",
+        "reply_users": [
+            "U03FC5ZAK",
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1546885716.000100"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1546885731.000400"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1546891762.005400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "service_name": "France Culture",
+                "title": "Cerveau connecté : bienvenue dans la matrice",
+                "title_link": "https:\/\/www.franceculture.fr\/emissions\/la-methode-scientifique\/cerveau-connecte-bienvenue-dans-la-matrice",
+                "text": "Pourquoi cherche-t-on à connecter notre cerveau à internet et à relier nos cerveaux entre eux ? Quels sont les enjeux techniques et éthiques de relier nos organes à des réseaux numériques ?",
+                "fallback": "France Culture: Cerveau connecté : bienvenue dans la matrice",
+                "image_url": "https:\/\/cdn.radiofrance.fr\/s3\/cruiser-production\/2018\/12\/4d9127ea-255a-4781-b759-0fffc0507f9c\/838_anatomy-1751201_1280.jpg",
+                "image_width": 294,
+                "image_height": 250,
+                "from_url": "https:\/\/www.franceculture.fr\/emissions\/la-methode-scientifique\/cerveau-connecte-bienvenue-dans-la-matrice",
+                "image_bytes": 166773,
+                "service_icon": "https:\/\/www.franceculture.fr\/favicons\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.franceculture.fr\/emissions\/la-methode-scientifique\/cerveau-connecte-bienvenue-dans-la-matrice"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ucmr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ajout : Multimedia, Podcasts : Cerveau connecté (France Culture - la méthode scientifique episode 26\/12\/2018) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.franceculture.fr\/emissions\/la-methode-scientifique\/cerveau-connecte-bienvenue-dans-la-matrice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

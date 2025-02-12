@@ -1,0 +1,85 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1621935845.001900",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1621935861.000000"
+        },
+        "client_msg_id": "57dee398-2dab-4a54-927a-9fcaad3172e5",
+        "text": "Interview de Bryan Johnson, CEO de Kernel par Lex Fridman : <https:\/\/www.youtube.com\/watch?v=1YbcB6b4A2U>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Bryan Johnson: Kernel Brain-Computer Interfaces | Lex Fridman Podcast #186",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=1YbcB6b4A2U",
+                "author_name": "Lex Fridman",
+                "author_link": "https:\/\/www.youtube.com\/c\/lexfridman",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/1YbcB6b4A2U\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Bryan Johnson: Kernel Brain-Computer Interfaces | Lex Fridman Podcast #186",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/1YbcB6b4A2U?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=1YbcB6b4A2U",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=1YbcB6b4A2U"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u3OZB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Interview de Bryan Johnson, CEO de Kernel par Lex Fridman : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=1YbcB6b4A2U"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S8PWA7GU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U02381TV53N",
+        "text": "<@U02381TV53N> a rejoint le canal",
+        "type": "message",
+        "ts": "1622000348.002400"
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLabOFF - Expo Palais Augmenté: <!date^1624194000^{date_short_pretty} from {time}|June 20th, 2021 from 3:00 PM> to <!date^1624199400^{time}|4:30 PM GMT+0200>",
+                "text": "<!date^1624194000^{date_short_pretty} from {time}|June 20th, 2021 from 3:00 PM> to <!date^1624199400^{time}|4:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Grand+Palais+%C3%89ph%C3%A9m%C3%A8re%2C+Avenue+Pierre+Loti%2C+75007+Paris%2C+France|Grand Palais Éphémère, Avenue Pierre Loti, 75007 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLabOFF - Expo Palais Augmenté",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MTE1cnFsczVrZWo0YTMzOTRnbjBzYjMzYzAgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1624190402.001400",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "There is *1* event this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "Meeting NTX XR Biosense: <!date^1624381200^{date_short_pretty} from {time}|June 22nd, 2021 from 7:00 PM> to <!date^1624384800^{time}|8:00 PM GMT+0200>",
+                "text": "<!date^1624381200^{date_short_pretty} from {time}|June 22nd, 2021 from 7:00 PM> to <!date^1624384800^{time}|8:00 PM GMT+0200>",
+                "title": "Meeting NTX XR Biosense",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MDRobmRobjNtZGx0Z3Y2dG82ZXZoaTNlZ3Ugc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1624255204.001500",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZCetX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "1",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " event this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

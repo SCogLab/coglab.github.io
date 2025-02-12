@@ -1,0 +1,52 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1549578300.000200",
+        "client_msg_id": "abcb98bf-c4d7-465a-8f86-93803822cfdc",
+        "text": "<https:\/\/www.facebook.com\/ESPCIParis\/videos\/602923040150964\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Facebook",
+                "service_url": "https:\/\/www.facebook.com",
+                "author_name": "ESPCI Paris",
+                "author_link": "https:\/\/www.facebook.com\/ESPCIParis\/",
+                "fallback": "Facebook Video: ",
+                "from_url": "https:\/\/www.facebook.com\/ESPCIParis\/videos\/602923040150964\/",
+                "id": 1,
+                "original_url": "https:\/\/www.facebook.com\/ESPCIParis\/videos\/602923040150964\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x+qsn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.facebook.com\/ESPCIParis\/videos\/602923040150964\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

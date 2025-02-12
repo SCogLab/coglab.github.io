@@ -1,0 +1,64 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1463423684.000002",
+        "text": "Ce soir, notre session HackNight est en live sur Skype, toujours sur <#C03UHP8UD|projet-autispace> \n<https:\/\/join.skype.com\/bp2LjNFHKyCh>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Join conversation",
+                "title_link": "https:\/\/join.skype.com\/bp2LjNFHKyCh",
+                "fallback": "Join conversation",
+                "image_url": "https:\/\/join.secure.skypeassets.com\/static\/11.0.1\/images\/icons\/opengraph_image.png",
+                "from_url": "https:\/\/join.skype.com\/bp2LjNFHKyCh",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 28276,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mG7O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ce soir, notre session HackNight est en live sur Skype, toujours sur "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03UHP8UD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/join.skype.com\/bp2LjNFHKyCh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

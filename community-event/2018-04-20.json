@@ -1,0 +1,100 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1524240694.000066",
+        "client_msg_id": "7983011f-e64d-4609-8121-e4e50cefd5b2",
+        "text": "Hello <!channel> \nLa HackNight de lundi commcera un peu plus tard (à partir de 20h30)\n\nJe me rends à cet événement juste avant, si ça vous intéresse :\n<https:\/\/twitter.com\/Ensci_Paris\/status\/987323268456697856>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/Ensci_Paris|@Ensci_Paris>: [ENSCIENS] Lundi 23 avril à 18h, James Auger interviendra à l'ENSCI dans le cadre du projet «Retro Design de l’attention» de <https:\/\/twitter.com\/la_fing|@la_fing> #AttentionByDesign <https:\/\/www.ensci.com\/actualites\/une-actualite\/news\/detail\/News\/23704\/> <https:\/\/pbs.twimg.com\/media\/DbOjG_gWsAAQ0vT.jpg>",
+                "ts": 1524231185,
+                "author_name": "ENSCI_LesAteliers",
+                "author_link": "https:\/\/twitter.com\/Ensci_Paris\/status\/987323268456697856",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/837625691210399746\/sYCO_C8h_normal.jpg",
+                "author_subname": "@Ensci_Paris",
+                "text": "[ENSCIENS] Lundi 23 avril à 18h, James Auger interviendra à l'ENSCI dans le cadre du projet «Retro Design de l’attention» de <https:\/\/twitter.com\/la_fing|@la_fing> #AttentionByDesign <https:\/\/www.ensci.com\/actualites\/une-actualite\/news\/detail\/News\/23704\/> <https:\/\/pbs.twimg.com\/media\/DbOjG_gWsAAQ0vT.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/Ensci_Paris\/status\/987323268456697856",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/DbOjG_gWsAAQ0vT.jpg",
+                "image_width": 849,
+                "image_height": 1200,
+                "image_bytes": 142429,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/Ensci_Paris\/status\/987323268456697856",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bbA1E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nLa HackNight de lundi commcera un peu plus tard (à partir de 20h30)\n\nJe me rends à cet événement juste avant, si ça vous intéresse :\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/Ensci_Paris\/status\/987323268456697856"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Event updated: CogLab HackNight #77: <!date^1524508200^{date_short_pretty} from {time}|April 23rd, 2018 from 8:30 PM> to <!date^1524519000^{time}|11:30 PM GMT+0200>",
+                "text": "<!date^1524508200^{date_short_pretty} from {time}|April 23rd, 2018 from 8:30 PM> to <!date^1524519000^{time}|11:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab HackNight #77",
+                "more": "HackNight hebdomadaire l'association 'CogLab, NeuroTechX Paris'&lt;br&gt;&lt;br&gt;&lt;br&gt;Ordre du jour :&lt;br&gt;- StandUp Meeting (&lt;a href=\"<https:\/\/docs.google.com\/document\/d\/16tyW7HrX8MdOavIi-KfushMocZoWZvLOPEm-YnY-gE0\/edit>\"&gt;documentation&lt;\/a&gt;)&lt;br&gt;- Team OpenBC[IA] : experimentation et prototypage (Hans)&lt;br&gt;- Casse Brique EEG (Maxence)&lt;br&gt;-&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=https%3A%2F%2Fpaper.dropbox.com%2Fdoc%2FyAWwKWaFkXa9w42sA0Sdj&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNH9q3hhrWopVThNTnogVHtK-DNRoQ>\" target=\"_blank\"&gt;&lt;span&gt;Projet Autispace&lt;\/span&gt;&lt;\/a&gt; : prototypage WebVR (Romain) + synthèse User Test (Isabelle)&lt;br&gt;&lt;br&gt;&lt;br&gt;Lieu :&amp;nbsp;&lt;br&gt;- Groupe Skype HackNight&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=https%3A%2F%2Fjoin.skype.com%2Fbe7Ty93o77rj&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNHJrhgRqqQ8EaGHaW7wb_qkHNA24g>\" target=\"_blank\"&gt;https:\/\/join.skype.com\/be7Ty93o77rj&lt;\/a&gt;&lt;br&gt;- Locaux af83, accueil par Romain (merci de signaler votre présence)&lt;br&gt;&lt;br&gt;&lt;br&gt;Documentation&lt;br&gt;- Projet BC[IA]&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=http%3A%2F%2Fwww.coglab.fr%2Fportfolio%2Fopenbcia&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNHq_Dw940zmTMJ8-4uxs8WlhifyhQ>\" target=\"_blank\"&gt;http:\/\/www.coglab.fr\/portfolio\/openbcia&lt;\/a&gt;&lt;br&gt;- Projet Autispace&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=http%3A%2F%2Fwww.coglab.fr%2Fportfolio%2Fautispace%2F&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNEZZ1afsh0HORrngY_VaIeyH3L9RQ>\" target=\"_blank\"&gt;http:\/\/www.coglab.fr\/portfolio\/autispace\/&lt;\/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Interactions :&lt;br&gt;- Agenda CogLab sur Paper&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=https%3A%2F%2Fpaper.dropbox.com%2Fdoc%2FAgenda-CogLab-NeuroTechX-Paris-a6pJbEvbJvWdJ3fHeF9JJ&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNFBc-8osEJvu5Mz0V36r0P7w0jAyw>\" target=\"_blank\"&gt;paper\/Agenda-CogLab-NeuroTechX-Paris&lt;\/a&gt;&lt;br&gt;- Agenda CogLab flux ics&amp;nbsp;&lt;a href=\"<https:\/\/calendar.google.com\/calendar\/embed?src=sb3pmu9to1dck7jhanprvcdqso%40group.calendar.google.com&amp;amp;ctz=Europe%2FParis>\" target=\"_blank\"&gt;calendar.google.com\/calendar\/embed?src=sb3pmu9to1dck7jhanprvcdqso&lt;\/a&gt;&lt;br&gt;- Slack :&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=https%3A%2F%2Fscoglab.slack.com&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNEmew6sS3UPIAQ9uXEmCZP8cWjxkA>\" target=\"_blank\"&gt;scoglab.slack.com&lt;\/a&gt;&amp;nbsp;(inscription via&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=https%3A%2F%2Fslackcoglab.herokuapp.com%2F&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNGPk47pHF2WkJGMXHnIJi2CDWsEbg>\" target=\"_blank\"&gt;slackcoglab.herokuapp.com&lt;\/a&gt;)&lt;br&gt;- Communauté Facebook :&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fcoglab%2F&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNEKnLrcV7nr0R_rZDL28UkG88paIg>\" target=\"_blank\"&gt;facebook.com\/groups\/coglab\/&lt;\/a&gt;&lt;br&gt;- Twitter :&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=https%3A%2F%2Ftwitter.com%2FSCogLab&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNFKUXQibxXmRZkN9sBo7sE-mdNXqg>\" target=\"_blank\"&gt;twitter.com\/SCogLab&lt;\/a&gt;&lt;br&gt;- Site web :&amp;nbsp;&lt;a href=\"<https:\/\/www.google.com\/url?q=http%3A%2F%2Fcoglab.fr%2F&amp;amp;sa=D&amp;amp;usd=2&amp;amp;usg=AFQjCNGwQRwlOugqHlYgvz51thYw0I_2mQ>\" target=\"_blank\"&gt;http:\/\/coglab.fr\/&lt;\/a&gt;",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NjB0MmV1OGxzOTFsYzhiZ3QwcDk4cTdra2dfMjAxODA0MjNUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1524250766.000581",
+        "bot_id": "B4SJBP2L8"
+    }
+]

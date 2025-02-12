@@ -1,0 +1,256 @@
+[
+    {
+        "user": "UL4SA8V7Y",
+        "type": "message",
+        "ts": "1579878069.000400",
+        "edited": {
+            "user": "UL4SA8V7Y",
+            "ts": "1579878115.000000"
+        },
+        "client_msg_id": "262adfe6-794e-40e4-91e0-dba0a07f937f",
+        "text": "Hello,\nC’est Julien qui présentera Conscious lab mercredi",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b09b09f913ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-04\/851210530993_b09b09f913ca93abb31c_72.png",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Reeber",
+            "display_name": "Alexandre Reeber",
+            "team": "T03FC4NDZ",
+            "name": "alex.reeber",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6BV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello,\nC’est Julien qui présentera Conscious lab mercredi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U59MQ46DA",
+                    "U03FC5ZAK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "UL4SA8V7Y",
+        "type": "message",
+        "ts": "1579878101.001200",
+        "client_msg_id": "54b9b983-3bf6-4525-8bff-e5fe4f81dbea",
+        "text": "je viens d’ajouter une ligne d’info sur la presentation sur meetup mais je n’ai pas accés au eventbrite",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b09b09f913ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-04\/851210530993_b09b09f913ca93abb31c_72.png",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Reeber",
+            "display_name": "Alexandre Reeber",
+            "team": "T03FC4NDZ",
+            "name": "alex.reeber",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N3bX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je viens d’ajouter une ligne d’info sur la presentation sur meetup mais je n’ai pas accés au eventbrite"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1579887128.002800",
+        "client_msg_id": "7a698a63-cb6f-4a61-ad76-4d6a3da26cb2",
+        "text": "Bien reçu, merci Alex. Je màj et t'ajoute à l'eventbrite et Facebook demain matin",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aaKYD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bien reçu, merci Alex. Je màj et t'ajoute à l'eventbrite et Facebook demain matin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U03FC5ZAK",
+        "thread_ts": "1579732420.008200",
+        "root": {
+            "user": "U03FC5ZAK",
+            "type": "message",
+            "ts": "1579732420.008200",
+            "client_msg_id": "7e5c497c-df13-4d2f-a671-686264c6f29c",
+            "text": ":brain: Huge update du programme sur le doc :point_down:\n<https:\/\/docs.google.com\/document\/d\/17_ESEFowqr_9tm2dAaUzzKsoYi4Q5dnuCVC4g_qBlmU\/edit#heading=h.8tnez1pcmr5t>\n\nLast but not least\nEst-ce que l’on essaye de faire une captation vidéo ?\nConnaissez-vous quelqu’un avec du bon matos qui pourrait aider ?",
+            "team": "T03FC4NDZ",
+            "thread_ts": "1579732420.008200",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1579887153.002900",
+            "reply_users": [
+                "U03FC5ZAK"
+            ],
+            "replies": [
+                {
+                    "user": "U03FC5ZAK",
+                    "ts": "1579887153.002900"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "rEA",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "emoji",
+                                    "name": "brain",
+                                    "unicode": "1f9e0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " Huge update du programme sur le doc "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "point_down",
+                                    "unicode": "1f447"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/docs.google.com\/document\/d\/17_ESEFowqr_9tm2dAaUzzKsoYi4Q5dnuCVC4g_qBlmU\/edit#heading=h.8tnez1pcmr5t"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\nLast but not least\nEst-ce que l’on essaye de faire une captation vidéo ?\nConnaissez-vous quelqu’un avec du bon matos qui pourrait aider ?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1579887153.002900",
+        "client_msg_id": "9d68c513-6663-4bfd-8963-ce628a9b7abb",
+        "text": "Any tips for the video ?",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ww3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any tips for the video ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1579887484.004700",
+        "client_msg_id": "cf20b6d2-5d6c-4ea6-a4b8-fe99ec710dd8",
+        "text": "Je travaille également sur une mise à jour de l'affiche pour la personnaliser à notre branding et partner. Pareil je termine demain. Off ce soir.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Du7N5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je travaille également sur une mise à jour de l'affiche pour la personnaliser à notre branding et partner. Pareil je termine demain. Off ce soir."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

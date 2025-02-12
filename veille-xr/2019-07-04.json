@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1562240390.000500",
+        "client_msg_id": "99b439e4-94c1-43dd-a6a0-c58e8f751e0a",
+        "text": "Project *VotAR* (Vote with Augmented Reality)\n<https:\/\/www.libre-innovation.org\/index.fr.html>\n\nVotAR est un système de Vote en Réalité augmenté (ou de sondage d’audience). Votre public tient des feuilles imprimées avec un symbole précis, et en tant qu’orateur vous en prenez une photo sur votre smartphone avec cette application Android, qui l’analysera et comptera les votes.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Indm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Project "
+                            },
+                            {
+                                "type": "text",
+                                "text": "VotAR",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (Vote with Augmented Reality)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.libre-innovation.org\/index.fr.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nVotAR est un système de Vote en Réalité augmenté (ou de sondage d’audience). Votre public tient des feuilles imprimées avec un symbole précis, et en tant qu’orateur vous en prenez une photo sur votre smartphone avec cette application Android, qui l’analysera et comptera les votes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

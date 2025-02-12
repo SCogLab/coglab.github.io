@@ -1,0 +1,58 @@
+[
+    {
+        "user": "U01804NJ7AQ",
+        "type": "message",
+        "ts": "1720196184.408459",
+        "client_msg_id": "8C2C0DA5-8A60-4117-A463-6AE932F2E16D",
+        "text": "<https:\/\/www.biorxiv.org\/content\/10.1101\/2024.05.24.593860v2|https:\/\/www.biorxiv.org\/content\/10.1101\/2024.05.24.593860v2>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g7080a90c528",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7080a90c528526f8129488e607562782.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Morgan Hough",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "morgan.hough",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.biorxiv.org\/content\/10.1101\/2024.05.24.593860v2",
+                "service_icon": "https:\/\/www.biorxiv.org\/sites\/default\/files\/images\/favicon.ico",
+                "thumb_url": "https:\/\/www.biorxiv.org\/sites\/default\/files\/images\/biorxiv_logo_homepage7-5-small.png",
+                "thumb_width": 252,
+                "thumb_height": 252,
+                "ts": 1720162800,
+                "id": 1,
+                "original_url": "https:\/\/www.biorxiv.org\/content\/10.1101\/2024.05.24.593860v2",
+                "fallback": "bioRxiv: A connectome manipulation framework for the systematic and reproducible study of structure-function relationships through simulations",
+                "text": "Synaptic connectivity at the neuronal level is characterized by highly non-random features. Hypotheses about their role can be developed by correlating structural metrics to functional features. But to prove causation, manipulations of connectivity would have to be studied. However, the fine-grained scale at which non-random trends are expressed makes this approach challenging to pursue experimentally. Simulations of neuronal networks provide an alternative route to study arbitrarily complex manipulations in morphologically and biophysically detailed models. Here, we present Connectome-Manipulator, a Python framework for rapid connectome manipulations of large-scale network models in SONATA format. In addition to creating or manipulating the connectome of a model, it provides tools to fit parameters of stochastic connectivity models against existing connectomes. This enables rapid replacement of any existing connectome with equivalent connectomes at different levels of complexity, or transplantation of connectivity features from one connectome to another, for systematic study. We employed the framework in a detailed model of rat somatosensory cortex in two exemplary use cases: transplanting interneuron connectivity trends from electron microscopy data and creating simplified connectomes of excitatory connectivity. We ran a series of network simulations and found diverse shifts in the activity of individual neuron populations causally linked to these manipulations.\n\n### Competing Interest Statement\n\nThe authors have declared no competing interest.",
+                "title": "A connectome manipulation framework for the systematic and reproducible study of structure-function relationships through simulations",
+                "title_link": "https:\/\/www.biorxiv.org\/content\/10.1101\/2024.05.24.593860v2",
+                "service_name": "bioRxiv"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KEiAH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.biorxiv.org\/content\/10.1101\/2024.05.24.593860v2",
+                                "text": "https:\/\/www.biorxiv.org\/content\/10.1101\/2024.05.24.593860v2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

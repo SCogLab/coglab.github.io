@@ -1,0 +1,68 @@
+[
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1495391392.290607",
+        "text": "<https:\/\/www.sciencedaily.com\/releases\/2017\/05\/170520085344.htm> <@U03JDJWSR>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ScienceDaily",
+                "title": "Wearable Devices Communicate Vital Brain Activity Information",
+                "title_link": "https:\/\/www.sciencedaily.com\/releases\/2017\/05\/170520085344.htm",
+                "text": "What can we learn about emotions, the brain and behavior from a wristband? Plenty, according to a prominent engineer.",
+                "fallback": "ScienceDaily: Wearable Devices Communicate Vital Brain Activity Information",
+                "from_url": "https:\/\/www.sciencedaily.com\/releases\/2017\/05\/170520085344.htm",
+                "service_icon": "https:\/\/www.sciencedaily.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WsV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sciencedaily.com\/releases\/2017\/05\/170520085344.htm"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03JDJWSR"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

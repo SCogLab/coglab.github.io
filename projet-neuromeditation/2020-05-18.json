@@ -1,0 +1,129 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1589793126.005000",
+        "client_msg_id": "e34cbe09-d0f7-4d05-908b-963019d78f7f",
+        "text": "De quelle manière souhaites tu que l’on t’aide Maike ? Des suggestions sur un document ? Directement dans les formulaires ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1589644550.002700",
+        "parent_user_id": "ULSDVUUVA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VXc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "De quelle manière souhaites tu que l’on t’aide Maike ? Des suggestions sur un document ? Directement dans les formulaires ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1589827776.005300",
+        "client_msg_id": "b6594d19-06fc-4505-9f79-f93a61347c38",
+        "text": "<https:\/\/www.kickstarter.com\/projects\/jdchibuk\/smart-glasses-that-help-you-relax-and-perform\/description>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WGqjj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kickstarter.com\/projects\/jdchibuk\/smart-glasses-that-help-you-relax-and-perform\/description"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "ULSDVUUVA",
+        "type": "message",
+        "ts": "1589865572.005400",
+        "client_msg_id": "26798b56-a29e-49ef-942d-df68ea9b3aa9",
+        "text": "Dans un premier temps qqn qui vérifie la wording en français (et également anglais). Il faut que ce soit :100: native. Dans un premier temps, c'était super d'échanger avec qqn qui a des expériences avec la construction des questionnaires sociale, Hans a eu l'idée de demander Roselyne.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "d6568f25a9a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-08\/3075305835828_d6568f25a9a41b2be2ef_72.jpg",
+            "first_name": "Maike",
+            "real_name": "Maike",
+            "display_name": "Maike",
+            "team": "T03FC4NDZ",
+            "name": "maikeherbort",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1589644550.002700",
+        "parent_user_id": "ULSDVUUVA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/J0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dans un premier temps qqn qui vérifie la wording en français (et également anglais). Il faut que ce soit "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "100",
+                                "unicode": "1f4af"
+                            },
+                            {
+                                "type": "text",
+                                "text": " native. Dans un premier temps, c'était super d'échanger avec qqn qui a des expériences avec la construction des questionnaires sociale, Hans a eu l'idée de demander Roselyne."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

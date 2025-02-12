@@ -1,0 +1,28 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "CogLab HackNight #54: <!date^1507570200^{date_short_pretty} from {time}|October 9th, 2017 from 7:30 PM> to <!date^1507584600^{time}|11:30 PM GMT+0200>",
+                "text": "<!date^1507570200^{date_short_pretty} from {time}|October 9th, 2017 from 7:30 PM> to <!date^1507584600^{time}|11:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #54",
+                "more": "HackNight #54\n\nOrdre du jour :\n- Team OpenBC[IA] : experimentation et prototypage (Hans &amp; Maxence)\n- Team Autispace : benchmark technique VR + protocol expérimental UX (Murielle, Isabelle, Murielle, Romain, Roselyne)\n- Workshop Resilient Cities avec Karine (Transmedia Ready)\n\nLieu : \n- Skype HackNight <https:\/\/join.skype.com\/jSrxm2kHx3PU>\n- Locaux af83 avec Romain pour ceux qui veulent (merci de prévenir avant !)\nSignalé : \n\n\nDocumentation\n- Projet BC[IA] <http:\/\/www.coglab.fr\/portfolio\/openbcia>\n- Projet Autispace <http:\/\/www.coglab.fr\/portfolio\/autispace\/>\n\nInteractions :\n- Agenda CogLab <https:\/\/paper.dropbox.com\/doc\/Agenda-CogLab-NeuroTechX-Paris-a6pJbEvbJvWdJ3fHeF9JJ>\n- Slack : <https:\/\/scoglab.slack.com>\n- Communauté Facebook : <https:\/\/www.facebook.com\/groups\/coglab\/>\n- Twitter : <https:\/\/twitter.com\/SCogLab>\n- Site web : <http:\/\/coglab.fr\/>",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MWFqNmlhdTgwaWMyaGpycHBpdTAwcW11MG1fMjAxNzEwMDlUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1507566600.000448",
+        "bot_id": "B4SJBP2L8"
+    }
+]

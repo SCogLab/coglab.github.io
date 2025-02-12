@@ -1,0 +1,61 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U011QR6T7PD",
+        "text": "<@U011QR6T7PD> a rejoint le canal",
+        "type": "message",
+        "ts": "1586789956.004600"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U012CBGBHNC",
+        "text": "<@U012CBGBHNC> a rejoint le canal",
+        "type": "message",
+        "ts": "1586793002.004800"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1586796729.006400",
+        "client_msg_id": "4170530d-1b6b-4201-acf7-28cf7fa9e36f",
+        "text": "Bonjour, nous sommes actuellement une 10aines en ligne, sur des discussions très orientée NeuroTech, en anglais.\nN’hésitez pas à signaler si vous souhaitez échanger sur un sujet en particulier, en français ou anglais",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HbT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour, nous sommes actuellement une 10aines en ligne, sur des discussions très orientée NeuroTech, en anglais.\nN’hésitez pas à signaler si vous souhaitez échanger sur un sujet en particulier, en français ou anglais"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U011R7MSU0K",
+        "text": "<@U011R7MSU0K> a rejoint le canal",
+        "type": "message",
+        "ts": "1586800866.006600"
+    }
+]

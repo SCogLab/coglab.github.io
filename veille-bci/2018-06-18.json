@@ -1,0 +1,121 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1529323219.000206",
+        "client_msg_id": "da9088ef-3aaa-421e-ae75-05c146507a30",
+        "text": "<http:\/\/www.cell-symposia.com\/neurotechnologies-2018\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Home - Cell Symposium: Neurotechnologies",
+                "title_link": "http:\/\/www.cell-symposia.com\/neurotechnologies-2018\/",
+                "text": "Cell Symposia: Cell Symposium: Neurotechnologies, Recent technological advances from fields as diverse as gene and protein engineering to optics, photonics, chemistry, materials science, nanoscience, electrophysiology...",
+                "fallback": "Home - Cell Symposium: Neurotechnologies",
+                "from_url": "http:\/\/www.cell-symposia.com\/neurotechnologies-2018\/",
+                "service_name": "cell-symposia.com",
+                "id": 1,
+                "original_url": "http:\/\/www.cell-symposia.com\/neurotechnologies-2018\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zz9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.cell-symposia.com\/neurotechnologies-2018\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1529350746.000329",
+        "client_msg_id": "363c6f52-f45c-43b4-8a3f-b8f466cd3faf",
+        "text": "<https:\/\/github.com\/makebrainwaves\/emotiv-observable>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "makebrainwaves\/emotiv-observable",
+                "text": "Making Emotiv Cortex SDK for Node Reactive",
+                "title": "makebrainwaves\/emotiv-observable",
+                "footer": "<https:\/\/github.com\/makebrainwaves\/emotiv-observable|makebrainwaves\/emotiv-observable>",
+                "id": 1,
+                "footer_icon": "https:\/\/assets-cdn.github.com\/favicon.ico",
+                "ts": 1529346034,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Language",
+                        "value": "JavaScript",
+                        "short": true
+                    },
+                    {
+                        "title": "Last updated",
+                        "value": "43 minutes ago",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "BA73T1BTJ",
+                "app_unfurl_url": "https:\/\/github.com\/makebrainwaves\/emotiv-observable",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UP7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/makebrainwaves\/emotiv-observable"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

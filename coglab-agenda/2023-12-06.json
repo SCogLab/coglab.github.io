@@ -1,0 +1,64 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U058UQCU7R9",
+        "text": "<@U058UQCU7R9> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1701892988.588249"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1701893200.993219",
+        "client_msg_id": "b3b3e14a-e264-4691-ae64-fa840b817921",
+        "text": "Hey <@U59MQ46DA> <@U058UQCU7R9> j’ai cru comprendre qu’une discussion sur un papier est prévue demain, je l’ai ajouté à notre agenda partagé pour la documentation (pas sûr de la plage horaire, n’hésitez pas à ajuster)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cT+bJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U058UQCU7R9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " j’ai cru comprendre qu’une discussion sur un papier est prévue demain, je l’ai ajouté à notre agenda partagé pour la documentation (pas sûr de la plage horaire, n’hésitez pas à ajuster)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

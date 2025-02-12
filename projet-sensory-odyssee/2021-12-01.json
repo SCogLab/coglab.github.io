@@ -1,0 +1,63 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1638382466.000100",
+        "client_msg_id": "05ac9b39-c60c-4344-bf1c-0de2356c6107",
+        "text": "Hello <@U02GLDK69UJ> sais-tu si des personnes de COGitERGO passent au CRI ou si vous vous retrouvez tous au Muséum ?\n\nPour savoir si je rentre au chaud et vais bosser de chez moi :slightly_smiling_face: cc <@U59MQ46DA>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1638134720.039200",
+        "parent_user_id": "U02GLDK69UJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OIBi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02GLDK69UJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sais-tu si des personnes de COGitERGO passent au CRI ou si vous vous retrouvez tous au Muséum ?\n\nPour savoir si je rentre au chaud et vais bosser de chez moi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

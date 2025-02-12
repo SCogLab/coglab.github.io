@@ -1,0 +1,55 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1450355583.000002",
+        "text": "<http:\/\/neurotechnews.com\/?p=386>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "NeuroTech News",
+                "title": "OpenBCI: Bringing an Open-Source approach to Brain Science and BCI",
+                "title_link": "http:\/\/neurotechnews.com\/?p=386",
+                "text": "Things have really been picking up at OpenBCI this Fall and they are ending the year with a bang with their newest Kickstarter campaign! Joel Murphy (@safeforrobots) and Conor Russomanno (@russomanno15), the co-founders of OpenBCI (@OpenBCI), which stands…",
+                "fallback": "NeuroTech News: OpenBCI: Bringing an Open-Source approach to Brain Science and BCI",
+                "image_url": "http:\/\/i1.wp.com\/neurotechnews.com\/wp-content\/uploads\/2015\/12\/DSC_0071_Small.jpg?resize=4608%2C2586",
+                "image_width": 445,
+                "image_height": 250,
+                "ts": 1450284333,
+                "from_url": "http:\/\/neurotechnews.com\/?p=386",
+                "image_bytes": 963827,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mb\/m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/neurotechnews.com\/?p=386"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

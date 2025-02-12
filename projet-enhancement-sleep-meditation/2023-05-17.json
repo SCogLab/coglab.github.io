@@ -1,0 +1,65 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1684322364.178509",
+        "client_msg_id": "e03b126d-0375-49b9-babb-40a6a9fac7d0",
+        "text": "Vidéo de Marc Roux mentionnant le projet : <https:\/\/youtu.be\/wJeAJXchBLk?t=592>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/wJeAJXchBLk?t=592",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/wJeAJXchBLk\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/wJeAJXchBLk?start=592&feature=oembed&start=592&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"Les Communautés Transhumanistes à Travers Le Monde - AFT Technoprog (France)\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/wJeAJXchBLk?t=592",
+                "fallback": "YouTube Video: Les Communautés Transhumanistes à Travers Le Monde - AFT Technoprog (France)",
+                "title": "Les Communautés Transhumanistes à Travers Le Monde - AFT Technoprog (France)",
+                "title_link": "https:\/\/youtu.be\/wJeAJXchBLk?t=592",
+                "author_name": "Association Française Transhumaniste",
+                "author_link": "https:\/\/www.youtube.com\/@AssociationTranshumaniste",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g4Kq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vidéo de Marc Roux mentionnant le projet : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/wJeAJXchBLk?t=592"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

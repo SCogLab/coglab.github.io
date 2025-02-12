@@ -1,0 +1,60 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1577099278.000700",
+        "client_msg_id": "d74a02ef-8fab-43d0-94a1-50f0cf55a427",
+        "text": "Bon, ça n’est pas pour tout de suite (26 mars) : <https:\/\/neo4j.com\/lp\/graphtour-paris\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Neo4j Graph Database Platform",
+                "title": "Graph Tour Paris 2020 - Neo4j Graph Database Platform",
+                "title_link": "https:\/\/neo4j.com\/lp\/graphtour-paris\/",
+                "fallback": "Neo4j Graph Database Platform: Graph Tour Paris 2020 - Neo4j Graph Database Platform",
+                "image_url": "https:\/\/s3.amazonaws.com\/dev.assets.neo4j.com\/wp-content\/uploads\/20190822071359\/neo4j-database-meta-image.png",
+                "image_width": 478,
+                "image_height": 250,
+                "from_url": "https:\/\/neo4j.com\/lp\/graphtour-paris\/",
+                "image_bytes": 17297,
+                "service_icon": "https:\/\/neo4j.com\/wp-content\/themes\/neo4jweb\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/neo4j.com\/lp\/graphtour-paris\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Te2k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bon, ça n’est pas pour tout de suite (26 mars) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/neo4j.com\/lp\/graphtour-paris\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

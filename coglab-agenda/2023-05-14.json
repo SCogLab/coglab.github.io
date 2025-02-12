@@ -1,0 +1,64 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There are *2* events this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "Fresco - Soirée Inter-associative :birthday:: <!date^1684512000^{date_short_pretty} from {time}|May 19th, 2023 from 6:00 PM> to <!date^1684522800^{time}|9:00 PM GMT+0200>",
+                "text": "<!date^1684512000^{date_short_pretty} from {time}|May 19th, 2023 from 6:00 PM> to <!date^1684522800^{time}|9:00 PM GMT+0200>",
+                "title": "Fresco - Soirée Inter-associative :birthday:",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NmZ2cmluN2RtcnZpdWtvN2VsZW1iamt0aWwgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            },
+            {
+                "id": 2,
+                "color": "7bd148",
+                "fallback": "CJC-SC: <!date^1684566000^{date_short_pretty} from {time}|May 20th, 2023 from 9:00 AM> to <!date^1684598400^{time}|6:00 PM GMT+0200>",
+                "text": "<!date^1684566000^{date_short_pretty} from {time}|May 20th, 2023 from 9:00 AM> to <!date^1684598400^{time}|6:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=%C3%89cole+Normale+Sup%C3%A9rieure%2C+45+Rue+d%27Ulm%2C+75005+Paris%2C+France|École Normale Supérieure, 45 Rue d'Ulm, 75005 Paris, France>",
+                "title": "CJC-SC",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MzNramdqcGN1MmUyN2VxM2RpdTE2cjRnOHIgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1684130404.315379",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PRq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "2",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " events this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

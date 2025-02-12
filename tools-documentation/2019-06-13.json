@@ -1,0 +1,60 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1560438513.000700",
+        "client_msg_id": "55fbfbb8-0b9e-4a7c-9261-4113af27fb13",
+        "text": "Le protocole Matrix est finalisé, il y a l'option de passer sur Riot ou Synapse\n<https:\/\/matrix.org\/blog\/2019\/06\/11\/synapse-1-0-0-released>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Matrix.org blog",
+                "title": "Synapse 1.0.0 released | Matrix.org",
+                "title_link": "https:\/\/matrix.org\/blog\/2019\/06\/11\/synapse-1-0-0-released",
+                "text": "Well here it is: Synapse 1.0. Synapse 1.0 is the reference implementation of the Matrix 1.0 spec . The goal of the release overall has been…",
+                "fallback": "Matrix.org blog: Synapse 1.0.0 released | Matrix.org",
+                "thumb_url": "https:\/\/matrix.org\/blog\/wp-content\/uploads\/2015\/01\/logo1.png",
+                "from_url": "https:\/\/matrix.org\/blog\/2019\/06\/11\/synapse-1-0-0-released",
+                "thumb_width": 279,
+                "thumb_height": 129,
+                "service_icon": "https:\/\/matrix.org\/icons\/icon-48x48.png?v=c3218c2bc77db8b5c11cd8fc8f765bec",
+                "id": 1,
+                "original_url": "https:\/\/matrix.org\/blog\/2019\/06\/11\/synapse-1-0-0-released"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XgE1T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le protocole Matrix est finalisé, il y a l'option de passer sur Riot ou Synapse\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/matrix.org\/blog\/2019\/06\/11\/synapse-1-0-0-released"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

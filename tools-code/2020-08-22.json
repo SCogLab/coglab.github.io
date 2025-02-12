@@ -1,0 +1,53 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1598093424.000200",
+        "client_msg_id": "d4c72df6-3b8b-47bd-a1ae-5d616e90d8e3",
+        "text": "<https:\/\/omeka.org\/s\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "                      Omeka S                       ",
+                "title_link": "https:\/\/omeka.org\/s\/",
+                "text": "Omeka is a free, flexible, and open source web-publishing platform for the display of library, museum, archives, and scholarly collections and exhibitions. Its five-minute setup makes launching an online archive or exhibition as easy as launching a blog.",
+                "fallback": "                      Omeka S                       ",
+                "from_url": "https:\/\/omeka.org\/s\/",
+                "service_icon": "https:\/\/omeka.org\/favicon.ico",
+                "service_name": "omeka.org",
+                "id": 1,
+                "original_url": "https:\/\/omeka.org\/s\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EUA+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/omeka.org\/s\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

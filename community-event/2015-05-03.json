@@ -1,0 +1,55 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Nous n'avons pas été retenu par le jury finalement, il y avait une deuxième sélection en fait ! :(\n\nOn nous propose quand même de continuer à bénéficier de leur aide et d'avoir un stand le samedi 6 juin",
+                "text": "Nous n'avons pas été retenu par le jury finalement, il y avait une deuxième sélection en fait ! :(\n\nOn nous propose quand même de continuer à bénéficier de leur aide et d'avoir un stand le samedi 6 juin",
+                "pretext": "New comment on card \"<https:\/\/trello.com\/c\/g5MmViDI|L'Échappée Volée>\" by Rouffi",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "ts": "1430671941.000002",
+        "bot_id": "B03UHP1LD"
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1430672713.000003",
+        "text": ":( mais le dossier peut servir à un autre moment",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t4IV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": ":( mais le dossier peut servir à un autre moment"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

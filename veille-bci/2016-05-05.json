@@ -1,0 +1,112 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1462483841.000002",
+        "text": "<http:\/\/www.npr.org\/2011\/05\/12\/135598390\/mind-reading-technology-turns-thought-into-action>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "NPR.org",
+                "title": "Mind Reading: Tech Turns Thought Into Action",
+                "title_link": "http:\/\/www.npr.org\/2011\/05\/12\/135598390\/mind-reading-technology-turns-thought-into-action",
+                "text": "Scientists are using a combination of software and electrodes implanted on the brain to eavesdrop on the mind. In one experiment, researchers determined what word a patient was thinking; in another, a patient used his thoughts alone to control an image on a computer screen.",
+                "fallback": "NPR.org: Mind Reading: Tech Turns Thought Into Action",
+                "image_url": "https:\/\/media.npr.org\/assets\/img\/2011\/04\/21\/amnh-video-5_wide-5f485656431e9078ddc2652b21b30e0434fe0092.jpg?s=1400",
+                "from_url": "http:\/\/www.npr.org\/2011\/05\/12\/135598390\/mind-reading-technology-turns-thought-into-action",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 59416,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GK86",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.npr.org\/2011\/05\/12\/135598390\/mind-reading-technology-turns-thought-into-action"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1462483863.000004",
+        "text": "cc <@U03FEH3N8> \n<http:\/\/www.studycatalog.org\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zppp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.studycatalog.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FEH3N8"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

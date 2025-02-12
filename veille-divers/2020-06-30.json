@@ -1,0 +1,65 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1593507311.000600",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1593507349.000000"
+        },
+        "client_msg_id": "efc6a959-5dc1-4346-b42e-ffc1ddead67f",
+        "text": "Une plateforme pour mener des expérimentations en ligne et faciliter les multi-sessions : <https:\/\/gorilla.sc>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Gorilla",
+                "title": "Gorilla Experiment Builder",
+                "title_link": "https:\/\/gorilla.sc\/",
+                "text": "We help ambitious behavioural scientists run novel online experiments easily",
+                "fallback": "Gorilla: Gorilla Experiment Builder",
+                "image_url": "https:\/\/gorilla.sc\/images\/gorilla_logo_facebook_red.png",
+                "from_url": "https:\/\/gorilla.sc\/",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 15590,
+                "service_icon": "https:\/\/gorilla.sc\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/gorilla.sc"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y0w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Une plateforme pour mener des expérimentations en ligne et faciliter les multi-sessions : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gorilla.sc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

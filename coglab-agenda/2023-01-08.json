@@ -1,0 +1,52 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There is *1* event this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "HackNight NeuroTechX Paris: <!date^1673286000^{date_short_pretty} from {time}|January 9th, 2023 from 6:40 PM> to <!date^1673296200^{time}|9:30 PM GMT+0100>",
+                "text": "<!date^1673286000^{date_short_pretty} from {time}|January 9th, 2023 from 6:40 PM> to <!date^1673296200^{time}|9:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Learning+Planet+Institute%29+-+Inserm+University+Paris+City+%288+bis+Rue+Charles+V%2C+Paris%2C+France+75004%29|Learning Planet Institute) - Inserm University Paris City (8 bis Rue Charles V, Paris, France 75004)>",
+                "title": "HackNight NeuroTechX Paris",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=X2NscjZhcmprYnNwM2ljMW42Z3BqZ2U5azgxbW1hcGJrZWxvMnNvcmZkayBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1673247603.019069",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xAA\/S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "1",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " event this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

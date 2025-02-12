@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1506060504.000097",
+        "text": "open source software to monitor sleep and visualize eed data <http:\/\/journal.frontiersin.org\/article\/10.3389\/fninf.2017.00060\/full>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Frontiers",
+                "title": "Sleep: An Open-Source Python Software for Visualization, Analysis, and Staging of Sleep Data",
+                "title_link": "http:\/\/journal.frontiersin.org\/article\/10.3389\/fninf.2017.00060\/full",
+                "text": "We introduce Sleep, a new Python open-source graphical user interface (GUI) dedicated to visualization, scoring and analyses of sleep data. Among its most prominent features are: 1) Dynamic display of polysomnographic data, spectrogram, hypnogram and topographic maps with several customizable parameters, 2) Implementation of several automatic detection of sleep features such as spindles, K-complexes, slow waves and rapid eye movements, 3) Implementation of practical signal processing tools such as re-referencing or filtering, and 4) Display of main descriptive statistics including publication-ready tables and figures. The software package supports loading and reading raw EEG data from a standard file formats such as European Data Format, in addition to a range of commercial data formats. Most importantly, Sleep is built on top of the VisPy library, which provides GPU-based fast and high-level visualization. As a result, it is capable of efficiently handling and displaying large sleep datasets. Sleep is freely available (<http:\/\/visbrain.org\/sleep>) and comes with sample datasets and an extensive documentation. Novel functionalities will continue to be added and open-science community efforts are expected to enhance the capacities of this module.",
+                "fallback": "Frontiers: Sleep: An Open-Source Python Software for Visualization, Analysis, and Staging of Sleep Data",
+                "image_url": "http:\/\/www.frontiersin.org\/files\/MyHome%20Article%20Library\/292274\/292274_Thumb_400.jpg",
+                "from_url": "http:\/\/journal.frontiersin.org\/article\/10.3389\/fninf.2017.00060\/full",
+                "image_width": 400,
+                "image_height": 186,
+                "image_bytes": 11327,
+                "service_icon": "https:\/\/3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com\/favicon_16x16.ico",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wql",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "open source software to monitor sleep and visualize eed data "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/journal.frontiersin.org\/article\/10.3389\/fninf.2017.00060\/full"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

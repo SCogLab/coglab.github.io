@@ -1,0 +1,52 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1549738029.000200",
+        "client_msg_id": "0b860ae3-d702-4c46-b23b-11d17f45ccfd",
+        "text": "<https:\/\/opensourcelab.dfki.de\/approach\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Approach – open source lab",
+                "title_link": "https:\/\/opensourcelab.dfki.de\/approach\/",
+                "text": "Open Source Lab on Sustainable Mobility",
+                "fallback": "Approach – open source lab",
+                "from_url": "https:\/\/opensourcelab.dfki.de\/approach\/",
+                "service_name": "opensourcelab.dfki.de",
+                "id": 1,
+                "original_url": "https:\/\/opensourcelab.dfki.de\/approach\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u1Qu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/opensourcelab.dfki.de\/approach\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

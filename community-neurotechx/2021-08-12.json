@@ -1,0 +1,192 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1628774159.001800",
+        "client_msg_id": "05b0ab60-4aed-4dc9-a4a0-8ae3aeabc617",
+        "text": "NeuroTechX Toronto propose une série de showcase sur les neurotechs qui a démarrée ce matin (très très tôt ^_^) cf : <https:\/\/www.meetup.com\/fr-FR\/NeuroTechTO\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "NeuroTechTO (Toronto, ON)",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/NeuroTechTO\/",
+                "text": "NeuroTechTO - the Toronto chapter of the international NeuroTechX (<http:\/\/neurotechx.com\/>) network: a community of passionate and motivated learners with an avid enthusiasm toward the interaction betw",
+                "fallback": "Meetup: NeuroTechTO (Toronto, ON)",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/d\/4\/4\/f\/600_496974351.jpeg",
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/NeuroTechTO\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 14959,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/fr-FR\/m_swarm_120x120.4f86abc9.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/NeuroTechTO\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W\/O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "NeuroTechX Toronto propose une série de showcase sur les neurotechs qui a démarrée ce matin (très très tôt ^_^) cf : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/NeuroTechTO\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1628774438.004000",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1628774465.000000"
+        },
+        "client_msg_id": "62b4e095-621b-4786-9eae-c9898965a726",
+        "text": "Evidemment, les replays seront disponibles sur le channel Youtube de NeuroTechX (exemple avec celui d’hier avec Kyle Mathewson de <https:\/\/blueberryx.com\/|BlueberryX> et Alexander Ni de <https:\/\/www.divergenceneuro.com\/|divergence neuro>) : <https:\/\/www.youtube.com\/watch?v=UMV-lTp5R7M>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Blueberry",
+                "title_link": "https:\/\/blueberryx.com\/",
+                "text": "Bio-sensing that helps you think. Blueberry pod's are designed to help you understand your mind and body. Real-time head-up feedback | Brain sensing technology | Works with your existing pair of glasses, over the ear headphone or a soft headband. Wireless connectivity | Insight dashboard on your phone and laptop",
+                "fallback": "Blueberry",
+                "image_url": "http:\/\/cdn.shopify.com\/s\/files\/1\/0304\/7905\/7027\/files\/blueberry_video_start_3791f7c8-273a-4fb0-8dff-3ee97f25cff1.png?v=1615646972",
+                "image_width": 452,
+                "image_height": 250,
+                "from_url": "https:\/\/blueberryx.com\/",
+                "image_bytes": 6139506,
+                "service_icon": "http:\/\/cdn.shopify.com\/s\/files\/1\/0304\/7905\/7027\/files\/logo_751c0d51-c8ff-410e-9597-5b27ae561b98_32x32.png?v=1598187965",
+                "service_name": "blueberryx.com",
+                "id": 1,
+                "original_url": "https:\/\/blueberryx.com\/"
+            },
+            {
+                "service_name": "Divergence Neuro",
+                "title": "Divergence Neuro – The future of neuro health is here!",
+                "title_link": "https:\/\/www.divergenceneuro.com\/",
+                "text": "Divergence enhances clinical and personal assessment by supplementing self-reporting methods with an easy-to-understand, cloud-based EEG software platform.",
+                "fallback": "Divergence Neuro: Divergence Neuro – The future of neuro health is here!",
+                "image_url": "https:\/\/www.divergenceneuro.com\/wp-content\/uploads\/2021\/01\/139745766_100457335378835_555388625768354866_n.jpg",
+                "fields": [
+                    {
+                        "title": "Est. reading time",
+                        "value": "19 minutes",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.divergenceneuro.com\/",
+                "image_width": 248,
+                "image_height": 250,
+                "image_bytes": 17202,
+                "service_icon": "https:\/\/www.divergenceneuro.com\/wp-content\/uploads\/2021\/01\/cropped-logo-new-1-180x180.png",
+                "id": 2,
+                "original_url": "https:\/\/www.divergenceneuro.com\/"
+            },
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "NeuroTechX Showcase series - Season 1 (Episode 1): Industry and Academia, Synergies and Market",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=UMV-lTp5R7M",
+                "author_name": "NeuroTechX",
+                "author_link": "https:\/\/www.youtube.com\/c\/NeuroTechX",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/UMV-lTp5R7M\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: NeuroTechX Showcase series - Season 1 (Episode 1): Industry and Academia, Synergies and Market",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/UMV-lTp5R7M?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=UMV-lTp5R7M",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 3,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=UMV-lTp5R7M"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3bu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Evidemment, les replays seront disponibles sur le channel Youtube de NeuroTechX (exemple avec celui d’hier avec Kyle Mathewson de "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/blueberryx.com\/",
+                                "text": "BlueberryX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et Alexander Ni de "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.divergenceneuro.com\/",
+                                "text": "divergence neuro"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=UMV-lTp5R7M"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1566897835.000700",
+        "client_msg_id": "1e4b0a56-5adc-45d3-bb26-bf4fc3472936",
+        "text": "Merci <@ULSDVUUVA> pour la découverte <https:\/\/siyli.org\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "SIYLI",
+                "title": "SIYLI | Mindfulness and Emotional Intelligence Leadership Training",
+                "title_link": "https:\/\/siyli.org\/",
+                "text": "Bring our Google-born mindfulness, emotional intelligence, and leadership training to your organization. Or attend one of our public programs around the world.",
+                "fallback": "SIYLI: SIYLI | Mindfulness and Emotional Intelligence Leadership Training",
+                "thumb_url": "https:\/\/siyli.org\/uploads\/general\/_seoStandard\/Vertical-logo.png",
+                "from_url": "https:\/\/siyli.org\/",
+                "thumb_width": 1200,
+                "thumb_height": 900,
+                "service_icon": "https:\/\/siyli.org\/dist\/images\/favicons\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/siyli.org\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CQy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "ULSDVUUVA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour la découverte "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/siyli.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

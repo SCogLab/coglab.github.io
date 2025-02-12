@@ -1,0 +1,118 @@
+[
+    {
+        "user": "URS0PAL8Y",
+        "type": "message",
+        "ts": "1599994888.011500",
+        "client_msg_id": "64b05fcf-42f7-4433-8a81-88982f9f960f",
+        "text": "Hello guys ! Dans le cadre de mon master je travaille sur une mission à l'APHP (hôpitaux de Paris) sur la détection de la douleur chez le nouveau-né. Pensez-vous que l'on puisse analyser les signaux EEG pour détecter une douleur ? (Voire en croisant les données avec de l'analyse ECG). Merci par avance :)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "94d54365e2ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/866882619345_94d54365e2eeb08c613b_72.jpg",
+            "first_name": "Paul",
+            "real_name": "Paul Barbaste",
+            "display_name": "PaulB",
+            "team": "T03FC4NDZ",
+            "name": "paulbarbaste",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1599994888.011500",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1600617661.000200",
+        "reply_users": [
+            "U014STZS797",
+            "URS0PAL8Y",
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U014STZS797",
+                "ts": "1600006956.014200"
+            },
+            {
+                "user": "URS0PAL8Y",
+                "ts": "1600076879.014500"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1600117628.014900"
+            },
+            {
+                "user": "URS0PAL8Y",
+                "ts": "1600617661.000200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "acll",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello guys ! Dans le cadre de mon master je travaille sur une mission à l'APHP (hôpitaux de Paris) sur la détection de la douleur chez le nouveau-né. Pensez-vous que l'on puisse analyser les signaux EEG pour détecter une douleur ? (Voire en croisant les données avec de l'analyse ECG). Merci par avance :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U014STZS797",
+        "type": "message",
+        "ts": "1600006956.014200",
+        "client_msg_id": "9DB6B10E-5D1E-4120-AA18-8A168BC780AB",
+        "text": "Hello ! Tu peux peut-être regarder les travaux de Ghislaine Dehaene -Lambertz, notamment le BABYLAB. Elle travaille beaucoup avec les nouveaux nés. Peut-être qu’elle décrit les outils d’analyse utilisés dans ses articles... ",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "6ea05047a3d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-28\/1150591839426_6ea05047a3d35fa73d56_72.png",
+            "first_name": "Lirola",
+            "real_name": "Lirola Rose-Marie",
+            "display_name": "Rose-Marie",
+            "team": "T03FC4NDZ",
+            "name": "rose-marie.lirola",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1599994888.011500",
+        "parent_user_id": "URS0PAL8Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8TL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello ! Tu peux peut-être regarder les travaux de Ghislaine Dehaene -Lambertz, notamment le BABYLAB. Elle travaille beaucoup avec les nouveaux nés. Peut-être qu’elle décrit les outils d’analyse utilisés dans ses articles... "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "URS0PAL8Y"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1601889687.000300",
+        "client_msg_id": "9ce26cd8-6da2-40b4-bf62-ba25480e3a98",
+        "text": "Join us for our weekly Paris HackNight today\n<https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/273603523\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "HackNight N°166 \"Annual activity report\" (online)",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/273603523\/",
+                "text": "lun. 5 oct. 2020 à 18:30: (English version available below)*** Programme de la soirée ***1. Keynote (EN\/FR - 18h30-19h00)Présentation d’une synthèse des activités de l’association et appel à intérêt s",
+                "fallback": "Meetup: HackNight N°166 \"Annual activity report\" (online)",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/9\/d\/7\/600_492662519.jpeg",
+                "fields": [
+                    {
+                        "title": "Où",
+                        "value": "Événement en ligne",
+                        "short": true
+                    },
+                    {
+                        "title": "Quand",
+                        "value": "lun. 5 oct. 2020 à 18:30",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/273603523\/",
+                "image_width": 445,
+                "image_height": 250,
+                "image_bytes": 272687,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/fr-FR\/m_swarm_120x120.4f86abc9.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/273603523\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RBc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Join us for our weekly Paris HackNight today\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/273603523\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,120 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U59MQ46DA",
+        "text": "<@U59MQ46DA> a rejoint le canal",
+        "type": "message",
+        "ts": "1688820588.073819"
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1688821273.028809",
+        "client_msg_id": "06e1a1ad-e3ea-4b68-a91b-f33bfc55d64f",
+        "text": "Si vous voulez discuter\/participer en ligne l'adresse Google Meet : <https:\/\/meet.google.com\/rrc-zqcv-gus>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/meet.google.com\/rrc-zqcv-gus",
+                "service_icon": "http:\/\/fonts.gstatic.com\/s\/i\/productlogos\/meet_2020q4\/v1\/web-24dp\/logo_meet_2020q4_color_1x_web_24dp.png",
+                "thumb_url": "https:\/\/fonts.gstatic.com\/s\/i\/productlogos\/meet_2020q4\/v1\/web-96dp\/logo_meet_2020q4_color_2x_web_96dp.png",
+                "thumb_width": 192,
+                "thumb_height": 192,
+                "id": 1,
+                "original_url": "https:\/\/meet.google.com\/rrc-zqcv-gus",
+                "fallback": "Meet",
+                "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+                "title": "Meet",
+                "title_link": "https:\/\/meet.google.com\/rrc-zqcv-gus",
+                "service_name": "meet.google.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AAa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si vous voulez discuter\/participer en ligne l'adresse Google Meet : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meet.google.com\/rrc-zqcv-gus"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1688821453.115519",
+        "client_msg_id": "4a99b9d8-1686-46be-b539-9d3ff0566b7f",
+        "text": "La thématique principale pour la séance d'aujourd'hui (et celle de la semaine prochaine) est NeuroArt (veille, curation, etc). The main topic for today (and next week) is NeuroArt (intelligence &amp; curation).",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TuP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La thématique principale pour la séance d'aujourd'hui (et celle de la semaine prochaine) est NeuroArt (veille, curation, etc). The main topic for today (and next week) is NeuroArt (intelligence & curation)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U59MQ46DA",
+        "purpose": "OpenCoglab Sessions : a main topic will be set for the day (mostly a topic for 3 to 5 sessions) concerning neurotechnologies and the possible applications (Disability, NeuroArt, well being\/medical, Brain\/NeuroData, Design, etc)",
+        "text": "a défini la description du canal : OpenCoglab Sessions : a main topic will be set for the day (mostly a topic for 3 to 5 sessions) concerning neurotechnologies and the possible applications (Disability, NeuroArt, well being\/medical, Brain\/NeuroData, Design, etc)",
+        "type": "message",
+        "ts": "1688821732.894079"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FC5ZAK",
+        "text": "<@U03FC5ZAK> a rejoint le canal",
+        "type": "message",
+        "ts": "1688849177.154879"
+    }
+]

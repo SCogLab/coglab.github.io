@@ -1,0 +1,85 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1563145043.001200",
+        "client_msg_id": "4cb8f16b-86ef-46f0-8ca7-7bbc2364d85d",
+        "text": "Mesure des émotions du (télé)spectateur par Médiamétrie via une ia développée par Datakalab (<https:\/\/www.datakalab.com>) : <http:\/\/www.lefigaro.fr\/medias\/mediametrie-mesure-l-emotion-des-spectateurs-grace-a-l-intelligence-artificielle-20190712>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Datakalab - Start Up dans la Brain Tech",
+                "title_link": "https:\/\/www.datakalab.com\/",
+                "text": "Datakalab est la première start-up dans la braintech qui mesure les émotions des consommateurs à l’aide d’outils issus des neurosciences pour...",
+                "fallback": "Datakalab - Start Up dans la Brain Tech",
+                "image_url": "https:\/\/static.wixstatic.com\/media\/7136c7_f4c05d71522a4e79a7b3a043cbc44c6a%7Emv2.jpg",
+                "from_url": "https:\/\/www.datakalab.com\/",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 127057,
+                "service_icon": "https:\/\/static.wixstatic.com\/media\/7136c7_f4c05d71522a4e79a7b3a043cbc44c6a%7Emv2.jpg\/v1\/fill\/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01\/7136c7_f4c05d71522a4e79a7b3a043cbc44c6a%7Emv2.jpg",
+                "service_name": "datakalab.com",
+                "id": 1,
+                "original_url": "https:\/\/www.datakalab.com"
+            },
+            {
+                "title": "Médiamétrie mesure l’émotion des spectateurs grâce à l’intelligence artificielle ",
+                "title_link": "http:\/\/www.lefigaro.fr\/medias\/mediametrie-mesure-l-emotion-des-spectateurs-grace-a-l-intelligence-artificielle-20190712",
+                "text": "Mesurer l’empathie, la peur, la joie... et tous les sentiments des spectateurs face à un film, grâce à l’analyse des données. C’est possible désormais.",
+                "fallback": "Médiamétrie mesure l’émotion des spectateurs grâce à l’intelligence artificielle ",
+                "image_url": "https:\/\/i.f1g.fr\/media\/eidos\/680x382_crop\/2019\/07\/12\/XVM8e69f3e6-a48e-11e9-b82e-7537cbeba650.jpg",
+                "image_width": 445,
+                "image_height": 250,
+                "ts": 1562926906,
+                "from_url": "http:\/\/www.lefigaro.fr\/medias\/mediametrie-mesure-l-emotion-des-spectateurs-grace-a-l-intelligence-artificielle-20190712",
+                "image_bytes": 61059,
+                "service_icon": "https:\/\/a.f1g.fr\/f\/img\/favicon\/apple-touch-icon.png?v20190701121148",
+                "service_name": "lefigaro.fr",
+                "id": 2,
+                "original_url": "http:\/\/www.lefigaro.fr\/medias\/mediametrie-mesure-l-emotion-des-spectateurs-grace-a-l-intelligence-artificielle-20190712"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FGU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mesure des émotions du (télé)spectateur par Médiamétrie via une ia développée par Datakalab ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.datakalab.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.lefigaro.fr\/medias\/mediametrie-mesure-l-emotion-des-spectateurs-grace-a-l-intelligence-artificielle-20190712"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

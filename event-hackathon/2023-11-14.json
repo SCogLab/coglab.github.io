@@ -1,0 +1,358 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1699950547.231499",
+        "client_msg_id": "102a3dff-2af1-4af9-933e-e7b32770116a",
+        "text": "Hello <@U03FC5ZAK>, j'ai envoyé le descriptif de l'évènement à 42 ce matin, j'ai rapidement modifier les références au vendredi sur la page et proposé le vendredi 24 novembre 14h-17h30 pour le workshop",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lw5nd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", j'ai envoyé le descriptif de l'évènement à 42 ce matin, j'ai rapidement modifier les références au vendredi sur la page et proposé le vendredi 24 novembre 14h-17h30 pour le workshop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1699981966.401939",
+        "client_msg_id": "15f16af8-0755-4098-8529-d01ab3940bd2",
+        "text": "Salut Hans, top, merci pour toutes ces infos et suivi.\n\n*Descriptif de l’évènement*\nJe n’ai pas de texte particulier, il y a toute la matière de l’année dernière et la page mise en place sur le site.\nTu as envoyé quoi finalement, je n’ai rien vu passer. Ou peu-t-on trouver ta proposition ?\n\n*Billetterie*\nComment s’organise-t-on avec les deux billetteries ? <@UAMPR1P5L> a l’air de cibler plutôt les internationaux \/ anglophone.\nJe peux la pointer sur notre page aussi pour les anglophones, afin de recenser les ressources et rediriger aux personnes.\n\nL’année dernière, on avait le support GSheet, permettant aussi de gérer les équipes, répartir les mentors, la remise de prix, etc. Ça m’avait paru assez commode pour faciliter la coordination et documentation, on pourrait reprendre le même modèle. Je peux aider là-dessus pour mettre en place le document, et le connecter à notre formulaire d’inscription.\n\n*Mentors*\nEn complément des sponsors et la liste des speakers (que j’ai pris soin de pointer sur notre <https:\/\/drive.google.com\/drive\/folders\/1YFkqRnTFYofAwhCFwcGJIgXNdVgIRRwJ|espace Drive>), qu’en est-il des Mentors et personne présente pour co-ordonner l’animation locale ? As-tu de la visibilité là-dessus ?\n\n*Workshop*\nLa date du 24 est validée par 42 ?\nTu as une idée du programme et des intervenant.e.s ?\n\n*Hackathon*\nPour la logistique, tu as des précisions sur les plages horaires, les indications sur le lieu \/ les espaces et le matériel mis à disposition, gestion des repas, etc. ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0aA1K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut Hans, top, merci pour toutes ces infos et suivi.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Descriptif de l’évènement",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nJe n’ai pas de texte particulier, il y a toute la matière de l’année dernière et la page mise en place sur le site.\nTu as envoyé quoi finalement, je n’ai rien vu passer. Ou peu-t-on trouver ta proposition ?\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Billetterie",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nComment s’organise-t-on avec les deux billetteries ? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UAMPR1P5L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a l’air de cibler plutôt les internationaux \/ anglophone.\nJe peux la pointer sur notre page aussi pour les anglophones, afin de recenser les ressources et rediriger aux personnes.\n\nL’année dernière, on avait le support GSheet, permettant aussi de gérer les équipes, répartir les mentors, la remise de prix, etc. Ça m’avait paru assez commode pour faciliter la coordination et documentation, on pourrait reprendre le même modèle. Je peux aider là-dessus pour mettre en place le document, et le connecter à notre formulaire d’inscription.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Mentors",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nEn complément des sponsors et la liste des speakers (que j’ai pris soin de pointer sur notre "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1YFkqRnTFYofAwhCFwcGJIgXNdVgIRRwJ",
+                                "text": "espace Drive"
+                            },
+                            {
+                                "type": "text",
+                                "text": "), qu’en est-il des Mentors et personne présente pour co-ordonner l’animation locale ? As-tu de la visibilité là-dessus ?\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Workshop",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nLa date du 24 est validée par 42 ?\nTu as une idée du programme et des intervenant.e.s ?\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hackathon",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPour la logistique, tu as des précisions sur les plages horaires, les indications sur le lieu \/ les espaces et le matériel mis à disposition, gestion des repas, etc. ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1699985089.388919",
+        "client_msg_id": "9077c997-ec6f-41dd-959b-ff8c55bd1217",
+        "text": "Pierre m'a donné le descriptif de l'année dernière, j'ai juste changé les dates :\n\n```La communauté NeuroTechX vous donne rendez-vous le week-end prochain (28-30 octobre) à Paris et en ligne pour un hackathon international, gratuit et accessible à tou.te.s. Venez explorer les interfaces cerveau-machine, contrôlez des jeux par la pensée, et devenez un maître de méditation grâce au biofeedback. Vous aurez accès à du matériel vous permettant de mesurer l'activité de votre cerveau, de votre cœur et de vos muscles.\n\nLa participation à cet événement est ouverte à tou.te.s, quelles que soient vos connaissances. Une liste de ressources est mise à votre disposition. Nous vous avons également préparé des démos et du code pour vous mettre sur la bonne voie, ainsi qu'une introduction à Timeflux.\n\nInscrivez-vous sans tarder !\n\nDe nombreux prix sont à gagner, et l'occasion de vous faire remarquer par les leaders mondiaux du domaine. Nos sponsors recrutent\n\nInfos et inscriptions : <https:\/\/coglab.fr\/ntxhack2022\/>\n\nDes questions ? Rejoignez-nous sur Discord (canal #paris).```\nPour la billetterie, je pense qu'on peut laisser comme ça, ça va rajouter de la confusion si on met deux liens de billetterie sur la même page. Il faudra juste que je lui rappelle la veille de me filer la liste des personnes qui se sont inscrites sur son lien.\nPour la doc, je m'en occupe, je vais copier la structure de la GSheet, j'ai déjà commencé à travailler sur Slidedeck  en reprenant celle que tu avais faites l'année dernière .\n\nPour la team, j'ai Swati qui m'a dit que c'était bon pour elle, j'attends la confirmation de Diane et pour le reste je vais voir demain pendant la hacknight. Je n'ai pas beaucoup de visibilité pour l'instant (et même côté NeuroTechX avec Mohit, c'est encore plus à l'arrache que l'année dernière* ^_^). J'espère que Cassandra va nous répondre, ça pourrait faire une personne de plus.\n\nJe n'ai pas pas encore de retour de 42 (Fabienne) pour la date du workshop et je me prépare mentalement pour faire une full prez de 3h30-4h30 ^_^ (Présentation de NTX-&gt; chapitre Paris, CogLab -&gt; intro aux sciences cognitives -&gt; intro aux neurotechnologies -&gt; multimodalité -&gt; présentations des différents outils (je demanderai une vidéo à Pierre pour TimeFlux) -&gt; démo avec le matos que j'aurai à dispo.\n\nJe vais tout préparer tranquillement cette semaine, ce we et les semaines qui viennent, histoire de pas trop perdre d'energie le jour j.\n\n* Pour le hardware &amp; la logistique, ça risque d'être pareil (séjour à La Rache ^_^)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AwCwb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pierre m'a donné le descriptif de l'année dernière, j'ai juste changé les dates :\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La communauté NeuroTechX vous donne rendez-vous le week-end prochain (28-30 octobre) à Paris et en ligne pour un hackathon international, gratuit et accessible à tou.te.s. Venez explorer les interfaces cerveau-machine, contrôlez des jeux par la pensée, et devenez un maître de méditation grâce au biofeedback. Vous aurez accès à du matériel vous permettant de mesurer l'activité de votre cerveau, de votre cœur et de vos muscles.\n\nLa participation à cet événement est ouverte à tou.te.s, quelles que soient vos connaissances. Une liste de ressources est mise à votre disposition. Nous vous avons également préparé des démos et du code pour vous mettre sur la bonne voie, ainsi qu'une introduction à Timeflux.\n\nInscrivez-vous sans tarder !\n\nDe nombreux prix sont à gagner, et l'occasion de vous faire remarquer par les leaders mondiaux du domaine. Nos sponsors recrutent\n\nInfos et inscriptions : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.fr\/ntxhack2022\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nDes questions ? Rejoignez-nous sur Discord (canal #paris)."
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nPour la billetterie, je pense qu'on peut laisser comme ça, ça va rajouter de la confusion si on met deux liens de billetterie sur la même page. Il faudra juste que je lui rappelle la veille de me filer la liste des personnes qui se sont inscrites sur son lien.\nPour la doc, je m'en occupe, je vais copier la structure de la GSheet, j'ai déjà commencé à travailler sur Slidedeck  en reprenant celle que tu avais faites l'année dernière .\n\nPour la team, j'ai Swati qui m'a dit que c'était bon pour elle, j'attends la confirmation de Diane et pour le reste je vais voir demain pendant la hacknight. Je n'ai pas beaucoup de visibilité pour l'instant (et même côté NeuroTechX avec Mohit, c'est encore plus à l'arrache que l'année dernière* ^_^). J'espère que Cassandra va nous répondre, ça pourrait faire une personne de plus.\n\nJe n'ai pas pas encore de retour de 42 (Fabienne) pour la date du workshop et je me prépare mentalement pour faire une full prez de 3h30-4h30 ^_^ (Présentation de NTX-> chapitre Paris, CogLab -> intro aux sciences cognitives -> intro aux neurotechnologies -> multimodalité -> présentations des différents outils (je demanderai une vidéo à Pierre pour TimeFlux) -> démo avec le matos que j'aurai à dispo.\n\nJe vais tout préparer tranquillement cette semaine, ce we et les semaines qui viennent, histoire de pas trop perdre d'energie le jour j.\n\n* Pour le hardware & la logistique, ça risque d'être pareil (séjour à La Rache ^_^)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "J'ai pris quelques photos du lieu quand j'avais visité 42 avec Charly (qui ne sera pas présent \/o\\) et Pierre. Il faudra que je peaufine le plan intérieur (et peut-être crée un ou 2 groupes whatsapp).",
+        "files": [
+            {
+                "id": "F065Q4UPBRR",
+                "created": 1699985104,
+                "timestamp": 1699985104,
+                "name": "IMG_5694.HEIC",
+                "title": "IMG_5694.HEIC",
+                "mimetype": "image\/heic",
+                "filetype": "heic",
+                "pretty_type": "High Efficiency Image File",
+                "user": "U59MQ46DA",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 2094675,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F065Q4UPBRR\/img_5694.heic?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F065Q4UPBRR\/download\/img_5694.heic?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F065Q4UPBRR-9dd08ada58\/img_5694_64.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F065Q4UPBRR-9dd08ada58\/img_5694_80.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F065Q4UPBRR-9dd08ada58\/img_5694_360.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F065Q4UPBRR-9dd08ada58\/img_5694_480.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F065Q4UPBRR-9dd08ada58\/img_5694_160.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F065Q4UPBRR-9dd08ada58\/img_5694_720.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F065Q4UPBRR-9dd08ada58\/img_5694_800.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F065Q4UPBRR-9dd08ada58\/img_5694_960.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F065Q4UPBRR-9dd08ada58\/img_5694_1024.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 4032,
+                "original_h": 3024,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U59MQ46DA\/F065Q4UPBRR\/img_5694.heic",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-F065Q4UPBRR-6af625de02",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F065HJDKZ0E",
+                "created": 1699985112,
+                "timestamp": 1699985112,
+                "name": "IMG_5696.HEIC",
+                "title": "IMG_5696.HEIC",
+                "mimetype": "image\/heic",
+                "filetype": "heic",
+                "pretty_type": "High Efficiency Image File",
+                "user": "U59MQ46DA",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 2236061,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F065HJDKZ0E\/img_5696.heic?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F065HJDKZ0E\/download\/img_5696.heic?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F065HJDKZ0E-4333cc22ba\/img_5696_64.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F065HJDKZ0E-4333cc22ba\/img_5696_80.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F065HJDKZ0E-4333cc22ba\/img_5696_360.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F065HJDKZ0E-4333cc22ba\/img_5696_480.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F065HJDKZ0E-4333cc22ba\/img_5696_160.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F065HJDKZ0E-4333cc22ba\/img_5696_720.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F065HJDKZ0E-4333cc22ba\/img_5696_800.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F065HJDKZ0E-4333cc22ba\/img_5696_960.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F065HJDKZ0E-4333cc22ba\/img_5696_1024.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 4032,
+                "original_h": 3024,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U59MQ46DA\/F065HJDKZ0E\/img_5696.heic",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-F065HJDKZ0E-a3e967d758",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Da7+q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai pris quelques photos du lieu quand j'avais visité 42 avec Charly (qui ne sera pas présent \/o\\) et Pierre. Il faudra que je peaufine le plan intérieur (et peut-être crée un ou 2 groupes whatsapp)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1699985201.111719",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1699985500.000000"
+        },
+        "client_msg_id": "14ae216b-135c-4d7d-8a41-d1682a094853"
+    }
+]

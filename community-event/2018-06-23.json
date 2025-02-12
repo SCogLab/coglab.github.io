@@ -1,0 +1,28 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Masterclass @ Futur.e.s: <!date^1529758800^{date_short_pretty} from {time}|June 23rd, 2018 from 3:00 PM> to <!date^1529762400^{time}|4:00 PM GMT+0200>",
+                "text": "<!date^1529758800^{date_short_pretty} from {time}|June 23rd, 2018 from 3:00 PM> to <!date^1529762400^{time}|4:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=La+Grande+Halle%2C+211+Avenue+Jean+Jaur%C3%A8s%2C+75019+Paris%2C+France|La Grande Halle, 211 Avenue Jean Jaurès, 75019 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "Masterclass @ Futur.e.s",
+                "more": "&lt;br&gt;Dans le cadre du festival Futur.e.s, Héloïse représentera le CogLab lors d'une masterclasse.&lt;br&gt;&lt;br&gt;&lt;br&gt;MASTERCLASSES – SALLE 5A15:00 Les interfaces cerveau-machine : faut-il abandonner le corps pour rester humain ? (FR)&lt;br&gt;Avec Gille de Bast, Héloïse Théro&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;Ressources :&lt;br&gt;&lt;ul&gt;&lt;li&gt;Programme officiel <https:\/\/blog.futuresfestivals.com\/programmation-futures-conferences-masterclasses-2018\/&lt;br&gt;&lt;\/li&gt;&lt;li&gt;Fiche> événement : <https:\/\/docs.google.com\/document\/d\/1qXcKZBR2LKLQr8A4xelYBYG7irwtRNbHEg2Ph31Ca9I\/edit&lt;\/li&gt;&lt;\/ul&gt;>",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NGdzaTZuODRqaGhjZzlucm10cTN2MDVpNTYgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1529755200.000164",
+        "bot_id": "B4SJBP2L8"
+    }
+]

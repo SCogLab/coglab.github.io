@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "Assemblée Générale CogLab #3: <!date^1558785600^{date_short_pretty} from {time}|May 25th, 2019 from 2:00 PM> to <!date^1558792800^{time}|4:00 PM GMT+0200>",
+                "text": "<!date^1558785600^{date_short_pretty} from {time}|May 25th, 2019 from 2:00 PM> to <!date^1558792800^{time}|4:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "Assemblée Générale CogLab #3",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MDNybDNjNXFvMmZsbjNtMDdqbjI5cjBuOW4gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1558782002.000100",
+        "bot_id": "B4SJBP2L8"
+    }
+]

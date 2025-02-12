@@ -1,0 +1,66 @@
+[
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1567787786.000200",
+        "client_msg_id": "8252d930-7143-41f0-b27b-b718781ad88d",
+        "text": "food for thoughts <https:\/\/www.sciencedaily.com\/releases\/2019\/09\/190905094048.htm>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ScienceDaily",
+                "title": "The future of mind control",
+                "title_link": "https:\/\/www.sciencedaily.com\/releases\/2019\/09\/190905094048.htm",
+                "text": "Scientists are blurring the distinction between brain and machine, designing nanoelectronics that look, move, and feel like real neurons. Camouflaged in the brain, this technology could offer a better way to treat Alzheimer's disease or post-traumatic stress disorder, control prosthetics, or even enhance cognitive abilities.",
+                "fallback": "ScienceDaily: The future of mind control",
+                "from_url": "https:\/\/www.sciencedaily.com\/releases\/2019\/09\/190905094048.htm",
+                "service_icon": "https:\/\/www.sciencedaily.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.sciencedaily.com\/releases\/2019\/09\/190905094048.htm"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zead",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "food for thoughts "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sciencedaily.com\/releases\/2019\/09\/190905094048.htm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

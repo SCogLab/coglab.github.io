@@ -1,0 +1,107 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1714919629.105369",
+        "client_msg_id": "2e256c73-1b71-4ff3-beb4-8162cdebacc3",
+        "text": "via ONM C-DNN (Complementary-DeepNN), combinaison de SNN &amp; DNN  : <https:\/\/www.youtube.com\/watch?v=lEl9DPgBqvA>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=lEl9DPgBqvA",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/lEl9DPgBqvA\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/lEl9DPgBqvA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"C-DNN and C-Transformer: Mixing ANNs and SNNs for the Best of Both Worlds\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=lEl9DPgBqvA",
+                "fallback": "YouTube Video: C-DNN and C-Transformer: Mixing ANNs and SNNs for the Best of Both Worlds",
+                "title": "C-DNN and C-Transformer: Mixing ANNs and SNNs for the Best of Both Worlds",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=lEl9DPgBqvA",
+                "author_name": "Open Neuromorphic",
+                "author_link": "https:\/\/www.youtube.com\/@openneuromorphic",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CZrrG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "via ONM C-DNN (Complementary-DeepNN), combinaison de SNN & DNN  : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=lEl9DPgBqvA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1714919817.679839",
+        "client_msg_id": "515d931d-1a90-42b9-a2f7-abdbd41ba3d6",
+        "text": "Et les publications du labs sud coréen : <http:\/\/ssl.kaist.ac.kr\/bbs\/board.php?bo_table=Neuromorphic>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "43XH\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et les publications du labs sud coréen : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/ssl.kaist.ac.kr\/bbs\/board.php?bo_table=Neuromorphic"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

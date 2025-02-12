@@ -1,0 +1,35 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "*EKOS* s’est retiré(e) de ce canal.",
+        "user": "USLACKBOT",
+        "username": "slackbot",
+        "type": "message",
+        "ts": "1620557574.003500",
+        "team": "T03FC4NDZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a\/W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "EKOS",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " s’est retiré(e) de ce canal."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

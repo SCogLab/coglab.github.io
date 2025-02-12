@@ -1,0 +1,86 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1676920761.873849",
+        "client_msg_id": "b2676379-37a7-4ed4-b36c-86dd2cba04ff",
+        "text": "Publication d’une grosse base de données de signaux EEG (87 participants) par l’équipe Potioc sur Zenodo <https:\/\/zenodo.org\/record\/7516451#.Y759x_6ZNPY|A large database of motor imagery EEG signals and users' demographic, personality and cognitive profile information for Brain-Computer Interface research> (Source : <https:\/\/twitter.com\/potioc_team\/status\/1613164422754598912|Twitter>)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/zenodo.org\/record\/7516451#.Y759x_6ZNPY",
+                "id": 1,
+                "original_url": "https:\/\/zenodo.org\/record\/7516451#.Y759x_6ZNPY",
+                "fallback": "Zenodo: A large database of motor imagery EEG signals and users' demographic, personality and cognitive profile information for Brain-Computer Interface research",
+                "text": "Context :  We share a large database containing electroencephalographic signals from 87 human participants, with more than 20,800 trials in total representing about 70 hours of recording. It was collected during brain-computer interface (BCI) experiments and organized into 3 datasets (A, B, and C) that were all recorded following the same protocol: right and left hand motor imagery (MI) tasks during one single day session. It includes the performance of the associated BCI users, detailed information about the demographics, personality and cognitive user’s profile, and the experimental instructions and codes (executed in the open-source platform OpenViBE). Such database could prove useful for various studies, including but not limited to: 1) studying the relationships between BCI users' profiles and their BCI performances, 2) studying how EEG signals properties varies for different users' profiles and MI tasks, 3) using the large number of participants to design cross-user BCI machine learning algorithms or 4) incorporating users' profile information into the design of EEG signal classification algorithms. Sixty participants (Dataset A) performed the first experiment, designed in order to investigated the impact of experimenters' and users' gender on MI-BCI user training outcomes, i.e., users performance and experience, (Pillette &amp; al). Twenty one participants (Dataset B) performed the second one, designed to examined the relationship between users' online performance (i.e., classification accuracy) and the characteristics of the chosen user-specific Most Discriminant Frequency Band (MDFB) (Benaroch &amp; al). The only difference between the two experiments lies in the algorithm used to select the MDFB. Dataset C contains 6 additional participants who completed one of the two experiments described above. Physiological signals were measured using a g.USBAmp (g.tec, Austria), sampled at 512 Hz, and processed online using OpenViBE 2.1.0 (Dataset A) &amp; OpenVIBE 2.2.0 (Dataset B). For Dataset C, participants C83 and C85 were collected with OpenViBE 2.1.0 and the remaining 4 participants with OpenViBE 2.2.0. Experiments were recorded at Inria Bordeaux sud-ouest, France. Duration : Each participant's folder is composed of approximately 48 minutes EEG recording. Meaning six 7-minutes runs and a 6-minutes baseline. Documents  Instructions: checklist read by experimenters during the experiments. Questionnaires: the Mental Rotation test used, the translation of 4 questionnaires, notably the Demographic and Social information, the Pre and Post-session questionnaires, and the Index of Learning style. English and french version Performance: The online OpenViBE BCI classification performances obtained by each participant are provided for each run, as well as answers to all questionnaires Scenarios\/scripts : set of OpenViBE scenarios used to perform each of the steps of the MI-BCI protocol, e.g., acquire training data, calibrate the classifier or run the online MI-BCI Database : raw signals Dataset A : N=60 participants Dataset B : N=21 participants Dataset C : N=6 participants",
+                "title": "A large database of motor imagery EEG signals and users' demographic, personality and cognitive profile information for Brain-Computer Interface research",
+                "title_link": "https:\/\/zenodo.org\/record\/7516451#.Y759x_6ZNPY",
+                "service_name": "Zenodo"
+            },
+            {
+                "from_url": "https:\/\/twitter.com\/potioc_team\/status\/1613164422754598912",
+                "ts": 1673443344,
+                "id": 2,
+                "original_url": "https:\/\/twitter.com\/potioc_team\/status\/1613164422754598912",
+                "fallback": "<https:\/\/twitter.com\/potioc_team|@potioc_team>: [Open source database] \nWe have just published a large database on <https:\/\/twitter.com\/ZENODO_ORG|@ZENODO_ORG> containing motor imagery EEG signals of 87 participants with their demographic, personality and cognitive profile information for #BCI \nCheck it there :point_right: <https:\/\/zenodo.org\/record\/7516451#.Y759x_6ZNPY>",
+                "text": "[Open source database] \nWe have just published a large database on <https:\/\/twitter.com\/ZENODO_ORG|@ZENODO_ORG> containing motor imagery EEG signals of 87 participants with their demographic, personality and cognitive profile information for #BCI \nCheck it there :point_right: <https:\/\/zenodo.org\/record\/7516451#.Y759x_6ZNPY>",
+                "author_name": "Potioc",
+                "author_link": "https:\/\/twitter.com\/potioc_team\/status\/1613164422754598912",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/555349979829514242\/hAJp5YN7_normal.jpeg",
+                "author_subname": "@potioc_team",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NDU7n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Publication d’une grosse base de données de signaux EEG (87 participants) par l’équipe Potioc sur Zenodo "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zenodo.org\/record\/7516451#.Y759x_6ZNPY",
+                                "text": "A large database of motor imagery EEG signals and users' demographic, personality and cognitive profile information for Brain-Computer Interface research"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (Source : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/potioc_team\/status\/1613164422754598912",
+                                "text": "Twitter"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

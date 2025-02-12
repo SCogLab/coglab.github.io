@@ -1,0 +1,76 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There are *3* events this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "HackNight NeuroTechX Paris: <!date^1682353800^{date_short_pretty} from {time}|April 24th, 2023 from 6:30 PM> to <!date^1682364600^{time}|9:30 PM GMT+0200>",
+                "text": "<!date^1682353800^{date_short_pretty} from {time}|April 24th, 2023 from 6:30 PM> to <!date^1682364600^{time}|9:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Makerlab+Paris%2C+8+Bis+Rue+Charles+V%2C+75004+Paris%2C+France|Makerlab Paris, 8 Bis Rue Charles V, 75004 Paris, France>",
+                "title": "HackNight NeuroTechX Paris",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NmI1cnZ2bzNoOWdmdGkwZ3BvczY5dDRqbGdfMjAyMzA0MjRUMTYzMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            },
+            {
+                "id": 2,
+                "color": "7bd148",
+                "fallback": "Nouvel évènement: <!date^1682681400^{date_short_pretty} from {time}|April 28th, 2023 from 1:30 PM> to <!date^1682683200^{time}|2:00 PM GMT+0200>",
+                "text": "<!date^1682681400^{date_short_pretty} from {time}|April 28th, 2023 from 1:30 PM> to <!date^1682683200^{time}|2:00 PM GMT+0200>",
+                "title": "Nouvel évènement",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=XzcwcWs0ZGk2NzBvajZiOWg3MTM0Y2I5azZncDQyYjlwODRzazhiOWo2NTIzNmMxaThjb2ppZDlsNzQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            },
+            {
+                "id": 3,
+                "color": "7bd148",
+                "fallback": "Échange #3 - Double Science Festival &lt;&gt; CogLab \/ Soirée 8 juin: <!date^1682681400^{date_short_pretty} from {time}|April 28th, 2023 from 1:30 PM> to <!date^1682684100^{time}|2:15 PM GMT+0200>",
+                "text": "<!date^1682681400^{date_short_pretty} from {time}|April 28th, 2023 from 1:30 PM> to <!date^1682684100^{time}|2:15 PM GMT+0200> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "title": "Échange #3 - Double Science Festival &lt;&gt; CogLab \/ Soirée 8 juin",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=N3NqdXZobmgzaGEzdWVtbHExbHVjMzN1MW0gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1682316003.005219",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zPF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " events this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

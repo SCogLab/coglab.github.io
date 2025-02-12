@@ -1,0 +1,53 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1547908030.000200",
+        "client_msg_id": "2b1083d4-a230-44c5-98f2-f466d1a587d4",
+        "text": "<https:\/\/fuz.frama.site\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "WWW.FUZ.RE",
+                "title_link": "https:\/\/fuz.frama.site\/",
+                "text": "FUZ Hackerspace",
+                "fallback": "WWW.FUZ.RE",
+                "from_url": "https:\/\/fuz.frama.site\/",
+                "service_icon": "https:\/\/fuz.frama.site\/medias\/5c02ae843c25e.jpg",
+                "service_name": "fuz.frama.site",
+                "id": 1,
+                "original_url": "https:\/\/fuz.frama.site\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vk0T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fuz.frama.site\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

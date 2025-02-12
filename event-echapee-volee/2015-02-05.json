@@ -1,0 +1,102 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U03FC4NE1",
+        "text": "<@U03FC4NE1> a rejoint le canal",
+        "type": "message",
+        "ts": "1423140977.000002"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC4NE1",
+        "purpose": "CogLab Summit !",
+        "text": "a défini la description du canal : CogLab Summit !",
+        "type": "message",
+        "ts": "1423140978.000003"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FC5ZAK",
+        "text": "<@U03FC5ZAK> a rejoint le canal",
+        "inviter": "U03FC4NE1",
+        "type": "message",
+        "ts": "1423140988.000004"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03HY4P8V",
+        "text": "<@U03HY4P8V> a rejoint le canal",
+        "inviter": "U03FC4NE1",
+        "type": "message",
+        "ts": "1423140988.000005"
+    },
+    {
+        "user": "U03FC4NE1",
+        "type": "message",
+        "ts": "1423141227.000006",
+        "text": "Communication sur l'événement\nMeetup : <http:\/\/www.meetup.com\/Paris-CogLab-Meetup-Cognitive-Science-Open-Lab\/events\/220262944\/|http:\/\/www.meetup.com\/Paris-CogLab-Meetup-Cognitive-Science-Open-Lab\/events\/220262944\/>\nFacebook : <https:\/\/www.facebook.com\/events\/1551835251768436\/|https:\/\/www.facebook.com\/events\/1551835251768436\/>\n\nFormat <http:\/\/www.unconference.net\/|http:\/\/www.unconference.net\/> suggéré par Nicolas\nInvitez les collaborateurs, mettre en place la programmation, trouver un lieu",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ce8fbc12b73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-01-27\/3522174799_7ce8fbc12b7351a6a2b3_72.jpg",
+            "first_name": "CogLab",
+            "real_name": "CogLab NeuroTechX Paris",
+            "display_name": "coglab",
+            "team": "T03FC4NDZ",
+            "name": "coglab",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "text": "Find Meetups and meet people in your local community who share your interests.",
+                "fallback": "Find Meetups and meet people in your local community who share your interests.",
+                "from_url": "http:\/\/www.meetup.com\/Paris-CogLab-Meetup-Cognitive-Science-Open-Lab\/events\/220262944\/",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jF+sl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Communication sur l'événement\nMeetup : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.meetup.com\/Paris-CogLab-Meetup-Cognitive-Science-Open-Lab\/events\/220262944\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nFacebook : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.facebook.com\/events\/1551835251768436\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nFormat "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.unconference.net\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " suggéré par Nicolas\nInvitez les collaborateurs, mettre en place la programmation, trouver un lieu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

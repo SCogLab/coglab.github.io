@@ -1,0 +1,81 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #130: <!date^1579538700^{date_short_pretty} from {time}|January 20th, 2020 from 5:45 PM> to <!date^1579554000^{time}|10:00 PM GMT+0100>",
+                "text": "<!date^1579538700^{date_short_pretty} from {time}|January 20th, 2020 from 5:45 PM> to <!date^1579554000^{time}|10:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=CRI%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France|CRI, 8 bis Rue Charles V, 75004 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #130",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=N3R1aTRiamc1N2FpYTFyZmZyYXI5YjBoYmFfMjAyMDAxMjBUMTY0NTAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1579535101.000100",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1579536783.000300",
+        "client_msg_id": "f8f3aa03-0185-499b-acf5-5c6cfa23ae10",
+        "text": "<https:\/\/www.hub-franceia.fr\/event\/meetup-du-hub-france-ia-yann-le-cun\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Hub France IA",
+                "title": "Meetup du Hub France IA autour de Yann Le Cun (29\/01\/2020 17h-19h) - Evénement ouvert à tous - Hub France IA",
+                "title_link": "https:\/\/www.hub-franceia.fr\/event\/meetup-du-hub-france-ia-yann-le-cun\/",
+                "text": "Le Hub France IA organise un meetup autour de Yann Le Cun, auteur du livre : « Quand la machine apprend : La révolution des neurones artificiels et de l’apprentissage profond » aux Editions Odile Jacob. Il s’en suivra un moment d’échange autour d’un cocktail. Le livre de Mr Le Cun sera en vente sur place. Quand la machine apprend : La révolution des neurones artificiels et de l’apprentissage profond – Editions Odile Jacob",
+                "fallback": "Hub France IA: Meetup du Hub France IA autour de Yann Le Cun (29\/01\/2020 17h-19h) - Evénement ouvert à tous - Hub France IA",
+                "image_url": "https:\/\/www.hub-franceia.fr\/wp-content\/uploads\/2019\/11\/Gabarit-Meetup-Y.LeCun_-1.jpg",
+                "image_width": 500,
+                "image_height": 250,
+                "from_url": "https:\/\/www.hub-franceia.fr\/event\/meetup-du-hub-france-ia-yann-le-cun\/",
+                "image_bytes": 193228,
+                "service_icon": "https:\/\/www.hub-franceia.fr\/wp-content\/uploads\/2018\/05\/cropped-logo50-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.hub-franceia.fr\/event\/meetup-du-hub-france-ia-yann-le-cun\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WLVBq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.hub-franceia.fr\/event\/meetup-du-hub-france-ia-yann-le-cun\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

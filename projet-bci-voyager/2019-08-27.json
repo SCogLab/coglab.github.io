@@ -1,0 +1,204 @@
+[
+    {
+        "user": "UM9FGHCQ5",
+        "type": "message",
+        "ts": "1566911769.002700",
+        "client_msg_id": "c2d3b337-b724-49c2-b14a-10596662027b",
+        "text": "<@U03FC5ZAK>, <@ULSDVUUVA>: Need the datasets of the eeg recording labelled into folders as 'calm', 'interested', 'excited'.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gdc55c403bfb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5dc55c403bfb3989d8f7e7056a1858cb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Sitharth",
+            "display_name": "Sitharth",
+            "team": "T03FC4NDZ",
+            "name": "esitharth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566911769.002700",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1567083469.010400",
+        "reply_users": [
+            "U03FC5ZAK",
+            "ULSDVUUVA"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1566930900.003300"
+            },
+            {
+                "user": "ULSDVUUVA",
+                "ts": "1567083310.009900"
+            },
+            {
+                "user": "ULSDVUUVA",
+                "ts": "1567083469.010400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EGrWm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "ULSDVUUVA"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Need the datasets of the eeg recording labelled into folders as 'calm', 'interested', 'excited'."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1566921184.002800",
+        "client_msg_id": "87306a6f-c17a-4ade-903b-6ebd901eba80",
+        "text": "what I understood from <@UM9FGHCQ5> is that doesn't matter the P300, if he want to extract a pattern from the pilot data",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566842008.006600",
+        "parent_user_id": "U03FEH3N8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/EGJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what I understood from "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UM9FGHCQ5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is that doesn't matter the P300, if he want to extract a pattern from the pilot data"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UM9FGHCQ5",
+        "type": "message",
+        "ts": "1566926122.003000",
+        "client_msg_id": "dee6e095-9abf-4927-b378-d7e75b46b67a",
+        "text": "I think for now P300 is not necessary.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gdc55c403bfb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5dc55c403bfb3989d8f7e7056a1858cb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Sitharth",
+            "display_name": "Sitharth",
+            "team": "T03FC4NDZ",
+            "name": "esitharth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566842008.006600",
+        "parent_user_id": "U03FEH3N8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "igw+q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think for now P300 is not necessary."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1566930900.003300",
+        "client_msg_id": "330bdb71-f0af-47e4-85a3-21ad2f70d683",
+        "text": "copy that",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566911769.002700",
+        "parent_user_id": "UM9FGHCQ5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZGf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "copy that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

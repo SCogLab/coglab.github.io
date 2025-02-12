@@ -1,0 +1,125 @@
+[
+    {
+        "user": "UAMPR1P5L",
+        "type": "message",
+        "ts": "1641488990.000100",
+        "client_msg_id": "938c658a-b6c0-43a3-98ea-88b4f476e3a1",
+        "text": "Okay pour moi le 12, suis pris le 19.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g73db985d858",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273db985d858035ed23c0594718e0eac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "mesca",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "coglab644",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1641306028.000300",
+        "parent_user_id": "UAMPR1P5L",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J\/vW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay pour moi le 12, suis pris le 19."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UAMPR1P5L",
+        "type": "message",
+        "ts": "1641489884.000800",
+        "client_msg_id": "be0e6401-1afb-4a47-acad-c782643f00e3",
+        "text": "<@U03FC5ZAK>, tu peux donner accès à Sylvain au document du protocole ?\n<https:\/\/docs.google.com\/document\/d\/1n8O6Is90CoKDCndWZwxAV1-5Z5y6yxRXXcNr5StfUWs\/edit>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g73db985d858",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273db985d858035ed23c0594718e0eac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "mesca",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "coglab644",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1641489884.000800",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1642408509.000100",
+        "reply_users": [
+            "U59MQ46DA",
+            "UAMPR1P5L",
+            "U01RUJ02ECS"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1641569953.000100"
+            },
+            {
+                "user": "UAMPR1P5L",
+                "ts": "1642009961.002700"
+            },
+            {
+                "user": "UAMPR1P5L",
+                "ts": "1642080897.000100"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1642082490.000300"
+            },
+            {
+                "user": "UAMPR1P5L",
+                "ts": "1642082506.000500"
+            },
+            {
+                "user": "U01RUJ02ECS",
+                "ts": "1642408509.000100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eiw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", tu peux donner accès à Sylvain au document du protocole ?\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1n8O6Is90CoKDCndWZwxAV1-5Z5y6yxRXXcNr5StfUWs\/edit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

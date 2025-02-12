@@ -1,0 +1,76 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1703168732.446709",
+        "client_msg_id": "5d73a5f0-9785-4f0e-820f-83932fb86997",
+        "text": "Ils ont fait une captation vidéo de l'évènement, je n'ai que des photos de son intervention dans le drive de l'asso : <https:\/\/youtu.be\/D9qnxpeSkGU?t=15799>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702814072.840609",
+        "parent_user_id": "U59MQ46DA",
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/D9qnxpeSkGU?t=15799",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/D9qnxpeSkGU\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/D9qnxpeSkGU?start=15799&feature=oembed&start=15799&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"Conférence WorkShop IA 2023 12 06\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/D9qnxpeSkGU?t=15799",
+                "fallback": "YouTube Video: Conférence WorkShop IA 2023 12 06",
+                "title": "Conférence WorkShop IA 2023 12 06",
+                "title_link": "https:\/\/youtu.be\/D9qnxpeSkGU?t=15799",
+                "author_name": "ENSEA",
+                "author_link": "https:\/\/www.youtube.com\/@ENSEA1",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L+6Om",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ils ont fait une captation vidéo de l'évènement, je n'ai que des photos de son intervention dans le drive de l'asso : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/D9qnxpeSkGU?t=15799"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U065TGVPMQA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

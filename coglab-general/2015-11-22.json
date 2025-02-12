@@ -1,0 +1,234 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1448231722.000002",
+        "text": "<!channel>:  Petit Up sur les Doodles et merci à ceux qui ont déjà complété :\n\n*Rencontre avec Marion \/ NeuroTechSF*, Mi-décembre\n<http:\/\/doodle.com\/poll\/wngthb8uucdeyf6u>\n\n*CogLab Summit \/ An #3*, courant janvier \n<http:\/\/doodle.com\/poll\/kyct97ateqgkeqpt>\n\nJ'en profite pour partager un article de Makery sur le casse tête de la documentation, en complètement, quelques ressources sont partagée sur le channel <#C03JFHJL2|tools-documentation> \n<http:\/\/www.makery.info\/2015\/06\/09\/do-doc-et-opendoc-le-design-a-la-rescousse-de-la-documentation\/>\n\nBonne soirée \/ Début de semaine :simple_smile:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Rencontre #6 - Marion de NeuroTechSF - Doodle: easy scheduling",
+                "title_link": "http:\/\/doodle.com\/poll\/wngthb8uucdeyf6u",
+                "text": "Je vous propose d'accueillir Marion LEBORGNE qui fait partie du chapitre NeuroTechSF et qui sera de passage à Paris mi-décembre. Voici une selection de 3 dates pour permettre une rencontre avec la communauté du CogLab \/ NeuroTech Paris !",
+                "fallback": "Rencontre #6 - Marion de NeuroTechSF - Doodle: easy scheduling",
+                "from_url": "http:\/\/doodle.com\/poll\/wngthb8uucdeyf6u",
+                "thumb_url": "http:\/\/doodle.com\/graphics\/static\/facebookSharingThumbnail.jpg",
+                "thumb_width": 100,
+                "thumb_height": 100,
+                "id": 1
+            },
+            {
+                "title": "CogLab Summit - Doodle: easy scheduling",
+                "title_link": "http:\/\/doodle.com\/poll\/kyct97ateqgkeqpt",
+                "text": "Objectifs : ======= - Se réunir - Souhaiter la bonne année - Faire le point sur la\/les année(s) passée(s) - Les projets en état d'avancement - Les projets en attente - Et plus si affinités...",
+                "fallback": "CogLab Summit - Doodle: easy scheduling",
+                "from_url": "http:\/\/doodle.com\/poll\/kyct97ateqgkeqpt",
+                "thumb_url": "http:\/\/doodle.com\/graphics\/static\/facebookSharingThumbnail.jpg",
+                "thumb_width": 100,
+                "thumb_height": 100,
+                "id": 2
+            },
+            {
+                "service_name": "Makery",
+                "title": "Do Doc et Opendoc, le design à la rescousse de la documentation",
+                "title_link": "http:\/\/www.makery.info\/2015\/06\/09\/do-doc-et-opendoc-le-design-a-la-rescousse-de-la-documentation\/",
+                "text": "Du 11 au 14 juin, l'Atelier des chercheurs présente Do Doc à Futur en Seine, une station de documentation pédagogique qui a inspiré Opendoc, un nouvel outil destiné aux fablabs.",
+                "fallback": "Makery: Do Doc et Opendoc, le design à la rescousse de la documentation",
+                "image_url": "http:\/\/www.makery.info\/wp-content\/uploads\/2015\/06\/Do-Doc-interface-physique-2000px.jpg",
+                "from_url": "http:\/\/www.makery.info\/2015\/06\/09\/do-doc-et-opendoc-le-design-a-la-rescousse-de-la-documentation\/",
+                "image_width": 489,
+                "image_height": 250,
+                "image_bytes": 314358,
+                "id": 3
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Ml",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ":  Petit Up sur les Doodles et merci à ceux qui ont déjà complété :\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Rencontre avec Marion \/ NeuroTechSF",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Mi-décembre\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/doodle.com\/poll\/wngthb8uucdeyf6u"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "CogLab Summit \/ An #3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", courant janvier \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/doodle.com\/poll\/kyct97ateqgkeqpt"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nJ'en profite pour partager un article de Makery sur le casse tête de la documentation, en complètement, quelques ressources sont partagée sur le channel "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03JFHJL2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.makery.info\/2015\/06\/09\/do-doc-et-opendoc-le-design-a-la-rescousse-de-la-documentation\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nBonne soirée \/ Début de semaine "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1448233346.000004",
+        "text": "Pour ceux que ça intéresse, petite relance des synergies avec l'équipe Lyonnaise sur <#C045NV491|community-france> avec l'ami <@U07CLARN1> :wink:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v2Exc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour ceux que ça intéresse, petite relance des synergies avec l'équipe Lyonnaise sur "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C045NV491"
+                            },
+                            {
+                                "type": "text",
+                                "text": " avec l'ami "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07CLARN1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07CLARN1",
+        "type": "message",
+        "ts": "1448263801.000002",
+        "text": ":+1:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gddf4d6126fe",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7ddf4d6126fe8dc2957569141ccb2567.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Jérémy",
+            "real_name": "Jérémy VIRGO",
+            "display_name": "jeremy",
+            "team": "T03FC4NDZ",
+            "name": "jeremy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nYOb=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

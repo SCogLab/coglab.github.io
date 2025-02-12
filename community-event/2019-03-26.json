@@ -1,0 +1,173 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1553602296.000200",
+        "client_msg_id": "60828659-f1f2-40a5-9020-f3534d71935b",
+        "text": "<https:\/\/www.facebook.com\/events\/917354145322420\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Obb#11: Neurotechnologies et neurosciences: un mariage de raison",
+                "title_link": "https:\/\/www.facebook.com\/events\/917354145322420\/",
+                "fallback": "Obb#11: Neurotechnologies et neurosciences: un mariage de raison",
+                "image_url": "https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t1.0-0\/q88\/c91.0.200.200a\/p200x200\/54798026_2415339585157562_1900212571063975936_n.jpg?_nc_cat=108&_nc_ht=scontent-iad3-1.xx&oh=4a66f58f5c7857016a0238facc518fe2&oe=5D48FDF3",
+                "from_url": "https:\/\/www.facebook.com\/events\/917354145322420\/",
+                "image_width": 200,
+                "image_height": 200,
+                "image_bytes": 14239,
+                "service_icon": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/yz\/r\/KFyVIAWzntM.ico",
+                "service_name": "facebook.com",
+                "id": 1,
+                "original_url": "https:\/\/www.facebook.com\/events\/917354145322420\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2hZmM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.facebook.com\/events\/917354145322420\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1553602340.000600",
+        "client_msg_id": "03e7b7c1-baba-4d76-bef9-e33436ff8cbc",
+        "text": "<!here> RDV ce soir pour notre prochain Meetup :slightly_smiling_face:\n<https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/259511275\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Meetup CogLab Saison 3 Épisode 3 : Spécial Laval Virtual et biais cognitifs",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/259511275\/",
+                "text": "mar. 26 mars 2019 à 19:00: ___Les Meetups CogLabMeetup Coglab, Saison 3, Épisode 3.Nous continuons notre exploration du domaine des interfaces en réalités virtuelles, augmentées, diminuées, mixtes, ..",
+                "fallback": "Meetup: Meetup CogLab Saison 3 Épisode 3 : Spécial Laval Virtual et biais cognitifs",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/2\/3\/a\/0\/600_479649120.jpeg",
+                "fields": [
+                    {
+                        "title": "Où",
+                        "value": "Le Pavillon RDC NUMA Paris Paris",
+                        "short": true
+                    },
+                    {
+                        "title": "Quand",
+                        "value": "mar. 26 mars 2019 à 19:00",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/259511275\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 231450,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/fr-FR\/m_swarm_120x120.4f86abc9.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/259511275\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EdW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " RDV ce soir pour notre prochain Meetup "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/259511275\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "Meetup CogLab S3E3: <!date^1553623200^{date_short_pretty} from {time}|March 26th, 2019 from 7:00 PM> to <!date^1553634000^{time}|10:00 PM GMT+0100>",
+                "text": "<!date^1553623200^{date_short_pretty} from {time}|March 26th, 2019 from 7:00 PM> to <!date^1553634000^{time}|10:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=NUMA%2C+39+Rue+du+Caire%2C+75002+Paris%2C+France|NUMA, 39 Rue du Caire, 75002 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "Meetup CogLab S3E3",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NzZqN2kyZGhpM2F1N3FxY2xlZGFxbHE4ODMgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1553619601.000900",
+        "bot_id": "B4SJBP2L8"
+    }
+]

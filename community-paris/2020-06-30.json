@@ -1,0 +1,49 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U016X9GLPEU",
+        "text": "<@U016X9GLPEU> a rejoint le canal",
+        "type": "message",
+        "ts": "1593502966.007600"
+    },
+    {
+        "user": "U0FB4KME0",
+        "type": "message",
+        "ts": "1593530795.007700",
+        "client_msg_id": "34f50b3f-358f-48b4-83ef-dbbd85c6d843",
+        "text": "oui, j'ai réussi un test avec le traceur de l'IDE arduino. ça montre bien les contractions du muscle.\nje cherche à tester les intentions de mouvements, c'est à dire les trés bas voltage, 0,5 µV",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g1199c476c54",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/11199c476c54600d8571a80f70737cbd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "",
+            "real_name": "paul",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "paul",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1593084706.006900",
+        "parent_user_id": "U0FB4KME0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M1yG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oui, j'ai réussi un test avec le traceur de l'IDE arduino. ça montre bien les contractions du muscle.\nje cherche à tester les intentions de mouvements, c'est à dire les trés bas voltage, 0,5 µV"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

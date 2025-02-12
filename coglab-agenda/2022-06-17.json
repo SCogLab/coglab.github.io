@@ -1,0 +1,48 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "Event created: [SO] Synchro - Analyse des données: <!date^1656082800^{date_short_pretty} from {time}|June 24th, 2022 from 5:00 PM> to <!date^1656085500^{time}|5:45 PM GMT+0200>",
+                "text": "<!date^1656082800^{date_short_pretty} from {time}|June 24th, 2022 from 5:00 PM> to <!date^1656085500^{time}|5:45 PM GMT+0200>",
+                "pretext": "New calendar event created",
+                "title": "[SO] Synchro - Analyse des données",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MnM0NGFlOGxvczNoZWI4bGVyajIzNGZhbHMgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "more",
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1655457670.828239",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "Vivatech: <!date^1655535600^{date_short_pretty} from {time}|June 18th, 2022 from 9:00 AM> to <!date^1655539200^{time}|10:00 AM GMT+0200>",
+                "text": "<!date^1655535600^{date_short_pretty} from {time}|June 18th, 2022 from 9:00 AM> to <!date^1655539200^{time}|10:00 AM GMT+0200>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "Vivatech",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=XzZrcjMyY2hpNnQyamFiOWc2OTJrY2I5azhjcmtjYjlwNjEwajhiYTY2bDBrOGRoZzg4bzNlaDluOGcgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1655532001.534589",
+        "bot_id": "B4SJBP2L8"
+    }
+]

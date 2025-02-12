@@ -1,0 +1,395 @@
+[
+    {
+        "user": "U0AR01SPQ",
+        "type": "message",
+        "ts": "1501321677.440074",
+        "text": "on verra dans le temps comment la tech impacte notre cognition, notamment le repérage visuo-spatial. Intéressant!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b34e84fd77bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-17\/18704226567_b34e84fd77bcdb81946f_72.jpg",
+            "first_name": "Murielle",
+            "real_name": "Murielle PALISSANDRE",
+            "display_name": "murielle",
+            "team": "T03FC4NDZ",
+            "name": "murielle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VACXK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "on verra dans le temps comment la tech impacte notre cognition, notamment le repérage visuo-spatial. Intéressant!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1501332417.114814",
+        "text": "poruqoui vérité ou neuromythe ? ily a des références à des études scientifiques dérrières?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501332417.114814",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1501336234.400395",
+        "reply_users": [
+            "U03FC5ZAK",
+            "U03FEH3N8"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1501333242.171585"
+            },
+            {
+                "user": "U03FEH3N8",
+                "ts": "1501334217.245282"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1501336234.400395"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fvJf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "poruqoui vérité ou neuromythe ? ily a des références à des études scientifiques dérrières?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1501333242.171585",
+        "text": "Oui comme cela la \nMais possible que les journalistes aient pris des raccourcis\n<https:\/\/www.nature.com\/articles\/ncomms14652>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501332417.114814",
+        "parent_user_id": "U03FEH3N8",
+        "attachments": [
+            {
+                "service_name": "Nature Communications",
+                "title": "Hippocampal and prefrontal processing of network topology to simulate",
+                "title_link": "https:\/\/www.nature.com\/articles\/ncomms14652",
+                "text": "The hippocampus is known to support navigation, but how it processes possible paths to aid navigation is unknown. Here Javadi et al. show that entering streets drives hippocampal activity correspondin",
+                "fallback": "Nature Communications: Hippocampal and prefrontal processing of network topology to simulate",
+                "thumb_url": "https:\/\/media.springernature.com\/m685\/nature-static\/assets\/v1\/image-assets\/ncomms14652-f1.jpg",
+                "from_url": "https:\/\/www.nature.com\/articles\/ncomms14652",
+                "thumb_width": 448,
+                "thumb_height": 685,
+                "service_icon": "http:\/\/www.nature.com\/static\/images\/favicon-114x114.14310470.png",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VoP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui comme cela la \nMais possible que les journalistes aient pris des raccourcis\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.nature.com\/articles\/ncomms14652"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1501333298.176189",
+        "text": "Le type d’article qui m’a rappellé ce projet de fiches",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z9Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le type d’article qui m’a rappellé ce projet de fiches"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1501333855.217859",
+        "text": "ah oui c'est vrai, je sais pas si y'a beaucoup d'intéret à poursuivre l'idée de projet qui (il em semble) est déjà adressé ailleurs, ce serait refaire ce qui a déjà était bien fait ailleurs non ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p5I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah oui c'est vrai, je sais pas si y'a beaucoup d'intéret à poursuivre l'idée de projet qui (il em semble) est déjà adressé ailleurs, ce serait refaire ce qui a déjà était bien fait ailleurs non ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1501334217.245282",
+        "text": "oui c'est aussi connu que les hoppocampes de taxi newyorkais sont hyper actifs comparé à la normal, \nc'est une histoire de stimuler ou pas\/ entrainement. donc oui, surement que on est moins bon à suivre une carte si on s'y entraine pas\nla vrai question c'est : est ce que ça impacte d'autre fonction cognitive de manquer d'entrainement ou alors on developpe au moins une base suffisent pour le reste (ex : est ce que l'on se sert de la même zone cérébrale pour organiser \/ se rapeller de la position d'objets, manipuler des objects dans l'espace ? est est ce que du coup on est moins performant en ça du coup ? bref la question important c'est la problème du transfert de déficit, car le fait qu'on a des outils pour nous libérer l'esprit c'est pas un soucis, c'est ce qu'on a toujours fait et chercher à faire depuis la nuit des temps)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501332417.114814",
+        "parent_user_id": "U03FEH3N8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DdH\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oui c'est aussi connu que les hoppocampes de taxi newyorkais sont hyper actifs comparé à la normal, \nc'est une histoire de stimuler ou pas\/ entrainement. donc oui, surement que on est moins bon à suivre une carte si on s'y entraine pas\nla vrai question c'est : est ce que ça impacte d'autre fonction cognitive de manquer d'entrainement ou alors on developpe au moins une base suffisent pour le reste (ex : est ce que l'on se sert de la même zone cérébrale pour organiser \/ se rapeller de la position d'objets, manipuler des objects dans l'espace ? est est ce que du coup on est moins performant en ça du coup ? bref la question important c'est la problème du transfert de déficit, car le fait qu'on a des outils pour nous libérer l'esprit c'est pas un soucis, c'est ce qu'on a toujours fait et chercher à faire depuis la nuit des temps)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1501336157.394474",
+        "text": "Indeed.\nDans ce cas, peut être que l’on peut valoriser ces projets\/initiatives et s’y référer quand ont a besoin\nA associé sur des ‘fiches projets’ CogLab (<#C03UHP8UD|projet-autispace>, <#C03KK2Z2Z|projet-off-eeg-openbci> , ...) dans une section “littérature et vulgarisation”\nAu même titre que tu ajoute les articles associés aux Contes CogniJunior :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Eqi9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Indeed.\nDans ce cas, peut être que l’on peut valoriser ces projets\/initiatives et s’y référer quand ont a besoin\nA associé sur des ‘fiches projets’ CogLab ("
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03UHP8UD"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03KK2Z2Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , ...) dans une section “littérature et vulgarisation”\nAu même titre que tu ajoute les articles associés aux Contes CogniJunior "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FEH3N8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1501336234.400395",
+        "text": "Oui, et toujours le grand dilemme : “est-ce que Google nous rends plus bête ?”",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501332417.114814",
+        "parent_user_id": "U03FEH3N8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+4=\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui, et toujours le grand dilemme : “est-ce que Google nous rends plus bête ?”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FEH3N8"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

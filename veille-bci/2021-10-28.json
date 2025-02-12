@@ -1,0 +1,137 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1635425291.003500",
+        "client_msg_id": "f9571920-b251-4e43-a0a2-50aa4adc0e09",
+        "text": "Next-Mind a co-développé une installation immersive (avec l’artiste espagnole Anaisa Franco) où leur device interagit avec celle-ci : <https:\/\/www.next-mind.com\/neuronnection-bci-art\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "NextMind",
+                "title": "Neuronnection: the sculpture that reacts to your mind",
+                "title_link": "https:\/\/www.next-mind.com\/neuronnection-bci-art\/",
+                "text": "Artist Anaisa Franco integrated BCI technology into her interactive art installation. Experience it for yourself in Barcelona.",
+                "fallback": "NextMind: Neuronnection: the sculpture that reacts to your mind",
+                "image_url": "https:\/\/www.next-mind.com\/wp-content\/uploads\/2021\/09\/Card_Neuronnection-1024x640.png",
+                "image_width": 400,
+                "image_height": 250,
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Connie - Digital Marketing Manager",
+                        "short": true
+                    },
+                    {
+                        "title": "Est. reading time",
+                        "value": "3 minutes",
+                        "short": true
+                    }
+                ],
+                "ts": 1634803200,
+                "from_url": "https:\/\/www.next-mind.com\/neuronnection-bci-art\/",
+                "image_bytes": 1222932,
+                "service_icon": "https:\/\/www.next-mind.com\/wp-content\/uploads\/2019\/11\/cropped-nextFaviconbLACKTransp@2x-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.next-mind.com\/neuronnection-bci-art\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c8VEp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Next-Mind a co-développé une installation immersive (avec l’artiste espagnole Anaisa Franco) où leur device interagit avec celle-ci : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.next-mind.com\/neuronnection-bci-art\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1635425302.003800",
+        "client_msg_id": "c1a1e3eb-3691-49ca-a822-943f3fdb9317",
+        "text": "la vidéo : <https:\/\/www.youtube.com\/watch?v=3raOcr2iKI8>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "NEURONNECTION",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=3raOcr2iKI8",
+                "author_name": "Anaisa Franco",
+                "author_link": "https:\/\/www.youtube.com\/user\/anaisafranco01",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/3raOcr2iKI8\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: NEURONNECTION",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/3raOcr2iKI8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=3raOcr2iKI8",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=3raOcr2iKI8"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gCE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "la vidéo : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=3raOcr2iKI8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

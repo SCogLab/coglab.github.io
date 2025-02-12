@@ -1,0 +1,651 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1652089265.907009",
+        "client_msg_id": "4f0ed3bd-6803-4a31-bea7-af3ea4d0f907",
+        "text": "Normalement oui, je serai présent",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1651763889.640599",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2dl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Normalement oui, je serai présent"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03CMPK03K8",
+        "type": "message",
+        "ts": "1652089596.229569",
+        "client_msg_id": "e1f5e01c-b822-4976-870b-b2459c754d4c",
+        "text": "Bonjour tout le monde, est ce qu'on prévoit de faire un point avant jeudi matin ? Ou on se retrouve vers 8h jeudi ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gf3d80ee195b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f3d80ee195b6a4739fa89cc738c89dc9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Olivier",
+            "real_name": "Olivier Mével",
+            "display_name": "Olivier Mével",
+            "team": "T03FC4NDZ",
+            "name": "olivier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1652089596.229569",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1652123354.701839",
+        "reply_users": [
+            "U59MQ46DA",
+            "U03CMPK03K8",
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1652090207.879469"
+            },
+            {
+                "user": "U03CMPK03K8",
+                "ts": "1652090263.778869"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1652092833.023549"
+            },
+            {
+                "user": "U03CMPK03K8",
+                "ts": "1652118349.864329"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1652120747.070359"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1652123354.701839"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "92SO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour tout le monde, est ce qu'on prévoit de faire un point avant jeudi matin ? Ou on se retrouve vers 8h jeudi ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S8PWA7GU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1652090207.879469",
+        "client_msg_id": "880f9f16-e77b-4b60-be56-56234f1a7f12",
+        "text": "Salut Olivier, nous avons notre hacknight ce soir à partir de 18h30 au LPI, on pourra faire un premier point (irl et\/ou en ligne).",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1652089596.229569",
+        "parent_user_id": "U03CMPK03K8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W9fDz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut Olivier, nous avons notre hacknight ce soir à partir de 18h30 au LPI, on pourra faire un premier point (irl et\/ou en ligne)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03CMPK03K8",
+        "type": "message",
+        "ts": "1652090263.778869",
+        "client_msg_id": "57d3ecc1-cc3f-4bbd-9049-d2ca5d00c0d2",
+        "text": "Ah, ok, je vois si je peux venir ! Ce sera où en ligne ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gf3d80ee195b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f3d80ee195b6a4739fa89cc738c89dc9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Olivier",
+            "real_name": "Olivier Mével",
+            "display_name": "Olivier Mével",
+            "team": "T03FC4NDZ",
+            "name": "olivier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1652089596.229569",
+        "parent_user_id": "U03CMPK03K8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jjeT3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, ok, je vois si je peux venir ! Ce sera où en ligne ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1652092833.023549",
+        "client_msg_id": "533cf52c-81d1-4bdd-9983-e33861ec0f26",
+        "text": "En général, on utilise le lien jitsi : <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1652089596.229569",
+        "parent_user_id": "U03CMPK03K8",
+        "attachments": [
+            {
+                "from_url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "service_icon": "https:\/\/meet.jit.si\/images\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "fallback": "Jitsi Meet",
+                "text": "Join a WebRTC video conference powered by the Jitsi Videobridge",
+                "title": "Jitsi Meet",
+                "title_link": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "service_name": "meet.jit.si"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bdBSX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En général, on utilise le lien jitsi : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03CMPK03K8",
+        "type": "message",
+        "ts": "1652118349.864329",
+        "client_msg_id": "55814668-3b2f-4021-bcfe-7eae812c04bb",
+        "text": "Bon, je ne peux pas venir, terminé trop tard. Sorry!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gf3d80ee195b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f3d80ee195b6a4739fa89cc738c89dc9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Olivier",
+            "real_name": "Olivier Mével",
+            "display_name": "Olivier Mével",
+            "team": "T03FC4NDZ",
+            "name": "olivier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1652089596.229569",
+        "parent_user_id": "U03CMPK03K8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TJRJ8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bon, je ne peux pas venir, terminé trop tard. Sorry!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1652119680.169749",
+        "client_msg_id": "d4701c57-52f3-4e3a-a7f6-f38bf75a8d1b",
+        "text": "J’ai commencé un billet ici <https:\/\/docs.google.com\/document\/d\/1WbC1saIpn4LLPwkGt2IFw_tu963o63lZJhIA4yiRVkQ\/edit#>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1651763889.640599",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S4jCD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’ai commencé un billet ici "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1WbC1saIpn4LLPwkGt2IFw_tu963o63lZJhIA4yiRVkQ\/edit#"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1652120610.999189",
+        "client_msg_id": "6413dd1d-1baf-4f6a-a5a7-5223e94aa0b9",
+        "text": "On fera la trad pour la newsletter NTX du mois prochain.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1651763889.640599",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WvVV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On fera la trad pour la newsletter NTX du mois prochain."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1652120747.070359",
+        "client_msg_id": "b8954788-6d85-42cb-bf69-e1ae38880172",
+        "text": "ça marche",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1652089596.229569",
+        "parent_user_id": "U03CMPK03K8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/nf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ça marche"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01S8PWA7GU",
+        "type": "message",
+        "ts": "1652122982.870119",
+        "client_msg_id": "aaf34dac-d8ea-43ea-96ea-e415bb776e7b",
+        "text": "<@U03DEGQ2HT3>: Peux-tu me transmettre la dernière version du notebook d’analyse ? J’aimerais bien déjà reproduire tes analyses de mon côté. Merci !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "c0ad61371238",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1886649922098_c0ad61371238e9b3ed71_72.png",
+            "first_name": "Eduardo",
+            "real_name": "Eduardo de Conto",
+            "display_name": "Eduardo de Conto",
+            "team": "T03FC4NDZ",
+            "name": "eduardoconto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F=Bs9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03DEGQ2HT3"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Peux-tu me transmettre la dernière version du notebook d’analyse ? J’aimerais bien déjà reproduire tes analyses de mon côté. Merci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U03FC5ZAK",
+        "thread_ts": "1651763889.640599",
+        "root": {
+            "user": "U59MQ46DA",
+            "type": "message",
+            "ts": "1651763889.640599",
+            "client_msg_id": "3A068F14-D4C8-496E-ADFE-1CA965F11716",
+            "text": "<@U03FC5ZAK> Est-ce que c’est ok pour qu'on diffuse les infos SO dans la prochaine newsletter de NTX ?",
+            "team": "T03FC4NDZ",
+            "thread_ts": "1651763889.640599",
+            "reply_count": 6,
+            "reply_users_count": 2,
+            "latest_reply": "1652122997.557859",
+            "reply_users": [
+                "U03FC5ZAK",
+                "U59MQ46DA"
+            ],
+            "replies": [
+                {
+                    "user": "U03FC5ZAK",
+                    "ts": "1652036732.361499"
+                },
+                {
+                    "user": "U03FC5ZAK",
+                    "ts": "1652037167.586339"
+                },
+                {
+                    "user": "U59MQ46DA",
+                    "ts": "1652089265.907009"
+                },
+                {
+                    "user": "U03FC5ZAK",
+                    "ts": "1652119680.169749"
+                },
+                {
+                    "user": "U59MQ46DA",
+                    "ts": "1652120610.999189"
+                },
+                {
+                    "user": "U03FC5ZAK",
+                    "ts": "1652122997.557859"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "\/pDu",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03FC5ZAK"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " Est-ce que c’est ok pour qu'on diffuse les infos SO dans la prochaine newsletter de NTX ?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1652122997.557859",
+        "client_msg_id": "7586d7d5-9cb5-4803-aa48-dd4345460796",
+        "text": "Pour celles et ceux que ça intéresse, le billet FR est prêt être à relu ici <https:\/\/docs.google.com\/document\/d\/1WbC1saIpn4LLPwkGt2IFw_tu963o63lZJhIA4yiRVkQ\/edit#heading=h.ob7uikogqcrh>",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IQD=d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour celles et ceux que ça intéresse, le billet FR est prêt être à relu ici "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1WbC1saIpn4LLPwkGt2IFw_tu963o63lZJhIA4yiRVkQ\/edit#heading=h.ob7uikogqcrh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01S8PWA7GU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1652123066.970229",
+        "client_msg_id": "ce763720-8244-4328-ae13-9d34e13e2ee5",
+        "text": "Je me lance sur un récap pour jeudi avec la mise à jour des supports que j’ai tardé à produire.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NywA\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je me lance sur un récap pour jeudi avec la mise à jour des supports que j’ai tardé à produire."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1652123354.701839",
+        "client_msg_id": "7413e576-3fbd-478e-a517-862de1a1d96d",
+        "text": "Salut Olivier,\n\nDe mon côté, je prépare un récap par email adressé aux personnes inscrites jeudi\n\nEt s’il reste des questions \/ remarques \/ choses à régler, on pourra se prévoir une courte visio spécifique d’ici jeudi (je vais préciser cela aussi).",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1652089596.229569",
+        "parent_user_id": "U03CMPK03K8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pepa+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut Olivier,\n\nDe mon côté, je prépare un récap par email adressé aux personnes inscrites jeudi\n\nEt s’il reste des questions \/ remarques \/ choses à régler, on pourra se prévoir une courte visio spécifique d’ici jeudi (je vais préciser cela aussi)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

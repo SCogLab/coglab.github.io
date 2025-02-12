@@ -1,0 +1,60 @@
+[
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1466577710.000002",
+        "text": "<http:\/\/journal.frontiersin.org\/article\/10.3389\/fninf.2016.00022>\n",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Frontiers",
+                "title": "Python Executable Script for Estimating Two Effective Parameters to Individualize Brain-Computer Interfaces: Individual Alpha Frequency and Neurophysiological Predictor",
+                "title_link": "http:\/\/journal.frontiersin.org\/article\/10.3389\/fninf.2016.00022",
+                "text": "A brain-computer interface (BCI) aims to establish communication between the human brain and a computing system so as to enable the interaction between an individual and his environment without using the brain output pathways. Individuals control a BCI system by modulating their brain signals through mental tasks (e.g., motor imagery or mental calculation) or sensory stimulation (e.g., auditory, visual or tactile). As users modulate their brain signals at different frequencies and at different levels, the appropriate characterization of those signals is necessary. The modulation of brain signals through mental tasks is furthermore a skill that requires training. Unfortunately, not all the users acquire such skill. A practical solution to this problem is to assess the user probability of controlling a BCI system. Another possible solution is to set the bandwidth of the brain oscillations, which is highly sensitive to the users’ age, sex and anatomy. With this in mind, NeuroIndex, a Python executable script, estimates a neurophysiological prediction index and the individual alpha frequency (IAF) of the user in question. These two parameters are useful to characterize the user EEG signals, and decide how to go through the complex process of adapting the human brain and the computing system on the basis of previously proposed methods. NeuroIndeX is not only the implementation of those methods, but it also complements the methods each other and provides an alternative way to ob...",
+                "fallback": "Frontiers: Python Executable Script for Estimating Two Effective Parameters to Individualize Brain-Computer Interfaces: Individual Alpha Frequency and Neurophysiological Predictor",
+                "from_url": "http:\/\/journal.frontiersin.org\/article\/10.3389\/fninf.2016.00022",
+                "service_icon": "http:\/\/e01f3a53c0bf5cbade8a-d4a9ca15fc46ba40e71f94dec0aad28c.r40.cf1.rackcdn.com\/favicon_16x16.ico",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JkD46",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/journal.frontiersin.org\/article\/10.3389\/fninf.2016.00022"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

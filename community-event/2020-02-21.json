@@ -1,0 +1,24 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CogLab HackNight #130: <!date^1581353100^{date_short_pretty} from {time}|February 10th, 2020 from 5:45 PM> to <!date^1581368400^{time}|10:00 PM GMT+0100>\nRecurring every week on Monday until <!date^1581893999^{date_pretty}|February 16th, 2020>",
+                "text": "<!date^1581353100^{date_short_pretty} from {time}|February 10th, 2020 from 5:45 PM> to <!date^1581368400^{time}|10:00 PM GMT+0100>\nRecurring every week on Monday until <!date^1581893999^{date_pretty}|February 16th, 2020> at <https:\/\/maps.google.com\/maps?q=CRI%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France%2C+Charles+V-0-MakerLab+Classroom+%2830%29|CRI, 8 bis Rue Charles V, 75004 Paris, France, Charles V-0-MakerLab Classroom (30)>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab HackNight #130",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=N3R1aTRiamc1N2FpYTFyZmZyYXI5YjBoYmFfUjIwMjAwMjEwVDE2NDUwMF8yMDIwMDIxMFQxNjQ1MDBaIHNiM3BtdTl0bzFkY2s3amhhbnBydmNkcXNvQGc",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1582298346.000100",
+        "bot_id": "B4SJBP2L8"
+    }
+]

@@ -1,0 +1,279 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1521584942.000252",
+        "edited": {
+            "user": "U03FC5ZAK",
+            "ts": "1521584964.000000"
+        },
+        "text": "Coucou <!channel> \n\n\n*2 petits rappels* :\n- Le Forum des Sciences Cognitives se rapproche (8 avril à la Cité des Sciences), toutes les contributions et les questions d’organisation se déroulent sur <#C0QMHFEK1|event-fsc> \n- L’AG de la Fresco prévue la veille, avis aux membres disponibles du C.A. pour y représenter le CogLab (personnellement indisponible le jour J, cependant dispo pour briefer en amont)\n\n\n*Concernant la gestion de l’association*\n- Nous finalisons certaines démarches (banque &amp; assurance) pour lancer un système d’adhésion et ouvrir plus largement les HackNights hebdomadaires\n- Il parait judicieux de préparer un Conseil d’Administration d’ici fin avril\n\n\nEt comme d’habitudes, toutes les questions \/ idées \/ contributions sont les bienvenues",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=03ym",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coucou "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\n\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "2 petits rappels",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " :\n- Le Forum des Sciences Cognitives se rapproche (8 avril à la Cité des Sciences), toutes les contributions et les questions d’organisation se déroulent sur "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0QMHFEK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n- L’AG de la Fresco prévue la veille, avis aux membres disponibles du C.A. pour y représenter le CogLab (personnellement indisponible le jour J, cependant dispo pour briefer en amont)\n\n\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Concernant la gestion de l’association",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- Nous finalisons certaines démarches (banque & assurance) pour lancer un système d’adhésion et ouvrir plus largement les HackNights hebdomadaires\n- Il parait judicieux de préparer un Conseil d’Administration d’ici fin avril\n\n\n\nEt comme d’habitudes, toutes les questions \/ idées \/ contributions sont les bienvenues"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Rouffi",
+                "fallback": "Rouffi Archived the card BarCamp CogLab.",
+                "text": "Archived the card *<https:\/\/trello.com\/c\/uZ9IKjiG|BarCamp CogLab>*.",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/3d3e4fd69be807e8d0a24825f25004d3\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1521586899.000378",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Rouffi",
+                "fallback": "New card Forum des Sciences Cognitives 2018 added to list TIMELINE on board ACTIVITÉS.",
+                "text": "In list *TIMELINE* on *<https:\/\/trello.com\/b\/NFHS3ZPa|ACTIVITÉS>*.",
+                "pretext": "New card created",
+                "title": "Forum des Sciences Cognitives 2018",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/Gapm4IWK",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/3d3e4fd69be807e8d0a24825f25004d3\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1521587044.000242",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Rouffi",
+                "fallback": "Rouffi commented on Meetup CogLab N°7 \/ VR: \"Fiche événement \n<https:\/\/paper.dropbox.com\/doc\/0Gtl0ewZldrtryBvsGXo9>\"",
+                "text": "Fiche événement \n<https:\/\/paper.dropbox.com\/doc\/0Gtl0ewZldrtryBvsGXo9>",
+                "pretext": "New comment on *<https:\/\/trello.com\/c\/BdFjiFX7|Meetup CogLab N°7 \/ VR>*",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/3d3e4fd69be807e8d0a24825f25004d3\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1521587125.000170",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Rouffi",
+                "fallback": "Rouffi attached <https:\/\/paper.dropbox.com\/doc\/0Gtl0ewZldrtryBvsGXo9> to card Meetup CogLab N°7 \/ VR.",
+                "text": "Attached *<https:\/\/paper.dropbox.com\/doc\/0Gtl0ewZldrtryBvsGXo9|https:\/\/paper.dropbox.com\/doc\/0Gtl0ewZldrtryBvsGXo9>* to *<https:\/\/trello.com\/c\/BdFjiFX7|Meetup CogLab N°7 \/ VR>*.",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/3d3e4fd69be807e8d0a24825f25004d3\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1521587128.000128",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Rouffi",
+                "fallback": "New card Fab14 \/ FabCity Paris added to list TIMELINE on board ACTIVITÉS.",
+                "text": "In list *TIMELINE* on *<https:\/\/trello.com\/b\/NFHS3ZPa|ACTIVITÉS>*.",
+                "pretext": "New card created",
+                "title": "Fab14 \/ FabCity Paris",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/fNx4xbeN",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/3d3e4fd69be807e8d0a24825f25004d3\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1521587478.000264",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Rouffi",
+                "fallback": "Rouffi commented on Fab14 \/ FabCity Paris: \"Meetup FabCity campus prévu jeudi 29 au Carrefour numérique de la Cité des Sciences <https:\/\/www.eventbrite.fr\/e\/billets-meet-up-fab-city-campus-44199562080>\"",
+                "text": "Meetup FabCity campus prévu jeudi 29 au Carrefour numérique de la Cité des Sciences <https:\/\/www.eventbrite.fr\/e\/billets-meet-up-fab-city-campus-44199562080>",
+                "pretext": "New comment on *<https:\/\/trello.com\/c\/fNx4xbeN|Fab14 \/ FabCity Paris>*",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/3d3e4fd69be807e8d0a24825f25004d3\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1521587540.000361",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Rouffi",
+                "fallback": "New card AG FRESCO 2018 added to list TIMELINE on board ACTIVITÉS.",
+                "text": "In list *TIMELINE* on *<https:\/\/trello.com\/b\/NFHS3ZPa|ACTIVITÉS>*.",
+                "pretext": "New card created",
+                "title": "AG FRESCO 2018",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/Fepmj3r8",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/3d3e4fd69be807e8d0a24825f25004d3\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1521587656.000289",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Rouffi",
+                "fallback": "New card EDHEC In Tech added to list TIMELINE on board ACTIVITÉS.",
+                "text": "In list *TIMELINE* on *<https:\/\/trello.com\/b\/NFHS3ZPa|ACTIVITÉS>*.",
+                "pretext": "New card created",
+                "title": "EDHEC In Tech",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/7fG1Hlrk",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/3d3e4fd69be807e8d0a24825f25004d3\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1521587778.000260",
+        "bot_id": "B66HQV43C"
+    }
+]

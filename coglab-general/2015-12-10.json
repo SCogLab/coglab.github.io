@@ -1,0 +1,97 @@
+[
+    {
+        "user": "U03HY4P8V",
+        "type": "message",
+        "ts": "1449736357.000002",
+        "text": "<@U03FC5ZAK>: Arf... J'ai rdv a l'INRIA de sophia avec le service valorisation et transfert techno ca jour la!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g188c1f43049",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3188c1f43049ebd001b834c2efa1fdf8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Romain",
+            "real_name": "Romain TRACHEL",
+            "display_name": "romaintrach",
+            "team": "T03FC4NDZ",
+            "name": "romaintrach",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OlYk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Arf... J'ai rdv a l'INRIA de sophia avec le service valorisation et transfert techno ca jour la!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1449752471.000002",
+        "text": ":( d'après le Doodle, c'est le seul moment où tout le monde est dispo en janvier \nOn peux peut être prévoir un Skype en soirée ? \n<http:\/\/doodle.com\/poll\/kyct97ateqgkeqpt>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "CogLab Summit - Doodle: easy scheduling",
+                "title_link": "http:\/\/doodle.com\/poll\/kyct97ateqgkeqpt",
+                "text": "Objectifs : ======= - Se réunir - Souhaiter la bonne année - Faire le point sur la\/les année(s) passée(s) - Les projets en état d'avancement - Les projets en attente - Et plus si affinités...",
+                "fallback": "CogLab Summit - Doodle: easy scheduling",
+                "from_url": "http:\/\/doodle.com\/poll\/kyct97ateqgkeqpt",
+                "thumb_url": "http:\/\/doodle.com\/graphics\/static\/facebookSharingThumbnail.jpg",
+                "thumb_width": 100,
+                "thumb_height": 100,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NY30",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": ":( d'après le Doodle, c'est le seul moment où tout le monde est dispo en janvier \nOn peux peut être prévoir un Skype en soirée ? \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/doodle.com\/poll\/kyct97ateqgkeqpt"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

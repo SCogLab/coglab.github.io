@@ -1,0 +1,957 @@
+[
+    {
+        "text": "Le programme de notre zone “Village Innovation” la semaine prochaine",
+        "files": [
+            {
+                "id": "FNS3JV3QV",
+                "created": 1569494206,
+                "timestamp": 1569494206,
+                "name": "Road Book VILLAGE INNOVATION BY ADVANCED TOURISM IFTM 2019.pdf",
+                "title": "Road Book VILLAGE INNOVATION BY ADVANCED TOURISM IFTM 2019.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U03FC5ZAK",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 524009,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FNS3JV3QV\/road_book_village_innovation_by_advanced_tourism_iftm_2019.pdf?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FNS3JV3QV\/download\/road_book_village_innovation_by_advanced_tourism_iftm_2019.pdf?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FNS3JV3QV-b5d17cf556\/road_book_village_innovation_by_advanced_tourism_iftm_2019_thumb_pdf.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_pdf_w": 910,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U03FC5ZAK\/FNS3JV3QV\/road_book_village_innovation_by_advanced_tourism_iftm_2019.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-FNS3JV3QV-d9c22d58c6",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U03FC5ZAK",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CEns",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le programme de notre zone “Village Innovation” la semaine prochaine"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1569494207.000400",
+        "client_msg_id": "2b103017-5f89-4b45-a03e-45b6a057c308"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1569502232.001100",
+        "client_msg_id": "1c6149b5-c19d-4d66-b937-4c4c79ff3b3a",
+        "text": "Pour MQTT j’utilise Mosquitto pour mes protos Processing \/ Voiture autonome <http:\/\/mosquitto.org\/>\n\nCf <https:\/\/github.com\/mqtt\/mqtt.github.io\/wiki\/servers> ping <@U59MQ46DA>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569502232.001100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1569564065.000100",
+        "reply_users": [
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1569564065.000100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "title": "Eclipse Mosquitto",
+                "title_link": "http:\/\/mosquitto.org\/",
+                "text": "Eclipse Mosquitto is an open source (EPL\/EDL licensed) message broker that implements the MQTT protocol versions 5.0, 3.1.1 and 3.1. Mosquitto is lightweight and is suitable for use on all devices",
+                "fallback": "Eclipse Mosquitto",
+                "ts": 1515425997,
+                "from_url": "http:\/\/mosquitto.org\/",
+                "service_icon": "http:\/\/mosquitto.org\/favicon-16x16.png",
+                "service_name": "mosquitto.org",
+                "id": 1,
+                "original_url": "http:\/\/mosquitto.org\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vD8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour MQTT j’utilise Mosquitto pour mes protos Processing \/ Voiture autonome "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/mosquitto.org\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nCf "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/mqtt\/mqtt.github.io\/wiki\/servers"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ping "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1569502599.005300",
+        "client_msg_id": "34e2e696-1f6d-4233-a1fb-96fccc40b26e",
+        "text": "Dans les choses à faire :\n- A priori la partie OSC fonctionne, il faut *absolument* faire un *test d’acquisition* aujourd’hui en condition réelle pour le traitement algorithmique (il n’y a rien de fait encore à ce niveau !) <@U59MQ46DA> <@UMQA8DN92>\n- Si quelqu’un veux se pencher sur la création d’un fichier .gitignore pour éviter les push de fichiers non désiré (fichier de compilation, temporaire, config perso, ..) sur GitHub\n- Possibilité de mettre une piste musicale sur le Melomind pendant l’acquisition ?\n- J’avance sur l’IHM jusqu’à 18h00 max aujourd’hui",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569502599.005300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1569505724.010600",
+        "reply_users": [
+            "U03FC5ZAK",
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1569504148.010100"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1569505724.010600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+2WTi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dans les choses à faire :\n- A priori la partie OSC fonctionne, il faut "
+                            },
+                            {
+                                "type": "text",
+                                "text": "absolument",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " faire un "
+                            },
+                            {
+                                "type": "text",
+                                "text": "test d’acquisition",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " aujourd’hui en condition réelle pour le traitement algorithmique (il n’y a rien de fait encore à ce niveau !) "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UMQA8DN92"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- Si quelqu’un veux se pencher sur la création d’un fichier .gitignore pour éviter les push de fichiers non désiré (fichier de compilation, temporaire, config perso, ..) sur GitHub\n- Possibilité de mettre une piste musicale sur le Melomind pendant l’acquisition ?\n- J’avance sur l’IHM jusqu’à 18h00 max aujourd’hui"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1569502877.006200",
+        "client_msg_id": "dfff7a9f-398c-423a-97ae-e4c5d12bb407",
+        "text": "- <@ULSDVUUVA> est ce que c’est bon pour les images de ton côté ?\nJe viens d’en parcourir quelque unes, j’ai l’impression que c’est pas mal <https:\/\/drive.google.com\/drive\/u\/0\/folders\/1wiYk4FQ3Xjwddo1xNg4-kHWke_NnzOA_>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9SQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "- "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "ULSDVUUVA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " est ce que c’est bon pour les images de ton côté ?\nJe viens d’en parcourir quelque unes, j’ai l’impression que c’est pas mal "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/u\/0\/folders\/1wiYk4FQ3Xjwddo1xNg4-kHWke_NnzOA_"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "ULSDVUUVA",
+        "type": "message",
+        "ts": "1569503128.009500",
+        "client_msg_id": "d24803ae-e2e4-498e-b70d-fd8c1ae903d2",
+        "text": "<@U03FC5ZAK> j'ai couper toutes les images au format paysage (plus ou moins parfait :speak_no_evil::hear_no_evil::see_no_evil:), et concernant les \"dimensions\": toutes ont un hauteur &gt;500. Explique-moi, \"en parcourir\" ça veut alors dire quoi?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "d6568f25a9a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-08\/3075305835828_d6568f25a9a41b2be2ef_72.jpg",
+            "first_name": "Maike",
+            "real_name": "Maike",
+            "display_name": "Maike",
+            "team": "T03FC4NDZ",
+            "name": "maikeherbort",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569503128.009500",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1569505085.010400",
+        "reply_users": [
+            "U03FC5ZAK",
+            "ULSDVUUVA"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1569503377.009700"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1569503423.009900"
+            },
+            {
+                "user": "ULSDVUUVA",
+                "ts": "1569505085.010400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mcir",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " j'ai couper toutes les images au format paysage (plus ou moins parfait "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "speak_no_evil",
+                                "unicode": "1f64a"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hear_no_evil",
+                                "unicode": "1f649"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "see_no_evil",
+                                "unicode": "1f648"
+                            },
+                            {
+                                "type": "text",
+                                "text": "), et concernant les \"dimensions\": toutes ont un hauteur >500. Explique-moi, \"en parcourir\" ça veut alors dire quoi?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1569503377.009700",
+        "client_msg_id": "66c0670d-24c2-4fc7-8171-92a3a560863a",
+        "text": "parcourir = en ouvrir quelques unes pour vérifier",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569503128.009500",
+        "parent_user_id": "ULSDVUUVA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FwJr0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "parcourir = en ouvrir quelques unes pour vérifier"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1569503423.009900",
+        "client_msg_id": "09ef5bfc-3bce-4d85-9b18-e424695e6bfb",
+        "text": "dans ce contexte",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569503128.009500",
+        "parent_user_id": "ULSDVUUVA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ulhj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "dans ce contexte"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1569504148.010100",
+        "client_msg_id": "45a608d1-fdd6-49c9-8228-9692713edc97",
+        "text": "Un exemple de .gitignore <https:\/\/github.com\/Rouffi\/TourismEEG\/blob\/master\/.gitignore>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569502599.005300",
+        "parent_user_id": "U03FC5ZAK",
+        "attachments": [
+            {
+                "fallback": "[Rouffi\/TourismEEG] .gitignore",
+                "text": "```\n*.iml\n.gradle\n\/local.properties\n\/.idea\/caches\n\/.idea\/libraries\n\/.idea\/modules.xml\n\/.idea\/workspace.xml\n\/.idea\/navEditor.xml\n\/.idea\/assetWizardSettings.xml\n.DS_Store\n\/build\n\/captures\n.externalNativeBuild\n.cxx\n\n```",
+                "title": ".gitignore",
+                "footer": "<https:\/\/github.com\/Rouffi\/TourismEEG|Rouffi\/TourismEEG>",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/Rouffi\/TourismEEG\/blob\/master\/.gitignore",
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "color": "24292f",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "bot_id": "BA73T1BTJ",
+                "app_unfurl_url": "https:\/\/github.com\/Rouffi\/TourismEEG\/blob\/master\/.gitignore",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A0F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un exemple de .gitignore "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/Rouffi\/TourismEEG\/blob\/master\/.gitignore"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "ULSDVUUVA",
+        "type": "message",
+        "ts": "1569505085.010400",
+        "client_msg_id": "8ab9ba4d-f578-4b0c-b95a-1f620d3d47a4",
+        "text": "Ca ne serait pas avec plus de sens de les intégrer directement dans l'application et alors vérifier lesquelles ne marche pas \/ ne sont pas assez bien in true and real usability?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "d6568f25a9a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-08\/3075305835828_d6568f25a9a41b2be2ef_72.jpg",
+            "first_name": "Maike",
+            "real_name": "Maike",
+            "display_name": "Maike",
+            "team": "T03FC4NDZ",
+            "name": "maikeherbort",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569503128.009500",
+        "parent_user_id": "ULSDVUUVA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6p01",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ca ne serait pas avec plus de sens de les intégrer directement dans l'application et alors vérifier lesquelles ne marche pas \/ ne sont pas assez bien in true and real usability?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1569505724.010600",
+        "client_msg_id": "497d1bbf-5867-484d-9320-7ed95648761e",
+        "text": "ok, j’ai ça du coup :\n\/*\/build\/\n\n# Crashlytics configuations\ncom_crashlytics_export_strings.xml\n\n# Local configuration file (sdk path, etc)\nlocal.properties\n\n# Gradle generated files\n.gradle\/\n\n# Signing files\n.signing\/\n\n# User-specific configurations\n.idea\/libraries\/\n.idea\/workspace.xml\n.idea\/tasks.xml\n.idea\/.name\n.idea\/compiler.xml\n.idea\/copyright\/profiles_settings.xml\n.idea\/encodings.xml\n.idea\/misc.xml\n.idea\/modules.xml\n.idea\/scopes\/scope_settings.xml\n.idea\/vcs.xml\n*.iml\n\n# OS-specific files\n.DS_Store\n.DS_Store?\n._*\n.Spotlight-V100\n.Trashes\nehthumbs.db\nThumbs.db",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569502599.005300",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vf0\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok, j’ai ça du coup :\n\/*\/build\/\n\n# Crashlytics configuations\ncom_crashlytics_export_strings.xml\n\n# Local configuration file (sdk path, etc)\nlocal.properties\n\n# Gradle generated files\n.gradle\/\n\n# Signing files\n.signing\/\n\n# User-specific configurations\n.idea\/libraries\/\n.idea\/workspace.xml\n.idea\/tasks.xml\n.idea\/.name\n.idea\/compiler.xml\n.idea\/copyright\/profiles_settings.xml\n.idea\/encodings.xml\n.idea\/misc.xml\n.idea\/modules.xml\n.idea\/scopes\/scope_settings.xml\n.idea\/vcs.xml\n*.iml\n\n# OS-specific files\n.DS_Store\n.DS_Store?\n._*\n.Spotlight-V100\n.Trashes\nehthumbs.db\nThumbs.db"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "<@UMQA8DN92> <@U03FC5ZAK> J’envoie le fichier Export ici :",
+        "files": [
+            {
+                "id": "FNU614A1M",
+                "created": 1569506003,
+                "timestamp": 1569506003,
+                "name": "EEGExport.java",
+                "title": "EEGExport.java",
+                "mimetype": "text\/plain",
+                "filetype": "java",
+                "pretty_type": "Java",
+                "user": "U59MQ46DA",
+                "user_team": "T03FC4NDZ",
+                "editable": true,
+                "size": 7332,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FNU614A1M\/eegexport.java?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FNU614A1M\/download\/eegexport.java?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U59MQ46DA\/FNU614A1M\/eegexport.java",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-FNU614A1M-d739b6a38e",
+                "edit_link": "https:\/\/scoglab.slack.com\/files\/U59MQ46DA\/FNU614A1M\/eegexport.java\/edit",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U59MQ46DA",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C\/4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UMQA8DN92"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " J’envoie le fichier Export ici :"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1569506003.011400",
+        "client_msg_id": "c4d07348-e843-4728-b3ea-2ba5617061bb"
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1569506064.012100",
+        "client_msg_id": "108c30ad-9eb0-4af7-965b-137e0b34da2a",
+        "text": "Il faut rajouter dans le build.grade de l’app la ligne : implementation ‘de.siegmar:fastcsv:1.0.3’",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569506064.012100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1569762869.003400",
+        "reply_users": [
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1569762869.003400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Aze",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il faut rajouter dans le build.grade de l’app la ligne : implementation ‘de.siegmar"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fastcsv"
+                            },
+                            {
+                                "type": "text",
+                                "text": "1.0.3’"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "UMQA8DN92"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1569531882.003100",
+        "client_msg_id": "f468f266-20d3-4189-937c-78329b11ecb9",
+        "text": "Yo la team, pour notre dernier sprint ce dimanche, je peux vous accueillir chez moi, vous préférez :\n:one: un créneau 14h-18h intensif (acquisition \/ test demo)\n:two: un créneau 13h-18h en démarant par un brunch\n:three: une autre proposition ou simplement pas dispo",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569531882.003100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1569587021.000600",
+        "reply_users": [
+            "UMSL037JT",
+            "U03FEH3N8"
+        ],
+        "replies": [
+            {
+                "user": "UMSL037JT",
+                "ts": "1569531967.003200"
+            },
+            {
+                "user": "U03FEH3N8",
+                "ts": "1569587021.000600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vv6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yo la team, pour notre dernier sprint ce dimanche, je peux vous accueillir chez moi, vous préférez :\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "one",
+                                "unicode": "0031-fe0f-20e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " un créneau 14h-18h intensif (acquisition \/ test demo)\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two",
+                                "unicode": "0032-fe0f-20e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " un créneau 13h-18h en démarant par un brunch\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "three",
+                                "unicode": "0033-fe0f-20e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " une autre proposition ou simplement pas dispo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "one",
+                "users": [
+                    "U03FC5ZAK",
+                    "UMSL037JT",
+                    "UMQA8DN92"
+                ],
+                "count": 3
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U03FC5ZAK",
+                    "U59MQ46DA"
+                ],
+                "count": 2
+            },
+            {
+                "name": "three",
+                "users": [
+                    "U03FC5ZAK",
+                    "U03FEH3N8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "UMSL037JT",
+        "type": "message",
+        "ts": "1569531967.003200",
+        "client_msg_id": "f3cac2e0-d1e9-4281-87cd-a98925a99ec7",
+        "text": "Plutôt 14h-18h pour moi",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gc83ebac7853",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1c83ebac7853c13b22f556e7fdb52598.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Maxime Osty",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "maxime.osty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569531882.003100",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "igvz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plutôt 14h-18h pour moi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1569564065.000100",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1569564563.000000"
+        },
+        "client_msg_id": "a0932f3e-6363-4bcf-8faa-85335b3f87cf",
+        "text": "Ok merci pour le lien, je vais faire des tests avec Eclipse Paho pour la partie cliente : <https:\/\/www.eclipse.org\/paho\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569502232.001100",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D6c=T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok merci pour le lien, je vais faire des tests avec Eclipse Paho pour la partie cliente : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.eclipse.org\/paho\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

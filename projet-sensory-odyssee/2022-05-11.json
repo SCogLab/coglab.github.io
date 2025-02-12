@@ -1,0 +1,352 @@
+[
+    {
+        "user": "U02TAB4CMC2",
+        "type": "message",
+        "ts": "1652258050.506419",
+        "client_msg_id": "c71aa5e5-f43d-4eb0-8fc8-36fc6bea6735",
+        "text": "Il n'y a donc pas besoin de moi jeudi, c'est ça ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g4e694b7982d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4e694b7982d754af51b667b4c8763eb7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Suzanne",
+            "real_name": "Suzanne Hébrard",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "suzanne0hebrard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1652218911.128149",
+        "parent_user_id": "U02TAB4CMC2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yqx3d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il n'y a donc pas besoin de moi jeudi, c'est ça ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03CMPK03K8",
+        "type": "message",
+        "ts": "1652271293.763699",
+        "client_msg_id": "ac39055c-21a5-4c54-9071-f9f1e60d36f2",
+        "text": "J'interviens :slightly_smiling_face: <@U03FC5ZAK> tu es sur qu'on est assez jeudi ? On avait l'impression avec <@U03ELCLQTKQ> qu'il manquait quelqu'un.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gf3d80ee195b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f3d80ee195b6a4739fa89cc738c89dc9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Olivier",
+            "real_name": "Olivier Mével",
+            "display_name": "Olivier Mével",
+            "team": "T03FC4NDZ",
+            "name": "olivier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1652218911.128149",
+        "parent_user_id": "U02TAB4CMC2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VgW3B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'interviens "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tu es sur qu'on est assez jeudi ? On avait l'impression avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03ELCLQTKQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " qu'il manquait quelqu'un."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03ELCLQTKQ",
+        "type": "message",
+        "ts": "1652280002.802709",
+        "client_msg_id": "6a7cd69b-c279-417a-93c5-b1f0a1da701a",
+        "text": "Hello à tous-tes, effectivement, si l'on se réfère au tableau de coordination, il faudrait 3 observateurs en même dans l'exposition, 1 personne à l'accueil, de préférence 2 personnes pour la partie technique et 4 animateurs. Pour les 4 animateurs: Romain, Jad, Adrien, Benjamin; 1 accueil: Anne-Sarah; 2 technique: Hans et Olivier; 3 observateurs: Anastasia, Léonie et ... . Idéalement, il nous faudrait une personne de plus!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "ge6c4eec9751",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e6c4eec9751988cb88647f49f8ca5141.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Anastasia",
+            "real_name": "Anastasia Grigorieva",
+            "display_name": "Anastasia Grigorieva",
+            "team": "T03FC4NDZ",
+            "name": "anastasia.grig",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1652218911.128149",
+        "parent_user_id": "U02TAB4CMC2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IJX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello à tous-tes, effectivement, si l'on se réfère au tableau de coordination, il faudrait 3 observateurs en même dans l'exposition, 1 personne à l'accueil, de préférence 2 personnes pour la partie technique et 4 animateurs. Pour les 4 animateurs: Romain, Jad, Adrien, Benjamin; 1 accueil: Anne-Sarah; 2 technique: Hans et Olivier; 3 observateurs: Anastasia, Léonie et ... . Idéalement, il nous faudrait une personne de plus!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1652295048.378889",
+        "client_msg_id": "9ee76468-e9aa-4065-9d58-849aed9310e4",
+        "text": "Coucou\n\nDésolé je n'ai pas beaucoup communiqué depuis mon dernier mail\n\nJe suis rentré il y a peu chez moi, longues journée au bureau, je mange et termine les quelques points et préparatifs que j'ai en tête.\n\nJ'ai avancé sur plusieurs éléments hier soir et essaie de vous faire un récap dès que possible (et accessoirement d'avoir un minimum de sommeil)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/BKh0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coucou\n\nDésolé je n'ai pas beaucoup communiqué depuis mon dernier mail\n\nJe suis rentré il y a peu chez moi, longues journée au bureau, je mange et termine les quelques points et préparatifs que j'ai en tête.\n\nJ'ai avancé sur plusieurs éléments hier soir et essaie de vous faire un récap dès que possible (et accessoirement d'avoir un minimum de sommeil)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1652295353.109129",
+        "client_msg_id": "b134bdeb-243f-475e-ad08-fb8f2532300c",
+        "text": "Hello,\n\nPlus on est nombreux et plus on pourra réaliser les sessions dans de bonnes conditions.\n\nAprès on s'adapte en fonction de la situation, on a une petite marge de manœuvre si le reste des personnes mobilisé est présent.\n\nDu côté de <@U02MAJBVBEZ> <@U02GLDKAWQ2> &amp; <@U02GLDK69UJ> c'est bon pour vous ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1652218911.128149",
+        "parent_user_id": "U02TAB4CMC2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WGY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello,\n\nPlus on est nombreux et plus on pourra réaliser les sessions dans de bonnes conditions.\n\nAprès on s'adapte en fonction de la situation, on a une petite marge de manœuvre si le reste des personnes mobilisé est présent.\n\nDu côté de "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02MAJBVBEZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02GLDKAWQ2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " & "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02GLDK69UJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " c'est bon pour vous ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02GLDK69UJ",
+        "type": "message",
+        "ts": "1652295604.566349",
+        "client_msg_id": "c7fc4f32-79bb-464f-9295-76b1e9d010c2",
+        "text": "Oui toujours bon :wink:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "ea8311753d0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-28\/2671649382305_ea8311753d0c43d01df7_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "lesur.benjamin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1652218911.128149",
+        "parent_user_id": "U02TAB4CMC2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nM7GA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui toujours bon "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02GLDKAWQ2",
+        "type": "message",
+        "ts": "1652298011.114289",
+        "client_msg_id": "79c28b2c-23a5-4335-b32a-74d74ec80baf",
+        "text": "Oui et pour jad aussi normalement !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "07907cc25c46",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-05\/2590402880352_07907cc25c46364153a5_72.jpg",
+            "first_name": "Adrien",
+            "real_name": "Adrien Paire",
+            "display_name": "Adrien Paire",
+            "team": "T03FC4NDZ",
+            "name": "adrienpaire",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1652218911.128149",
+        "parent_user_id": "U02TAB4CMC2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d6EA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui et pour jad aussi normalement !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

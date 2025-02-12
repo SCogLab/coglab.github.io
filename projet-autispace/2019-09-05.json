@@ -1,0 +1,99 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1567715750.001800",
+        "client_msg_id": "411db084-c693-4f0f-b729-7c4ec5ddf19b",
+        "text": "Je vais pitcher le projet Autispace à ce meetup la semaine prochaine\n<https:\/\/www.meetup.com\/fr-FR\/WebXR-Paris\/events\/264517019\/>\n\nPour cela, j'ai commencé à préparé un mini deck de Slide, basé sur la présentation de d' <@U5JBN3M8Q>, que je vais réduire ce WE (3 slides et 5 min) <https:\/\/docs.google.com\/presentation\/d\/1eprZcrDmdgEL0dafiMMyd7RZTIJnAXFFUDlAjReDX6s\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Rencontre informelle WebXR @ Le Pavillon!",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/WebXR-Paris\/events\/264517019\/",
+                "text": "ven. 13 sept. 2019 à 16:30: Vendredi 13 retrouvons-vous 16h30 - 18h30 @ \"Le Pavillon\" <https:\/\/www.lepavillonimmersif.com> situe au 39 Rue du Caire, 75002 Paris pour discuter realite virtuelle et realit",
+                "fallback": "Meetup: Rencontre informelle WebXR @ Le Pavillon!",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/2\/0\/c\/600_484560524.jpeg",
+                "fields": [
+                    {
+                        "title": "Où",
+                        "value": "Le Pavillon 39 Rue du Caire Paris",
+                        "short": true
+                    },
+                    {
+                        "title": "Quand",
+                        "value": "ven. 13 sept. 2019 à 16:30",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/WebXR-Paris\/events\/264517019\/",
+                "image_width": 445,
+                "image_height": 250,
+                "image_bytes": 131850,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/fr-FR\/m_swarm_120x120.4f86abc9.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/WebXR-Paris\/events\/264517019\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gidt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je vais pitcher le projet Autispace à ce meetup la semaine prochaine\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/WebXR-Paris\/events\/264517019\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nPour cela, j'ai commencé à préparé un mini deck de Slide, basé sur la présentation de d' "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U5JBN3M8Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", que je vais réduire ce WE (3 slides et 5 min) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/presentation\/d\/1eprZcrDmdgEL0dafiMMyd7RZTIJnAXFFUDlAjReDX6s\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA",
+                    "U03FEH3N8"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

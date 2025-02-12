@@ -1,0 +1,78 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1624443414.005300",
+        "client_msg_id": "9a0f4e87-d582-47c2-86e7-0eba6084091c",
+        "text": "La Maker Faire Paris se tiendra en ligne en novembre. L'appel à Maker est lancé. Qui est partant pour cet événement ?\n\n<https:\/\/paris.makerfaire.com\/|https:\/\/paris.makerfaire.com\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Maker Faire Paris",
+                "title": "Maker Faire Paris 2021 -Édition digitale - Du 26 au 28 novembre 2021",
+                "title_link": "https:\/\/paris.makerfaire.com\/",
+                "text": "Maker Faire Paris 2021 – Édition digitale sera un événement 100% digital qui s’exprimera à travers une plateforme de diffusion en streaming dédiée, sur le site <http:\/\/Paris.makerfaire.com|Paris.makerfaire.com>, les 26, 27 et 28 novembre 2021.",
+                "fallback": "Maker Faire Paris: Maker Faire Paris 2021 -Édition digitale - Du 26 au 28 novembre 2021",
+                "thumb_url": "https:\/\/i0.wp.com\/paris.makerfaire.com\/wp-content\/uploads\/sites\/109\/2021\/06\/MakerFaire_POSTER_vdef-scaled.jpg?fit=1840%2C2560&ssl=1",
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "makerfaireglobal",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/paris.makerfaire.com\/",
+                "thumb_width": 1840,
+                "thumb_height": 2560,
+                "service_icon": "https:\/\/paris.makerfaire.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/paris.makerfaire.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iYOka",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La Maker Faire Paris se tiendra en ligne en novembre. L'appel à Maker est lancé. Qui est partant pour cet événement ?\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/paris.makerfaire.com\/",
+                                "text": "https:\/\/paris.makerfaire.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "UMSL037JT",
+                    "U59MQ46DA"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

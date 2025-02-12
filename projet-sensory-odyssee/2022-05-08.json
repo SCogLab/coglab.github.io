@@ -1,0 +1,90 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1652036732.361499",
+        "client_msg_id": "f72950e5-225e-483e-a07c-7c6d58bae79b",
+        "text": "Hello, ça dépend, que souhaites tu diffuser ?\n\nJe suis en retard sur la com’ et pensais prendre le temps d’écrire un article de blog et la newsletter demain soir en HackNight\n\nJ’ai regroupé quelques éléments ce weekend",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1651763889.640599",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ej7Aj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, ça dépend, que souhaites tu diffuser ?\n\nJe suis en retard sur la com’ et pensais prendre le temps d’écrire un article de blog et la newsletter demain soir en HackNight\n\nJ’ai regroupé quelques éléments ce weekend"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1652037167.586339",
+        "client_msg_id": "1a2db2ec-ff7b-41b1-b783-309247aaec1b",
+        "text": "Suggestion : on pourrait partager le billet pour la newsletter de la Fresco + en faire une traduction en EN pour NTX en écrivant à 4 mains demain soir\n\nTu sera au LPI pour la <#C0R6W4X2Q|coglab-hacknight>?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1651763889.640599",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xDYO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Suggestion : on pourrait partager le billet pour la newsletter de la Fresco + en faire une traduction en EN pour NTX en écrivant à 4 mains demain soir\n\nTu sera au LPI pour la "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0R6W4X2Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,136 @@
+[
+    {
+        "subtype": "thread_broadcast",
+        "user": "U03FC5ZAK",
+        "thread_ts": "1599119975.005000",
+        "root": {
+            "user": "UQX7ZD4C9",
+            "type": "message",
+            "ts": "1599119975.005000",
+            "client_msg_id": "cb4bd109-6ef0-43f3-bd30-8bd1385cdfe5",
+            "text": "Salut tout le monde,\nDans le cadre du développement de Wisear, on cherche une solution hardware simple pour pouvoir streamer en Bluetooth les données collectées par nos capteurs vers un smartphone.\nOn a vu passer pas mal de projets qui prennent un Cyton OpenBCI auxquels on ajoute un module Bluetooth connecté via une breadboard ou alors qui utilisent le WiFi Shield d'OBCI mais du coup la data est transmise en WiFi et non en BLE.\nEst-ce que vous avez en tête une board qui intégrerait par défaut les composants et le firmware pour streamer de la data EEG\/EMG en Bluetooth?\nMerci d'avance!",
+            "team": "T03FC4NDZ",
+            "thread_ts": "1599119975.005000",
+            "reply_count": 7,
+            "reply_users_count": 3,
+            "latest_reply": "1599567067.007500",
+            "reply_users": [
+                "U59MQ46DA",
+                "UQX7ZD4C9",
+                "U03FC5ZAK"
+            ],
+            "replies": [
+                {
+                    "user": "U59MQ46DA",
+                    "ts": "1599129247.005300"
+                },
+                {
+                    "user": "UQX7ZD4C9",
+                    "ts": "1599149166.005500"
+                },
+                {
+                    "user": "UQX7ZD4C9",
+                    "ts": "1599241825.006500"
+                },
+                {
+                    "user": "U59MQ46DA",
+                    "ts": "1599291496.006800"
+                },
+                {
+                    "user": "UQX7ZD4C9",
+                    "ts": "1599319686.007000"
+                },
+                {
+                    "user": "U03FC5ZAK",
+                    "ts": "1599486642.007200"
+                },
+                {
+                    "user": "UQX7ZD4C9",
+                    "ts": "1599567067.007500"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "y3MP",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Salut tout le monde,\nDans le cadre du développement de Wisear, on cherche une solution hardware simple pour pouvoir streamer en Bluetooth les données collectées par nos capteurs vers un smartphone.\nOn a vu passer pas mal de projets qui prennent un Cyton OpenBCI auxquels on ajoute un module Bluetooth connecté via une breadboard ou alors qui utilisent le WiFi Shield d'OBCI mais du coup la data est transmise en WiFi et non en BLE.\nEst-ce que vous avez en tête une board qui intégrerait par défaut les composants et le firmware pour streamer de la data EEG\/EMG en Bluetooth?\nMerci d'avance!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1599486642.007200",
+        "client_msg_id": "a516f5fe-24d1-47a8-b005-6e764ff5cd98",
+        "text": "A regarder peut être :\n• Du côté de MindAffect, ils ont une base Arduino \/ OpenBCI un peu modifié il me semble <https:\/\/www.mindaffect.nl\/>\n• Posé la question sur le Slack global NeuroTechX ou le forum officiel OpenBCI\n• Pierre ou Sylvain de Timeflux auront peut-être des suggestions également  (sur Slack NTX) <https:\/\/timeflux.io\/>",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SGp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A regarder peut être :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Du côté de MindAffect, ils ont une base Arduino \/ OpenBCI un peu modifié il me semble "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.mindaffect.nl\/"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Posé la question sur le Slack global NeuroTechX ou le forum officiel OpenBCI"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Pierre ou Sylvain de Timeflux auront peut-être des suggestions également  (sur Slack NTX) "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/timeflux.io\/"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

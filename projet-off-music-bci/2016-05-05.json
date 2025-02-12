@@ -1,0 +1,54 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1462483657.000002",
+        "text": "<http:\/\/www.bbc.com\/news\/technology-26081451>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "BBC News",
+                "title": "How to compose classical music with your brainwaves - BBC News",
+                "title_link": "http:\/\/www.bbc.com\/news\/technology-26081451",
+                "text": "BBC Click's LJ Rich gets her brain wired to make music.",
+                "fallback": "BBC News: How to compose classical music with your brainwaves - BBC News",
+                "image_url": "http:\/\/ichef.bbci.co.uk\/news\/560\/media\/images\/72833000\/jpg\/_72833454_brain_music.jpg",
+                "from_url": "http:\/\/www.bbc.com\/news\/technology-26081451",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 37224,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "15C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.bbc.com\/news\/technology-26081451"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #180 [Online EN]: <!date^1612805400^{date_short_pretty} from {time}|February 8th, 2021 from 6:30 PM> to <!date^1612810800^{time}|8:00 PM GMT+0100>",
+                "text": "<!date^1612805400^{date_short_pretty} from {time}|February 8th, 2021 from 6:30 PM> to <!date^1612810800^{time}|8:00 PM GMT+0100> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #180 [Online EN]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NmUzcWo0YTJ1OGZ0Mm4waWFvbmxjOGdoaWEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1612801801.003200",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #180 [Online FR]: <!date^1612814400^{date_short_pretty} from {time}|February 8th, 2021 from 9:00 PM> to <!date^1612819800^{time}|10:30 PM GMT+0100>",
+                "text": "<!date^1612814400^{date_short_pretty} from {time}|February 8th, 2021 from 9:00 PM> to <!date^1612819800^{time}|10:30 PM GMT+0100> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #180 [Online FR]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=N29kMDloaDk5N2YzbmhzaGwzbmdnazRmNjcgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1612810807.003300",
+        "bot_id": "B4SJBP2L8"
+    }
+]

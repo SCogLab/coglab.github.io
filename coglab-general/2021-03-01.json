@@ -1,0 +1,34 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U01PJMJD0JJ",
+        "text": "<@U01PJMJD0JJ> a rejoint le canal",
+        "type": "message",
+        "ts": "1614623632.000300"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card WEPASCO added to list ÉVÉNEMENTS à venir on board Activités CogLab (public).",
+                "text": "In list *ÉVÉNEMENTS à venir* on *<https:\/\/trello.com\/b\/NFHS3ZPa|Activités CogLab (public)>*.",
+                "pretext": "New card created",
+                "title": "WEPASCO",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/jV5nCYZe",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "https:\/\/trello-members.s3.amazonaws.com\/50080b67614e7d5e0528a0d3\/8702436e6aff83ed056cbc687384d49f\/30.png",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1614631383.000400",
+        "bot_id": "B66HQV2AW"
+    }
+]

@@ -1,0 +1,136 @@
+[
+    {
+        "subtype": "pinned_item",
+        "text": "<@U03FC5ZAK> pinned a message to this channel.",
+        "user": "U03FC5ZAK",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[April 7th, 2016 4:26 AM] rouffi: <!channel>: Bonjour à tous,\n\nLa newsletter du CogLab \/ NeuroTechX Paris est online :simple_smile:\nAvez-vous des questions, avis, suggestions ?\n\n<http:\/\/us6.campaign-archive2.com\/?u=4cd8f74435&amp;id=646c28acfc>",
+                "ts": "1460028368.000022",
+                "author_id": "U03FC5ZAK",
+                "author_subname": "Romain ROUYER",
+                "channel_id": "C03FC4NE9",
+                "channel_team": "T03FC4NDZ",
+                "channel_name": "coglab-general",
+                "is_msg_unfurl": true,
+                "text": "<!channel>: Bonjour à tous,\n\nLa newsletter du CogLab \/ NeuroTechX Paris est online :simple_smile:\nAvez-vous des questions, avis, suggestions ?\n\n<http:\/\/us6.campaign-archive2.com\/?u=4cd8f74435&amp;id=646c28acfc>",
+                "message_blocks": [
+                    {
+                        "team": "T03FC4NDZ",
+                        "channel": "C03FC4NE9",
+                        "ts": "1460028368.000022",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "4GM",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "broadcast",
+                                                    "range": "channel"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": ": Bonjour à tous,\n\nLa newsletter du CogLab \/ NeuroTechX Paris est online "
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "simple_smile"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\nAvez-vous des questions, avis, suggestions ?\n\n"
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "http:\/\/us6.campaign-archive2.com\/?u=4cd8f74435&amp;id=646c28acfc",
+                                                    "text": "http:\/\/us6.campaign-archive2.com\/?u=4cd8f74435&id=646c28acfc"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "author_name": "Romain ROUYER",
+                "author_link": "https:\/\/scoglab.slack.com\/team\/U03FC5ZAK",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "from_hidden_wksp": false
+            }
+        ],
+        "type": "message",
+        "ts": "1460130490.000025"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1460130536.000026",
+        "text": "Dreem fait toujours beaucoup de communication pour son Device\nOn aura peut être l'occasion de le tester un jour, ils sont à Paris tout de même !\n<http:\/\/www.20minutes.fr\/high-tech\/1802735-20160309-dreem-pret-porter-bandeau-connecte-vraiment-mieux-dormir>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "20minutes.fr",
+                "title": "Dreem: Etes-vous prêt à porter ce bandeau connecté pour (vraiment) mieux dormir?",
+                "title_link": "http:\/\/www.20minutes.fr\/high-tech\/1802735-20160309-dreem-pret-porter-bandeau-connecte-vraiment-mieux-dormir",
+                "text": "Dreem, le bandeau connect&amp;eacute; de Rythm, une start-up fran&amp;ccedil;aise sp&amp;eacute;cialis&amp;eacute;e dans les neurosciences, veut am&amp;eacute;liorer significativement notre sommeil profond. Direction les coulisses de sa r&amp;eacute;alisation&amp;hellip;",
+                "fallback": "20minutes.fr: Dreem: Etes-vous prêt à porter ce bandeau connecté pour (vraiment) mieux dormir?",
+                "thumb_url": "http:\/\/img.20mn.fr\/_5-cIW81TAmDatS4-tBHHA\/648x360_leger-bandeau-dreem-doit-etre-porte-toute-nuit-ameliorer-qualite-sommeil.jpg",
+                "ts": 1457523968,
+                "from_url": "http:\/\/www.20minutes.fr\/high-tech\/1802735-20160309-dreem-pret-porter-bandeau-connecte-vraiment-mieux-dormir",
+                "thumb_width": 648,
+                "thumb_height": 360,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qRK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dreem fait toujours beaucoup de communication pour son Device\nOn aura peut être l'occasion de le tester un jour, ils sont à Paris tout de même !\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.20minutes.fr\/high-tech\/1802735-20160309-dreem-pret-porter-bandeau-connecte-vraiment-mieux-dormir"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0Z7LQQS2",
+        "text": "<@U0Z7LQQS2> a rejoint le canal",
+        "type": "message",
+        "ts": "1460144036.000028"
+    }
+]

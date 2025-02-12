@@ -1,0 +1,82 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Hans Harisson",
+                "fallback": "New card Aptero added to list Prospect on board Gestion CogLab (administrateur).",
+                "text": "In list *Prospect* on *<https:\/\/trello.com\/b\/jSnI3dXM|Gestion CogLab (administrateur)>*.",
+                "pretext": "New card created",
+                "title": "Aptero",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/6tWoZrQ3",
+                "author_link": "https:\/\/trello.com\/hansharisson1",
+                "author_icon": "https:\/\/trello-members.s3.amazonaws.com\/5932ca0090ff177f1e3be0a0\/3b24595bfbf9964329e0f68a00393ac7\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1605979255.001100",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "fallback": "Hans Harisson attached logo_aptero.png to card Aptero.",
+                "image_url": "https:\/\/trello-attachments.s3.amazonaws.com\/5fb94c77043ca273247f7471\/164x58\/d3f8a2777ca2cf88cd7c8e13e7a4461a\/logo_aptero.png",
+                "image_width": 164,
+                "image_height": 58,
+                "image_bytes": 3546,
+                "author_name": "Hans Harisson",
+                "pretext": "Attached *<https:\/\/trello-attachments.s3.amazonaws.com\/54600179bf0163b52abc2ebc\/5fb94c77043ca273247f7471\/9beafbd015b7fdd5a63449d40d68454c\/logo_aptero.png|logo_aptero.png>* to *<https:\/\/trello.com\/c\/6tWoZrQ3|Aptero>*.",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/hansharisson1",
+                "author_icon": "https:\/\/trello-members.s3.amazonaws.com\/5932ca0090ff177f1e3be0a0\/3b24595bfbf9964329e0f68a00393ac7\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1605979526.001200",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "fallback": "Hans Harisson attached cedric.c_aptero.jpg to card Aptero.",
+                "image_url": "https:\/\/trello-attachments.s3.amazonaws.com\/5fb94c77043ca273247f7471\/200x200\/ef998baaa3cf943907794252ef1e9dbf\/cedric.c_aptero.jpg",
+                "image_width": 200,
+                "image_height": 200,
+                "image_bytes": 12549,
+                "author_name": "Hans Harisson",
+                "pretext": "Attached *<https:\/\/trello-attachments.s3.amazonaws.com\/54600179bf0163b52abc2ebc\/5fb94c77043ca273247f7471\/03e9b00e6dbc1a2ffcbf0db9a1f4a09e\/cedric.c_aptero.jpg|cedric.c_aptero.jpg>* to *<https:\/\/trello.com\/c\/6tWoZrQ3|Aptero>*.",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/hansharisson1",
+                "author_icon": "https:\/\/trello-members.s3.amazonaws.com\/5932ca0090ff177f1e3be0a0\/3b24595bfbf9964329e0f68a00393ac7\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1605980491.001300",
+        "bot_id": "B66HQV43C"
+    }
+]

@@ -1,0 +1,111 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "Romain ROUYER commented on NeuroTechX Berlin: \"@hansharisson1 Ah mince j'ai confondu avec cette fiche ! <https:\/\/trello.com\/c\/cYFHWMWY\/319-the-brainstorms-festival-2021-x-neurotechx>\n\nCelle-ci en effet à déjà été discutée en CA.\"",
+                "text": "@hansharisson1 Ah mince j'ai confondu avec cette fiche ! <https:\/\/trello.com\/c\/cYFHWMWY\/319-the-brainstorms-festival-2021-x-neurotechx>\n\nCelle-ci en effet à déjà été discutée en CA.",
+                "pretext": "New comment on *<https:\/\/trello.com\/c\/QS5eWFL6|NeuroTechX Berlin>*",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "https:\/\/trello-members.s3.amazonaws.com\/50080b67614e7d5e0528a0d3\/8702436e6aff83ed056cbc687384d49f\/30.png",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1624651788.000500",
+        "bot_id": "B66HQV2AW"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1624651941.001300",
+        "client_msg_id": "476ced50-9d98-4082-87b2-72078bdf3062",
+        "text": "Pour rappel, sur Trello\n• Quand on termine une action, on dépose la carte dans la colonne \"TERMINÉ (à valider en CA)\"\n• Puis lorsque on l'a validée en C.A. on peux la déplacer dans la colonne \"ARCHIVÉ (mention PV de CA)\"",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R1yt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour rappel, sur Trello\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Quand on termine une action, on dépose la carte dans la colonne \"TERMINÉ (à valider en CA)\""
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Puis lorsque on l'a validée en C.A. on peux la déplacer dans la colonne \"ARCHIVÉ (mention PV de CA)\""
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "Romain ROUYER commented on L'Exploratoire (Terence): \"Mise à jour des informations en description\"",
+                "text": "Mise à jour des informations en description",
+                "pretext": "New comment on *<https:\/\/trello.com\/c\/RDbIzq2f|L'Exploratoire (Terence)>*",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "https:\/\/trello-members.s3.amazonaws.com\/50080b67614e7d5e0528a0d3\/8702436e6aff83ed056cbc687384d49f\/30.png",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1624652358.001400",
+        "bot_id": "B66HQV2AW"
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event title updated: [Annulé ou reporté] CJC-SC: <!date^1587189600^{date_short_pretty} from {time}|April 17th, 2020 from 8:00 AM> to <!date^1587225600^{time}|6:00 PM GMT+0200>",
+                "text": "<!date^1587189600^{date_short_pretty} from {time}|April 17th, 2020 from 8:00 AM> to <!date^1587225600^{time}|6:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Ens+Ulm%2C+45+Rue+d%27Ulm%2C+75005+Paris%2C+France|Ens Ulm, 45 Rue d'Ulm, 75005 Paris, France>",
+                "pretext": "Calendar event title updated",
+                "title": "[Annulé ou reporté] CJC-SC",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Nmd0Z2dwMnNhaDN0OG83ZXF0OW5ma2F0azEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1584709085.001000",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: Forum des Sciences Cognitives: <!date^1592118000^{date_short_pretty} from {time}|June 14th, 2020 from 9:00 AM> to <!date^1592154000^{time}|7:00 PM GMT+0200>",
+                "text": "<!date^1592118000^{date_short_pretty} from {time}|June 14th, 2020 from 9:00 AM> to <!date^1592154000^{time}|7:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=City+of+Science+and+Industry%2C+30+Avenue+Corentin+Cariou%2C+75019+Paris%2C+France|City of Science and Industry, 30 Avenue Corentin Cariou, 75019 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "Forum des Sciences Cognitives",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NTUyYXJxY2FhODNkYTZwamswZjEwbGF0Y3Qgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1584709085.001100",
+        "bot_id": "B4SJBP2L8"
+    }
+]

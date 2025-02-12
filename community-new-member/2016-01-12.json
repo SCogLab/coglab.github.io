@@ -1,0 +1,56 @@
+[
+    {
+        "user": "U0DGL8D8F",
+        "type": "message",
+        "ts": "1452596020.000002",
+        "text": "bonjour, merci pour l'ajout :simple_smile:  le 12 février serait parfait pour moi !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gc162da41a2c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3c162da41a2c1eef604af7c2cbfc0e1f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Margot",
+            "real_name": "Margot MORGIÈVE",
+            "display_name": "margot",
+            "team": "T03FC4NDZ",
+            "name": "margot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZA8R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bonjour, merci pour l'ajout "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  le 12 février serait parfait pour moi !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "rocket",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

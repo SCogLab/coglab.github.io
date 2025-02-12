@@ -1,0 +1,92 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1425163119.000002",
+        "text": "Like I explain to <@U03JDJWSR> tonight.\nThe must and perfect solution for our website plateforme will be to have a unified login for each collaborative tool (website, forum, github, wiki)\nAnyone know how to do that ? O:)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QaI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Like I explain to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03JDJWSR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tonight.\nThe must and perfect solution for our website plateforme will be to have a unified login for each collaborative tool (website, forum, github, wiki)\nAnyone know how to do that ? O:)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03JDJWSR",
+        "text": "<@U03JDJWSR> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1425163132.000003"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1425163216.000004",
+        "text": "More efficient and easy way for people\n\nAnd I propose to use Slack + Trello for interne collaboration",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KYF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "More efficient and easy way for people\n\nAnd I propose to use Slack + Trello for interne collaboration"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

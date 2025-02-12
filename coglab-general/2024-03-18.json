@@ -1,0 +1,70 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1710831079.682149",
+        "client_msg_id": "6dd825b3-7cd9-4aa2-8224-c76cd6df46d0",
+        "text": "<https:\/\/www.cerebrumdao.com\/>\n```Welcome to Cerebrum DAO, an open global community collectively sourcing and nurturing solutions to advance brain health and prevent neurodegeneration with a focus on tackling Alzheimer's first.```",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/i.imgur.com\/MpaDRHe.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 358403,
+                "from_url": "https:\/\/www.cerebrumdao.com\/",
+                "id": 1,
+                "original_url": "https:\/\/www.cerebrumdao.com\/",
+                "fallback": "Cerebrum DAO - Brains helping brains",
+                "text": "A community-powered network organization that sources, funds, and translates neuroscience research to accelerate solutions that extend healthy brain lifespan.",
+                "title": "Cerebrum DAO - Brains helping brains",
+                "title_link": "https:\/\/www.cerebrumdao.com\/",
+                "service_name": "cerebrumdao.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Asp7\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.cerebrumdao.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome to Cerebrum DAO, an open global community collectively sourcing and nurturing solutions to advance brain health and prevent neurodegeneration with a focus on tackling Alzheimer's first."
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

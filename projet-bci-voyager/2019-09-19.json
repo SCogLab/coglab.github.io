@@ -1,0 +1,477 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568895706.001200",
+        "client_msg_id": "d63432d5-1012-4f4a-9877-f964a6432744",
+        "text": "*Android studio update*\nJe viens de push quelques modifications mineures et créer une nouvelle branche \"hmi\" pour mes tests d'interface sur GitHub <https:\/\/github.com\/SCogLab\/TourismEEG\/commits\/master>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QjRcW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Android studio update",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nJe viens de push quelques modifications mineures et créer une nouvelle branche \"hmi\" pour mes tests d'interface sur GitHub "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/SCogLab\/TourismEEG\/commits\/master"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568895726.001600",
+        "client_msg_id": "ce7dc098-9535-4eb3-99da-85091c90e8b5",
+        "text": "Pour le reste, tout est dans le mail que vous avez reçu ce midi :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qx\/aG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour le reste, tout est dans le mail que vous avez reçu ce midi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1568898119.002100",
+        "client_msg_id": "dc67259b-4ddd-4169-a9f3-f7c9b10056cf",
+        "text": "C’est noté, le getqualities() fonctionne de mon côté",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568898119.002100",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1568899980.005800",
+        "reply_users": [
+            "U03FC5ZAK",
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1568898723.002200"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1568898953.002500"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1568899980.005800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BV0oC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C’est noté, le getqualities() fonctionne de mon côté"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568898723.002200",
+        "client_msg_id": "459bd669-2b3c-4acf-8b3c-01ee8d24477a",
+        "text": "Je t'invite à répondre à mon email pour le signaler à Sophie !\n\nEt partage ton code sur GitHub ou <@UMQA8DN92> :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568898119.002100",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nF=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je t'invite à répondre à mon email pour le signaler à Sophie !\n\nEt partage ton code sur GitHub ou "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UMQA8DN92"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1568898953.002500",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1568898964.000000"
+        },
+        "client_msg_id": "9a0738ef-2654-424d-aec8-e7b67a20530b",
+        "text": "Bon par contre, je n’atteinds pas (encore) de valeurs intermédiaires, je n’ai que des D\/GET Qualities: [0.0, 0.0], GET Qualities: [0.0, -1.0], GET Qualities: [-1.0, -1.0]",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568898119.002100",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8RFWI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bon par contre, je n’atteinds pas (encore) de valeurs intermédiaires, je n’ai que des D\/GET Qualities: [0.0, 0.0], GET Qualities: [0.0, -1.0], GET Qualities: [-1.0, -1.0]"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1568899085.004100",
+        "client_msg_id": "ea8f9d6e-33e8-41d0-8883-00e13e49ed6e",
+        "text": "Par contre, il faudrait exclure les .gradle et les données de conf perso (.idea ?) du dépôt github, ça génére des problèmes",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568899085.004100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1568899490.005600",
+        "reply_users": [
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1568899490.005600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hJ8HG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Par contre, il faudrait exclure les .gradle et les données de conf perso (.idea ?) du dépôt github, ça génére des problèmes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1568899289.005500",
+        "client_msg_id": "7b71c9dd-fab4-4092-90d3-6cbef7c2e3a5",
+        "text": "Il ne faut pas oublier d’activer les qualities lorsque l’on démarre le stream par ex. :\n`startStream(new StreamConfig.Builder(eegListener)\n                            .setNotificationPeriod(MbtFeatures.DEFAULT_CLIENT_NOTIFICATION_PERIOD)\n                            .useQualities()\n                            .create());`",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Okgs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il ne faut pas oublier d’activer les qualities lorsque l’on démarre le stream par ex. :\n`startStream(new StreamConfig.Builder(eegListener)\n                            .setNotificationPeriod(MbtFeatures.DEFAULT_CLIENT_NOTIFICATION_PERIOD)\n                            .useQualities()\n                            .create());`"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568899490.005600",
+        "client_msg_id": "21b8f7a6-200a-4f3a-8bb4-f5ed6c772c1a",
+        "text": "oui j'en ai pas mis sur mon push tout à l'heure",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568899085.004100",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XsO8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oui j'en ai pas mis sur mon push tout à l'heure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1568899980.005800",
+        "client_msg_id": "a9f4201e-5a30-487e-b335-12525832dc63",
+        "text": "J’ai pu accrocher très subrepticement des valeurs intermédiaires : GET Qualities: [0.0, 0.5], GET Qualities: [0.0, 0.25], GET Qualities: [-1.0, 0.5]",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568898119.002100",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KrPE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’ai pu accrocher très subrepticement des valeurs intermédiaires : GET Qualities: [0.0, 0.5], GET Qualities: [0.0, 0.25], GET Qualities: [-1.0, 0.5]"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UMQA8DN92",
+        "type": "message",
+        "ts": "1568925094.000800",
+        "client_msg_id": "3859bd03-ac8c-4540-9da2-3e03e5f71420",
+        "text": "Ok du coup je suis chaud d'avoir le code \nJe regarde ça demain bien joué Hans :muscle::skin-tone-2:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g144939de47f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3144939de47faa73d3d9c8d51dcff306.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Tanguy",
+            "real_name": "Tanguy HERSERANT",
+            "display_name": "Tanguy",
+            "team": "T03FC4NDZ",
+            "name": "tanguyherserant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Rfj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok du coup je suis chaud d'avoir le code \nJe regarde ça demain bien joué Hans "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa-1f3fb",
+                                "skin_tone": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

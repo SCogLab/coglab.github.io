@@ -1,0 +1,126 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1665990121.417919",
+        "client_msg_id": "05178022-629a-4d4c-949f-0a14ed61d042",
+        "text": "Bonjour à toutes et tous <!everyone> \n\nLa lettre d'information d'octobre vient d'être diffusée\n<http:\/\/eepurl.com\/h-htrX|http:\/\/eepurl.com\/h-htrX>\n\nÀ la Une, vous trouverez une invitation à participer au Hackathon NeuroTechX 2022 :jack_o_lantern:\n\nAvec toute les informations sur notre édition locale à Paris, ainsi qu'une masterclass de préchauffe ce jeudi après-midi à l'école 42 ! :technologist:\n\nPour l'occasion, le site de l'association à été légèrement rafraîchi, et contient une page dédiée qui sera mise à jour <https:\/\/coglab.fr\/ntxhack2022\/|https:\/\/coglab.fr\/ntxhack2022\/>\n\nEn vous souhaitant une agréable semaine.\nRomain",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "http:\/\/eepurl.com\/h-htrX",
+                "image_url": "https:\/\/dim.mcusercontent.com\/cs\/4cd8f74435\/images\/89752e25-ebe4-4f6a-97f5-921653db6219.png?w=564&dpr=2",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 625110,
+                "service_icon": "https:\/\/us6.campaign-archive.com\/favicon.ico",
+                "id": 1,
+                "original_url": "http:\/\/eepurl.com\/h-htrX",
+                "fallback": "Lettre d'information CogLab, NeuroTechX Paris, janvier 2021",
+                "text": "Hacknight saison 2021, invitation au NeuroTechX Buzz in Review Paris et actualité du réseau.",
+                "title": "Lettre d'information CogLab, NeuroTechX Paris, janvier 2021",
+                "title_link": "http:\/\/eepurl.com\/h-htrX",
+                "service_name": "us6.campaign-archive.com"
+            },
+            {
+                "from_url": "https:\/\/coglab.fr\/ntxhack2022\/",
+                "ts": 1665962208,
+                "thumb_url": "http:\/\/img.youtube.com\/vi\/_NGEr8yuonc\/0.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "service_icon": "https:\/\/i0.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=180%2C180&amp;ssl=1",
+                "id": 2,
+                "original_url": "https:\/\/coglab.fr\/ntxhack2022\/",
+                "fallback": "CogLab, NeuroTechX Paris: Hackathon NeuroTechX 2022",
+                "text": "Édition #NTXhack2022 locale à Paris Cette page est dédiée à l’évènement local et en présentiel du Hackathon NeuroTechX qui se tiendra à l’École 42.   Rejoignez-nous en tant que participa…",
+                "title": "Hackathon NeuroTechX 2022",
+                "title_link": "https:\/\/coglab.fr\/ntxhack2022\/",
+                "service_name": "CogLab, NeuroTechX Paris"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wUV6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour à toutes et tous "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nLa lettre d'information d'octobre vient d'être diffusée\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/eepurl.com\/h-htrX",
+                                "text": "http:\/\/eepurl.com\/h-htrX"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nÀ la Une, vous trouverez une invitation à participer au Hackathon NeuroTechX 2022 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "jack_o_lantern",
+                                "unicode": "1f383"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAvec toute les informations sur notre édition locale à Paris, ainsi qu'une masterclass de préchauffe ce jeudi après-midi à l'école 42 ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "technologist",
+                                "unicode": "1f9d1-200d-1f4bb"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nPour l'occasion, le site de l'association à été légèrement rafraîchi, et contient une page dédiée qui sera mise à jour "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.fr\/ntxhack2022\/",
+                                "text": "https:\/\/coglab.fr\/ntxhack2022\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nEn vous souhaitant une agréable semaine.\nRomain"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U03FEH3N8",
+                    "U032NBVQFKJ"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

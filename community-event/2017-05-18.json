@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "LabVR StoryCode #3: <!date^1495128600^{date_short_pretty} from {time}|May 18, 2017 from 7:30 PM> to <!date^1495137600^{time}|10:00 PM GMT+0200>",
+                "text": "<!date^1495128600^{date_short_pretty} from {time}|May 18, 2017 from 7:30 PM> to <!date^1495137600^{time}|10:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=157+Boulevard+Macdonald%2C+75019+Paris-19E-Arrondissement%2C+France|157 Boulevard Macdonald, 75019 Paris-19E-Arrondissement, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "LabVR StoryCode #3",
+                "more": "Le 03 Mai aura lieu de 19h30 à 22h, la prochaine Réunion VR.\n\nDocumentation\n<https:\/\/docs.google.com\/document\/d\/1iLsggp8BrZRA69Tar1JqhddhNcFTaB-0g7TZPgJ7fCI\/edit#>\n\nView meeting on Solid : <https:\/\/solid.wisembly.com\/meetings\/Pc0ab0d?r=meeting.calendar.link&amp;u=m114455>",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=dGRpa2JuaXZucDdwYWNhMTVtcmdjOHNuMzAgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1495125000.049776",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event time updated: [CogLab] Réunion Bureau: <!date^1496770200^{date_short_pretty} from {time}|Jun 6, 2017 from 7:30 PM> to <!date^1496775600^{time}|9:00 PM GMT+0200>",
+                "text": "<!date^1496770200^{date_short_pretty} from {time}|Jun 6, 2017 from 7:30 PM> to <!date^1496775600^{time}|9:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Skype|Skype>",
+                "pretext": "Calendar event time updated",
+                "title": "[CogLab] Réunion Bureau",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=aDNoMzZzYjFkaWh1dTdvbWtna2Uzb2Vtc2sgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1495125052.074689",
+        "bot_id": "B4SJBP2L8"
+    }
+]

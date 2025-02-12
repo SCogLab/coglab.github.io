@@ -1,0 +1,567 @@
+[
+    {
+        "user": "UAMPR1P5L",
+        "type": "message",
+        "ts": "1614955249.002500",
+        "client_msg_id": "b52726ae-3acc-49b2-83a0-31eb9822b12a",
+        "text": "Bienvenue Lisa :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g73db985d858",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273db985d858035ed23c0594718e0eac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "mesca",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "coglab644",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Ick4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bienvenue Lisa "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01J9RAA8H1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UAMPR1P5L",
+        "type": "message",
+        "ts": "1614955342.003500",
+        "client_msg_id": "3739d130-0636-4ac0-86f9-cd366f3dccdd",
+        "text": "<@U03FC5ZAK> <@U59MQ46DA> Vous avez du voir passer le mail de Léonie pour la visite à Marseille. C’est la même chose qu’à Ivry ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g73db985d858",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273db985d858035ed23c0594718e0eac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "mesca",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "coglab644",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1614955342.003500",
+        "reply_count": 8,
+        "reply_users_count": 3,
+        "latest_reply": "1615298437.000700",
+        "reply_users": [
+            "U59MQ46DA",
+            "UAMPR1P5L",
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1614955566.003600"
+            },
+            {
+                "user": "UAMPR1P5L",
+                "ts": "1614955592.003800"
+            },
+            {
+                "user": "UAMPR1P5L",
+                "ts": "1614955614.004000"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1614955646.004200"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1614957032.005500"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1615294950.000100"
+            },
+            {
+                "user": "UAMPR1P5L",
+                "ts": "1615298211.000500"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1615298437.000700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HNwTG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Vous avez du voir passer le mail de Léonie pour la visite à Marseille. C’est la même chose qu’à Ivry ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1614955566.003600",
+        "client_msg_id": "33c5b8cb-7f88-47ca-9dd3-a1e66c2a56e5",
+        "text": "Oui, on se fait un call conf tout à l’heure (à partir de 16h-16h15) sur l’event.\nC’est la même chose qu’à Ivry en version améliorée, c’est ce qu’avait indiqué Gwenaël",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1614955342.003500",
+        "parent_user_id": "UAMPR1P5L",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jd+Fa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui, on se fait un call conf tout à l’heure (à partir de 16h-16h15) sur l’event.\nC’est la même chose qu’à Ivry en version améliorée, c’est ce qu’avait indiqué Gwenaël"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UAMPR1P5L",
+        "type": "message",
+        "ts": "1614955592.003800",
+        "client_msg_id": "14ca795e-7326-4a78-8dd3-ee480a10fdf6",
+        "text": "OK, merci.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g73db985d858",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273db985d858035ed23c0594718e0eac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "mesca",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "coglab644",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1614955342.003500",
+        "parent_user_id": "UAMPR1P5L",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WmUwg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OK, merci."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UAMPR1P5L",
+        "type": "message",
+        "ts": "1614955614.004000",
+        "client_msg_id": "2d63f189-0c99-420f-ab35-b90ecda20a8e",
+        "text": "Vous me tenez au courant pour la suite ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g73db985d858",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273db985d858035ed23c0594718e0eac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "mesca",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "coglab644",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1614955342.003500",
+        "parent_user_id": "UAMPR1P5L",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gr7v+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vous me tenez au courant pour la suite ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1614955646.004200",
+        "client_msg_id": "69de7b1e-7c97-467f-a44f-cd85d1628c02",
+        "text": "Oui pas de problème",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1614955342.003500",
+        "parent_user_id": "UAMPR1P5L",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EW0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui pas de problème"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1614955789.005000",
+        "client_msg_id": "56a55c3a-35f6-49dd-b9d6-46c18d8d57d6",
+        "text": "FYI : J’ai reçu un mail de Seeedstudio qui font des produits LoRa : <https:\/\/us11.campaign-archive.com\/?u=0c272aa6642cc5d058579205f&amp;id=038ad823e8&amp;e=87cdc98d25>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mYy2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "FYI : J’ai reçu un mail de Seeedstudio qui font des produits LoRa : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us11.campaign-archive.com\/?u=0c272aa6642cc5d058579205f&id=038ad823e8&e=87cdc98d25"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UAMPR1P5L",
+        "type": "message",
+        "ts": "1614955997.005400",
+        "client_msg_id": "c644db93-990c-4d77-9eb4-b3b41a8e3fe4",
+        "text": "Intéressant ! Je vais regarder, merci.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g73db985d858",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273db985d858035ed23c0594718e0eac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "mesca",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "coglab644",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "782",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Intéressant ! Je vais regarder, merci."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1614957032.005500",
+        "client_msg_id": "5c0e8185-7b3f-49a0-a257-cdddd16f78a3",
+        "text": "yep, pour préciser c’est un call juste entre nous",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1614955342.003500",
+        "parent_user_id": "UAMPR1P5L",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DPZ0j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yep, pour préciser c’est un call juste entre nous"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1614959923.008900",
+        "client_msg_id": "3be0ff51-2e24-42c8-8311-8f0836bb858b",
+        "text": "Je viens de retrouver la team de Maker Belge qui faisait des choses intéressantes en démo au Kikk Festival 2019\nLa démo consistait à diffuser des pistes audio en fonction de la zone ou on se trouve, de manière précise quasi au centimètre, sur une petite zone (10-15m2). Je ne me souviens plus du protocole \/ ou la base technique utilisée, de mémoire il y avait des briques open sources\n<https:\/\/www.demute.studio\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Demute - Sound for video games &amp; tech",
+                "title_link": "https:\/\/www.demute.studio\/",
+                "text": "Demute provide great sound for video games, thanks to sound designers &amp; developers. From Sound design to in-engine integration.",
+                "fallback": "Demute - Sound for video games &amp; tech",
+                "image_url": "https:\/\/uploads-ssl.webflow.com\/5e89baadec626f230a2d33ba\/5f0971a4de4cdd11cf2977a7_Graph%20Site.jpg",
+                "from_url": "https:\/\/www.demute.studio\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 101550,
+                "service_name": "demute.studio",
+                "id": 1,
+                "original_url": "https:\/\/www.demute.studio\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jap",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je viens de retrouver la team de Maker Belge qui faisait des choses intéressantes en démo au Kikk Festival 2019\nLa démo consistait à diffuser des pistes audio en fonction de la zone ou on se trouve, de manière précise quasi au centimètre, sur une petite zone (10-15m2). Je ne me souviens plus du protocole \/ ou la base technique utilisée, de mémoire il y avait des briques open sources\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.demute.studio\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Une photo d’un des points d’ancrage",
+        "files": [
+            {
+                "id": "F01R1FEAD0Q",
+                "created": 1614959967,
+                "timestamp": 1614959967,
+                "name": "20191031_164533.jpg",
+                "title": "20191031_164533.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03FC5ZAK",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 1544165,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F01R1FEAD0Q\/20191031_164533.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F01R1FEAD0Q\/download\/20191031_164533.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F01R1FEAD0Q-5d82a95b26\/20191031_164533_64.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F01R1FEAD0Q-5d82a95b26\/20191031_164533_80.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F01R1FEAD0Q-5d82a95b26\/20191031_164533_360.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360_w": 170,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F01R1FEAD0Q-5d82a95b26\/20191031_164533_480.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_480_w": 227,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F01R1FEAD0Q-5d82a95b26\/20191031_164533_160.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F01R1FEAD0Q-5d82a95b26\/20191031_164533_720.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720_w": 341,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F01R1FEAD0Q-5d82a95b26\/20191031_164533_800.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1691,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F01R1FEAD0Q-5d82a95b26\/20191031_164533_960.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_960_w": 454,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F01R1FEAD0Q-5d82a95b26\/20191031_164533_1024.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_1024_w": 485,
+                "thumb_1024_h": 1024,
+                "original_w": 1908,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwABaunBqbYFZDnJLCq4PzVd8l85OPlOfrQBP26E0nP90\/lSL7AGnc\/wBwfnSAykwZF+taDTRlSN3UVSWLgOv3R696dTAkWaQDGfxxS+fJ\/fpmKMUANaViQMAdqQfhTiu4YpoTA7hs9ulAAX20nmUrrTdtMD\/\/2Q==",
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U03FC5ZAK\/F01R1FEAD0Q\/20191031_164533.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-F01R1FEAD0Q-ef10e0664a",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03FC5ZAK",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t3s0J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Une photo d’un des points d’ancrage"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1614959985.009300"
+    }
+]

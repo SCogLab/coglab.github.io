@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U065TGVPMQA",
+        "type": "message",
+        "ts": "1704910083.684989",
+        "client_msg_id": "7c1796ac-92a6-4237-a90c-bf3663f0eefb",
+        "text": "<@U59MQ46DA> tu es connecté ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "d1c45b06a897",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6190932855014_d1c45b06a89739c22a4f_72.png",
+            "first_name": "Emmanuel",
+            "real_name": "Emmanuel Gauvain",
+            "display_name": "Emmanuel Gauvain",
+            "team": "T03FC4NDZ",
+            "name": "emmanuel.gauvain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5dF8p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tu es connecté ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0637AUUYBZ",
+        "type": "message",
+        "ts": "1704910137.670329",
+        "client_msg_id": "33554557-65cd-4b91-bc05-f0de71147eca",
+        "text": "Il est en train!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g6ae6a089433",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6ae6a089433c396f4a00b9e877dbdc83.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Arthur",
+            "real_name": "Arthur",
+            "display_name": "Arthur",
+            "team": "T03FC4NDZ",
+            "name": "arthur.lecoz00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JXPG7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il est en train!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

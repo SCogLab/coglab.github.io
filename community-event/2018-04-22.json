@@ -1,0 +1,24 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Sprint CogLab admin: <!date^1524398400^{date_short_pretty} from {time}|April 22nd, 2018 from 2:00 PM> to <!date^1524414600^{time}|6:30 PM GMT+0200>",
+                "text": "<!date^1524398400^{date_short_pretty} from {time}|April 22nd, 2018 from 2:00 PM> to <!date^1524414600^{time}|6:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=28B+Rue+Gallieni%2C+92600+Asni%C3%A8res-sur-Seine%2C+France|28B Rue Gallieni, 92600 Asnières-sur-Seine, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "Sprint CogLab admin",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NmlscGx1a2twYW9nazQ0bWwwYmZwcG9xdXAgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1524394800.000109",
+        "bot_id": "B4SJBP2L8"
+    }
+]

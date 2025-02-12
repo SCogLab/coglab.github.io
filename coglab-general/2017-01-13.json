@@ -1,0 +1,64 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U3RRFRR1C",
+        "text": "<@U3RRFRR1C> a rejoint le canal",
+        "type": "message",
+        "ts": "1484308759.000002"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1484311327.000003",
+        "text": "<!here|@here> La newsletter de Janvier est dans vos boites aux lettres, ou disponible ici\nN’hésitez pas à réagir dessus si vous avez des remarques ou questions\n<http:\/\/us6.campaign-archive1.com\/?u=4cd8f74435&amp;id=5fdfda9e63&amp;e=3c24c02ad2>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mu1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here|@here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " La newsletter de Janvier est dans vos boites aux lettres, ou disponible ici\nN’hésitez pas à réagir dessus si vous avez des remarques ou questions\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/us6.campaign-archive1.com\/?u=4cd8f74435&amp;id=5fdfda9e63&amp;e=3c24c02ad2",
+                                "text": "http:\/\/us6.campaign-archive1.com\/?u=4cd8f74435&id=5fdfda9e63&e=3c24c02ad2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03FEH3N8"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

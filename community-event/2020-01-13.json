@@ -1,0 +1,260 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1578915060.000500",
+        "client_msg_id": "9c4e910b-d7bb-4f99-b138-256dabba5d06",
+        "text": "<https:\/\/www.eventbrite.fr\/e\/billets-rencontre-du-critical-thinking-club-3-88397716951>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Eventbrite",
+                "title": "Rencontre du Critical Thinking Club #3",
+                "title_link": "https:\/\/www.eventbrite.fr\/e\/billets-rencontre-du-critical-thinking-club-3-88397716951",
+                "text": "Le Critical Thinking Club vous invite à sa prochaine rencontre, espace d’échange constructif et bienveillant, pour discuter d'esprit critique et de société. Découvrez nos invités et venez échanger avec eux ! Les invités du 30 janvier 2020 sont docteurs en neurosciences et s'intéressent à la façon dont nous formons des croyances et prenons des décisions, à l'impact des biais cognitifs dans notre quotidien, à l'importance de l'esprit critique et du doute de soi. Ils ont créé ensemble le collectif Chiasma, qui organise régulièrement des conférences, ateliers et débats sur ces sujets. Parmi les membres de Chiasma, nous recevrons notamment : - Albert MOUKHEIBER, psychologue clinicien, enseignant universitaire et auteur du livre \"Votre cerveau vous joue des tours\" et - Mariam CHAMMAT, cheffe de projet Sciences comportementales à la Direction Interministérielle de la Transformation Publique. La première partie de la rencontre sera consacrée aux interventions de nos invités et à la discussion de leurs projets. La deuxième partie permettra des échanges plus informels entre tous. Sauf mention contraire de votre part, votre inscritption nous donne votre accord pour partager les photos de l'évenement sur lesquelles vous apparaissez.",
+                "fallback": "Eventbrite: Rencontre du Critical Thinking Club #3",
+                "image_url": "https:\/\/img.evbuc.com\/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F86309175%2F81330283503%2F1%2Foriginal.20191014-154356?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C41%2C960%2C480&s=08556c58c775b14f67b5df425dabde60",
+                "fields": [
+                    {
+                        "title": "Where",
+                        "value": "8 bis Rue Charles V Salle 3.11, 75004 Paris, France",
+                        "short": true
+                    },
+                    {
+                        "title": "When",
+                        "value": "Le jeu  30 janv. 2020 à 19:00",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.eventbrite.fr\/e\/billets-rencontre-du-critical-thinking-club-3-88397716951",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 191203,
+                "service_icon": "https:\/\/cdn.evbstatic.com\/s3-build\/perm_001\/eba891\/django\/images\/touch_icons\/apple-touch-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.eventbrite.fr\/e\/billets-rencontre-du-critical-thinking-club-3-88397716951"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W0Iz+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.eventbrite.fr\/e\/billets-rencontre-du-critical-thinking-club-3-88397716951"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CA Fresco: <!date^1580047200^{date_short_pretty} from {time}|January 26th, 2020 from 3:00 PM> to <!date^1580052600^{time}|4:30 PM GMT+0100>",
+                "text": "<!date^1580047200^{date_short_pretty} from {time}|January 26th, 2020 from 3:00 PM> to <!date^1580052600^{time}|4:30 PM GMT+0100>",
+                "pretext": "Calendar event updated",
+                "title": "CA Fresco",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NTA4MTByczZzZDg2MDhoZTZyNzNmZzIxMjYgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1578925265.000700",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #130: <!date^1578933900^{date_short_pretty} from {time}|January 13th, 2020 from 5:45 PM> to <!date^1578949200^{time}|10:00 PM GMT+0100>",
+                "text": "<!date^1578933900^{date_short_pretty} from {time}|January 13th, 2020 from 5:45 PM> to <!date^1578949200^{time}|10:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=CRI%2C+8+bis+Rue+Charles+V%2C+75004+Paris%2C+France%2C+Charles+V-0-MakerLab+Classroom+%2830%29|CRI, 8 bis Rue Charles V, 75004 Paris, France, Charles V-0-MakerLab Classroom (30)>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #130",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=N3R1aTRiamc1N2FpYTFyZmZyYXI5YjBoYmFfMjAyMDAxMTNUMTY0NTAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1578930302.000800",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: CA CogLab 2020.1 ?: <!date^1580054400^{date_short_pretty} from {time}|January 26th, 2020 from 5:00 PM> to <!date^1580059800^{time}|6:30 PM GMT+0100>",
+                "text": "<!date^1580054400^{date_short_pretty} from {time}|January 26th, 2020 from 5:00 PM> to <!date^1580059800^{time}|6:30 PM GMT+0100>",
+                "pretext": "New calendar event created",
+                "title": "CA CogLab 2020.1 ?",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MW9zc2V1czR1YWF1dTY4dDhyZG1vdmFkNDQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1578933186.000900",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1578936371.001500",
+        "client_msg_id": "cca8b745-2deb-4519-8268-d93a9647a2d0",
+        "text": "PEAK 2020\nExploring innovation in consumer goods that promote brain health and wellness.\nSAN FRANCISCO\n 7-8 APRIL, 2020\n<https:\/\/peak-west.com\/events\/peak-2020>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Peak 2020 | Kisaco Research",
+                "title_link": "https:\/\/peak-west.com\/events\/peak-2020",
+                "text": "With cognitive health among the top five health concerns of consumers aged 18 to 75, and growing attention around stress, mental wellness, and sleep recovery, optimizing cognitive function is no longer confined to the ageing brain. Enter PEAK, the inaugural Consumer Brain Health Summit, connecting academics, industry leaders, investors and retailers with a focus on brain health, in the fields of supplements, functional food &amp; beverage, novel ingredients, sports performance, neurotechnology &amp; sleep technology. As consumers continue to devote more attention to maintaining and optimising brain health, demand for cognitive ingredients and innovative consumer technology is increasing. Whether you have a product in the market or are looking to launch into the growing brain health space, this event will equip you with the information and partnerships to succeed. PEAK is an impartial B2B platform for education, networking &amp; building a future consensus as we develop the market together.",
+                "fallback": "Peak 2020 | Kisaco Research",
+                "image_url": "https:\/\/peak-west.com\/sites\/default\/files\/styles\/cover_image_full\/public\/event_cover_images\/hero_image_crop_0.png?itok=sl4SebPh",
+                "image_width": 459,
+                "image_height": 250,
+                "from_url": "https:\/\/peak-west.com\/events\/peak-2020",
+                "image_bytes": 740376,
+                "service_icon": "https:\/\/peak-west.com\/sites\/all\/themes\/kisaco\/favicon.ico",
+                "service_name": "peak-west.com",
+                "id": 1,
+                "original_url": "https:\/\/peak-west.com\/events\/peak-2020"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4PH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "PEAK 2020\nExploring innovation in consumer goods that promote brain health and wellness.\nSAN FRANCISCO\n 7-8 APRIL, 2020\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/peak-west.com\/events\/peak-2020"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1578953916.001800",
+        "edited": {
+            "user": "U03FC5ZAK",
+            "ts": "1578953942.000000"
+        },
+        "client_msg_id": "477b3087-8af8-4c96-ae1e-7aa3aaa8fc7e",
+        "text": "*Hackathon : comment améliorer le dépôt et le partage de données de recherche ?*\n<https:\/\/gt-donnees2020.sciencesconf.org\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "80a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hackathon : comment améliorer le dépôt et le partage de données de recherche ?",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gt-donnees2020.sciencesconf.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There are *3* events this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #192 [Online EN]: <!date^1620059400^{date_short_pretty} from {time}|May 3rd, 2021 from 6:30 PM> to <!date^1620063000^{time}|7:30 PM GMT+0200>",
+                "text": "<!date^1620059400^{date_short_pretty} from {time}|May 3rd, 2021 from 6:30 PM> to <!date^1620063000^{time}|7:30 PM GMT+0200> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "title": "CogLab HackNight #192 [Online EN]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MXZ0ZWZqZ29rb2s2azlsaTJwZDkxaHM4cDEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "CogLab HackNight #192 [Online FR]: <!date^1620068400^{date_short_pretty} from {time}|May 3rd, 2021 from 9:00 PM> to <!date^1620073800^{time}|10:30 PM GMT+0200>",
+                "text": "<!date^1620068400^{date_short_pretty} from {time}|May 3rd, 2021 from 9:00 PM> to <!date^1620073800^{time}|10:30 PM GMT+0200> at <https:\/\/gather.town\/i\/PYn7w8L3>",
+                "title": "CogLab HackNight #192 [Online FR]",
+                "id": 2,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NmUyaWxqOGxxYjAwbnE0NnFpb29qMGtjNG8gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "AGE Fresco: <!date^1620232200^{date_short_pretty} from {time}|May 5th, 2021 from 6:30 PM> to <!date^1620237600^{time}|8:00 PM GMT+0200>",
+                "text": "<!date^1620232200^{date_short_pretty} from {time}|May 5th, 2021 from 6:30 PM> to <!date^1620237600^{time}|8:00 PM GMT+0200> at <https:\/\/us02web.zoom.us\/j\/89196119658?pwd=MEZLV2t5WjYzTmpKanZOZjAxdE8zZz09>",
+                "title": "AGE Fresco",
+                "id": 3,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Mms2YnRjN3UybjMwZ3RwN3Q3dmJucjl2ODYgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1620021603.005600",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BG9Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " events this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

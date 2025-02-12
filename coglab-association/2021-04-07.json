@@ -1,0 +1,52 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U01U75Y1LL8",
+        "text": "<@U01U75Y1LL8> a rejoint le canal",
+        "type": "message",
+        "ts": "1617787705.001000"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1617819416.001100",
+        "client_msg_id": "af496bd2-757b-48bc-b53e-09cfacf83159",
+        "text": "Je prépare la newsletter du mois d'avril. Si vous avez des éléments à signaler, n'hésitez pas :newspaper:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/y\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je prépare la newsletter du mois d'avril. Si vous avez des éléments à signaler, n'hésitez pas "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "newspaper",
+                                "unicode": "1f4f0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

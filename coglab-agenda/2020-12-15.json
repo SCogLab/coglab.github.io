@@ -1,0 +1,24 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: NTX Paris BIR 2021 ?: <!date^1611853200^{date_short_pretty} from {time}|January 28th, 2021 from 6:00 PM> to <!date^1611864000^{time}|9:00 PM GMT+0100>",
+                "text": "<!date^1611853200^{date_short_pretty} from {time}|January 28th, 2021 from 6:00 PM> to <!date^1611864000^{time}|9:00 PM GMT+0100>",
+                "pretext": "New calendar event created",
+                "title": "NTX Paris BIR 2021 ?",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MnNrZTg0NHI3cXE3b20zaTk3azlzcjNxYmsgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1608026106.001800",
+        "bot_id": "B4SJBP2L8"
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U0AR01SPQ",
+        "type": "message",
+        "ts": "1475704938.000002",
+        "text": "[CINEMA : sortie en salles] <http:\/\/www.allocine.fr\/article\/fichearticle_gen_carticle=18656494.html>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b34e84fd77bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-17\/18704226567_b34e84fd77bcdb81946f_72.jpg",
+            "first_name": "Murielle",
+            "real_name": "Murielle PALISSANDRE",
+            "display_name": "murielle",
+            "team": "T03FC4NDZ",
+            "name": "murielle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "AlloCiné",
+                "title": "Bande-annonce Dernières nouvelles du cosmos : Julie Bertuccelli dresse le portrait émouvant d&amp;#039;une jeune femme autiste",
+                "title_link": "http:\/\/www.allocine.fr\/article\/fichearticle_gen_carticle=18656494.html",
+                "text": "Après L&amp;#039;Arbre et La Cour de Babel, la cinéaste Julie Bertuccelli nous plonge dans le quotidien d&amp;#039;Hélène, jeune femme atteinte d&amp;#039;autisme ayant trouvé un moyen de s&amp;#039;exprimer. Sortie du documentaire en s...",
+                "fallback": "AlloCiné: Bande-annonce Dernières nouvelles du cosmos : Julie Bertuccelli dresse le portrait émouvant d&amp;#039;une jeune femme autiste",
+                "image_url": "http:\/\/fr.web.img5.acsta.net\/newsv7\/16\/10\/05\/11\/30\/297154.jpg",
+                "from_url": "http:\/\/www.allocine.fr\/article\/fichearticle_gen_carticle=18656494.html",
+                "image_width": 625,
+                "image_height": 250,
+                "image_bytes": 63605,
+                "service_icon": "http:\/\/assets.allocine.fr\/favicon\/allocine.ico?v1.1.1.6",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FTI3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[CINEMA : sortie en salles] "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.allocine.fr\/article\/fichearticle_gen_carticle=18656494.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

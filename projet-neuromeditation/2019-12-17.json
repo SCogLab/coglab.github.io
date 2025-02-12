@@ -1,0 +1,165 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1576596932.001000",
+        "client_msg_id": "18ed3f3e-7acc-46db-ab01-1e2deeb659b0",
+        "text": "Je t’en ai parlé à un moment <@U59MQ46DA> à la Maker Faire en voyant le Dome au RDC. Pendant mon séjour au KIKK Festival, j’ai croisé un japonais qui construit des dômes DIY\n<https:\/\/paper-dome.com\/en\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Paperdome",
+                "title_link": "https:\/\/paper-dome.com\/en\/",
+                "text": "The Cardboard domes screen for VR &amp; 360movies.",
+                "fallback": "Paperdome",
+                "image_url": "https:\/\/paper-dome.com\/wp-content\/uploads\/2018\/04\/dhc-dome-21.jpg",
+                "image_width": 423,
+                "image_height": 250,
+                "from_url": "https:\/\/paper-dome.com\/en\/",
+                "image_bytes": 1319074,
+                "service_name": "paper-dome.com",
+                "id": 1,
+                "original_url": "https:\/\/paper-dome.com\/en\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gpWm8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je t’en ai parlé à un moment "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " à la Maker Faire en voyant le Dome au RDC. Pendant mon séjour au KIKK Festival, j’ai croisé un japonais qui construit des dômes DIY\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/paper-dome.com\/en\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1576597039.001300",
+        "client_msg_id": "cfa61902-00b6-4108-8003-1a6a0df03332",
+        "text": "<https:\/\/www.youtube.com\/watch?v=Oux5uqdMMBg>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Making of a Cardboard Geodesic 5V Dome for an Immersive VR",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=Oux5uqdMMBg",
+                "author_name": "Tanaka Satoshi",
+                "author_link": "https:\/\/www.youtube.com\/user\/soupstudio",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/Oux5uqdMMBg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Making of a Cardboard Geodesic 5V Dome for an Immersive VR",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/Oux5uqdMMBg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=Oux5uqdMMBg",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=Oux5uqdMMBg"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AAL+3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=Oux5uqdMMBg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1576598290.001900",
+        "client_msg_id": "06AF67BC-1E57-4D94-A5DB-02E69E7D130B",
+        "text": "Sympa l’installation :-)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yQaGq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sympa l’installation :-)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

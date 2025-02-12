@@ -1,0 +1,104 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Event updated: CogLab HackNight #84: <!date^1534181400^{date_short_pretty} from {time}|August 13th, 2018 from 7:30 PM> to <!date^1534194000^{time}|11:00 PM GMT+0200>",
+                "text": "<!date^1534181400^{date_short_pretty} from {time}|August 13th, 2018 from 7:30 PM> to <!date^1534194000^{time}|11:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab HackNight #84",
+                "more": "HackNight hebdomadaire l'association 'CogLab, NeuroTechX Paris'&lt;br&gt;&lt;br&gt;&lt;br&gt;Ordre du jour :&lt;br&gt;- Team OpenBC[IA] : experimentation et prototypage (Hans)&lt;br&gt;-&amp;nbsp;&lt;a href=\"<https:\/\/paper.dropbox.com\/doc\/yAWwKWaFkXa9w42sA0Sdj>\" target=\"_blank\"&gt;&lt;span&gt;Projet Autispace&lt;\/span&gt;&lt;\/a&gt; : prototypage WebVR \/ Unity, User Test (Romain, Isabelle)&lt;br&gt;&lt;br&gt;&lt;br&gt;Lieu :&amp;nbsp;&lt;br&gt;- Groupe Skype HackNight&amp;nbsp;&lt;a href=\"<https:\/\/join.skype.com\/be7Ty93o77rj>\" target=\"_blank\"&gt;https:\/\/join.skype.com\/be7Ty93o77rj&lt;\/a&gt;&lt;br&gt;- Locaux af83, accueil par Romain (merci de signaler votre présence)&lt;br&gt;&lt;br&gt;&lt;br&gt;Documentation&lt;br&gt;- Projet BC[IA]&amp;nbsp;&lt;a href=\"<http:\/\/www.coglab.fr\/portfolio\/openbcia>\" target=\"_blank\"&gt;http:\/\/www.coglab.fr\/portfolio\/openbcia&lt;\/a&gt;&lt;br&gt;- Projet Autispace&amp;nbsp;&lt;a href=\"<http:\/\/www.coglab.fr\/portfolio\/autispace\/>\" target=\"_blank\"&gt;http:\/\/www.coglab.fr\/portfolio\/autispace\/&lt;\/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Interactions :&lt;br&gt;- Agenda CogLab sur Paper&amp;nbsp;&lt;a href=\"<https:\/\/paper.dropbox.com\/doc\/Agenda-CogLab-NeuroTechX-Paris-a6pJbEvbJvWdJ3fHeF9JJ>\" target=\"_blank\"&gt;paper\/Agenda-CogLab-NeuroTechX-Paris&lt;\/a&gt;&lt;br&gt;- Agenda CogLab flux ics&amp;nbsp;&lt;a href=\"<https:\/\/calendar.google.com\/calendar\/embed?src=sb3pmu9to1dck7jhanprvcdqso%40group.calendar.google.com&amp;amp;ctz=Europe%2FParis>\" target=\"_blank\"&gt;calendar.google.com\/calendar\/embed?src=sb3pmu9to1dck7jhanprvcdqso&lt;\/a&gt;&lt;br&gt;- Slack :&amp;nbsp;&lt;a href=\"<https:\/\/scoglab.slack.com>\" target=\"_blank\"&gt;scoglab.slack.com&lt;\/a&gt;&amp;nbsp;(inscription via&amp;nbsp;&lt;a href=\"<https:\/\/slackcoglab.herokuapp.com\/>\" target=\"_blank\"&gt;slackcoglab.herokuapp.com&lt;\/a&gt;)&lt;br&gt;- Communauté Facebook :&amp;nbsp;&lt;a href=\"<https:\/\/www.facebook.com\/groups\/coglab\/>\" target=\"_blank\"&gt;facebook.com\/groups\/coglab\/&lt;\/a&gt;&lt;br&gt;- Twitter :&amp;nbsp;&lt;a href=\"<https:\/\/twitter.com\/SCogLab>\" target=\"_blank\"&gt;twitter.com\/SCogLab&lt;\/a&gt;&lt;br&gt;- Site web :&amp;nbsp;&lt;a href=\"<http:\/\/coglab.fr\/>\" target=\"_blank\"&gt;http:\/\/coglab.fr\/&lt;\/a&gt;",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NWg5M3UwODEwcmY4bmZ0azZnbzJtMHJvZXRfMjAxODA4MTNUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1534170249.000384",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1534170841.000478",
+        "client_msg_id": "950ec1d6-0ef4-45c7-9d07-89fe65bdb0a4",
+        "text": "<@U59MQ46DA> <@U5JBN3M8Q> serez-vous présent.e ce soir à la HackNight ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "igX7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U5JBN3M8Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " serez-vous présent.e ce soir à la HackNight ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "CogLab HackNight #84: <!date^1534181400^{date_short_pretty} from {time}|August 13th, 2018 from 7:30 PM> to <!date^1534194000^{time}|11:00 PM GMT+0200>",
+                "text": "<!date^1534181400^{date_short_pretty} from {time}|August 13th, 2018 from 7:30 PM> to <!date^1534194000^{time}|11:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #84",
+                "more": "HackNight hebdomadaire l'association 'CogLab, NeuroTechX Paris'&lt;br&gt;&lt;br&gt;&lt;br&gt;Ordre du jour :&lt;br&gt;- Team OpenBC[IA] : experimentation et prototypage (Hans)&lt;br&gt;-&amp;nbsp;&lt;a href=\"<https:\/\/paper.dropbox.com\/doc\/yAWwKWaFkXa9w42sA0Sdj>\" target=\"_blank\"&gt;&lt;span&gt;Projet Autispace&lt;\/span&gt;&lt;\/a&gt; : prototypage WebVR \/ Unity, User Test (Romain, Isabelle)&lt;br&gt;&lt;br&gt;&lt;br&gt;Lieu :&amp;nbsp;&lt;br&gt;- Groupe Skype HackNight&amp;nbsp;&lt;a href=\"<https:\/\/join.skype.com\/be7Ty93o77rj>\" target=\"_blank\"&gt;https:\/\/join.skype.com\/be7Ty93o77rj&lt;\/a&gt;&lt;br&gt;- Locaux af83, accueil par Romain (merci de signaler votre présence)&lt;br&gt;&lt;br&gt;&lt;br&gt;Documentation&lt;br&gt;- Projet BC[IA]&amp;nbsp;&lt;a href=\"<http:\/\/www.coglab.fr\/portfolio\/openbcia>\" target=\"_blank\"&gt;http:\/\/www.coglab.fr\/portfolio\/openbcia&lt;\/a&gt;&lt;br&gt;- Projet Autispace&amp;nbsp;&lt;a href=\"<http:\/\/www.coglab.fr\/portfolio\/autispace\/>\" target=\"_blank\"&gt;http:\/\/www.coglab.fr\/portfolio\/autispace\/&lt;\/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Interactions :&lt;br&gt;- Agenda CogLab sur Paper&amp;nbsp;&lt;a href=\"<https:\/\/paper.dropbox.com\/doc\/Agenda-CogLab-NeuroTechX-Paris-a6pJbEvbJvWdJ3fHeF9JJ>\" target=\"_blank\"&gt;paper\/Agenda-CogLab-NeuroTechX-Paris&lt;\/a&gt;&lt;br&gt;- Agenda CogLab flux ics&amp;nbsp;&lt;a href=\"<https:\/\/calendar.google.com\/calendar\/embed?src=sb3pmu9to1dck7jhanprvcdqso%40group.calendar.google.com&amp;amp;ctz=Europe%2FParis>\" target=\"_blank\"&gt;calendar.google.com\/calendar\/embed?src=sb3pmu9to1dck7jhanprvcdqso&lt;\/a&gt;&lt;br&gt;- Slack :&amp;nbsp;&lt;a href=\"<https:\/\/scoglab.slack.com>\" target=\"_blank\"&gt;scoglab.slack.com&lt;\/a&gt;&amp;nbsp;(inscription via&amp;nbsp;&lt;a href=\"<https:\/\/slackcoglab.herokuapp.com\/>\" target=\"_blank\"&gt;slackcoglab.herokuapp.com&lt;\/a&gt;)&lt;br&gt;- Communauté Facebook :&amp;nbsp;&lt;a href=\"<https:\/\/www.facebook.com\/groups\/coglab\/>\" target=\"_blank\"&gt;facebook.com\/groups\/coglab\/&lt;\/a&gt;&lt;br&gt;- Twitter :&amp;nbsp;&lt;a href=\"<https:\/\/twitter.com\/SCogLab>\" target=\"_blank\"&gt;twitter.com\/SCogLab&lt;\/a&gt;&lt;br&gt;- Site web :&amp;nbsp;&lt;a href=\"<http:\/\/coglab.fr\/>\" target=\"_blank\"&gt;http:\/\/coglab.fr\/&lt;\/a&gt;",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NWg5M3UwODEwcmY4bmZ0azZnbzJtMHJvZXRfMjAxODA4MTNUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1534177801.000016",
+        "bot_id": "B4SJBP2L8"
+    }
+]

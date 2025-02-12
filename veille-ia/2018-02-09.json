@@ -1,0 +1,146 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U03FC5ZAK",
+        "text": "<@U03FC5ZAK> a rejoint le canal",
+        "type": "message",
+        "ts": "1518175311.000381"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U59MQ46DA",
+        "text": "<@U59MQ46DA> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1518175312.000266"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FEH3N8",
+        "text": "<@U03FEH3N8> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1518175312.000291"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC5ZAK",
+        "purpose": "Machine learning, Deep Learning, IA,  AIY, ... pour l’HCI et BCI",
+        "text": "a défini la description du canal : Machine learning, Deep Learning, IA,  AIY, ... pour l’HCI et BCI",
+        "type": "message",
+        "ts": "1518175386.000287"
+    },
+    {
+        "subtype": "channel_topic",
+        "user": "U03FC5ZAK",
+        "topic": "Machine learning, Deep Learning, IA, AIY, ... pour l’HCI et BCI",
+        "text": "a défini le thème du canal : Machine learning, Deep Learning, IA, AIY, ... pour l’HCI et BCI",
+        "type": "message",
+        "ts": "1518175388.000355"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1518175485.000262",
+        "text": "<https:\/\/www.theguardian.com\/science\/audio\/2018\/jan\/10\/questioning-ai-what-kind-of-intelligence-will-we-create-science-weekly-podcast>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "the Guardian",
+                "title": "Questioning AI: what kind of intelligence will we create? – Science Weekly podcast",
+                "title_link": "https:\/\/www.theguardian.com\/science\/audio\/2018\/jan\/10\/questioning-ai-what-kind-of-intelligence-will-we-create-science-weekly-podcast",
+                "text": "In the second episode of this mini-series, Ian Sample asks if human-level intelligence is what we should be aiming for. And can we replicate something we can’t even define?",
+                "fallback": "the Guardian: Questioning AI: what kind of intelligence will we create? – Science Weekly podcast",
+                "image_url": "https:\/\/i.guim.co.uk\/img\/media\/84c1e985a4d5c5fb00f7f116ce3fb25cc59855ab\/0_398_5322_3194\/master\/5322.jpg?w=1200&h=630&q=55&auto=format&usm=12&fit=crop&crop=faces%2Centropy&bm=normal&ba=bottom%2Cleft&blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxOC8wMS8zMS9mYWNlYm9va19kZWZhdWx0LnBuZw&s=2e476c075a6194f9dc39d03ac435d6c5",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1515607562,
+                "from_url": "https:\/\/www.theguardian.com\/science\/audio\/2018\/jan\/10\/questioning-ai-what-kind-of-intelligence-will-we-create-science-weekly-podcast",
+                "image_bytes": 63017,
+                "service_icon": "https:\/\/assets.guim.co.uk\/images\/favicons\/ac43fe9507600081b58760450f518d07\/152x152.png",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nXw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.theguardian.com\/science\/audio\/2018\/jan\/10\/questioning-ai-what-kind-of-intelligence-will-we-create-science-weekly-podcast"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1518176042.000159",
+        "text": "Société française (co-fondée par un ancien d’Aldebaran) à surveiller (solutions logicielles en automne 2018, et peut-être des “neurochips” en 2019) : <https:\/\/anotherbrain.ai\/fr\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ei\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Société française (co-fondée par un ancien d’Aldebaran) à surveiller (solutions logicielles en automne 2018, et peut-être des “neurochips” en 2019) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/anotherbrain.ai\/fr\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U03FC5ZAK",
+                    "U03FEH3N8"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

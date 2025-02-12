@@ -1,0 +1,28 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card Next-Mind added to list Prospect on board GESTION.",
+                "text": "In list *Prospect* on *<https:\/\/trello.com\/b\/jSnI3dXM|GESTION>*.",
+                "pretext": "New card created",
+                "title": "Next-Mind",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/NcQwUogT",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/862fb75f8484e0f5c02f7d7006c4b228\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1545074208.000100",
+        "bot_id": "B66HQV43C"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U011698SU58",
+        "text": "<@U011698SU58> a rejoint le canal",
+        "type": "message",
+        "ts": "1586175476.004300"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1586189356.005400",
+        "client_msg_id": "fe673013-1070-4a40-8419-e226b00cb514",
+        "text": "Bonsoir. Pour celles et ceux qui souhaitent participer à la notre permanence hebdomadaire, RDV sur :point_right: <#C0R6W4X2Q|coglab-hacknight>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oYD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonsoir. Pour celles et ceux qui souhaitent participer à la notre permanence hebdomadaire, RDV sur "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0R6W4X2Q"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,124 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1643676321.741579",
+        "client_msg_id": "2602bf36-536a-45f9-955b-3f15977db969",
+        "text": "Hello\n\nJ’ai avancé comme j’ai pu sur un rafraîchissement du document contenant le <https:\/\/docs.google.com\/document\/d\/1n8O6Is90CoKDCndWZwxAV1-5Z5y6yxRXXcNr5StfUWs\/edit#|protocole>, toujours assez complexe entre les discussions à plein de niveaux et les incertitudes sur ce que l’on pourra faire côté Museum, je vois que la réunion de mi-janvier à permis d’écarter des points bloquant.\n\nQuelques notes\n• j’ai nettoyé le doc pour en faire une première version bêta\n• les notes de réunions ont été remises à la suite des autres dans la <https:\/\/docs.google.com\/document\/d\/1-G8ZsRwFu-0cypHGJM_PCClx73gp1xyFD49t2uSqh1M\/edit#|fiche projet>\n• j’ai surtout concentré mes effort sur une tentative de revalorisation \/ structuration de la partie ‘Objectif de recherche’ ce jour\n• pour la partie tech ça serais intéressant d’avoir un tableau d’association (capteur, marqueur, hypothèse) et\/ou un schéma de l’installation par exemple si ça te parle <@UAMPR1P5L> \n• il y aura des ajustement à faire sur le déroulé du protocole en lui-même dans un second temps\nJe refais une relecture à froid ce soir, n’hésitez pas à faire un tour si vous avez l’occasion en annotant et apportant des commentaires directement dans le document.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L5jO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello\n\nJ’ai avancé comme j’ai pu sur un rafraîchissement du document contenant le "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1n8O6Is90CoKDCndWZwxAV1-5Z5y6yxRXXcNr5StfUWs\/edit#",
+                                "text": "protocole"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", toujours assez complexe entre les discussions à plein de niveaux et les incertitudes sur ce que l’on pourra faire côté Museum, je vois que la réunion de mi-janvier à permis d’écarter des points bloquant.\n\nQuelques notes\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "j’ai nettoyé le doc pour en faire une première version bêta"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "les notes de réunions ont été remises à la suite des autres dans la "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/document\/d\/1-G8ZsRwFu-0cypHGJM_PCClx73gp1xyFD49t2uSqh1M\/edit#",
+                                        "text": "fiche projet"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "j’ai surtout concentré mes effort sur une tentative de revalorisation \/ structuration de la partie ‘Objectif de recherche’ ce jour"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "pour la partie tech ça serais intéressant d’avoir un tableau d’association (capteur, marqueur, hypothèse) et\/ou un schéma de l’installation par exemple si ça te parle "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "UAMPR1P5L"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "il y aura des ajustement à faire sur le déroulé du protocole en lui-même dans un second temps"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nJe refais une relecture à froid ce soir, n’hésitez pas à faire un tour si vous avez l’occasion en annotant et apportant des commentaires directement dans le document."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

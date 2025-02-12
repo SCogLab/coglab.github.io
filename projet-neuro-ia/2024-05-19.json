@@ -1,0 +1,77 @@
+[
+    {
+        "user": "U01804NJ7AQ",
+        "type": "message",
+        "ts": "1716183819.677439",
+        "client_msg_id": "02F6524B-354F-4947-8149-28DF174FEC2D",
+        "text": "<https:\/\/arxiv.org\/abs\/2405.10488v1|https:\/\/arxiv.org\/abs\/2405.10488v1>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g7080a90c528",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7080a90c528526f8129488e607562782.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Morgan Hough",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "morgan.hough",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716183819.677439",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1716695269.421689",
+        "reply_users": [
+            "U065TGVPMQA",
+            "U01804NJ7AQ"
+        ],
+        "replies": [
+            {
+                "user": "U065TGVPMQA",
+                "ts": "1716300104.546909"
+            },
+            {
+                "user": "U01804NJ7AQ",
+                "ts": "1716695269.421689"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/arxiv.org\/abs\/2405.10488v1",
+                "service_icon": "https:\/\/arxiv.org\/static\/browse\/0.3.4\/images\/icons\/apple-touch-icon.png",
+                "thumb_url": "https:\/\/arxiv.org\/static\/browse\/0.3.4\/images\/arxiv-logo-fb.png",
+                "thumb_width": 1200,
+                "thumb_height": 700,
+                "id": 1,
+                "original_url": "https:\/\/arxiv.org\/abs\/2405.10488v1",
+                "fallback": "arXiv.org: Comparative prospects of imaging methods for whole-brain mammalian connectomics",
+                "text": "Mammalian whole-brain connectomes are a crucial ingredient for holistic understanding of brain function. Imaging these connectomes at sufficient resolution to densely reconstruct cellular morphology and synapses represents a longstanding goal in neuroscience. Although the technologies needed to reconstruct whole-brain connectomes have not yet reached full maturity, they are advancing rapidly enough that the mouse brain might be within reach in the near future. Human connectomes remain a more distant goal. Here, we quantitatively compare existing and emerging imaging technologies that have potential to enable whole-brain mammalian connectomics. We perform calculations on electron microscopy (EM) techniques and expansion microscopy coupled with light-sheet fluorescence microscopy (ExLSFM) methods. We consider techniques from the literature that have sufficiently high resolution to identify all synapses and sufficiently high speed to be relevant for whole mammalian brains. Each imaging modality comes with benefits and drawbacks, so we suggest that attacking the problem through multiple approaches could yield the best outcomes. We offer this analysis as a resource for those considering how to organize efforts towards imaging whole-brain mammalian connectomes.",
+                "title": "Comparative prospects of imaging methods for whole-brain mammalian connectomics",
+                "title_link": "https:\/\/arxiv.org\/abs\/2405.10488v1",
+                "service_name": "arXiv.org"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "flhOG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/arxiv.org\/abs\/2405.10488v1",
+                                "text": "https:\/\/arxiv.org\/abs\/2405.10488v1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

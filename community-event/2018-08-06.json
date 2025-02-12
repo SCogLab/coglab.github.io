@@ -1,0 +1,66 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Event created: NTX Webinar - EEG &amp; BCI in VR\/AR\/MR: <!date^1534881600^{date_short_pretty} from {time}|August 21st, 2018 from 10:00 PM> to <!date^1534888800^{time}|12:00 AM GMT+0200>",
+                "text": "<!date^1534881600^{date_short_pretty} from {time}|August 21st, 2018 from 10:00 PM> to <!date^1534888800^{time}|12:00 AM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Online|Online>",
+                "pretext": "New calendar event created",
+                "title": "NTX Webinar - EEG &amp; BCI in VR\/AR\/MR",
+                "more": "NTX Webinar - EEG &amp;amp; BCI in VR\/AR\/MR&lt;br&gt;&lt;br&gt;Signup : <https:\/\/goo.gl\/forms\/jVEgh7o5mEkZgwe03&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Abstract&lt;\/b&gt;&lt;br&gt;Virtual> and Augmented Reality is just getting started and some companies are already trying to embed EEG sensors in these VR\/AR headsets. Join us for a discussion with InteraXon and Neurable on the current state of EEG in VR and the potential of the field.&lt;br&gt;&lt;br&gt;Prepare your questions!&lt;br&gt;What would you like to know? Do you have an application in mind?&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;About NTX Webinars&lt;\/b&gt;&lt;br&gt;&lt;br&gt;Each month NTX will be hosting a free webinar on neurotech-related subjects.&lt;br&gt;Join us online to meet and discuss with neurotech enthusiasts and experts.&lt;br&gt;For Previous Webinars, click here.&lt;br&gt;&lt;br&gt;https:\/\/neurotechx.com\/webinars\/",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NGJyN2k2a2hvZXQ2dHRua29lbzRmaTJjcHQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1533539710.000005",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1533540468.000048",
+        "client_msg_id": "29b26577-a4e9-42b5-9513-c2d2ad26f3ff",
+        "text": "Bonjour à tous\nPour rappel ce soir je ne pourrais pas assurer de HackNight n’étant pas sur Paris.\nRDV lundi prochain !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1i=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour à tous\nPour rappel ce soir je ne pourrais pas assurer de HackNight n’étant pas sur Paris.\nRDV lundi prochain !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

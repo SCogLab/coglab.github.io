@@ -1,0 +1,92 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1521584531.000096",
+        "text": "Coucou <!channel>, suite à une petite réunion du bureau ce soir, nous avons longuement parlé du FSC, confirmé à la Cité des Sciences, le dimanche 8 avril\n\nPersonnes sur place :\n- <@U59MQ46DA> avec gestion des EEGs ?\n- <@U5JBN3M8Q> avec gestion du projet Autispace (plateau de jeu + cartes) + Kakemono\n- <@U03FC5ZAK> en renfort l’après-midi (avec VR Autispace, Leap Motion, eyetracker)\n\nIl faut répondre à Cognivence au plus tard le Mercredi 28 Mars,\nconcernant la composition de l’équipe et les besoin matériel\n\nOrganisation générale\n- Je me rapproche de CogniJunior pour voir si l’on rapproche nos stands comme l’année dernière (soutient logistique mutuel)\n- Préparer des tryptiques à imprimer\n- Se passer le matériel avant les congés post-FSC de chacun\n\nToutes suggestions \/ contribution \/ présence sur le stand est la bienvenue :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3C0oT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coucou "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", suite à une petite réunion du bureau ce soir, nous avons longuement parlé du FSC, confirmé à la Cité des Sciences, le dimanche 8 avril\n\nPersonnes sur place :\n- "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " avec gestion des EEGs ?\n- "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U5JBN3M8Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " avec gestion du projet Autispace (plateau de jeu + cartes) + Kakemono\n- "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " en renfort l’après-midi (avec VR Autispace, Leap Motion, eyetracker)\n\nIl faut répondre à Cognivence au plus tard le Mercredi 28 Mars,\nconcernant la composition de l’équipe et les besoin matériel\n\nOrganisation générale\n- Je me rapproche de CogniJunior pour voir si l’on rapproche nos stands comme l’année dernière (soutient logistique mutuel)\n- Préparer des tryptiques à imprimer\n- Se passer le matériel avant les congés post-FSC de chacun\n\nToutes suggestions \/ contribution \/ présence sur le stand est la bienvenue "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U5JBN3M8Q",
+        "text": "<@U5JBN3M8Q> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1521584551.000405"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U59MQ46DA",
+        "text": "<@U59MQ46DA> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1521584552.000041"
+    }
+]

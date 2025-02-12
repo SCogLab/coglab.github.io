@@ -1,0 +1,44 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1549035817.001000",
+        "client_msg_id": "A4A97C40-6DF3-4981-87F8-D19F14CFB566",
+        "text": "Via facebook d’Aurelien Fâche : <http:\/\/www.cogitoinspace.org\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pKsU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Via facebook d’Aurelien Fâche : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.cogitoinspace.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

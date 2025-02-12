@@ -1,0 +1,53 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1534787278.000100",
+        "client_msg_id": "272f521e-dbfd-47ed-b92e-312540cdea91",
+        "text": "<https:\/\/kiwi.ai>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Kiwi.ai | Motion, Emotion &amp; Behaviour Change Recognition",
+                "title_link": "https:\/\/kiwi.ai\/",
+                "text": "<http:\/\/Kiwi.ai|Kiwi.ai> | Artificial Intelligence for IOT | Motion, Emotion &amp; Behaviour Change Recognition",
+                "fallback": "Kiwi.ai | Motion, Emotion &amp; Behaviour Change Recognition",
+                "from_url": "https:\/\/kiwi.ai\/",
+                "service_icon": "https:\/\/kiwi.ai\/favicon.ico",
+                "service_name": "kiwi.ai",
+                "id": 1,
+                "original_url": "https:\/\/kiwi.ai"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n5De+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/kiwi.ai"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

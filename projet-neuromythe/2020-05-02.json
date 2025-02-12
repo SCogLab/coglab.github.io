@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1588414175.002300",
+        "client_msg_id": "d2d1bab3-f44c-4906-9150-a6a97b113521",
+        "text": "Channel fusionné avec <#C07K80611|projet-off-fiches-neuromythes>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AfcT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Channel fusionné avec "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C07K80611"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_archive",
+        "user": "U03FC5ZAK",
+        "text": "a archivé le canal",
+        "type": "message",
+        "ts": "1588414191.002400"
+    }
+]

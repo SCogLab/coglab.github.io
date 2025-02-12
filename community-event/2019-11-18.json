@@ -1,0 +1,120 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #125: <!date^1574096400^{date_short_pretty} from {time}|November 18th, 2019 from 6:00 PM> to <!date^1574110800^{time}|10:00 PM GMT+0100>",
+                "text": "<!date^1574096400^{date_short_pretty} from {time}|November 18th, 2019 from 6:00 PM> to <!date^1574110800^{time}|10:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Centre+de+Recherche+Interdisciplinaire+%28CRI%29%2C+8bis+Rue+Charles+V%2C+75004+Paris%2C+France%2C+Charles+V-0-MakerLab+Classroom+%2830%29|Centre de Recherche Interdisciplinaire (CRI), 8bis Rue Charles V, 75004 Paris, France, Charles V-0-MakerLab Classroom (30)>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #125",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Mjl2dTdrZmN2NmdmczA0dHNmajg0MThmdTcgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1574092811.000100",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: Apéro Maker Faire: <!date^1574532000^{date_short_pretty} from {time}|November 23rd, 2019 from 7:00 PM> to <!date^1574541000^{time}|9:30 PM GMT+0100>",
+                "text": "<!date^1574532000^{date_short_pretty} from {time}|November 23rd, 2019 from 7:00 PM> to <!date^1574541000^{time}|9:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Villette+Makerz%2C+Galerie+de+la+Villette%2C+75019+Paris|Villette Makerz, Galerie de la Villette, 75019 Paris>",
+                "pretext": "New calendar event created",
+                "title": "Apéro Maker Faire",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MjdkZ3FoZ3M2NjliMTMyYzNwcWRmcmJsM2Igc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1574102115.000200",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1574104261.000900",
+        "client_msg_id": "bf43e77d-968e-465e-8f67-a431cae78311",
+        "text": "Pour les intéressé.e.s, il y a une soirée Makers samedi soir en marge de la Maker Faire à la Villette <https:\/\/www.eventbrite.fr\/e\/billets-apero-maker-faire-villette-makerz-52216945289>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Eventbrite",
+                "title": "Apéro Maker Faire @Villette Makerz",
+                "title_link": "https:\/\/www.eventbrite.fr\/e\/billets-apero-maker-faire-villette-makerz-52216945289",
+                "text": "Cette année encore, retrouvez nous à Villette Makerz, pour l'apéro des Makerz autour d'un verre pour un moment convivial.  Nous sommes situés à seulement 5 minutes à pied de la Cité des Sciences où se déroule la Maker Faire. Pas d'excuse pour ne pas se joindre à nous ! En plus nous avons des suprises à dévoiler en avant première à la communauté makers !  Au programme : . Le lancement de l'appel à résidence Expérimenter et Transmettre 2020 : La résidence de Villette Makerz  qui se déroulera du 05 Avril au 06 Juillet 2019 pour faire naître des contenus artistiques et créatifs qui seront ensuite déclinés en contenus éducatifs proposés au grand public.  . La présentation des pitch pitch Maker Faire : Des appels à projets thématiques, organisés par Ulule, 1er incubateur participatif de projets à impact positif en Europe. Ils mettent en lumière des créateurs et entrepreneurs qui se lancent en campagne de crowdfunding sur Ulule, en leur offrant la possibilité de présenter leurs projets devant un public de passionnés ! A l'occasion du partenariat entre Maker Faire et Ulule, une dizaine de makers vous présenteront en 2 minutes leur projet, à vous d'élire votre coup de coeur qui recevra un chèque de 250€ ! Retrouvez les porteurs de projets ici, et sur leur stand lors du salon ! . Des concerts et des surprises : Avec une performance musicale surprise et une performance de Dualo ! Alors on n'hésite pas et on réserve son samedi soir pour l'apéro des makerz ! .",
+                "fallback": "Eventbrite: Apéro Maker Faire @Villette Makerz",
+                "image_url": "https:\/\/img.evbuc.com\/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F80623027%2F235788997636%2F1%2Foriginal.20191112-164615?w=1000&auto=compress&rect=0%2C363%2C1752%2C876&s=e52d3342d9094e70f13e81ad0ae490bf",
+                "fields": [
+                    {
+                        "title": "Where",
+                        "value": "Galerie de la Villette, 75019 Paris, France",
+                        "short": true
+                    },
+                    {
+                        "title": "When",
+                        "value": "Le sam  23 nov. 2019 à 19:00",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.eventbrite.fr\/e\/billets-apero-maker-faire-villette-makerz-52216945289",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 45034,
+                "service_icon": "https:\/\/cdn.evbstatic.com\/s3-build\/perm_001\/eba891\/django\/images\/touch_icons\/apple-touch-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.eventbrite.fr\/e\/billets-apero-maker-faire-villette-makerz-52216945289"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5OK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour les intéressé.e.s, il y a une soirée Makers samedi soir en marge de la Maker Faire à la Villette "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.eventbrite.fr\/e\/billets-apero-maker-faire-villette-makerz-52216945289"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,170 @@
+[
+    {
+        "user": "U6EPG5PTQ",
+        "type": "message",
+        "ts": "1591027448.035400",
+        "client_msg_id": "d03a0ce3-9b8a-4795-8439-4249862901eb",
+        "text": "<@U014STZS797> pas sûre qu'il y a un event ce soir, on se verra lundi prochain pour la 150ème ! :wink:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g09c260ee4c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/209c260ee4c8c21ab89b376055cd6e8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Karine",
+            "real_name": "Karine Halpern",
+            "display_name": "KarineH",
+            "team": "T03FC4NDZ",
+            "name": "karine.halpern",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1591027448.035400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1591099151.038700",
+        "reply_users": [
+            "U03FC5ZAK",
+            "U014STZS797"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1591098353.038000"
+            },
+            {
+                "user": "U014STZS797",
+                "ts": "1591099151.038700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D7QJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U014STZS797"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pas sûre qu'il y a un event ce soir, on se verra lundi prochain pour la 150ème ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U014STZS797",
+        "type": "message",
+        "ts": "1591027469.035800",
+        "client_msg_id": "8A1E5F10-6024-49CF-8A83-FC50ECC3110B",
+        "text": "Ah ok :ok_hand: sinon je suis prête ",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "6ea05047a3d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-28\/1150591839426_6ea05047a3d35fa73d56_72.png",
+            "first_name": "Lirola",
+            "real_name": "Lirola Rose-Marie",
+            "display_name": "Rose-Marie",
+            "team": "T03FC4NDZ",
+            "name": "rose-marie.lirola",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VLJh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah ok "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand",
+                                "unicode": "1f44c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sinon je suis prête "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U014STZS797",
+        "type": "message",
+        "ts": "1591029614.037800",
+        "client_msg_id": "6E97821D-D40F-4DBB-B1F2-1C65C38DD77E",
+        "text": "No problem, i meet Morgan from san Franscico. It was Nice to meet him and improve my english ! See you all next monday!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "6ea05047a3d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-28\/1150591839426_6ea05047a3d35fa73d56_72.png",
+            "first_name": "Lirola",
+            "real_name": "Lirola Rose-Marie",
+            "display_name": "Rose-Marie",
+            "team": "T03FC4NDZ",
+            "name": "rose-marie.lirola",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7mdL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No problem, i meet Morgan from san Franscico. It was Nice to meet him and improve my english ! See you all next monday!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U6EPG5PTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

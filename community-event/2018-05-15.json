@@ -1,0 +1,28 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Event created: Soirée Neurotrucs: <!date^1527786000^{date_short_pretty} from {time}|May 31st, 2018 from 7:00 PM> to <!date^1527796800^{time}|10:00 PM GMT+0200>",
+                "text": "<!date^1527786000^{date_short_pretty} from {time}|May 31st, 2018 from 7:00 PM> to <!date^1527796800^{time}|10:00 PM GMT+0200>",
+                "pretext": "New calendar event created",
+                "title": "Soirée Neurotrucs",
+                "more": "Fin de la campagne de crowdfunding\nSoirée de networking avec mise en avant des partenaires",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=M2xkZ2wzbXBwaHFxczRtNjRkZWRtdXBjMmcgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1526423536.000147",
+        "bot_id": "B4SJBP2L8"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card Tomorrow for good added to list ÉVÉNEMENTS (à venir) on board Activités CogLab (public).",
+                "text": "In list *ÉVÉNEMENTS (à venir)* on *<https:\/\/trello.com\/b\/NFHS3ZPa|Activités CogLab (public)>*.",
+                "pretext": "New card created",
+                "title": "Tomorrow for good",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/44oKZPJR",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1574092818.000100",
+        "bot_id": "B66HQV43C"
+    }
+]

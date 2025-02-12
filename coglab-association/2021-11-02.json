@@ -1,0 +1,443 @@
+[
+    {
+        "user": "U01H1C8B1V2",
+        "type": "message",
+        "ts": "1635846331.001400",
+        "client_msg_id": "30a2e6ab-496c-4703-b427-7e46d5872c85",
+        "text": "Hello <@U03FC5ZAK> <@U59MQ46DA>!\nJ'espère que vous allez bien :slightly_smiling_face:\nEst-ce qu'il y a un canal qui serait approprié pour faire un rappel de notre invitation au WEARE de la Fresco svp ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g05df8e96d77",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/05df8e96d7771b07612d8b6ab7757adb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "Jean-Michel Dagba",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "jeanmichel.dagba",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1635846331.001400",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1635884693.004200",
+        "reply_users": [
+            "U59MQ46DA",
+            "U01H1C8B1V2",
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1635847207.002800"
+            },
+            {
+                "user": "U01H1C8B1V2",
+                "ts": "1635847446.003000"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1635847602.003200"
+            },
+            {
+                "user": "U01H1C8B1V2",
+                "ts": "1635856722.003500"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1635859048.003700"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1635859063.003900"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1635884693.004200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8h3yq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!\nJ'espère que vous allez bien "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nEst-ce qu'il y a un canal qui serait approprié pour faire un rappel de notre invitation au WEARE de la Fresco svp ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1635847207.002800",
+        "client_msg_id": "A9243D6B-A56B-4812-B0F6-7E65AFEEEF8F",
+        "text": "Hello <@U01H1C8B1V2>, tu peux utiliser <#C03UHNB2H|community-event> et\/ou <#C03FC4NE9|coglab-general> ",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1635846331.001400",
+        "parent_user_id": "U01H1C8B1V2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "paP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01H1C8B1V2"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", tu peux utiliser "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03UHNB2H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et\/ou "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03FC4NE9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01H1C8B1V2",
+        "type": "message",
+        "ts": "1635847446.003000",
+        "client_msg_id": "d77dadfd-5b43-4a52-961c-aed6a0679474",
+        "text": "D'acc, merci Hans !\nEst-ce que tu seras avec nous au WEARE ? :wink:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g05df8e96d77",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/05df8e96d7771b07612d8b6ab7757adb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "Jean-Michel Dagba",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "jeanmichel.dagba",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1635846331.001400",
+        "parent_user_id": "U01H1C8B1V2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ma4vg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "D'acc, merci Hans !\nEst-ce que tu seras avec nous au WEARE ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1635847602.003200",
+        "client_msg_id": "3d9a57c7-6484-4016-922a-ae9105aa2ad6",
+        "text": "Oui, je serai présent pour représenter CogLab",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1635846331.001400",
+        "parent_user_id": "U01H1C8B1V2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N6+sD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui, je serai présent pour représenter CogLab"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01H1C8B1V2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01H1C8B1V2",
+        "type": "message",
+        "ts": "1635856722.003500",
+        "client_msg_id": "27a05b2e-0887-48be-9411-f57ea67c5737",
+        "text": "Super ! Il y a un covoiturage qui passe par Paris qui est proche de tomber à l'eau, est-ce que cela t'intéresse ? :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g05df8e96d77",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/05df8e96d7771b07612d8b6ab7757adb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "Jean-Michel Dagba",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "jeanmichel.dagba",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1635846331.001400",
+        "parent_user_id": "U01H1C8B1V2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FIO=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Super ! Il y a un covoiturage qui passe par Paris qui est proche de tomber à l'eau, est-ce que cela t'intéresse ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1635859048.003700",
+        "client_msg_id": "21647100-5a53-4afe-a5e3-6ced97c568e1",
+        "text": "Oui, je suis intéressé",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1635846331.001400",
+        "parent_user_id": "U01H1C8B1V2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lg\/f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui, je suis intéressé"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1635859063.003900",
+        "client_msg_id": "8e387872-814b-44ee-b3fb-e296b39b7308",
+        "text": "je vais regarder le tableau de covoit",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1635846331.001400",
+        "parent_user_id": "U01H1C8B1V2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "07hm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je vais regarder le tableau de covoit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01H1C8B1V2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1635884693.004200",
+        "client_msg_id": "edb482f0-7371-4228-b1e6-f14110534848",
+        "text": "Yes n’hésite pas à relayer ici et sur notre groupe Facebook, de mon côté, pas du tout le temps de m’occuper de la com’ :confused:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1635846331.001400",
+        "parent_user_id": "U01H1C8B1V2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8NpYG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes n’hésite pas à relayer ici et sur notre groupe Facebook, de mon côté, pas du tout le temps de m’occuper de la com’ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused",
+                                "unicode": "1f615"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

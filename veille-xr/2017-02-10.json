@@ -1,0 +1,58 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1486734031.000002",
+        "text": "Hello, une bonne nouvelle pour de déployement de la VR \n<http:\/\/www.zdnet.fr\/actualites\/google-veut-utiliser-chrome-pour-vous-aspirer-dans-la-realite-virtuelle-39848396.htm>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ZDNet France",
+                "title": "Google veut utiliser Chrome pour vous aspirer dans la réalité virtuelle",
+                "title_link": "http:\/\/www.zdnet.fr\/actualites\/google-veut-utiliser-chrome-pour-vous-aspirer-dans-la-realite-virtuelle-39848396.htm",
+                "text": "Chrome supporte désormais WebVR, qui ouvre les navigateurs Web aux mondes virtuels. Les alliés incluent Mozilla, Microsoft et Facebook, mais nous pouvons nous attendre à des correctifs brutaux.",
+                "fallback": "ZDNet France: Google veut utiliser Chrome pour vous aspirer dans la réalité virtuelle",
+                "thumb_url": "http:\/\/www.zdnet.fr\/i\/edit\/ne\/2017\/02\/Chrome-VR-140.jpg",
+                "from_url": "http:\/\/www.zdnet.fr\/actualites\/google-veut-utiliser-chrome-pour-vous-aspirer-dans-la-realite-virtuelle-39848396.htm",
+                "thumb_width": 140,
+                "thumb_height": 105,
+                "service_icon": "http:\/\/www.zdnet.fr\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZhU7S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, une bonne nouvelle pour de déployement de la VR \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.zdnet.fr\/actualites\/google-veut-utiliser-chrome-pour-vous-aspirer-dans-la-realite-virtuelle-39848396.htm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

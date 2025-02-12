@@ -1,0 +1,49 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "ULSDVUUVA",
+        "text": "<@ULSDVUUVA> a rejoint le canal",
+        "type": "message",
+        "ts": "1582111338.000900"
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1582117129.001200",
+        "client_msg_id": "f0264f9a-0d50-4135-9666-7949a28c7186",
+        "text": "J’imagine que ce sera un stand dans le hall du Laval Virtual (?), Est-ce que Hughes a eu une réponse pour son projet ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1582065644.000100",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rrWzu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’imagine que ce sera un stand dans le hall du Laval Virtual (?), Est-ce que Hughes a eu une réponse pour son projet ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

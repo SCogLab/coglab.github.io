@@ -1,0 +1,106 @@
+[
+    {
+        "user": "U03KXTN2D",
+        "type": "message",
+        "ts": "1426605656.000002",
+        "text": "<@U03FC5ZAK> <@U03HY4P8V> Bon ben je viens de chopper un truc carabiné comme la plupart des gens sur Paris... du coup je ne sais pas si je serais guéris d'ici jeudi :disappointed:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gcb23890d1b9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3cb23890d1b93be0ac8ec9f7218fc8ee.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Guillaume",
+            "real_name": "Guillaume DUMAS",
+            "display_name": "guillaume",
+            "team": "T03FC4NDZ",
+            "name": "guillaume",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SVwk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HY4P8V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Bon ben je viens de chopper un truc carabiné comme la plupart des gens sur Paris... du coup je ne sais pas si je serais guéris d'ici jeudi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed",
+                                "unicode": "1f61e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1426635200.000002",
+        "text": "Arf, soigne toi bien <@U03KXTN2D>, bon courage :confused:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q9nk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Arf, soigne toi bien "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03KXTN2D"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", bon courage "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused",
+                                "unicode": "1f615"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

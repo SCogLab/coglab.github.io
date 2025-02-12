@@ -1,0 +1,622 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "UM9FGHCQ5",
+        "text": "<@UM9FGHCQ5> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1565612064.000200"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1565612126.001400",
+        "client_msg_id": "229113be-1883-4c25-8783-244b6409c716",
+        "text": "Welcome to <@UM9FGHCQ5> who’s with us this summer to help on the project :ok_hand:\n\nFree free to ask question here, it’s your channel dedicated to the project",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z\/l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UM9FGHCQ5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " who’s with us this summer to help on the project "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand",
+                                "unicode": "1f44c"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nFree free to ask question here, it’s your channel dedicated to the project"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1565612170.002200",
+        "client_msg_id": "0b42a86d-d3e9-4879-b825-b7e4bc550618",
+        "text": "<@U59MQ46DA> do you remember where you change the path to the files I send you on Android studio please ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VlFAx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do you remember where you change the path to the files I send you on Android studio please ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UM9FGHCQ5",
+        "type": "message",
+        "ts": "1565612202.002900",
+        "client_msg_id": "e7c9bfb1-81de-41c7-8fbb-e0ee0d8a4309",
+        "text": "Installation failed with message Invalid File: \/Users\/rouffi\/Downloads\/DemoSDK.Android-dev\/app\/build\/intermediates\/split-apk\/debug\/slices\/slice_4.apk.\nIt is possible that this issue is resolved by uninstalling an existing version of the apk if it is present, and then re-installing.\nFacing this error message. Where exactly do we change the directory address to fit the installation process?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gdc55c403bfb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5dc55c403bfb3989d8f7e7056a1858cb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Sitharth",
+            "display_name": "Sitharth",
+            "team": "T03FC4NDZ",
+            "name": "esitharth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PeQY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Installation failed with message Invalid File: \/Users\/rouffi\/Downloads\/DemoSDK.Android-dev\/app\/build\/intermediates\/split-apk\/debug\/slices\/slice_4.apk.\nIt is possible that this issue is resolved by uninstalling an existing version of the apk if it is present, and then re-installing.\nFacing this error message. Where exactly do we change the directory address to fit the installation process?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1565612547.004000",
+        "client_msg_id": "aebce4cf-2c2f-41c8-abc0-8ad256176f0e",
+        "text": "Hi <@UM9FGHCQ5>, I didn’t change the path after this message error last time",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5S+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UM9FGHCQ5"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I didn’t change the path after this message error last time"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1565612554.004300",
+        "client_msg_id": "d6cf8864-d5f8-49c5-96a5-a987d5a3a03c",
+        "text": "try these : “Build” -&gt; “Rebuild Project”, then “Run” again.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8k6Gm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "try these : “Build” -> “Rebuild Project”, then “Run” again."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1565612584.004500",
+        "client_msg_id": "23e44952-c020-4953-8367-0ee0ef847ea2",
+        "text": "or\nSelect the option “Clean project” in the “Build” menu\nThen close and re-open Android Studio",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m4ET",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or\nSelect the option “Clean project” in the “Build” menu\nThen close and re-open Android Studio"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "ULSDVUUVA",
+        "text": "<@ULSDVUUVA> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1565613003.004700"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1565614286.015400",
+        "client_msg_id": "55519819-84ba-4e64-9fb4-6e6c9f70d7e0",
+        "text": "Hey <!here> :spock-hand:\n\n:date: This evening, for the <#C0R6W4X2Q|coglab-hacknight> I’ll propose you a little update on the project :\n- I had a meeting with 4D Motion last Friday, about the whole *scenography* for the exhibition, and will update my *Mockup*\n- <@U59MQ46DA> added some *technical ressources* in the project repository and do some test with the SDK after your preliminary test with the Melomind team <https:\/\/drive.google.com\/drive\/folders\/1r4NAcpucodrp01ALCUjgoSLL7h2_CndN>\n- We work Saturday with <@ULSDVUUVA> on the *pictures category* and experiment\n- <@UM9FGHCQ5> help us on the development (*Android app and machine learning*) starting today, is at my office all day long until end of august\n- <@U03FEH3N8> can provide some help about the *EEG literature and scientist advice*\n\n:brain: *Please*, do not forget to *document all your progress* on the main documentation document to help me to properly manage the whole project and share knowledge accross the team !  <https:\/\/docs.google.com\/document\/d\/1aEvSJXRzzPu-5x6XPU2g9OriXQjIvOjTuVM_rA8wtPY\/edit#heading=h.ngc8aepi3c4h>\n\n:love_letter: And thanks a lot to all of you for the precious contribution to make this demonstrator alive :rocket::sunglasses:\n\nFeel free to ask anything in this channel :point_down:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ujfy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "spock-hand",
+                                "unicode": "1f596"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "date",
+                                "unicode": "1f4c5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " This evening, for the "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0R6W4X2Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I’ll propose you a little update on the project :\n- I had a meeting with 4D Motion last Friday, about the whole "
+                            },
+                            {
+                                "type": "text",
+                                "text": "scenography",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " for the exhibition, and will update my "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Mockup",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " added some "
+                            },
+                            {
+                                "type": "text",
+                                "text": "technical ressources",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " in the project repository and do some test with the SDK after your preliminary test with the Melomind team "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1r4NAcpucodrp01ALCUjgoSLL7h2_CndN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- We work Saturday with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "ULSDVUUVA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "pictures category",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and experiment\n- "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UM9FGHCQ5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " help us on the development ("
+                            },
+                            {
+                                "type": "text",
+                                "text": "Android app and machine learning",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ") starting today, is at my office all day long until end of august\n- "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can provide some help about the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "EEG literature and scientist advice",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "brain",
+                                "unicode": "1f9e0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Please",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", do not forget to "
+                            },
+                            {
+                                "type": "text",
+                                "text": "document all your progress",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " on the main documentation document to help me to properly manage the whole project and share knowledge accross the team !  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1aEvSJXRzzPu-5x6XPU2g9OriXQjIvOjTuVM_rA8wtPY\/edit#heading=h.ngc8aepi3c4h"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "love_letter",
+                                "unicode": "1f48c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " And thanks a lot to all of you for the precious contribution to make this demonstrator alive "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rocket",
+                                "unicode": "1f680"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses",
+                                "unicode": "1f60e"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nFeel free to ask anything in this channel "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_down",
+                                "unicode": "1f447"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1565618106.016200",
+        "client_msg_id": "bfd2fd43-e55f-4f6e-9ce5-13ac5a35051a",
+        "text": "I'll try to check out the document tonight to be up to date and see where I can help",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fLZC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll try to check out the document tonight to be up to date and see where I can help"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1565639165.016900",
+        "client_msg_id": "0783ae06-14e9-4970-9348-bfd9b2738285",
+        "text": "Here a link to get a free pass to come and visit the exhibition <https:\/\/badge.iftm.fr\/?codePromo=PARADVANCED>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Badge d’accès pour pour le salon IFTM  | Pré-enregistrement",
+                "title_link": "https:\/\/badge.iftm.fr\/?codePromo=PARADVANCED",
+                "text": "Commandez votre badge électronique pour le salon IFTM. Vous pourrez ainsi bénéficiez de nombreux avantages.",
+                "fallback": "Badge d’accès pour pour le salon IFTM  | Pré-enregistrement",
+                "from_url": "https:\/\/badge.iftm.fr\/?codePromo=PARADVANCED",
+                "service_icon": "https:\/\/badge.iftm.fr\/Data\/Sites\/143\/images\/favicon.ico",
+                "service_name": "badge.iftm.fr",
+                "id": 1,
+                "original_url": "https:\/\/badge.iftm.fr\/?codePromo=PARADVANCED"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cyV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here a link to get a free pass to come and visit the exhibition "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/badge.iftm.fr\/?codePromo=PARADVANCED"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

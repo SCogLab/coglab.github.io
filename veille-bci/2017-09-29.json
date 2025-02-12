@@ -1,0 +1,58 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1506714665.000545",
+        "text": "Une app windows pour détecter et streamer le signal d’un casque Muse EEG\n<https:\/\/github.com\/kowalej\/BlueMuse>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "kowalej\/BlueMuse",
+                "title_link": "https:\/\/github.com\/kowalej\/BlueMuse",
+                "text": "BlueMuse - UWP (Windows) application to detect Muse EEG headsets and stream data via LSL (Lab Streaming Layer).",
+                "fallback": "GitHub: kowalej\/BlueMuse",
+                "from_url": "https:\/\/github.com\/kowalej\/BlueMuse",
+                "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/1145056?v=4&s=400",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E0TI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Une app windows pour détecter et streamer le signal d’un casque Muse EEG\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/kowalej\/BlueMuse"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

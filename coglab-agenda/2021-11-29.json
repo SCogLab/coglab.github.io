@@ -1,0 +1,72 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: CogLab HackNight #217: <!date^1638214200^{date_short_pretty} from {time}|November 29th, 2021 from 8:30 PM> to <!date^1638217800^{time}|9:30 PM GMT+0100>",
+                "text": "<!date^1638214200^{date_short_pretty} from {time}|November 29th, 2021 from 8:30 PM> to <!date^1638217800^{time}|9:30 PM GMT+0100> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "pretext": "New calendar event created",
+                "title": "CogLab HackNight #217",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=N3MwbnF1MWhycHViaXE4YWE3YnRlYXNyaWogc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1638176000.005800",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #217: <!date^1638214200^{date_short_pretty} from {time}|November 29th, 2021 from 8:30 PM> to <!date^1638217800^{time}|9:30 PM GMT+0100>",
+                "text": "<!date^1638214200^{date_short_pretty} from {time}|November 29th, 2021 from 8:30 PM> to <!date^1638217800^{time}|9:30 PM GMT+0100> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #217",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=N3MwbnF1MWhycHViaXE4YWE3YnRlYXNyaWogc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1638210601.005900",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CogLab HackNight #217: <!date^1638214200^{date_short_pretty} from {time}|November 29th, 2021 from 8:30 PM> to <!date^1638217800^{time}|9:30 PM GMT+0100>",
+                "text": "<!date^1638214200^{date_short_pretty} from {time}|November 29th, 2021 from 8:30 PM> to <!date^1638217800^{time}|9:30 PM GMT+0100> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab HackNight #217",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=N3MwbnF1MWhycHViaXE4YWE3YnRlYXNyaWogc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1638213915.006000",
+        "bot_id": "B4SJBP2L8"
+    }
+]

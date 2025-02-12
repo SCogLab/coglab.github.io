@@ -1,0 +1,69 @@
+[
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1546150951.000600",
+        "client_msg_id": "9df1528e-f564-4e82-90d0-90ac5c06c5e8",
+        "text": "ils font des trucs cool a canopé, c'est un bon réseau, faut qu'ons'associe a eux plus chez CJ :face_with_monocle:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546150951.000600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1546175266.000200",
+        "reply_users": [
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1546175266.000200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zTEno",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ils font des trucs cool a canopé, c'est un bon réseau, faut qu'ons'associe a eux plus chez CJ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_monocle",
+                                "unicode": "1f9d0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

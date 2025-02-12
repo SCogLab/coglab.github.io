@@ -1,0 +1,74 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1559995031.000900",
+        "client_msg_id": "9d2f5219-156a-45a2-982b-e43b9913cb80",
+        "text": "<@U03FC5ZAK> Sad day :sob: ! <https:\/\/techcrunch.com\/2019\/06\/07\/make-magazine-maker-media-layoffs\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "TechCrunch",
+                "title": "Maker Faire halts operations and lays off all staff – TechCrunch",
+                "title_link": "https:\/\/techcrunch.com\/2019\/06\/07\/make-magazine-maker-media-layoffs\/",
+                "text": "Financial troubles have forced Maker Media, the company behind crafting publication MAKE: magazine as well as the science and art festival Maker Faire, to lay off its entire staff of 22 and pause all operations. TechCrunch was tipped off to Maker Media’s unfortunate situation which was then c…",
+                "fallback": "TechCrunch: Maker Faire halts operations and lays off all staff – TechCrunch",
+                "image_url": "https:\/\/techcrunch.com\/wp-content\/uploads\/2019\/06\/Maker-Faire-Layoffs.png?w=732",
+                "from_url": "https:\/\/techcrunch.com\/2019\/06\/07\/make-magazine-maker-media-layoffs\/",
+                "image_width": 458,
+                "image_height": 250,
+                "image_bytes": 58597,
+                "service_icon": "https:\/\/techcrunch.com\/wp-content\/uploads\/2015\/02\/cropped-cropped-favicon-gradient.png?w=180",
+                "id": 1,
+                "original_url": "https:\/\/techcrunch.com\/2019\/06\/07\/make-magazine-maker-media-layoffs\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "03E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Sad day "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/techcrunch.com\/2019\/06\/07\/make-magazine-maker-media-layoffs\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

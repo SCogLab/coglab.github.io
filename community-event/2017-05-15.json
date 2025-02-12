@@ -1,0 +1,390 @@
+[
+    {
+        "user": "U07CPSBGX",
+        "type": "message",
+        "ts": "1494858704.654170",
+        "text": "Hello, je ne serais certainement pas présente ce soir, comment on peut s’organiser pour le CR? je le fais à partir de vos notes pour envoi par mail?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g2e0d1ac2856",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a2e0d1ac2856ecc07d133a48e7fb61f1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Clémence",
+            "real_name": "Clémence BLANCHET",
+            "display_name": "clemsy",
+            "team": "T03FC4NDZ",
+            "name": "clemsy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kzuk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, je ne serais certainement pas présente ce soir, comment on peut s’organiser pour le CR? je le fais à partir de vos notes pour envoi par mail?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1494860037.313323",
+        "text": "Coucou <@U07CPSBGX> \nJe prends toujours les notes en live, sur un hackpad, donc pas de panique sur le CR.\n\nCe soir je propose une HackNight dédiée à la préparation des dernières choses à faire pour être *efficace* mercredi\nCa va surtout être des tâches cochées sur Trello --&gt; <https:\/\/trello.com\/scoglab>\n\nViens qui peux ! :sunglasses:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Trello",
+                "title": "CogLab \/ NeuroTechX Paris (scoglab)",
+                "title_link": "https:\/\/trello.com\/scoglab",
+                "text": "Kanban de suivi de projets\/tâches du CogLab, chapitre NeuroTechX Paris. Exploration des Sciences Cognitives avec la culture Makers, DIY et Open Science Tout le monde peut consulter, pour ajouter de...",
+                "fallback": "Trello: CogLab \/ NeuroTechX Paris (scoglab)",
+                "thumb_url": "https:\/\/trello-logos.s3.amazonaws.com\/5b6e9ce15a2af1fc4b91a42486630448\/170.png",
+                "from_url": "https:\/\/trello.com\/scoglab",
+                "thumb_width": 170,
+                "thumb_height": 170,
+                "service_icon": "https:\/\/trello.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "htbY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coucou "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07CPSBGX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nJe prends toujours les notes en live, sur un hackpad, donc pas de panique sur le CR.\n\nCe soir je propose une HackNight dédiée à la préparation des dernières choses à faire pour être "
+                            },
+                            {
+                                "type": "text",
+                                "text": "efficace",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " mercredi\nCa va surtout être des tâches cochées sur Trello --> "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/trello.com\/scoglab"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nViens qui peux ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses",
+                                "unicode": "1f60e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "CogLab - HackNight #43: <!date^1494869400^{date_short_pretty} from {time}|May 15, 2017 from 7:30 PM> to <!date^1494880200^{time}|10:30 PM GMT+0200>",
+                "text": "<!date^1494869400^{date_short_pretty} from {time}|May 15, 2017 from 7:30 PM> to <!date^1494880200^{time}|10:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab - HackNight #43",
+                "more": "HackNight #43\n\nOrdre du jour :\n- Préparation C.A. (relecture statut\/RI, docs administratif, outils)\n- Point projet Autispace (Storycode LabVR, FSC, partenaires)\n- Newsletter\n\nLieu : \n- Skype <https:\/\/join.skype.com\/jSrxm2kHx3PU>\n- Locaux af83 avec Romain pour ceux qui veulent\n\nDocumentation\n- Assemblée Générale <https:\/\/coglab.hackpad.com\/Assemble-Gnrale-constituante-CogLab-NeuroTechX-Paris-AozSb4Hmi6G>\n- Répertoire Drive association <https:\/\/drive.google.com\/drive\/folders\/0BwKSxReDkRXzY1ZsaWlrdGRDSUU?usp=sharing>\n- Projet Autispace <https:\/\/coglab.hackpad.com\/Projet-Autispace-YfFYmWzpNhI>\n\nInteractions :\n- Slack : <https:\/\/scoglab.slack.com> (inscription sur <http:\/\/scoglab.herokuapp.com\/>)\n- Communauté Facebook : <https:\/\/www.facebook.com\/groups\/coglab\/>\n- Site <http:\/\/coglab.fr\/>\n\nView meeting on Solid : <https:\/\/solid.wisembly.com\/meetings\/m6da081?r=meeting.calendar.link&amp;u=m114455>",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=ZWttbmdpNWV1c2puOWxoczlycW9sZW9qc2sgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1494865800.107699",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U07CPSBGX",
+        "type": "message",
+        "ts": "1494867007.630334",
+        "text": "Ok <@U03FC5ZAK>  donc je le fais à partir du hackpad ou celui ci sert de CR ?  \nBonne hacknight hacknightet à mercredi! ",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g2e0d1ac2856",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a2e0d1ac2856ecc07d133a48e7fb61f1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Clémence",
+            "real_name": "Clémence BLANCHET",
+            "display_name": "clemsy",
+            "team": "T03FC4NDZ",
+            "name": "clemsy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MtNdQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  donc je le fais à partir du hackpad ou celui ci sert de CR ?  \nBonne hacknight hacknightet à mercredi!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1494870301.068993",
+        "text": "<!here|@here> s’il y a des gens dispo, je suis avec <@U59MQ46DA>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vFB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here|@here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " s’il y a des gens dispo, je suis avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1494872231.932776",
+        "text": "sorry vient de finir mon meeting et là conférence, je peux pas me joindre today",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bqci",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sorry vient de finir mon meeting et là conférence, je peux pas me joindre today"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0AR01SPQ",
+        "type": "message",
+        "ts": "1494883758.658907",
+        "text": "je n'avais pas vu qu'on faisait hacknight ce soir et j'avais à l'esprit le meeting de mercredi. Je serai présente par skype, à mercredi!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b34e84fd77bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-17\/18704226567_b34e84fd77bcdb81946f_72.jpg",
+            "first_name": "Murielle",
+            "real_name": "Murielle PALISSANDRE",
+            "display_name": "murielle",
+            "team": "T03FC4NDZ",
+            "name": "murielle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o1pW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je n'avais pas vu qu'on faisait hacknight ce soir et j'avais à l'esprit le meeting de mercredi. Je serai présente par skype, à mercredi!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1494891149.572869",
+        "text": "Pas de soucis, on as échangé sur un nouveau projet proposé par Hans\n\n- Quelques notes sur le projet prises ici <https:\/\/coglab.hackpad.com\/Projet-OpenBCIA-LNdWg4xq0P8>\n\nEt les notes sur la HackNight, je continuerai les sujets à préparer ce soir <https:\/\/coglab.hackpad.com\/HackNight-43-x7P9f8s1iuN>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Projet OpenBC[IA]",
+                "title_link": "https:\/\/coglab.hackpad.com\/Projet-OpenBCIA-LNdWg4xq0P8",
+                "text": "A PROPOS Projet proposé par Hans Rajoharison lors de la HackNight 43 (15 mai) *BRAINSTORMING Interface Projet AIY de Google (Google Home Open Source) (6£+FDP) *<https:\/\/aiyprojects.withgoogle.com\/> *<https:\/\/www.hackster.io\/google\/products\/aiy-projects> *<https:\/\/developers.googleblog>.",
+                "fallback": "Projet OpenBC[IA]",
+                "from_url": "https:\/\/coglab.hackpad.com\/Projet-OpenBCIA-LNdWg4xq0P8",
+                "thumb_url": "https:\/\/hackpad.com\/static\/img\/hackpad-logo-112.png",
+                "thumb_width": 112,
+                "thumb_height": 112,
+                "service_icon": "https:\/\/coglab.hackpad.com\/favicon.ico",
+                "service_name": "coglab.hackpad.com",
+                "id": 1
+            },
+            {
+                "title": "HackNight #43",
+                "title_link": "https:\/\/coglab.hackpad.com\/HackNight-43-x7P9f8s1iuN",
+                "text": "A PROPOS Ordre du jour : *Présentation projet Hans *Point Projet Autispace (Storycode LabVR, FSC, partenaires) *Préparation C.A. (relecture statut\/RI, docs administratif, outils) suite à Assemble Gnrale constituante CogLab NeuroTechX Paris *Newsletter Lieu : *Skype <https:\/\/join.skype>.",
+                "fallback": "HackNight #43",
+                "from_url": "https:\/\/coglab.hackpad.com\/HackNight-43-x7P9f8s1iuN",
+                "thumb_url": "https:\/\/hackpad.com\/static\/img\/hackpad-logo-112.png",
+                "thumb_width": 112,
+                "thumb_height": 112,
+                "service_icon": "https:\/\/coglab.hackpad.com\/favicon.ico",
+                "service_name": "coglab.hackpad.com",
+                "id": 2
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T\/u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pas de soucis, on as échangé sur un nouveau projet proposé par Hans\n\n- Quelques notes sur le projet prises ici "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.hackpad.com\/Projet-OpenBCIA-LNdWg4xq0P8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nEt les notes sur la HackNight, je continuerai les sujets à préparer ce soir "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.hackpad.com\/HackNight-43-x7P9f8s1iuN"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

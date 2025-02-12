@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "FSC 2021 - Salon des métiers - Fresco: <!date^1618504200^{date_short_pretty} from {time}|April 15th, 2021 from 6:30 PM> to <!date^1618509600^{time}|8:00 PM GMT+0200>",
+                "text": "<!date^1618504200^{date_short_pretty} from {time}|April 15th, 2021 from 6:30 PM> to <!date^1618509600^{time}|8:00 PM GMT+0200>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "FSC 2021 - Salon des métiers - Fresco",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NzByNXE3ZmRqZGZtZGFmdjBqZm43c2lqdTYgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1618500601.003500",
+        "bot_id": "B4SJBP2L8"
+    }
+]

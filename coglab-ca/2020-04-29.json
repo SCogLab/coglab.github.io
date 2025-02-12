@@ -1,0 +1,102 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1588199596.018900",
+        "client_msg_id": "f3a4ed89-5cdf-4e53-8fb8-3b230cc7b0a3",
+        "text": "Voici un nouveau slidedeck contenant 2 parties\n• Pitch : à traduire en anglais pour NTX, notamment la confcall de ce soir cc <@U59MQ46DA> \n• Rapport d'activité : pour le moment un copier-collé amélioré des slides de l'AG de l'année dernière qui évoluera pour la prochaine AG\n<https:\/\/docs.google.com\/presentation\/d\/1ZiD-Yvk8ECk6vrvh-_uBs_s7dBbY-aW4VNq6qPJZiGA\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1588199596.018900",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1588232632.019400",
+        "reply_users": [
+            "ULSDVUUVA",
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "ULSDVUUVA",
+                "ts": "1588232014.019200"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1588232632.019400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O\/7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Voici un nouveau slidedeck contenant 2 parties\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Pitch : à traduire en anglais pour NTX, notamment la confcall de ce soir cc "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U59MQ46DA"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Rapport d'activité : pour le moment un copier-collé amélioré des slides de l'AG de l'année dernière qui évoluera pour la prochaine AG"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/presentation\/d\/1ZiD-Yvk8ECk6vrvh-_uBs_s7dBbY-aW4VNq6qPJZiGA\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

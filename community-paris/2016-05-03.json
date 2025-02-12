@@ -1,0 +1,111 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1462309026.000006",
+        "text": "<!channel>: Bonjour à tous,\n\nLors de notre HackNight hier soir, nous avons travaillé sur la partie littérature et multimédia du <#C03UHP8UD|projet-autispace>. La semaine dernière, nous avions en effet terminé de détailler la partie scénarisation via Skype.\n\nLundi prochain, le 9 mai, je vous propose une nouvelle session Skype pour parcourir et valider ensemble les apports multimédia\/littérature\/scientifique (peer-review) pour avoir une release complète de toute la partie contenu, et ainsi passer à la partie plus technique ! :simple_smile:\n\nEst-ce que cela vous va ? D'autres suggestions ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P7La",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Bonjour à tous,\n\nLors de notre HackNight hier soir, nous avons travaillé sur la partie littérature et multimédia du "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03UHP8UD"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". La semaine dernière, nous avions en effet terminé de détailler la partie scénarisation via Skype.\n\nLundi prochain, le 9 mai, je vous propose une nouvelle session Skype pour parcourir et valider ensemble les apports multimédia\/littérature\/scientifique (peer-review) pour avoir une release complète de toute la partie contenu, et ainsi passer à la partie plus technique ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nEst-ce que cela vous va ? D'autres suggestions ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FEH3N8",
+                    "U07CFCCBG"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U0AR01SPQ",
+        "type": "message",
+        "ts": "1462309392.000007",
+        "text": "ok pour moi :+1:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b34e84fd77bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-17\/18704226567_b34e84fd77bcdb81946f_72.jpg",
+            "first_name": "Murielle",
+            "real_name": "Murielle PALISSANDRE",
+            "display_name": "murielle",
+            "team": "T03FC4NDZ",
+            "name": "murielle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "78OM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok pour moi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

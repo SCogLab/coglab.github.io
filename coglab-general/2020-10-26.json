@@ -1,0 +1,87 @@
+[
+    {
+        "user": "U019BN3FJ8M",
+        "type": "message",
+        "ts": "1603739933.014400",
+        "client_msg_id": "7ea9bf01-b446-4066-9991-8a714e492308",
+        "text": "salut",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "96912ec8d975",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-24\/1317751666821_96912ec8d97546a0dba7_72.png",
+            "first_name": "",
+            "real_name": "feufeu logik",
+            "display_name": "feufeu logik",
+            "team": "T03FC4NDZ",
+            "name": "feurisson98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dPCP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "salut"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "spock-hand",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1603740182.014700",
+        "client_msg_id": "a8a92f72-d1bd-4774-a5ff-dc0d14c50397",
+        "text": "Salut",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hvirw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

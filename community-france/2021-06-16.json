@@ -1,0 +1,75 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1623862169.002000",
+        "client_msg_id": "59ed6a11-ec09-4d6a-bc26-7b6476f2c935",
+        "text": "La Fresco, Fédération française des Sciences de la Cognition, lance *Cog’Jobs* : la plateforme d’offre d’emploi et de stage dédiée exclusivement aux sciences cognitives\n\nObjectif : vous permettre de postuler et\/ou partager des opportunités \/ offres d’emplois\n\nAccès et inscription sur <https:\/\/federationfresco.fr\/inscription\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Fresco | Fédération française des sciences de la cognition",
+                "title": "Inscription - Fresco | Fédération française des sciences de la cognition",
+                "title_link": "https:\/\/federationfresco.fr\/inscription\/",
+                "text": "S’inscrire sur le site de la Fresco En profiter pour adhérer ? Propulsé par HelloAsso",
+                "fallback": "Fresco | Fédération française des sciences de la cognition: Inscription - Fresco | Fédération française des sciences de la cognition",
+                "fields": [
+                    {
+                        "title": "Durée de lecture est.",
+                        "value": "1 minute",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/federationfresco.fr\/inscription\/",
+                "service_icon": "https:\/\/federationfresco.fr\/wp-content\/uploads\/2019\/12\/cropped-Logo_FRESCO_rond-fondblanc-3-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/federationfresco.fr\/inscription\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RdD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La Fresco, Fédération française des Sciences de la Cognition, lance "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Cog’Jobs",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " : la plateforme d’offre d’emploi et de stage dédiée exclusivement aux sciences cognitives\n\nObjectif : vous permettre de postuler et\/ou partager des opportunités \/ offres d’emplois\n\nAccès et inscription sur "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/federationfresco.fr\/inscription\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

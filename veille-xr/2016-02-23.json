@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1456259137.000002",
+        "text": "<https:\/\/gaite-lyrique.net\/kaleidoscope>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "La Gaîté lyrique",
+                "title": "Kaléidoscope",
+                "title_link": "https:\/\/gaite-lyrique.net\/kaleidoscope",
+                "text": "L'esprit d'indépendance Kaléidoscope produit des projets d'artistes indépendants qui explorent la VR, tout en montrant le processus d'élaboration. La sélection d'expériences immersives propose un point de vue sur ce qui distingue la réalité virtuelle d'autres médiums d'expression, et donne une visibilité supplémentaires aux créateurs. Kaléidoscope : le rendez-vous de référence de la réalité virtuelle. ",
+                "fallback": "La Gaîté lyrique: Kaléidoscope",
+                "thumb_url": "https:\/\/gaite-lyrique.net\/sites\/default\/files\/12513542_1282993621715901_8633864584685317336_o.jpg",
+                "from_url": "https:\/\/gaite-lyrique.net\/kaleidoscope",
+                "thumb_width": 2000,
+                "thumb_height": 1333,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aof",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gaite-lyrique.net\/kaleidoscope"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U076AKAFQ",
+        "text": "<@U076AKAFQ> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1456259168.000004"
+    }
+]

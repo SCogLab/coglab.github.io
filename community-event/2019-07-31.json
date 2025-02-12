@@ -1,0 +1,70 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CogLab HackNight #110: <!date^1558978200^{date_short_pretty} from {time}|May 27th, 2019 from 7:30 PM> to <!date^1558990800^{time}|11:00 PM GMT+0200>\nRecurring every week on Monday until <!date^1564955999^{date_pretty}|August 4th, 2019>",
+                "text": "<!date^1558978200^{date_short_pretty} from {time}|May 27th, 2019 from 7:30 PM> to <!date^1558990800^{time}|11:00 PM GMT+0200>\nRecurring every week on Monday until <!date^1564955999^{date_pretty}|August 4th, 2019> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab HackNight #110",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Nm5wMzFocGtibG1hcGxkNDRwNGR2dTc2am1fMjAxOTA1MjdUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1564591511.001500",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event cancelled: CogLab HackNight #115: <!date^1565026200^{date_short_pretty} from {time}|August 5th, 2019 from 7:30 PM> to <!date^1565038800^{time}|11:00 PM GMT+0200>",
+                "text": "<!date^1565026200^{date_short_pretty} from {time}|August 5th, 2019 from 7:30 PM> to <!date^1565038800^{time}|11:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Calendar event was cancelled",
+                "title": "CogLab HackNight #115",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Nm5wMzFocGtibG1hcGxkNDRwNGR2dTc2am1fMjAxOTA4MDVUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1564591511.001600",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: CogLab HackNight #115: <!date^1565026200^{date_short_pretty} from {time}|August 5th, 2019 from 7:30 PM> to <!date^1565040600^{time}|11:30 PM GMT+0200>\nRecurring every week on Monday until <!date^1569826800^{date_pretty}|September 30th, 2019>",
+                "text": "<!date^1565026200^{date_short_pretty} from {time}|August 5th, 2019 from 7:30 PM> to <!date^1565040600^{time}|11:30 PM GMT+0200>\nRecurring every week on Monday until <!date^1569826800^{date_pretty}|September 30th, 2019> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "CogLab HackNight #115",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MWwyNDY2azk3cGVoMHY4NTVlb2RnOGhlOG5fMjAxOTA4MDVUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1564591632.001700",
+        "bot_id": "B4SJBP2L8"
+    }
+]

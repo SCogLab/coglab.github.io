@@ -1,0 +1,139 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CogLab @ Tomorrow for Good: <!date^1591448400^{date_short_pretty} from {time}|June 6th, 2020 from 3:00 PM> to <!date^1591452000^{time}|4:00 PM GMT+0200>",
+                "text": "<!date^1591448400^{date_short_pretty} from {time}|June 6th, 2020 from 3:00 PM> to <!date^1591452000^{time}|4:00 PM GMT+0200> at  <https:\/\/www.youtube.com\/watch?v=wxmiaClgnqo>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab @ Tomorrow for Good",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NXVzMDN2Nmc2dXQ3NWkzam4wazBpZGQyYmEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1591438265.000300",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab @ Tomorrow for Good: <!date^1591448400^{date_short_pretty} from {time}|June 6th, 2020 from 3:00 PM> to <!date^1591452000^{time}|4:00 PM GMT+0200>",
+                "text": "<!date^1591448400^{date_short_pretty} from {time}|June 6th, 2020 from 3:00 PM> to <!date^1591452000^{time}|4:00 PM GMT+0200> at  <https:\/\/www.youtube.com\/watch?v=wxmiaClgnqo>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab @ Tomorrow for Good",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NXVzMDN2Nmc2dXQ3NWkzam4wazBpZGQyYmEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1591444802.000400",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: CogLab HackNight #150 :birthday: [Online]: <!date^1591633800^{date_short_pretty} from {time}|June 8th, 2020 from 6:30 PM> to <!date^1591644600^{time}|9:30 PM GMT+0200>",
+                "text": "<!date^1591633800^{date_short_pretty} from {time}|June 8th, 2020 from 6:30 PM> to <!date^1591644600^{time}|9:30 PM GMT+0200> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>, ",
+                "pretext": "New calendar event created",
+                "title": "CogLab HackNight #150 :birthday: [Online]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NWljbnEzZzh2bTRoNm1sNWxyNzR2NzlobG0gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1591454405.000500",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1591457185.000700",
+        "client_msg_id": "b83cf7d6-ecdb-432c-b57b-9a2bbe8f3344",
+        "text": "<https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/271124690\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "HackNight CogLab, NeuroTechX Paris N°150",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/271124690\/",
+                "text": "lun. 8 juin 2020 à 18:30: (English version available below)___Programme de la soiréePart 1 Pitch on Jitsi (18h30-20h00)- Jean Rintoul, Spectra: Open Biomedical Imaging <https:\/\/hackaday.io\/project\/1597>",
+                "fallback": "Meetup: HackNight CogLab, NeuroTechX Paris N°150",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/9\/2\/b\/6\/600_490717558.jpeg",
+                "fields": [
+                    {
+                        "title": "Où",
+                        "value": "Événement en ligne",
+                        "short": true
+                    },
+                    {
+                        "title": "Quand",
+                        "value": "lun. 8 juin 2020 à 18:30",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/271124690\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 165410,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/fr-FR\/m_swarm_120x120.4f86abc9.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/271124690\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OTK8r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/271124690\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

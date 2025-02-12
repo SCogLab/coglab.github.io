@@ -1,0 +1,73 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: AGE Fresco: <!date^1620232200^{date_short_pretty} from {time}|May 5th, 2021 from 6:30 PM> to <!date^1620237600^{time}|8:00 PM GMT+0200>",
+                "text": "<!date^1620232200^{date_short_pretty} from {time}|May 5th, 2021 from 6:30 PM> to <!date^1620237600^{time}|8:00 PM GMT+0200> at <https:\/\/us02web.zoom.us\/j\/89196119658?pwd=MEZLV2t5WjYzTmpKanZOZjAxdE8zZz09>",
+                "pretext": "New calendar event created",
+                "title": "AGE Fresco",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=Mms2YnRjN3UybjMwZ3RwN3Q3dmJucjl2ODYgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1618818368.004100",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #190 [Online EN]: <!date^1618849800^{date_short_pretty} from {time}|April 19th, 2021 from 6:30 PM> to <!date^1618853400^{time}|7:30 PM GMT+0200>",
+                "text": "<!date^1618849800^{date_short_pretty} from {time}|April 19th, 2021 from 6:30 PM> to <!date^1618853400^{time}|7:30 PM GMT+0200> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #190 [Online EN]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MW10czRldnBwaWxrMzU1ZzBsOWJ1Z2lvMGQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1618846201.004200",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #190 [Online FR]: <!date^1618858800^{date_short_pretty} from {time}|April 19th, 2021 from 9:00 PM> to <!date^1618864200^{time}|10:30 PM GMT+0200>",
+                "text": "<!date^1618858800^{date_short_pretty} from {time}|April 19th, 2021 from 9:00 PM> to <!date^1618864200^{time}|10:30 PM GMT+0200> at <https:\/\/gather.town\/i\/PYn7w8L3>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #190 [Online FR]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NTdkb2Ntcms1YXBtcG83aGk3OG82YTFzc2Ugc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1618855201.004300",
+        "bot_id": "B4SJBP2L8"
+    }
+]

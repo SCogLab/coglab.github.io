@@ -1,0 +1,25 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "Sprint CogLab - RGPD \/ FSC: <!date^1552735800^{date_short_pretty} from {time}|March 16th, 2019 from 12:30 PM> to <!date^1552753800^{time}|5:30 PM GMT+0100>",
+                "text": "<!date^1552735800^{date_short_pretty} from {time}|March 16th, 2019 from 12:30 PM> to <!date^1552753800^{time}|5:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=28B+Rue+Gallieni%2C+92600+Asni%C3%A8res-sur-Seine%2C+France|28B Rue Gallieni, 92600 Asnières-sur-Seine, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "Sprint CogLab - RGPD \/ FSC",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NGQzMHZsNDYyZWxtMGFqdDRvazdsN2JhMDcgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1552732201.000100",
+        "bot_id": "B4SJBP2L8"
+    }
+]

@@ -1,0 +1,313 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U07CLARN1",
+        "text": "<@U07CLARN1> a rejoint le canal",
+        "type": "message",
+        "ts": "1436431696.302770"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U07CPSBGX",
+        "text": "<@U07CPSBGX> a rejoint le canal",
+        "type": "message",
+        "ts": "1436438157.000002"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1436444490.000003",
+        "text": "<!everyone>: Bonjour et bienvenu à tout les nouveaux sur le :slack: Slack CogLab :slack: ! :simple_smile:\nN'hésitez pas à vous présenter brièvement sur le channel <#C041LLKGW|community-members>\n\nVous êtes libre d'interagir et de participer \/ contribuer à ce que vous souhaitez\nNous sommes tous bénévole et agissons par passion selon nos envies et contraintes\n\nAu plaisir d'échanger avec vous :wink:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jz2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Bonjour et bienvenu à tout les nouveaux sur le "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slack"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Slack CogLab "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slack"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nN'hésitez pas à vous présenter brièvement sur le channel "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C041LLKGW"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nVous êtes libre d'interagir et de participer \/ contribuer à ce que vous souhaitez\nNous sommes tous bénévole et agissons par passion selon nos envies et contraintes\n\nAu plaisir d'échanger avec vous "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1436444978.000004",
+        "text": "Bienvenue :blush:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DWgBm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bienvenue "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "pinned_item",
+        "text": "<@U03FC5ZAK> pinned a message to this channel.",
+        "user": "U03FC5ZAK",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[July 9th, 2015 5:21 AM] rouffi: <!everyone>: Bonjour et bienvenu à tout les nouveaux sur le :slack: Slack CogLab :slack: ! :simple_smile:\nN'hésitez pas à vous présenter brièvement sur le channel <#C041LLKGW>\n\nVous êtes libre d'interagir et de participer \/ contribuer à ce que vous souhaitez\nNous sommes tous bénévole et agissons par passion selon nos envies et contraintes\n\nAu plaisir d'échanger avec vous :wink:",
+                "ts": "1436444490.000003",
+                "author_id": "U03FC5ZAK",
+                "author_subname": "Romain ROUYER",
+                "channel_id": "C03FC4NE9",
+                "channel_team": "T03FC4NDZ",
+                "channel_name": "coglab-general",
+                "is_msg_unfurl": true,
+                "text": "<!everyone>: Bonjour et bienvenu à tout les nouveaux sur le :slack: Slack CogLab :slack: ! :simple_smile:\nN'hésitez pas à vous présenter brièvement sur le channel <#C041LLKGW>\n\nVous êtes libre d'interagir et de participer \/ contribuer à ce que vous souhaitez\nNous sommes tous bénévole et agissons par passion selon nos envies et contraintes\n\nAu plaisir d'échanger avec vous :wink:",
+                "message_blocks": [
+                    {
+                        "team": "T03FC4NDZ",
+                        "channel": "C03FC4NE9",
+                        "ts": "1436444490.000003",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "DsI4",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "broadcast",
+                                                    "range": "everyone"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": ": Bonjour et bienvenu à tout les nouveaux sur le "
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "slack"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " Slack CogLab "
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "slack"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " ! "
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "simple_smile"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\nN'hésitez pas à vous présenter brièvement sur le channel "
+                                                },
+                                                {
+                                                    "type": "channel",
+                                                    "channel_id": "C041LLKGW"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n\nVous êtes libre d'interagir et de participer \/ contribuer à ce que vous souhaitez\nNous sommes tous bénévole et agissons par passion selon nos envies et contraintes\n\nAu plaisir d'échanger avec vous "
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "wink",
+                                                    "unicode": "1f609"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "author_name": "Romain ROUYER",
+                "author_link": "https:\/\/scoglab.slack.com\/team\/U03FC5ZAK",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "from_hidden_wksp": false
+            }
+        ],
+        "type": "message",
+        "ts": "1436451684.000005"
+    },
+    {
+        "user": "U03JDJWSR",
+        "type": "message",
+        "ts": "1436452344.000006",
+        "text": "Bienvenu :simple_smile:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "geb22d6490de",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/beb22d6490deaf2df715016c6c7d1577.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Salman",
+            "real_name": "Salman NADEEM",
+            "display_name": "msn",
+            "team": "T03FC4NDZ",
+            "name": "msn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mFbsI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bienvenu "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1436479604.000002",
+        "text": "#MuseoMix Si ça intéresse des gens, c'est maintenant ou l'année prochaine !\n<http:\/\/www.museomix.org\/localisation\/paris\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+vFb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#MuseoMix Si ça intéresse des gens, c'est maintenant ou l'année prochaine !\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.museomix.org\/localisation\/paris\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

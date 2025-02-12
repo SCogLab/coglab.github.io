@@ -1,0 +1,599 @@
+[
+    {
+        "user": "UMQA8DN92",
+        "type": "message",
+        "ts": "1568710622.001600",
+        "client_msg_id": "16da6d14-5981-49ac-8910-00abc9412163",
+        "text": "J'ai push une version qui fonctionne sur le git. Je laisse <@U03FC5ZAK> faire le design.\nIl ne reste que la partie \"machine learning\" à faire, puis l'app sera fonctionnelle :+1::skin-tone-3:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g144939de47f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3144939de47faa73d3d9c8d51dcff306.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Tanguy",
+            "real_name": "Tanguy HERSERANT",
+            "display_name": "Tanguy",
+            "team": "T03FC4NDZ",
+            "name": "tanguyherserant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568710622.001600",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1568730274.003800",
+        "reply_users": [
+            "U03FC5ZAK",
+            "UMQA8DN92"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1568711032.001800"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1568728932.003000"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1568730182.003300"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1568730213.003600"
+            },
+            {
+                "user": "UMQA8DN92",
+                "ts": "1568730274.003800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tgCa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai push une version qui fonctionne sur le git. Je laisse "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " faire le design.\nIl ne reste que la partie \"machine learning\" à faire, puis l'app sera fonctionnelle "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d-1f3fc",
+                                "skin_tone": 3
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568711032.001800",
+        "client_msg_id": "9582f588-d416-458d-ad30-1290a7b2b5e4",
+        "text": "Top, merci !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568710622.001600",
+        "parent_user_id": "UMQA8DN92",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e\/7ku",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Top, merci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568728772.002800",
+        "client_msg_id": "017e4def-60dd-4f70-9ad6-74047a7bfbf5",
+        "text": "Quick question : <@UMSL037JT> aurais-tu une indication sur la définition *minimale* des images à intégrer dans Unity pour <@ULSDVUUVA> stp ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568728772.002800",
+        "reply_count": 9,
+        "reply_users_count": 3,
+        "latest_reply": "1569477891.000100",
+        "reply_users": [
+            "UMSL037JT",
+            "U03FC5ZAK",
+            "ULSDVUUVA"
+        ],
+        "replies": [
+            {
+                "user": "UMSL037JT",
+                "ts": "1568733922.004000"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1568734306.004200"
+            },
+            {
+                "user": "UMSL037JT",
+                "ts": "1568734831.004400"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1568989708.002600"
+            },
+            {
+                "user": "UMSL037JT",
+                "ts": "1568989749.002800"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1568989861.003000"
+            },
+            {
+                "user": "UMSL037JT",
+                "ts": "1568990067.003300"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1569428494.007100"
+            },
+            {
+                "user": "ULSDVUUVA",
+                "ts": "1569477891.000100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QWO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Quick question : "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UMSL037JT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " aurais-tu une indication sur la définition "
+                            },
+                            {
+                                "type": "text",
+                                "text": "minimale",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " des images à intégrer dans Unity pour "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "ULSDVUUVA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " stp ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "ULSDVUUVA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568728932.003000",
+        "client_msg_id": "f1497fb3-3fa4-4d26-a2ab-b074b6b80370",
+        "text": "Les joies de Github (ou mon côté trop newbie sur son fonctionnement) ... j'ai synchronisé ton répertoire, et il m'a écrasé toutes mes modif d'hier :joy:\n\nHeureusement que j'ai été assez malin pour faire une sauvegarde avant :yum:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568710622.001600",
+        "parent_user_id": "UMQA8DN92",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Al3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Les joies de Github (ou mon côté trop newbie sur son fonctionnement) ... j'ai synchronisé ton répertoire, et il m'a écrasé toutes mes modif d'hier "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nHeureusement que j'ai été assez malin pour faire une sauvegarde avant "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "yum",
+                                "unicode": "1f60b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568730182.003300",
+        "client_msg_id": "c73bed8e-b431-4839-af8c-37c21d4d4e48",
+        "text": "J’ai un soucis <@UMQA8DN92> il y a pas tous les fichiers sur GitHub <https:\/\/github.com\/SCogLab\/TourismEEG>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568710622.001600",
+        "parent_user_id": "UMQA8DN92",
+        "attachments": [
+            {
+                "fallback": "SCogLab\/TourismEEG",
+                "text": "EEG Demonstrator at IFTM exhibition in Paris (october 2019) <https:\/\/coglab.fr\/portfolio\/bci-voyager\/>",
+                "title": "SCogLab\/TourismEEG",
+                "footer": "<https:\/\/github.com\/SCogLab\/TourismEEG|SCogLab\/TourismEEG>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1565875017,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "1",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "Java",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "BA73T1BTJ",
+                "app_unfurl_url": "https:\/\/github.com\/SCogLab\/TourismEEG",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Nrl2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’ai un soucis "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UMQA8DN92"
+                            },
+                            {
+                                "type": "text",
+                                "text": " il y a pas tous les fichiers sur GitHub "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/SCogLab\/TourismEEG"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568730213.003600",
+        "client_msg_id": "08c85fe8-971f-4127-be53-d5e4aabdb1ce",
+        "text": "<https:\/\/github.com\/SCogLab\/TourismEEG\/tree\/master\/app\/src\/main\/java>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568710622.001600",
+        "parent_user_id": "UMQA8DN92",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6KXA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/SCogLab\/TourismEEG\/tree\/master\/app\/src\/main\/java"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UMQA8DN92",
+        "type": "message",
+        "ts": "1568730274.003800",
+        "client_msg_id": "c8c91b52-f330-4264-bcfa-0b0c47ed880f",
+        "text": "Normalement j'en ai supprimé 1 (fullscreen). Il se peut que j'en ai supprimé 2 mais je me souviens plus le quel",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g144939de47f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3144939de47faa73d3d9c8d51dcff306.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Tanguy",
+            "real_name": "Tanguy HERSERANT",
+            "display_name": "Tanguy",
+            "team": "T03FC4NDZ",
+            "name": "tanguyherserant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568710622.001600",
+        "parent_user_id": "UMQA8DN92",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yWWq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Normalement j'en ai supprimé 1 (fullscreen). Il se peut que j'en ai supprimé 2 mais je me souviens plus le quel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UMSL037JT",
+        "type": "message",
+        "ts": "1568733922.004000",
+        "client_msg_id": "fc37d702-13ec-4b22-85c9-c343a4c66817",
+        "text": "Je peux m'adapter à n'importe quelle résolution donc peut importe tant que la qualité est suffisante",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gc83ebac7853",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1c83ebac7853c13b22f556e7fdb52598.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Maxime Osty",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "maxime.osty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568728772.002800",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QVH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je peux m'adapter à n'importe quelle résolution donc peut importe tant que la qualité est suffisante"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1568734306.004200",
+        "client_msg_id": "17498774-5c00-4a0b-a89e-75d036ef956a",
+        "text": "La qualité est en lien avec la résolution. Combien de pixel fait ton bloc ? Pour nous permettre d'avoir la définition \/ résolution minimale",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568728772.002800",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tLYm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La qualité est en lien avec la résolution. Combien de pixel fait ton bloc ? Pour nous permettre d'avoir la définition \/ résolution minimale"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UMSL037JT",
+        "type": "message",
+        "ts": "1568734831.004400",
+        "edited": {
+            "user": "UMSL037JT",
+            "ts": "1568734845.000000"
+        },
+        "client_msg_id": "874d67c8-5066-452a-92f2-39cb82be9417",
+        "text": "80*55 pour l'instant, il faut quand même prendre une marge pour pouvoir agrandir plus tard.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gc83ebac7853",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1c83ebac7853c13b22f556e7fdb52598.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Maxime Osty",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "maxime.osty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568728772.002800",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wALe7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "80*55 pour l'instant, il faut quand même prendre une marge pour pouvoir agrandir plus tard."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

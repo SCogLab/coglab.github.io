@@ -1,0 +1,75 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1518460898.000702",
+        "text": "Un projet qui peux vous intéresser <@U59MQ46DA> <@U6N3TJ0QM> \n<http:\/\/www.appattic.co.uk\/hack-vr-emg-leap\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "AppAttic",
+                "title": "Hack Project: Leap Motion with VR and EMG in Real Time - AppAttic",
+                "title_link": "http:\/\/www.appattic.co.uk\/hack-vr-emg-leap\/",
+                "text": "Every Friday afternoon at AppAttic we have experimental hack time, which basically means we get to work on whatever we want, so long as it has some potenti",
+                "fallback": "AppAttic: Hack Project: Leap Motion with VR and EMG in Real Time - AppAttic",
+                "thumb_url": "http:\/\/www.appattic.co.uk\/wp-content\/uploads\/2016\/12\/Richard_AppAttic_Virtual_Reality_Leap_Motion_Belfast_VR.jpg",
+                "ts": 1480698169,
+                "from_url": "http:\/\/www.appattic.co.uk\/hack-vr-emg-leap\/",
+                "thumb_width": 900,
+                "thumb_height": 557,
+                "service_icon": "http:\/\/www.appattic.co.uk\/wp-content\/uploads\/2015\/12\/cropped-logo-300x300.png",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6xos",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un projet qui peux vous intéresser "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U6N3TJ0QM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.appattic.co.uk\/hack-vr-emg-leap\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "user": "U0AR01SPQ",
+        "type": "message",
+        "ts": "1463258738.000002",
+        "text": "Apple a sorti ça pour le 2 avril: <https:\/\/www.youtube.com\/watch?v=oMN2PeFama0> Je n'aime pas spécialement faire de la pub mais la qualité de la synthèse vocale est vraiment pas mal",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b34e84fd77bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-17\/18704226567_b34e84fd77bcdb81946f_72.jpg",
+            "first_name": "Murielle",
+            "real_name": "Murielle PALISSANDRE",
+            "display_name": "murielle",
+            "team": "T03FC4NDZ",
+            "name": "murielle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Dillan’s Voice",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=oMN2PeFama0",
+                "author_name": "Apple",
+                "author_link": "https:\/\/www.youtube.com\/user\/Apple",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/oMN2PeFama0\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Dillan’s Voice",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/oMN2PeFama0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=oMN2PeFama0",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K+\/Mp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Apple a sorti ça pour le 2 avril: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=oMN2PeFama0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Je n'aime pas spécialement faire de la pub mais la qualité de la synthèse vocale est vraiment pas mal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

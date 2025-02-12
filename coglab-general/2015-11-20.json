@@ -1,0 +1,93 @@
+[
+    {
+        "user": "U07CFCCBG",
+        "type": "message",
+        "ts": "1448013135.000002",
+        "text": "Hello, il y a un doodle ici : <http:\/\/doodle.com\/poll\/kyct97ateqgkeqpt>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ca0028538aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-04-21\/36646712194_7ca0028538aa7c07b0e3_72.jpg",
+            "first_name": "Mai",
+            "real_name": "Mai",
+            "display_name": "mai",
+            "team": "T03FC4NDZ",
+            "name": "mai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "CogLab Summit - Doodle: easy scheduling",
+                "title_link": "http:\/\/doodle.com\/poll\/kyct97ateqgkeqpt",
+                "text": "Objectifs : ======= - Se réunir - Souhaiter la bonne année - Faire le point sur la\/les année(s) passée(s) - Les projets en état d'avancement - Les projets en attente - Et plus si affinités...",
+                "fallback": "CogLab Summit - Doodle: easy scheduling",
+                "from_url": "http:\/\/doodle.com\/poll\/kyct97ateqgkeqpt",
+                "thumb_url": "http:\/\/doodle.com\/graphics\/static\/facebookSharingThumbnail.jpg",
+                "thumb_width": 100,
+                "thumb_height": 100,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y+9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, il y a un doodle ici : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/doodle.com\/poll\/kyct97ateqgkeqpt"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1448014226.000004",
+        "text": "j'ai mis les dates ou potentiellement je peux être là IRL (sinon je peux oindre en skype pour le moment un peu n'importe quand)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ydAUk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "j'ai mis les dates ou potentiellement je peux être là IRL (sinon je peux oindre en skype pour le moment un peu n'importe quand)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

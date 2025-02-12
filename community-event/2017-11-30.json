@@ -1,0 +1,28 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Conférence LabVR StoryCode \/ Autispace: <!date^1512063000^{date_short_pretty} from {time}|November 30th, 2017 from 6:30 PM> to <!date^1512077400^{time}|10:30 PM GMT+0100>",
+                "text": "<!date^1512063000^{date_short_pretty} from {time}|November 30th, 2017 from 6:30 PM> to <!date^1512077400^{time}|10:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Le+Cargo%2C+157+Boulevard+Macdonald%2C+75019+Paris%2C+France|Le Cargo, 157 Boulevard Macdonald, 75019 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "Conférence LabVR StoryCode \/ Autispace",
+                "more": "View meeting on Solid : <https:\/\/solid.wisembly.com\/meetings\/g114180?r=meeting.calendar.link&amp;u=m114455>",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MDdsYm41azcyNDM0dHVzcGdtNGNoMnJjbzggc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1512059400.000567",
+        "bot_id": "B4SJBP2L8"
+    }
+]

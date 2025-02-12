@@ -1,0 +1,152 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1685369338.097279",
+        "client_msg_id": "fa4ce422-a3d7-4ad1-9ae0-b5eb597e0b00",
+        "text": "Hello\n\nCe jour de Pentecôte, de nombreux lieux sont fermé et j'imagine que ce sera le cas aussi du LPI.\nIl n'y a pas eu de Hacknight programmée publiquement au cas ou.\n\n<@U59MQ46DA> si tu prévois de passer, on peux éventuellement se retrouver dans les locaux de mon bureau ?\nOu bien se synchroniser en ligne dans la semaine sur les événements à venir.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1685369338.097279",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1685372370.583929",
+        "reply_users": [
+            "U59MQ46DA",
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1685369560.178879"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1685372370.583929"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fnS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello\n\nCe jour de Pentecôte, de nombreux lieux sont fermé et j'imagine que ce sera le cas aussi du LPI.\nIl n'y a pas eu de Hacknight programmée publiquement au cas ou.\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " si tu prévois de passer, on peux éventuellement se retrouver dans les locaux de mon bureau ?\nOu bien se synchroniser en ligne dans la semaine sur les événements à venir."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1685369560.178879",
+        "client_msg_id": "2cd0b257-28dd-4e32-b317-c6aaf62b9764",
+        "text": "<@U03FC5ZAK> Oui ça me va, peux tu me rappeler l'adresse en mp ou sms ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1685369338.097279",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jvl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Oui ça me va, peux tu me rappeler l'adresse en mp ou sms ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1685372370.583929",
+        "client_msg_id": "cac6527e-a670-4b1f-a669-c1d21062e139",
+        "text": "Yes, c'est à côté de Gare du Nord, je te MP",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1685369338.097279",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MS8YM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, c'est à côté de Gare du Nord, je te MP"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

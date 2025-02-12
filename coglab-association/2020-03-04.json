@@ -1,0 +1,445 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1583312936.001700",
+        "client_msg_id": "b543284f-422b-436d-a281-f605ebbc79a4",
+        "text": "Coucou\nOn va commandé quelques t-shirt CogLab, Neurotechx Paris. J'essaie de faire une estimation du nombre et de la taille.\nJe pense au moins à <@U59MQ46DA> <@U0FB4KME0> <@ULSDVUUVA> <@UL4SA8V7Y>. Qui d'autre est intéressé ? Pouvez vous me préciser la taille que vous voulez svp ?\nOn pourrait également proposer à des membres qui le souhaitent en fonction du budget \/ subvention",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kN1a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coucou\nOn va commandé quelques t-shirt CogLab, Neurotechx Paris. J'essaie de faire une estimation du nombre et de la taille.\nJe pense au moins à "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0FB4KME0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "ULSDVUUVA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UL4SA8V7Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Qui d'autre est intéressé ? Pouvez vous me préciser la taille que vous voulez svp ?\nOn pourrait également proposer à des membres qui le souhaitent en fonction du budget \/ subvention"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0FB4KME0",
+        "text": "<@U0FB4KME0> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1583312941.001900"
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1583320378.002600",
+        "client_msg_id": "7B402E11-D0D4-49ED-9F38-4432B6AA5065",
+        "text": "<@U03FC5ZAK> taille L pour moi",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iMUV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " taille L pour moi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1583321249.003300",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1583321276.000000"
+        },
+        "client_msg_id": "A6F463CD-C58F-4FC7-8591-07CD179245B2",
+        "text": "Un pour <@UMSL037JT> (?)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1583321249.003300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1583327633.003500",
+        "reply_users": [
+            "UMSL037JT"
+        ],
+        "replies": [
+            {
+                "user": "UMSL037JT",
+                "ts": "1583327633.003500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HH0I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un pour "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UMSL037JT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UMSL037JT",
+        "type": "message",
+        "ts": "1583327633.003500",
+        "client_msg_id": "a7551f19-1a89-4d5c-88fd-e47ba4f518d1",
+        "text": "Avec plaisir! (Taille M)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gc83ebac7853",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1c83ebac7853c13b22f556e7fdb52598.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Maxime Osty",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "maxime.osty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1583321249.003300",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dzzL3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Avec plaisir! (Taille M)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UUC2JHAMR",
+        "type": "message",
+        "ts": "1583333370.006400",
+        "client_msg_id": "811E1897-3FA6-47AF-938D-6F240BCA2E5F",
+        "text": "<@U03FC5ZAK> tu penses avoir ça pour quand ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1a4774e3468b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-10\/990974570133_1a4774e3468bddbf7b07_72.png",
+            "first_name": "Nicolas",
+            "real_name": "Nicolas",
+            "display_name": "Nicolas",
+            "team": "T03FC4NDZ",
+            "name": "nrauber",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8o5\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tu penses avoir ça pour quand ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1583336043.006800",
+        "client_msg_id": "67bb3e9d-9ffa-47a3-a1f9-90f08f2c2b43",
+        "text": "Dans l'idéal avant le vendredi 13 mars",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PYJgR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dans l'idéal avant le vendredi 13 mars"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "ULSDVUUVA",
+        "type": "message",
+        "ts": "1583347419.010000",
+        "client_msg_id": "58ec087c-a64c-452f-b8bf-ad35c3f99541",
+        "text": "Oui oui oui! Est-ce que les shirts sont \"pour femme (cintré) ou pour homme\" ou plutôt \"T-Shirt\"? Col en V ou ronde? Noir ou blanc à la base? Ou même turquoise :astonished:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "d6568f25a9a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-08\/3075305835828_d6568f25a9a41b2be2ef_72.jpg",
+            "first_name": "Maike",
+            "real_name": "Maike",
+            "display_name": "Maike",
+            "team": "T03FC4NDZ",
+            "name": "maikeherbort",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ag8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui oui oui! Est-ce que les shirts sont \"pour femme (cintré) ou pour homme\" ou plutôt \"T-Shirt\"? Col en V ou ronde? Noir ou blanc à la base? Ou même turquoise "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "astonished",
+                                "unicode": "1f632"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "ULSDVUUVA",
+        "type": "message",
+        "ts": "1583347731.011400",
+        "client_msg_id": "406471ce-f51b-4b9d-845d-142a8f22bf05",
+        "text": "Je crois que je prendrai 2 en format L et une matinée avec ta copine plus aiguille et fil à coudre :wink:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "d6568f25a9a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-08\/3075305835828_d6568f25a9a41b2be2ef_72.jpg",
+            "first_name": "Maike",
+            "real_name": "Maike",
+            "display_name": "Maike",
+            "team": "T03FC4NDZ",
+            "name": "maikeherbort",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a3Op",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je crois que je prendrai 2 en format L et une matinée avec ta copine plus aiguille et fil à coudre "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1583350224.012000",
+        "client_msg_id": "76c76c64-ef59-4476-b0f0-5a33f381d9e1",
+        "text": "Not define. Tout est encore possible :face_with_cowboy_hat:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9CtI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not define. Tout est encore possible "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_cowboy_hat",
+                                "unicode": "1f920"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

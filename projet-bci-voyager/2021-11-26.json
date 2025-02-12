@@ -1,0 +1,539 @@
+[
+    {
+        "user": "UMSL037JT",
+        "type": "message",
+        "ts": "1637939280.011100",
+        "client_msg_id": "14e5b493-4fcf-4d5e-828e-b2cd6cd85195",
+        "text": "`remote: error: File Library\/PackageCache\/com.unity.burst@1.6.0\/.Runtime\/hostmac\/lld is 106.20 MB; this exceeds GitHub's file size limit of 100.00 MB`",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gc83ebac7853",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1c83ebac7853c13b22f556e7fdb52598.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Maxime Osty",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "maxime.osty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ieT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "remote: error: File Library\/PackageCache\/com.unity.burst@1.6.0\/.Runtime\/hostmac\/lld is 106.20 MB; this exceeds GitHub's file size limit of 100.00 MB",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1637939862.012100",
+        "client_msg_id": "82c9cf83-a85c-4b81-9381-246a177829cd",
+        "text": "<@UMSL037JT> Tu as essayé en mettant le `Library\/PackageCache\/com.unity.burst@1.6.0\/.Runtime` dans le .gitignore ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nLc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UMSL037JT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Tu as essayé en mettant le "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Library\/PackageCache\/com.unity.burst@1.6.0\/.Runtime",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " dans le .gitignore ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1637939938.012500",
+        "client_msg_id": "7f2c452b-5070-419a-b8f7-21c894a8b162",
+        "text": "voire même le répertoire PackageCache",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kvcoN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "voire même le répertoire PackageCache"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UMSL037JT",
+        "type": "message",
+        "ts": "1637940499.012700",
+        "client_msg_id": "12ac152c-fba7-4b5c-90e7-a32b8dc49aea",
+        "text": "Non pas encore",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gc83ebac7853",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1c83ebac7853c13b22f556e7fdb52598.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Maxime Osty",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "maxime.osty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HvHK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Non pas encore"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UMSL037JT",
+        "type": "message",
+        "ts": "1637940779.012900",
+        "client_msg_id": "e43a52ff-fa50-41aa-a7bf-bacfcc48086d",
+        "text": "Ca marche pas",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gc83ebac7853",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1c83ebac7853c13b22f556e7fdb52598.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Maxime Osty",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "maxime.osty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pw96y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ca marche pas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1637941786.013100",
+        "client_msg_id": "d5029d39-6673-41cd-98d6-64b18fc636c7",
+        "text": "<https:\/\/www.reddit.com\/r\/Unity3D\/comments\/fyewsj\/gitignore_for_unity\/fmzkk6a\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.reddit.com\/r\/Unity3D\/comments\/fyewsj\/gitignore_for_unity\/fmzkk6a\/",
+                "service_name": "reddit",
+                "title": ".gitignore for Unity",
+                "title_link": "https:\/\/www.reddit.com\/r\/Unity3D\/comments\/fyewsj\/gitignore_for_unity\/fmzkk6a\/",
+                "text": "yea i tried using the default as well, but it still tries to push files in library folder and i am getting errors cuz i have too big files",
+                "thumb_url": "https:\/\/www.redditstatic.com\/new-icon.png",
+                "thumb_width": 256,
+                "thumb_height": 256,
+                "fallback": "reddit: .gitignore for Unity",
+                "service_icon": "http:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.reddit.com\/r\/Unity3D\/comments\/fyewsj\/gitignore_for_unity\/fmzkk6a\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6oZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.reddit.com\/r\/Unity3D\/comments\/fyewsj\/gitignore_for_unity\/fmzkk6a\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1637941809.013500",
+        "client_msg_id": "d31bdf87-886c-4001-b3f4-a7b571731169",
+        "text": "`if you've already committed files that are too large for Github because your gitignore wasn't working then you're better off killing the repo (delete the git folder) and starting a new one. Removing committed files is a pain.`",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4KVq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if you've already committed files that are too large for Github because your gitignore wasn't working then you're better off killing the repo (delete the git folder) and starting a new one. Removing committed files is a pain.",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N8PEA6SW",
+        "type": "message",
+        "ts": "1637955694.013800",
+        "client_msg_id": "ba6cfec8-f64e-4433-947c-edfc74788043",
+        "text": "    ◦ as-tu aussi pensé à suivre ces étapes? *Version Control Mode* set to *Visible Meta Files*Instructions <https:\/\/unityatscale.com\/unity-meta-file-guide\/faq\/#should-i-choose-hidden-or-visible-meta-files-when-using-unity-with-a-version-control-system|here>.\n    ◦ *Asset Serialization Mode* set to *Force Text*Instructions <https:\/\/unityatscale.com\/unity-meta-file-guide\/faq\/#what-asset-serialization-mode-should-i-choose-when-using-unity-with-a-version-control-system|here>.\n",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gc23d4c1bb99",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c23d4c1bb9910bb5021b113536434b22.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Damien",
+            "real_name": "Damien",
+            "display_name": "Damien",
+            "team": "T03FC4NDZ",
+            "name": "yoshi92",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/unityatscale.com\/unity-meta-file-guide\/faq\/#should-i-choose-hidden-or-visible-meta-files-when-using-unity-with-a-version-control-system",
+                "service_name": "Unity at Scale",
+                "title": "Unity Meta File FAQ",
+                "title_link": "https:\/\/unityatscale.com\/unity-meta-file-guide\/faq\/#should-i-choose-hidden-or-visible-meta-files-when-using-unity-with-a-version-control-system",
+                "text": "All your questions answered about Unity meta files. Fixes for errors, best practices for version control and avoiding broken references.",
+                "fallback": "Unity at Scale: Unity Meta File FAQ",
+                "service_icon": "https:\/\/unityatscale.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/unityatscale.com\/unity-meta-file-guide\/faq\/#should-i-choose-hidden-or-visible-meta-files-when-using-unity-with-a-version-control-system"
+            },
+            {
+                "from_url": "https:\/\/unityatscale.com\/unity-meta-file-guide\/faq\/#what-asset-serialization-mode-should-i-choose-when-using-unity-with-a-version-control-system",
+                "service_name": "Unity at Scale",
+                "title": "Unity Meta File FAQ",
+                "title_link": "https:\/\/unityatscale.com\/unity-meta-file-guide\/faq\/#what-asset-serialization-mode-should-i-choose-when-using-unity-with-a-version-control-system",
+                "text": "All your questions answered about Unity meta files. Fixes for errors, best practices for version control and avoiding broken references.",
+                "fallback": "Unity at Scale: Unity Meta File FAQ",
+                "service_icon": "https:\/\/unityatscale.com\/apple-touch-icon.png",
+                "id": 2,
+                "original_url": "https:\/\/unityatscale.com\/unity-meta-file-guide\/faq\/#what-asset-serialization-mode-should-i-choose-when-using-unity-with-a-version-control-system"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LXl",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "as-tu aussi pensé à suivre ces étapes? "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Version Control Mode",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " set to "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Visible Meta Files",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Instructions "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/unityatscale.com\/unity-meta-file-guide\/faq\/#should-i-choose-hidden-or-visible-meta-files-when-using-unity-with-a-version-control-system",
+                                        "text": "here"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Asset Serialization Mode",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " set to "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Force Text",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Instructions "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/unityatscale.com\/unity-meta-file-guide\/faq\/#what-asset-serialization-mode-should-i-choose-when-using-unity-with-a-version-control-system",
+                                        "text": "here"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N8PEA6SW",
+        "type": "message",
+        "ts": "1637955702.014100",
+        "client_msg_id": "80869d24-c109-44ba-9589-020b57a9fcfc",
+        "text": "du lien <https:\/\/unityatscale.com\/unity-version-control-guide\/how-to-setup-unity-project-on-github\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gc23d4c1bb99",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c23d4c1bb9910bb5021b113536434b22.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Damien",
+            "real_name": "Damien",
+            "display_name": "Damien",
+            "team": "T03FC4NDZ",
+            "name": "yoshi92",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/unityatscale.com\/unity-version-control-guide\/how-to-setup-unity-project-on-github\/",
+                "service_name": "Unity at Scale",
+                "title": "How to set up a Unity project in GitHub",
+                "title_link": "https:\/\/unityatscale.com\/unity-version-control-guide\/how-to-setup-unity-project-on-github\/",
+                "text": "Step-by-step tutorial to setup your Unity project for version control with Git and GitHub. Which files to include and project settings to choose.",
+                "fallback": "Unity at Scale: How to set up a Unity project in GitHub",
+                "service_icon": "https:\/\/unityatscale.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/unityatscale.com\/unity-version-control-guide\/how-to-setup-unity-project-on-github\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wkvT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "du lien "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/unityatscale.com\/unity-version-control-guide\/how-to-setup-unity-project-on-github\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02N8PEA6SW",
+        "type": "message",
+        "ts": "1637955708.014400",
+        "client_msg_id": "76006455-b319-4553-87fa-4b1f06967b8e",
+        "text": "si tu veux on fait ça mercredi",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gc23d4c1bb99",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c23d4c1bb9910bb5021b113536434b22.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Damien",
+            "real_name": "Damien",
+            "display_name": "Damien",
+            "team": "T03FC4NDZ",
+            "name": "yoshi92",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vT3f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si tu veux on fait ça mercredi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

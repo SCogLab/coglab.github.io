@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "Sprint CogLab \"BCI Voyager\": <!date^1567339200^{date_short_pretty} from {time}|September 1st, 2019 from 2:00 PM> to <!date^1567357200^{time}|7:00 PM GMT+0200>",
+                "text": "<!date^1567339200^{date_short_pretty} from {time}|September 1st, 2019 from 2:00 PM> to <!date^1567357200^{time}|7:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=28B+Rue+Gallieni%2C+92600+Asni%C3%A8res-sur-Seine%2C+France|28B Rue Gallieni, 92600 Asnières-sur-Seine, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "Sprint CogLab \"BCI Voyager\"",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MjY3b2pmaHVnczM4dDFlbzRyZjdkNjlyaDggc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1567335602.000300",
+        "bot_id": "B4SJBP2L8"
+    }
+]

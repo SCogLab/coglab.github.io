@@ -1,0 +1,389 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1544467886.000500",
+        "client_msg_id": "84e29132-aa81-447b-97c2-2fc702696184",
+        "text": "<!channel> voici le code Discord pour rejoindre le système de chat de la Fresco (équivalent de notre Slack) <https:\/\/discord.gg\/8xxawp9>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Discord",
+                "title": "Discord - Free voice and text chat for gamers",
+                "title_link": "https:\/\/discord.gg\/8xxawp9",
+                "text": "Step up your game with a modern voice &amp; text chat app. Crystal clear voice, multiple server and channel support, mobile apps, and more. Get your free server now!",
+                "fallback": "Discord: Discord - Free voice and text chat for gamers",
+                "image_url": "https:\/\/discordapp.com\/assets\/ee7c382d9257652a88c8f7b7f22a994d.png",
+                "from_url": "https:\/\/discord.gg\/8xxawp9",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 62018,
+                "service_icon": "https:\/\/discordapp.com\/assets\/07dca80a102d4149e9736d4b162cff6f.ico",
+                "id": 1,
+                "original_url": "https:\/\/discord.gg\/8xxawp9"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g8xbE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " voici le code Discord pour rejoindre le système de chat de la Fresco (équivalent de notre Slack) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/discord.gg\/8xxawp9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card Meetup #9 XR - UX added to list EN COURS on board GESTION.",
+                "text": "In list *EN COURS* on *<https:\/\/trello.com\/b\/jSnI3dXM|GESTION>*.",
+                "pretext": "New card created",
+                "title": "Meetup #9 XR - UX",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/XrbhruII",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/862fb75f8484e0f5c02f7d7006c4b228\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1544470538.000700",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card CR WE ARE Fresco added to list EN COURS on board GESTION.",
+                "text": "In list *EN COURS* on *<https:\/\/trello.com\/b\/jSnI3dXM|GESTION>*.",
+                "pretext": "New card created",
+                "title": "CR WE ARE Fresco",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/2pE8A603",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/862fb75f8484e0f5c02f7d7006c4b228\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1544470583.000800",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "Romain ROUYER Completed \"Envoyer les informations demandée par l'asso par email\" in checklist \"Checklist\" on Neurotrucs.",
+                "text": "Completed *Envoyer les informations demandée par l'asso par email* in checklist *Checklist* on *<https:\/\/trello.com\/c\/yUob7y9i|Neurotrucs>*.",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/862fb75f8484e0f5c02f7d7006c4b228\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1544470666.000900",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "Romain ROUYER marked Neurotrucs complete.",
+                "text": "Marked *<https:\/\/trello.com\/c\/yUob7y9i|Neurotrucs>* complete.",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/862fb75f8484e0f5c02f7d7006c4b228\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1544470668.001000",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "Romain ROUYER Cleared \"Préparation du Meetup\" in checklist \"Checklist\" on Organisation Meetup.",
+                "text": "Cleared *Préparation du Meetup* in checklist *Checklist* on *<https:\/\/trello.com\/c\/QCPEkvgy|Organisation Meetup>*.",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/862fb75f8484e0f5c02f7d7006c4b228\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1544471463.001100",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "Romain ROUYER Archived the card Organisation Meetups.",
+                "text": "Archived the card *<https:\/\/trello.com\/c\/9QTahAbu|Organisation Meetups>*.",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/862fb75f8484e0f5c02f7d7006c4b228\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1544472055.001200",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card Web Hosting added to list EN COURS on board GESTION.",
+                "text": "In list *EN COURS* on *<https:\/\/trello.com\/b\/jSnI3dXM|GESTION>*.",
+                "pretext": "New card created",
+                "title": "Web Hosting",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/N1ppT3o9",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/862fb75f8484e0f5c02f7d7006c4b228\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1544472608.001300",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card Update Trésorerie added to list A FAIRE on board GESTION.",
+                "text": "In list *A FAIRE* on *<https:\/\/trello.com\/b\/jSnI3dXM|GESTION>*.",
+                "pretext": "New card created",
+                "title": "Update Trésorerie",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/a4jt7nB1",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/862fb75f8484e0f5c02f7d7006c4b228\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1544472703.001400",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "text": "Des Yahourts et un Troglodyte mignon apparaissent. Attrapez-les tous ! #pokemon :stuck_out_tongue:",
+        "files": [
+            {
+                "id": "FEPKHHBFB",
+                "created": 1544474146,
+                "timestamp": 1544474146,
+                "name": "Screenshot 2018-12-10 at 21.08.04.png",
+                "title": "Screenshot 2018-12-10 at 21.08.04.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03FC5ZAK",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 40956,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FEPKHHBFB\/screenshot_2018-12-10_at_21.08.04.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FEPKHHBFB\/download\/screenshot_2018-12-10_at_21.08.04.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FEPKHHBFB-c1599eb008\/screenshot_2018-12-10_at_21.08.04_64.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FEPKHHBFB-c1599eb008\/screenshot_2018-12-10_at_21.08.04_80.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FEPKHHBFB-c1599eb008\/screenshot_2018-12-10_at_21.08.04_360.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360_w": 360,
+                "thumb_360_h": 47,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FEPKHHBFB-c1599eb008\/screenshot_2018-12-10_at_21.08.04_480.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_480_w": 480,
+                "thumb_480_h": 63,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FEPKHHBFB-c1599eb008\/screenshot_2018-12-10_at_21.08.04_160.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FEPKHHBFB-c1599eb008\/screenshot_2018-12-10_at_21.08.04_720.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720_w": 720,
+                "thumb_720_h": 94,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FEPKHHBFB-c1599eb008\/screenshot_2018-12-10_at_21.08.04_800.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_800_w": 800,
+                "thumb_800_h": 104,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FEPKHHBFB-c1599eb008\/screenshot_2018-12-10_at_21.08.04_960.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_960_w": 960,
+                "thumb_960_h": 125,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FEPKHHBFB-c1599eb008\/screenshot_2018-12-10_at_21.08.04_1024.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 134,
+                "image_exif_rotation": 1,
+                "original_w": 1180,
+                "original_h": 154,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U03FC5ZAK\/FEPKHHBFB\/screenshot_2018-12-10_at_21.08.04.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-FEPKHHBFB-ddc041495e",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U03FC5ZAK",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WX\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Des Yahourts et un Troglodyte mignon apparaissent. Attrapez-les tous ! #pokemon "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue",
+                                "unicode": "1f61b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1544474150.001500"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1544474169.002100",
+        "client_msg_id": "6f97acb0-3023-485d-93e8-2ac13ae22741",
+        "text": "Petit craquage de hacknight en passant sur Twitter :wink:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4ffBJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Petit craquage de hacknight en passant sur Twitter "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1612710251.000500",
+        "client_msg_id": "63b51a63-e4e7-4e64-b5e1-43e377744878",
+        "text": "<https:\/\/vircadia.com>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Vircadia",
+                "title_link": "https:\/\/vircadia.com\/",
+                "text": "Vircadia is an open-source and decentralized real-time VR creation platform for university, enterprise, social, and OpenSim users.",
+                "fallback": "Vircadia",
+                "image_url": "https:\/\/vircadia.com\/wp-content\/uploads\/2020\/04\/vircadia-icon-h270-l55.png",
+                "from_url": "https:\/\/vircadia.com\/",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 31714,
+                "service_icon": "https:\/\/vircadia.com\/wp-content\/uploads\/2020\/04\/cropped-vircadia-icon-1024-tm-180x180.png",
+                "service_name": "vircadia.com",
+                "id": 1,
+                "original_url": "https:\/\/vircadia.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yT8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/vircadia.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

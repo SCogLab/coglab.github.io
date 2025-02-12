@@ -1,0 +1,50 @@
+[
+    {
+        "user": "U013Z4CGVB9",
+        "type": "message",
+        "ts": "1601550801.001700",
+        "client_msg_id": "b4424d0a-a6f6-4d67-a5d5-c64247dabf3f",
+        "text": "Super merci <@U03FC5ZAK>!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gcc1f466cb69",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cc1f466cb69e526ede2e17c4196c9168.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Hassan Mkhallati",
+            "display_name": "Hassan Mkhallati",
+            "team": "T03FC4NDZ",
+            "name": "hassan.mkhallati-dit-",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1601400473.001300",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8eTU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Super merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

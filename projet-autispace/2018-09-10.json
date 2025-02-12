@@ -1,0 +1,75 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1536604256.000100",
+        "client_msg_id": "b0cbd3b2-571b-45c7-be8b-cef6c7db4a61",
+        "text": "Coucou <!channel>, nous avons reçu un message d’encouragement aujourd’hui par email :slightly_smiling_face:\n\n“Salut à l’équipe,\n\nAyant une sensibilité particulière pour ce sujet (mon frangin est autiste), je voulais saluer et féliciter votre projet !\nJe suis dans l’écosystème startup, si je peux vous aider d’une quelconque manière - n’hésitez pas je ferais au mieux :slightly_smiling_face:\n\nCourage et bonne route,\nFlorian”",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kb6Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coucou "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", nous avons reçu un message d’encouragement aujourd’hui par email "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n“Salut à l’équipe,\n\nAyant une sensibilité particulière pour ce sujet (mon frangin est autiste), je voulais saluer et féliciter votre projet !\nJe suis dans l’écosystème startup, si je peux vous aider d’une quelconque manière - n’hésitez pas je ferais au mieux "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nCourage et bonne route,\nFlorian”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U5JBN3M8Q"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

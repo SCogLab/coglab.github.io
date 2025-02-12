@@ -1,0 +1,63 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: Assemblée Générale CogLab #3: <!date^1558785600^{date_short_pretty} from {time}|May 25th, 2019 from 2:00 PM> to <!date^1558792800^{time}|4:00 PM GMT+0200>",
+                "text": "<!date^1558785600^{date_short_pretty} from {time}|May 25th, 2019 from 2:00 PM> to <!date^1558792800^{time}|4:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Paris%2C+France|Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "Assemblée Générale CogLab #3",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MDNybDNjNXFvMmZsbjNtMDdqbjI5cjBuOW4gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1555945027.000600",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1555951700.000800",
+        "client_msg_id": "ca6f5567-bd13-4f69-97ca-a575f5a3265b",
+        "text": "<http:\/\/musaelab.ca\/bmi19\/smc2019_bmi.html>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "grUmj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/musaelab.ca\/bmi19\/smc2019_bmi.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

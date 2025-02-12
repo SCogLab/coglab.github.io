@@ -1,0 +1,304 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1566630537.004900",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1566631246.000000"
+        },
+        "client_msg_id": "63ace25e-5355-441f-988a-475d6a48897f",
+        "text": "Hello <@U03FC5ZAK>, ce serait pas mal de rajouter quelques initiatives R&amp;D\/artistiques récentes :\n - pour automotive tech, je pensais à Nissan Brain to Vehicle (2018) : <https:\/\/www.youtube.com\/watch?v=oCi6taII6Yo>\n - pour art numérique, la fresque Melting memories de Refik Anadol (2018) : <https:\/\/vimeo.com\/264369157>\n - pour musique, avec le travail de Dolby Labs (2017) : <https:\/\/www.youtube.com\/watch?v=MNXKXLGt5ec> et <https:\/\/www.youtube.com\/watch?v=qYTT-0A8QIE>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Introducing Nissan's Brain-to-Vehicle Technology at CES 2018",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=oCi6taII6Yo",
+                "author_name": "Nissan",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCIpK0Bh0wFnC-QqgJs6hx5w",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/oCi6taII6Yo\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Introducing Nissan's Brain-to-Vehicle Technology at CES 2018",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/oCi6taII6Yo?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=oCi6taII6Yo",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=oCi6taII6Yo"
+            },
+            {
+                "service_name": "Vimeo",
+                "service_url": "https:\/\/vimeo.com\/",
+                "title": "Engram : Data Sculpture for Melting Memories",
+                "title_link": "https:\/\/vimeo.com\/264369157",
+                "author_name": "Refik Anadol",
+                "author_link": "https:\/\/vimeo.com\/refo",
+                "thumb_url": "https:\/\/i.vimeocdn.com\/video\/695981447_295x166.jpg",
+                "thumb_width": 295,
+                "thumb_height": 166,
+                "text": "Engram : Data Sculpture, 3+1 AP\n6M x 5M, 3MM LED Media Wall, Custom Software\n_\nFrom February 7 through March 17, 2018, Pilevneli Gallery presented Refik Anadol’s latest project on the materiality of remembering. Melting Memories offered new insights into the representational possibilities emerging from the intersection of advanced technology and contemporary art.  By showcasing several interdisciplinary projects that translate the elusive process of memory retrieval into data collections, the exhibition immersed visitors in Anadol’s creative vision of “recollection.”\n\n“Science states meanings; art expresses them,” writes American philosopher John Dewey and draws a curious distinction between what he sees as the principal modes of communication in both disciplines. In Melting Memories, Refik Anadol’s expressive statements provide the viewer with revealing and contemplative artworks that will generate responses to Dewey’s thesis.\n\nComprising data paintings, augmented data sculptures and light projections, the project as a whole debuts new advances in technology that enable visitors to experience aesthetic interpretations of motor movements inside a human brain. Each work grows out of the artist’s impressive experiments with the advanced technology tools provided by the Neuroscape Laboratory at the University of California, San Francisco. Neuroscape is a neuroscience center focusing on technology creation and scientific research on brain function of both healthy and impaired individuals. Anadol gathers data on the neural mechanisms of cognitive control from an EEG (electroencephalogram) that measures changes in brain wave activity and provides evidence of how the brain functions over time. These data sets constitute the building blocks for the unique algorithms that the artist needs for the multi-dimensional visual structures on display.\n\nAnadol’s installations do not only address a productive espousal of cutting-edge technology and art but also a strong preoccupation with the study of human memory from Ancient Egyptians to Blade Runner 2049. The exhibition’s title, Melting Memories, refers to the artist’s experience with unexpected interconnections among seminal philosophical works, academic inquiries and artworks that take memory as their principal themes. The title further draws attention to the melting of neuroscience and technology into these centuries-long philosophical debates, questioning the emergence of a new space where artificial intelligence is not in conflict with individuality and intimacy.\n_\nPROCESS\nData collection process utilized a 32-channel Enobio and standard protocol configuration. Participants were instructed to focus on specific long-term memories during the recording process. A control recording was also conducted to identify artifacts to later filter with adaptive notch filtering and limiting the frequency range. For analysis we focused on beta (13-17Hz) and theta (3-7Hz) channels, isolating activation points corresponding to short term and long-term (specifically episodic) memory. Our selections were the Fp1, Fp2, F7, F8, P3, P4, C3, C4, T7, T8, O1, and O2 nodes, which were also used to drive noise parameters within the real-time simulation. For scaling we applied Higuchi’s fractal dimension algorithm and used FFT for a moving average. Recurrent neural nets (via EEGLearn) we used on the recording sessions to generate spectral outputs, which were then utilized as height maps for the visual representation pipeline.\n_\nBashivan, et al. \"Learning Representations from EEG with Deep Recurrent-Convolutional Neural Networks. International conference on learning representations(2016)\n\nVVVV\nTransposing EEG data in to procedural noise forms was a really engaging challenge, both technically and conceptually.  In the input data and our mapped representation you can find recurrence and rhythm but also hints of higher dimensional structures. We wanted to do this efficiently and in real time and so working on Melting Memories dovetailed nicely with putting the last touches on FieldTrip, an (at the time pre-release) open source GPU library for HLSL\/VVVV. It allowed us to use a composite design pattern to very quickly iterate while producing the aesthetic structures used in the project. This approach enabled us to really explore some deeper procedural functions whilst keeping a completely modular graphics pipeline.   This modularity makes it easy and clean to expand on the project’s abstracted content in really interesting ways, such as further integration of machine learning on the source data, evolving rendering techniques \nand the creation of sculpted physical artifacts.\n_\nCREDITS\nDesigned &Developed at Refik Anadol Studio\n\nNicholas Boss\nEfsun Erkilic\nKian Khiaban\nHo Man Leung\nRaman K. Mustafa \nToby Heinemann\n\nSound Design : Kerim Karaoglu\nSoftware Development : Kyle McLean \/ Steffan Klaue\n\nScientific Support\nUCSF \/ Neuroscape Lab Members\nAdam Gazzaley, M.D., PH.D.",
+                "fallback": "Vimeo Video: Engram : Data Sculpture for Melting Memories",
+                "video_html": "<iframe src=\"https:\/\/player.vimeo.com\/video\/264369157?autoplay=1&amp;app_id=122963\" width=\"400\" height=\"225\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen title=\"Engram : Data Sculpture for Melting Memories\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/vimeo.com\/264369157",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/vimeo.png",
+                "id": 2,
+                "original_url": "https:\/\/vimeo.com\/264369157"
+            },
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Alex Brandemayer (Dolby Labs) - EEG Research on Sound and Music Perception",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=MNXKXLGt5ec",
+                "author_name": "Association of Audio Producers",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCo9HzT5VGgioT3AG8KCGyKA",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/MNXKXLGt5ec\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Alex Brandemayer (Dolby Labs) - EEG Research on Sound and Music Perception",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/MNXKXLGt5ec?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=MNXKXLGt5ec",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 3,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=MNXKXLGt5ec"
+            },
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "How Dolby is measuring human emotions to hack Hollywood",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=qYTT-0A8QIE",
+                "author_name": "The Verge",
+                "author_link": "https:\/\/www.youtube.com\/user\/TheVerge",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/qYTT-0A8QIE\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: How Dolby is measuring human emotions to hack Hollywood",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/qYTT-0A8QIE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=qYTT-0A8QIE",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 4,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=qYTT-0A8QIE"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wO0CH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", ce serait pas mal de rajouter quelques initiatives R&D\/artistiques récentes :\n - pour automotive tech, je pensais à Nissan Brain to Vehicle (2018) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=oCi6taII6Yo"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n - pour art numérique, la fresque Melting memories de Refik Anadol (2018) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/vimeo.com\/264369157"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n - pour musique, avec le travail de Dolby Labs (2017) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=MNXKXLGt5ec"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=qYTT-0A8QIE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1566631257.005400",
+        "client_msg_id": "51be3f16-31cf-4c5a-a520-f6b84cc7d011",
+        "text": "et <https:\/\/www.youtube.com\/watch?v=8HlkRIUg6wU>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Del Sol String Quartet + EEG",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=8HlkRIUg6wU",
+                "author_name": "warpenator",
+                "author_link": "https:\/\/www.youtube.com\/user\/warpenator",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/8HlkRIUg6wU\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Del Sol String Quartet + EEG",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/8HlkRIUg6wU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=8HlkRIUg6wU",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=8HlkRIUg6wU"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2nHn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "et "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=8HlkRIUg6wU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1566633097.007300",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1566633396.000000"
+        },
+        "client_msg_id": "fee95909-f9a8-463d-a945-bb5342e1e0f1",
+        "text": "Il faut rajouter la Sleeptech, c’est dans l’ère du temps et il y a beaucoup de projets autour de ça (dreem 2, urgonight, philips smartsleep, oura : <https:\/\/ouraring.com>, kokoon : <https:\/\/kokoon.io>)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Oura Ring",
+                "title": "Oura Ring: the most accurate sleep and activity tracker",
+                "title_link": "https:\/\/ouraring.com\/",
+                "text": "Oura Ring: the most accurate sleep and activity tracker is all about you: it measures the physiological signals of your body, understands your lifestyle, and guides you to make your own optimal daily choices. The ring features scientifically validated sleep tracking and personalized guidance.",
+                "fallback": "Oura Ring: Oura Ring: the most accurate sleep and activity tracker",
+                "from_url": "https:\/\/ouraring.com\/",
+                "service_icon": "https:\/\/ouraring.com\/wp-content\/themes\/webshop-theme\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/ouraring.com"
+            },
+            {
+                "title": "Kokoon – The Best Noise Cancelling Headphones for Sleep and Relaxation",
+                "title_link": "https:\/\/kokoon.io\/",
+                "text": "Designed for comfort and using brain activity, Kokoon headphones and mobile app help you sleep better.",
+                "fallback": "Kokoon – The Best Noise Cancelling Headphones for Sleep and Relaxation",
+                "from_url": "https:\/\/kokoon.io\/",
+                "service_icon": "https:\/\/kokoon.io\/wp-content\/themes\/kokoon\/assets\/images\/content\/favicon.png",
+                "service_name": "kokoon.io",
+                "id": 2,
+                "original_url": "https:\/\/kokoon.io"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hHW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il faut rajouter la Sleeptech, c’est dans l’ère du temps et il y a beaucoup de projets autour de ça (dreem 2, urgonight, philips smartsleep, oura : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ouraring.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", kokoon : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/kokoon.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

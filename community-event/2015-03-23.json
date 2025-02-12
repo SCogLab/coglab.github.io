@@ -1,0 +1,118 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1427142513.000002",
+        "text": "Pour info, il y avait un hackthon \"Hack the Brain\" à Londres ce WE\n<http:\/\/hackthebrain.uk\/>\n\nCertains du coin y était, voici un CR Hackpad de leurs activités\n<https:\/\/hackpad.com\/Hack-the-brain-global-Etg3CIamVAr>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Hack the Brain",
+                "title_link": "http:\/\/hackthebrain.uk\/",
+                "text": "Hack the Brain is the first UK hackathon to extend the mind and augment the senses. 20-22 March, London",
+                "fallback": "Hack the Brain",
+                "from_url": "http:\/\/hackthebrain.uk\/",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1p7b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour info, il y avait un hackthon \"Hack the Brain\" à Londres ce WE\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/hackthebrain.uk\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nCertains du coin y était, voici un CR Hackpad de leurs activités\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/hackpad.com\/Hack-the-brain-global-Etg3CIamVAr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1427145738.000004",
+        "text": "Il y en a un aussi à Hawaï avant OHBM :sunglasses::tropical_fish::hibiscus::palm_tree:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eb1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il y en a un aussi à Hawaï avant OHBM "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses",
+                                "unicode": "1f60e"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tropical_fish",
+                                "unicode": "1f420"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hibiscus",
+                                "unicode": "1f33a"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "palm_tree",
+                                "unicode": "1f334"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

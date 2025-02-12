@@ -1,0 +1,76 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There are *3* events this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "Forum des sciences cognitives 2023: <!date^1681630200^{date_short_pretty} from {time}|April 16th, 2023 from 9:30 AM> to <!date^1681660800^{time}|6:00 PM GMT+0200>",
+                "text": "<!date^1681630200^{date_short_pretty} from {time}|April 16th, 2023 from 9:30 AM> to <!date^1681660800^{time}|6:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=City+of+Science+and+Industry%2C+30+Av.+Corentin+Cariou%2C+75019+Paris%2C+France|City of Science and Industry, 30 Av. Corentin Cariou, 75019 Paris, France>",
+                "title": "Forum des sciences cognitives 2023",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NzBvM2FwYjI2OWlqZ2I5amNoaG0yYjlrNmdxM2diOW83NHIzNGI5a2M0b204ZDlrY3BpajBkOW5jOCBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            },
+            {
+                "id": 2,
+                "color": "7bd148",
+                "fallback": "HackNight NeuroTechX Paris: <!date^1681144200^{date_short_pretty} from {time}|April 10th, 2023 from 6:30 PM> to <!date^1681155000^{time}|9:30 PM GMT+0200>",
+                "text": "<!date^1681144200^{date_short_pretty} from {time}|April 10th, 2023 from 6:30 PM> to <!date^1681155000^{time}|9:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Makerlab+Paris%2C+8+Bis+Rue+Charles+V%2C+75004+Paris%2C+France%2C+Charles+V-0-MakerLab+Classroom+%2830%29|Makerlab Paris, 8 Bis Rue Charles V, 75004 Paris, France, Charles V-0-MakerLab Classroom (30)>",
+                "title": "HackNight NeuroTechX Paris",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NmI1cnZ2bzNoOWdmdGkwZ3BvczY5dDRqbGdfMjAyMzA0MTBUMTYzMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            },
+            {
+                "id": 3,
+                "color": "7bd148",
+                "fallback": "Fresco - Soirée Inter-associative :birthday:: <!date^1681574400^{date_short_pretty} from {time}|April 15th, 2023 from 6:00 PM> to <!date^1681585200^{time}|9:00 PM GMT+0200>",
+                "text": "<!date^1681574400^{date_short_pretty} from {time}|April 15th, 2023 from 6:00 PM> to <!date^1681585200^{time}|9:00 PM GMT+0200>",
+                "title": "Fresco - Soirée Inter-associative :birthday:",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NHNoY2RubXZvNGl2azJxbGY1Y2hkazBocGsgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1681106401.843839",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ufc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " events this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

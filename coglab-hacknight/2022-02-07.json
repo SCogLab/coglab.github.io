@@ -1,0 +1,89 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U032NBVQFKJ",
+        "text": "<@U032NBVQFKJ> a rejoint le canal",
+        "type": "message",
+        "ts": "1644245565.857029",
+        "team": "T03FC4NDZ"
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1644247005.606879",
+        "client_msg_id": "7e8bd10f-81dd-4f5c-a968-aa8415ecdbe8",
+        "text": "Hello <!here> Il n’y aura pas de hacknight IRL aujourd’hui, mais je serai présent sur le Gather Town du CogLab à partir de 19h : <https:\/\/gather.town\/i\/PYn7w8L3>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/gather.town\/i\/PYn7w8L3",
+                "image_url": "https:\/\/gather.town\/images\/site\/site_preview.png",
+                "image_width": 418,
+                "image_height": 250,
+                "image_bytes": 168628,
+                "service_icon": "https:\/\/gather.town\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/gather.town\/i\/PYn7w8L3",
+                "fallback": "Gather",
+                "text": "Gather is a video-calling space that lets multiple people hold separate conversations in parallel, walking in and out of those conversations just as easily as they would in real life.",
+                "title": "Gather",
+                "title_link": "https:\/\/gather.town\/i\/PYn7w8L3",
+                "service_name": "gather.town"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G3h0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Il n’y aura pas de hacknight IRL aujourd’hui, mais je serai présent sur le Gather Town du CogLab à partir de 19h : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gather.town\/i\/PYn7w8L3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UMSL037JT",
+                    "U01S8PWA7GU",
+                    "U02GLDK69UJ",
+                    "ULABDBC9W"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

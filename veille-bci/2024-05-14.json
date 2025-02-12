@@ -1,0 +1,83 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1715694398.563909",
+        "client_msg_id": "3b3e9ec8-d248-40b9-b7d6-5910eb331de7",
+        "text": "Suite à l'évènement <https:\/\/iclr.cc\/|ICLR 2024>, une publication sur un modèle de type LLM appliqué aux données cérébrales (fMRI) a été présentée : <https:\/\/neurosciencenews.com\/neuroscience-generative-ai-26085\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/neurosciencenews.com\/files\/2024\/05\/generative-ai-neuroscience.jpg",
+                "image_width": 1200,
+                "image_height": 800,
+                "image_bytes": 118681,
+                "from_url": "https:\/\/neurosciencenews.com\/neuroscience-generative-ai-26085\/",
+                "service_icon": "https:\/\/neurosciencenews.com\/files\/2020\/08\/cropped-Neuroscience-News-Site-Icon-512-comp-180x180.jpg",
+                "ts": 1715377177,
+                "id": 1,
+                "original_url": "https:\/\/neurosciencenews.com\/neuroscience-generative-ai-26085\/",
+                "fallback": "Neuroscience News: A New Era in Neuroscience with Generative AI - Neuroscience News",
+                "text": "Researchers developed a groundbreaking model called Brain Language Model (BrainLM) using generative artificial intelligence to map brain activity and its implications for behavior and disease.",
+                "title": "A New Era in Neuroscience with Generative AI - Neuroscience News",
+                "title_link": "https:\/\/neurosciencenews.com\/neuroscience-generative-ai-26085\/",
+                "service_name": "Neuroscience News",
+                "fields": [
+                    {
+                        "value": "Neuroscience News",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "5 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vVw0B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Suite à l'évènement "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/iclr.cc\/",
+                                "text": "ICLR 2024"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", une publication sur un modèle de type LLM appliqué aux données cérébrales (fMRI) a été présentée : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/neurosciencenews.com\/neuroscience-generative-ai-26085\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

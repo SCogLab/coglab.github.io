@@ -1,0 +1,65 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U07QDH1DE9L",
+        "text": "<@U07QDH1DE9L> a rejoint le canal",
+        "type": "message",
+        "ts": "1729701003.159729"
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1729719184.209979",
+        "client_msg_id": "ECF29D55-6A49-4816-9CE3-45D29408CA11",
+        "text": "Demain démarre le festival Parissciences pour le grand public (films documentaires scientifiques) : <https:\/\/pariscience.fr|https:\/\/pariscience.fr>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/pariscience.fr\/",
+                "service_icon": "https:\/\/pariscience.fr\/wp-content\/uploads\/2023\/07\/cropped-favicon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/pariscience.fr",
+                "fallback": "Pariscience: Pariscience - le festival qui ramène sa science - Pariscience",
+                "text": "...",
+                "title": "Pariscience - le festival qui ramène sa science - Pariscience",
+                "title_link": "https:\/\/pariscience.fr\/",
+                "service_name": "Pariscience"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tRqy\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Demain démarre le festival Parissciences pour le grand public (films documentaires scientifiques) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pariscience.fr",
+                                "text": "https:\/\/pariscience.fr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

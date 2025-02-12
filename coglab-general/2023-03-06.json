@@ -1,0 +1,87 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U04S3QRET2T",
+        "text": "<@U04S3QRET2T> a rejoint le canal",
+        "type": "message",
+        "ts": "1678107662.386779"
+    },
+    {
+        "user": "U66K73ES0",
+        "type": "message",
+        "ts": "1678132932.092549",
+        "bot_id": "B66HQV2AW",
+        "app_id": "A074YH40Z",
+        "text": "",
+        "team": "T03FC4NDZ",
+        "bot_profile": {
+            "id": "B66HQV2AW",
+            "app_id": "A074YH40Z",
+            "name": "Trello",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-07-19\/2282472048054_9a51d280179d828b3ad7_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-07-19\/2282472048054_9a51d280179d828b3ad7_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-19\/2282472048054_9a51d280179d828b3ad7_72.png"
+            },
+            "deleted": false,
+            "updated": 1657574201,
+            "team_id": "T03FC4NDZ"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "fallback": "New card Neurone électronique V2 added to list [PROJETS] Externe \/ partenaire on board Activités CogLab (public).",
+                "text": "In list *[PROJETS] Externe \/ partenaire* on *<https:\/\/trello.com\/b\/NFHS3ZPa|Activités CogLab (public)>*.",
+                "pretext": "New card created",
+                "title": "Neurone électronique V2",
+                "title_link": "https:\/\/trello.com\/c\/XLXGp2mL",
+                "author_name": "Romain ROUYER",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "https:\/\/trello-members.s3.amazonaws.com\/50080b67614e7d5e0528a0d3\/8702436e6aff83ed056cbc687384d49f\/30.png",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U66K73ES0",
+        "type": "message",
+        "ts": "1678132952.810499",
+        "bot_id": "B66HQV2AW",
+        "app_id": "A074YH40Z",
+        "text": "",
+        "team": "T03FC4NDZ",
+        "bot_profile": {
+            "id": "B66HQV2AW",
+            "app_id": "A074YH40Z",
+            "name": "Trello",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-07-19\/2282472048054_9a51d280179d828b3ad7_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-07-19\/2282472048054_9a51d280179d828b3ad7_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-19\/2282472048054_9a51d280179d828b3ad7_72.png"
+            },
+            "deleted": false,
+            "updated": 1657574201,
+            "team_id": "T03FC4NDZ"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "fallback": "New card Panorama des neurotech added to list [PROJETS] Internes on board Activités CogLab (public).",
+                "text": "In list *[PROJETS] Internes* on *<https:\/\/trello.com\/b\/NFHS3ZPa|Activités CogLab (public)>*.",
+                "pretext": "New card created",
+                "title": "Panorama des neurotech",
+                "title_link": "https:\/\/trello.com\/c\/SgNANIzV",
+                "author_name": "Romain ROUYER",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "https:\/\/trello-members.s3.amazonaws.com\/50080b67614e7d5e0528a0d3\/8702436e6aff83ed056cbc687384d49f\/30.png",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ]
+    }
+]

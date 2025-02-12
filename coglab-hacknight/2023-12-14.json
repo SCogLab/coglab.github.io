@@ -1,0 +1,435 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1702546642.295429",
+        "client_msg_id": "8bf8fc6c-a37b-4990-88e3-dad791656f49",
+        "text": "Clément m'a parlé de l'outil <https:\/\/ollama.ai|ollama> où il a fait une démonstration en local avec le modèle mistral 7B",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ollama.ai\/",
+                "service_icon": "https:\/\/ollama.ai\/public\/icon.png",
+                "thumb_url": "https:\/\/ollama.ai\/public\/og.png",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "id": 1,
+                "original_url": "https:\/\/ollama.ai",
+                "fallback": "Ollama",
+                "text": "Get up and running with large language models, locally.",
+                "title": "Ollama",
+                "title_link": "https:\/\/ollama.ai\/",
+                "service_name": "ollama.ai"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vS9E2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Clément m'a parlé de l'outil "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ollama.ai",
+                                "text": "ollama"
+                            },
+                            {
+                                "type": "text",
+                                "text": " où il a fait une démonstration en local avec le modèle mistral 7B"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06A1AP1ZPD",
+        "type": "message",
+        "ts": "1702550894.180829",
+        "edited": {
+            "user": "U06A1AP1ZPD",
+            "ts": "1702551010.000000"
+        },
+        "client_msg_id": "ad915dad-212e-4c4f-95ae-ed58e3dd61b6",
+        "text": "Here are all he links we mentioned during yesterday's Hacknight:\n<https:\/\/meet.jit.si\/NeuroTechX-Hacknight>\n<https:\/\/trello.com\/b\/NFHS3ZPa\/activit%C3%A9s-coglab-public>\n<https:\/\/www.neurodesk.org\/>\n<https:\/\/arxiv.org\/pdf\/2312.07151.pdf>\n<https:\/\/osl-dynamics.readthedocs.io\/en\/latest\/>\n<https:\/\/www.genethique.org\/>\n<https:\/\/blog.hardwareclub.co\/merging-optics-with-ai-meet-lighton-ceo-igor-caron-cto-laurent-daudet-9e44e96d35eb>\n<https:\/\/braingeneers.ucsc.edu\/>\n<http:\/\/www.brainorganogenesis.org\/>\n<https:\/\/docs.fedoraproject.org\/en-US\/neurofedora\/overview\/>\n<https:\/\/neuro.debian.net\/>\n<https:\/\/alleninstitute.github.io\/>\n<https:\/\/openneuro.org\/>\n<https:\/\/www.epfl.ch\/research\/domains\/bluebrain\/>\n<https:\/\/portal.bluebrain.epfl.ch\/>\n<https:\/\/bigbrainproject.org\/>\n<https:\/\/www.psych.ox.ac.uk\/team\/mlk>\n<https:\/\/mindbrain.ucdavis.edu\/people\/petr-janata>\n<https:\/\/www.nsgportal.org\/>\n<https:\/\/dandiarchive.org\/>\n<https:\/\/www.nwb.org\/>\n<https:\/\/www.nitrc.org\/>\n<https:\/\/www.janelia.org\/>\n<https:\/\/nemar.org\/>\n<https:\/\/open-neuroscience.com\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gb2789ddecfc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b2789ddecfc086d5799da8f23056ada7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "jb",
+            "real_name": "jb",
+            "display_name": "JWD",
+            "team": "T03FC4NDZ",
+            "name": "jeanbaptiste.mery",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "section",
+                        "block_id": "Rcwiq",
+                        "text": {
+                            "type": "mrkdwn",
+                            "text": "*Board*\n<https:\/\/trello.com\/b\/NFHS3ZPa|*Activités CogLab (public)*>\nKanban ouvert de l'association CogLab, NeuroTechX Paris listant les événements, projets et articles de blog.",
+                            "verbatim": false
+                        },
+                        "accessory": {
+                            "type": "image",
+                            "image_url": "https:\/\/trello-backgrounds.s3.amazonaws.com\/SharedBackground\/2560x1707\/6701d09843a75aace8108bffc5dd0709\/photo-1572414451128-611f28ca50e5",
+                            "alt_text": "board_background"
+                        },
+                        "fields": [
+                            {
+                                "type": "mrkdwn",
+                                "text": ":bust_in_silhouette: Members: 26",
+                                "verbatim": false
+                            },
+                            {
+                                "type": "mrkdwn",
+                                "text": ":earth_africa: Visibility: Public",
+                                "verbatim": false
+                            }
+                        ]
+                    },
+                    {
+                        "type": "actions",
+                        "block_id": "is69j",
+                        "elements": [
+                            {
+                                "type": "button",
+                                "action_id": "JOIN_BOARD_ACTION_ID",
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Join",
+                                    "emoji": true
+                                },
+                                "value": "56dc663c26b5d2e75c3d7023"
+                            },
+                            {
+                                "type": "button",
+                                "action_id": "WATCH_BOARD_ACTION_ID",
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "56dc663c26b5d2e75c3d7023"
+                            },
+                            {
+                                "type": "button",
+                                "action_id": "STAR_BOARD_ACTION_ID",
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": ":star:",
+                                    "emoji": true
+                                },
+                                "value": "56dc663c26b5d2e75c3d7023"
+                            }
+                        ]
+                    }
+                ],
+                "color": "#090504",
+                "fallback": "[no preview available]",
+                "bot_id": "B02DGMZQ3S5",
+                "app_unfurl_url": "https:\/\/trello.com\/b\/NFHS3ZPa\/activit%C3%A9s-coglab-public",
+                "is_app_unfurl": true,
+                "app_id": "A074YH40Z"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ytDGp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here are all he links we mentioned during yesterday's Hacknight:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/trello.com\/b\/NFHS3ZPa\/activit%C3%A9s-coglab-public"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.neurodesk.org\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/arxiv.org\/pdf\/2312.07151.pdf"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/osl-dynamics.readthedocs.io\/en\/latest\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.genethique.org\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/blog.hardwareclub.co\/merging-optics-with-ai-meet-lighton-ceo-igor-caron-cto-laurent-daudet-9e44e96d35eb"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/braingeneers.ucsc.edu\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.brainorganogenesis.org\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.fedoraproject.org\/en-US\/neurofedora\/overview\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/neuro.debian.net\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/alleninstitute.github.io\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/openneuro.org\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.epfl.ch\/research\/domains\/bluebrain\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/portal.bluebrain.epfl.ch\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bigbrainproject.org\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.psych.ox.ac.uk\/team\/mlk"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mindbrain.ucdavis.edu\/people\/petr-janata"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.nsgportal.org\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/dandiarchive.org\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.nwb.org\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.nitrc.org\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.janelia.org\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/nemar.org\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open-neuroscience.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01804NJ7AQ",
+                    "U03FC5ZAK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1702552410.807529",
+        "client_msg_id": "3736e90e-6f5a-46e6-b08c-5caf4c243887",
+        "text": "Top ! Ça fait pas mal d'infos, je vais les consigner dans notre hacknight journal",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lHejb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Top ! Ça fait pas mal d'infos, je vais les consigner dans notre hacknight journal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U03FC4NE1",
+        "type": "message",
+        "ts": "1423256036.000002",
+        "text": "Petite trouvaille du jour : <https:\/\/twitter.com\/TheNeuroBureau>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ce8fbc12b73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-01-27\/3522174799_7ce8fbc12b7351a6a2b3_72.jpg",
+            "first_name": "CogLab",
+            "real_name": "CogLab NeuroTechX Paris",
+            "display_name": "coglab",
+            "team": "T03FC4NDZ",
+            "name": "coglab",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "text": "The latest Tweets from The Neuro Bureau (@TheNeuroBureau). Neuro-collaboration in action. We tweet about community engagement, #neuroscience #openscience and our projects on #brainart #brainhack and more. everywhere",
+                "fallback": "The latest Tweets from The Neuro Bureau (@TheNeuroBureau). Neuro-collaboration in action. We tweet about community engagement, #neuroscience #openscience and our projects on #brainart #brainhack and more. everywhere",
+                "from_url": "https:\/\/twitter.com\/TheNeuroBureau",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1jDd3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Petite trouvaille du jour : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/TheNeuroBureau"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

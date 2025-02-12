@@ -1,0 +1,625 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U07JLKU3U",
+        "text": "<@U07JLKU3U> a rejoint le canal",
+        "type": "message",
+        "ts": "1436858326.021386"
+    },
+    {
+        "user": "U07JLKU3U",
+        "type": "message",
+        "ts": "1436893197.000002",
+        "text": "MuseoMix ça a l'air sympa, comment on peut en savoir plus (à part le lien) : quel est le projet?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g096417bf458",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7096417bf45841a6fcba6fb8a4a3cfee.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Mathieu",
+            "real_name": "Mathieu HOURTEILLAN",
+            "display_name": "mathieu777",
+            "team": "T03FC4NDZ",
+            "name": "mathieu777",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OVSPg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "MuseoMix ça a l'air sympa, comment on peut en savoir plus (à part le lien) : quel est le projet?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1436893858.000003",
+        "text": "L'initiative MuseoMix reprends les concepts d'événement tel que la franchise Startup Week-End <http:\/\/startupweekend.org\/> (pour les entrepreneurs) ou le format hackathon (généralement associé aux développeur), à savoir 1 soirée + 2 jours composé de :\n- Vendredi soir : présentation de l'événement, du lieu (visite du musée), et brainstorming de projet (on propose ou il y a déjà des suggestions, tout dépends des événements). Ensuite les gens constituent les équipes, par affinité de projet, et bonne répartition des compétences.\n- Samedi : toute la journée est dédié à la création d'un projet, certains vont jusqu'à faire des nuits blanches !\n- Dimanche : finalisation des projets le matin, puis présentation devant un jury sous forme de pitch avant la sélection \/ remise des prix (varie selon les événements)\n\nLa particularité de MuseoMix, est, comme sont nom l'indique, de Remixer les Musées. C'est à dire de réfléchir à des projets, généralement autour du numérique et\/ou de la médiation pour redonner aux gens l'envie d'aller au Musée ou de découvrir l'histoire \/ le patrimoine culturel de manière plus interactive. Il y a plus de détail sur le site.\n\nC'est une expérience assez chouette à faire au moins une fois ! :simple_smile:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UOY=Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "L'initiative MuseoMix reprends les concepts d'événement tel que la franchise Startup Week-End "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/startupweekend.org\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (pour les entrepreneurs) ou le format hackathon (généralement associé aux développeur), à savoir 1 soirée + 2 jours composé de :\n- Vendredi soir : présentation de l'événement, du lieu (visite du musée), et brainstorming de projet (on propose ou il y a déjà des suggestions, tout dépends des événements). Ensuite les gens constituent les équipes, par affinité de projet, et bonne répartition des compétences.\n- Samedi : toute la journée est dédié à la création d'un projet, certains vont jusqu'à faire des nuits blanches !\n- Dimanche : finalisation des projets le matin, puis présentation devant un jury sous forme de pitch avant la sélection \/ remise des prix (varie selon les événements)\n\nLa particularité de MuseoMix, est, comme sont nom l'indique, de Remixer les Musées. C'est à dire de réfléchir à des projets, généralement autour du numérique et\/ou de la médiation pour redonner aux gens l'envie d'aller au Musée ou de découvrir l'histoire \/ le patrimoine culturel de manière plus interactive. Il y a plus de détail sur le site.\n\nC'est une expérience assez chouette à faire au moins une fois ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC4NE1",
+        "type": "message",
+        "ts": "1436895177.000004",
+        "text": "<!everyone> [MESSAGE INFORMATIF]\n\nVoici le petit mode d'emploi visant à présenter les différents channel :slack:  du CogLab.\nMerci d'en prendre connaissance jusqu'au bout et n'hésitez pas à poser des questions et\/ou remonter des suggestions ! :simple_smile:\n\n\"En premier lieu, les personnes qui rejoignent l'outil ont automatiquement accès à 7 channels\"\n\nRENCONTRE <http:\/\/www.coglab.fr\/about\/>\n- <#C03FC4NE9|coglab-general> : le flux de discussion principal de la communauté\n- <#C041LLKGW|community-members> : pour que chacun des membres se présente en quelques mots\n- <#C03FC4NEB|community-idee-feedback> : une information à partager ? un article intéressant ? voici la partie \"fourre-tout\" !\n\nIMMERSION <http:\/\/www.coglab.fr\/about\/lab\/>\n- <#C07K4M2S0|coglab-openlab> : toutes les informations en lien avec l'Open Lab, c'est à dire les découvertes, projets, tests de matériels et tout ce qui concerne le côté DIY Cog\n- <#C07K80611|projet-off-fiches-neuromythes> : la partie vulgarisation, démystification des Sciences Cognitives, on y parle biais, neuromythe. C'est ici que s'organisent les Meetups, la collaboration avec CogniJunior, ...\n- <#C07K4Q3NE|coglab-thinklab> : vous aimez anticiper les besoins et parler de prospective ? La partie Think Lab est fait pour vous. Le but est d'organiser des groupes de travail, sensibilité aux enjeux éthiques, l'Open NBIC, ...\n- <#C03UHNB2H|community-event> : tout ce que vous avez toujours voulu savoir sur les événements, workshop, rencontres, permanences du CogLab et proposer les vôtres\n\n\n\"De nombreux autres channel sont à votre dispositions pour parler de sujet plus spécifique\"\n\nCOLLABORATIONS\n- Les lieux : <#C045NV491|community-france> <#C045P149V|community-paris> et équipement <#C03KKS66M|labo-equipement> \n- Les projets : <#C03KK2Z2Z|projet-off-eeg-openbci> <#C03JDDZNH|projet-off-music-bci> <#C03UHP8UD|projet-autispace> \n- Les technologies : <#C03KMPLR6|veille-bci> <#C03KMPNC6|veille-biodata-multimodal> \n- Les outils : <#C04LWU1SN|tools-code> <#C03JFHJL2|tools-documentation> <#C03JFG29A|tools-newsletter> \n\nUne dernière chose importante à identifier : tous les projets et initiatives sont OBLIGATOIREMENT documentée sur le HackPad de manière collaborative <https:\/\/coglab.hackpad.com\/>\n\nLes plus motivé peuvent également proposer des articles, compte-rendu ou tout autre contenu pour enrichir le site web :wink:\n\nBien entendu, tout cela n'est pas gravé dans le marbre et libre à discussion.\nC'est dans un premier temps l'idée de fixé quelques règles pour faciliter les échanges.\nChacun contribue à son rythme et selon ses envies.\n\nMerci :simple_smile:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ce8fbc12b73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-01-27\/3522174799_7ce8fbc12b7351a6a2b3_72.jpg",
+            "first_name": "CogLab",
+            "real_name": "CogLab NeuroTechX Paris",
+            "display_name": "coglab",
+            "team": "T03FC4NDZ",
+            "name": "coglab",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "CogLab",
+                "title": "A propos",
+                "title_link": "http:\/\/www.coglab.fr\/about\/",
+                "text": "Voir l’article pour en savoir plus.",
+                "fallback": "CogLab: A propos",
+                "thumb_url": "https:\/\/s0.wp.com\/i\/blank.jpg",
+                "ts": 1430692401,
+                "from_url": "http:\/\/www.coglab.fr\/about\/",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 1
+            },
+            {
+                "service_name": "CogLab",
+                "title": "Laboratoire Communautaire",
+                "title_link": "http:\/\/www.coglab.fr\/about\/lab\/",
+                "text": "Voir l’article pour en savoir plus.",
+                "fallback": "CogLab: Laboratoire Communautaire",
+                "thumb_url": "https:\/\/s0.wp.com\/i\/blank.jpg",
+                "ts": 1386180071,
+                "from_url": "http:\/\/www.coglab.fr\/about\/lab\/",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 2
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ddOH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " [MESSAGE INFORMATIF]\n\nVoici le petit mode d'emploi visant à présenter les différents channel "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slack"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  du CogLab.\nMerci d'en prendre connaissance jusqu'au bout et n'hésitez pas à poser des questions et\/ou remonter des suggestions ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\"En premier lieu, les personnes qui rejoignent l'outil ont automatiquement accès à 7 channels\"\n\nRENCONTRE "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.coglab.fr\/about\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03FC4NE9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : le flux de discussion principal de la communauté\n- "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C041LLKGW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : pour que chacun des membres se présente en quelques mots\n- "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03FC4NEB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : une information à partager ? un article intéressant ? voici la partie \"fourre-tout\" !\n\nIMMERSION "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.coglab.fr\/about\/lab\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C07K4M2S0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : toutes les informations en lien avec l'Open Lab, c'est à dire les découvertes, projets, tests de matériels et tout ce qui concerne le côté DIY Cog\n- "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C07K80611"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : la partie vulgarisation, démystification des Sciences Cognitives, on y parle biais, neuromythe. C'est ici que s'organisent les Meetups, la collaboration avec CogniJunior, ...\n- "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C07K4Q3NE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : vous aimez anticiper les besoins et parler de prospective ? La partie Think Lab est fait pour vous. Le but est d'organiser des groupes de travail, sensibilité aux enjeux éthiques, l'Open NBIC, ...\n- "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03UHNB2H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : tout ce que vous avez toujours voulu savoir sur les événements, workshop, rencontres, permanences du CogLab et proposer les vôtres\n\n\n\n\"De nombreux autres channel sont à votre dispositions pour parler de sujet plus spécifique\"\n\nCOLLABORATIONS\n- Les lieux : "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C045NV491"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C045P149V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et équipement "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03KKS66M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n- Les projets : "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03KK2Z2Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03JDDZNH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03UHP8UD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n- Les technologies : "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03KMPLR6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03KMPNC6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n- Les outils : "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C04LWU1SN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03JFHJL2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03JFG29A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nUne dernière chose importante à identifier : tous les projets et initiatives sont OBLIGATOIREMENT documentée sur le HackPad de manière collaborative "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.hackpad.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nLes plus motivé peuvent également proposer des articles, compte-rendu ou tout autre contenu pour enrichir le site web "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nBien entendu, tout cela n'est pas gravé dans le marbre et libre à discussion.\nC'est dans un premier temps l'idée de fixé quelques règles pour faciliter les échanges.\nChacun contribue à son rythme et selon ses envies.\n\nMerci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "pinned_item",
+        "text": "<@U03FC4NE1> pinned a message to this channel.",
+        "user": "U03FC4NE1",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[July 14th, 2015 10:32 AM] coglab: <!everyone> [MESSAGE INFORMATIF]\n\nVoici le petit mode d'emploi visant à présenter les différents channel :slack:  du CogLab.\nMerci d'en prendre connaissance jusqu'au bout et n'hésitez pas à poser des questions et\/ou remonter des suggestions ! :simple_smile:\n\n\"En premier lieu, les personnes qui rejoignent l'outil ont automatiquement accès à 7 channels\"\n\nRENCONTRE <http:\/\/www.coglab.fr\/about\/>\n- <#C03FC4NE9> : le flux de discussion principal de la communauté\n- <#C041LLKGW> : pour que chacun des membres se présente en quelques mots\n- <#C03FC4NEB> : une information à partager ? un article intéressant ? voici la partie \"fourre-tout\" !\n\nIMMERSION <http:\/\/www.coglab.fr\/about\/lab\/>\n- <#C07K4M2S0> : toutes les informations en lien avec l'Open Lab, c'est à dire les découvertes, projets, tests de matériels et tout ce qui concerne le côté DIY Cog\n- <#C07K80611> : la partie vulgarisation, démystification des Sciences Cognitives, on y parle biais, neuromythe. C'est ici que s'organisent les Meetups, la collaboration avec CogniJunior, ...\n- <#C07K4Q3NE> : vous aimez anticiper les besoins et parler de prospective ? La partie Think Lab est fait pour vous. Le but est d'organiser des groupes de travail, sensibilité aux enjeux éthiques, l'Open NBIC, ...\n- <#C03UHNB2H> : tout ce que vous avez toujours voulu savoir sur les événements, workshop, rencontres, permanences du CogLab et proposer les vôtres\n\n\n\"De nombreux autres channel sont à votre dispositions pour parler de sujet plus spécifique\"\n\nCOLLABORATIONS\n- Les lieux : <#C045NV491> <#C045P149V> et équipement <#C03KKS66M> \n- Les projets : <#C03KK2Z2Z> <#C03JDDZNH> <#C03UHP8UD> \n- Les technologies : <#C03KMPLR6> <#C03KMPNC6> \n- Les outils : <#C04LWU1SN> <#C03JFHJL2> <#C03JFG29A> \n\nUne dernière chose importante à identifier : tous les projets et initiatives sont OBLIGATOIREMENT documentée sur le HackPad de manière collaborative <https:\/\/coglab.hackpad.com\/>\n\nLes plus motivé peuvent également proposer des articles, compte-rendu ou tout autre contenu pour enrichir le site web :wink:\n\nBien entendu, tout cela n'est pas gravé dans le marbre et libre à discussion.\nC'est dans un premier temps l'idée de fixé quelques règles pour faciliter les échanges.\nChacun contribue à son rythme et selon ses envies.\n\nMerci :simple_smile:",
+                "ts": "1436895177.000004",
+                "author_id": "U03FC4NE1",
+                "author_subname": "CogLab NeuroTechX Paris",
+                "channel_id": "C03FC4NE9",
+                "channel_team": "T03FC4NDZ",
+                "channel_name": "coglab-general",
+                "is_msg_unfurl": true,
+                "text": "<!everyone> [MESSAGE INFORMATIF]\n\nVoici le petit mode d'emploi visant à présenter les différents channel :slack:  du CogLab.\nMerci d'en prendre connaissance jusqu'au bout et n'hésitez pas à poser des questions et\/ou remonter des suggestions ! :simple_smile:\n\n\"En premier lieu, les personnes qui rejoignent l'outil ont automatiquement accès à 7 channels\"\n\nRENCONTRE <http:\/\/www.coglab.fr\/about\/>\n- <#C03FC4NE9> : le flux de discussion principal de la communauté\n- <#C041LLKGW> : pour que chacun des membres se présente en quelques mots\n- <#C03FC4NEB> : une information à partager ? un article intéressant ? voici la partie \"fourre-tout\" !\n\nIMMERSION <http:\/\/www.coglab.fr\/about\/lab\/>\n- <#C07K4M2S0> : toutes les informations en lien avec l'Open Lab, c'est à dire les découvertes, projets, tests de matériels et tout ce qui concerne le côté DIY Cog\n- <#C07K80611> : la partie vulgarisation, démystification des Sciences Cognitives, on y parle biais, neuromythe. C'est ici que s'organisent les Meetups, la collaboration avec CogniJunior, ...\n- <#C07K4Q3NE> : vous aimez anticiper les besoins et parler de prospective ? La partie Think Lab est fait pour vous. Le but est d'organiser des groupes de travail, sensibilité aux enjeux éthiques, l'Open NBIC, ...\n- <#C03UHNB2H> : tout ce que vous avez toujours voulu savoir sur les événements, workshop, rencontres, permanences du CogLab et proposer les vôtres\n\n\n\"De nombreux autres channel sont à votre dispositions pour parler de sujet plus spécifique\"\n\nCOLLABORATIONS\n- Les lieux : <#C045NV491> <#C045P149V> et équipement <#C03KKS66M> \n- Les projets : <#C03KK2Z2Z> <#C03JDDZNH> <#C03UHP8UD> \n- Les technologies : <#C03KMPLR6> <#C03KMPNC6> \n- Les outils : <#C04LWU1SN> <#C03JFHJL2> <#C03JFG29A> \n\nUne dernière chose importante à identifier : tous les projets et initiatives sont OBLIGATOIREMENT documentée sur le HackPad de manière collaborative <https:\/\/coglab.hackpad.com\/>\n\nLes plus motivé peuvent également proposer des articles, compte-rendu ou tout autre contenu pour enrichir le site web :wink:\n\nBien entendu, tout cela n'est pas gravé dans le marbre et libre à discussion.\nC'est dans un premier temps l'idée de fixé quelques règles pour faciliter les échanges.\nChacun contribue à son rythme et selon ses envies.\n\nMerci :simple_smile:",
+                "message_blocks": [
+                    {
+                        "team": "T03FC4NDZ",
+                        "channel": "C03FC4NE9",
+                        "ts": "1436895177.000004",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "6NNl",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "broadcast",
+                                                    "range": "everyone"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " [MESSAGE INFORMATIF]\n\nVoici le petit mode d'emploi visant à présenter les différents channel "
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "slack"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "  du CogLab.\nMerci d'en prendre connaissance jusqu'au bout et n'hésitez pas à poser des questions et\/ou remonter des suggestions ! "
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "simple_smile"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n\n\"En premier lieu, les personnes qui rejoignent l'outil ont automatiquement accès à 7 channels\"\n\nRENCONTRE "
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "http:\/\/www.coglab.fr\/about\/"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n- "
+                                                },
+                                                {
+                                                    "type": "channel",
+                                                    "channel_id": "C03FC4NE9"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " : le flux de discussion principal de la communauté\n- "
+                                                },
+                                                {
+                                                    "type": "channel",
+                                                    "channel_id": "C041LLKGW"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " : pour que chacun des membres se présente en quelques mots\n- "
+                                                },
+                                                {
+                                                    "type": "channel",
+                                                    "channel_id": "C03FC4NEB"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " : une information à partager ? un article intéressant ? voici la partie \"fourre-tout\" !\n\nIMMERSION "
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "http:\/\/www.coglab.fr\/about\/lab\/"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n- "
+                                                },
+                                                {
+                                                    "type": "channel",
+                                                    "channel_id": "C07K4M2S0"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " : toutes les informations en lien avec l'Open Lab, c'est à dire les découvertes, projets, tests de matériels et tout ce qui concerne le côté DIY Cog\n- "
+                                                },
+                                                {
+                                                    "type": "channel",
+                                                    "channel_id": "C07K80611"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " : la partie vulgarisation, démystification des Sciences Cognitives, on y parle biais, neuromythe. C'est ici que s'organisent les Meetups, la collaboration avec CogniJunior, ...\n- "
+                                                },
+                                                {
+                                                    "type": "channel",
+                                                    "channel_id": "C07K4Q3NE"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " : vous aimez anticiper les besoins et parler de prospective ? La partie Think Lab est fait pour vous. Le but est d'organiser des groupes de travail, sensibilité aux enjeux éthiques, l'Open NBIC, ...\n- "
+                                                },
+                                                {
+                                                    "type": "channel",
+                                                    "channel_id": "C03UHNB2H"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " : tout ce que vous avez toujours voulu savoir sur les événements, workshop, rencontres, permanences du CogLab et proposer les vôtres\n\n\n\n\"De nombreux autres channel sont à votre dispositions pour parler de sujet plus spécifique\"\n\nCOLLABORATIONS\n- Les lieux : "
+                                                },
+                                                {
+                                                    "type": "channel",
+                                                    "channel_id": "C045NV491"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "channel",
+                                                    "channel_id": "C045P149V"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " et équipement "
+                                                },
+                                                {
+                                                    "type": "channel",
+                                                    "channel_id": "C03KKS66M"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " \n- Les projets : "
+                                                },
+                                                {
+                                                    "type": "channel",
+                                                    "channel_id": "C03KK2Z2Z"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "channel",
+                                                    "channel_id": "C03JDDZNH"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "channel",
+                                                    "channel_id": "C03UHP8UD"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " \n- Les technologies : "
+                                                },
+                                                {
+                                                    "type": "channel",
+                                                    "channel_id": "C03KMPLR6"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "channel",
+                                                    "channel_id": "C03KMPNC6"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " \n- Les outils : "
+                                                },
+                                                {
+                                                    "type": "channel",
+                                                    "channel_id": "C04LWU1SN"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "channel",
+                                                    "channel_id": "C03JFHJL2"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "channel",
+                                                    "channel_id": "C03JFG29A"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " \n\nUne dernière chose importante à identifier : tous les projets et initiatives sont OBLIGATOIREMENT documentée sur le HackPad de manière collaborative "
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/coglab.hackpad.com\/"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n\nLes plus motivé peuvent également proposer des articles, compte-rendu ou tout autre contenu pour enrichir le site web "
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "wink",
+                                                    "unicode": "1f609"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n\nBien entendu, tout cela n'est pas gravé dans le marbre et libre à discussion.\nC'est dans un premier temps l'idée de fixé quelques règles pour faciliter les échanges.\nChacun contribue à son rythme et selon ses envies.\n\nMerci "
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "simple_smile"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "author_name": "CogLab NeuroTechX Paris",
+                "author_link": "https:\/\/scoglab.slack.com\/team\/U03FC4NE1",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2015-01-27\/3522174799_7ce8fbc12b7351a6a2b3_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "from_hidden_wksp": false
+            }
+        ],
+        "type": "message",
+        "ts": "1436895193.000006"
+    }
+]

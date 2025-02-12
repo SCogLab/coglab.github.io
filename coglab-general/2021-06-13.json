@@ -1,0 +1,205 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1623590308.002200",
+        "client_msg_id": "a5e31315-fabd-414b-90a5-119a9656ac8d",
+        "text": "Bonjour <!channel>\n\nIl fait beau :sunny:, il fait chaud :thermometer:, le couvre-feu est élargis à 23h :mask: et surtout : vous nous manquez :scream_cat: !\n\nL'association organise un moment de retrouvailles estival et improvisé à Paris ce lundi à partir de 19h (ce sera notre 198ème soirée <#C0R6W4X2Q|coglab-hacknight>!)\n\nCe moment est une proposition pour passer un temps informel ensemble, en partageant un repas et échangeant autour d’idées, projets et activités des uns·es et des autres.\n\nToutes les informations sont ici :\n<https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/278806859>\n\n:bulb: Nous renouvellerons sûrement l’expérience régulièrement cet été :)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "HackNight CogLab #198 (spécial été)",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/278806859",
+                "text": "lun. 14 juin 2021 à 18:45: #Programme de la soiréeIl fait beau :sunny:, il fait chaud :thermometer:, le couvre-feu est élargis à 23h :mask: et surtout : vous nous manquez :scream_cat: !L'association organise un moment de retrouvai",
+                "fallback": "Meetup: HackNight CogLab #198 (spécial été)",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/5\/e\/e\/b\/600_496884299.jpeg",
+                "fields": [
+                    {
+                        "title": "Où",
+                        "value": "Événement en ligne",
+                        "short": true
+                    },
+                    {
+                        "title": "Quand",
+                        "value": "lun. 14 juin 2021 à 18:45",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/278806859",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 60008,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/fr-FR\/m_swarm_120x120.4f86abc9.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/278806859"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GT1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nIl fait beau "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunny",
+                                "unicode": "2600-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", il fait chaud "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thermometer",
+                                "unicode": "1f321-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", le couvre-feu est élargis à 23h "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mask",
+                                "unicode": "1f637"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et surtout : vous nous manquez "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "scream_cat",
+                                "unicode": "1f640"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !\n\nL'association organise un moment de retrouvailles estival et improvisé à Paris ce lundi à partir de 19h (ce sera notre 198ème soirée "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0R6W4X2Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!)\n\nCe moment est une proposition pour passer un temps informel ensemble, en partageant un repas et échangeant autour d’idées, projets et activités des uns·es et des autres.\n\nToutes les informations sont ici :\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/278806859"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bulb",
+                                "unicode": "1f4a1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Nous renouvellerons sûrement l’expérience régulièrement cet été :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQX7ZD4C9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01RMRT7QA3",
+        "type": "message",
+        "ts": "1623595134.003100",
+        "client_msg_id": "e5a2579d-9300-480e-a8fc-905186e4eea9",
+        "text": "Bonne initiative, mais too late j'ai déjà quelque chose de prévu :disappointed:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "35d796a62584",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1871877401895_35d796a62584ddda3271_72.jpg",
+            "first_name": "",
+            "real_name": "Sébastien Treguer",
+            "display_name": "Sébastien Treguer",
+            "team": "T03FC4NDZ",
+            "name": "streguer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1623595134.003100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1623660734.003200",
+        "reply_users": [
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1623660734.003200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gdbIR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonne initiative, mais too late j'ai déjà quelque chose de prévu "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed",
+                                "unicode": "1f61e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

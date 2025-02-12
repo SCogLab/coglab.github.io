@@ -1,0 +1,141 @@
+[
+    {
+        "subtype": "channel_name",
+        "user": "U03FC5ZAK",
+        "old_name": "projet-tb-autisme",
+        "name": "projet-autispace",
+        "text": "a changé le nom du canal de « projet-tb-autisme » en « projet-autispace »",
+        "type": "message",
+        "ts": "1478892183.000002"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1478892665.000003",
+        "text": "Coucou !\n\nLe site CogLab est à nouveau opérationnel\n\nJ'ai créé une page avec le PDF en téléchargement\n<http:\/\/www.coglab.fr\/autisme\/>\n\nOn peut lancer l'appel !\nAvec <mailto:contact@coglab.fr|contact@coglab.fr> en copie :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "CogLab \/ NeuroTechX Paris",
+                "title": "[Appel à projet] Coglab et CogniJunior lancent Autispace",
+                "title_link": "http:\/\/www.coglab.fr\/autisme\/",
+                "text": "Notre projet en quelques mots Autispace est créé de manière entièrement bénévole par une petite équipe pluridisciplinaire de neurotypiques et de personnes avec autisme. Il s’agit d’une …",
+                "fallback": "CogLab \/ NeuroTechX Paris: [Appel à projet] Coglab et CogniJunior lancent Autispace",
+                "image_url": "http:\/\/www.coglab.fr\/wp-content\/uploads\/2016\/11\/Screen-Shot-2016-11-11-at-20.25.56.png",
+                "image_width": 702,
+                "image_height": 250,
+                "ts": 1478892392,
+                "from_url": "http:\/\/www.coglab.fr\/autisme\/",
+                "image_bytes": 54230,
+                "service_icon": "http:\/\/i0.wp.com\/www.coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=180%2C180",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IKp4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coucou !\n\nLe site CogLab est à nouveau opérationnel\n\nJ'ai créé une page avec le PDF en téléchargement\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.coglab.fr\/autisme\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nOn peut lancer l'appel !\nAvec "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:contact@coglab.fr",
+                                "text": "contact@coglab.fr"
+                            },
+                            {
+                                "type": "text",
+                                "text": " en copie "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0AR01SPQ",
+        "type": "message",
+        "ts": "1478894581.000002",
+        "text": "bravo pour le fixing <@U03FC5ZAK>! wow génial :slightly_smiling_face: c'est parti!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b34e84fd77bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-17\/18704226567_b34e84fd77bcdb81946f_72.jpg",
+            "first_name": "Murielle",
+            "real_name": "Murielle PALISSANDRE",
+            "display_name": "murielle",
+            "team": "T03FC4NDZ",
+            "name": "murielle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aAEB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bravo pour le fixing "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! wow génial "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " c'est parti!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

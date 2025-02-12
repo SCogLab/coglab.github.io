@@ -1,0 +1,165 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1648920420.320529",
+        "client_msg_id": "df57fd77-80c6-4a17-89b4-5225d9a05f49",
+        "text": ":alarm_clock: Hello, pour les plus matinaux demain, il nous est conseillé d'arriver 8h - 8h30, le temps de s'installer tranquillement avant l'arrivée des visiteurs (la première conférence est à 9h30).\n\nL'équipe Cognivence offre le petit-déj :croissant:\n\nDe mon côté j'arriverai probablement vers 9h00.\nJ'ai également pris la liberté de proposer à Alicia de se joindre à notre stand.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AmiJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "alarm_clock",
+                                "unicode": "23f0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hello, pour les plus matinaux demain, il nous est conseillé d'arriver 8h - 8h30, le temps de s'installer tranquillement avant l'arrivée des visiteurs (la première conférence est à 9h30).\n\nL'équipe Cognivence offre le petit-déj "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "croissant",
+                                "unicode": "1f950"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nDe mon côté j'arriverai probablement vers 9h00.\nJ'ai également pris la liberté de proposer à Alicia de se joindre à notre stand."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S8PWA7GU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1648932384.079499",
+        "client_msg_id": "3856d107-b249-420e-8165-ad1eafbf841a",
+        "text": "Point de repère : nous serons au niveau S3 avec le reste des associations",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6I9K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Point de repère : nous serons au niveau S3 avec le reste des associations"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1648934755.802349",
+        "client_msg_id": "4b3f08d3-e1e8-4f27-a9e2-61230eda1df0",
+        "text": "Pour l'occasion, je viens d'écrire un article de blog <https:\/\/coglab.fr\/fsc2022\/>\nFaites signe si vous voyez des coquilles ou avez des suggestions.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/coglab.fr\/fsc2022\/",
+                "ts": 1648934686,
+                "image_url": "https:\/\/coglab.fr\/wp-content\/uploads\/2022\/04\/FSC-Banner-1536x805-1.png",
+                "image_width": 477,
+                "image_height": 250,
+                "image_bytes": 761129,
+                "service_icon": "https:\/\/i0.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=180%2C180&amp;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/coglab.fr\/fsc2022\/",
+                "fallback": "CogLab, NeuroTechX Paris: Forum des Sciences Cognitives 2022",
+                "text": "Cette année le Forum des Sciences Cognitives (FSC) est de retour en présentiel, avec une surprise de taille, il s’est démultiplié sous l’impulsion de la Fresco dans toute la France ! Re…",
+                "title": "Forum des Sciences Cognitives 2022",
+                "title_link": "https:\/\/coglab.fr\/fsc2022\/",
+                "service_name": "CogLab, NeuroTechX Paris"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dDro",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour l'occasion, je viens d'écrire un article de blog "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.fr\/fsc2022\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nFaites signe si vous voyez des coquilles ou avez des suggestions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

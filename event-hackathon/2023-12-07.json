@@ -1,0 +1,105 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1701985634.871359",
+        "client_msg_id": "448cd494-0200-4909-92d9-14b17d25b90c",
+        "text": "Petit up pour le lien discord : j’ai découvert qu’il était momentanément bloqué, en réponse à une alerte de sécurité automatique. En clôturant l’alerte, le lien était de nouveau actif. Bon à savoir si cela se représente.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701378609.366959",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wJeuB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Petit up pour le lien discord : j’ai découvert qu’il était momentanément bloqué, en réponse à une alerte de sécurité automatique. En clôturant l’alerte, le lien était de nouveau actif. Bon à savoir si cela se représente."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1701985745.232899",
+        "client_msg_id": "4560319c-355e-4d83-9ea9-d511da88e0a0",
+        "text": ":bulb: Pour le mail, la prochaine fois, peut-être utiliser une adresse plus générique comme <mailto:hackathon@coglab.fr|hackathon@coglab.fr> ou <mailto:hackathon@neurotechx.com|hackathon@neurotechx.com> ou bien un alias, qui pourra être réutilisé les années suivantes.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701378609.366959",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IWvH5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "bulb",
+                                "unicode": "1f4a1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Pour le mail, la prochaine fois, peut-être utiliser une adresse plus générique comme "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:hackathon@coglab.fr",
+                                "text": "hackathon@coglab.fr"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ou "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:hackathon@neurotechx.com",
+                                "text": "hackathon@neurotechx.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ou bien un alias, qui pourra être réutilisé les années suivantes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

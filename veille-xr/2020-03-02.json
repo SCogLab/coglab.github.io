@@ -1,0 +1,72 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1583164445.000300",
+        "client_msg_id": "584da5c3-1967-44b1-afc9-9f856d978a37",
+        "text": "<https:\/\/store.unity.com\/academic\/unity-student> ping <@UMSL037JT>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Unity Store",
+                "title": "Get a Unity Student plan today | Free 3D &amp; VR software for students | Unity - Unity Store",
+                "title_link": "https:\/\/store.unity.com\/academic\/unity-student",
+                "text": "Unity is the ultimate game development platform. Use Unity to build high-quality 3D and 2D games, deploy them across mobile, desktop, VR\/AR, consoles or the Web, and connect with loyal and enthusiastic players and customers.",
+                "fallback": "Unity Store: Get a Unity Student plan today | Free 3D &amp; VR software for students | Unity - Unity Store",
+                "image_url": "https:\/\/store.unity.com\/themes\/store\/images\/frontpage\/adam.jpg",
+                "from_url": "https:\/\/store.unity.com\/academic\/unity-student",
+                "image_width": 600,
+                "image_height": 250,
+                "image_bytes": 123578,
+                "service_icon": "https:\/\/store.unity.com\/themes\/contrib\/unity_base\/images\/favicons\/apple-touch-icon-152x152.png",
+                "id": 1,
+                "original_url": "https:\/\/store.unity.com\/academic\/unity-student"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K77",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/store.unity.com\/academic\/unity-student"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ping "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UMSL037JT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "UMSL037JT",
+        "text": "<@UMSL037JT> a rejoint le canal",
+        "type": "message",
+        "ts": "1583167527.000600"
+    }
+]

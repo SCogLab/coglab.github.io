@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1509043876.000032",
+        "text": "<https:\/\/bakerdh.wordpress.com\/2013\/10\/22\/arduino-sound-to-ttl-trigger-for-eeg\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Daniel's Visionarium",
+                "service_url": "http:\/\/bakerdh.wordpress.com",
+                "title": "Arduino sound to TTL trigger for EEG",
+                "title_link": "https:\/\/bakerdh.wordpress.com\/2013\/10\/22\/arduino-sound-to-ttl-trigger-for-eeg\/",
+                "author_name": "bakerdh",
+                "author_link": "https:\/\/bakerdh.wordpress.com\/author\/bakerdh\/",
+                "thumb_url": "https:\/\/bakerdh.files.wordpress.com\/2013\/10\/img_0109.jpg?fit=200%2C150",
+                "thumb_width": 113,
+                "thumb_height": 150,
+                "text": "A recent query on the Psychtoolbox mailing list about triggers for EEG prompted me to write an explanation of the system we developed at York to do this. I use the method below for steady state EEG, but it should work just as well for ERP designs. The arduino sound trigger was first constructed by my colleague Becky Gilbert, and she has kindly allowed me to share the design and her code.\nIt uses an Arduino UNO, to which we attached an audio jack socket to the analog input pin A0 (and a ground pin), and a BNC socket to the digital output pin 13. The board was mounted in a standard box. We had our technician drill holes in the box and mount the ports in it for stability. The whole thing is small (11&times;6.5cm), and powered from USB. Here is a picture with the lid off:\n&nbsp;\n\nWe then used the arduino software to upload a script to the board (appended below). It&rsquo;s a very simple bit of code that just monitors the analog input for changes in voltage above a specific threshold. When a voltage change happens it sends a brief trigger on the digital output, at the appropriate voltage for a TTL pulse. Note that on some systems this pulse is too brief to be detected. If this occurs, inserting a brief pause (e.g. uncomment the \/\/delay(100);) after the digitalWrite(outPin, HIGH) line will extend the pulse.\nI connect the jack socket to the headphone socket of the stimulus computer, and the BNC to the trigger socket on the EEG\/MEG amplifier system. I use the PsychPortAudio commands in Psychtoolbox to produce a 50ms binary pulse:\nPsychPortAudio(&lsquo;FillBuffer&rsquo;, tr, ones(1,220));\nwhich I play at stimulus onset (e.g. directly after a Flip command) using:\nPsychPortAudio(&lsquo;Start&rsquo;, tr);\nI&rsquo;ve tested the arduino with an oscilloscope, and it responds within a millisecond of receiving the sound pulse. Of course, the timing accuracy of the sound pulse will depend on your computer hardware &ndash; see the PTB documentation and use PsychPortAudioTimingTest to check this. On most systems I&rsquo;ve tried, the latency is very small indeed, so triggers should be completed well within one screen refresh.\nI hope people find this useful, and particular credit to Becky (@BeckyAGilbert) for designing the system. If you have any problems, please leave comments below. Of course producing the box requires a some soldering, and we take no responsibility for any resulting injury, death etc. &#128521;\n&nbsp;\n&nbsp;\n#define DEBUG 0 \/\/ change to 1 to debug \n \n #define THRESHOLD 0.1 \/\/ adjust this to control sensitivity in detection of voltage increase\n \n const int outPin = 13; \/\/ change output (D) pin number here\n int prev_voltage = 0; \/\/ must be initialized to something\n \n void setup() {\n &nbsp;if(DEBUG) {\n &nbsp; \/\/ initialize serial communication at 9600 bits per second (to write debugging info back to terminal)\n &nbsp;&nbsp; Serial.begin(9600); \n &nbsp;}\n &nbsp;\/\/ set output pin\n &nbsp;pinMode(outPin, OUTPUT);\n &nbsp;\n }\n \n void loop() {\n &nbsp; \/\/ read input on analog pin 0\n &nbsp;int sensorValue = analogRead(A0); \/\/ change input (A) pin number here\n &nbsp;\/\/ convert analog reading (from 0-1023) to digital\n &nbsp;float voltage = sensorValue * (5.0 \/ 1023.0);\n \n if(DEBUG) {\n &nbsp;&nbsp; \/\/ print value to serial port (view in Tools &gt; Serial Port Monitor)\n &nbsp;&nbsp; Serial.println(voltage); \/\/ This delays the trigger by\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \/\/ about 6ms so remove before using\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \/\/ during experiments\n }\n &nbsp;&nbsp; \/\/ Simplest algorithm ever.&nbsp; \n &nbsp;&nbsp; if (voltage &gt; prev_voltage + THRESHOLD)\n &nbsp;&nbsp; {\n &nbsp;&nbsp;&nbsp;&nbsp; digitalWrite(outPin, HIGH);\n\/\/delay(100);\n &nbsp;&nbsp; }\n &nbsp;&nbsp; else\n &nbsp;&nbsp; {\n &nbsp;&nbsp;&nbsp; digitalWrite(outPin, LOW); \n &nbsp;&nbsp; }\n &nbsp;&nbsp; \n &nbsp; prev_voltage = voltage;\n }",
+                "fallback": "Daniel's Visionarium Link: Arduino sound to TTL trigger for&nbsp;EEG",
+                "from_url": "https:\/\/bakerdh.wordpress.com\/2013\/10\/22\/arduino-sound-to-ttl-trigger-for-eeg\/",
+                "service_icon": "https:\/\/s0.wp.com\/i\/webclip.png",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vH\/R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bakerdh.wordpress.com\/2013\/10\/22\/arduino-sound-to-ttl-trigger-for-eeg\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

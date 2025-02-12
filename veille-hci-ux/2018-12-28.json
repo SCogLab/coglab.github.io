@@ -1,0 +1,115 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1545996468.001900",
+        "client_msg_id": "3e976dca-d439-4086-b08d-8e4802957a3d",
+        "text": "Test utilisateur\n<https:\/\/www.margaux-perrin.com\/tests-utilisateurs-en-entreprise-sans-budget-retour-dexperience\/>\n\nSynthèse\n<https:\/\/www.margaux-perrin.com\/evaluation-de-lihm-des-ergogames\/>\n\nC’est loin d’être parfait, il y a de nombreux biais, notamment sur le choix des personnes, et je n’ai pas vu de grille de critère heuristique, mais peux t’aider pour la synthèse des tests sur le <#C03UHP8UD|projet-autispace> <@U5JBN3M8Q> :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Tests utilisateurs en entreprise sans budget : retour d’expérience",
+                "title_link": "https:\/\/www.margaux-perrin.com\/tests-utilisateurs-en-entreprise-sans-budget-retour-dexperience\/",
+                "text": "Dans le cadre de mon prochain départ de mon entreprise actuelle, j'ai compilé divers documents de travail et articles de blogs autour de l'UX. Dans la partie méthodo, un article sur les tests utili",
+                "fallback": "Tests utilisateurs en entreprise sans budget : retour d’expérience",
+                "image_url": "https:\/\/www.margaux-perrin.com\/wp-content\/uploads\/2016\/10\/banière_usertest-1.jpg",
+                "from_url": "https:\/\/www.margaux-perrin.com\/tests-utilisateurs-en-entreprise-sans-budget-retour-dexperience\/",
+                "image_width": 817,
+                "image_height": 250,
+                "image_bytes": 81380,
+                "service_name": "margaux-perrin.com",
+                "id": 1,
+                "original_url": "https:\/\/www.margaux-perrin.com\/tests-utilisateurs-en-entreprise-sans-budget-retour-dexperience\/"
+            },
+            {
+                "title": "Évaluation de l’IHM des ergogames",
+                "title_link": "https:\/\/www.margaux-perrin.com\/evaluation-de-lihm-des-ergogames\/",
+                "text": "Adaptation des outils aux personas et aux hypothèses à testerTélécharger le PDFCet article a été écrit avec ma collègue Marion Georges. Nous sommes toutes les deux ergonomes à uxShadow,",
+                "fallback": "Évaluation de l’IHM des ergogames",
+                "image_url": "https:\/\/www.margaux-perrin.com\/wp-content\/uploads\/2018\/08\/ergogames.png",
+                "from_url": "https:\/\/www.margaux-perrin.com\/evaluation-de-lihm-des-ergogames\/",
+                "image_width": 817,
+                "image_height": 250,
+                "image_bytes": 49603,
+                "service_name": "margaux-perrin.com",
+                "id": 2,
+                "original_url": "https:\/\/www.margaux-perrin.com\/evaluation-de-lihm-des-ergogames\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dO6v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Test utilisateur\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.margaux-perrin.com\/tests-utilisateurs-en-entreprise-sans-budget-retour-dexperience\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nSynthèse\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.margaux-perrin.com\/evaluation-de-lihm-des-ergogames\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nC’est loin d’être parfait, il y a de nombreux biais, notamment sur le choix des personnes, et je n’ai pas vu de grille de critère heuristique, mais peux t’aider pour la synthèse des tests sur le "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03UHP8UD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U5JBN3M8Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U5JBN3M8Q",
+        "text": "<@U5JBN3M8Q> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1545996471.002100"
+    }
+]

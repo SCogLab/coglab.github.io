@@ -1,0 +1,850 @@
+[
+    {
+        "user": "U065TGVPMQA",
+        "type": "message",
+        "ts": "1700644456.870789",
+        "edited": {
+            "user": "U065TGVPMQA",
+            "ts": "1700644707.000000"
+        },
+        "client_msg_id": "d7003ce4-2210-403d-9ea9-4721390731ba",
+        "text": "For those interested in playing with the drosophila connectome and the experiments of the <https:\/\/www.biorxiv.org\/content\/10.1101\/2023.05.02.539144v1|Shiu paper>, a few resources : a) <https:\/\/briansimulator.org\/> - (check the <https:\/\/brian2.readthedocs.io\/en\/stable\/resources\/tutorials\/index.html|Tutorials> for a quick start). b)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "d1c45b06a897",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6190932855014_d1c45b06a89739c22a4f_72.png",
+            "first_name": "Emmanuel",
+            "real_name": "Emmanuel Gauvain",
+            "display_name": "Emmanuel Gauvain",
+            "team": "T03FC4NDZ",
+            "name": "emmanuel.gauvain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/briansimulator.org\/",
+                "ts": 1579273437,
+                "thumb_url": "https:\/\/briansimulator.org\/logos\/brian_logo_small_square.png",
+                "thumb_width": 224,
+                "thumb_height": 224,
+                "service_icon": "https:\/\/briansimulator.org\/logos\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/briansimulator.org\/",
+                "fallback": "The Brian spiking neural network simulator: The Brian Simulator",
+                "text": "Brian is a free, open source simulator for spiking neural networks.",
+                "title": "The Brian Simulator",
+                "title_link": "https:\/\/briansimulator.org\/",
+                "service_name": "The Brian spiking neural network simulator"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tlN4g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For those interested in playing with the drosophila connectome and the experiments of the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.biorxiv.org\/content\/10.1101\/2023.05.02.539144v1",
+                                "text": "Shiu paper"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", a few resources : a) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/briansimulator.org\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - (check the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/brian2.readthedocs.io\/en\/stable\/resources\/tutorials\/index.html",
+                                "text": "Tutorials"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for a quick start). b)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01804NJ7AQ",
+                    "U03FC5ZAK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U065TGVPMQA",
+        "type": "message",
+        "ts": "1700644880.990249",
+        "client_msg_id": "423cb5c7-acce-4b43-aa62-e6385ae39947",
+        "text": "b) the files of the paper, including the model &amp; the connectivity parquet file : <https:\/\/edmond.mpg.de\/dataset.xhtml;jsessionid=64d503bd6b3b4b68147451901494?persistentId=doi%3A10.17617%2F3.CZODIW&amp;version=&amp;q=&amp;fileAccess=&amp;fileTag=&amp;fileSortField=&amp;fileSortOrder=&amp;tagPresort=false&amp;folderPresort=true|here>. You don't need to download the results zip but will need to recreate a results folder.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "d1c45b06a897",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6190932855014_d1c45b06a89739c22a4f_72.png",
+            "first_name": "Emmanuel",
+            "real_name": "Emmanuel Gauvain",
+            "display_name": "Emmanuel Gauvain",
+            "team": "T03FC4NDZ",
+            "name": "emmanuel.gauvain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700644880.990249",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1701005955.453579",
+        "reply_users": [
+            "U01804NJ7AQ"
+        ],
+        "replies": [
+            {
+                "user": "U01804NJ7AQ",
+                "ts": "1701005955.453579"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/edmond.mpg.de\/dataset.xhtml;jsessionid=64d503bd6b3b4b68147451901494?persistentId=doi%3A10.17617%2F3.CZODIW&version=&q=&fileAccess=&fileTag=&fileSortField=&fileSortOrder=&tagPresort=false&folderPresort=true",
+                "ts": 1695279600,
+                "image_url": "https:\/\/edmond.mpg.de\/javax.faces.resource\/images\/dataverse-icon-1200.png.xhtml;jsessionid=64d503bd6b3b4b68147451901494",
+                "image_width": 1200,
+                "image_height": 1200,
+                "image_bytes": 27650,
+                "id": 1,
+                "original_url": "https:\/\/edmond.mpg.de\/dataset.xhtml;jsessionid=64d503bd6b3b4b68147451901494?persistentId=doi%3A10.17617%2F3.CZODIW&amp;version=&amp;q=&amp;fileAccess=&amp;fileTag=&amp;fileSortField=&amp;fileSortOrder=&amp;tagPresort=false&amp;folderPresort=true",
+                "fallback": "Edmond: Drosophila Brain Model",
+                "text": "A computational model of the Drosophila brain (bioRxiv, Github)",
+                "title": "Drosophila Brain Model",
+                "title_link": "https:\/\/edmond.mpg.de\/dataset.xhtml;jsessionid=64d503bd6b3b4b68147451901494?persistentId=doi%3A10.17617%2F3.CZODIW&version=&q=&fileAccess=&fileTag=&fileSortField=&fileSortOrder=&tagPresort=false&folderPresort=true",
+                "service_name": "Edmond"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a3gaI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "b) the files of the paper, including the model & the connectivity parquet file : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/edmond.mpg.de\/dataset.xhtml;jsessionid=64d503bd6b3b4b68147451901494?persistentId=doi%3A10.17617%2F3.CZODIW&version=&q=&fileAccess=&fileTag=&fileSortField=&fileSortOrder=&tagPresort=false&folderPresort=true",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". You don't need to download the results zip but will need to recreate a results folder."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065TGVPMQA",
+        "type": "message",
+        "ts": "1700645111.280739",
+        "client_msg_id": "d9989122-9dfa-49dd-9f6c-9c362c937511",
+        "text": "resources on emulation in general : <https:\/\/carboncopies.org\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "d1c45b06a897",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6190932855014_d1c45b06a89739c22a4f_72.png",
+            "first_name": "Emmanuel",
+            "real_name": "Emmanuel Gauvain",
+            "display_name": "Emmanuel Gauvain",
+            "team": "T03FC4NDZ",
+            "name": "emmanuel.gauvain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700645111.280739",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1701007117.063699",
+        "reply_users": [
+            "U01804NJ7AQ"
+        ],
+        "replies": [
+            {
+                "user": "U01804NJ7AQ",
+                "ts": "1701007117.063699"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/carboncopies.org\/wp-content\/uploads\/2020\/08\/blue-trans-graphic.png",
+                "image_width": 442,
+                "image_height": 442,
+                "image_bytes": 142815,
+                "from_url": "https:\/\/carboncopies.org\/",
+                "service_icon": "https:\/\/carboncopies.org\/wp-content\/uploads\/2020\/08\/cropped-Logo-Image-as-Circle-GOOD-Rez-1-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/carboncopies.org\/",
+                "fallback": "Carboncopies: Home - Carboncopies",
+                "text": "Promoting Research and Development for Whole Brain Emulation At the Carboncopies Foundation, we believe that the possibilities and opportunities enabled by Whole Brain Emulation (WBE) represent the most promising technological path to overcoming our fundamental limitations as a species.  To achieve WBE, essential advances are needed in neurobiology, neurophysiology, brain imaging, micro- and nanoscale technologies, …",
+                "title": "Home - Carboncopies",
+                "title_link": "https:\/\/carboncopies.org\/",
+                "service_name": "Carboncopies"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iRQTL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "resources on emulation in general : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/carboncopies.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U067MHJN22U",
+        "text": "<@U067MHJN22U> a rejoint le canal",
+        "type": "message",
+        "ts": "1700680007.889509"
+    },
+    {
+        "user": "U01804NJ7AQ",
+        "type": "message",
+        "ts": "1700690089.357859",
+        "client_msg_id": "9CDD6A61-23AB-4193-B363-F00DD42F8548",
+        "text": "Great stuff. Thanks <@U065TGVPMQA> ",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g7080a90c528",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7080a90c528526f8129488e607562782.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Morgan Hough",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "morgan.hough",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3dXwB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great stuff. Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U065TGVPMQA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1700694613.057209",
+        "client_msg_id": "42801b3c-d3c0-4f1d-a684-47e83e7aa6ba",
+        "text": "Comme indiqué lors de la hacknight d'aujourdhui, Il y aura une conférence le 6 décembre à l'ENSEA de Cergy sur la thématique NeuroIA DevRob (je m'y suis inscrit c'est dans ma région) : <https:\/\/dim-cbrains.fr\/fr\/news\/news\/59>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700694613.057209",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1700695346.564719",
+        "reply_users": [
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1700695346.564719"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/dim-cbrains.fr\/fr\/news\/news\/59",
+                "service_icon": "https:\/\/dim-cbrains.fr\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/dim-cbrains.fr\/fr\/news\/news\/59",
+                "fallback": "DIM C-BRAINS",
+                "text": "Cognition and Brain Revolutions: Artificial Intelligence, Neurogenomics, Society",
+                "title": "DIM C-BRAINS",
+                "title_link": "https:\/\/dim-cbrains.fr\/fr\/news\/news\/59",
+                "service_name": "dim-cbrains.fr"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eW6zl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Comme indiqué lors de la hacknight d'aujourdhui, Il y aura une conférence le 6 décembre à l'ENSEA de Cergy sur la thématique NeuroIA DevRob (je m'y suis inscrit c'est dans ma région) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/dim-cbrains.fr\/fr\/news\/news\/59"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01804NJ7AQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1700695346.564719",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1700695383.000000"
+        },
+        "client_msg_id": "f958121a-8d37-4e4a-8963-b3bfb83dd5da",
+        "text": "Et pour infos dans le panel, il y a deux chercheurs de l'INRIA Bordeaux que l'on connaît (j'ai fait un stand CogLab,NTX Paris au Forum des Sciences Cognitives Bordaux) sur leurs travaux sur la meta-cognition (<http:\/\/www.pyoudeyer.com|Pierre-Yves Oudeyer> avec son robot Poppy Station : <https:\/\/www.poppy-station.org\/en\/history\/>) et Xavier Hinault pour ses travaux sur le Reservoir Computing : <https:\/\/github.com\/reservoirpy\/reservoirpy>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700694613.057209",
+        "parent_user_id": "U59MQ46DA",
+        "attachments": [
+            {
+                "from_url": "http:\/\/www.pyoudeyer.com\/",
+                "service_icon": "http:\/\/www.pyoudeyer.com\/wp-content\/themes\/Terra\/images\/favicon.png",
+                "id": 1,
+                "original_url": "http:\/\/www.pyoudeyer.com",
+                "fallback": "Home - Pierre-Yves Oudeyer",
+                "text": "Artificial Intelligence, Machine Learning, Cognitive Science",
+                "title": "Home - Pierre-Yves Oudeyer",
+                "title_link": "http:\/\/www.pyoudeyer.com\/",
+                "service_name": "pyoudeyer.com"
+            },
+            {
+                "image_url": "https:\/\/opengraph.githubassets.com\/161e7fed47eae53b670d178710c2fd4dcc8fbdfdfc3d2b8486726766f3b73dbb\/reservoirpy\/reservoirpy",
+                "image_width": 1200,
+                "image_height": 600,
+                "image_bytes": 138863,
+                "from_url": "https:\/\/github.com\/reservoirpy\/reservoirpy",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 2,
+                "original_url": "https:\/\/github.com\/reservoirpy\/reservoirpy",
+                "fallback": "GitHub: GitHub - reservoirpy\/reservoirpy: A simple and flexible code for Reservoir Computing architectures like Echo State Networks",
+                "text": "A simple and flexible code for Reservoir Computing architectures like Echo State Networks - GitHub - reservoirpy\/reservoirpy: A simple and flexible code for Reservoir Computing architectures like E...",
+                "title": "GitHub - reservoirpy\/reservoirpy: A simple and flexible code for Reservoir Computing architectures like Echo State Networks",
+                "title_link": "https:\/\/github.com\/reservoirpy\/reservoirpy",
+                "service_name": "GitHub"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XHLjn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et pour infos dans le panel, il y a deux chercheurs de l'INRIA Bordeaux que l'on connaît (j'ai fait un stand CogLab,NTX Paris au Forum des Sciences Cognitives Bordaux) sur leurs travaux sur la meta-cognition ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.pyoudeyer.com",
+                                "text": "Pierre-Yves Oudeyer"
+                            },
+                            {
+                                "type": "text",
+                                "text": " avec son robot Poppy Station : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.poppy-station.org\/en\/history\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") et Xavier Hinault pour ses travaux sur le Reservoir Computing : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/reservoirpy\/reservoirpy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U065TGVPMQA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1700695782.512119",
+        "client_msg_id": "f45419ff-722a-4de7-95a4-599c6c97a638",
+        "text": "Par ailleurs, j'ai vu, à l'instant, sur la page de Dim C-Brains qu'il y a des Appel à Projets Equipement en cours (02 novembre au 26 janvier pour candidater) sur ces thématiques : <https:\/\/dim-cbrains.fr\/fr\/proposals\/inprogress\/list>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/dim-cbrains.fr\/fr\/proposals\/inprogress\/list",
+                "service_icon": "https:\/\/dim-cbrains.fr\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/dim-cbrains.fr\/fr\/proposals\/inprogress\/list",
+                "fallback": "DIM C-BRAINS",
+                "text": "Cognition and Brain Revolutions: Artificial Intelligence, Neurogenomics, Society",
+                "title": "DIM C-BRAINS",
+                "title_link": "https:\/\/dim-cbrains.fr\/fr\/proposals\/inprogress\/list",
+                "service_name": "dim-cbrains.fr"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N\/l8M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Par ailleurs, j'ai vu, à l'instant, sur la page de Dim C-Brains qu'il y a des Appel à Projets Equipement en cours (02 novembre au 26 janvier pour candidater) sur ces thématiques : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/dim-cbrains.fr\/fr\/proposals\/inprogress\/list"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1700696554.122759",
+        "client_msg_id": "c2d79bb0-3bd2-46e9-a271-1e0badc3691c",
+        "text": "Et ce matin lors de l'évènement NOW 2023 (<https:\/\/open-neuro.org|open-neuro>), j'ai discuté avec Maxime Zimmermann (qui semble connaître le CogLab de la période d'avant la création de l'asso et peut-être d'avant NeuroTechX), ils peuvent fournir du matériel Spikeling en version 2.2 pour des outils pédagogiques _(matériel + formation) :_ <https:\/\/open-neuroscience.com>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700696554.122759",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1700700033.000909",
+        "reply_users": [
+            "U59MQ46DA",
+            "U01804NJ7AQ"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1700697253.586359"
+            },
+            {
+                "user": "U01804NJ7AQ",
+                "ts": "1700700033.000909"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/open-neuroscience.com\/",
+                "service_icon": "https:\/\/open-neuroscience.com\/images\/icon_hu5f746bf2e11c95fb260dc5d54f44dae4_78484_192x192_fill_lanczos_center_2.png",
+                "id": 1,
+                "original_url": "https:\/\/open-neuroscience.com",
+                "fallback": "Open Neuroscience",
+                "text": "Open Neuroscience is a volunteer organized project to aggregate and curate open source projects related to Neurosciences",
+                "title": "Open Neuroscience",
+                "title_link": "https:\/\/open-neuroscience.com\/",
+                "service_name": "open-neuroscience.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gxFpX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et ce matin lors de l'évènement NOW 2023 ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open-neuro.org",
+                                "text": "open-neuro"
+                            },
+                            {
+                                "type": "text",
+                                "text": "), j'ai discuté avec Maxime Zimmermann (qui semble connaître le CogLab de la période d'avant la création de l'asso et peut-être d'avant NeuroTechX), ils peuvent fournir du matériel Spikeling en version 2.2 pour des outils pédagogiques "
+                            },
+                            {
+                                "type": "text",
+                                "text": "(matériel + formation) : ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open-neuroscience.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1700696684.999459",
+        "client_msg_id": "ae26866d-8f01-49bb-8b49-cf2a20111aef",
+        "text": "Et le github du projet : <https:\/\/github.com\/MaxZimmer\/Spikeling-V2-dev>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/github.com\/MaxZimmer\/Spikeling-V2-dev",
+                "image_url": "https:\/\/opengraph.githubassets.com\/c473ff4dd62c884b1c44dd230b3622bf5654e9bfbabb7f0c11ad3542eba54c62\/MaxZimmer\/Spikeling-V2-dev",
+                "image_width": 1200,
+                "image_height": 600,
+                "image_bytes": 95797,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/MaxZimmer\/Spikeling-V2-dev",
+                "fallback": "GitHub: GitHub - MaxZimmer\/Spikeling-V2-dev",
+                "text": "Contribute to MaxZimmer\/Spikeling-V2-dev development by creating an account on GitHub.",
+                "title": "GitHub - MaxZimmer\/Spikeling-V2-dev",
+                "title_link": "https:\/\/github.com\/MaxZimmer\/Spikeling-V2-dev",
+                "service_name": "GitHub"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w\/Upl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et le github du projet : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/MaxZimmer\/Spikeling-V2-dev"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1700697253.586359",
+        "client_msg_id": "5744df6a-78c6-4a76-8b75-d2a5b1ed15ad",
+        "text": "<@U01804NJ7AQ> Adrien Schramm, the organizer of the event told me they will provide slides &amp; vidéos like they did for the first edition (Guillaume and Gaël were speaker at this one) : <https:\/\/open-neuro.org\/program\/program-2019\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700696554.122759",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NRNdB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01804NJ7AQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Adrien Schramm, the organizer of the event told me they will provide slides & vidéos like they did for the first edition (Guillaume and Gaël were speaker at this one) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open-neuro.org\/program\/program-2019\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01804NJ7AQ",
+        "type": "message",
+        "ts": "1700700033.000909",
+        "client_msg_id": "afd6c579-eaa0-478c-a589-038a36cddb04",
+        "text": "Super! I see Stanley Durrleman and Jakob Voigts as well as so many others.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g7080a90c528",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7080a90c528526f8129488e607562782.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Morgan Hough",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "morgan.hough",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700696554.122759",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "slvgP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Super! I see Stanley Durrleman and Jakob Voigts as well as so many others."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01804NJ7AQ",
+        "type": "message",
+        "ts": "1700711569.417809",
+        "client_msg_id": "65664FE5-D780-4A34-B739-41E6FE1C96B2",
+        "text": "<https:\/\/arxiv.org\/abs\/2311.13337|https:\/\/arxiv.org\/abs\/2311.13337>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g7080a90c528",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7080a90c528526f8129488e607562782.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Morgan Hough",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "morgan.hough",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/arxiv.org\/abs\/2311.13337",
+                "service_icon": "https:\/\/static.arxiv.org\/static\/browse\/0.3.4\/images\/icons\/apple-touch-icon.png",
+                "thumb_url": "https:\/\/static.arxiv.org\/static\/browse\/0.3.4\/images\/arxiv-logo-fb.png",
+                "thumb_width": 1200,
+                "thumb_height": 700,
+                "id": 1,
+                "original_url": "https:\/\/arxiv.org\/abs\/2311.13337",
+                "fallback": "arXiv.org: Vast TVB parameter space exploration: A Modular Framework for Accelerating the Multi-Scale Simulation of Human Brain Dynamics",
+                "text": "Global neural dynamics emerge from multi-scale brain structures, with neurons communicating through synapses to form transiently communicating networks. Network activity arises from intercellular communication that depends on the structure of connectome tracts and local connection, intracellular signalling cascades, and the extracellular molecular milieu that regulate cellular properties. Multi-scale models of brain function have begun to directly link the emergence of global brain dynamics in conscious and unconscious brain states to microscopic changes at the level of cells. In particular, AdEx mean-field models representing statistical properties of local populations of neurons have been connected following human tractography data to represent multi-scale neural phenomena in simulations using The Virtual Brain (TVB). While mean-field models can be run on personal computers for short simulations, or in parallel on high-performance computing (HPC) architectures for longer simulations and parameter scans, the computational burden remains high and vast areas of the parameter space remain unexplored. In this work, we report that our TVB-HPC framework, a modular set of methods used here to implement the TVB-AdEx model for GPU and analyze emergent dynamics, notably accelerates simulations and substantially reduces computational resource requirements. The framework preserves the stability and robustness of the TVB-AdEx model, thus facilitating finer resolution exploration of vast parameter spaces as well as longer simulations previously near impossible to perform. Given that simulation and analysis toolkits are made public as open-source packages, our framework serves as a template onto which other models can be easily scripted and personalized datasets can be used for studies of inter-individual variability of parameters related to functional brain dynamics.",
+                "title": "Vast TVB parameter space exploration: A Modular Framework for Accelerating the Multi-Scale Simulation of Human Brain Dynamics",
+                "title_link": "https:\/\/arxiv.org\/abs\/2311.13337",
+                "service_name": "arXiv.org"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hz40I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/arxiv.org\/abs\/2311.13337",
+                                "text": "https:\/\/arxiv.org\/abs\/2311.13337"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U065TGVPMQA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "user": "U01S8PWA7GU",
+        "type": "message",
+        "ts": "1643569007.644439",
+        "client_msg_id": "e2669e63-dc3b-4c0a-9b4f-91aba9260523",
+        "text": "on fait le hacknight plutôt quel jour ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "c0ad61371238",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1886649922098_c0ad61371238e9b3ed71_72.png",
+            "first_name": "Eduardo",
+            "real_name": "Eduardo de Conto",
+            "display_name": "Eduardo de Conto",
+            "team": "T03FC4NDZ",
+            "name": "eduardoconto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1643043073.004500",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q+8up",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "on fait le hacknight plutôt quel jour ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1643569258.816749",
+        "client_msg_id": "2240f197-42db-4587-aacc-12fea05a1892",
+        "text": "On fera la hacknight lundi (je ferai l’annonce sur meetup demain) et OpenCogLab mercredi (il est probable que je passe au CRI pour faire de l’impression 3D).",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1643043073.004500",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1tVw8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On fera la hacknight lundi (je ferai l’annonce sur meetup demain) et OpenCogLab mercredi (il est probable que je passe au CRI pour faire de l’impression 3D)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U030N4TDS3G",
+        "text": "<@U030N4TDS3G> a rejoint le canal",
+        "type": "message",
+        "ts": "1643585597.032449",
+        "team": "T03FC4NDZ"
+    }
+]

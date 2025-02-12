@@ -1,0 +1,66 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1570611811.000200",
+        "client_msg_id": "11fba2c3-888c-4563-b702-4c6a1b9edea9",
+        "text": "<https:\/\/www.frontiersin.org\/articles\/10.3389\/fnhum.2019.00348\/full>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Frontiers",
+                "title": "EEG-Based Classification of Internally- and Externally-Directed Attention in an Augmented Reality Paradigm",
+                "title_link": "https:\/\/www.frontiersin.org\/articles\/10.3389\/fnhum.2019.00348\/full",
+                "text": "One problem faced in the design of Augmented Reality (AR) applications is the interference of virtually displayed objects in the user's visual field, with the current attentional focus of the user. Newly generated content can disrupt internal thought processes. If we can detect such internally-directed attention periods, the interruption could either be avoided or even used intentionally. In this work, we designed a special alignment task in AR with two conditions: one with externally-directed attention and one with internally-directed attention. Apart from the direction of attention, the two tasks were identical. During the experiment, we performed a 16-channel EEG recording, which was then used for a binary classification task. Based on selected band power features, we trained a Linear Discriminant Analysis classifier to predict the label for a 13-s window of each trial. Parameter selection, as well as the training of the classifier, were done in a person-dependent manner in a 5-fold cross-validation on the training data. We achieved an average score of approximately 85.37% accuracy on the test data (± 11.27%, range = [66.7%, 100%], 6 participants &gt; 90%, 3 participants = 100%). Our results show that it is possible to discriminate the two states with simple machine learning mechanisms. The analysis of additionally collected data dispels doubts that we classified the difference in movement speed or task load. We conclude that a real-time assessment of internal and external...",
+                "fallback": "Frontiers: EEG-Based Classification of Internally- and Externally-Directed Attention in an Augmented Reality Paradigm",
+                "image_url": "https:\/\/www.frontiersin.org\/files\/MyHome%20Article%20Library\/479443\/479443_Thumb_400.jpg",
+                "from_url": "https:\/\/www.frontiersin.org\/articles\/10.3389\/fnhum.2019.00348\/full",
+                "image_width": 400,
+                "image_height": 141,
+                "image_bytes": 7765,
+                "service_icon": "https:\/\/3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com\/favicon_16x16.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.frontiersin.org\/articles\/10.3389\/fnhum.2019.00348\/full"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2ID",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.frontiersin.org\/articles\/10.3389\/fnhum.2019.00348\/full"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "star-struck",
+                "users": [
+                    "UMUSWSU1G"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

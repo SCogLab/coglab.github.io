@@ -1,0 +1,125 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1493414897.760372",
+        "text": "<https:\/\/www.youtube.com\/watch?v=49l_2jQOnBQ>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Viar360 Explainer Video",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=49l_2jQOnBQ",
+                "author_name": "Info Info",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCKaR6NR1B-7bSx34hyaAVCg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/49l_2jQOnBQ\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Viar360 Explainer Video",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/49l_2jQOnBQ?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=49l_2jQOnBQ",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kcZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=49l_2jQOnBQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1493414953.775472",
+        "text": "EMC + VR = :ok_hand:\n<https:\/\/www.technologyreview.com\/s\/604127\/electrodes-for-your-face-bring-your-emotions-to-augmented-and-virtual-reality\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "MIT Technology Review",
+                "title": "Electrodes in a headset can show when you smile or wink in virtual reality",
+                "title_link": "https:\/\/www.technologyreview.com\/s\/604127\/electrodes-for-your-face-bring-your-emotions-to-augmented-and-virtual-reality\/",
+                "text": "Tracking facial expressions can make VR and AR more realistic, but the technology is still bulky.",
+                "fallback": "MIT Technology Review: Electrodes in a headset can show when you smile or wink in virtual reality",
+                "image_url": "https:\/\/d267cvn3rvuq91.cloudfront.net\/i\/images\/mindmazethumb.jpg?cx=0&cy=0&cw=1080&ch=607&sw=1200",
+                "image_width": 445,
+                "image_height": 250,
+                "from_url": "https:\/\/www.technologyreview.com\/s\/604127\/electrodes-for-your-face-bring-your-emotions-to-augmented-and-virtual-reality\/",
+                "image_bytes": 76316,
+                "service_icon": "https:\/\/www.technologyreview.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KSD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "EMC + VR = "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand",
+                                "unicode": "1f44c"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.technologyreview.com\/s\/604127\/electrodes-for-your-face-bring-your-emotions-to-augmented-and-virtual-reality\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

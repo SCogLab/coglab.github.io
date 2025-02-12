@@ -1,0 +1,767 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U6EPG5PTQ",
+        "text": "<@U6EPG5PTQ> a rejoint le canal",
+        "type": "message",
+        "ts": "1585586549.000200"
+    },
+    {
+        "user": "U6EPG5PTQ",
+        "type": "message",
+        "ts": "1585586647.001800",
+        "edited": {
+            "user": "U6EPG5PTQ",
+            "ts": "1585586924.000000"
+        },
+        "client_msg_id": "d72d235d-449b-4b77-9066-ac5587e6a5ed",
+        "text": "PROJET mars20 : répondre à appel à projets avant le 15 avril en Wallonie (faire un brainstorm vidéo &gt; pour aller plus vite, lors du prochain hacknight, avec une \"fiche projet\" de départ postée par Karine ici avant - <https:\/\/crossborderlivinglabs.eu\/fr\/open-call\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g09c260ee4c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/209c260ee4c8c21ab89b376055cd6e8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Karine",
+            "real_name": "Karine Halpern",
+            "display_name": "KarineH",
+            "team": "T03FC4NDZ",
+            "name": "karine.halpern",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cIH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "PROJET mars20 : répondre à appel à projets avant le 15 avril en Wallonie (faire un brainstorm vidéo > pour aller plus vite, lors du prochain hacknight, avec une \"fiche projet\" de départ postée par Karine ici avant - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/crossborderlivinglabs.eu\/fr\/open-call\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1585586683.002400",
+        "client_msg_id": "935052b2-00a8-42e9-8675-138b397aca70",
+        "text": "ça marche",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DKI76",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ça marche"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U6EPG5PTQ",
+        "type": "message",
+        "ts": "1585586684.002500",
+        "edited": {
+            "user": "U6EPG5PTQ",
+            "ts": "1585586983.000000"
+        },
+        "client_msg_id": "82b01e51-b58f-4999-bf67-82b5bc4b2062",
+        "text": "Questions de Karine au groupe (R&amp;D) :  Pour réfléchir au concept transmédia à travers de prismes, dont celui de la *linguistique*, l'idée est de lister des prismes pour observer comment le concept transmédia existe ou non, on peut lister les *prismes* et ensuite lister les *angles* (ainsi je peux m'en servir pendant la thèse) ex de prismes ? : neurosciences ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g09c260ee4c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/209c260ee4c8c21ab89b376055cd6e8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Karine",
+            "real_name": "Karine Halpern",
+            "display_name": "KarineH",
+            "team": "T03FC4NDZ",
+            "name": "karine.halpern",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Um8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Questions de Karine au groupe (R&D) :  Pour réfléchir au concept transmédia à travers de prismes, dont celui de la"
+                            },
+                            {
+                                "type": "text",
+                                "text": " linguistique",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", l'idée est de lister des prismes pour observer comment le concept transmédia existe ou non, on peut lister les "
+                            },
+                            {
+                                "type": "text",
+                                "text": "prismes",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " et ensuite lister les "
+                            },
+                            {
+                                "type": "text",
+                                "text": "angles",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (ainsi je peux m'en servir pendant la thèse) ex de prismes ? : neurosciences ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1585587084.005300",
+        "client_msg_id": "9338e232-8947-413f-9ef8-ce3a0904c4ad",
+        "text": "Ok, plus généralement, peut-on partir du projet TransmédiaBrain comme première base ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XcUbH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok, plus généralement, peut-on partir du projet TransmédiaBrain comme première base ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1585587232.005700",
+        "client_msg_id": "5b3f776b-372c-4fb5-9623-9913e3d2ba15",
+        "text": "Vous êtez confiant pour répondre à un appel à projet en 2 semaines ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ES4X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vous êtez confiant pour répondre à un appel à projet en 2 semaines ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1585588195.007000",
+        "client_msg_id": "56711e7f-44b9-4f8a-b980-aa56c589dfd3",
+        "text": "Le truc, c’est quel projet CogLab serait impacté pour cet AAP ? (de mon point de vue, je ne vois que Autispace VR)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gm5P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le truc, c’est quel projet CogLab serait impacté pour cet AAP ? (de mon point de vue, je ne vois que Autispace VR)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U6EPG5PTQ",
+        "type": "message",
+        "ts": "1585588859.007800",
+        "client_msg_id": "7b0133d2-5c1a-4030-ae70-4346cd72929c",
+        "text": "1\/ oui, sur la base de TMBrain (je ne l'ai pas encore récupéré) je peux réexpliquer le concept dans un paragraphe",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g09c260ee4c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/209c260ee4c8c21ab89b376055cd6e8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Karine",
+            "real_name": "Karine Halpern",
+            "display_name": "KarineH",
+            "team": "T03FC4NDZ",
+            "name": "karine.halpern",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dxE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1\/ oui, sur la base de TMBrain (je ne l'ai pas encore récupéré) je peux réexpliquer le concept dans un paragraphe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U6EPG5PTQ",
+        "type": "message",
+        "ts": "1585588876.008200",
+        "client_msg_id": "bcf32d18-ec1d-4031-a868-80840e3e7f42",
+        "text": "2\/ oui je peux répondre en 2 semaines sans problème",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g09c260ee4c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/209c260ee4c8c21ab89b376055cd6e8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Karine",
+            "real_name": "Karine Halpern",
+            "display_name": "KarineH",
+            "team": "T03FC4NDZ",
+            "name": "karine.halpern",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fPV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2\/ oui je peux répondre en 2 semaines sans problème"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U6EPG5PTQ",
+        "type": "message",
+        "ts": "1585588991.010400",
+        "client_msg_id": "1809449b-61a6-49e2-a33b-564d72cc1122",
+        "text": "3\/ Autispace VR ne peut pas marcher pour l'AAP en Wallonie car on doit travailler avec la data locale, qui est d'ailleurs listée dans leur dossier DONC je propose un brain storm pour voir ce que le CogLab apporte dans le projet et on propose de réaliser un Transmedia MIX sur la base de ce que j'ai fait en 2014 comme cela on s'appuie sur une réalisation pour la transformer en 2020, du coup on serait déjà 2 partenaires TR + CL et ensuite je vois si je peux faire entrer d'autres.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g09c260ee4c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/209c260ee4c8c21ab89b376055cd6e8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Karine",
+            "real_name": "Karine Halpern",
+            "display_name": "KarineH",
+            "team": "T03FC4NDZ",
+            "name": "karine.halpern",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uZnlF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "3\/ Autispace VR ne peut pas marcher pour l'AAP en Wallonie car on doit travailler avec la data locale, qui est d'ailleurs listée dans leur dossier DONC je propose un brain storm pour voir ce que le CogLab apporte dans le projet et on propose de réaliser un Transmedia MIX sur la base de ce que j'ai fait en 2014 comme cela on s'appuie sur une réalisation pour la transformer en 2020, du coup on serait déjà 2 partenaires TR + CL et ensuite je vois si je peux faire entrer d'autres."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U6EPG5PTQ",
+        "type": "message",
+        "ts": "1585589632.011400",
+        "client_msg_id": "b1a5db73-3e56-4a1a-870e-c914d4a90558",
+        "text": "<@U03FC5ZAK> <@U59MQ46DA> peut on facilement former des jeunes à animer des ateliers DIY EGG ? si oui j'ai une piste intéressante",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g09c260ee4c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/209c260ee4c8c21ab89b376055cd6e8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Karine",
+            "real_name": "Karine Halpern",
+            "display_name": "KarineH",
+            "team": "T03FC4NDZ",
+            "name": "karine.halpern",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1585589632.011400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585643006.018400",
+        "reply_users": [
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1585643006.018400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wEw\/T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " peut on facilement former des jeunes à animer des ateliers DIY EGG ? si oui j'ai une piste intéressante"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Export de la fiche transmédia brain en pdf et docx",
+        "files": [
+            {
+                "id": "F010S5Y9Q3T",
+                "created": 1585590027,
+                "timestamp": 1585590027,
+                "name": "TransmédiaBrain_(TB).pdf",
+                "title": "TransmédiaBrain_(TB).pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U59MQ46DA",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 445781,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F010S5Y9Q3T\/transme__diabrain__tb_.pdf?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F010S5Y9Q3T\/download\/transme__diabrain__tb_.pdf?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F010S5Y9Q3T-77edb8d6e5\/transme__diabrain__tb__thumb_pdf.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U59MQ46DA\/F010S5Y9Q3T\/transme__diabrain__tb_.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-F010S5Y9Q3T-83a2edf63f",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F01126QEXG8",
+                "created": 1585590027,
+                "timestamp": 1585590027,
+                "name": "TransmédiaBrain_(TB).docx",
+                "title": "TransmédiaBrain_(TB).docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U59MQ46DA",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 379214,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F01126QEXG8\/transme__diabrain__tb_.docx?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F01126QEXG8\/download\/transme__diabrain__tb_.docx?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F01126QEXG8-e590cdba66\/transme__diabrain__tb__converted.pdf?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F01126QEXG8-e590cdba66\/transme__diabrain__tb__thumb_pdf.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U59MQ46DA\/F01126QEXG8\/transme__diabrain__tb_.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-F01126QEXG8-ea6cd6e521",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xI7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Export de la fiche transmédia brain en pdf et docx"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1585590031.011500",
+        "client_msg_id": "865e987b-3ddc-4eb7-b835-d0be57d24f63",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6EPG5PTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "Export de la fiche Transmedia Living Lab",
+        "files": [
+            {
+                "id": "F010PEMV8MQ",
+                "created": 1585590885,
+                "timestamp": 1585590885,
+                "name": "Transmédia_Living_Lab.pdf",
+                "title": "Transmédia_Living_Lab.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U59MQ46DA",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 115995,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F010PEMV8MQ\/transme__dia_living_lab.pdf?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F010PEMV8MQ\/download\/transme__dia_living_lab.pdf?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F010PEMV8MQ-2f85900ae5\/transme__dia_living_lab_thumb_pdf.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U59MQ46DA\/F010PEMV8MQ\/transme__dia_living_lab.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-F010PEMV8MQ-b6be4127d0",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F011267DWCV",
+                "created": 1585590885,
+                "timestamp": 1585590885,
+                "name": "Transmédia_Living_Lab.docx",
+                "title": "Transmédia_Living_Lab.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U59MQ46DA",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 28552,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F011267DWCV\/transme__dia_living_lab.docx?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F011267DWCV\/download\/transme__dia_living_lab.docx?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F011267DWCV-f464c8226a\/transme__dia_living_lab_converted.pdf?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F011267DWCV-f464c8226a\/transme__dia_living_lab_thumb_pdf.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U59MQ46DA\/F011267DWCV\/transme__dia_living_lab.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-F011267DWCV-79b99f6d02",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iqml",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Export de la fiche Transmedia Living Lab"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1585590888.013500",
+        "client_msg_id": "977b45c3-72ce-4b68-a7ca-ab07fcdb3cef",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6EPG5PTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U6EPG5PTQ",
+        "type": "message",
+        "ts": "1585590897.014200",
+        "client_msg_id": "ec391a17-434e-42c2-885f-a22db0b16fd2",
+        "text": "<@U03FC5ZAK> <@U59MQ46DA>: je crois que j'ai trouvé l'axe pour l'AAP : peut on réaliser un dispositif coglab pour favoriser et\/ou mesure l'imaginaire d'une audience sur le base d'un cadre narratif ? (du coup le cadre narratif sera celui de l'AAP et tout le le dispositif sera transmédiatisé)...",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g09c260ee4c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/209c260ee4c8c21ab89b376055cd6e8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Karine",
+            "real_name": "Karine Halpern",
+            "display_name": "KarineH",
+            "team": "T03FC4NDZ",
+            "name": "karine.halpern",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HcFgf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": je crois que j'ai trouvé l'axe pour l'AAP : peut on réaliser un dispositif coglab pour favoriser et\/ou mesure l'imaginaire d'une audience sur le base d'un cadre narratif ? (du coup le cadre narratif sera celui de l'AAP et tout le le dispositif sera transmédiatisé)..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U6EPG5PTQ",
+        "type": "message",
+        "ts": "1585591146.018000",
+        "client_msg_id": "f7eda4c1-e13f-4f73-a993-9d16fcb99f79",
+        "text": "+ les ateliers DIY EEG viennent dans l'expérience transmédia comme des ateliers dans un lieu en wallonie que je connais bien (musée scientifique) pour inciter les familles (audience populaire, scolaire, etc.) à participer à cette expérience on peut tout à fait avoir une sorte de \"sas\" où les personnes expérimentent leur imaginaire (on utilise la data des commanditaires comme sources de départ de l'univers imaginaire) - En sus on rajoute un hachathon transmédia (un one shot) pour faire donc le Transmedia Mix 2020 avec des codesigners pour donner le coup d'envoi de cette expérience qui sera ensuite installée dans le musée populaire.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g09c260ee4c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/209c260ee4c8c21ab89b376055cd6e8e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Karine",
+            "real_name": "Karine Halpern",
+            "display_name": "KarineH",
+            "team": "T03FC4NDZ",
+            "name": "karine.halpern",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tQyYZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+ les ateliers DIY EEG viennent dans l'expérience transmédia comme des ateliers dans un lieu en wallonie que je connais bien (musée scientifique) pour inciter les familles (audience populaire, scolaire, etc.) à participer à cette expérience on peut tout à fait avoir une sorte de \"sas\" où les personnes expérimentent leur imaginaire (on utilise la data des commanditaires comme sources de départ de l'univers imaginaire) - En sus on rajoute un hachathon transmédia (un one shot) pour faire donc le Transmedia Mix 2020 avec des codesigners pour donner le coup d'envoi de cette expérience qui sera ensuite installée dans le musée populaire."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_topic",
+        "user": "U6EPG5PTQ",
+        "topic": "PROJETS&amp; VEILLE",
+        "text": "a défini le thème du canal : PROJETS&amp; VEILLE",
+        "type": "message",
+        "ts": "1585591441.018200"
+    },
+    {
+        "subtype": "channel_topic",
+        "user": "U6EPG5PTQ",
+        "topic": "PROJETS &amp; VEILLE",
+        "text": "a défini le thème du canal : PROJETS &amp; VEILLE",
+        "type": "message",
+        "ts": "1585591449.018300"
+    }
+]

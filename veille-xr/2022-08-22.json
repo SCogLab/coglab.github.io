@@ -1,0 +1,70 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1661190599.628889",
+        "client_msg_id": "933bb5d1-b75f-4714-bb92-06fb0ca8ec3f",
+        "text": "Peut t’intéresser <@U59MQ46DA> autour de tes explorations avec TOM\n<https:\/\/xraccess.org\/hackathon-inclusive-user-testing\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/xraccess.org\/hackathon-inclusive-user-testing\/",
+                "ts": 1657565432,
+                "image_url": "https:\/\/xraccess.org\/wp-content\/uploads\/2022\/07\/realityhack.png",
+                "image_width": 265,
+                "image_height": 250,
+                "image_bytes": 289576,
+                "service_icon": "https:\/\/xraccess.org\/wp-content\/uploads\/2020\/01\/cropped-Screen-Shot-2020-01-16-at-2.28.46-PM-2-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/xraccess.org\/hackathon-inclusive-user-testing\/",
+                "fallback": "XR Access: Inclusive User Testing in VR @ MIT Reality Hack - XR Access",
+                "text": "This talk will review what inclusion and accessibility mean for extended reality and the metaverse. By examining existing heuristics and researching existing methods for accessibility, the discovery has been made that new principles need to be adopted to create more equitable experiences. We will discuss ongoing research on accessible augmented reality.",
+                "title": "Inclusive User Testing in VR @ MIT Reality Hack - XR Access",
+                "title_link": "https:\/\/xraccess.org\/hackathon-inclusive-user-testing\/",
+                "service_name": "XR Access"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VPSi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Peut t’intéresser "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " autour de tes explorations avec TOM\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/xraccess.org\/hackathon-inclusive-user-testing\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There are *2* events this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #179 [Online EN]: <!date^1612200600^{date_short_pretty} from {time}|February 1st, 2021 from 6:30 PM> to <!date^1612206000^{time}|8:00 PM GMT+0100>",
+                "text": "<!date^1612200600^{date_short_pretty} from {time}|February 1st, 2021 from 6:30 PM> to <!date^1612206000^{time}|8:00 PM GMT+0100> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "title": "CogLab HackNight #179 [Online EN]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MXBkdGswMHFuM2lxcDRoa3UwZGZpNWQzMDIgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "CogLab HackNight #179 [Online FR]: <!date^1612209600^{date_short_pretty} from {time}|February 1st, 2021 from 9:00 PM> to <!date^1612215000^{time}|10:30 PM GMT+0100>",
+                "text": "<!date^1612209600^{date_short_pretty} from {time}|February 1st, 2021 from 9:00 PM> to <!date^1612215000^{time}|10:30 PM GMT+0100> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "title": "CogLab HackNight #179 [Online FR]",
+                "id": 2,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MnRuNGEwdjQ5bWtxZm9wNWU1OXNxaWllNWogc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1612162804.002400",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w3j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "2",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " events this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

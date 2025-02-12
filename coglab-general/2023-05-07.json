@@ -1,0 +1,211 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1683464799.451179",
+        "client_msg_id": "8fdf6749-452d-4c51-9666-bf0b442679d7",
+        "text": "Bonjour <!here>\n\nEn prévision de deux événements qui nous mobilisent depuis quelques semaines, vous trouverez deux nouvelles chaînes associées afin d’échanger plus facilement sur le sujet.\n\n• <#C057A1RH6KA|event-brainplay>: Le samedi *3 juin* à Jussieu, nous participerons au forum *BrainPlay*, consacrée au thème « *Jeu et Sciences Cognitives* », affilié à l’association *CogitErgo*. À cette occasion, nous animerons un atelier sur notre projet Autispace (<#C03UHP8UD|projet-autispace>) et une conférence.\n• <#C056HUWKJ65|event-double-science>: Du 3 mai au 24 juin, <https:\/\/www.groundcontrolparis.com\/le-lieu\/le-projet\/|Ground Control> accueille une grande thématique intitulée « Science Friction », dédiée à la vulgarisation des Sciences et organisé dans le cadre du <https:\/\/www.festivaldoublescience.fr\/|festival Double•Science>. Nous interviendrons dans le cadre d’une journée spéciale « *consciences modifiées* » le dimanche *4 juin*. \nVous y trouverez les liens pointant sur la documentation en cours.\nLes contributions sont ouvertes !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.groundcontrolparis.com\/le-lieu\/le-projet\/",
+                "service_icon": "https:\/\/www.groundcontrolparis.com\/wp-content\/uploads\/2019\/03\/cropped-Logo-1-180x180.jpg",
+                "id": 1,
+                "original_url": "https:\/\/www.groundcontrolparis.com\/le-lieu\/le-projet\/",
+                "fallback": "Ground Control: le projet - Ground Control",
+                "text": "Ground Control est un lieu de vie culturel, indépendant et engagé. Situé à proximité de la gare de Lyon, dans une ancienne halle de tri postal...",
+                "title": "le projet - Ground Control",
+                "title_link": "https:\/\/www.groundcontrolparis.com\/le-lieu\/le-projet\/",
+                "service_name": "Ground Control"
+            },
+            {
+                "image_url": "https:\/\/static.wixstatic.com\/media\/94f8e9_4874a3b09a6c473884b9c1d128dbc1c5~mv2.png\/v1\/fill\/w_2500,h_1410,al_c\/94f8e9_4874a3b09a6c473884b9c1d128dbc1c5~mv2.png",
+                "image_width": 2500,
+                "image_height": 1410,
+                "image_bytes": 317194,
+                "from_url": "https:\/\/www.festivaldoublescience.fr\/",
+                "service_icon": "https:\/\/static.parastorage.com\/client\/pfavico.ico",
+                "id": 2,
+                "original_url": "https:\/\/www.festivaldoublescience.fr\/",
+                "fallback": "Festival Double Scie: Festival Double•Science",
+                "text": "Double•Science est le festival de la vulgarisation, où les citoyen·nes célèbrent, partagent et contribuent à la connaissance. Il aura lieu du 26 au 28 mai 2023 autour du thème “150 ans de Physique”, au Ground Control (Paris)",
+                "title": "Festival Double•Science",
+                "title_link": "https:\/\/www.festivaldoublescience.fr\/",
+                "service_name": "Festival Double Scie"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e6d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nEn prévision de deux événements qui nous mobilisent depuis quelques semaines, vous trouverez deux nouvelles chaînes associées afin d’échanger plus facilement sur le sujet.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C057A1RH6KA"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": Le samedi "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "3 juin",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " à Jussieu, nous participerons au forum "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "BrainPlay",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", consacrée au thème « "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Jeu et Sciences Cognitives",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " », affilié à l’association "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "CogitErgo",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". À cette occasion, nous animerons un atelier sur notre projet Autispace ("
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C03UHP8UD"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ") et une conférence."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C056HUWKJ65"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": Du 3 mai au 24 juin, "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.groundcontrolparis.com\/le-lieu\/le-projet\/",
+                                        "text": "Ground Control"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " accueille une grande thématique intitulée « Science Friction », dédiée à la vulgarisation des Sciences et organisé dans le cadre du "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.festivaldoublescience.fr\/",
+                                        "text": "festival Double•Science"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". Nous interviendrons dans le cadre d’une journée spéciale « "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "consciences modifiées",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " » le dimanche "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "4 juin",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nVous y trouverez les liens pointant sur la documentation en cours.\nLes contributions sont ouvertes !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

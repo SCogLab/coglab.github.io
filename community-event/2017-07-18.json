@@ -1,0 +1,54 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "[CogLab] Réunion bureau #2: <!date^1500399000^{date_short_pretty} from {time}|Jul 18, 2017 from 7:30 PM> to <!date^1500406200^{time}|9:30 PM GMT+0200>",
+                "text": "<!date^1500399000^{date_short_pretty} from {time}|Jul 18, 2017 from 7:30 PM> to <!date^1500406200^{time}|9:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "[CogLab] Réunion bureau #2",
+                "more": "RDV mensuel du bureau chez af83 ou via Skype\n<https:\/\/join.skype.com\/hzQbgch1H6gg>\n\nView meeting on Solid : <https:\/\/solid.wisembly.com\/meetings\/lbb5128?r=meeting.calendar.link&amp;u=m114455>",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=N3ZrbmFzNjJkZHA0OWwwYWx1cmJlYzJpbm8gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1500395400.432875",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Event updated: CogLab - HackNight #47: <!date^1500917400^{date_short_pretty} from {time}|Jul 24, 2017 from 7:30 PM> to <!date^1500930000^{time}|11:00 PM GMT+0200>",
+                "text": "<!date^1500917400^{date_short_pretty} from {time}|Jul 24, 2017 from 7:30 PM> to <!date^1500930000^{time}|11:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab - HackNight #47",
+                "more": "HackNight #46\n\nOrdre du jour :\n- Prototypage Projet OpenBCIA et Google AI Voice Kit\n- Prototypage Autispace, feedback et Passeport UX\n\nLieu : \n- Skype <https:\/\/join.skype.com\/jSrxm2kHx3PU>\n- Locaux af83 avec Romain pour ceux qui veulent (merci de prévenir avant !)\n\nDocumentation\n- Projet BC[IA] <https:\/\/coglab.hackpad.com\/Projet-OpenBCIA-LNdWg4xq0P8>\n- Projet Autiscpace <https:\/\/coglab.hackpad.com\/Projet-Autispace-YfFYmWzpNhI>\n\nInteractions :\n- Slack : <https:\/\/scoglab.slack.com>\n- Communauté Facebook : <https:\/\/www.facebook.com\/groups\/coglab\/>\n- Site <http:\/\/coglab.fr\/>",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=cXNodHJjZG90NG81bnRjdm1sN2k3ZG9wOTRfMjAxNzA3MjRUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1500411668.536013",
+        "bot_id": "B4SJBP2L8"
+    }
+]

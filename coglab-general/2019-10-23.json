@@ -1,0 +1,117 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Hans Harisson",
+                "fallback": "Hans Harisson commented on Augmented Painting EEG: \"@rouffi C'est sympa mais c'est hyper technique. (cf travaux du site du designer : <http:\/\/www.gregadunn.com\/>\"",
+                "text": "@rouffi C'est sympa mais c'est hyper technique. (cf travaux du site du designer : <http:\/\/www.gregadunn.com\/>",
+                "pretext": "New comment on *<https:\/\/trello.com\/c\/6zblaUTD|Augmented Painting EEG>*",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/hansharisson1",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1571819118.000200",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Hans Harisson",
+                "fallback": "Hans Harisson commented on Augmented Painting EEG: \"J'ai rajouté deux exemples qui fonctionnent avec l'application uramado (cf. <http:\/\/www.uramado.fr>) trouvé sur l'entrée du Cube à Issy les moulineaux)\n\n<https:\/\/drive.google.com\/file\/d\/1xzdzjZ6uv7VEtSE7_rmKAmY_DOPyzT6F\/view>\n<https:\/\/drive.google.com\/file\/d\/1frfxZgp-eu5omIzb5OEVS3RKh0Qxm6E-\/view>\"",
+                "text": "J'ai rajouté deux exemples qui fonctionnent avec l'application uramado (cf. <http:\/\/www.uramado.fr>) trouvé sur l'entrée du Cube à Issy les moulineaux)\n\n<https:\/\/drive.google.com\/file\/d\/1xzdzjZ6uv7VEtSE7_rmKAmY_DOPyzT6F\/view>\n<https:\/\/drive.google.com\/file\/d\/1frfxZgp-eu5omIzb5OEVS3RKh0Qxm6E-\/view>",
+                "pretext": "New comment on *<https:\/\/trello.com\/c\/6zblaUTD|Augmented Painting EEG>*",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/hansharisson1",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1571820939.000300",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1571841854.001000",
+        "client_msg_id": "bf6bd5e6-f896-4300-bf87-476ec8c2d924",
+        "text": "La minute *Science Ouverte* repéré via l'association Hack Your PhD\n<https:\/\/ministeresuprecherche.github.io\/bso\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Baromètre français de la science ouverte",
+                "title_link": "https:\/\/ministeresuprecherche.github.io\/bso\/",
+                "text": "Mesurer de façon régulière l'évolution de l'accès ouvert en France à partir de données fiables, ouvertes et maîtrisées",
+                "fallback": "Baromètre français de la science ouverte",
+                "image_url": "https:\/\/ministeresuprecherche.github.io\/bso\/logo_fr.png",
+                "from_url": "https:\/\/ministeresuprecherche.github.io\/bso\/",
+                "image_width": 501,
+                "image_height": 250,
+                "image_bytes": 72389,
+                "service_name": "ministeresuprecherche.github.io",
+                "id": 1,
+                "original_url": "https:\/\/ministeresuprecherche.github.io\/bso\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "97+8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La minute "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Science Ouverte",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " repéré via l'association Hack Your PhD\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ministeresuprecherche.github.io\/bso\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

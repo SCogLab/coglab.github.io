@@ -1,0 +1,60 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1556725342.002500",
+        "client_msg_id": "3d78c484-65a6-480c-9352-405801fb6cbd",
+        "text": "Startup fabricant un exosquelette robotique pour les enfants atteints de troubles de la marche :  <https:\/\/trexorobotics.com>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "tréxō robotics",
+                "title": "Trexo Robotics helping children with disabilities experience walking",
+                "title_link": "https:\/\/trexorobotics.com\/",
+                "text": "Trexo Robotics builds wearable robotics to help children with disabilities and walking impairments experience over-ground walking in clinic and at home.",
+                "fallback": "tréxō robotics: Trexo Robotics helping children with disabilities experience walking",
+                "thumb_url": "https:\/\/trexorobotics.com\/wp-content\/uploads\/2018\/08\/LowRes-20.jpg",
+                "from_url": "https:\/\/trexorobotics.com\/",
+                "thumb_width": 800,
+                "thumb_height": 533,
+                "service_icon": "https:\/\/trexorobotics.com\/wp-content\/uploads\/2018\/06\/cropped-Favicon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/trexorobotics.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s2QMY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Startup fabricant un exosquelette robotique pour les enfants atteints de troubles de la marche :  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/trexorobotics.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

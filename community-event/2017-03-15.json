@@ -1,0 +1,62 @@
+[
+    {
+        "user": "U03FC4NE1",
+        "type": "message",
+        "ts": "1489619413.546627",
+        "text": "Bonjour à tous,\n\nNous avons reçu une invitation pour participer à la 4e édition de la Maker Faire Paris 2017 à la Cité des Sciences les 9, 10 et 11 juin\n\nToutes les infos sont ici : \n<http:\/\/paris.makerfaire.com\/appel-aux-makers\/>\n\n3 formats possible\n- Stand\n- Présentation\/Conférence\n- Performance\/Animation\n\nEst-ce que cela intéresse quelqu'un de proposer l'un de ces formats pour le CogLab ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ce8fbc12b73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-01-27\/3522174799_7ce8fbc12b7351a6a2b3_72.jpg",
+            "first_name": "CogLab",
+            "real_name": "CogLab NeuroTechX Paris",
+            "display_name": "coglab",
+            "team": "T03FC4NDZ",
+            "name": "coglab",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Maker Faire Paris",
+                "title": "Appel aux Makers !",
+                "title_link": "http:\/\/paris.makerfaire.com\/appel-aux-makers\/",
+                "text": "Participez à Maker Faire Paris 2017 !",
+                "fallback": "Maker Faire Paris: Appel aux Makers !",
+                "thumb_url": "http:\/\/paris.makerfaire.com\/wp-content\/uploads\/sites\/109\/2016\/06\/Makeme_Appelauxmakers_Call4Paris17.png",
+                "from_url": "http:\/\/paris.makerfaire.com\/appel-aux-makers\/",
+                "thumb_width": 2460,
+                "thumb_height": 921,
+                "service_icon": "http:\/\/paris.makerfaire.com\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8=m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour à tous,\n\nNous avons reçu une invitation pour participer à la 4e édition de la Maker Faire Paris 2017 à la Cité des Sciences les 9, 10 et 11 juin\n\nToutes les infos sont ici : \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/paris.makerfaire.com\/appel-aux-makers\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n3 formats possible\n- Stand\n- Présentation\/Conférence\n- Performance\/Animation\n\nEst-ce que cela intéresse quelqu'un de proposer l'un de ces formats pour le CogLab ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1537945606.000100",
+        "client_msg_id": "ba7d7dd8-7ab8-47fd-a0f4-e1915bc09c9b",
+        "text": "Ah yes, il fait beaucoup parlé de lui depuis quelques mois !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1537882674.000100",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6eL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah yes, il fait beaucoup parlé de lui depuis quelques mois !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1537990337.000100",
+        "client_msg_id": "aa260bbf-2ec5-41fd-ad53-8fcd8a6a9def",
+        "text": "Un Occulus GO haut de gamme orienté vr gaming : <https:\/\/www.oculus.com\/blog\/introducing-oculus-quest-our-first-6dof-all-in-one-vr-system-launching-spring-2019\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Introducing Oculus Quest, Our First 6DOF All-in-One VR System, Launching Spring 2019",
+                "title_link": "https:\/\/www.oculus.com\/blog\/introducing-oculus-quest-our-first-6dof-all-in-one-vr-system-launching-spring-2019\/",
+                "text": "We’re excited to usher in the next era of VR gaming with the introduction of Oculus Quest, our first all-in-one VR gaming system. Oculus Quest will launch in Spring 2019 for $399 USD. Offering six degrees of freedom and Touch controllers, Oculus Quest makes it easy to jump right into the action—with no PC, no wires, and no external sensors. We have over 50 titles lined up for launch, with even more in the works including some of your favorite Rift games like Robo Recall, The Climb, and Moss.",
+                "fallback": "Introducing Oculus Quest, Our First 6DOF All-in-One VR System, Launching Spring 2019",
+                "image_url": "https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t39.2365-6\/42452598_304204920361419_6026621272782274560_n.jpg?_nc_cat=105&oh=d8ea17d8b7a1a83710fbc7637bb2db9b&oe=5C5F77DE",
+                "from_url": "https:\/\/www.oculus.com\/blog\/introducing-oculus-quest-our-first-6dof-all-in-one-vr-system-launching-spring-2019\/",
+                "image_width": 488,
+                "image_height": 250,
+                "image_bytes": 76574,
+                "service_icon": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yL\/r\/BLkhXH1YUvV.png",
+                "service_name": "oculus.com",
+                "id": 1,
+                "original_url": "https:\/\/www.oculus.com\/blog\/introducing-oculus-quest-our-first-6dof-all-in-one-vr-system-launching-spring-2019\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NYB8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un Occulus GO haut de gamme orienté vr gaming : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.oculus.com\/blog\/introducing-oculus-quest-our-first-6dof-all-in-one-vr-system-launching-spring-2019\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,270 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1560255180.000800",
+        "client_msg_id": "207df171-a252-4201-b54d-a23428806b85",
+        "text": "La fête de la Science se prépare pour la rentrée et fera la part belle à la vulgarisation scientifique au format BD <https:\/\/www.clubic.com\/mag\/sciences\/actualite-858999-demain-theme-fete-science-mele-nature-recherches-face-enjeux-futur.html>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Clubic.com",
+                "title": "\"À demain\" : la Fête de la Science mêle nature et recherches face aux enjeux du futur",
+                "title_link": "https:\/\/www.clubic.com\/mag\/sciences\/actualite-858999-demain-theme-fete-science-mele-nature-recherches-face-enjeux-futur.html",
+                "text": "En savoir plus",
+                "fallback": "Clubic.com: \"À demain\" : la Fête de la Science mêle nature et recherches face aux enjeux du futur",
+                "image_url": "https:\/\/pic.clubic.com\/v1\/images\/1719342\/raw",
+                "image_width": 665,
+                "ts": 1559998860,
+                "from_url": "https:\/\/www.clubic.com\/mag\/sciences\/actualite-858999-demain-theme-fete-science-mele-nature-recherches-face-enjeux-futur.html",
+                "image_height": 250,
+                "image_bytes": 1148431,
+                "service_icon": "https:\/\/www.clubic.com\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.clubic.com\/mag\/sciences\/actualite-858999-demain-theme-fete-science-mele-nature-recherches-face-enjeux-futur.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h2z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La fête de la Science se prépare pour la rentrée et fera la part belle à la vulgarisation scientifique au format BD "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.clubic.com\/mag\/sciences\/actualite-858999-demain-theme-fete-science-mele-nature-recherches-face-enjeux-futur.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1560262474.005400",
+        "client_msg_id": "c5786d15-4034-4fd2-bd2a-7d3dbc75d8ab",
+        "text": "Hello <!here>, petit point événementiel\n- La prochaine soirée <#C0R6W4X2Q|coglab-hacknight> aura lieu le *lundi 17 juin* à l'endroit habituel, la suivante seulement le lundi *8 juillet* !\n- Le cycle de Meetup saison 3 \"Sciences Cognitives et technologies immersives\" est terminé. Un livre blanc sera publié dans le courant de l'été résumant toutes les connaissances autour des 4 rencontres + un retour d'expérience du Laval Virtual 2019.\n- La prochaine saison de Meetup \"Sciences Cognitives et Fictions\" portera sur le Design Fiction, Sciences Fiction et Art-Science.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BlfG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", petit point événementiel\n- La prochaine soirée "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0R6W4X2Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " aura lieu le "
+                            },
+                            {
+                                "type": "text",
+                                "text": "lundi 17 juin",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " à l'endroit habituel, la suivante seulement le lundi "
+                            },
+                            {
+                                "type": "text",
+                                "text": "8 juillet",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " !\n- Le cycle de Meetup saison 3 \"Sciences Cognitives et technologies immersives\" est terminé. Un livre blanc sera publié dans le courant de l'été résumant toutes les connaissances autour des 4 rencontres + un retour d'expérience du Laval Virtual 2019.\n- La prochaine saison de Meetup \"Sciences Cognitives et Fictions\" portera sur le Design Fiction, Sciences Fiction et Art-Science."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1560262600.005700",
+        "text": "\/poll \"Êtes vous intéressé.e.s par une rencontre plus informelle entre les 2 prochaines dates de HackNight ?\" \"Yes, carrément\" \"Pas pour le moment\"",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ezt0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\/poll \"Êtes vous intéressé.e.s par une rencontre plus informelle entre les 2 prochaines dates de HackNight ?\" \"Yes, carrément\" \"Pas pour le moment\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Open Slack to cast your vote in this Simple Poll",
+                "title": "Êtes vous intéressé.e.s par une rencontre plus informelle entre les 2 prochaines dates de HackNight ?",
+                "id": 1,
+                "color": "6ecadc",
+                "fields": [
+                    {
+                        "title": "",
+                        "value": ":one: Yes, carrément    `3`\n<@U59MQ46DA>, <@U0FB4KME0>, <@UK401J8BY>\n\n",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": ":two: Pas pour le moment\n\n\n",
+                        "short": false
+                    }
+                ],
+                "mrkdwn_in": [
+                    "fields"
+                ]
+            },
+            {
+                "callback_id": "5fe0018f-0929-480d-8f24-debef37ad88b",
+                "fallback": "Open Slack to cast your vote in this Simple Poll",
+                "id": 2,
+                "color": "6ecadc",
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "vote",
+                        "text": ":one:",
+                        "type": "button",
+                        "value": "1",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "vote",
+                        "text": ":two:",
+                        "type": "button",
+                        "value": "2",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "delete-v2",
+                        "text": "Delete Poll",
+                        "type": "button",
+                        "value": "",
+                        "style": "danger",
+                        "confirm": {
+                            "text": "Are you sure you want to delete the Poll?",
+                            "title": "Delete Poll?",
+                            "ok_text": "Yes",
+                            "dismiss_text": "No"
+                        }
+                    }
+                ]
+            },
+            {
+                "callback_id": "5fe0018f-0929-480d-8f24-debef37ad88b",
+                "fallback": "Open Slack to cast your vote in this Simple Poll",
+                "footer": "Simple Poll        <https:\/\/simplepoll.rocks\/dashboard\/scoglab\/settings\/|Edit Settings>",
+                "id": 3,
+                "footer_icon": "https:\/\/simplepoll.rocks\/static\/main\/favicon.png",
+                "color": "6ecadc"
+            }
+        ],
+        "type": "message",
+        "ts": "1560262600.005800",
+        "bot_id": "B4TCCRD6Z",
+        "thread_ts": "1560262600.005800",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1560887675.005300",
+        "reply_users": [
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1560804325.004800"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1560887675.005300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

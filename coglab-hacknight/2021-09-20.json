@@ -1,0 +1,178 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1632141669.003100",
+        "client_msg_id": "332343a1-c7c9-4e82-a6a5-ee6c16e176b2",
+        "text": "Bonjour à tout.e.s <!here>,\n\n*Avis aux participant.e.s de notre HackNight de ce soir (n°207) !*\n\nUn message pour vous informer que je ne serais pas en mesure d'assurer notre permanence hebdomadaire, étant malade.\nVotre *hôte principal sera donc <@U59MQ46DA>*, vice-président de l’association et responsable de NeuroTechX EU.\nHans sera en mesure de vous accueillir et répondre à toutes vos questions.\n\nJ'en profite pour rappeler que :\n• votre pass sanitaire vous sera demandé à l'accueil\n• le *port du masque* est obligatoire dans l’établissement, y compris dans le MakerLab\n• pour la partie conviviale, merci de vous restaurer dans le Hall principal (boisson et repas sont prohibées dans le MakerLab)\n• veuillez respecter le lieu, le matériel et la tranquillité d'autres personnes susceptibles de travailler dans le MakerLab\nLe détail de la soirée et des HackNight reste à votre disposition sur la page de l'événement : <https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/280725372\/>\n\nEn vous souhaitant une bonne HackNight et restant à disposition par écrit uniquement.\n\nRomain,\nPrésident de l'association CogLab, NeuroTechX Paris",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "Meetup: HackNight NeuroTechX Paris N°207",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/c\/e\/f\/8\/600_498772984.jpeg",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 42984,
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/280725372\/",
+                "service_name": "Meetup",
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/en-US\/m_swarm_120x120.4f86abc9.png",
+                "title": "HackNight NeuroTechX Paris N°207",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/280725372\/",
+                "text": "lun. 20 sept. 2021 à 18:30: (English version available below)Notes importante aux personnes nous rejoignant au CRI* NOUVEAU Le pass sanitaire est obligatoire et vous sera demandé à l'accueil.* Le port",
+                "fields": [
+                    {
+                        "title": "Où",
+                        "value": "Centre de Recherche Interdisciplinaire (CRI) 8 bis Rue Charles V Paris",
+                        "short": true
+                    },
+                    {
+                        "title": "Quand",
+                        "value": "lun. 20 sept. 2021 à 18:30",
+                        "short": true
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/280725372\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qY5n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour à tout.e.s "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Avis aux participant.e.s de notre HackNight de ce soir (n°207) !",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nUn message pour vous informer que je ne serais pas en mesure d'assurer notre permanence hebdomadaire, étant malade.\nVotre "
+                            },
+                            {
+                                "type": "text",
+                                "text": "hôte principal sera donc ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", vice-président de l’association et responsable de NeuroTechX EU.\nHans sera en mesure de vous accueillir et répondre à toutes vos questions.\n\nJ'en profite pour rappeler que :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "votre pass sanitaire vous sera demandé à l'accueil"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "le "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "port du masque",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " est obligatoire dans l’établissement, y compris dans le MakerLab"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "pour la partie conviviale, merci de vous restaurer dans le Hall principal (boisson et repas sont prohibées dans le MakerLab)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "veuillez respecter le lieu, le matériel et la tranquillité d'autres personnes susceptibles de travailler dans le MakerLab"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nLe détail de la soirée et des HackNight reste à votre disposition sur la page de l'événement : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/280725372\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nEn vous souhaitant une bonne HackNight et restant à disposition par écrit uniquement.\n\nRomain,\nPrésident de l'association CogLab, NeuroTechX Paris"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

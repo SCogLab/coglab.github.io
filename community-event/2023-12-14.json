@@ -1,0 +1,50 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1702546387.482309",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1702546399.000000"
+        },
+        "client_msg_id": "9e3753b5-dc5e-4090-a14e-0ee06eaceaf5",
+        "text": "<@U03FC5ZAK> Je n'arrive pas à savoir sur leur site si on peut y assister (on dirait que c'est des entretiens non ouverts au public ?)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702460164.633939",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ebQqY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Je n'arrive pas à savoir sur leur site si on peut y assister (on dirait que c'est des entretiens non ouverts au public ?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

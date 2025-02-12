@@ -1,0 +1,67 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1432840508.000002",
+        "text": "Another epilepsy project for <@U03JDJWSR> thx <@U04T6ATLX> for the info :)\n<http:\/\/www.neuropro.ch\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "text": "neuropro, epilepsy, eeg, brain",
+                "fallback": "neuropro, epilepsy, eeg, brain",
+                "from_url": "http:\/\/www.neuropro.ch\/",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MXmW2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Another epilepsy project for "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03JDJWSR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thx "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04T6ATLX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for the info :)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.neuropro.ch\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "user": "U0FB4KME0",
+        "type": "message",
+        "ts": "1546035869.000600",
+        "client_msg_id": "8c5c7756-fcb4-43b5-aea3-fa63f416a3e1",
+        "text": "\"jouets\" à acheter ici: <https:\/\/www.amazon.fr\/Science-Trainer-Brain-Sensing-Hologram-Electronic\/dp\/B00X5CCDYQ\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g1199c476c54",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/11199c476c54600d8571a80f70737cbd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "",
+            "real_name": "paul",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "paul",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LOs3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"jouets\" à acheter ici: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.fr\/Science-Trainer-Brain-Sensing-Hologram-Electronic\/dp\/B00X5CCDYQ\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "<!here> github",
+        "files": [
+            {
+                "id": "FF4NQF42J",
+                "created": 1546042136,
+                "timestamp": 1546042136,
+                "name": "kitschpatrol-BrainGrapher-v1.0-6-g31cc148.zip",
+                "title": "kitschpatrol-BrainGrapher-v1.0-6-g31cc148.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U0FB4KME0",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 307037,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FF4NQF42J\/kitschpatrol-braingrapher-v1.0-6-g31cc148.zip?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FF4NQF42J\/download\/kitschpatrol-braingrapher-v1.0-6-g31cc148.zip?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U0FB4KME0\/FF4NQF42J\/kitschpatrol-braingrapher-v1.0-6-g31cc148.zip",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-FF4NQF42J-9fecf83777",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U0FB4KME0",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rdYy1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " github"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1546042137.000800"
+    }
+]

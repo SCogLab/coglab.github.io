@@ -1,0 +1,63 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1573818629.000200",
+        "client_msg_id": "c22098bc-d08f-4d4b-87b9-0c424333858d",
+        "text": "<https:\/\/www.mikroe.com\/eeg-click>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "MikroElektronika",
+                "title": "EEG Click | Mikroe",
+                "title_link": "https:\/\/www.mikroe.com\/eeg-click",
+                "text": "EEG Click is a Click board™ allows monitoring of brain activity It is quite sufficient to allow some insight into brain MIKROE-3359 INA114 Texas Instruments",
+                "fallback": "MikroElektronika: EEG Click | Mikroe",
+                "thumb_url": "https:\/\/cdn1-shop.mikroe.com\/img\/product\/eeg-click\/eeg-click-thickbox_default-1.jpg?v=100",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "$39.00",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.mikroe.com\/eeg-click",
+                "thumb_width": 800,
+                "thumb_height": 800,
+                "service_icon": "https:\/\/www.mikroe.com\/img\/favicons\/mikroe-site-icon-64x64.png",
+                "id": 1,
+                "original_url": "https:\/\/www.mikroe.com\/eeg-click"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oZr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.mikroe.com\/eeg-click"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1563540998.000600",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1563541005.000000"
+        },
+        "client_msg_id": "5f24a9a5-8f2b-4d1c-8b46-78b51ca0534d",
+        "text": "Le projet Autism Glass de la branche médecine de Stanford : <http:\/\/autismglass.stanford.edu>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Autism Glass Project",
+                "title_link": "http:\/\/autismglass.stanford.edu\/",
+                "text": "Autism Glass Project webpage",
+                "fallback": "Autism Glass Project",
+                "from_url": "http:\/\/autismglass.stanford.edu\/",
+                "service_icon": "http:\/\/wall-lab.stanford.edu\/assets\/images\/icons\/favicon.ico",
+                "service_name": "autismglass.stanford.edu",
+                "id": 1,
+                "original_url": "http:\/\/autismglass.stanford.edu"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/B3w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le projet Autism Glass de la branche médecine de Stanford : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/autismglass.stanford.edu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1563541300.001500",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1563541528.000000"
+        },
+        "client_msg_id": "32dd9989-f1b3-497b-ae8f-2483c27b5abc",
+        "text": "Startup basée à Cambridge BrainPower couvrant l’ADHD et l’autisme : <https:\/\/www.brain-power.com>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "BRAIN POWER",
+                "title": "Brain Power",
+                "title_link": "https:\/\/www.brain-power.com\/",
+                "text": "Computerized glasses to coach students with autism, ADHD, and other brain-related challenges. Empower Every Brain!",
+                "fallback": "BRAIN POWER: Brain Power",
+                "thumb_url": "https:\/\/www.brain-power.com\/wp-content\/uploads\/Brain_Power_overview_03-600x315.jpg",
+                "from_url": "https:\/\/www.brain-power.com\/",
+                "thumb_width": 600,
+                "thumb_height": 315,
+                "service_icon": "http:\/\/www.brain-power.com\/wp-content\/uploads\/2017\/06\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.brain-power.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RJ=y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Startup basée à Cambridge BrainPower couvrant l’ADHD et l’autisme : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.brain-power.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

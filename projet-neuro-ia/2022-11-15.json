@@ -1,0 +1,87 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1668515010.171889",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1668515088.000000"
+        },
+        "client_msg_id": "64277932-6565-48b6-afcc-e711e69b40d3",
+        "text": "[Youtube] Vidéo d'Applied Brain Research sur leur outil Neural Engineering Framework (NEF) reposant sur <http:\/\/www.pynq.io\/|PYNQ> pour des boards fpga <https:\/\/www.tulembedded.com\/FPGA\/ProductsPYNQ-Z2.html|ZYNQ> de XiIlinx : <https:\/\/www.youtube.com\/watch?v=dj8Wlk4h1-Y>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=dj8Wlk4h1-Y",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/dj8Wlk4h1-Y\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/dj8Wlk4h1-Y?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"NEF on PYNQ FPT18 Talk\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=dj8Wlk4h1-Y",
+                "fallback": "YouTube Video: NEF on PYNQ FPT18 Talk",
+                "title": "NEF on PYNQ FPT18 Talk",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=dj8Wlk4h1-Y",
+                "author_name": "Applied Brain Research",
+                "author_link": "https:\/\/www.youtube.com\/c\/AppliedBrainResearch",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XtZSA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[Youtube] Vidéo d'Applied Brain Research sur leur outil Neural Engineering Framework (NEF) reposant sur "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.pynq.io\/",
+                                "text": "PYNQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour des boards fpga "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.tulembedded.com\/FPGA\/ProductsPYNQ-Z2.html",
+                                "text": "ZYNQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " de XiIlinx : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=dj8Wlk4h1-Y"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

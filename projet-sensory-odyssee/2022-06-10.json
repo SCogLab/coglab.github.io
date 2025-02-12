@@ -1,0 +1,50 @@
+[
+    {
+        "user": "U03CMPK03K8",
+        "type": "message",
+        "ts": "1654862708.990399",
+        "client_msg_id": "f534cee4-4cda-4e76-a95f-279fb46fc26c",
+        "text": "Hello, j'ai déposé les timestamps ds session 4 et 5",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gf3d80ee195b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f3d80ee195b6a4739fa89cc738c89dc9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Olivier",
+            "real_name": "Olivier Mével",
+            "display_name": "Olivier Mével",
+            "team": "T03FC4NDZ",
+            "name": "olivier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q2R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, j'ai déposé les timestamps ds session 4 et 5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA",
+                    "U01S8PWA7GU"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card XR Biosense added to list EN COURS (in progress) on board Gestion CogLab (administrateur).",
+                "text": "In list *EN COURS (in progress)* on *<https:\/\/trello.com\/b\/jSnI3dXM|Gestion CogLab (administrateur)>*.",
+                "pretext": "New card created",
+                "title": "XR Biosense",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/QG19qO4P",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "https:\/\/trello-members.s3.amazonaws.com\/50080b67614e7d5e0528a0d3\/8702436e6aff83ed056cbc687384d49f\/30.png",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1624093281.004600",
+        "bot_id": "B66HQV2AW"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Hans Harisson",
+                "fallback": "Hans Harisson Archived the card The Brainstorms Festival 2021 x NeuroTechX.",
+                "text": "Archived the card *<https:\/\/trello.com\/c\/cYFHWMWY|The Brainstorms Festival 2021 x NeuroTechX>*.",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/hansharisson1",
+                "author_icon": "https:\/\/trello-members.s3.amazonaws.com\/5932ca0090ff177f1e3be0a0\/640c09a4737f77de129e4fd859d7335e\/30.png",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1624098574.004700",
+        "bot_id": "B66HQV2AW"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "Romain ROUYER Unarchived the card The Brainstorms Festival 2021 x NeuroTechX.",
+                "text": "Unarchived the card *<https:\/\/trello.com\/c\/cYFHWMWY|The Brainstorms Festival 2021 x NeuroTechX>*.",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "https:\/\/trello-members.s3.amazonaws.com\/50080b67614e7d5e0528a0d3\/8702436e6aff83ed056cbc687384d49f\/30.png",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1624106840.004800",
+        "bot_id": "B66HQV2AW"
+    }
+]

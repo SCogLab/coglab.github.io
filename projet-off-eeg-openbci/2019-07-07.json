@@ -1,0 +1,55 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1562531893.000800",
+        "client_msg_id": "485fbb10-7070-4dc2-abad-cfb759bab7fe",
+        "text": "_Info_ Création du channel <#CL6EXG9EY|projet-bci-voyager> pour le projet de cet été et faciliter la collaboration avec toutes les parties prenantes",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pir",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Info",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Création du channel "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CL6EXG9EY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour le projet de cet été et faciliter la collaboration avec toutes les parties prenantes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

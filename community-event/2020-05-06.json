@@ -1,0 +1,81 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1588780469.024300",
+        "client_msg_id": "51af82c3-4c9e-4afd-b5ba-69b2b64ed3b8",
+        "text": ":warning: <!here> L’agenda de l’association est passé sur <#C012Y8AA8PM|coglab-agenda> suite à la réorganisation du Slack comme annoncé sur <#C03FC4NE9|coglab-general> il y a quelques jours\n\nCette chaine est dédiée à une ‘curation’ d’événement extérieur.\nN’hésitez pas à faire un tour sur les autres chaines qui pourraient vous intéresser :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ne5bU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "warning",
+                                "unicode": "26a0-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " L’agenda de l’association est passé sur "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C012Y8AA8PM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " suite à la réorganisation du Slack comme annoncé sur "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03FC4NE9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " il y a quelques jours\n\nCette chaine est dédiée à une ‘curation’ d’événement extérieur.\nN’hésitez pas à faire un tour sur les autres chaines qui pourraient vous intéresser "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0135J8BS85",
+        "text": "<@U0135J8BS85> a rejoint le canal",
+        "type": "message",
+        "ts": "1588831127.024500"
+    }
+]

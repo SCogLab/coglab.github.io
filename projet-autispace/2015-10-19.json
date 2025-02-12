@@ -1,0 +1,96 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1445256430.000002",
+        "text": "Hello,\nPetit point d'avancement sur le projet TransmédiaBrain\n\n<@U0AR01SPQ>: je pense qu'on peux valider le jeudi 29 concernant la rencontre\/réunion avec Altotoc suite au Doodle :simple_smile:\n<http:\/\/doodle.com\/poll\/t8isrhz7vvx62ccy>\n\n<!channel>: on a avancé avec <@U03FEH3N8> sur le scénario de l'histoire vendredi \nJ'ai MAJ le hackpad et il nous reste à \"numériser\" des dessins\/shémas pour vous les partager\n<https:\/\/coglab.hackpad.com\/TransmdiaBrain-T1-Autisme-Js3EFfAyYRt>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Rencontre CogLab \/ Altotoc - Doodle: easy scheduling",
+                "title_link": "http:\/\/doodle.com\/poll\/t8isrhz7vvx62ccy",
+                "text": "Discussions \/ axes d'aide à l'équipe du projet Altotoc: équiper les personnes souffrant de TOC d'outils technologiques de manière à améliorer leur qualité de vie.",
+                "fallback": "Rencontre CogLab \/ Altotoc - Doodle: easy scheduling",
+                "from_url": "http:\/\/doodle.com\/poll\/t8isrhz7vvx62ccy",
+                "thumb_url": "http:\/\/doodle.com\/graphics\/static\/facebookSharingThumbnail.jpg",
+                "thumb_width": 100,
+                "thumb_height": 100,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oDcmI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello,\nPetit point d'avancement sur le projet TransmédiaBrain\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0AR01SPQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": je pense qu'on peux valider le jeudi 29 concernant la rencontre\/réunion avec Altotoc suite au Doodle "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/doodle.com\/poll\/t8isrhz7vvx62ccy"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": on a avancé avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sur le scénario de l'histoire vendredi \nJ'ai MAJ le hackpad et il nous reste à \"numériser\" des dessins\/shémas pour vous les partager\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.hackpad.com\/TransmdiaBrain-T1-Autisme-Js3EFfAyYRt"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

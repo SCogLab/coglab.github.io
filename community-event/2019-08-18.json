@@ -1,0 +1,71 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CogLab HackNight #117: <!date^1566235800^{date_short_pretty} from {time}|August 19th, 2019 from 7:30 PM> to <!date^1566250200^{time}|11:30 PM GMT+0200>",
+                "text": "<!date^1566235800^{date_short_pretty} from {time}|August 19th, 2019 from 7:30 PM> to <!date^1566250200^{time}|11:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab HackNight #117",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MWwyNDY2azk3cGVoMHY4NTVlb2RnOGhlOG5fMjAxOTA4MTlUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1566134049.000100",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event title updated: CogLab HackNight #118: <!date^1566840600^{date_short_pretty} from {time}|August 26th, 2019 from 7:30 PM> to <!date^1566855000^{time}|11:30 PM GMT+0200>",
+                "text": "<!date^1566840600^{date_short_pretty} from {time}|August 26th, 2019 from 7:30 PM> to <!date^1566855000^{time}|11:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Calendar event title updated",
+                "title": "CogLab HackNight #118",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MWwyNDY2azk3cGVoMHY4NTVlb2RnOGhlOG5fMjAxOTA4MjZUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1566134049.000200",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: Rencontre Julien \/  Imprudence: <!date^1566316800^{date_short_pretty} from {time}|August 20th, 2019 from 6:00 PM> to <!date^1566322200^{time}|7:30 PM GMT+0200>",
+                "text": "<!date^1566316800^{date_short_pretty} from {time}|August 20th, 2019 from 6:00 PM> to <!date^1566322200^{time}|7:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Paris%2C+France|Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "Rencontre Julien \/  Imprudence",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NDcyc2NwMzFnc3Q2bWZvM3U2bnI1MG43ZjEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1566134651.000300",
+        "bot_id": "B4SJBP2L8"
+    }
+]

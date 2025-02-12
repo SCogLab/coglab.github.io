@@ -1,0 +1,222 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1547060855.000400",
+        "client_msg_id": "23130687-e250-40e2-8858-3a9c2dabfdec",
+        "text": "<https:\/\/www.meetup.com\/fr-FR\/Fab-Living-Lab-Meetup\/events\/257924621\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Rencontre autour de la robotique ouvert à tou·te·s les amateur·trice·s",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/Fab-Living-Lab-Meetup\/events\/257924621\/",
+                "text": "sam. 19 janv. 2019 à 14:00: Rendez-vous autour de la robotique appelé « Samedi robots »samedi 19 janvier 2019De 14h00 à 18h00Accès libre et gratuitCe rendez-vous est né d’un constat : de nombreuses pe",
+                "fallback": "Meetup: Rencontre autour de la robotique ouvert à tou·te·s les amateur·trice·s",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/a\/d\/6\/8\/600_474944392.jpeg",
+                "fields": [
+                    {
+                        "title": "Où",
+                        "value": "Cité des sciences ( LivingLab du Carrefour numerique²) 30 Avenue Corentin Cariou, 75019 Paris",
+                        "short": true
+                    },
+                    {
+                        "title": "Quand",
+                        "value": "sam. 19 janv. 2019 à 14:00",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/Fab-Living-Lab-Meetup\/events\/257924621\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 27860,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/fr-FR\/m_swarm_120x120.4f86abc9.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/Fab-Living-Lab-Meetup\/events\/257924621\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uIK1I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/Fab-Living-Lab-Meetup\/events\/257924621\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1547061288.004800",
+        "client_msg_id": "3b27e7ac-ec65-465a-ada0-835911251710",
+        "text": "Coucou <!channel> pour la hacknight N°99 de lundi prochain, je vous propose de partager un moment autour d'une *Galette des roi* --&gt; HackNight :crown::first_quarter_moon_with_face: :slightly_smiling_face:\n\nJ'apporterai une galette, et je vous invite à apporter des petites choses à grignoter avant. N'hésitez pas à vous manifester pour prévoir le nombre de part !\n\nOn en profitera pour évoquer ce que l'on fait de spécial pour la HackNight N°100 :astonished::champagne:\n\nRéagit avec :white_check_mark: si tu viens ou :x: si tu as un empêchement :point_down:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547061288.004800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1547471699.000100",
+        "reply_users": [
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1547471699.000100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ilA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coucou "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour la hacknight N°99 de lundi prochain, je vous propose de partager un moment autour d'une "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Galette des roi",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " --> HackNight "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "crown",
+                                "unicode": "1f451"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "first_quarter_moon_with_face",
+                                "unicode": "1f31b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nJ'apporterai une galette, et je vous invite à apporter des petites choses à grignoter avant. N'hésitez pas à vous manifester pour prévoir le nombre de part !\n\nOn en profitera pour évoquer ce que l'on fait de spécial pour la HackNight N°100 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "astonished",
+                                "unicode": "1f632"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "champagne",
+                                "unicode": "1f37e"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nRéagit avec "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark",
+                                "unicode": "2705"
+                            },
+                            {
+                                "type": "text",
+                                "text": " si tu viens ou "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "x",
+                                "unicode": "274c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " si tu as un empêchement "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_down",
+                                "unicode": "1f447"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03FC5ZAK",
+                    "U59MQ46DA",
+                    "U03FEH3N8",
+                    "U0FB4KME0"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

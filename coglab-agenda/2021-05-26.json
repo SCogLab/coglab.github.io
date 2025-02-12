@@ -1,0 +1,25 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event updated: CA CogLab 2021.2: <!date^1622829600^{date_short_pretty} from {time}|June 4th, 2021 from 8:00 PM> to <!date^1622835000^{time}|9:30 PM GMT+0200>",
+                "text": "<!date^1622829600^{date_short_pretty} from {time}|June 4th, 2021 from 8:00 PM> to <!date^1622835000^{time}|9:30 PM GMT+0200>",
+                "pretext": "Calendar event updated",
+                "title": "CA CogLab 2021.2",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MWkyaDlpY2kxN2lhZDFjMGIwdHNzYzdnZ3Ugc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1622058014.001000",
+        "bot_id": "B4SJBP2L8"
+    }
+]

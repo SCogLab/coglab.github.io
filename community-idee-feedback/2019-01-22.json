@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U0FB4KME0",
+        "type": "message",
+        "ts": "1548191364.000300",
+        "client_msg_id": "78553804-3dd5-45f8-b104-e82d39a54c73",
+        "text": "Est ce celui là: <https:\/\/www.fondation-maif.fr\/pageArticle.php?rub=10&amp;id=972&amp;archive=0>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g1199c476c54",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/11199c476c54600d8571a80f70737cbd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "",
+            "real_name": "paul",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "paul",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1548191364.000300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1548275247.000300",
+        "reply_users": [
+            "U03FC5ZAK",
+            "U0FB4KME0"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1548263443.000100"
+            },
+            {
+                "user": "U0FB4KME0",
+                "ts": "1548275247.000300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "service_name": "Fondation MAIF",
+                "title": "Morphée n’est pas encore connecté",
+                "title_link": "https:\/\/www.fondation-maif.fr\/pageArticle.php?rub=10&id=972&archive=0",
+                "text": "La promesse des objets connectés de nous ouvrir les bras de Morphée est-elle vraiment tenue ?",
+                "fallback": "Fondation MAIF: Morphée n’est pas encore connecté",
+                "image_url": "https:\/\/www.fondation-maif.fr\/up\/actualites\/972\/Sommeilconnecte2.jpg",
+                "image_width": 478,
+                "image_height": 250,
+                "from_url": "https:\/\/www.fondation-maif.fr\/pageArticle.php?rub=10&id=972&archive=0",
+                "image_bytes": 211869,
+                "service_icon": "https:\/\/www.fondation-maif.fr\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.fondation-maif.fr\/pageArticle.php?rub=10&amp;id=972&amp;archive=0"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0vL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Est ce celui là: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.fondation-maif.fr\/pageArticle.php?rub=10&amp;id=972&amp;archive=0",
+                                "text": "https:\/\/www.fondation-maif.fr\/pageArticle.php?rub=10&id=972&archive=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

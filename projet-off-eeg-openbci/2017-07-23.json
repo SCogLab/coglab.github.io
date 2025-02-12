@@ -1,0 +1,228 @@
+[
+    {
+        "user": "U0K8Z7286",
+        "type": "message",
+        "ts": "1500811328.835989",
+        "text": "C’est chiant mais possible",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g4da453c07aa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/44da453c07aa481bb642769e3f96b132.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "philippe",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "philippe",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1500811328.835989",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1500836991.807044",
+        "reply_users": [
+            "U03FC5ZAK",
+            "U0K8Z7286"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1500836228.744473"
+            },
+            {
+                "user": "U0K8Z7286",
+                "ts": "1500836928.801982"
+            },
+            {
+                "user": "U0K8Z7286",
+                "ts": "1500836968.805204"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1500836991.807044"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IM7Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C’est chiant mais possible"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1500836228.744473",
+        "text": "En émulant MacOS sur Windows ou tu as déjà fait en natif ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1500811328.835989",
+        "parent_user_id": "U0K8Z7286",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U6t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En émulant MacOS sur Windows ou tu as déjà fait en natif ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0K8Z7286",
+        "type": "message",
+        "ts": "1500836928.801982",
+        "text": "En compilant seulement le code et les dépendances essentielles.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g4da453c07aa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/44da453c07aa481bb642769e3f96b132.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "philippe",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "philippe",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1500811328.835989",
+        "parent_user_id": "U0K8Z7286",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Wj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En compilant seulement le code et les dépendances essentielles."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0K8Z7286",
+        "type": "message",
+        "ts": "1500836968.805204",
+        "text": "Oui sinon tu fais une VM linux. Ou un docker !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g4da453c07aa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/44da453c07aa481bb642769e3f96b132.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "philippe",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "philippe",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1500811328.835989",
+        "parent_user_id": "U0K8Z7286",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3y\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui sinon tu fais une VM linux. Ou un docker !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1500836991.807044",
+        "text": "Ok, thx pour le feedback ! :wink:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1500811328.835989",
+        "parent_user_id": "U0K8Z7286",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VmD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok, thx pour le feedback ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

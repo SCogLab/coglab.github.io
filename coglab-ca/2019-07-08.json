@@ -1,0 +1,89 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1562618627.000500",
+        "client_msg_id": "7be2df9e-218a-421e-ac54-06d9e24231ce",
+        "text": "*Information de <http:\/\/makerfairefrance.com|makerfairefrance.com>*\n\nChers makers,\n\nChaque année, vous êtes de plus en plus nombreux à proposer vos projets lors des Maker Faires et nous tenons particulièrement à vous remercier pour votre enthousiasme et votre confiance !\n\nCe petit mail, pour vous informer qu’à ce stade, nous finalisons l’implantation de Maker Faire Paris 2019 et que je vous promets une réponse concernant votre candidature, au plus tard avant le 21 Juillet.\n\nD’ici là, Camille et moi-même restons à votre entière disposition.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Jd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Information de ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/makerfairefrance.com",
+                                "text": "makerfairefrance.com",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nChers makers,\n\nChaque année, vous êtes de plus en plus nombreux à proposer vos projets lors des Maker Faires et nous tenons particulièrement à vous remercier pour votre enthousiasme et votre confiance !\n\nCe petit mail, pour vous informer qu’à ce stade, nous finalisons l’implantation de Maker Faire Paris 2019 et que je vous promets une réponse concernant votre candidature, au plus tard avant le 21 Juillet.\n\nD’ici là, Camille et moi-même restons à votre entière disposition."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FEH3N8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card Open Law added to list Prospect on board Gestion CogLab (administrateur).",
+                "text": "In list *Prospect* on *<https:\/\/trello.com\/b\/jSnI3dXM|Gestion CogLab (administrateur)>*.",
+                "pretext": "New card created",
+                "title": "Open Law",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/85uc0uVw",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1562623801.000100",
+        "bot_id": "B66HQV43C"
+    }
+]

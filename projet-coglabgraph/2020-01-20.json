@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1579550026.000400",
+        "client_msg_id": "4ea8607f-b151-4cd7-bd0e-9c39df15e289",
+        "text": "(via Hughes) : <https:\/\/roamresearch.com>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Roam Research",
+                "title": "Roam Research – A note taking tool for networked thought.",
+                "title_link": "https:\/\/roamresearch.com\/",
+                "text": "As easy to use as a word document or bulleted list, and as powerful for finding, collecting, and connecting related ideas as a graph database. Collaborate with others in real time, or store all your data locally.",
+                "fallback": "Roam Research: Roam Research – A note taking tool for networked thought.",
+                "image_url": "https:\/\/roamresearch.com\/assets\/astro.png",
+                "from_url": "https:\/\/roamresearch.com\/",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 32439,
+                "service_icon": "https:\/\/roamresearch.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/roamresearch.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9OCmZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(via Hughes) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/roamresearch.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

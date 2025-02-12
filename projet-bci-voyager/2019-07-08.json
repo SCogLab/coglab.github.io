@@ -1,0 +1,90 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U6N3TJ0QM",
+        "text": "<@U6N3TJ0QM> a rejoint le canal",
+        "type": "message",
+        "ts": "1562571348.000200"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1562614870.002100",
+        "client_msg_id": "aa2a8183-8416-485c-9e20-6069cbc17848",
+        "text": "coucou <!here>,\n\nj’ai enfin ajouté toutes mes notes de la *rencontre du 27 juin* dans le doc !\n\nil me reste à synthétiser le tout — en anglais — dans la partie *Demonstrator V2*, en incluant tes feedbacks Roselyne pour alimenter les étudiants\n\n<https:\/\/docs.google.com\/document\/d\/1aEvSJXRzzPu-5x6XPU2g9OriXQjIvOjTuVM_rA8wtPY\/edit#>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4omE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "coucou "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\n\nj’ai enfin ajouté toutes mes notes de la "
+                            },
+                            {
+                                "type": "text",
+                                "text": "rencontre du 27 juin",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " dans le doc !\n\nil me reste à synthétiser le tout — en anglais — dans la partie "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Demonstrator V2",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", en incluant tes feedbacks Roselyne pour alimenter les étudiants\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1aEvSJXRzzPu-5x6XPU2g9OriXQjIvOjTuVM_rA8wtPY\/edit#"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FEH3N8"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

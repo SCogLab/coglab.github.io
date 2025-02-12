@@ -1,0 +1,157 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U03FC5ZAK",
+        "text": "<@U03FC5ZAK> a rejoint le canal",
+        "type": "message",
+        "ts": "1453363542.000002"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC5ZAK",
+        "purpose": "Parlons de réalité augmentée et virtuelle, matériel, événement et projet !",
+        "text": "a défini la description du canal : Parlons de réalité augmentée et virtuelle, matériel, événement et projet !",
+        "type": "message",
+        "ts": "1453363542.000003"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03HY4P8V",
+        "text": "<@U03HY4P8V> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1453363542.000004"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FC4NE1",
+        "text": "<@U03FC4NE1> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1453363543.000005"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1453363580.000006",
+        "text": "Un projet de Neurofeedback + VR cc <@U03HY4P8V> \n<https:\/\/www.kickstarter.com\/projects\/myndgazer\/myndgazer-worlds-first-neurofeedback-in-virtual-re>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Kickstarter",
+                "title": "MyndGazer - World's First Neurofeedback In Virtual Reality",
+                "title_link": "https:\/\/www.kickstarter.com\/projects\/myndgazer\/myndgazer-worlds-first-neurofeedback-in-virtual-re",
+                "text": "MyndGazer is a brain-computer interface platform that renders the users brain waves in real time as a Virtual Reality 3D visualization.",
+                "fallback": "Kickstarter: MyndGazer - World's First Neurofeedback In Virtual Reality",
+                "image_url": "https:\/\/ksr-ugc.imgix.net\/projects\/1479643\/photo-original.jpg?v=1427504689&w=1536&h=1152&fit=crop&auto=format&q=92&s=3cf73a96ebf6fd6e544ab8833296a12e",
+                "image_width": 333,
+                "image_height": 250,
+                "from_url": "https:\/\/www.kickstarter.com\/projects\/myndgazer\/myndgazer-worlds-first-neurofeedback-in-virtual-re",
+                "image_bytes": 376680,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AKNh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un projet de Neurofeedback + VR cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03HY4P8V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kickstarter.com\/projects\/myndgazer\/myndgazer-worlds-first-neurofeedback-in-virtual-re"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U07CFCCBG",
+        "text": "<@U07CFCCBG> a rejoint le canal",
+        "type": "message",
+        "ts": "1453372246.000008"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1453381926.000009",
+        "text": "<http:\/\/www.journaldugeek.com\/2016\/01\/21\/facebook-ouvre-un-centre-de-recherches-oculus-a-pittsburgh\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Le Journal du Geek",
+                "title": "Facebook ouvre un centre de recherches Oculus à Pittsburgh",
+                "title_link": "http:\/\/www.journaldugeek.com\/2016\/01\/21\/facebook-ouvre-un-centre-de-recherches-oculus-a-pittsburgh\/",
+                "text": "Oculus VR, qui appartient à Facebook, va continuer à évoluer avec le temps. Une évolution logique, puisque le premier produit de la firme va arriver sur le marché à partir de mars prochain, lançant Oculus dans le grand bain.",
+                "fallback": "Le Journal du Geek: Facebook ouvre un centre de recherches Oculus à Pittsburgh",
+                "image_url": "http:\/\/www.journaldugeek.com\/wp-content\/blogs.dir\/1\/files\/2016\/01\/pinguins.jpg",
+                "image_width": 364,
+                "image_height": 250,
+                "ts": 1453374077,
+                "from_url": "http:\/\/www.journaldugeek.com\/2016\/01\/21\/facebook-ouvre-un-centre-de-recherches-oculus-a-pittsburgh\/",
+                "image_bytes": 61343,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5rui",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.journaldugeek.com\/2016\/01\/21\/facebook-ouvre-un-centre-de-recherches-oculus-a-pittsburgh\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1649341995.760139",
+        "client_msg_id": "dbf0ae37-27f0-451b-822b-39840fc8a9e0",
+        "text": "Annonce des dates du prochain cybathlon 2024 : <https:\/\/cybathlon.ethz.ch\/en\/cybathlon>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/cybathlon.ethz.ch\/en\/cybathlon",
+                "image_url": "https:\/\/cybathlon.ethz.ch\/images\/event_cybathlon_2020\/Best-Of\/Pilots_Emotions\/image-thumb__779__layout__og-image\/CYBATHLON2020_Fortississimo%20%286%29.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 110818,
+                "service_icon": "https:\/\/cybathlon.ethz.ch\/apple-touch-icon.png?v=7k0kzrx6qv",
+                "id": 1,
+                "original_url": "https:\/\/cybathlon.ethz.ch\/en\/cybathlon",
+                "fallback": "This is CYBATHLON",
+                "text": "CYBATHLON offers a platform to advance research in the field of assistive technology and to promote the dialogue with the public about the inclusion of people with...",
+                "title": "This is CYBATHLON",
+                "title_link": "https:\/\/cybathlon.ethz.ch\/en\/cybathlon",
+                "service_name": "cybathlon.ethz.ch"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WAt4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Annonce des dates du prochain cybathlon 2024 : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/cybathlon.ethz.ch\/en\/cybathlon"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

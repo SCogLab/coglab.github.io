@@ -1,0 +1,402 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1539604377.000100",
+        "client_msg_id": "9ca1a766-9105-47b5-8e72-a681c5432d9a",
+        "text": "Coucou <!channel> pour celles et ceux qui n’auraient pas vu l’information, ce soir je ne pourrais pas assurer la permanence pour la HackNight. La prochaine sera donc le lundi 22 !\n\nJ’en profite pour informer que nous avons organisé un Conseil d’Administration hier, on vous en redit plus dans les prochains jours",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Au7oI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coucou "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour celles et ceux qui n’auraient pas vu l’information, ce soir je ne pourrais pas assurer la permanence pour la HackNight. La prochaine sera donc le lundi 22 !\n\nJ’en profite pour informer que nous avons organisé un Conseil d’Administration hier, on vous en redit plus dans les prochains jours"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1539604488.000100",
+        "client_msg_id": "65a4ec77-275b-4edc-b026-c7a14bb32082",
+        "text": "<@U5JBN3M8Q> on essaye de se caller une date finale pour le Meetup VR ?\nDe mon côté, j’aimerais bien le jeudi 25, sinon ça risque de glisser mi-novembre !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539604488.000100",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1539621247.000100",
+        "reply_users": [
+            "U03FC5ZAK",
+            "U59MQ46DA",
+            "U5JBN3M8Q"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1539620812.000100"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1539620897.000100"
+            },
+            {
+                "user": "U5JBN3M8Q",
+                "ts": "1539621247.000100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3zy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U5JBN3M8Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on essaye de se caller une date finale pour le Meetup VR ?\nDe mon côté, j’aimerais bien le jeudi 25, sinon ça risque de glisser mi-novembre !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1539608083.000100",
+        "client_msg_id": "94239db0-decf-4e45-bfce-07ef9129f676",
+        "text": "Tu nous offre l’entrée <@U5JBN3M8Q> ? :yum:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539585194.000100",
+        "parent_user_id": "U5JBN3M8Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jI1U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu nous offre l’entrée "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U5JBN3M8Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "yum",
+                                "unicode": "1f60b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1539620812.000100",
+        "client_msg_id": "aaa0df50-89a1-475a-9d99-c88e929c59cd",
+        "text": "<@U5JBN3M8Q> <@U59MQ46DA> est ce que cette date vous irait ? Si oui j'envoie un mail à la Paillasse ce soir ! ",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539604488.000100",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dCwvC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U5JBN3M8Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " est ce que cette date vous irait ? Si oui j'envoie un mail à la Paillasse ce soir !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1539620897.000100",
+        "client_msg_id": "a0258ada-d373-46b2-b2e6-91f1979ec696",
+        "text": "<@U03FC5ZAK> pour moi c’est ok :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539604488.000100",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CKIeU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour moi c’est ok "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U5JBN3M8Q",
+        "type": "message",
+        "ts": "1539621247.000100",
+        "client_msg_id": "ff4fbfbe-19f9-4ad7-810e-57a3967acdd6",
+        "text": "hello ! moi aussi !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1b6f1c358f7d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-04\/280876898465_1b6f1c358f7daf194add_72.jpg",
+            "first_name": "Isabelle",
+            "real_name": "Isabelle NICHELLE",
+            "display_name": "isabelle_n",
+            "team": "T03FC4NDZ",
+            "name": "isabelle_n",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539604488.000100",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kr0oX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello ! moi aussi !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U5JBN3M8Q",
+        "type": "message",
+        "ts": "1539621268.000100",
+        "client_msg_id": "f7766525-0342-498b-abad-8cdd465833c1",
+        "text": ":grinning:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1b6f1c358f7d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-04\/280876898465_1b6f1c358f7daf194add_72.jpg",
+            "first_name": "Isabelle",
+            "real_name": "Isabelle NICHELLE",
+            "display_name": "isabelle_n",
+            "team": "T03FC4NDZ",
+            "name": "isabelle_n",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539585194.000100",
+        "parent_user_id": "U5JBN3M8Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mqy0a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "grinning",
+                                "unicode": "1f600"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Event updated: Meetup CogLab #8 - XR et Sciences Cognitives: <!date^1540486800^{date_short_pretty} from {time}|October 25th, 2018 from 7:00 PM> to <!date^1540494000^{time}|9:00 PM GMT+0200>",
+                "text": "<!date^1540486800^{date_short_pretty} from {time}|October 25th, 2018 from 7:00 PM> to <!date^1540494000^{time}|9:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=La+Paillasse%2C+226+Rue+Saint-Denis%2C+75002+Paris%2C+France|La Paillasse, 226 Rue Saint-Denis, 75002 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "Meetup CogLab #8 - XR et Sciences Cognitives",
+                "more": "<https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/239127976\/>",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NGxxMXM4ZWVnNzJtZTlmbXQ4MnJnbTlpcTAgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1539637692.000100",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Event time updated: [Option] Open CogLab @ Paillasse: <!date^1541700000^{date_short_pretty} from {time}|November 8th, 2018 from 7:00 PM> to <!date^1541707200^{time}|9:00 PM GMT+0100>",
+                "text": "<!date^1541700000^{date_short_pretty} from {time}|November 8th, 2018 from 7:00 PM> to <!date^1541707200^{time}|9:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=La+Paillasse%2C+226+Rue+Saint-Denis%2C+75002+Paris%2C+France|La Paillasse, 226 Rue Saint-Denis, 75002 Paris, France>",
+                "pretext": "Calendar event time updated",
+                "title": "[Option] Open CogLab @ Paillasse",
+                "more": "Les soirées Open CogLab sont un rendez-vous mensuel, un jeudi soir par mois.\nNous vous proposons de se retrouver à partir de 19h00 dans les locaux de La Paillasse \/ Maison du Libre et des Communs dans le sentier.\n\nCes rencontres se veulent un moment de partage convivial, de veille et de prospective autour d'un thème d'actualité sélectionné quelques jours auparavant ou sollicité par la communauté. \nNous pouvons également prévoir des moments pour des démos ou tests avec des volontaires parmi les personnes présentent.\nN'hésitez pas à consulter notre agenda (lien ci-dessous) et proposer des sujets dans la discussion associée à l'événement, sur les réseaux sociaux ou par email.\n\nAstuces pour les personnes souhaitant monter ou participer à un projet : nous disposons d’un format hebdomadaire — les soirées HackNight — le lundi soir (dédiées exclusivement aux projets et membres de l’association).\n\nQuelques ressources :\n- Echanger avec la communauté sur Slack ou Facebook <https:\/\/coglab.fr\/community\/> \n- Devenir membre de l'association via HelloAsso <https:\/\/www.helloasso.com\/associations\/coglab\/> \n- Les projets en cours sont référencé sur Trello <https:\/\/trello.com\/b\/NFHS3ZPa\/activit%C3%A9s> \n- L'agenda de l'association <https:\/\/coglab.fr\/actu\/agenda\/> \n- Le site de La Paillasse : <http:\/\/lapaillasse.org\/>",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NzRkcm45N3UxN2ZwZGhpZmNnNm8zM3VxaHYgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1539637692.000200",
+        "bot_id": "B4SJBP2L8"
+    }
+]

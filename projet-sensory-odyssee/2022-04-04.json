@@ -1,0 +1,372 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1649111212.983069",
+        "client_msg_id": "af07ab3f-d0c3-4d07-8f8a-1ae12693282b",
+        "text": "Bonjour à tous,\n\nMerci <@UAMPR1P5L> pour ton message et toutes tes contributions :pray:\n\nAprès une longue journée à la Cité des Sciences pour le FSC hier, nous avons eu l’occasion de reprendre quelques échanges avec <@U59MQ46DA> <@U01S8PWA7GU> &amp; <@U02GLDK69UJ>, merci pour votre présence et implication sur ce projet.\n\n<!channel> Les deadline se resserrent pour l’organisation de l'expérimentation.\nAfin d’organiser au mieux les dispos et présence de chacun.e.s, je vous invite à <https:\/\/docs.google.com\/spreadsheets\/d\/1bytnQB-bjnxLYcUYiNwXVb0mokZft7xCUsOGTdO03DE\/edit#gid=1863368863|compléter ce tableau>, comprenant pour rappel :\n• L'après-midi de pré-test du 19 avril\n• Les matinées d'acquisitions (5 dates, de 9 à 13h, s'étalant du 12 mai au 9 juin)\nJe serais en principe présent à l'ensemble des sessions et vais dédié mon weekend à la mise à jour du protocole.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nzh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour à tous,\n\nMerci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UAMPR1P5L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour ton message et toutes tes contributions "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAprès une longue journée à la Cité des Sciences pour le FSC hier, nous avons eu l’occasion de reprendre quelques échanges avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01S8PWA7GU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " & "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02GLDK69UJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", merci pour votre présence et implication sur ce projet.\n\n"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Les deadline se resserrent pour l’organisation de l'expérimentation.\nAfin d’organiser au mieux les dispos et présence de chacun.e.s, je vous invite à "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1bytnQB-bjnxLYcUYiNwXVb0mokZft7xCUsOGTdO03DE\/edit#gid=1863368863",
+                                "text": "compléter ce tableau"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", comprenant pour rappel :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "L'après-midi de pré-test du 19 avril"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Les matinées d'acquisitions (5 dates, de 9 à 13h, s'étalant du 12 mai au 9 juin)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nJe serais en principe présent à l'ensemble des sessions et vais dédié mon weekend à la mise à jour du protocole."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1649111375.529949",
+        "edited": {
+            "user": "U03FC5ZAK",
+            "ts": "1649111426.000000"
+        },
+        "client_msg_id": "ac689312-b767-48da-a081-0435562146c7",
+        "text": "Concernant les sessions de préparations pour se synchroniser et faire des tests à blanc :\n1. êtes vous à l'aise et disponible sur le format HackNight du lundi soir (au CRI ou en ligne)\n2. ou préférez-vous que l'on prévoit un autre moment (n'hésitez pas à préciser en thread)\n_Merci de répondre en réagissant à l'émoji ci-dessous_",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1649111375.529949",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1649112187.878929",
+        "reply_users": [
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1649112187.878929"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fzKG8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Concernant les sessions de préparations pour se synchroniser et faire des tests à blanc :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "êtes vous à l'aise et disponible sur le format HackNight du lundi soir (au CRI ou en ligne)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ou préférez-vous que l'on prévoit un autre moment (n'hésitez pas à préciser en thread)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Merci de répondre en réagissant à l'émoji ci-dessous",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "one",
+                "users": [
+                    "U03FC5ZAK",
+                    "U59MQ46DA",
+                    "U01S8PWA7GU"
+                ],
+                "count": 3
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1649111883.470569",
+        "client_msg_id": "52b52af1-e079-427c-9b3e-a1b6cd47bc9f",
+        "text": "Du côté de COGitERGO, j'ai noté que vous seriez dispo *ce dimanche* pour faire un tour de *pré-test des questionnaires* au *Muséum*.\n\nSi c'est toujours le cas, avez-vous un horaire en tête afin que je prévienne l'équipe du Muséum et m'organise également ?\nJe pense qu'une ou deux heure sur place est déjà suffisant pour se donner une idée, en comptant un moment de synchro et défrief en complément.\n\nDans le pire des cas, si c'est trop juste côté Muséum ou pour nous, on fera à minima des tests à blanc en mode _F&amp;F_.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RsIuv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Du côté de COGitERGO, j'ai noté que vous seriez dispo "
+                            },
+                            {
+                                "type": "text",
+                                "text": "ce dimanche",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour faire un tour de "
+                            },
+                            {
+                                "type": "text",
+                                "text": "pré-test des questionnaires",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " au "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Muséum",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\nSi c'est toujours le cas, avez-vous un horaire en tête afin que je prévienne l'équipe du Muséum et m'organise également ?\nJe pense qu'une ou deux heure sur place est déjà suffisant pour se donner une idée, en comptant un moment de synchro et défrief en complément.\n\nDans le pire des cas, si c'est trop juste côté Muséum ou pour nous, on fera à minima des tests à blanc en mode "
+                            },
+                            {
+                                "type": "text",
+                                "text": "F&F",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1649112187.878929",
+        "client_msg_id": "61b5067f-4f32-4401-971b-e395642f8bf9",
+        "text": "J’ai aussi bloqué mes prochains mercredis après-midi (14h-22h30) pour être dispo sur la partie technique (check des bitalino, vérifications des logiciels\/matériels, check des process,...).",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1649111375.529949",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uny",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’ai aussi bloqué mes prochains mercredis après-midi (14h-22h30) pour être dispo sur la partie technique (check des bitalino, vérifications des logiciels\/matériels, check des process,...)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

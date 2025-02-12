@@ -1,0 +1,69 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1500036059.830845",
+        "text": "[Veille] #Stanford #VR #Medicine \n<http:\/\/med.stanford.edu\/news\/all-news\/2017\/07\/virtual-reality-system-helps-surgeons-reassures-patients.html>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "News Center",
+                "title": "Virtual reality system helps surgeons, reassures patients",
+                "title_link": "http:\/\/med.stanford.edu\/news\/all-news\/2017\/07\/virtual-reality-system-helps-surgeons-reassures-patients.html",
+                "text": "Stanford Medicine is using a new software system that combines imaging from MRIs, CT scans and angiograms to create a three-dimensional model that physicians and patients can see and manipulate — just like a virtual reality game.",
+                "fallback": "News Center: Virtual reality system helps surgeons, reassures patients",
+                "image_url": "http:\/\/med.stanford.edu\/content\/dam\/sm-news\/images\/2017\/05\/vr-neurosurgery.jpg",
+                "from_url": "http:\/\/med.stanford.edu\/news\/all-news\/2017\/07\/virtual-reality-system-helps-surgeons-reassures-patients.html",
+                "image_width": 401,
+                "image_height": 250,
+                "image_bytes": 230591,
+                "service_icon": "http:\/\/med.stanford.edu\/etc\/clientlibs\/sm\/images\/SM-Shield-152x152.png",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5wk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[Veille] #Stanford #VR #Medicine \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/med.stanford.edu\/news\/all-news\/2017\/07\/virtual-reality-system-helps-surgeons-reassures-patients.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0AR01SPQ",
+                    "U5JBN3M8Q"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

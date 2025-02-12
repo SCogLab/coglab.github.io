@@ -1,0 +1,70 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1457482206.000002",
+        "text": "Un peu de prospection pour la forme que peux prendre le site du projet.\nJ'aime beaucoup cette initiative : <http:\/\/dada-data.net\/fr\/>\n\n<http:\/\/Dada-Data.net|Dada-Data.net> est un cabaret digital interactif ouvert 24 heures sur 24 avec un « Dépôt » anti-musée et des « hacktions » hebdomadaires, conçu pour Arte Creative par Anita Hugi et David Dufresne, coréalisé par Akufen, produit par Arte\/SSR SRG, en partenariat avec Rue89.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Titre",
+                "title": "Dada-Data",
+                "title_link": "http:\/\/dada-data.net\/fr\/",
+                "fallback": "Titre: Dada-Data",
+                "image_url": "http:\/\/dada-data.net\/img\/meta\/fb\/hub.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "http:\/\/dada-data.net\/fr\/",
+                "image_bytes": 438891,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lO5g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un peu de prospection pour la forme que peux prendre le site du projet.\nJ'aime beaucoup cette initiative : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/dada-data.net\/fr\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Dada-Data.net",
+                                "text": "Dada-Data.net"
+                            },
+                            {
+                                "type": "text",
+                                "text": " est un cabaret digital interactif ouvert 24 heures sur 24 avec un « Dépôt » anti-musée et des « hacktions » hebdomadaires, conçu pour Arte Creative par Anita Hugi et David Dufresne, coréalisé par Akufen, produit par Arte\/SSR SRG, en partenariat avec Rue89."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

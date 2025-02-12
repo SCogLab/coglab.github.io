@@ -1,0 +1,121 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1592731536.024300",
+        "client_msg_id": "4906438e-6fa5-4abc-8116-33610f2c91d6",
+        "text": "<https:\/\/www.un.org\/fr\/observances\/yoga-day>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1592731536.024300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1592731676.024500",
+        "reply_users": [
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1592731676.024500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "service_name": "United Nations",
+                "title": "Journée internationale du yoga | Nations Unies",
+                "title_link": "https:\/\/www.un.org\/fr\/observances\/yoga-day",
+                "text": "Le yoga est une ancienne pratique physique, mentale et spirituelle qui trouve son origine en Inde. La Journée vise à sensibiliser le public de par le monde aux nombreux bénéfices de la pratique du yoga.",
+                "fallback": "United Nations: Journée internationale du yoga | Nations Unies",
+                "image_url": "https:\/\/www.un.org\/sites\/un2.un.org\/files\/annie-hartkemeyer.jpg",
+                "image_width": 301,
+                "image_height": 250,
+                "from_url": "https:\/\/www.un.org\/fr\/observances\/yoga-day",
+                "image_bytes": 266671,
+                "service_icon": "https:\/\/www.un.org\/sites\/un2.un.org\/themes\/bootstrap_un2\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.un.org\/fr\/observances\/yoga-day"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j3k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.un.org\/fr\/observances\/yoga-day"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6EPG5PTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1592731676.024500",
+        "client_msg_id": "2d0f273c-7edf-410c-811c-f01ed63b19e7",
+        "text": "Top ! Je ne me rappelais plus que c’était aujourd’hui",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1592731536.024300",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ywx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Top ! Je ne me rappelais plus que c’était aujourd’hui"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

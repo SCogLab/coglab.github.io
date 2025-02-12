@@ -1,0 +1,495 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1638022890.002100",
+        "client_msg_id": "dfe0233f-4666-404c-acf4-8d5ed7d79b78",
+        "text": "Hello, est-ce qu’il y a des gens en ligne pour la Maker Faire ?\nPeut être <@U59MQ46DA> tu es connecté ?\nJ’essaie de rejoindre l’espace, sans succès pour le moment :confused:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NPYrj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, est-ce qu’il y a des gens en ligne pour la Maker Faire ?\nPeut être "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tu es connecté ?\nJ’essaie de rejoindre l’espace, sans succès pour le moment "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused",
+                                "unicode": "1f615"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1638022923.002400",
+        "client_msg_id": "dff29ecd-78bb-40f5-9198-5c3c374ce82e",
+        "text": "Oui, je suis sur le booth",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1638022923.002400",
+        "reply_count": 8,
+        "reply_users_count": 2,
+        "latest_reply": "1638025247.004100",
+        "reply_users": [
+            "U03FC5ZAK",
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1638024063.002600"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1638024108.002800"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1638024186.003100"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1638024673.003300"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1638025011.003500"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1638025111.003700"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1638025179.003900"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1638025247.004100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NOm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui, je suis sur le booth"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1638024063.002600",
+        "client_msg_id": "6979bf0d-3845-43e1-9a64-7e7c3795a5bb",
+        "text": "je suis dans l’espace ‘conférence’",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1638022923.002400",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "61fs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je suis dans l’espace ‘conférence’"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1638024108.002800",
+        "client_msg_id": "86beb9bd-54e6-488d-9d8a-73188d8bb733",
+        "text": "tu sais s’il faut un billet pour rejoindre les conférences ?\n\nles salles et prises de RDV n’apparaissent pas sur la page du stand <https:\/\/paris.makerfaire.com\/maker\/entry\/2690\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1638022923.002400",
+        "parent_user_id": "U59MQ46DA",
+        "attachments": [
+            {
+                "from_url": "https:\/\/paris.makerfaire.com\/maker\/entry\/2690\/",
+                "title": "Maker Faire Paris",
+                "title_link": "https:\/\/paris.makerfaire.com\/maker\/entry\/2690\/",
+                "text": "Bienvenue dans le futur !",
+                "image_url": "https:\/\/i1.wp.com\/paris.makerfaire.com\/wp-content\/uploads\/sites\/109\/gravity_forms\/33-e85fc889b7a65306d14330b3d3dbfe9d\/2021\/07\/Maker_Faire_2019.png?fit=750%2C500&strip=all",
+                "image_width": 465,
+                "image_height": 250,
+                "image_bytes": 528800,
+                "fallback": "Maker Faire Paris",
+                "service_icon": "https:\/\/paris.makerfaire.com\/apple-touch-icon.png",
+                "service_name": "paris.makerfaire.com",
+                "id": 1,
+                "original_url": "https:\/\/paris.makerfaire.com\/maker\/entry\/2690\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eFul",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tu sais s’il faut un billet pour rejoindre les conférences ?\n\nles salles et prises de RDV n’apparaissent pas sur la page du stand "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/paris.makerfaire.com\/maker\/entry\/2690\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1638024186.003100",
+        "client_msg_id": "f52fd2dc-da46-4c1d-805e-288676cb26e6",
+        "text": "Il y a une petite loupiote qui clignote quand un stand est online dans le menu exposants",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1638022923.002400",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Xf0v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il y a une petite loupiote qui clignote quand un stand est online dans le menu exposants"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1638024673.003300",
+        "client_msg_id": "303ac453-5a5a-4c2f-b4f2-d8d4a9926f52",
+        "text": "j’essaye via un autre navigateur",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1638022923.002400",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l2Yt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "j’essaye via un autre navigateur"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1638025011.003500",
+        "client_msg_id": "64972ff6-b164-433d-bf31-a3670247f42a",
+        "text": "tu es encore en ligne sur le stand <@U59MQ46DA>?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1638022923.002400",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kaKJY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tu es encore en ligne sur le stand "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1638025111.003700",
+        "client_msg_id": "da163407-b5e5-4b10-b17f-6a157936a752",
+        "text": "non, j’ai été ejecté, il y a bien la petite lumière rouge dans l’affichage exposants",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1638022923.002400",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k8A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "non, j’ai été ejecté, il y a bien la petite lumière rouge dans l’affichage exposants"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F02NPC78P3P",
+                "created": 1638025126,
+                "timestamp": 1638025126,
+                "name": "Capture d’écran 2021-11-27 à 15.57.35.png",
+                "title": "Capture d’écran 2021-11-27 à 15.57.35.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U59MQ46DA",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 115977,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F02NPC78P3P\/capture_d___e__cran_2021-11-27_a___15.57.35.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F02NPC78P3P\/download\/capture_d___e__cran_2021-11-27_a___15.57.35.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F02NPC78P3P-e0ba5308ff\/capture_d___e__cran_2021-11-27_a___15.57.35_64.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F02NPC78P3P-e0ba5308ff\/capture_d___e__cran_2021-11-27_a___15.57.35_80.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F02NPC78P3P-e0ba5308ff\/capture_d___e__cran_2021-11-27_a___15.57.35_360.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360_w": 269,
+                "thumb_360_h": 203,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F02NPC78P3P-e0ba5308ff\/capture_d___e__cran_2021-11-27_a___15.57.35_160.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "original_w": 269,
+                "original_h": 203,
+                "thumb_tiny": "AwAkADCRnWBWjWRgQe9MWd2GRKahuWAuZOuMnOPWo1JJypxzQNu+rLvmyspAkOexFVjNdo+1pGPrjmnpKEI46jv2qLzTuLA\/MT2oEWYWleXa8pIqzKipHuVzn69apG5CkNxnHb1p8Tmcg4ADHFMlor3IJuZBx949aag2Acg1LcZ+0SfdxuPUVGCO5z9RSKGKx3ZZhigjC8EevFK2GPykD8KaSBwSPyoGMJHbj+tWbSbbLGm3qwqv8vXPP0qWADz4mz\/GKBFmVf378n71RuvB+Y1NL\/rn\/wB6om70DGBOnzNTDCuepqUdqQ9aAZEIV9TUkMQFxGcngigU+L\/XR\/UUCP\/Z",
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U59MQ46DA\/F02NPC78P3P\/capture_d___e__cran_2021-11-27_a___15.57.35.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-F02NPC78P3P-2feabfeae5",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U59MQ46DA",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1638025179.003900",
+        "client_msg_id": "f06865c4-d1ad-469f-b5ff-ea965056f114",
+        "thread_ts": "1638022923.002400",
+        "parent_user_id": "U59MQ46DA"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1638025247.004100",
+        "client_msg_id": "31b3ee64-b7ea-49a5-9faf-e070c915e489",
+        "text": "j’me suis connecté en tant que ‘visiteur’ via Firefox, mais bon comme je suis tout seul je peux pas faire grand chose",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1638022923.002400",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fT+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "j’me suis connecté en tant que ‘visiteur’ via Firefox, mais bon comme je suis tout seul je peux pas faire grand chose"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

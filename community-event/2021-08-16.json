@@ -1,0 +1,75 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1629117725.000800",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1629117742.000000"
+        },
+        "client_msg_id": "2593c2eb-6e27-4923-8ae5-c54b82489b71",
+        "text": "Le 16 avril 2022, Conference NeurotechPlanet au Portugal : <https:\/\/neurotechplanet.com\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Neurotech Planet",
+                "title": "Home | Neurotech Planet | International Conference",
+                "title_link": "https:\/\/neurotechplanet.com\/",
+                "text": "Neurotech Planet provides people around the world the opportunity to hear the most remarkable leaders in the field. Our purpose is to empower everyone",
+                "fallback": "Neurotech Planet: Home | Neurotech Planet | International Conference",
+                "fields": [
+                    {
+                        "title": "Est. reading time",
+                        "value": "18 minutes",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/neurotechplanet.com\/",
+                "service_icon": "https:\/\/i0.wp.com\/neurotechplanet.com\/wp-content\/uploads\/2020\/12\/cropped-FavIcon_Prancheta-1.png?fit=180%2C180&amp;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/neurotechplanet.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k\/0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le 16 avril 2022, Conference NeurotechPlanet au Portugal : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/neurotechplanet.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U02C17LD5TJ",
+        "text": "<@U02C17LD5TJ> a rejoint le canal",
+        "type": "message",
+        "ts": "1629133159.001200"
+    }
+]

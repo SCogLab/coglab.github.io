@@ -1,0 +1,25 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: CogLab HackNight #128 - Santa: <!date^1576513800^{date_short_pretty} from {time}|December 16th, 2019 from 5:30 PM> to <!date^1576530000^{time}|10:00 PM GMT+0100>",
+                "text": "<!date^1576513800^{date_short_pretty} from {time}|December 16th, 2019 from 5:30 PM> to <!date^1576530000^{time}|10:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Centre+de+Recherche+Interdisciplinaire+%28CRI%29%2C+8bis+Rue+Charles+V%2C+75004+Paris%2C+France|Centre de Recherche Interdisciplinaire (CRI), 8bis Rue Charles V, 75004 Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "CogLab HackNight #128 - Santa",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MTgydXVscWl0cDA5dTdja3QxOWRhOTBxbjYgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1575813309.000100",
+        "bot_id": "B4SJBP2L8"
+    }
+]

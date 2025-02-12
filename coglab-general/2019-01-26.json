@@ -1,0 +1,78 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Hans Harisson",
+                "fallback": "New card CR Webinar #3 NeuroTechX added to list BLOG on board ACTIVITÉS.",
+                "text": "In list *BLOG* on *<https:\/\/trello.com\/b\/NFHS3ZPa|ACTIVITÉS>*.",
+                "pretext": "New card created",
+                "title": "CR Webinar #3 NeuroTechX",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/tidHb5Ps",
+                "author_link": "https:\/\/trello.com\/hansharisson1",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/3b24595bfbf9964329e0f68a00393ac7\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1548506442.000100",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "fallback": "Hans Harisson attached bci_ux_webinar3.png to card CR Webinar #3 NeuroTechX.",
+                "image_url": "https:\/\/trello-attachments.s3.amazonaws.com\/5c4c554a47f4656f84543536\/600x602\/5ffa801810dd6a2af650317729f99c37\/bci_ux_webinar3.png",
+                "image_width": 600,
+                "image_height": 602,
+                "image_bytes": 387263,
+                "author_name": "Hans Harisson",
+                "pretext": "Attached *<https:\/\/trello-attachments.s3.amazonaws.com\/56dc663c26b5d2e75c3d7023\/5c4c554a47f4656f84543536\/b632acc6c965cf303095f77c6f92101f\/bci_ux_webinar3.png|bci_ux_webinar3.png>* to *<https:\/\/trello.com\/c\/tidHb5Ps|CR Webinar #3 NeuroTechX>*.",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/hansharisson1",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/3b24595bfbf9964329e0f68a00393ac7\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1548506475.000200",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Hans Harisson",
+                "fallback": "Hans Harisson marked CR Webinar #3 NeuroTechX complete.",
+                "text": "Marked *<https:\/\/trello.com\/c\/tidHb5Ps|CR Webinar #3 NeuroTechX>* complete.",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/hansharisson1",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/3b24595bfbf9964329e0f68a00393ac7\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1548506830.000300",
+        "bot_id": "B66HQV43C"
+    }
+]

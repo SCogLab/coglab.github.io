@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1458585658.000002",
+        "text": "<!channel>: Hello, pour la HackNight de ce soir, on se trouve à la Paillasse, dans l'espace cuisine du sous-sol comme d'habitude \nJe suis sur place avec <@U03FEH3N8> et on va avancer sur <#C03UHP8UD|projet-autispace> \nÀ noter également la présence de Sydney normalement ce soir, de NeuroTechX Montréal ",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NgV5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Hello, pour la HackNight de ce soir, on se trouve à la Paillasse, dans l'espace cuisine du sous-sol comme d'habitude \nJe suis sur place avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et on va avancer sur "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03UHP8UD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nÀ noter également la présence de Sydney normalement ce soir, de NeuroTechX Montréal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

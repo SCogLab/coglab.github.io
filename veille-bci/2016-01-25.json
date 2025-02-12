@@ -1,0 +1,65 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U0K8Z7286",
+        "text": "<@U0K8Z7286> a rejoint le canal",
+        "type": "message",
+        "ts": "1453732014.000002"
+    },
+    {
+        "user": "U0AR01SPQ",
+        "type": "message",
+        "ts": "1453750705.000003",
+        "text": "EEG device: piloter une voiture! <http:\/\/www.reuters.com\/article\/us-china-brainpower-car-idUSKBN0TQ23620151207#gW3ddbSW8iXKPByE.97>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b34e84fd77bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-17\/18704226567_b34e84fd77bcdb81946f_72.jpg",
+            "first_name": "Murielle",
+            "real_name": "Murielle PALISSANDRE",
+            "display_name": "murielle",
+            "team": "T03FC4NDZ",
+            "name": "murielle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Reuters",
+                "title": "Chinese researchers unveil brain powered car",
+                "title_link": "http:\/\/www.reuters.com\/article\/us-china-brainpower-car-idUSKBN0TQ23620151207#gW3ddbSW8iXKPByE.97",
+                "text": "controlled car has been developed by researchers in the north-east port city of Tianjin.",
+                "fallback": "Reuters: Chinese researchers unveil brain powered car",
+                "image_url": "http:\/\/s3.reutersmedia.net\/resources\/r\/?m=02&d=20151207&t=2&i=1100548901&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBB60XP",
+                "from_url": "http:\/\/www.reuters.com\/article\/us-china-brainpower-car-idUSKBN0TQ23620151207#gW3ddbSW8iXKPByE.97",
+                "image_width": 353,
+                "image_height": 250,
+                "image_bytes": 48854,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PUDR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "EEG device: piloter une voiture! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.reuters.com\/article\/us-china-brainpower-car-idUSKBN0TQ23620151207#gW3ddbSW8iXKPByE.97"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

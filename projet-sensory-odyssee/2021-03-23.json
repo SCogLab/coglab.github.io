@@ -1,0 +1,683 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1616494560.010800",
+        "text": "Pour informations, j’ai uploadé des caps d’écrans de l’intervention de Sean lors de la Virtually Maker Faire 2020 :\n<https:\/\/drive.google.com\/drive\/u\/0\/folders\/11OJPE1Cn8yNfG0XgnN3R4eUjZm05HpWW>\n\nEt il y a le replay vidéo est sur Twitch :\n<https:\/\/www.twitch.tv\/videos\/629672479>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[March 19th, 2021 2:43 PM] coglab644: J’ai envoyé un mail à Sean. A priori, la board n’a pas d’interface de communication, je pense qu’il faut ajouter une Feather board (compter 10-30 € supplémentaire). Je ne connais pas très bien Lora, mais à voir si ça ne serait pas mieux que du WiFi ou BT, et si ça permettrait la localisation en intérieur.",
+                "ts": "1616161417.009300",
+                "author_id": "UAMPR1P5L",
+                "author_subname": "mesca",
+                "channel_id": "C01FM8US683",
+                "is_msg_unfurl": true,
+                "text": "J’ai envoyé un mail à Sean. A priori, la board n’a pas d’interface de communication, je pense qu’il faut ajouter une Feather board (compter 10-30 € supplémentaire). Je ne connais pas très bien Lora, mais à voir si ça ne serait pas mieux que du WiFi ou BT, et si ça permettrait la localisation en intérieur.",
+                "author_name": "mesca",
+                "author_link": "https:\/\/scoglab.slack.com\/team\/UAMPR1P5L",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/273db985d858035ed23c0594718e0eac.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/scoglab.slack.com\/archives\/C01FM8US683\/p1616161417009300",
+                "is_share": true,
+                "footer": "Conversation Slack"
+            },
+            {
+                "service_name": "Twitch",
+                "title": "EmotiBit as an Open-Source Virus Tracker  - emotibit on Twitch",
+                "title_link": "https:\/\/www.twitch.tv\/videos\/629672479",
+                "text": "emotibit went live on Twitch. Catch up on their VOD now.",
+                "fallback": "Twitch: EmotiBit as an Open-Source Virus Tracker  - emotibit on Twitch",
+                "thumb_url": "https:\/\/static-cdn.jtvnw.net\/cf_vods\/d2nvs31859zcd8\/c20a493a143a29d290e2_emotibit_14280571566_4396304746\/\/thumb\/thumb629672479-640x360.jpg",
+                "image_url": "https:\/\/static-cdn.jtvnw.net\/cf_vods\/d2nvs31859zcd8\/c20a493a143a29d290e2_emotibit_14280571566_4396304746\/\/thumb\/thumb629672479-640x360.jpg",
+                "from_url": "https:\/\/www.twitch.tv\/videos\/629672479",
+                "thumb_width": 640,
+                "thumb_height": 360,
+                "image_width": 640,
+                "image_height": 360,
+                "image_bytes": 36040,
+                "service_icon": "https:\/\/static.twitchcdn.net\/assets\/favicon-32-e29e246c157142c94346.png",
+                "id": 1,
+                "original_url": "https:\/\/www.twitch.tv\/videos\/629672479"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gKZv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour informations, j’ai uploadé des caps d’écrans de l’intervention de Sean lors de la Virtually Maker Faire 2020 :\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/u\/0\/folders\/11OJPE1Cn8yNfG0XgnN3R4eUjZm05HpWW"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nEt il y a le replay vidéo est sur Twitch :\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.twitch.tv\/videos\/629672479"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1616495321.011200",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1616495385.000000"
+        },
+        "client_msg_id": "d70e9498-a550-4f74-9eb4-25847a47df85",
+        "text": "J’ai trouvé une publication sur une expérimentation de type _smarthome indoor localization_ :  <https:\/\/www.mdpi.com\/2076-3417\/11\/1\/415\/htm>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1616161417.009300",
+        "parent_user_id": "UAMPR1P5L",
+        "attachments": [
+            {
+                "service_name": "MDPI",
+                "title": "Feasibility of LoRa for Smart Home Indoor Localization",
+                "title_link": "https:\/\/www.mdpi.com\/2076-3417\/11\/1\/415\/htm",
+                "text": "With the advancement of low-power and low-cost wireless technologies in the past few years, the Internet of Things (IoT) has been growing rapidly in numerous areas of Industry 4.0 and smart homes. With the development of many applications for the IoT, indoor localization, i.e., the capability to determine the physical location of people or devices, has become an important component of smart homes. Various wireless technologies have been used for indoor localization including WiFi, ultra-wideband (UWB), Bluetooth low energy (BLE), radio-frequency identification (RFID), and LoRa. The ability of low-cost long range (LoRa) radios for low-power and long-range communication has made this radio technology a suitable candidate for many indoor and outdoor IoT applications. Additionally, research studies have shown the feasibility of localization with LoRa radios. However, indoor localization with LoRa is not adequately explored at the home level, where the localization area is relatively smaller than offices and corporate buildings. In this study, we first explore the feasibility of ranging with LoRa. Then, we conduct experiments to demonstrate the capability of LoRa for accurate and precise indoor localization in a typical apartment setting. Our experimental results show that LoRa-based indoor localization has an accuracy better than 1.6 m in line-of-sight scenario and 3.2 m in extreme non-line-of-sight scenario with a precision better than 25 cm in all cases, without using any data filtering on the location estimates.",
+                "fallback": "MDPI: Feasibility of LoRa for Smart Home Indoor Localization",
+                "thumb_url": "https:\/\/www.mdpi.com\/img\/journals\/applsci-logo-sq.png?1693b1ae19024e2e",
+                "from_url": "https:\/\/www.mdpi.com\/2076-3417\/11\/1\/415\/htm",
+                "thumb_width": 160,
+                "thumb_height": 160,
+                "service_icon": "https:\/\/www.mdpi.com\/icon\/apple-touch-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.mdpi.com\/2076-3417\/11\/1\/415\/htm"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W+J6x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J’ai trouvé une publication sur une expérimentation de type "
+                            },
+                            {
+                                "type": "text",
+                                "text": "smarthome indoor localization",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " :  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.mdpi.com\/2076-3417\/11\/1\/415\/htm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Via <@ULSDVUUVA>",
+        "files": [
+            {
+                "id": "F01S52PLACT",
+                "created": 1616495577,
+                "timestamp": 1616495577,
+                "name": "Basic-Emotions.pdf",
+                "title": "Basic-Emotions.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U59MQ46DA",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 951932,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F01S52PLACT\/basic-emotions.pdf?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F01S52PLACT\/download\/basic-emotions.pdf?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F01S52PLACT-ed89fc5b7d\/basic-emotions_thumb_pdf.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_pdf_w": 957,
+                "thumb_pdf_h": 1211,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U59MQ46DA\/F01S52PLACT\/basic-emotions.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-F01S52PLACT-acca51a82e",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U59MQ46DA",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2MuT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Via "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "ULSDVUUVA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1616495620.012700"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "ULSDVUUVA",
+        "text": "<@ULSDVUUVA> a rejoint le canal",
+        "inviter": "U59MQ46DA",
+        "type": "message",
+        "ts": "1616495630.013100"
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1616495978.014000",
+        "client_msg_id": "e2c54846-3911-4a61-8c12-0c45fbc931a5",
+        "text": "Vidéo du museum d’histoire naturelle américain sur le body emotion map (de 2014) : <https:\/\/www.youtube.com\/watch?v=cZP_I6NkQb4>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Science Bulletins: Mapping Emotions in the Body",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=cZP_I6NkQb4",
+                "author_name": "American Museum of Natural History",
+                "author_link": "https:\/\/www.youtube.com\/c\/AmericanMuseumofNaturalHistory",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/cZP_I6NkQb4\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Science Bulletins: Mapping Emotions in the Body",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/cZP_I6NkQb4?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=cZP_I6NkQb4",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=cZP_I6NkQb4"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9+L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vidéo du museum d’histoire naturelle américain sur le body emotion map (de 2014) : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=cZP_I6NkQb4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01J9RAA8H1",
+        "type": "message",
+        "ts": "1616520796.015400",
+        "client_msg_id": "b65501d2-2225-4070-a3fd-5f01c60d5106",
+        "text": "Bonjour ! Est ce que ca vous serait utile que je mette mes cours de L3 de psychologie sociale et cognitive des emotions ? Ya des choses sur les indicateurs emotifs corporels etc",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "358dd4c13130",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-08\/1645496664912_358dd4c13130045aea43_72.png",
+            "first_name": "",
+            "real_name": "lisa formentini",
+            "display_name": "lisa formentini",
+            "team": "T03FC4NDZ",
+            "name": "lisa.formentini",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1616520796.015400",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1616532307.016800",
+        "reply_users": [
+            "U59MQ46DA",
+            "U01J9RAA8H1"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1616522050.015500"
+            },
+            {
+                "user": "U01J9RAA8H1",
+                "ts": "1616527710.015700"
+            },
+            {
+                "user": "U01J9RAA8H1",
+                "ts": "1616528260.015900"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1616528330.016600"
+            },
+            {
+                "user": "U01J9RAA8H1",
+                "ts": "1616532307.016800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FrVV+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour ! Est ce que ca vous serait utile que je mette mes cours de L3 de psychologie sociale et cognitive des emotions ? Ya des choses sur les indicateurs emotifs corporels etc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1616522050.015500",
+        "client_msg_id": "a5cd57ac-32b4-441e-8a56-50275d4e7118",
+        "text": "Hello <@U01J9RAA8H1>, oui, tu peux les ajouter dans un nouveau dossier dans le drive du projet",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1616520796.015400",
+        "parent_user_id": "U01J9RAA8H1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IP5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01J9RAA8H1"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", oui, tu peux les ajouter dans un nouveau dossier dans le drive du projet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01J9RAA8H1",
+        "type": "message",
+        "ts": "1616527710.015700",
+        "client_msg_id": "4412e207-8fba-4606-ad42-a02846e131e8",
+        "text": "D'accord <@U59MQ46DA>, merci beaucoup !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "358dd4c13130",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-08\/1645496664912_358dd4c13130045aea43_72.png",
+            "first_name": "",
+            "real_name": "lisa formentini",
+            "display_name": "lisa formentini",
+            "team": "T03FC4NDZ",
+            "name": "lisa.formentini",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1616520796.015400",
+        "parent_user_id": "U01J9RAA8H1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "86PP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "D'accord "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", merci beaucoup !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01J9RAA8H1",
+        "type": "message",
+        "ts": "1616528260.015900",
+        "client_msg_id": "76b1917f-3920-4382-aba6-e2de154f5e23",
+        "text": "Il semble que je n'ai pas accès aux modifications du drive, je met donc les documents ici :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "358dd4c13130",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-08\/1645496664912_358dd4c13130045aea43_72.png",
+            "first_name": "",
+            "real_name": "lisa formentini",
+            "display_name": "lisa formentini",
+            "team": "T03FC4NDZ",
+            "name": "lisa.formentini",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1616520796.015400",
+        "parent_user_id": "U01J9RAA8H1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j\/\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il semble que je n'ai pas accès aux modifications du drive, je met donc les documents ici "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F01S7B3QWQK",
+                "created": 1616528283,
+                "timestamp": 1616528283,
+                "name": "Psychologie sociale des emotions OSOC1.docx",
+                "title": "Psychologie sociale des emotions OSOC1.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U01J9RAA8H1",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 7382615,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F01S7B3QWQK\/psychologie_sociale_des_emotions_osoc1.docx?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F01S7B3QWQK\/download\/psychologie_sociale_des_emotions_osoc1.docx?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F01S7B3QWQK-2bad7831db\/psychologie_sociale_des_emotions_osoc1_converted.pdf?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F01S7B3QWQK-2bad7831db\/psychologie_sociale_des_emotions_osoc1_thumb_pdf.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U01J9RAA8H1\/F01S7B3QWQK\/psychologie_sociale_des_emotions_osoc1.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-F01S7B3QWQK-39f72aa04c",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F01SD9RTDPE",
+                "created": 1616528315,
+                "timestamp": 1616528315,
+                "name": "Approche psycho-cognitive des émotions.docx",
+                "title": "Approche psycho-cognitive des émotions.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U01J9RAA8H1",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 1379164,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F01SD9RTDPE\/approche_psycho-cognitive_des___motions.docx?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F01SD9RTDPE\/download\/approche_psycho-cognitive_des___motions.docx?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F01SD9RTDPE-bd01d94503\/approche_psycho-cognitive_des___motions_converted.pdf?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-F01SD9RTDPE-bd01d94503\/approche_psycho-cognitive_des___motions_thumb_pdf.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U01J9RAA8H1\/F01SD9RTDPE\/approche_psycho-cognitive_des___motions.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-F01SD9RTDPE-018944a75d",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U01J9RAA8H1",
+        "type": "message",
+        "ts": "1616528326.016100"
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1616528330.016600",
+        "client_msg_id": "73ec7a50-ea09-40d0-b284-f27a2a338815",
+        "text": "Je viens de changer tes droits d’accès à éditeur",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1616520796.015400",
+        "parent_user_id": "U01J9RAA8H1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=S6or",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je viens de changer tes droits d’accès à éditeur"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01J9RAA8H1",
+        "type": "message",
+        "ts": "1616532307.016800",
+        "client_msg_id": "ebfcf406-c1d8-46fb-8749-422281ab6dbc",
+        "text": "merci beaucoup !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "358dd4c13130",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-08\/1645496664912_358dd4c13130045aea43_72.png",
+            "first_name": "",
+            "real_name": "lisa formentini",
+            "display_name": "lisa formentini",
+            "team": "T03FC4NDZ",
+            "name": "lisa.formentini",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1616520796.015400",
+        "parent_user_id": "U01J9RAA8H1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/RHqQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci beaucoup !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

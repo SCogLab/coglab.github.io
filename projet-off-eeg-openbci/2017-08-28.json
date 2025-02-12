@@ -1,0 +1,92 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1503955865.000244",
+        "text": "Un début de documentation et comparaison des principaux casques EEG du marché : <http:\/\/learn.neurotechedu.com\/headsets\/>\n\nEn complément de la liste Awesome BCI\n<https:\/\/github.com\/NeuroTechX\/awesome-bci>\n\nping <@U59MQ46DA> <@U6N3TJ0QM>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "NeurotechEDU",
+                "title": "Consumer EEG Headsets",
+                "title_link": "http:\/\/learn.neurotechedu.com\/headsets\/",
+                "text": "Your choice of headset will depend on what you intend to use it for. The answer will depend on your budget, interest, project idea and the number of electrodes required. Before purchasing a headset, think about your programming experience and Project Idea.",
+                "fallback": "NeurotechEDU: Consumer EEG Headsets",
+                "from_url": "http:\/\/learn.neurotechedu.com\/headsets\/",
+                "service_icon": "http:\/\/learn.neurotechedu.com\/assets\/img\/favicon-32x32.png",
+                "id": 1
+            },
+            {
+                "service_name": "GitHub",
+                "title": "NeuroTechX\/awesome-bci",
+                "title_link": "https:\/\/github.com\/NeuroTechX\/awesome-bci",
+                "text": "awesome-bci - Curated Collection of BCI resources",
+                "fallback": "GitHub: NeuroTechX\/awesome-bci",
+                "from_url": "https:\/\/github.com\/NeuroTechX\/awesome-bci",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/13461990?v=4&s=400",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 2
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LFS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un début de documentation et comparaison des principaux casques EEG du marché : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/learn.neurotechedu.com\/headsets\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nEn complément de la liste Awesome BCI\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/NeuroTechX\/awesome-bci"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nping "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U6N3TJ0QM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

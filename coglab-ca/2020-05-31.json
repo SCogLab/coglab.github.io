@@ -1,0 +1,28 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card Groupe étudiant l'X added to list EN COURS on board Gestion CogLab (administrateur).",
+                "text": "In list *EN COURS* on *<https:\/\/trello.com\/b\/jSnI3dXM|Gestion CogLab (administrateur)>*.",
+                "pretext": "New card created",
+                "title": "Groupe étudiant l'X",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/cDexOvLi",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "https:\/\/trello-members.s3.amazonaws.com\/50080b67614e7d5e0528a0d3\/2fa24ca179db27c01d7fe8be31c79914\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1590933191.021100",
+        "bot_id": "B66HQV43C"
+    }
+]

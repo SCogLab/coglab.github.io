@@ -1,0 +1,77 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1460028368.000022",
+        "text": "<!channel>: Bonjour à tous,\n\nLa newsletter du CogLab \/ NeuroTechX Paris est online :simple_smile:\nAvez-vous des questions, avis, suggestions ?\n\n<http:\/\/us6.campaign-archive2.com\/?u=4cd8f74435&amp;id=646c28acfc>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "CogLab Newsletter #3 - Forum des Sciences Cognitives, NeuroTechX et projet Autisme",
+                "title_link": "http:\/\/us6.campaign-archive2.com\/?u=4cd8f74435&id=646c28acfc",
+                "text": "Dans ce numéro, nous évoquons notamment le lancement des HackNights, l'inauguration de NeuroTechX Paris et la mise en ligne de notre Manifesto. Nous serons également présent au Forum des Sciences Cognitives 2016 (9 avril) et Workshop for Innovative Neuroscience and Education du CRI (13 avril).",
+                "fallback": "CogLab Newsletter #3 - Forum des Sciences Cognitives, NeuroTechX et projet Autisme",
+                "image_url": "https:\/\/gallery.mailchimp.com\/4cd8f74435\/images\/0ea6b225-b536-4029-aee4-33e5444d2045.jpg",
+                "from_url": "http:\/\/us6.campaign-archive2.com\/?u=4cd8f74435&id=646c28acfc",
+                "image_width": 588,
+                "image_height": 250,
+                "image_bytes": 139857,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JVJps",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Bonjour à tous,\n\nLa newsletter du CogLab \/ NeuroTechX Paris est online "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nAvez-vous des questions, avis, suggestions ?\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/us6.campaign-archive2.com\/?u=4cd8f74435&amp;id=646c28acfc",
+                                "text": "http:\/\/us6.campaign-archive2.com\/?u=4cd8f74435&id=646c28acfc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0YV94DPU",
+        "text": "<@U0YV94DPU> a rejoint le canal",
+        "type": "message",
+        "ts": "1460066978.000024"
+    }
+]

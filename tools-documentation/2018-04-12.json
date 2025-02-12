@@ -1,0 +1,64 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1523521613.000078",
+        "text": "<https:\/\/www.notion.so\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Notion",
+                "title": "Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.",
+                "title_link": "https:\/\/www.notion.so\/",
+                "text": "A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team",
+                "fallback": "Notion: Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.",
+                "image_url": "https:\/\/www.notion.so\/images\/meta.png",
+                "from_url": "https:\/\/www.notion.so\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 27881,
+                "service_icon": "https:\/\/www.notion.so\/images\/logo-ios.png",
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Of4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_name",
+        "user": "U03FC5ZAK",
+        "old_name": "tools-website",
+        "name": "tools-documentation",
+        "text": "a changé le nom du canal de « tools-website » en « tools-documentation »",
+        "type": "message",
+        "ts": "1523521649.000377"
+    }
+]

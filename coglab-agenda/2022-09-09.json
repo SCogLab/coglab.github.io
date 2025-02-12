@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "RDV Maison des asso Montreuil: <!date^1662710400^{date_short_pretty} from {time}|September 9th, 2022 from 10:00 AM> to <!date^1662714000^{time}|11:00 AM GMT+0200>",
+                "text": "<!date^1662710400^{date_short_pretty} from {time}|September 9th, 2022 from 10:00 AM> to <!date^1662714000^{time}|11:00 AM GMT+0200> at <https:\/\/maps.google.com\/maps?q=60+Rue+Franklin%2C+93100+Montreuil%2C+France|60 Rue Franklin, 93100 Montreuil, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "RDV Maison des asso Montreuil",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NmRyNjBycmM4dGw5YzVlYjB0MXIwajVsZzQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "more",
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1662706802.368029",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "Hackathon NTX - Synchro Paris: <!date^1662732000^{date_short_pretty} from {time}|September 9th, 2022 from 4:00 PM> to <!date^1662735600^{time}|5:00 PM GMT+0200>",
+                "text": "<!date^1662732000^{date_short_pretty} from {time}|September 9th, 2022 from 4:00 PM> to <!date^1662735600^{time}|5:00 PM GMT+0200> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "Hackathon NTX - Synchro Paris",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NTQ5NDRjYWoxMGEwc3ZtamNoaXNrczA1YzYgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "more",
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1662728405.808009",
+        "bot_id": "B4SJBP2L8"
+    }
+]

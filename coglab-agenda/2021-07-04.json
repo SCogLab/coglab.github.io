@@ -1,0 +1,64 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There are *2* events this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "Projet InnerCosmos - Atelier de travail: <!date^1625488200^{date_short_pretty} from {time}|July 5th, 2021 from 2:30 PM> to <!date^1625499000^{time}|5:30 PM GMT+0200>",
+                "text": "<!date^1625488200^{date_short_pretty} from {time}|July 5th, 2021 from 2:30 PM> to <!date^1625499000^{time}|5:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=8+Rue+Godillot%2C+93400+Saint-Ouen%2C+France|8 Rue Godillot, 93400 Saint-Ouen, France>",
+                "title": "Projet InnerCosmos - Atelier de travail",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NnBpbThvYjU2NWdqY2I5amNncW1hYjlrNzByNmFiYjFjZGdqZWI5bjZ0aWo2YzFqNzBwamFvcHA2OCBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "CogLab HackNight #200 - Special milestone [IRL]: <!date^1625504400^{date_short_pretty} from {time}|July 5th, 2021 from 7:00 PM> to <!date^1625515200^{time}|10:00 PM GMT+0200>",
+                "text": "<!date^1625504400^{date_short_pretty} from {time}|July 5th, 2021 from 7:00 PM> to <!date^1625515200^{time}|10:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Cin%C3%A9math%C3%A8que+Fran%C3%A7aise%2C+51+Rue+de+Bercy%2C+75012+Paris%2C+France|Cinémathèque Française, 51 Rue de Bercy, 75012 Paris, France>",
+                "title": "CogLab HackNight #200 - Special milestone [IRL]",
+                "id": 2,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=M2VpYzAzNzZqMGN2b3UzZWpibDlmMTUyMmUgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1625464807.003100",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KaFx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "2",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " events this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

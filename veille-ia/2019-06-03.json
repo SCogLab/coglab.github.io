@@ -1,0 +1,44 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1559547321.001300",
+        "client_msg_id": "71ec2e93-fe56-4ab1-ae5c-a13666ff8b22",
+        "text": "Un outil speech2face permet de reconstruire un visage (ou traits caractéristiques du visage) à l’aide de la voix : <https:\/\/speech2face.github.io>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NSfeC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un outil speech2face permet de reconstruire un visage (ou traits caractéristiques du visage) à l’aide de la voix : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/speech2face.github.io"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

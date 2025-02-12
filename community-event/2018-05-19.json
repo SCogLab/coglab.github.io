@@ -1,0 +1,108 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Sprint CogLab #2: <!date^1526731200^{date_short_pretty} from {time}|May 19th, 2018 from 2:00 PM> to <!date^1526747400^{time}|6:30 PM GMT+0200>",
+                "text": "<!date^1526731200^{date_short_pretty} from {time}|May 19th, 2018 from 2:00 PM> to <!date^1526747400^{time}|6:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=28B+Rue+Gallieni%2C+92600+Asni%C3%A8res-sur-Seine%2C+France|28B Rue Gallieni, 92600 Asnières-sur-Seine, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "Sprint CogLab #2",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NjEzaXNicHZ2MHJ2aG80dTNjMml1OGswZzYgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1526727600.000154",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1526763239.000101",
+        "client_msg_id": "0441ce02-bae9-423c-b8c9-db33820b6aaa",
+        "text": "Un très chouette événement se prépare dans la baie de San Francisco \n<https:\/\/medium.com\/@a35b98d0f9a6\/7b83fd08ce65>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "Event in the Park: BCI + Deep AI + XR – Silicon Valley Global News SVGN.io – Medium",
+                "title_link": "https:\/\/medium.com\/@a35b98d0f9a6\/7b83fd08ce65",
+                "text": "Sunday May 27th 2018 1pm to 3pm in Dolores Park, San Francisco",
+                "fallback": "Medium: Event in the Park: BCI + Deep AI + XR – Silicon Valley Global News SVGN.io – Medium",
+                "image_url": "https:\/\/cdn-images-1.medium.com\/max\/1200\/1*vRbM-V83rZVwkn9jWEPvRw.jpeg",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "4 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1526743333,
+                "from_url": "https:\/\/medium.com\/@a35b98d0f9a6\/7b83fd08ce65",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 240336,
+                "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/304\/304\/1*FrEowoilMEGjLDwvblW4zg.jpeg",
+                "id": 1,
+                "original_url": "https:\/\/medium.com\/@a35b98d0f9a6\/7b83fd08ce65"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zuij",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un très chouette événement se prépare dans la baie de San Francisco \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/medium.com\/@a35b98d0f9a6\/7b83fd08ce65"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA",
+                    "U0DK05RS5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "UAS5WUGJC",
+        "text": "<@UAS5WUGJC> a rejoint le canal",
+        "type": "message",
+        "ts": "1526766994.000012"
+    }
+]

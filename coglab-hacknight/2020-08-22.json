@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1598092615.000600",
+        "client_msg_id": "2f525395-e93e-4621-af29-397e332d0da4",
+        "text": "Lundi on vous donne RDV \"IRL\" !\n<https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/lztftrybclbgc\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "HackNight \"IRL\" CogLab, NeuroTechX Paris",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/lztftrybclbgc\/",
+                "text": "lun. 24 août 2020 à 17:00: (English version available below)Cette semaine on te propose de se retrouver sur les quais de Seine pour une rencontre IRL (In Real Life) après ces dernières semaines de Hac",
+                "fallback": "Meetup: HackNight \"IRL\" CogLab, NeuroTechX Paris",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/c\/7\/2\/a\/600_491930986.jpeg",
+                "fields": [
+                    {
+                        "title": "Où",
+                        "value": "Pont Neuf  Paris",
+                        "short": true
+                    },
+                    {
+                        "title": "Quand",
+                        "value": "lun. 24 août 2020 à 17:00",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/lztftrybclbgc\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 46525,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/fr-FR\/m_swarm_120x120.4f86abc9.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/lztftrybclbgc\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xqjKG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lundi on vous donne RDV \"IRL\" !\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/lztftrybclbgc\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U6EPG5PTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

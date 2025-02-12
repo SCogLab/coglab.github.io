@@ -1,0 +1,507 @@
+[
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1548066918.000100",
+        "client_msg_id": "e91cf174-d022-4317-978f-dc1146769289",
+        "text": "tu as transmis à alicia ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547906397.000500",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "leoZC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tu as transmis à alicia ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1548075049.000300",
+        "client_msg_id": "3d3b2e2c-a222-4036-8d72-522891021dc5",
+        "text": "Nope, je lui transmet de suite",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547906397.000500",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bJZ2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nope, je lui transmet de suite"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1548075124.001400",
+        "client_msg_id": "337dfa0b-5c27-44c8-8bdc-55cc31ac36c8",
+        "text": "Ce soir on fête la *100ème HackNight CogLab* !\n\nOn se donne rendez-vous dans le quartier du Sentier au 15 rue Poissonnière (Paris 2ème, code porte 3581, puis sonner au bout du couloir), et on se déplacera dans un bar pour partager une :beers: en fonction du nombre de personne.\n\n<https:\/\/coglab.fr\/hacknight100\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1548075124.001400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1548075139.001600",
+        "reply_users": [
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1548075139.001600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "service_name": "CogLab, NeuroTechX Paris",
+                "title": "Fêtons la 100ème HackNight CogLab !",
+                "title_link": "https:\/\/coglab.fr\/hacknight100\/",
+                "text": "Salut à toi maker, scientifique, <http:\/\/citoyen.ne|citoyen.ne>, <http:\/\/curieux.se|curieux.se>, Cette semaine, nous avons partagé la traditionnelle galette des rois et lundi prochain, le 21 janvier 2019, nous fêterons la 100ème édition …",
+                "fallback": "CogLab, NeuroTechX Paris: Fêtons la 100ème HackNight CogLab !",
+                "image_url": "https:\/\/coglab.fr\/wp-content\/uploads\/2019\/01\/HackNight100.png",
+                "image_width": 500,
+                "image_height": 250,
+                "ts": 1547595176,
+                "from_url": "https:\/\/coglab.fr\/hacknight100\/",
+                "image_bytes": 2087714,
+                "service_icon": "https:\/\/i2.wp.com\/coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=180%2C180&#038;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/coglab.fr\/hacknight100\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jvi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ce soir on fête la "
+                            },
+                            {
+                                "type": "text",
+                                "text": "100ème HackNight CogLab",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " !\n\nOn se donne rendez-vous dans le quartier du Sentier au 15 rue Poissonnière (Paris 2ème, code porte 3581, puis sonner au bout du couloir), et on se déplacera dans un bar pour partager une "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "beers",
+                                "unicode": "1f37b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " en fonction du nombre de personne.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coglab.fr\/hacknight100\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1548075139.001600",
+        "client_msg_id": "095692de-4329-420d-a3ae-2c2c33db5370",
+        "text": "Ping <@U59MQ46DA> <@U5JBN3M8Q> <@U03JDJWSR> :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1548075124.001400",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1l+jP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ping "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U5JBN3M8Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03JDJWSR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "medal",
+                "users": [
+                    "U5JBN3M8Q"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U03JDJWSR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Event updated: CogLab HackNight #100 SPECIAL: <!date^1548095400^{date_short_pretty} from {time}|January 21st, 2019 from 7:30 PM> to <!date^1548109800^{time}|11:30 PM GMT+0100>",
+                "text": "<!date^1548095400^{date_short_pretty} from {time}|January 21st, 2019 from 7:30 PM> to <!date^1548109800^{time}|11:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "CogLab HackNight #100 SPECIAL",
+                "more": "HackNight de l'association 'CogLab, NeuroTechX Paris'&lt;br&gt;&lt;br&gt;Link :&lt;br&gt;&lt;ul&gt;&lt;li&gt;https:\/\/coglab.fr\/hacknight100\/&lt;br&gt;&lt;\/li&gt;&lt;li&gt;https:\/\/framadate.org\/QnL6IydK5CHL9rYV&lt;\/li&gt;&lt;li&gt;https:\/\/www.facebook.com\/events\/2515573981818375\/&lt;br&gt;&lt;\/li&gt;&lt;\/ul&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;____________________________________&lt;br&gt;&lt;b&gt;Invitation spéciale 100ème soirée HackNight&lt;\/b&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;\/b&gt;Salut à toi maker, scientifique, <http:\/\/citoyen.ne|citoyen.ne>, <http:\/\/curieux.se|curieux.se>,&lt;br&gt;&lt;br&gt;Cette semaine, nous avons partagé la traditionnelle galette des rois et lundi prochain, le 21 janvier 2019, nous fêterons la 100ème édition de nos soirées 'HackNight NeuroTechX Paris' hebdomadaire !&lt;br&gt;&lt;br&gt;L'occasion de célébrer la nouvelle année, nous parler de vos projets sur le sujet des sciences cognitives et neurotechnologies et découvrir les nôtres (Autispace, EEG, Knowledge Graph, Meetup, ...).&lt;br&gt;&lt;br&gt;On se donne rendez-vous dans le quartier du Sentier au &lt;b&gt;15 rue Poissonnière (Paris 2ème, code porte 3581, puis sonner au bout du couloir)&lt;\/b&gt;, et on se déplacera dans un bar pour partager un verre en fonction du nombre de personne.&lt;br&gt;&lt;br&gt;&lt;br&gt;____________________________________&lt;br&gt;&lt;b&gt;Qu'est ce qu'une soirée HackNight ?&lt;\/b&gt;&lt;br&gt;&lt;br&gt;Vous avez un projet en lien avec les neuro-technologies ou les Sciences Cognitives ? Vous cherchez un endroit sympa en plein centre de Paris ? Et surtout l'appui d'une communauté pour mieux progresser ?&lt;br&gt;Dédiées exclusivement à la réalisation de projets ouverts (Open Source) — en groupe ou en autonomie — nous mettons à disposition du matériel (OpenBCI, Leap Motion, Arduino, Eye-tracker, ...) et favorisons le partage de connaissances et la création d'une documentation riche (vous êtes entièrement libre d'apporter votre matériel en complément).&lt;br&gt;&lt;br&gt;&amp;gt; Planning approximatif d'une soirée typique :&lt;br&gt;- A partir de 19h30 : accueil dans les locaux, ouvert également aux curieux dans la limite des places disponibles (10 max)&lt;br&gt;- A partir de 20h00 : rapide tour de table (format Stand Up) afin que chacun sache ce que les autres font, et relever d'éventuelles difficultés pour mieux s'entraider&lt;br&gt;- Chacun avance à son rythme sur un sujet qui lui plait ;-)&lt;br&gt;- Aux alentours de 22h00, on peut également prévoir des moments pour des démos ou tests avec des volontaires parmi les personnes présentent&lt;br&gt;- Fin de la soirée à 23h30 pour permettre d'attraper les transports en commun et laisser infuser nos neuronnes&amp;nbsp;&lt;br&gt;&lt;br&gt;Pour en savoir plus --&amp;gt; <https:\/\/coglab.fr\/actu\/hacknight\/&lt;br&gt;&lt;br&gt;&lt;br&gt;____________________________________&lt;br&gt;&lt;b&gt;Qu'est-ce> que le CogLab&lt;\/b&gt;&lt;br&gt;&lt;br&gt;L’association Coglab \/ Neurotechx Paris à pour objet de promouvoir la diffusion et l’accès aux connaissances en sciences cognitives, à l’aide d’une démarche de science citoyenne, ouverte et accessible ; basée sur l’expérimentation et l’entraide.&lt;br&gt;&lt;br&gt;Nous faisons partie de la communauté internationale NeuroTechX et sommes membres de la FRESCO&lt;br&gt;&lt;br&gt;Pour en savoir plus et nous soutenir --&amp;gt; <https:\/\/coglab.fr\/adhesion\/&lt;br&gt;&lt;br&gt;&lt;br&gt;____________________________________&lt;br&gt;&lt;b&gt;Information> pratiques&lt;\/b&gt;&lt;br&gt;&lt;br&gt;Ordre du jour :&lt;br&gt;- Team OpenBC[IA] : experimentation et prototypage (Hans &amp;amp; Maxence)&lt;br&gt;- Projet Autispace : prototypage WebVR \/ Unity (Romain)&lt;br&gt;&lt;br&gt;Lieu :&amp;nbsp;&lt;br&gt;- Groupe Skype HackNight &lt;a href=\"<https:\/\/join.skype.com\/be7Ty93o77rj>\" target=\"_blank\"&gt;https:\/\/join.skype.com\/be7Ty93o77rj&lt;\/a&gt;&lt;br&gt;- Locaux af83, accueil par Romain (merci de signaler votre présence en répondant à l'invitation ou par un message sur Slack \/ Email \/ SMS)&lt;br&gt;&lt;br&gt;A noter que pour des raisons d’assurance, il faut être membre de l’association pour participer de manière régulière (adhésion de 10€ à l'année, lien ci-dessous). Les curieux sont les bienvenus en début de soirée pour découvrir sans adhésion.&lt;br&gt;&lt;br&gt;Astuce pour les curieux : nous organisons des rencontres certains jeudi lors des soirées Open Paillasse à ... La Paillasse ! Un moment de partage, de veille et prospective autour d'un thème d'actualité sélectionné quelques jours auparavant ou sollicité par la communauté.&amp;nbsp;&lt;br&gt;N'hésitez pas à consulter notre agenda (lien ci-dessous) et proposer des sujets dans la discussion associée à l'événement, sur les réseaux sociaux ou par email.&lt;br&gt;&lt;br&gt;&lt;br&gt;____________________________________&lt;br&gt;&lt;b&gt;Liens utiles&lt;\/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Site web : &lt;a href=\"<http:\/\/coglab.fr\/>\" target=\"_blank\"&gt;http:\/\/coglab.fr\/&lt;\/a&gt;&lt;\/li&gt;&lt;\/ul&gt;&lt;ul&gt;&lt;li&gt;Communautés&amp;nbsp;&lt;a href=\"<https:\/\/coglab.fr\/community\/>\" target=\"_blank\"&gt;https:\/\/coglab.fr\/community\/&lt;\/a&gt;&amp;nbsp;&lt;\/li&gt;&lt;li&gt;Groupe Facebook : &lt;a href=\"<http:\/\/facebook.com\/groups\/coglab\/>\" target=\"_blank\"&gt;facebook.com\/groups\/coglab\/&lt;\/a&gt;&lt;\/li&gt;&lt;li&gt;Slack : &lt;a href=\"<http:\/\/scoglab.slack.com>\" target=\"_blank\"&gt;scoglab.slack.com&lt;\/a&gt;&amp;nbsp;(inscription via &lt;a href=\"<http:\/\/slackcoglab.herokuapp.com>\" target=\"_blank\"&gt;slackcoglab.herokuapp.com&lt;\/a&gt;)&lt;\/li&gt;&lt;li&gt;Twitter : &lt;a href=\"<http:\/\/twitter.com\/SCogLab>\" target=\"_blank\"&gt;twitter.com\/SCogLab&lt;\/a&gt;&lt;\/li&gt;&lt;\/ul&gt;&lt;ul&gt;&lt;li&gt;Agenda de l'association &lt;a href=\"<https:\/\/coglab.fr\/actu\/agenda\/>\" target=\"_blank\"&gt;https:\/\/coglab.fr\/actu\/agenda\/&lt;\/a&gt; (flux ics &lt;a href=\"<http:\/\/calendar.google.com\/calendar\/embed?src=sb3pmu9to1dck7jhanprvcdqso>\" target=\"_blank\"&gt;calendar.google.com\/calendar\/embed?src=sb3pmu9to1dck7jhanprvcdqso&lt;\/a&gt;)&lt;\/li&gt;&lt;li&gt;Historique des rencontres &lt;a href=\"<https:\/\/paper.dropbox.com\/doc\/Agenda-CogLab-NeuroTechX-Paris--ALTQYewJ_NWxW71_O_CxkOgLAQ-a6pJbEvbJvWdJ3fHeF9JJ>\" target=\"_blank\"&gt;Paper&lt;\/a&gt;&amp;nbsp;(plus maintenu)&lt;\/li&gt;&lt;\/ul&gt;&lt;ul&gt;&lt;li&gt;Devenir membre de l'association via&amp;nbsp;&lt;a href=\"<https:\/\/www.helloasso.com\/associations\/coglab\/>\" target=\"_blank\"&gt;HelloAsso&lt;\/a&gt;&amp;nbsp;&lt;br&gt;&lt;\/li&gt;&lt;li&gt;Les projets en cours sont référencé sur&amp;nbsp;&lt;a href=\"<https:\/\/trello.com\/b\/NFHS3ZPa\/activit%C3%A9s>\" target=\"_blank\"&gt;Trello&lt;\/a&gt;&lt;\/li&gt;&lt;\/ul&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Documentation des projets en cours&lt;\/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Projet BC[IA] &lt;a href=\"<http:\/\/www.coglab.fr\/portfolio\/openbcia>\" target=\"_blank\"&gt;http:\/\/www.coglab.fr\/portfolio\/openbcia&lt;\/a&gt;&lt;br&gt;&lt;\/li&gt;&lt;li&gt;Projet Autispace &lt;a href=\"<http:\/\/www.coglab.fr\/portfolio\/autispace\/>\" target=\"_blank\"&gt;http:\/\/www.coglab.fr\/portfolio\/autispace\/&lt;\/a&gt;&lt;br&gt;&lt;\/li&gt;&lt;\/ul&gt;",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=M3N1N2YyMnNybGdxdmRvNDVvOGxqNjczOHRfMjAxOTAxMjFUMTgzMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1548075313.001800",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "CogLab HackNight #100 SPECIAL: <!date^1548095400^{date_short_pretty} from {time}|January 21st, 2019 from 7:30 PM> to <!date^1548109800^{time}|11:30 PM GMT+0100>",
+                "text": "<!date^1548095400^{date_short_pretty} from {time}|January 21st, 2019 from 7:30 PM> to <!date^1548109800^{time}|11:30 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=af83%2C+15+Rue+Poissonni%C3%A8re%2C+75002+Paris%2C+France|af83, 15 Rue Poissonnière, 75002 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #100 SPECIAL",
+                "more": "HackNight de l'association 'CogLab, NeuroTechX Paris'&lt;br&gt;&lt;br&gt;Link :&lt;br&gt;&lt;ul&gt;&lt;li&gt;https:\/\/coglab.fr\/hacknight100\/&lt;br&gt;&lt;\/li&gt;&lt;li&gt;https:\/\/framadate.org\/QnL6IydK5CHL9rYV&lt;\/li&gt;&lt;li&gt;https:\/\/www.facebook.com\/events\/2515573981818375\/&lt;br&gt;&lt;\/li&gt;&lt;\/ul&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;____________________________________&lt;br&gt;&lt;b&gt;Invitation spéciale 100ème soirée HackNight&lt;\/b&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;\/b&gt;Salut à toi maker, scientifique, <http:\/\/citoyen.ne|citoyen.ne>, <http:\/\/curieux.se|curieux.se>,&lt;br&gt;&lt;br&gt;Cette semaine, nous avons partagé la traditionnelle galette des rois et lundi prochain, le 21 janvier 2019, nous fêterons la 100ème édition de nos soirées 'HackNight NeuroTechX Paris' hebdomadaire !&lt;br&gt;&lt;br&gt;L'occasion de célébrer la nouvelle année, nous parler de vos projets sur le sujet des sciences cognitives et neurotechnologies et découvrir les nôtres (Autispace, EEG, Knowledge Graph, Meetup, ...).&lt;br&gt;&lt;br&gt;On se donne rendez-vous dans le quartier du Sentier au &lt;b&gt;15 rue Poissonnière (Paris 2ème, code porte 3581, puis sonner au bout du couloir)&lt;\/b&gt;, et on se déplacera dans un bar pour partager un verre en fonction du nombre de personne.&lt;br&gt;&lt;br&gt;&lt;br&gt;____________________________________&lt;br&gt;&lt;b&gt;Qu'est ce qu'une soirée HackNight ?&lt;\/b&gt;&lt;br&gt;&lt;br&gt;Vous avez un projet en lien avec les neuro-technologies ou les Sciences Cognitives ? Vous cherchez un endroit sympa en plein centre de Paris ? Et surtout l'appui d'une communauté pour mieux progresser ?&lt;br&gt;Dédiées exclusivement à la réalisation de projets ouverts (Open Source) — en groupe ou en autonomie — nous mettons à disposition du matériel (OpenBCI, Leap Motion, Arduino, Eye-tracker, ...) et favorisons le partage de connaissances et la création d'une documentation riche (vous êtes entièrement libre d'apporter votre matériel en complément).&lt;br&gt;&lt;br&gt;&amp;gt; Planning approximatif d'une soirée typique :&lt;br&gt;- A partir de 19h30 : accueil dans les locaux, ouvert également aux curieux dans la limite des places disponibles (10 max)&lt;br&gt;- A partir de 20h00 : rapide tour de table (format Stand Up) afin que chacun sache ce que les autres font, et relever d'éventuelles difficultés pour mieux s'entraider&lt;br&gt;- Chacun avance à son rythme sur un sujet qui lui plait ;-)&lt;br&gt;- Aux alentours de 22h00, on peut également prévoir des moments pour des démos ou tests avec des volontaires parmi les personnes présentent&lt;br&gt;- Fin de la soirée à 23h30 pour permettre d'attraper les transports en commun et laisser infuser nos neuronnes&amp;nbsp;&lt;br&gt;&lt;br&gt;Pour en savoir plus --&amp;gt; <https:\/\/coglab.fr\/actu\/hacknight\/&lt;br&gt;&lt;br&gt;&lt;br&gt;____________________________________&lt;br&gt;&lt;b&gt;Qu'est-ce> que le CogLab&lt;\/b&gt;&lt;br&gt;&lt;br&gt;L’association Coglab \/ Neurotechx Paris à pour objet de promouvoir la diffusion et l’accès aux connaissances en sciences cognitives, à l’aide d’une démarche de science citoyenne, ouverte et accessible ; basée sur l’expérimentation et l’entraide.&lt;br&gt;&lt;br&gt;Nous faisons partie de la communauté internationale NeuroTechX et sommes membres de la FRESCO&lt;br&gt;&lt;br&gt;Pour en savoir plus et nous soutenir --&amp;gt; <https:\/\/coglab.fr\/adhesion\/&lt;br&gt;&lt;br&gt;&lt;br&gt;____________________________________&lt;br&gt;&lt;b&gt;Information> pratiques&lt;\/b&gt;&lt;br&gt;&lt;br&gt;Ordre du jour :&lt;br&gt;- Team OpenBC[IA] : experimentation et prototypage (Hans &amp;amp; Maxence)&lt;br&gt;- Projet Autispace : prototypage WebVR \/ Unity (Romain)&lt;br&gt;&lt;br&gt;Lieu :&amp;nbsp;&lt;br&gt;- Groupe Skype HackNight &lt;a href=\"<https:\/\/join.skype.com\/be7Ty93o77rj>\" target=\"_blank\"&gt;https:\/\/join.skype.com\/be7Ty93o77rj&lt;\/a&gt;&lt;br&gt;- Locaux af83, accueil par Romain (merci de signaler votre présence en répondant à l'invitation ou par un message sur Slack \/ Email \/ SMS)&lt;br&gt;&lt;br&gt;A noter que pour des raisons d’assurance, il faut être membre de l’association pour participer de manière régulière (adhésion de 10€ à l'année, lien ci-dessous). Les curieux sont les bienvenus en début de soirée pour découvrir sans adhésion.&lt;br&gt;&lt;br&gt;Astuce pour les curieux : nous organisons des rencontres certains jeudi lors des soirées Open Paillasse à ... La Paillasse ! Un moment de partage, de veille et prospective autour d'un thème d'actualité sélectionné quelques jours auparavant ou sollicité par la communauté.&amp;nbsp;&lt;br&gt;N'hésitez pas à consulter notre agenda (lien ci-dessous) et proposer des sujets dans la discussion associée à l'événement, sur les réseaux sociaux ou par email.&lt;br&gt;&lt;br&gt;&lt;br&gt;____________________________________&lt;br&gt;&lt;b&gt;Liens utiles&lt;\/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Site web : &lt;a href=\"<http:\/\/coglab.fr\/>\" target=\"_blank\"&gt;http:\/\/coglab.fr\/&lt;\/a&gt;&lt;\/li&gt;&lt;\/ul&gt;&lt;ul&gt;&lt;li&gt;Communautés&amp;nbsp;&lt;a href=\"<https:\/\/coglab.fr\/community\/>\" target=\"_blank\"&gt;https:\/\/coglab.fr\/community\/&lt;\/a&gt;&amp;nbsp;&lt;\/li&gt;&lt;li&gt;Groupe Facebook : &lt;a href=\"<http:\/\/facebook.com\/groups\/coglab\/>\" target=\"_blank\"&gt;facebook.com\/groups\/coglab\/&lt;\/a&gt;&lt;\/li&gt;&lt;li&gt;Slack : &lt;a href=\"<http:\/\/scoglab.slack.com>\" target=\"_blank\"&gt;scoglab.slack.com&lt;\/a&gt;&amp;nbsp;(inscription via &lt;a href=\"<http:\/\/slackcoglab.herokuapp.com>\" target=\"_blank\"&gt;slackcoglab.herokuapp.com&lt;\/a&gt;)&lt;\/li&gt;&lt;li&gt;Twitter : &lt;a href=\"<http:\/\/twitter.com\/SCogLab>\" target=\"_blank\"&gt;twitter.com\/SCogLab&lt;\/a&gt;&lt;\/li&gt;&lt;\/ul&gt;&lt;ul&gt;&lt;li&gt;Agenda de l'association &lt;a href=\"<https:\/\/coglab.fr\/actu\/agenda\/>\" target=\"_blank\"&gt;https:\/\/coglab.fr\/actu\/agenda\/&lt;\/a&gt; (flux ics &lt;a href=\"<http:\/\/calendar.google.com\/calendar\/embed?src=sb3pmu9to1dck7jhanprvcdqso>\" target=\"_blank\"&gt;calendar.google.com\/calendar\/embed?src=sb3pmu9to1dck7jhanprvcdqso&lt;\/a&gt;)&lt;\/li&gt;&lt;li&gt;Historique des rencontres &lt;a href=\"<https:\/\/paper.dropbox.com\/doc\/Agenda-CogLab-NeuroTechX-Paris--ALTQYewJ_NWxW71_O_CxkOgLAQ-a6pJbEvbJvWdJ3fHeF9JJ>\" target=\"_blank\"&gt;Paper&lt;\/a&gt;&amp;nbsp;(plus maintenu)&lt;\/li&gt;&lt;\/ul&gt;&lt;ul&gt;&lt;li&gt;Devenir membre de l'association via&amp;nbsp;&lt;a href=\"<https:\/\/www.helloasso.com\/associations\/coglab\/>\" target=\"_blank\"&gt;HelloAsso&lt;\/a&gt;&amp;nbsp;&lt;br&gt;&lt;\/li&gt;&lt;li&gt;Les projets en cours sont référencé sur&amp;nbsp;&lt;a href=\"<https:\/\/trello.com\/b\/NFHS3ZPa\/activit%C3%A9s>\" target=\"_blank\"&gt;Trello&lt;\/a&gt;&lt;\/li&gt;&lt;\/ul&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Documentation des projets en cours&lt;\/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Projet BC[IA] &lt;a href=\"<http:\/\/www.coglab.fr\/portfolio\/openbcia>\" target=\"_blank\"&gt;http:\/\/www.coglab.fr\/portfolio\/openbcia&lt;\/a&gt;&lt;br&gt;&lt;\/li&gt;&lt;li&gt;Projet Autispace &lt;a href=\"<http:\/\/www.coglab.fr\/portfolio\/autispace\/>\" target=\"_blank\"&gt;http:\/\/www.coglab.fr\/portfolio\/autispace\/&lt;\/a&gt;&lt;br&gt;&lt;\/li&gt;&lt;\/ul&gt;",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=M3N1N2YyMnNybGdxdmRvNDVvOGxqNjczOHRfMjAxOTAxMjFUMTgzMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1548091801.001900",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Event created: [Fresco] Les Sciences Cognitives en scène #1: <!date^1548513000^{date_short_pretty} from {time}|January 26th, 2019 from 3:30 PM> to <!date^1548525600^{time}|7:00 PM GMT+0100>",
+                "text": "<!date^1548513000^{date_short_pretty} from {time}|January 26th, 2019 from 3:30 PM> to <!date^1548525600^{time}|7:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Th%C3%A9%C3%A2tre+M%C3%A9lo+d%27Am%C3%A9lie%2C+4+Rue+Marie+Stuart%2C+75002+Paris%2C+France|Théâtre Mélo d'Amélie, 4 Rue Marie Stuart, 75002 Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "[Fresco] Les Sciences Cognitives en scène #1",
+                "more": "&lt;br&gt;&lt;b&gt;Les Sciences Cognitives en scène - Edition n°1 : la Mémoire&lt;\/b&gt;&lt;br&gt;&lt;br&gt;Une rencontre entre chercheurs et comédiens autour de la Mémoire organisée par La Cie les Faits d'âmes et la FRESCO :&lt;br&gt;&lt;br&gt;Cet événement a pour but d’apporter aux comédiens une meilleure connaissance de leur outil de travail, de déconstruire les idées reçues qu’ils peuvent avoir et de leur donner des outils pour améliorer leur pratique.&lt;br&gt;&lt;br&gt;Nous proposons aux chercheurs d'explorer leur domaine en adoptant une approche plus pratique et de confronter leurs connaissances théoriques et issues du laboratoire, à des professionnels dont la mémoire est l'un des outils fondamentaux. &lt;br&gt;&lt;br&gt;***&lt;br&gt;&lt;br&gt;DEROULEMENT :&lt;br&gt;&lt;br&gt;1ère heure : Conférences &amp;amp; questions&lt;br&gt;Cycle de 3 mini-conférences de 10 minutes données par des chercheurs qui travaillent sur ce thème, suivi d’une session de questions\/réponses.&lt;br&gt;&lt;br&gt;2ème heure : Atelier&lt;br&gt;Atelier de théâtre donné par un intervenant aux chercheurs, constitué d’exercices en lien avec la mémoire. &lt;br&gt;&lt;br&gt;3ème heure : Apéro&lt;br&gt;Temps d’échanges libres entre tous les participants autour d’un verre au bar du théâtre.&lt;br&gt;&lt;br&gt;***&lt;br&gt;&lt;br&gt;Au cœur du travail du comédien ainsi qu’au centre des recherches en sciences cognitives, la mémoire est un thème passionnant !&lt;br&gt;&lt;br&gt;Faire expérimenter aux chercheurs et étudiants leur propre mémoire à la manière d’un comédien pourrait conduire à l'ouverture de nouvelles perspectives d'investigation de ce processus cognitif...&lt;br&gt;&lt;br&gt;https:\/\/www.facebook.com\/events\/616696298748752\/",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=N3ZvM3NndDF1aWtpZTZ1MzdiN2NkYTJmZ2Ugc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1548095353.002000",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Event updated: [Cité des Sciences] Conférence BCI: <!date^1550080800^{date_short_pretty} from {time}|February 13th, 2019 from 7:00 PM> to <!date^1550091600^{time}|10:00 PM GMT+0100>",
+                "text": "<!date^1550080800^{date_short_pretty} from {time}|February 13th, 2019 from 7:00 PM> to <!date^1550091600^{time}|10:00 PM GMT+0100> at <https:\/\/maps.google.com\/maps?q=Cit%C3%A9+des+sciences+et+de+l%27industrie%2C+30+Avenue+Corentin+Cariou%2C+75019+Paris%2C+France|Cité des sciences et de l'industrie, 30 Avenue Corentin Cariou, 75019 Paris, France>",
+                "pretext": "Calendar event updated",
+                "title": "[Cité des Sciences] Conférence BCI",
+                "more": "&lt;br&gt;&lt;b&gt;Conférence - Piloter un objet par l'activité cérébrale &lt;\/b&gt;&lt;a href=\"<https:\/\/www.facebook.com\/events\/523825821444152\/>\" id=\"ow972\" __is_owner=\"true\"&gt;https:\/\/www.facebook.com\/events\/523825821444152\/&lt;\/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Contrôler une machine ou un avatar par la pensée... Rêve pour certains, sciences fiction pour d'autres, mais d'ores et déjà une réalité !&lt;br&gt;Bien que cela nécessite un apprentissage, il est possible de se concentrer suffisamment fort pour qu'un type d'ondes cérébrales soit reconnu et interprété par une interface homme-machine.&lt;br&gt;&lt;br&gt;Comment se déroule cet apprentissage ? Comment stéréotyper les ondes cérébrales pour qu'elles soient reconnues par une machine ? Peut-on redonner la mobilité à des personnes n'en ayant plus grâce à un contrôle d'exosquelettes ? Sera-t-il possible de jouer à un jeu entièrement via son cerveau ?&lt;br&gt;&lt;br&gt;Ces sujets seront le centre de quatre présentations par :&lt;br&gt;&lt;ul&gt;&lt;li&gt;Alain Berthoz, neurophysiologiste, membre honoraire du Collège de France, membre de l’Académie des technologies ;&lt;br&gt;&lt;\/li&gt;&lt;li&gt;Guillaume Charvet, responsable du Pôle conception des dispositifs médicaux, Cea, Leti, Clinatec, Grenoble ;&lt;br&gt;&lt;\/li&gt;&lt;li&gt;Anatole Lécuyer, directeur de recherche, Institut national de recherche en informatique et automatique (Inria), Rennes ;&lt;br&gt;&lt;\/li&gt;&lt;li&gt;Fabien Lotte, chargé de recherche, Inria\/Labri, université de Bordeaux, CNRS\/INP ;&lt;br&gt;&lt;\/li&gt;&lt;li&gt;Jérémie Mattout, chercheur Inserm, Centre de recherche en neurosciences de Lyon (CRNL).&lt;\/li&gt;&lt;\/ul&gt;Ces présentations seront suivies d'une table ronde animée par René Amalberti, Académie des technologies.",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NW5mNWRtYTl0MjNydnZzNmwyYWoxdDNsbW0gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1548095774.002100",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event created: [Fresco] WEPASCO: <!date^1556910000^{date_short_pretty} from {time}|May 3rd, 2019 from 9:00 PM> to <!date^1557061200^{date_short_pretty} at {time}|May 5th, 2019 at 3:00 PM GMT+0200>",
+                "text": "<!date^1556910000^{date_short_pretty} from {time}|May 3rd, 2019 from 9:00 PM> to <!date^1557061200^{date_short_pretty} at {time}|May 5th, 2019 at 3:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=France|France>",
+                "pretext": "New calendar event created",
+                "title": "[Fresco] WEPASCO",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NnU1aWU3MGNvOGl1b2lxZnNrMWdqdTZzZTcgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1548099133.002300",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "text": "Hacknight :100: :ok_hand:",
+        "files": [
+            {
+                "id": "FFLNQEG3Y",
+                "created": 1548112405,
+                "timestamp": 1548112405,
+                "name": "20190121_223032.jpg",
+                "title": "20190121_223032.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03FC5ZAK",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 357476,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FFLNQEG3Y\/20190121_223032.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FFLNQEG3Y\/download\/20190121_223032.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FFLNQEG3Y-d0bea17b70\/20190121_223032_64.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FFLNQEG3Y-d0bea17b70\/20190121_223032_80.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FFLNQEG3Y-d0bea17b70\/20190121_223032_360.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FFLNQEG3Y-d0bea17b70\/20190121_223032_480.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FFLNQEG3Y-d0bea17b70\/20190121_223032_160.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FFLNQEG3Y-d0bea17b70\/20190121_223032_720.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FFLNQEG3Y-d0bea17b70\/20190121_223032_800.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FFLNQEG3Y-d0bea17b70\/20190121_223032_960.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FFLNQEG3Y-d0bea17b70\/20190121_223032_1024.jpg?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "image_exif_rotation": 1,
+                "original_w": 3264,
+                "original_h": 2448,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U03FC5ZAK\/FFLNQEG3Y\/20190121_223032.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-FFLNQEG3Y-c6d487d60f",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U03FC5ZAK",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lubD1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hacknight "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "100",
+                                "unicode": "1f4af"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand",
+                                "unicode": "1f44c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1548112412.002700",
+        "client_msg_id": "42452f60-c790-422f-8eb9-663a85540c79",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U03FEH3N8"
+                ],
+                "count": 1
+            },
+            {
+                "name": "champagne",
+                "users": [
+                    "U03FEH3N8"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U59MQ46DA",
+                    "U5JBN3M8Q"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

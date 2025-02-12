@@ -1,0 +1,134 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U016X9GLPEU",
+        "text": "<@U016X9GLPEU> a rejoint le canal",
+        "type": "message",
+        "ts": "1593430873.057400"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1593450305.057600",
+        "client_msg_id": "75e3e5eb-0b8e-459f-846d-567d0d25654f",
+        "text": "We are actually online (<#C0R6W4X2Q|coglab-hacknight> time) with *Çağlar* Çakan from Bernstein Center for Computational Neuroscience Berlin poke <@ULSDVUUVA>\n\nHe work on *Neurolib*, a python simulation framework for easy whole-brain neural mass modeling (<http:\/\/github.com\/neurolib-dev\/neurolib|github.com\/neurolib-dev\/neurolib>)\n\nDirect link <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>\nMeetup follow up <https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Jitsi Meet",
+                "title_link": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "text": "Join a WebRTC video conference powered by the Jitsi Videobridge",
+                "fallback": "Jitsi Meet",
+                "from_url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight",
+                "service_icon": "https:\/\/meet.jit.si\/images\/apple-touch-icon.png",
+                "service_name": "meet.jit.si",
+                "id": 1,
+                "original_url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight"
+            },
+            {
+                "service_name": "Meetup",
+                "title": "Événements à venir | CogLab Paris Meetup - Cognitive Science DIY (Paris, France)",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/",
+                "text": "Evénements à venir pour CogLab Paris Meetup - Cognitive Science DIY à Paris, France. Un groupe Meetup de plus de 599 CognitiveMakers.",
+                "fallback": "Meetup: Événements à venir | CogLab Paris Meetup - Cognitive Science DIY (Paris, France)",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/e\/1\/8\/1\/600_460317729.jpeg",
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/",
+                "image_width": 600,
+                "image_height": 230,
+                "image_bytes": 218209,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/fr-FR\/m_swarm_120x120.4f86abc9.png",
+                "id": 2,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cgLqz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We are actually online ("
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0R6W4X2Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " time) with "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Çağlar",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Çakan from Bernstein Center for Computational Neuroscience Berlin poke "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "ULSDVUUVA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nHe work on "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Neurolib",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", a python simulation framework for easy whole-brain neural mass modeling ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/github.com\/neurolib-dev\/neurolib",
+                                "text": "github.com\/neurolib-dev\/neurolib"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n\nDirect link "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meet.jit.si\/NeuroTechX-Hacknight"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMeetup follow up "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

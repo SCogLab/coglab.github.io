@@ -1,0 +1,90 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U03FC5ZAK",
+        "text": "<@U03FC5ZAK> a rejoint le canal",
+        "type": "message",
+        "ts": "1440281305.000002"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC5ZAK",
+        "purpose": "Project speaking about quantified self, well-being (yoga, sophrology, ...) &amp; augmented human (smart-drug, food, stimulus)",
+        "text": "a défini la description du canal : Project speaking about quantified self, well-being (yoga, sophrology, ...) &amp; augmented human (smart-drug, food, stimulus)",
+        "type": "message",
+        "ts": "1440281305.000003"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1440281335.000004",
+        "text": "Que penses-tu de ça <@U07MRF79P> ?\n<http:\/\/www.psychomedia.qc.ca\/psychologie\/2015-08-21\/stimulation-transcranienne-a-courant-continu-test>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FHb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Que penses-tu de ça "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07MRF79P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.psychomedia.qc.ca\/psychologie\/2015-08-21\/stimulation-transcranienne-a-courant-continu-test"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U07MRF79P",
+        "text": "<@U07MRF79P> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1440281340.000005"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FC4NE1",
+        "text": "<@U03FC4NE1> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1440281361.000006"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U03FEH3N8",
+        "text": "<@U03FEH3N8> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1440281361.000007"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1623757161.003700",
+        "client_msg_id": "568d9023-d71c-4d36-9aa6-0406a65f6be1",
+        "text": "<https:\/\/digyt.github.io\/automated_EEG_cleaning_comparison\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "DiGyt's Blog",
+                "title": "Automated EEG Cleaning - A Comparison",
+                "title_link": "https:\/\/digyt.github.io\/automated_EEG_cleaning_comparison\/",
+                "text": "A collection, explanation, and comparison of various automated EEG cleaning algorithms.",
+                "fallback": "DiGyt's Blog: Automated EEG Cleaning - A Comparison",
+                "image_url": "https:\/\/digyt.github.io\/assets\/images\/posts\/eeg_ar_02.JPG",
+                "ts": 1623628800,
+                "from_url": "https:\/\/digyt.github.io\/automated_EEG_cleaning_comparison\/",
+                "image_width": 646,
+                "image_height": 250,
+                "image_bytes": 206095,
+                "id": 1,
+                "original_url": "https:\/\/digyt.github.io\/automated_EEG_cleaning_comparison\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9to4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/digyt.github.io\/automated_EEG_cleaning_comparison\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

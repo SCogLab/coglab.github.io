@@ -1,0 +1,52 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Hans Harisson",
+                "fallback": "New card CR Webinar #7 added to list BLOG on board ACTIVITÉS.",
+                "text": "In list *BLOG* on *<https:\/\/trello.com\/b\/NFHS3ZPa|ACTIVITÉS>*.",
+                "pretext": "New card created",
+                "title": "CR Webinar #7",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/vE9YtVxM",
+                "author_link": "https:\/\/trello.com\/hansharisson1",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/3b24595bfbf9964329e0f68a00393ac7\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1549261713.000100",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Hans Harisson",
+                "fallback": "Hans Harisson commented on CR Webinar #7 NeuroTechX: \"Je profiterai de ce webinar pour faire un billet de blog sur les CR des webinaires précédents.\"",
+                "text": "Je profiterai de ce webinar pour faire un billet de blog sur les CR des webinaires précédents.",
+                "pretext": "New comment on *<https:\/\/trello.com\/c\/vE9YtVxM|CR Webinar #7 NeuroTechX>*",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/hansharisson1",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/3b24595bfbf9964329e0f68a00393ac7\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1549261913.000200",
+        "bot_id": "B66HQV43C"
+    }
+]

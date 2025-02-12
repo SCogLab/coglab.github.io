@@ -1,0 +1,52 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U5JBN3M8Q",
+        "text": "<@U5JBN3M8Q> a rejoint le canal",
+        "inviter": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1539023240.000200"
+    },
+    {
+        "user": "U5JBN3M8Q",
+        "type": "message",
+        "ts": "1539024088.000100",
+        "client_msg_id": "9bb21d1d-5f38-4827-8d51-0a414c0349f7",
+        "text": "Je n'ai pas vu celui là non plus <https:\/\/framaboard.org\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1b6f1c358f7d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-04\/280876898465_1b6f1c358f7daf194add_72.jpg",
+            "first_name": "Isabelle",
+            "real_name": "Isabelle NICHELLE",
+            "display_name": "isabelle_n",
+            "team": "T03FC4NDZ",
+            "name": "isabelle_n",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mIyZt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je n'ai pas vu celui là non plus "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/framaboard.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

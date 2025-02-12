@@ -1,0 +1,205 @@
+[
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1537791434.000100",
+        "client_msg_id": "a24a601b-09ba-4a91-9d5a-b5810f709534",
+        "text": "c'est quand la prochaine réu bureau ou CA ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4O9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "c'est quand la prochaine réu bureau ou CA ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1537792102.000100",
+        "client_msg_id": "af5785f7-cba3-4d98-91a1-96bbd7d5e746",
+        "text": "Je laisse la secrétaire <@U5JBN3M8Q> planifier cela,\nMerci pour le rappel !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SxE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je laisse la secrétaire "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U5JBN3M8Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " planifier cela,\nMerci pour le rappel !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1537814826.000100",
+        "client_msg_id": "9cd1c418-8c8b-499b-a956-40fd6a8de697",
+        "text": "Et à organiser ASAP !\n<https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/239127976\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Meetup CogLab N°8 - Réalités mixtes et Sciences Cognitives",
+                "title_link": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/239127976\/",
+                "text": "Episode 1, Saison 3.Après notre première Assemblée Générale et une présence au Forum des Sciences Cognitives, nous entamons une nouvelle saison de Meetup centrée sur les interfaces et les nouveaux usa",
+                "fallback": "Meetup: Meetup CogLab N°8 - Réalités mixtes et Sciences Cognitives",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/e\/1\/8\/1\/600_460317729.jpeg",
+                "from_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/239127976\/",
+                "image_width": 600,
+                "image_height": 230,
+                "image_bytes": 218209,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/fr-FR\/m_swarm_120x120.4f86abc9.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/239127976\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "POB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et à organiser ASAP !\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/fr-FR\/CogLab\/events\/239127976\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U5JBN3M8Q",
+        "type": "message",
+        "ts": "1537815121.000100",
+        "edited": {
+            "user": "U5JBN3M8Q",
+            "ts": "1537815427.000000"
+        },
+        "client_msg_id": "d53448a0-118b-467e-9ff5-7a24e19d6822",
+        "text": "<!channel> Voici le lien pour choisir la date du prochain CA ! <https:\/\/framadate.org\/wbLei9kQWEGExhIX>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1b6f1c358f7d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-04\/280876898465_1b6f1c358f7daf194add_72.jpg",
+            "first_name": "Isabelle",
+            "real_name": "Isabelle NICHELLE",
+            "display_name": "isabelle_n",
+            "team": "T03FC4NDZ",
+            "name": "isabelle_n",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SXh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Voici le lien pour choisir la date du prochain CA ! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/framadate.org\/wbLei9kQWEGExhIX"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03FC5ZAK",
+                    "U03FEH3N8"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

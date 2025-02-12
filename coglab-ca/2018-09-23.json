@@ -1,0 +1,51 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card MAJ liste curation d'événements added to list EN PAUSE ou EN ATTENTE on board GESTION.",
+                "text": "In list *EN PAUSE ou EN ATTENTE* on *<https:\/\/trello.com\/b\/jSnI3dXM|GESTION>*.",
+                "pretext": "New card created",
+                "title": "MAJ liste curation d'événements",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/6GNvb6rN",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/fbade7eb745f836dfdf0ef726a7350c0\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1537730276.000100",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "Romain ROUYER Archived the card Chantier Documentation.",
+                "text": "Archived the card *<https:\/\/trello.com\/c\/MjwyziEn|Chantier Documentation>*.",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "author_icon": "http:\/\/trello-avatars.s3.amazonaws.com\/fbade7eb745f836dfdf0ef726a7350c0\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1537731798.000100",
+        "bot_id": "B66HQV43C"
+    }
+]

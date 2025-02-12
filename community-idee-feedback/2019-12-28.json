@@ -1,0 +1,82 @@
+[
+    {
+        "user": "URS0PAL8Y",
+        "type": "message",
+        "ts": "1577545677.000300",
+        "client_msg_id": "0fafc4c4-783b-4008-a060-0f2dc4e1b2a2",
+        "text": "Okay merci !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "94d54365e2ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-17\/866882619345_94d54365e2eeb08c613b_72.jpg",
+            "first_name": "Paul",
+            "real_name": "Paul Barbaste",
+            "display_name": "PaulB",
+            "team": "T03FC4NDZ",
+            "name": "paulbarbaste",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1577110806.000600",
+        "parent_user_id": "URS0PAL8Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hZFX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay merci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UMSL037JT",
+        "type": "message",
+        "ts": "1577547202.000800",
+        "client_msg_id": "26de0e02-ff41-4646-9fe3-52e0b097e8be",
+        "text": "Non désolé je n'ai jamais utilisé websocket...",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "gc83ebac7853",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1c83ebac7853c13b22f556e7fdb52598.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Maxime Osty",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "maxime.osty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1577110806.000600",
+        "parent_user_id": "URS0PAL8Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rWe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Non désolé je n'ai jamais utilisé websocket..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

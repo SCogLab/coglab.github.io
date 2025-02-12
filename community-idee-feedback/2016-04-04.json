@@ -1,0 +1,464 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U0XM71R9C",
+        "text": "<@U0XM71R9C> a rejoint le canal",
+        "type": "message",
+        "ts": "1459760252.000018"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1459771143.000019",
+        "text": "<http:\/\/www.maddyness.com\/entrepreneurs\/2016\/03\/29\/backpack-top-10-outils-presentations\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Maddyness",
+                "title": "#BackPack : Top 10 des outils qui boostent vos présentations",
+                "title_link": "http:\/\/www.maddyness.com\/entrepreneurs\/2016\/03\/29\/backpack-top-10-outils-presentations\/",
+                "text": "BackPack, c’est le guide de survie de l’entrepreneur imaginé par Maddyness et La Petite Étoile. Tous les aspects de la création d’entreprise y sont passés en revue dans ses 176 pages.",
+                "fallback": "Maddyness: #BackPack : Top 10 des outils qui boostent vos présentations",
+                "thumb_url": "http:\/\/www.maddyness.com\/wp-content\/uploads\/2016\/03\/presentations.jpg",
+                "ts": 1459261854,
+                "from_url": "http:\/\/www.maddyness.com\/entrepreneurs\/2016\/03\/29\/backpack-top-10-outils-presentations\/",
+                "thumb_width": 960,
+                "thumb_height": 640,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "diX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.maddyness.com\/entrepreneurs\/2016\/03\/29\/backpack-top-10-outils-presentations\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1459771309.000021",
+        "text": "Bon à savoir ! Cela va simplifier la tâche des startup notamment\n<http:\/\/openvibe.inria.fr\/openvibe-to-become-medically-certifiable\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iX0E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bon à savoir ! Cela va simplifier la tâche des startup notamment\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/openvibe.inria.fr\/openvibe-to-become-medically-certifiable\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0MDFGWEP",
+        "type": "message",
+        "ts": "1459778328.000022",
+        "edited": {
+            "user": "U0MDFGWEP",
+            "ts": "1459778801.000000"
+        },
+        "text": "Coucou ! J'espère ne pas me tromper de topic mais voilà, je me demande si un développeur serait interesser de développer un outil de sensibilisation à la dyslexie.\nEn fait, il existe déjà ce simulateur <http:\/\/bigbrowser.blog.lemonde.fr\/2016\/03\/08\/ce-que-voit-un-dyslexique-en-lisant\/>\nJ'en ai parlé avec une experte de la dislexie (enseignante spécialisée catégorie E donc troubles spécifiques des apprentissages et formatrice). Elle me dit :\n\"c'est super mais les Français sont nulles en Anglais et il est difficile de savoir si la lecture est pénible à cause du simulateur ou si c'est à cause de la langue (en anglais)\"\nDonc j'ai contacté le gars qui est à l'origine du simulateur pour savoir comment télécharger son programme et si on pouvait changer le texte de démonstration. Je n'ai toujours pas de nouvelles après plusieurs jours... Du coup je me dis que ça irait surement plus vite de le développer de telles sortes qu'il puisse tourner sur un texte choisi par celui qui veut faire la démonstration.\nEn plus, je ne pense pas que ce soit très difficile à développer.\n\nVoilà voilà... quelqu'un de motivé ? :wink:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g6c600f36396",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/66c600f363966476bf223e2b086bf583.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "jennifer",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "jennifer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Big Browser",
+                "title": "Ce que voit un dyslexique en lisant",
+                "title_link": "http:\/\/bigbrowser.blog.lemonde.fr\/2016\/03\/08\/ce-que-voit-un-dyslexique-en-lisant\/",
+                "fallback": "Big Browser: Ce que voit un dyslexique en lisant",
+                "image_url": "http:\/\/bigbrowser.blog.lemonde.fr\/files\/2016\/03\/ez.jpg",
+                "from_url": "http:\/\/bigbrowser.blog.lemonde.fr\/2016\/03\/08\/ce-que-voit-un-dyslexique-en-lisant\/",
+                "image_width": 336,
+                "image_height": 179,
+                "image_bytes": 17233,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TlmT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coucou ! J'espère ne pas me tromper de topic mais voilà, je me demande si un développeur serait interesser de développer un outil de sensibilisation à la dyslexie.\nEn fait, il existe déjà ce simulateur "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/bigbrowser.blog.lemonde.fr\/2016\/03\/08\/ce-que-voit-un-dyslexique-en-lisant\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nJ'en ai parlé avec une experte de la dislexie (enseignante spécialisée catégorie E donc troubles spécifiques des apprentissages et formatrice). Elle me dit :\n\"c'est super mais les Français sont nulles en Anglais et il est difficile de savoir si la lecture est pénible à cause du simulateur ou si c'est à cause de la langue (en anglais)\"\nDonc j'ai contacté le gars qui est à l'origine du simulateur pour savoir comment télécharger son programme et si on pouvait changer le texte de démonstration. Je n'ai toujours pas de nouvelles après plusieurs jours... Du coup je me dis que ça irait surement plus vite de le développer de telles sortes qu'il puisse tourner sur un texte choisi par celui qui veut faire la démonstration.\nEn plus, je ne pense pas que ce soit très difficile à développer.\n\nVoilà voilà... quelqu'un de motivé ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1459778758.000024",
+        "text": "<@U0MDFGWEP>: oh il est cool le simulateur ! tu penses à quoi comme outil ? quelque chose pour accompagner le simulateur ?",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xlw2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0MDFGWEP"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": oh il est cool le simulateur ! tu penses à quoi comme outil ? quelque chose pour accompagner le simulateur ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0MDFGWEP",
+        "type": "message",
+        "ts": "1459778848.000026",
+        "text": "<@U03FEH3N8>: le message était partie trop vite, je l'ai édité :wink: !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g6c600f36396",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/66c600f363966476bf223e2b086bf583.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "jennifer",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "jennifer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f79\/a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": le message était partie trop vite, je l'ai édité "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1459780257.000027",
+        "text": "<@U0MDFGWEP>: oui je me suis dit aussi que tu pensais peut être à une version française. le plus simple ce serait en effet d'avoir son programme. (est ce qu'il interchange les lettres aléatoirement ou il suit des règles connues qui posent problème aux dislexiques (interchange les consonnes ? j'ai l'impression qu'il garde toujours la première et dernière lettre) ... \nje suis pas developeuse, je pourrais faire un truc en python mais ce serait stylé comme l'application. \npar contre, je me dis qu'on pourrait faire un truc cool en intégrant un eyetracker : pour sensibiliser à des problèmes visuels cérébraux (genre hemi négligence : on voit que la moitié de notre champ de vision ou d'autre truc, qui du coup nécessite de savoir où la personne regarde pour adapter d'écran en fonction",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qpp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0MDFGWEP"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": oui je me suis dit aussi que tu pensais peut être à une version française. le plus simple ce serait en effet d'avoir son programme. (est ce qu'il interchange les lettres aléatoirement ou il suit des règles connues qui posent problème aux dislexiques (interchange les consonnes ? j'ai l'impression qu'il garde toujours la première et dernière lettre) ... \nje suis pas developeuse, je pourrais faire un truc en python mais ce serait stylé comme l'application. \npar contre, je me dis qu'on pourrait faire un truc cool en intégrant un eyetracker : pour sensibiliser à des problèmes visuels cérébraux (genre hemi négligence : on voit que la moitié de notre champ de vision ou d'autre truc, qui du coup nécessite de savoir où la personne regarde pour adapter d'écran en fonction"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0MDFGWEP",
+        "type": "message",
+        "ts": "1459786936.000028",
+        "edited": {
+            "user": "U0MDFGWEP",
+            "ts": "1459787115.000000"
+        },
+        "text": "<@U03FEH3N8>: Il est vrai que ce serait bien d'avoir son programme mais il ne répond pas. Du coup pour repartir sur de bonnes bases je propose que nous invitions sur ce Pad Corinne Galet qui est enseignante spécialisée catégorie E (l'option E de la formation d'enseignat spécialisé est dédié au troubles des apprentissages), elle est également formatrice à l'INS HEA et créatrice du DU sur les troubles DYS que j'ai passé\/.\nC'est elle qui m'a dit que ça ne lui plaisait pas que le simulateur passe sur un texte en anglais. Donc je pense que c'est la plus à même de donner son avis sur l'algo (en plus le coup de la première et dernière lettre qui restent fixes c'est bizarre...)\nOn l'invite ?\n\nPour ceux qui est de créer un outil de sensibilisation contenant plusieurs module : pourquoi pas ! Par exemple on pourrait faire un module sur la dyspraxie visuo spatiale (le regard saute aléatoirement d'une ligne à l'autre et si le texte s'étale sur plusieurs colonnes c'est la fin des haricots. Pour info à ce sujet, la spécialiste de la dyspraxie en France c'est Caroline Huron (psychiatre chercheuse en sciences cognitives dans le laboratoire de Stanislas Dehaene et présidente de l'association \"le cartable fantastique\" qui proposent des ressources pour aider les élèces dyspraxiques). C'est donc avec elle qu'il faudrait travailler...\n\nEnfin pour te répondre sur la question du python : je pense que ce n'est pas génant du moment que :\n1- l'exécutable est pratique\n2- on peut choisir le texte sur lequel on passe le texte\n=&gt; ça permettrait d'utiliser l'outil en classe pour créer des situations ou par exemple les enfants ayant des problêmes auraient un texte normal et les enfants valides un texte sur le simulateur",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g6c600f36396",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/66c600f363966476bf223e2b086bf583.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "jennifer",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "jennifer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b7Bg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Il est vrai que ce serait bien d'avoir son programme mais il ne répond pas. Du coup pour repartir sur de bonnes bases je propose que nous invitions sur ce Pad Corinne Galet qui est enseignante spécialisée catégorie E (l'option E de la formation d'enseignat spécialisé est dédié au troubles des apprentissages), elle est également formatrice à l'INS HEA et créatrice du DU sur les troubles DYS que j'ai passé\/.\nC'est elle qui m'a dit que ça ne lui plaisait pas que le simulateur passe sur un texte en anglais. Donc je pense que c'est la plus à même de donner son avis sur l'algo (en plus le coup de la première et dernière lettre qui restent fixes c'est bizarre...)\nOn l'invite ?\n\nPour ceux qui est de créer un outil de sensibilisation contenant plusieurs module : pourquoi pas ! Par exemple on pourrait faire un module sur la dyspraxie visuo spatiale (le regard saute aléatoirement d'une ligne à l'autre et si le texte s'étale sur plusieurs colonnes c'est la fin des haricots. Pour info à ce sujet, la spécialiste de la dyspraxie en France c'est Caroline Huron (psychiatre chercheuse en sciences cognitives dans le laboratoire de Stanislas Dehaene et présidente de l'association \"le cartable fantastique\" qui proposent des ressources pour aider les élèces dyspraxiques). C'est donc avec elle qu'il faudrait travailler...\n\nEnfin pour te répondre sur la question du python : je pense que ce n'est pas génant du moment que :\n1- l'exécutable est pratique\n2- on peut choisir le texte sur lequel on passe le texte\n=> ça permettrait d'utiliser l'outil en classe pour créer des situations ou par exemple les enfants ayant des problêmes auraient un texte normal et les enfants valides un texte sur le simulateur"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1459787666.000030",
+        "text": "bien sur invite la ! et je pense que c'est un super projet ! ça me permettrait de me plonger un peu sur l'eye tracker",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E8xh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bien sur invite la ! et je pense que c'est un super projet ! ça me permettrait de me plonger un peu sur l'eye tracker"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1459788175.000031",
+        "text": "Chouette idée <@U0MDFGWEP> :simple_smile:\n\nTout le monde peux rejoindre le slack en passant par ce lien : <https:\/\/scoglab.herokuapp.com\/>\n\nJe suggère de créer un channel, par exemple \"projet-dyslexie\" pour développer plus longuement le sujet\n\nEt à mon échelle, je travail avec des spécialistes de l'accessibilité numérique (il n'y en a pas beaucoup en France) et on as parlé de ce sujet une fois. J'ai appris qu'il existe des typographies spécifiques pour les personnes dyslexique. Ex : <https:\/\/www.dyslexiefont.com\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Dyslexiefont BV",
+                "title": "Dyslexie Font: The dyslexia font which eases the reading",
+                "title_link": "https:\/\/www.dyslexiefont.com\/",
+                "text": "The Dyslexia font makes reading easy and enjoyable for people with dyslexia. Scientifically proven to improve pace of reading with fewer errors.",
+                "fallback": "Dyslexiefont BV: Dyslexie Font: The dyslexia font which eases the reading",
+                "image_url": "http:\/\/www.dyslexiefont.com\/media-upload\/facebook.jpg",
+                "from_url": "https:\/\/www.dyslexiefont.com\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 395149,
+                "id": 1
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4gJv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Chouette idée "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0MDFGWEP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nTout le monde peux rejoindre le slack en passant par ce lien : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/scoglab.herokuapp.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nJe suggère de créer un channel, par exemple \"projet-dyslexie\" pour développer plus longuement le sujet\n\nEt à mon échelle, je travail avec des spécialistes de l'accessibilité numérique (il n'y en a pas beaucoup en France) et on as parlé de ce sujet une fois. J'ai appris qu'il existe des typographies spécifiques pour les personnes dyslexique. Ex : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dyslexiefont.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

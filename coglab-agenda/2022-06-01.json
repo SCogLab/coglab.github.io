@@ -1,0 +1,26 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "7bd148",
+                "fallback": "[SO] Acquisition Session 4: <!date^1654148700^{date_short_pretty} from {time}|June 1st, 2022 from 7:45 AM> to <!date^1654169400^{time}|1:30 PM GMT+0200>",
+                "text": "<!date^1654148700^{date_short_pretty} from {time}|June 1st, 2022 from 7:45 AM> to <!date^1654169400^{time}|1:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Grande+Galerie+de+l%27%C3%89volution%2C+36+Rue+Geoffroy-Saint-Hilaire%2C+75005+Paris%2C+France|Grande Galerie de l'Évolution, 36 Rue Geoffroy-Saint-Hilaire, 75005 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "[SO] Acquisition Session 4",
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=N3E1ZW5qb3U0NHM1NDBxbzEwc2g0bXE2ZTIgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "mrkdwn_in": [
+                    "more",
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1654145101.309909",
+        "bot_id": "B4SJBP2L8"
+    }
+]

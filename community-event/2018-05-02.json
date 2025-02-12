@@ -1,0 +1,144 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Event created: RDV Banque: <!date^1525359600^{date_short_pretty} from {time}|May 3rd, 2018 from 5:00 PM> to <!date^1525363200^{time}|6:00 PM GMT+0200>",
+                "text": "<!date^1525359600^{date_short_pretty} from {time}|May 3rd, 2018 from 5:00 PM> to <!date^1525363200^{time}|6:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Cr%C3%A9dit+Mutuel%2C+28+Rue+%C3%89tienne+Marcel%2C+75002+Paris%2C+France|Crédit Mutuel, 28 Rue Étienne Marcel, 75002 Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "RDV Banque",
+                "more": "RDV avec notre conseiller Alain MICHEL au Crédit Mutuel Etienne Marcel pour procéder à l'ouverture des comptes bancaire et assurance des associations CogLab et Cogni'Junior #Finally !",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NzV2YXI3b3RnOGk1NnJqNGtycXIwcWRrdm8gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1525250350.000047",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1525262564.000224",
+        "text": "L’assemblée c’est déjà demain !\n<http:\/\/coglab.fr\/ag2018>\n\nPour les personnes se rendant sur place, on vous donne RDV à La Paillasse, située au 226 rue Saint-Denis.\nLe code de la grille extérieure est 1944 si elle est fermée, puis se rendre dans la 2ème cours intérieure, l’entrée se trouveras sur votre droite.\nNous serons dans la cuisine du bas, directement accessible via l’escalier à gauche dans l’entrée ! \n\nPour ceux qui souhaiterais nous suivre à distance, voici le lien vers la visioconférence (pas de compte requis) : \n<https:\/\/join.skype.com\/sGI9da1oYmYw>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "CogLab \/ NeuroTechX Paris",
+                "title": "Assemblée Générale 2018",
+                "title_link": "http:\/\/coglab.fr\/ag2018",
+                "text": "Le jeudi 3 mai 2018 se tiendra la deuxième assemblée générale du Coglab. Cela sera l’occasion de faire un bilan de cette première année d’activité en tant qu’association.   Premier bilan…",
+                "fallback": "CogLab \/ NeuroTechX Paris: Assemblée Générale 2018",
+                "image_url": "http:\/\/www.coglab.fr\/wp-content\/uploads\/2018\/04\/CogLab_AG_2.jpeg",
+                "image_width": 478,
+                "image_height": 250,
+                "ts": 1524572136,
+                "from_url": "http:\/\/coglab.fr\/ag2018",
+                "image_bytes": 61276,
+                "service_icon": "https:\/\/i1.wp.com\/www.coglab.fr\/wp-content\/uploads\/2013\/12\/cropped-CogLab-logo-01-web.jpg?fit=180%2C180",
+                "id": 1,
+                "original_url": "http:\/\/coglab.fr\/ag2018"
+            },
+            {
+                "title": "Join conversation",
+                "title_link": "https:\/\/join.skype.com\/sGI9da1oYmYw",
+                "fallback": "Join conversation",
+                "image_url": "https:\/\/join.secure.skypeassets.com\/static\/13.59\/images\/icons\/opengraph_image.png",
+                "image_width": 250,
+                "image_height": 250,
+                "from_url": "https:\/\/join.skype.com\/sGI9da1oYmYw",
+                "image_bytes": 28276,
+                "service_name": "join.skype.com",
+                "id": 2,
+                "original_url": "https:\/\/join.skype.com\/sGI9da1oYmYw"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h7aV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "L’assemblée c’est déjà demain !\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/coglab.fr\/ag2018"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nPour les personnes se rendant sur place, on vous donne RDV à La Paillasse, située au 226 rue Saint-Denis.\nLe code de la grille extérieure est 1944 si elle est fermée, puis se rendre dans la 2ème cours intérieure, l’entrée se trouveras sur votre droite.\nNous serons dans la cuisine du bas, directement accessible via l’escalier à gauche dans l’entrée ! \n\nPour ceux qui souhaiterais nous suivre à distance, voici le lien vers la visioconférence (pas de compte requis) : \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/join.skype.com\/sGI9da1oYmYw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Autispace - LabVR StoryCode: <!date^1525282200^{date_short_pretty} from {time}|May 2nd, 2018 from 7:30 PM> to <!date^1525291200^{time}|10:00 PM GMT+0200>",
+                "text": "<!date^1525282200^{date_short_pretty} from {time}|May 2nd, 2018 from 7:30 PM> to <!date^1525291200^{time}|10:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Le+Cargo%2C+157+Boulevard+Macdonald%2C+75019+Paris%2C+France|Le Cargo, 157 Boulevard Macdonald, 75019 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "Autispace - LabVR StoryCode",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NHA5YmEybmducWg0Z3NjaHF1ajBxcnB1Z2JfMjAxODA1MDJUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1525278600.000854",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "UAGUS4TGC",
+        "text": "<@UAGUS4TGC> a rejoint le canal",
+        "type": "message",
+        "ts": "1525279199.000470"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "UAJC8PLUF",
+        "text": "<@UAJC8PLUF> a rejoint le canal",
+        "type": "message",
+        "ts": "1525292928.000101"
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U068DRLDQBY",
+        "text": "<@U068DRLDQBY> a rejoint le canal",
+        "type": "message",
+        "ts": "1701728547.655619",
+        "team": "T03FC4NDZ"
+    },
+    {
+        "user": "U068DRLDQBY",
+        "type": "message",
+        "ts": "1701728687.395749",
+        "client_msg_id": "438dbdb2-9c6e-454c-8447-8afa0e7eb821",
+        "text": "Hello, people! Greetings from Paris NeurotechX Hackathon !)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g4c6a4950790",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4c6a4950790074b52675ae1f385a12a7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Konstantin",
+            "real_name": "Konstantin B.",
+            "display_name": "Konstantin B.",
+            "team": "T03FC4NDZ",
+            "name": "konstantin.baltsat",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+O+cl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, people! Greetings from Paris NeurotechX Hackathon !)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U01804NJ7AQ",
+                    "U03FC5ZAK",
+                    "U59MQ46DA"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

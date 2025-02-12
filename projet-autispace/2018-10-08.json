@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1539021788.000100",
+        "client_msg_id": "fcf74679-931b-4ebb-9951-65840c365faf",
+        "text": "Hello, je partage un reportage vidéo repéré par <@U03FEH3N8>\n<https:\/\/www.theguardian.com\/global\/video\/2017\/jun\/14\/when-saffron-opens-her-world-its-amazing-video>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "the Guardian",
+                "title": "Meet Saffron: inside the colourful mind of a girl with autism - video",
+                "title_link": "https:\/\/www.theguardian.com\/global\/video\/2017\/jun\/14\/when-saffron-opens-her-world-its-amazing-video",
+                "text": "Saffron is 9. When she received her diagnosis her mother Sam thought the doctors were describing an extraordinary child rather than someone with a disability.",
+                "fallback": "the Guardian: Meet Saffron: inside the colourful mind of a girl with autism - video",
+                "video_url": "https:\/\/www.theguardian.com\/global\/video\/2017\/jun\/14\/when-saffron-opens-her-world-its-amazing-video",
+                "thumb_url": "https:\/\/i.guim.co.uk\/img\/media\/7c6842d5f8a838e017137177880ff13d2de9be4c\/60_0_1800_1080\/master\/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&crop=faces%2Centropy&bm=normal&ba=bottom%2Cleft&blend64=aHR0cHM6Ly9hc3NldHMuZ3VpbS5jby51ay9pbWFnZXMvb3ZlcmxheXMvZDM1ODZhNWVmNTc4MTc1NmQyMWEzYjYzNWU1MTcxNDEvdGctZGVmYXVsdC5wbmc&s=c95089b7bf4ec96c6a3c346900c42f08",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "video_html": "<video poster=\"https:\/\/i.guim.co.uk\/img\/media\/7c6842d5f8a838e017137177880ff13d2de9be4c\/60_0_1800_1080\/master\/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&crop=faces%2Centropy&bm=normal&ba=bottom%2Cleft&blend64=aHR0cHM6Ly9hc3NldHMuZ3VpbS5jby51ay9pbWFnZXMvb3ZlcmxheXMvZDM1ODZhNWVmNTc4MTc1NmQyMWEzYjYzNWU1MTcxNDEvdGctZGVmYXVsdC5wbmc&s=c95089b7bf4ec96c6a3c346900c42f08\" src=\"https:\/\/www.theguardian.com\/global\/video\/2017\/jun\/14\/when-saffron-opens-her-world-its-amazing-video\" width=\"\" height=\"\" preload=\"auto\" webkit-playsinline><\/video>",
+                "ts": 1497430729,
+                "from_url": "https:\/\/www.theguardian.com\/global\/video\/2017\/jun\/14\/when-saffron-opens-her-world-its-amazing-video",
+                "service_icon": "https:\/\/assets.guim.co.uk\/images\/favicons\/ac43fe9507600081b58760450f518d07\/152x152.png",
+                "id": 1,
+                "original_url": "https:\/\/www.theguardian.com\/global\/video\/2017\/jun\/14\/when-saffron-opens-her-world-its-amazing-video"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zzbdf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, je partage un reportage vidéo repéré par "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.theguardian.com\/global\/video\/2017\/jun\/14\/when-saffron-opens-her-world-its-amazing-video"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FEH3N8",
+                    "U5JBN3M8Q",
+                    "U07CPSBGX"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

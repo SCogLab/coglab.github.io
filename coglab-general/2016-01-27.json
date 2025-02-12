@@ -1,0 +1,67 @@
+[
+    {
+        "user": "U0AR01SPQ",
+        "type": "message",
+        "ts": "1453932746.000006",
+        "text": "<!channel>: [PROJET ALTOTOC]\n\nBonsoir! J'ai créé un lien slack dédié au projet de l'équipe de chercheurs d'Altotoc. Ils travaillent à l'Institut du Cerveau et de la Moelle et au CERMES sur des solutions technologiques pour améliorer le quotidien de personnes souffrant de TOC (troubles obsessionnels compulsifs).\n\nTout le monde peut contribuer sur <https:\/\/scoglab.slack.com\/messages\/project-altotoc\/details\/> \n@ Tous les technophiles, startupers ou incollables sur les nouvelles apps susceptibles d'aider le projet, laissez libre cours à vos idées!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "b34e84fd77bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-17\/18704226567_b34e84fd77bcdb81946f_72.jpg",
+            "first_name": "Murielle",
+            "real_name": "Murielle PALISSANDRE",
+            "display_name": "murielle",
+            "team": "T03FC4NDZ",
+            "name": "murielle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6rn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": [PROJET ALTOTOC]\n\nBonsoir! J'ai créé un lien slack dédié au projet de l'équipe de chercheurs d'Altotoc. Ils travaillent à l'Institut du Cerveau et de la Moelle et au CERMES sur des solutions technologiques pour améliorer le quotidien de personnes souffrant de TOC (troubles obsessionnels compulsifs).\n\nTout le monde peut contribuer sur "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/scoglab.slack.com\/messages\/project-altotoc\/details\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n@ Tous les technophiles, startupers ou incollables sur les nouvelles apps susceptibles d'aider le projet, laissez libre cours à vos idées!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0KKC7AQ6",
+        "text": "<@U0KKC7AQ6> a rejoint le canal",
+        "type": "message",
+        "ts": "1453967804.000007"
+    }
+]

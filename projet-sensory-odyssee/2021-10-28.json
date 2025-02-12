@@ -1,0 +1,136 @@
+[
+    {
+        "user": "U02GLDK69UJ",
+        "type": "message",
+        "ts": "1635422212.023500",
+        "client_msg_id": "00461884-cf94-4c88-bbc7-e60870800488",
+        "text": "J'ai ajouté une section &gt;Mesure du flow à la bibliographie, avec des annotations sur les articles partagés, un domaine de recherche passionnant !  <https:\/\/docs.google.com\/document\/d\/1N6AAsOfdtdpp4EicCAi4pNaHJVRXzrle4OvvCk88GmE\/edit#heading=h.fy3u4ocdgkgs>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "ea8311753d0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-28\/2671649382305_ea8311753d0c43d01df7_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "lesur.benjamin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=F0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai ajouté une section >Mesure du flow à la bibliographie, avec des annotations sur les articles partagés, un domaine de recherche passionnant !  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1N6AAsOfdtdpp4EicCAi4pNaHJVRXzrle4OvvCk88GmE\/edit#heading=h.fy3u4ocdgkgs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S8PWA7GU",
+                    "U03FC5ZAK",
+                    "UAMPR1P5L"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1635460153.025800",
+        "client_msg_id": "fa3bc239-1d77-4f30-9b46-214e2b09f25f",
+        "text": ":calendar: La rencontre *CojitErgo x CogLab* est confirmée le mardi 9 novembre de 19h30 à 21h00 au CRI.\n\nOn peaufine les détails avec <@U02GLDK69UJ> et <@U02GLDKAWQ2> d'ici lundi.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z\/DLB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "calendar",
+                                "unicode": "1f4c6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " La rencontre "
+                            },
+                            {
+                                "type": "text",
+                                "text": "CojitErgo x CogLab",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " est confirmée le mardi 9 novembre de 19h30 à 21h00 au CRI.\n\nOn peaufine les détails avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02GLDK69UJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02GLDKAWQ2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " d'ici lundi."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02GLDK69UJ",
+                    "U02GLDKAWQ2",
+                    "UAMPR1P5L"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

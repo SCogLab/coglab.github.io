@@ -1,0 +1,28 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "LabVR StoryCode: <!date^1504719000^{date_short_pretty} from {time}|September 6th, 2017 from 7:30 PM> to <!date^1504729800^{time}|10:30 PM GMT+0200>",
+                "text": "<!date^1504719000^{date_short_pretty} from {time}|September 6th, 2017 from 7:30 PM> to <!date^1504729800^{time}|10:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Le+Cargo%2C+157+Boulevard+Macdonald%2C+75019+Paris%2C+France|Le Cargo, 157 Boulevard Macdonald, 75019 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "LabVR StoryCode",
+                "more": "C'est la rentrée !!!! On espère que vous avez passé un bon été :) \n\nPour reprendre le rythme, la prochaine séance a lieu mercredi 6 de 19h30 à 21h30 au Cargo.\n\nNous vous proposons ce déroulé :\n\n1. Tour de présentation des nouveaux projets pour ceux qui nous rejoignent pour la première fois\n\n2. Demos et sujets de discussion VR\n\n3. Programme de l'année\n\n&gt; Merci de confirmer votre venue par retour de mail ou sur Slack pour ceux qui l'utilisent, et de préciser si vous avez un pitch \/ une démo \/ un sujet de discussion qui vous trotte dans la tête !\n\nView meeting on Solid : <https:\/\/solid.wisembly.com\/meetings\/w40d63f?r=meeting.calendar.link&amp;u=m114455>",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NWV0cTd2YjRraTg3YWpyNG1vdHNxdnZ0OTQgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1504715400.000628",
+        "bot_id": "B4SJBP2L8"
+    }
+]

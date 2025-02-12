@@ -1,0 +1,95 @@
+[
+    {
+        "user": "U0FB4KME0",
+        "type": "message",
+        "ts": "1545903376.000200",
+        "client_msg_id": "cc00f770-042f-4302-8358-28f0e489ad4f",
+        "text": "<http:\/\/www.frontiernerds.com\/brain-hack>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g1199c476c54",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/11199c476c54600d8571a80f70737cbd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "",
+            "real_name": "paul",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "paul",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yCI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.frontiernerds.com\/brain-hack"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1545942568.001100",
+        "client_msg_id": "e7c7e98d-ee48-4133-ab77-f84386186a04",
+        "text": "Yes, on as pas encore de joli tuto comme ça :santa: cc <@U59MQ46DA>\nPar ailleurs, j’ai un soucis d’accès à mon GitHub",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T96c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, on as pas encore de joli tuto comme ça "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "santa",
+                                "unicode": "1f385"
+                            },
+                            {
+                                "type": "text",
+                                "text": " cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPar ailleurs, j’ai un soucis d’accès à mon GitHub"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,251 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1647995871.447479",
+        "client_msg_id": "ab1bf644-0070-4cc4-8423-b5a37620133e",
+        "text": "Bonjour à toutes et tous <!channel>\n\nComme indiqué la semaine dernière, la réunion tant attendue avec l’équipe du Muséum c’est enfin tenue il y a quelques heures.\n\nJe viens de compiler toutes les informations dans un document “<https:\/\/docs.google.com\/document\/d\/1s_uuXReqtGReICNQKPjLf6-hWJ-HLoiB81GYS8KT7qI\/edit#|Cahier des charges>” attendu par le Muséum. Vous y trouverez :\n• Un agenda avec toutes les actions nécessaires \n• La liste des besoins et actions pour que l’équipe anticipe toute la logistique en matière de réservation des espaces et recrutement des personnes testées\nEn bref, côté agenda ça me semble très sport, mais on ne peux pas faire mieux.\n• *Agenda :* Le Muséum doit nous confirmer un planning de test d’ici vendredi avec le pilote et toute la phase d’acquisition pour nous permettre de s’organiser\n• *Protocole expérimentale :* il est désormais possible de finaliser le protocole, en se synchronisant aussi avec l’équipe SO pour intégrer ... deux nouveaux questionnaires\n• *Test questionnaire :* Tenter de trouver une date d’ici le 10 avril pour pre-tester les questionnaire (nous avons le feux vert la dessus)\n• *Test pilote :* la seule fenêtre possible pour l’organisation du pre-test est la semaine du 19 avril, idéalement le mardi après-midi, jour de fermeture du Muséum\n• *Phase d’acquisition* : à partir du 10 mai (fin des vacances scolaires) jusqu’au 20 juin (fin de l’expo), avec à minima 1\/2 journée de test par semaine\nJe vous invite à relire le présent cahier des charges qui sera poussé auprès de l’équipe du Muséum d’ici la fin de journée ou demain. On passe en mode itératif et flexible.\n\nA noter que de mon côté, j’ai des contraintes de calendrier\n• pas du tout dispo jusqu’au 3 avril inclu (jour du FSC, on y retrouvera également l’équipe COGitERGO :champagne:)\n• dispo très limitée uniquement en soirée \/ WE la semaine du 4 avril\n• pas du tout dispo sur 12 au 15 avril (à Laval)\n• je serais à nouveau au CRI\/LPI tous les lundi d’avril en HackNight",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Dw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonjour à toutes et tous "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nComme indiqué la semaine dernière, la réunion tant attendue avec l’équipe du Muséum c’est enfin tenue il y a quelques heures.\n\nJe viens de compiler toutes les informations dans un document “"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1s_uuXReqtGReICNQKPjLf6-hWJ-HLoiB81GYS8KT7qI\/edit#",
+                                "text": "Cahier des charges"
+                            },
+                            {
+                                "type": "text",
+                                "text": "” attendu par le Muséum. Vous y trouverez :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Un agenda avec toutes les actions nécessaires "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "La liste des besoins et actions pour que l’équipe anticipe toute la logistique en matière de réservation des espaces et recrutement des personnes testées"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nEn bref, côté agenda ça me semble très sport, mais on ne peux pas faire mieux.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Agenda : ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Le Muséum doit nous confirmer un planning de test d’ici vendredi avec le pilote et toute la phase d’acquisition pour nous permettre de s’organiser"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Protocole expérimentale :",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " il est désormais possible de finaliser le protocole, en se synchronisant aussi avec l’équipe SO pour intégrer ... deux nouveaux questionnaires"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Test questionnaire :",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Tenter de trouver une date d’ici le 10 avril pour pre-tester les questionnaire (nous avons le feux vert la dessus)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Test pilote :",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " la seule fenêtre possible pour l’organisation du pre-test est la semaine du 19 avril, idéalement le mardi après-midi, jour de fermeture du Muséum"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Phase d’acquisition ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": à partir du 10 mai (fin des vacances scolaires) jusqu’au 20 juin (fin de l’expo), avec à minima 1\/2 journée de test par semaine"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nJe vous invite à relire le présent cahier des charges qui sera poussé auprès de l’équipe du Muséum d’ici la fin de journée ou demain. On passe en mode itératif et flexible.\n\nA noter que de mon côté, j’ai des contraintes de calendrier\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "pas du tout dispo jusqu’au 3 avril inclu (jour du FSC, on y retrouvera également l’équipe COGitERGO "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "champagne",
+                                        "unicode": "1f37e"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "dispo très limitée uniquement en soirée \/ WE la semaine du 4 avril"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "pas du tout dispo sur 12 au 15 avril (à Laval)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "je serais à nouveau au CRI\/LPI tous les lundi d’avril en HackNight"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S8PWA7GU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

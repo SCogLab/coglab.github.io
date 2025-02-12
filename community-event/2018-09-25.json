@@ -1,0 +1,151 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1537862729.000200",
+        "client_msg_id": "ee2dbf07-6f9d-40a6-b4fa-f830d3ce033a",
+        "text": "L'événement dont je parlais hier soir <@U59MQ46DA> \n<https:\/\/www.facebook.com\/events\/320661222000829\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1537862729.000200",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1537952221.000100",
+        "reply_users": [
+            "U59MQ46DA",
+            "U03FC5ZAK"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1537882518.000100"
+            },
+            {
+                "user": "U03FC5ZAK",
+                "ts": "1537945632.000100"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1537947380.000100"
+            },
+            {
+                "user": "U59MQ46DA",
+                "ts": "1537952221.000100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qJN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "L'événement dont je parlais hier soir "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.facebook.com\/events\/320661222000829\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1537882518.000100",
+        "client_msg_id": "d934a7b7-0474-4360-90b5-545395e6832a",
+        "text": "Ok, merci :slightly_smiling_face:",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1537862729.000200",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ygb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok, merci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Webinar NeuroTechX : BCI UX: <!date^1537891200^{date_short_pretty} from {time}|September 25th, 2018 from 6:00 PM> to <!date^1537894800^{time}|7:00 PM GMT+0200>",
+                "text": "<!date^1537891200^{date_short_pretty} from {time}|September 25th, 2018 from 6:00 PM> to <!date^1537894800^{time}|7:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=online|online>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "Webinar NeuroTechX : BCI UX",
+                "more": "NTX Webinar Signup Form\nPlease Signup for the upcoming NeuroTechX Webinar:\n\nTitle:  BCI UX: Evaluating user focused paradigms for the purpose of enhancing Brain-Computer Interaction\n\nAbstract: \nThe webinar will cover two research studies on user focused paradigms, step by step, from paradigm design to lab experiments, and the analysis of the research outcomes based on advanced and complex signal processing and machine learning techniques), towards the transfer to real-life applications. Specifically, the research focuses on improving the BCI interaction by designing the BCI paradigms according to users' needs and desires, making it easier and more natural for them to interact with the future BCI system. In particular, the often monotonous tasks of BCI systems are replaced with more engaging activities and the context of used mental state detection is investigated instead of the strict activities requested by usual BCIs. As mental tasks, cognitive processes and motor imagery tasks are investigated in the two scenarios.\n\n\nSpeaker: Irina Emilia Nicolae\nBio: Irina Emilia Nicolae is a researcher of the Neurotechnology Group, Technische Universität Berlin. She is following her joint PhD at Technische Universität Berlin and Politehnica University of Bucharest in the field of signal processing and Brain-Computer Interfaces (BCI). Her research focuses on cognitive processes and motor imagery, targeting user focused paradigms and user state monitoring.  \n\n\n<https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSd3fguiuaz8JJjA8L5-FgpYNYsGuLbKQuXXlV3ct-_rfTm-pw\/viewform>",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=M2hzMGdwbDR0ZzNiZmY5NjBtZHFpbTFvODEgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1537887601.000100",
+        "bot_id": "B4SJBP2L8"
+    }
+]

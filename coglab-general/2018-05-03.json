@@ -1,0 +1,156 @@
+[
+    {
+        "user": "UAJC8PLUF",
+        "type": "message",
+        "ts": "1525375706.000291",
+        "text": "Merci pour votre accueil !",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "45006b9d0acc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-05-03\/357339076352_45006b9d0acc7e400233_72.png",
+            "first_name": "Benoît",
+            "real_name": "Benoît SELINGUE",
+            "display_name": "DuchenneSmile",
+            "team": "T03FC4NDZ",
+            "name": "benoit.selingue",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HYZN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci pour votre accueil !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "spock-hand",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1525377286.000271",
+        "edited": {
+            "user": "U03FC5ZAK",
+            "ts": "1525377305.000000"
+        },
+        "text": "Merci pour votre présence à l’AG ! :slightly_smiling_face:\n\nVoici la composition du nouveau bureau\n- Président : <@U03FC5ZAK> \n- Trésorière : <@U03FEH3N8> \n- Secrétaire : <@U5JBN3M8Q> \n\nEt les administrateurs :\n- <@U59MQ46DA> \n- <@U0FB4KME0> \n- <@U3RRFRR1C> \n\nOn fera prochainement un appel à Comité Scientifique pour soutenir l’initiative\n\nEt on diffusera le Procès verbal de l’AG après mise en forme des notes.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SSn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci pour votre présence à l’AG ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nVoici la composition du nouveau bureau\n- Président : "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n- Trésorière : "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FEH3N8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n- Secrétaire : "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U5JBN3M8Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nEt les administrateurs :\n- "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n- "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0FB4KME0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n- "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U3RRFRR1C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nOn fera prochainement un appel à Comité Scientifique pour soutenir l’initiative\n\nEt on diffusera le Procès verbal de l’AG après mise en forme des notes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03FEH3N8",
+                    "U5JBN3M8Q"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

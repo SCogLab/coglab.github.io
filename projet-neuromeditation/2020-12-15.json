@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1608025123.000300",
+        "client_msg_id": "00bfca28-39a7-4530-a7c3-cdc5a4db2f9e",
+        "text": "<https:\/\/www.healthline.com\/health\/mental-health\/meditation-virtual-reality>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Healthline",
+                "title": "How Virtual Reality Meditation Helps Me Control My Anxiety",
+                "title_link": "https:\/\/www.healthline.com\/health\/mental-health\/meditation-virtual-reality",
+                "text": "I’ve always had trouble meditating, even though it’s good for my mental health. Here’s how my VR headset changed that.",
+                "fallback": "Healthline: How Virtual Reality Meditation Helps Me Control My Anxiety",
+                "image_url": "https:\/\/post.healthline.com\/wp-content\/uploads\/2020\/08\/Virtual_Reality_Female-732x549-Thumbnail-732x549.jpg",
+                "image_width": 333,
+                "image_height": 250,
+                "ts": 1562050800,
+                "from_url": "https:\/\/www.healthline.com\/health\/mental-health\/meditation-virtual-reality",
+                "image_bytes": 50776,
+                "id": 1,
+                "original_url": "https:\/\/www.healthline.com\/health\/mental-health\/meditation-virtual-reality"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hVCE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.healthline.com\/health\/mental-health\/meditation-virtual-reality"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

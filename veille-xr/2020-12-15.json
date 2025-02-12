@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1608044928.000200",
+        "client_msg_id": "1098d0d5-5281-4454-87ef-f8c6167cbc4b",
+        "text": "<https:\/\/www.youtube.com\/watch?v=4ZFw5b1nZrY>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Combining BCI with AR\/VR: toward hybrid technologies and novel immersive applications",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=4ZFw5b1nZrY",
+                "author_name": "Empathic Computing Lab",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCfbwmLBB1SBL-s7yIJ2GlkQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/4ZFw5b1nZrY\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Combining BCI with AR\/VR: toward hybrid technologies and novel immersive applications",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/4ZFw5b1nZrY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=4ZFw5b1nZrY",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=4ZFw5b1nZrY"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lNp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=4ZFw5b1nZrY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,165 @@
+[
+    {
+        "text": "Une mini-acquisition si ça vous amuse de regarder :",
+        "files": [
+            {
+                "id": "F02H0F7QGF4",
+                "created": 1633613471,
+                "timestamp": 1633613471,
+                "name": "20211007-131039.hdf5",
+                "title": "20211007-131039.hdf5",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "UAMPR1P5L",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 4486848,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F02H0F7QGF4\/20211007-131039.hdf5?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-F02H0F7QGF4\/download\/20211007-131039.hdf5?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/scoglab.slack.com\/files\/UAMPR1P5L\/F02H0F7QGF4\/20211007-131039.hdf5",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-F02H0F7QGF4-fcad737a56",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "UAMPR1P5L",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wwodd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Une mini-acquisition si ça vous amuse de regarder :"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1633613479.000500",
+        "client_msg_id": "16a6cb77-8965-45f6-b1cc-34a9ff9f32a8"
+    },
+    {
+        "user": "UAMPR1P5L",
+        "type": "message",
+        "ts": "1633613575.001300",
+        "edited": {
+            "user": "UAMPR1P5L",
+            "ts": "1633613611.000000"
+        },
+        "client_msg_id": "12db65fb-36e3-45c2-87dd-294b78275a74",
+        "text": "```data = pd.read_hdf(\"20211007-131039.hdf5\", \"bitalino\")\nevents = pd.read_hdf(\"20211007-131039.hdf5\", \"events\")```\nLes trois canaux intéressants dans `data`  sont `A1_ECG` , `A2_EEG`  et `A3_EDA` .\nDans `events` , les marqueurs des conditions : assis, debout, en marchant.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g73db985d858",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273db985d858035ed23c0594718e0eac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "mesca",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "coglab644",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y1lu",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "data = pd.read_hdf(\"20211007-131039.hdf5\", \"bitalino\")\nevents = pd.read_hdf(\"20211007-131039.hdf5\", \"events\")"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Les trois canaux intéressants dans "
+                            },
+                            {
+                                "type": "text",
+                                "text": "data",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "  sont "
+                            },
+                            {
+                                "type": "text",
+                                "text": "A1_ECG",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " , "
+                            },
+                            {
+                                "type": "text",
+                                "text": "A2_EEG",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "  et "
+                            },
+                            {
+                                "type": "text",
+                                "text": "A3_EDA",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " .\nDans "
+                            },
+                            {
+                                "type": "text",
+                                "text": "events",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " , les marqueurs des conditions : assis, debout, en marchant."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

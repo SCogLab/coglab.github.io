@@ -1,0 +1,49 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "UM9FGHCQ5",
+        "text": "<@UM9FGHCQ5> a rejoint le canal",
+        "type": "message",
+        "ts": "1565612034.000200"
+    },
+    {
+        "user": "U03FEH3N8",
+        "type": "message",
+        "ts": "1565676702.000100",
+        "client_msg_id": "b3b26d59-b1e2-4743-a133-da1ed8907ee3",
+        "text": "it's still \"exploring whether it's possible\"",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "316e8df39ea3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-01-19\/18860001459_316e8df39ea3543e492e_72.jpg",
+            "first_name": "Roselyne",
+            "real_name": "Roselyne CHAUVIN",
+            "display_name": "roselyne",
+            "team": "T03FC4NDZ",
+            "name": "roselyne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564563245.000100",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e=Cl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it's still \"exploring whether it's possible\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

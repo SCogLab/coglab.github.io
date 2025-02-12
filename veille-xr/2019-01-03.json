@@ -1,0 +1,92 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1546547774.003100",
+        "client_msg_id": "2cdb6266-a24a-464a-9259-5b3e1e4c7fb5",
+        "text": "Hello, je vois très souvent passer ce genre d'offre (formation bradée à 10€), je ne sais pas trop ce que cela vaut, est ce que l'un.e d'entre vous a déjà essayé cette plateforme ? <@U59MQ46DA> ou <@U5JBN3M8Q> peut être ?\n\n<https:\/\/www.udemy.com\/maitriser-unity-2018-et-le-c-formation-complete>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546547774.003100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1546601283.003300",
+        "reply_users": [
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1546601283.003300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "service_name": "Udemy",
+                "title": "Maîtriser Unity 2018 et le C# | Guide Complet | Udemy",
+                "title_link": "https:\/\/www.udemy.com\/maitriser-unity-2018-et-le-c-formation-complete",
+                "text": "Apprendre a développer des jeux vidéo pour Smartphone, Windows, Mac... facilement avec Unity",
+                "fallback": "Udemy: Maîtriser Unity 2018 et le C# | Guide Complet | Udemy",
+                "image_url": "https:\/\/udemy-images.udemy.com\/course\/480x270\/1393796_a0f3_9.jpg",
+                "from_url": "https:\/\/www.udemy.com\/maitriser-unity-2018-et-le-c-formation-complete",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 45754,
+                "service_icon": "https:\/\/www.udemy.com\/staticx\/udemy\/images\/v6\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.udemy.com\/maitriser-unity-2018-et-le-c-formation-complete"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F6L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, je vois très souvent passer ce genre d'offre (formation bradée à 10€), je ne sais pas trop ce que cela vaut, est ce que l'un.e d'entre vous a déjà essayé cette plateforme ? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ou "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U5JBN3M8Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " peut être ?\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.udemy.com\/maitriser-unity-2018-et-le-c-formation-complete"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1534093602.000054",
+        "client_msg_id": "1a0745eb-075e-4c33-b0d9-3d1be13ae2fe",
+        "text": "Une initiative d’IBM Research pour contrôler un bras robotique en utilisant un OpenBCI + une board NVIDIA Jetson TX1 + une Kinect + GraspNet pour la partie Deep Learning : <https:\/\/www.ibm.com\/blogs\/research\/2018\/07\/bionics-real-life\/>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1534093602.000054",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1534093841.000016",
+        "reply_users": [
+            "U59MQ46DA"
+        ],
+        "replies": [
+            {
+                "user": "U59MQ46DA",
+                "ts": "1534093841.000016"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "service_name": "IBM Blog Research",
+                "title": "Bionics in Real Life",
+                "title_link": "https:\/\/www.ibm.com\/blogs\/research\/2018\/07\/bionics-real-life\/",
+                "text": "Bionics in real life: Controlling prosthetic limbs through the power of thought and AI.",
+                "fallback": "IBM Blog Research: Bionics in Real Life",
+                "thumb_url": "https:\/\/www.ibm.com\/blogs\/research\/wp-content\/uploads\/2018\/07\/Stefan_Herrer.png",
+                "ts": 1532354877,
+                "from_url": "https:\/\/www.ibm.com\/blogs\/research\/2018\/07\/bionics-real-life\/",
+                "thumb_width": 115,
+                "thumb_height": 115,
+                "service_icon": "http:\/\/www.ibm.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.ibm.com\/blogs\/research\/2018\/07\/bionics-real-life\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bSW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Une initiative d’IBM Research pour contrôler un bras robotique en utilisant un OpenBCI + une board NVIDIA Jetson TX1 + une Kinect + GraspNet pour la partie Deep Learning : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ibm.com\/blogs\/research\/2018\/07\/bionics-real-life\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Schéma de l’expérimentation",
+        "files": [
+            {
+                "id": "FC6EJ7XB2",
+                "created": 1534093837,
+                "timestamp": 1534093837,
+                "name": "Capture d’écran 2018-08-12 à 19.08.47.png",
+                "title": "Capture d’écran 2018-08-12 à 19.08.47.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U59MQ46DA",
+                "user_team": "T03FC4NDZ",
+                "editable": false,
+                "size": 583018,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FC6EJ7XB2\/capture_d___e__cran_2018-08-12_a___19.08.47.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FC4NDZ-FC6EJ7XB2\/download\/capture_d___e__cran_2018-08-12_a___19.08.47.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FC6EJ7XB2-e69f53d131\/capture_d___e__cran_2018-08-12_a___19.08.47_64.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FC6EJ7XB2-e69f53d131\/capture_d___e__cran_2018-08-12_a___19.08.47_80.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FC6EJ7XB2-e69f53d131\/capture_d___e__cran_2018-08-12_a___19.08.47_360.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FC6EJ7XB2-e69f53d131\/capture_d___e__cran_2018-08-12_a___19.08.47_480.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FC6EJ7XB2-e69f53d131\/capture_d___e__cran_2018-08-12_a___19.08.47_160.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FC6EJ7XB2-e69f53d131\/capture_d___e__cran_2018-08-12_a___19.08.47_720.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FC6EJ7XB2-e69f53d131\/capture_d___e__cran_2018-08-12_a___19.08.47_800.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FC6EJ7XB2-e69f53d131\/capture_d___e__cran_2018-08-12_a___19.08.47_960.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03FC4NDZ-FC6EJ7XB2-e69f53d131\/capture_d___e__cran_2018-08-12_a___19.08.47_1024.png?t=xoxe-3522158475-8315316260323-8312568438869-50955f0eaa1eb3c626bfdbc1fe340421",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "image_exif_rotation": 1,
+                "original_w": 1920,
+                "original_h": 1080,
+                "permalink": "https:\/\/scoglab.slack.com\/files\/U59MQ46DA\/FC6EJ7XB2\/capture_d___e__cran_2018-08-12_a___19.08.47.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03FC4NDZ-FC6EJ7XB2-d28cf6c204",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U59MQ46DA",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ktZUK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Schéma de l’expérimentation"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1534093841.000016",
+        "thread_ts": "1534093602.000054",
+        "parent_user_id": "U59MQ46DA"
+    }
+]

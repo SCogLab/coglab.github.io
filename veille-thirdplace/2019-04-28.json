@@ -1,0 +1,65 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1556453430.000200",
+        "client_msg_id": "95ed21c5-ee29-40b4-aa87-f205ad09afdc",
+        "text": "<https:\/\/www.le-lab.org\/exploration-mille-lieux>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P0sXw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.le-lab.org\/exploration-mille-lieux"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_name",
+        "user": "U03FC5ZAK",
+        "old_name": "community-tierslieux",
+        "name": "veille-thirdplace",
+        "text": "a changé le nom du canal de « community-tierslieux » en « veille-thirdplace »",
+        "type": "message",
+        "ts": "1556482188.000300"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC5ZAK",
+        "purpose": "Réflexions et partage sur les tiers-lieu : philosophie, évolutions et événements.",
+        "text": "a défini la description du canal : Réflexions et partage sur les tiers-lieu : philosophie, évolutions et événements.",
+        "type": "message",
+        "ts": "1556482200.000400"
+    },
+    {
+        "subtype": "channel_topic",
+        "user": "U03FC5ZAK",
+        "topic": "Veille sur les tiers-lieux",
+        "text": "a défini le thème du canal : Veille sur les tiers-lieux",
+        "type": "message",
+        "ts": "1556482211.000500"
+    }
+]

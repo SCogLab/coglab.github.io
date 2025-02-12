@@ -1,0 +1,108 @@
+[
+    {
+        "user": "UQX7ZD4C9",
+        "type": "message",
+        "ts": "1599567067.007500",
+        "client_msg_id": "fdfaa26a-2806-4ed8-8734-a736a4e6f3b0",
+        "text": "Merci <@U03FC5ZAK>! Je fais tout ça :slightly_smiling_face:.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g1df15c093be",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1df15c093be238c6b94e432404d0325a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "Yacine",
+            "display_name": "Yacine",
+            "team": "T03FC4NDZ",
+            "name": "yacine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1599119975.005000",
+        "parent_user_id": "UQX7ZD4C9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0DjFd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FC5ZAK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Je fais tout ça "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Hans Harisson",
+                "fallback": "New card NeuroTechX Galicia meetup #1 added to list BLOG &amp; évènements externes on board Activités CogLab (public).",
+                "text": "In list *BLOG &amp; évènements externes* on *<https:\/\/trello.com\/b\/NFHS3ZPa|Activités CogLab (public)>*.",
+                "pretext": "New card created",
+                "title": "NeuroTechX Galicia meetup #1",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/7J6yYEmm",
+                "author_link": "https:\/\/trello.com\/hansharisson1",
+                "author_icon": "https:\/\/trello-members.s3.amazonaws.com\/5932ca0090ff177f1e3be0a0\/3b24595bfbf9964329e0f68a00393ac7\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1599589930.007700",
+        "bot_id": "B66HQV43C"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Hans Harisson",
+                "fallback": "Hans Harisson marked NeuroTechX Galicia meetup #1 complete.",
+                "text": "Marked *<https:\/\/trello.com\/c\/7J6yYEmm|NeuroTechX Galicia meetup #1>* complete.",
+                "id": 1,
+                "author_link": "https:\/\/trello.com\/hansharisson1",
+                "author_icon": "https:\/\/trello-members.s3.amazonaws.com\/5932ca0090ff177f1e3be0a0\/3b24595bfbf9964329e0f68a00393ac7\/30.png",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1599590218.007800",
+        "bot_id": "B66HQV43C"
+    }
+]

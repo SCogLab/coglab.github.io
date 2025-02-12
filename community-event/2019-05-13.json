@@ -1,0 +1,82 @@
+[
+    {
+        "user": "UJK8F61E3",
+        "type": "message",
+        "ts": "1557751929.000200",
+        "client_msg_id": "748c7be1-232e-462c-90cb-0a43bf513b58",
+        "text": "Tu y vas ?!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g2e032686532",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e2e0326865328afae0a56c2f6ddaef2e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "",
+            "real_name": "Eki",
+            "display_name": "Eki",
+            "team": "T03FC4NDZ",
+            "name": "civis.eki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1557443525.004600",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6b=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu y vas ?!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1557784211.000400",
+        "client_msg_id": "27bc8a2d-1c3d-4f38-a93d-0399ee78c8da",
+        "text": "Malheureusement non, je l’ai juste indiqué parce qu’il me semble que cette année risque d’être charnière pour la VR.",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1557443525.004600",
+        "parent_user_id": "U59MQ46DA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oEiA2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Malheureusement non, je l’ai juste indiqué parce qu’il me semble que cette année risque d’être charnière pour la VR."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

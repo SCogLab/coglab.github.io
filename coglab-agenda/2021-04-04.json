@@ -1,0 +1,52 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There is *1* event this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "FSC 2021: <!date^1618056000^{date_short_pretty} from {time}|April 10th, 2021 from 2:00 PM> to <!date^1618761600^{date_short_pretty} at {time}|April 18th, 2021 at 6:00 PM GMT+0200>",
+                "text": "<!date^1618056000^{date_short_pretty} from {time}|April 10th, 2021 from 2:00 PM> to <!date^1618761600^{date_short_pretty} at {time}|April 18th, 2021 at 6:00 PM GMT+0200>",
+                "title": "FSC 2021",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NXVlMDd1MGZnajkwajYzbGJydmN1aG05MW4gc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1617602402.001500",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "miLoo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "1",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " event this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

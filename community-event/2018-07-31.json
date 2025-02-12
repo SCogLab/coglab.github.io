@@ -1,0 +1,24 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event cancelled: Autispace - LabVR StoryCode: <!date^1533144600^{date_short_pretty} from {time}|August 1st, 2018 from 7:30 PM> to <!date^1533153600^{time}|10:00 PM GMT+0200>",
+                "text": "<!date^1533144600^{date_short_pretty} from {time}|August 1st, 2018 from 7:30 PM> to <!date^1533153600^{time}|10:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Le+Cargo%2C+157+Boulevard+Macdonald%2C+75019+Paris%2C+France|Le Cargo, 157 Boulevard Macdonald, 75019 Paris, France>",
+                "pretext": "Calendar event was cancelled",
+                "title": "Autispace - LabVR StoryCode",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NHA5YmEybmducWg0Z3NjaHF1ajBxcnB1Z2JfMjAxODA4MDFUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1533057668.000485",
+        "bot_id": "B4SJBP2L8"
+    }
+]

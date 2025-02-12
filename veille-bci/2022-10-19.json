@@ -1,0 +1,78 @@
+[
+    {
+        "user": "U59MQ46DA",
+        "type": "message",
+        "ts": "1666183510.696779",
+        "edited": {
+            "user": "U59MQ46DA",
+            "ts": "1666183544.000000"
+        },
+        "client_msg_id": "504415ec-979f-4b06-953c-8189c6164898",
+        "text": "Présentation du nouveau produit HD-EEG de mbraintrain : <https:\/\/www.youtube.com\/watch?v=9LL7gdgPgWQ>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "1602c595b4f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1097117343618_1602c595b4f6f5ec2125_72.jpg",
+            "first_name": "Hans",
+            "real_name": "Hans Harisson",
+            "display_name": "hans",
+            "team": "T03FC4NDZ",
+            "name": "hans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=9LL7gdgPgWQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/9LL7gdgPgWQ\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/9LL7gdgPgWQ?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"SMARTING PRO X official launch | mbt\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=9LL7gdgPgWQ",
+                "fallback": "YouTube Video: SMARTING PRO X official launch | mbt",
+                "title": "SMARTING PRO X official launch | mbt",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=9LL7gdgPgWQ",
+                "author_name": "mBrainTrain",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCGtpku8Bixc3A2aUDxnjYWQ",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VwEX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Présentation du nouveau produit HD-EEG de mbraintrain : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=9LL7gdgPgWQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U01804NJ7AQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

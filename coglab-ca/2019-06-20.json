@@ -1,0 +1,27 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Trello",
+        "attachments": [
+            {
+                "author_name": "Romain ROUYER",
+                "fallback": "New card Newsletter Juin 2019 added to list EN COURS on board Gestion CogLab (administrateur).",
+                "text": "In list *EN COURS* on *<https:\/\/trello.com\/b\/jSnI3dXM|Gestion CogLab (administrateur)>*.",
+                "pretext": "New card created",
+                "title": "Newsletter Juin 2019",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/8xHrVDhn",
+                "author_link": "https:\/\/trello.com\/rouffi",
+                "color": "0079BF",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1561030831.000200",
+        "bot_id": "B66HQV43C"
+    }
+]

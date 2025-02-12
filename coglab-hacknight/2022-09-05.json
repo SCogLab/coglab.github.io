@@ -1,0 +1,188 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1662395719.141149",
+        "client_msg_id": "8afec459-a69b-44d8-bf09-268acd775ebe",
+        "text": "Hello\n\nPour le moment je suis encore coincé au bureau avec une urgence à traiter. Je ne sais pas encore quand j'arrive au LPI ou me connecterai directement en ligne plus tard dans la soirée en fonction des besoins.\n\nN'hésite pas à me redire <@U59MQ46DA> si besoin d'aide sur place et désolé pour le contretemps",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YHXGe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello\n\nPour le moment je suis encore coincé au bureau avec une urgence à traiter. Je ne sais pas encore quand j'arrive au LPI ou me connecterai directement en ligne plus tard dans la soirée en fonction des besoins.\n\nN'hésite pas à me redire "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " si besoin d'aide sur place et désolé pour le contretemps"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01804NJ7AQ",
+        "type": "message",
+        "ts": "1662397991.746629",
+        "client_msg_id": "E90E58F5-C4DA-4860-9B83-B3C50956B71A",
+        "text": "D’accord I am talking with Andrey about Brainflow ",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g7080a90c528",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7080a90c528526f8129488e607562782.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Morgan Hough",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "morgan.hough",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OcoxA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "D’accord I am talking with Andrey about Brainflow "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FC5ZAK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1662406851.942339",
+        "client_msg_id": "d8cb9e9c-aacd-43fa-8ddc-65b727518fa2",
+        "text": "Sorry guys, I've just arrived at home. I've finished really to late and tired to came and connect tonight.\nHope everything went well!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662406851.942339",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1662408929.554999",
+        "reply_users": [
+            "U01804NJ7AQ"
+        ],
+        "replies": [
+            {
+                "user": "U01804NJ7AQ",
+                "ts": "1662408929.554999"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OGEB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry guys, I've just arrived at home. I've finished really to late and tired to came and connect tonight.\nHope everything went well!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01804NJ7AQ",
+        "type": "message",
+        "ts": "1662408929.554999",
+        "client_msg_id": "71BF1EBC-FA41-4EBA-A43E-FC45D28117DD",
+        "text": "Hey Romain, no worries. I saved the chat log for you. I will follow up on the NeuroTechX Hackathon Discord server about project ideas that came out of today’s discussion with Andrey, Dimitri and Bernard. Good stuff for sure!",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "g7080a90c528",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7080a90c528526f8129488e607562782.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Morgan Hough",
+            "display_name": "",
+            "team": "T03FC4NDZ",
+            "name": "morgan.hough",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662406851.942339",
+        "parent_user_id": "U03FC5ZAK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eWtQL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Romain, no worries. I saved the chat log for you. I will follow up on the NeuroTechX Hackathon Discord server about project ideas that came out of today’s discussion with Andrey, Dimitri and Bernard. Good stuff for sure!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

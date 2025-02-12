@@ -1,0 +1,148 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "There are *5* events this week",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #185 [Online EN]: <!date^1615829400^{date_short_pretty} from {time}|March 15th, 2021 from 6:30 PM> to <!date^1615834800^{time}|8:00 PM GMT+0100>",
+                "text": "<!date^1615829400^{date_short_pretty} from {time}|March 15th, 2021 from 6:30 PM> to <!date^1615834800^{time}|8:00 PM GMT+0100> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "title": "CogLab HackNight #185 [Online EN]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MzZtMTFhOTVzczI1NTM1b3Q1cTFucjgxYWsgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "CogLab HackNight #185 [Online FR]: <!date^1615838400^{date_short_pretty} from {time}|March 15th, 2021 from 9:00 PM> to <!date^1615843800^{time}|10:30 PM GMT+0100>",
+                "text": "<!date^1615838400^{date_short_pretty} from {time}|March 15th, 2021 from 9:00 PM> to <!date^1615843800^{time}|10:30 PM GMT+0100> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "title": "CogLab HackNight #185 [Online FR]",
+                "id": 2,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MGVmNjJsa2NpbGY4NG5sdDl1YTk4aHEwYjcgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "The Brainstorms Festival: <!date^1615993200^{date_short_pretty} from {time}|March 17th, 2021 from 4:00 PM> to <!date^1616007600^{time}|8:00 PM GMT+0100>",
+                "text": "<!date^1615993200^{date_short_pretty} from {time}|March 17th, 2021 from 4:00 PM> to <!date^1616007600^{time}|8:00 PM GMT+0100>",
+                "title": "The Brainstorms Festival",
+                "id": 3,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NDlwZTVrM3JzYnNudDJvdWNzNHJkNjk5ZDRfMjAyMTAzMTdUMTUwMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "The Brainstorms Festival: <!date^1616079600^{date_short_pretty} from {time}|March 18th, 2021 from 4:00 PM> to <!date^1616094000^{time}|8:00 PM GMT+0100>",
+                "text": "<!date^1616079600^{date_short_pretty} from {time}|March 18th, 2021 from 4:00 PM> to <!date^1616094000^{time}|8:00 PM GMT+0100>",
+                "title": "The Brainstorms Festival",
+                "id": 4,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NDlwZTVrM3JzYnNudDJvdWNzNHJkNjk5ZDRfMjAyMTAzMThUMTUwMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "The Brainstorms Festival: <!date^1616166000^{date_short_pretty} from {time}|March 19th, 2021 from 4:00 PM> to <!date^1616180400^{time}|8:00 PM GMT+0100>",
+                "text": "<!date^1616166000^{date_short_pretty} from {time}|March 19th, 2021 from 4:00 PM> to <!date^1616180400^{time}|8:00 PM GMT+0100>",
+                "title": "The Brainstorms Festival",
+                "id": 5,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NDlwZTVrM3JzYnNudDJvdWNzNHJkNjk5ZDRfMjAyMTAzMTlUMTUwMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1615791602.001000",
+        "bot_id": "B4SJBP2L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FVI0n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "5",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " events this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #185 [Online EN]: <!date^1615829400^{date_short_pretty} from {time}|March 15th, 2021 from 6:30 PM> to <!date^1615834800^{time}|8:00 PM GMT+0100>",
+                "text": "<!date^1615829400^{date_short_pretty} from {time}|March 15th, 2021 from 6:30 PM> to <!date^1615834800^{time}|8:00 PM GMT+0100> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #185 [Online EN]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MzZtMTFhOTVzczI1NTM1b3Q1cTFucjgxYWsgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1615825801.001100",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "CogLab HackNight #185 [Online FR]: <!date^1615838400^{date_short_pretty} from {time}|March 15th, 2021 from 9:00 PM> to <!date^1615843800^{time}|10:30 PM GMT+0100>",
+                "text": "<!date^1615838400^{date_short_pretty} from {time}|March 15th, 2021 from 9:00 PM> to <!date^1615843800^{time}|10:30 PM GMT+0100> at <https:\/\/meet.jit.si\/NeuroTechX-Hacknight>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "CogLab HackNight #185 [Online FR]",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=MGVmNjJsa2NpbGY4NG5sdDl1YTk4aHEwYjcgc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1615834805.001200",
+        "bot_id": "B4SJBP2L8"
+    }
+]

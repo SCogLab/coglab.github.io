@@ -1,0 +1,52 @@
+[
+    {
+        "user": "U03FC5ZAK",
+        "type": "message",
+        "ts": "1563192574.001800",
+        "client_msg_id": "017cd454-dc15-49cb-83a8-97ed5ba8f69c",
+        "text": "<!here> Nouvelles fraiches sur le projet :\n- Nous allons participer à une université d’été avec <@U59MQ46DA> ce mercredi pour amorcer le projet avec des étudiants\n- Nous allons récupérer 2 ou 3 Melomind (possiblement demain pour les avoir mercredi)",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "fb27ab566668",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-21\/660922155218_fb27ab5666685253ac7e_72.jpg",
+            "first_name": "Romain",
+            "real_name": "Romain ROUYER",
+            "display_name": "rouffi",
+            "team": "T03FC4NDZ",
+            "name": "rouffi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "82d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Nouvelles fraiches sur le projet :\n- Nous allons participer à une université d’été avec "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59MQ46DA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ce mercredi pour amorcer le projet avec des étudiants\n- Nous allons récupérer 2 ou 3 Melomind (possiblement demain pour les avoir mercredi)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

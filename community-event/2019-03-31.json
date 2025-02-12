@@ -1,0 +1,25 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "username": "Agenda CogLab \/ NeuroTechX Paris",
+        "attachments": [
+            {
+                "fallback": "FSC 2019: <!date^1554019200^{date_short_pretty} from {time}|March 31st, 2019 from 10:00 AM> to <!date^1554049800^{time}|6:30 PM GMT+0200>",
+                "text": "<!date^1554019200^{date_short_pretty} from {time}|March 31st, 2019 from 10:00 AM> to <!date^1554049800^{time}|6:30 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=City+of+Science+and+Industry%2C+30+Avenue+Corentin+Cariou%2C+75019+Paris%2C+France|City of Science and Industry, 30 Avenue Corentin Cariou, 75019 Paris, France>",
+                "pretext": "Event starting in 1 hour:",
+                "title": "FSC 2019",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NzRxbTZjcG82a3EzMGI5ZzZncDMyYjlrYzhwajJiOW82NHBqMGI5azZjc202cDM1Y29wajRwMWk2ayBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1554015601.000100",
+        "bot_id": "B4SJBP2L8"
+    }
+]

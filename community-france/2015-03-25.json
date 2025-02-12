@@ -1,0 +1,54 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U03FC4NE1",
+        "text": "<@U03FC4NE1> a rejoint le canal",
+        "type": "message",
+        "ts": "1427319961.000002"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U03FC4NE1",
+        "purpose": "La team CogLab de Lyon représentée par l'association Estigma et La Paillasse Saone",
+        "text": "a défini la description du canal : La team CogLab de Lyon représentée par l'association Estigma et La Paillasse Saone",
+        "type": "message",
+        "ts": "1427319961.000003"
+    },
+    {
+        "user": "U03FC4NE1",
+        "type": "message",
+        "ts": "1427319968.000004",
+        "text": "<https:\/\/hackpad.com\/OenoLab-CogLab-laboratoire-sensoriel-BaShwQrdQ21>",
+        "team": "T03FC4NDZ",
+        "user_team": "T03FC4NDZ",
+        "source_team": "T03FC4NDZ",
+        "user_profile": {
+            "avatar_hash": "7ce8fbc12b73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-01-27\/3522174799_7ce8fbc12b7351a6a2b3_72.jpg",
+            "first_name": "CogLab",
+            "real_name": "CogLab NeuroTechX Paris",
+            "display_name": "coglab",
+            "team": "T03FC4NDZ",
+            "name": "coglab",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xVpU5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/hackpad.com\/OenoLab-CogLab-laboratoire-sensoriel-BaShwQrdQ21"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

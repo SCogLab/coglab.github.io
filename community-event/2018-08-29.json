@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "more_showtext": "Show more",
+                "more_hidetext": "Show less",
+                "fallback": "Event created: La Paillasse - Soirée Open Résidence: <!date^1536166800^{date_short_pretty} from {time}|September 5th, 2018 from 7:00 PM> to <!date^1536177600^{time}|10:00 PM GMT+0200>",
+                "text": "<!date^1536166800^{date_short_pretty} from {time}|September 5th, 2018 from 7:00 PM> to <!date^1536177600^{time}|10:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=La+Paillasse%2C+226+Rue+Saint-Denis%2C+75002+Paris%2C+France|La Paillasse, 226 Rue Saint-Denis, 75002 Paris, France>",
+                "pretext": "New calendar event created",
+                "title": "La Paillasse - Soirée Open Résidence",
+                "more": "[Open Résidence - Soirée de présentation]\n\nAprès deux premières années riches de projets, de rencontres et de succès, :tada::tada::tada: La Paillasse est fière de vous annoncer le lancement officiel de la troisième saison de l’#OpenResidence !\n\nPour l'occasion venez poser vos questions et nous rencontrer lors de la soirée de présentation du programme.\n\nL’événement aura lieu le mardi 5 septembre à 19h à La Paillasse.\n\nUn cocktail sera prévu, n'hésitez pas néanmoins à apporter boissons et nourriture.\n\nL’entrée est gratuite, il suffit de s’inscrire sur l’événement Facebook.\n\nNous vous attendons nombreux !\n\n--------------\nVous trouverez tous les détails concernant l'Open Résidence sur le site : <http:\/\/bit.ly\/openR_S3_LP>\nEnfin si cela n’est pas encore fait, vous pouvez rejoindre le groupe Facebook de l'#Openresidence pour poser toutes vos questions à l'équipe de La Paillasse et discuter entre vous : <https:\/\/www.facebook.com\/groups\/1775881929355151\/>\n\n<https:\/\/www.facebook.com\/events\/636420803410742\/>",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=M2Jzc2phY2xiNWFxbHI2cjdhaXFmcnFudmggc2IzcG11OXRvMWRjazdqaGFucHJ2Y2Rxc29AZw",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext",
+                    "more"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1535572391.000100",
+        "bot_id": "B4SJBP2L8"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "Event cancelled: Autispace - LabVR StoryCode: <!date^1536168600^{date_short_pretty} from {time}|September 5th, 2018 from 7:30 PM> to <!date^1536177600^{time}|10:00 PM GMT+0200>",
+                "text": "<!date^1536168600^{date_short_pretty} from {time}|September 5th, 2018 from 7:30 PM> to <!date^1536177600^{time}|10:00 PM GMT+0200> at <https:\/\/maps.google.com\/maps?q=Le+Cargo%2C+157+Boulevard+Macdonald%2C+75019+Paris%2C+France|Le Cargo, 157 Boulevard Macdonald, 75019 Paris, France>",
+                "pretext": "Calendar event was cancelled",
+                "title": "Autispace - LabVR StoryCode",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NHA5YmEybmducWg0Z3NjaHF1ajBxcnB1Z2JfMjAxODA5MDVUMTczMDAwWiBzYjNwbXU5dG8xZGNrN2poYW5wcnZjZHFzb0Bn",
+                "color": "7bd148",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1535572392.000100",
+        "bot_id": "B4SJBP2L8"
+    }
+]
